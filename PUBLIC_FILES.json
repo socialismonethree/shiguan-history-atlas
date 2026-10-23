@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.7.0",
-  "runtimeFiles": 110,
-  "source": "编年长卷：19个中国时期与8个世界区域扩展，保留原有知识与19组配色；完整性与来源边界见CONTENT_GUIDE.md",
+  "websiteVersion": "0.7.1",
+  "runtimeFiles": 112,
+  "source": "导航织锦暗纹与十九朝代配色优化；历史数据保持0.7.0版",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -24,8 +24,16 @@
       "sha256": "fe0c97f09ec2777ddde58a8908965001e4e92b0b53541f1ba293bd49548917c8"
     },
     {
+      "path": "docs/assets/brocade.svg",
+      "sha256": "7133fea8ecf38e3f6ab71d306ce573399d35e2bba3a376f88016d6447b579f6a"
+    },
+    {
       "path": "docs/assets/ne_110m_land.geojson",
       "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9"
+    },
+    {
+      "path": "docs/assets/themes/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
       "path": "docs/assets/themes/assyria.jpg",
@@ -141,11 +149,11 @@
     },
     {
       "path": "docs/era-palettes.js",
-      "sha256": "c448272563a8284791f9a4349c228d45e7e1bb8b3a9e9d2ea4da495eb4e48092"
+      "sha256": "662b3551fa4ce83a1ca57372e340bc89d29ab02640886b196bebed234b16a1f4"
     },
     {
       "path": "docs/exhibition.css",
-      "sha256": "fe3d39e45385f48eb227aefecaecdb1a986dee4c343df0d6093e0dfbfe8fc4dd"
+      "sha256": "855e167a89c2be4df62a3578eb372b6fd503fdf8f70cd86d806baa748d90162e"
     },
     {
       "path": "docs/expanded/00-sources.js",
@@ -421,7 +429,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "77561104d1765a2e99f49ab9d9faf3447e3d6eb57273193758c9e91f6125bfd4"
+      "sha256": "ff0d92b2a1f536b8345e05ee7626b1dadc0bdced91c2786285565be931a47c66"
     },
     {
       "path": "docs/knowledge.css",
