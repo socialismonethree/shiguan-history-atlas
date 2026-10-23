@@ -7,3 +7,28 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}.civilization-card:hover{transform:none}.civilization-card:hover>img{transform:none}}
 #chapterReading{scroll-margin-top:28px}.culture-notes p{font-size:13px}.article p{font-size:14px}.sidebar nav button{font-size:12px}.hero-tagline{font-size:19px}.source-row p{font-size:11px}@media(max-width:760px){.culture-notes p{font-size:12px}.article p{font-size:13px}.sidebar nav button{font-size:10px}.hero-tagline{font-size:16px}}
 @media(max-width:760px){body[data-view="cultures"] .hero-content h2{font-size:clamp(28px,8.5vw,36px);letter-spacing:2px}}
+
+
+/* 0.6.1: era-specific materials, surfaces and wayfinding. */
+body{--era-surface:color-mix(in srgb,var(--theme-paper) 55%,white);--era-rule:color-mix(in srgb,var(--accent) 23%,var(--theme-paper));--era-muted:color-mix(in srgb,var(--deep) 72%,var(--theme-paper))}
+.sidebar{background:linear-gradient(160deg,color-mix(in srgb,var(--deep) 86%,var(--accent)),var(--deep) 75%)}
+.panel,dialog,#searchResults,.chapter-card{background:var(--card)}
+.era-intro,.culture-notes,.feature-card,.stat,.time-control,.map-wrap,.map-slider,.notice{background:var(--wash)}
+.topbar,.path-label i{border-color:var(--line)}
+.heading p,.caption,.source-row p,.event-item small,.path-label,.path-label small,.map-caption,.source-links small,.status-line,.hero-geo{color:var(--muted)}
+.hero-geo{color:#ddd7c9}.eyebrow span{color:var(--accent);border-color:var(--line)}
+.article p,dialog p,.culture-notes p,.feature-card p{color:var(--muted)}
+.periods button:before{content:"";position:absolute;inset:0 0 auto;height:3px;background:var(--period-accent,var(--accent));opacity:.8}
+.periods .era-mark{opacity:1}.periods button.active:before{height:4px;opacity:1;background:var(--gold)}
+.periods small{color:var(--muted)}
+.ribbon-stop:not(.active) strong,.ribbon-stop:not(.active)>span{color:var(--period-accent,var(--accent))}
+.ribbon-stop:not(.active) i{background:var(--period-accent,var(--accent))}
+.palette-caption{font-family:"Songti SC",serif;font-size:11px;letter-spacing:2px;color:#f3ebdc;border-left:1px solid var(--gold);padding-left:12px;white-space:nowrap}
+.hero-kicker{flex-wrap:wrap;row-gap:8px}
+.hero-primary,.primary,.tabs .active{background:var(--accent);border-color:var(--accent);color:#fff}
+.hero-primary:hover,.primary:hover,.tabs .active:hover{background:var(--deep);color:#fff}
+.event-bar:not(.selected){background:var(--wash);border-color:var(--line);color:var(--accent)}
+.event-bar.world:not(.selected){background:color-mix(in srgb,var(--gold) 22%,var(--theme-paper));color:var(--deep)}
+button:focus-visible,a:focus-visible,input:focus-visible{outline-color:var(--accent)}
+#lightbox{background:var(--deep)}
+@media(max-width:760px){.palette-caption{font-size:9px;letter-spacing:1px;padding-left:8px}.hero-kicker{column-gap:8px}}

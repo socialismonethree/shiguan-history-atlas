@@ -1,11 +1,11 @@
 {
-  "websiteVersion": "0.6",
-  "runtimeFiles": 39,
-  "source": "原已发布静态网站，未改动知识内容和交互",
+  "websiteVersion": "0.6.1",
+  "runtimeFiles": 40,
+  "source": "19个中国历史时期独立配色；知识数据与既有交互保留",
   "files": [
     {
       "path": "docs/app.js",
-      "sha256": "48669d4d6e618bfaa5d7a296b90cddc3372bf0fe810b423e7914dcd15a53039f"
+      "sha256": "aed2f091dc990d58a5e304e5080635eeaa89333aa2a94f624c1d847b40798afd"
     },
     {
       "path": "docs/assets/README.md",
@@ -129,7 +129,7 @@
     },
     {
       "path": "docs/exhibition.css",
-      "sha256": "799207c24d3a93c866ecc5c16ac7c1ff5c42bc67d5d8cf1c1e793ec4d91730ab"
+      "sha256": "fe3d39e45385f48eb227aefecaecdb1a986dee4c343df0d6093e0dfbfe8fc4dd"
     },
     {
       "path": "docs/history-data.json",
@@ -137,7 +137,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "539cf1436fbf644e0024bd90abcebce3373753b8edd1ae6609941256d7f8238a"
+      "sha256": "fe7f8efe62919a08d64579b4a3c072acc9303495ca9b44ba579416f94293052d"
     },
     {
       "path": "docs/knowledge.css",
@@ -158,6 +158,10 @@
     {
       "path": "docs/world-chronicle.js",
       "sha256": "72171fbeee69d324b46dcfbb7c6646fa40584a09254bd1dffb6b07ea325f6650"
+    },
+    {
+      "path": "docs/era-palettes.js",
+      "sha256": "c448272563a8284791f9a4349c228d45e7e1bb8b3a9e9d2ea4da495eb4e48092"
     }
   ]
 }
