@@ -1,0 +1,163 @@
+{
+  "websiteVersion": "0.6",
+  "runtimeFiles": 39,
+  "source": "原已发布静态网站，未改动知识内容和交互",
+  "files": [
+    {
+      "path": "docs/app.js",
+      "sha256": "48669d4d6e618bfaa5d7a296b90cddc3372bf0fe810b423e7914dcd15a53039f"
+    },
+    {
+      "path": "docs/assets/README.md",
+      "sha256": "fe0c97f09ec2777ddde58a8908965001e4e92b0b53541f1ba293bd49548917c8"
+    },
+    {
+      "path": "docs/assets/ne_110m_land.geojson",
+      "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9"
+    },
+    {
+      "path": "docs/assets/themes/assyria.jpg",
+      "sha256": "6b5ee1cc8b5360cdff93c89dc1d5ae9a95d992ced0ff7879440e9d5e29cb1e53"
+    },
+    {
+      "path": "docs/assets/themes/eastern.jpg",
+      "sha256": "c65e67100dd258f73718aff376cf57cea31b1f126e92e93c5da44298d3eb8a6b"
+    },
+    {
+      "path": "docs/assets/themes/egypt-middle.jpg",
+      "sha256": "d92907cd4092ddfe57de17e3ba24e368b83895cf7168673f24bde879368e2bd5"
+    },
+    {
+      "path": "docs/assets/themes/egypt-new.jpg",
+      "sha256": "40c0a28f58ec4f0dddbdacc422c29767da228ec6bd368da85efd590df344573b"
+    },
+    {
+      "path": "docs/assets/themes/five-dynasties.jpg",
+      "sha256": "8842dcdf35d5cb589042f3ac7e0f1b81731433346cfe77bf9f1770ce43d7ccd4"
+    },
+    {
+      "path": "docs/assets/themes/five-song.jpg",
+      "sha256": "7b80412895d9877f8835738d39f96d8ca2af23d2d60be5b90a9ce4edb49d4f94"
+    },
+    {
+      "path": "docs/assets/themes/greece.jpg",
+      "sha256": "5d93340a08e465fb4436938d62b064387da48ea3e932b9ba37c7ac24698c57d8"
+    },
+    {
+      "path": "docs/assets/themes/han.jpg",
+      "sha256": "f5cf263ec4570b61aecdafa086d2e27f772ff3a4d5af41944dcf13814f1cf297"
+    },
+    {
+      "path": "docs/assets/themes/hellenism.jpg",
+      "sha256": "7ee2a6012c73a680e48037c68491f39a420b377d2005865afcc221d69764ead7"
+    },
+    {
+      "path": "docs/assets/themes/medieval-china.jpg",
+      "sha256": "32e81f7f8f897815d622d8fd77443a63a3990564921fbc1feff76892d67be79f"
+    },
+    {
+      "path": "docs/assets/themes/ming.jpg",
+      "sha256": "3680a50588dea56d5572f78d9bcc83ff4b83b7af83537ae849241816135f4760"
+    },
+    {
+      "path": "docs/assets/themes/persia.jpg",
+      "sha256": "9e64f2c45c1799ecd491f24993ddd1c5a4766a5d774c8d4119ee8bf143f13020"
+    },
+    {
+      "path": "docs/assets/themes/qin.jpg",
+      "sha256": "02cac8aeb0c2b5d7b5695d130be41ac94217ac8f53f32d301075196df1517eee"
+    },
+    {
+      "path": "docs/assets/themes/qing.jpg",
+      "sha256": "3169bd310dc552890a09b19b71a50abdcd0fe10dff837d71aada31e178a2def2"
+    },
+    {
+      "path": "docs/assets/themes/shang.jpg",
+      "sha256": "30cc89889c757a310ce6c22183d356d8c8178f7128435bd0fb13da963e6a6cc0"
+    },
+    {
+      "path": "docs/assets/themes/sui-tang.jpg",
+      "sha256": "8d169077c0d265c1041124f041276c5351592a1f82cd3274d63702e66e9728be"
+    },
+    {
+      "path": "docs/assets/themes/sui.jpg",
+      "sha256": "dbe5e10da3a6890379e48697864fcd2b3440765536b36de7c699e8ddda9eb0af"
+    },
+    {
+      "path": "docs/assets/themes/xia.jpg",
+      "sha256": "18faf4a3fd8083efc606c6cbc2f9754bc1597b27dff07463b161bf47d8cab523"
+    },
+    {
+      "path": "docs/assets/themes/xin.jpg",
+      "sha256": "5af9f81acc495dd10c0723c6856664aa269a11af479bc4cb7f517fa0b75b7741"
+    },
+    {
+      "path": "docs/assets/themes/yuan.jpg",
+      "sha256": "0672ea9df6161f66f2580909f787fb6399991c0b12d38f3210deb3d320a5134b"
+    },
+    {
+      "path": "docs/assets/themes/zhou.jpg",
+      "sha256": "4afab635f2e09cff660c70549b38319c39c9d7588b6182530b59a375e1b2aa07"
+    },
+    {
+      "path": "docs/book-data.js",
+      "sha256": "02c1829650e90ee32b646c13ba2d9d76dc5bca0715033f49a52f79e67a9b89a1"
+    },
+    {
+      "path": "docs/book-data.json",
+      "sha256": "ab5fa410f990500a889a376355b0944deb0c66a7466eb1be348686f39bc4c634"
+    },
+    {
+      "path": "docs/book.css",
+      "sha256": "6db430de775ee3df2b6e6771a5f0e60a8b29fbf220fec059748300ca969c46ed"
+    },
+    {
+      "path": "docs/book.js",
+      "sha256": "8c7b333a4bbc608ddeb4084ecd0c63fd5d2f929f68f0016ae76a73fb35633432"
+    },
+    {
+      "path": "docs/chronicle.css",
+      "sha256": "f112f839a432ddf546b05ad014b1d1e95ae09a267338fa92931157901f054822"
+    },
+    {
+      "path": "docs/chronicle.js",
+      "sha256": "97d5d8998b4ef3f231823ba70617d8ed615ab6144c7dec019d2df301d42c67b3"
+    },
+    {
+      "path": "docs/data.js",
+      "sha256": "ee602407804b4eb47a51b7b067d46636ca4b8694de4c748e06de4cbfcca8c836"
+    },
+    {
+      "path": "docs/exhibition.css",
+      "sha256": "799207c24d3a93c866ecc5c16ac7c1ff5c42bc67d5d8cf1c1e793ec4d91730ab"
+    },
+    {
+      "path": "docs/history-data.json",
+      "sha256": "ce78abf9e4279313304b549ff1b6a530f613298aa98b3ba1737b50942c10e911"
+    },
+    {
+      "path": "docs/index.html",
+      "sha256": "539cf1436fbf644e0024bd90abcebce3373753b8edd1ae6609941256d7f8238a"
+    },
+    {
+      "path": "docs/knowledge.css",
+      "sha256": "d74dc65bc5f9a272844cc0a47a21a9796621b26a1f1fde1284ff720d9c31284f"
+    },
+    {
+      "path": "docs/land.js",
+      "sha256": "42b122e3b51f2999701824a89d0db2440c10d48901faf57ff54cbc8fa51660ed"
+    },
+    {
+      "path": "docs/style.css",
+      "sha256": "15f545d9150d5d6fd3fbe1a8ae046010fb108769515147626daa1347127a3b7f"
+    },
+    {
+      "path": "docs/world-chronicle.css",
+      "sha256": "1c07d5ef00a16bbf518f808615b3e4bfa0c2e9f1643c2686c3defd8a45ce9082"
+    },
+    {
+      "path": "docs/world-chronicle.js",
+      "sha256": "72171fbeee69d324b46dcfbb7c6646fa40584a09254bd1dffb6b07ea325f6650"
+    }
+  ]
+}
