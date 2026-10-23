@@ -1,0 +1,30752 @@
+window.HISTORY_DATA = {
+  "schemaVersion": 2,
+  "contentVersion": "0.6.0",
+  "reviewedAt": "2026-10-23",
+  "scopeNote": "夏至清的中国纵向主干与世界八区域框架。世界事件按发生年代、人物按主要活动时段与中国对照；部分早期社群缺少可考人名，不强行补齐具名人物。约前2070—1912为展示窗口。",
+  "periods": [
+    {
+      "id": "xia",
+      "title": "夏与二里头",
+      "start": -2070,
+      "end": -1600,
+      "label": "约前2070—前1600年",
+      "focus": -1700,
+      "subtitle": "早期国家 · 土与铜",
+      "summary": "传世文献把夏置于商之前；二里头遗存呈现早期都邑、工艺分工和资源网络。两类材料须分别辨认，文化与王朝的对应及具体年代仍有讨论。",
+      "sourceIds": [
+        "xia",
+        "erlitoudate",
+        "cn-xia-chron"
+      ],
+      "subperiods": [
+        {
+          "name": "夏代参考框架",
+          "start": -2070,
+          "end": -1600,
+          "note": "传统王朝年表约数，非逐王可证年代。"
+        },
+        {
+          "name": "二里头遗址测年框架",
+          "start": -1750,
+          "end": -1530,
+          "note": "社科院2022年介绍的约数范围；跨越本页王朝参考终点，不视作夏的同义词。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "文献与王朝",
+          "body": "禹、启等人物见于后世文献传统；尚不能像晚商一样用同时代文字逐项核对。"
+        },
+        {
+          "title": "都邑与生计",
+          "body": "伊洛地区大型聚落汇聚人群和资源，粟作农业、家畜饲养及手工业构成物质基础。"
+        },
+        {
+          "title": "工艺与权力",
+          "body": "青铜、玉石与陶器的制作和流通，是观察技术分工与社会等级的入口。"
+        }
+      ],
+      "note": "夏起讫是本站参考年表；二里头与夏的对应属于学术问题。",
+      "placeId": "place-xia",
+      "thread": "夏的主线由禹启与世袭传说、王朝兴衰记忆和二里头考古窗口组成。展示中始终区分后世文献与地下遗存，不把传说情节定为确年。",
+      "keyPersonIds": [
+        "yu",
+        "qi",
+        "v5-shaokang",
+        "v5-xiajie"
+      ]
+    },
+    {
+      "id": "shang",
+      "title": "商",
+      "start": -1600,
+      "end": -1046,
+      "label": "前1600—前1046年",
+      "focus": -1200,
+      "subtitle": "甲骨与青铜 · 王都的声音",
+      "summary": "商代框架包含早商和晚商；殷墟的王室建筑、墓葬、青铜器和甲骨文，使政治、祭祀与工艺可由文字和实物相互参照。晚商不能代表商代全部地区与人群。",
+      "sourceIds": [
+        "yin",
+        "zhou"
+      ],
+      "subperiods": [
+        {
+          "name": "早商及中期",
+          "start": -1600,
+          "end": -1300,
+          "note": "概括分段，不把所有王都迁徙精确到此界。"
+        },
+        {
+          "name": "晚商殷墟阶段",
+          "start": -1300,
+          "end": -1046,
+          "note": "遗产档案采用的约数范围。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "王都与祭祀",
+          "body": "殷墟有宫殿宗庙、王陵等遗存，反映王室组织与祭祀活动。"
+        },
+        {
+          "title": "文字与社会",
+          "body": "甲骨刻辞记录特定王室视角下的占卜活动；不能当成全民生活的完整档案。"
+        },
+        {
+          "title": "青铜与玉",
+          "body": "分范铸铜及玉器制作高度发展，器物形制与纹样需放回礼仪语境。"
+        }
+      ],
+      "placeId": "place-shang",
+      "thread": "从商汤建国、盘庚迁殷到晚商王室活动，商史逐渐出现丰富的文字和考古证据。甲骨、青铜作坊与妇好墓让制度、战争和工艺互相印证。",
+      "keyPersonIds": [
+        "v5-tang",
+        "v5-pangeng",
+        "v5-wuding",
+        "fuhao",
+        "v5-dixin",
+        "v5-yiyin"
+      ]
+    },
+    {
+      "id": "zhou",
+      "title": "西周",
+      "start": -1046,
+      "end": -771,
+      "label": "前1046—前771年",
+      "focus": -900,
+      "subtitle": "礼器与封邦 · 钟鼎之间",
+      "summary": "周取代商后，以王室与各封国关系构成政治网络。礼仪青铜器兼有使用、记事和身份表达功能；王室权威及区域关系经历变化，不能把礼制理解为全社会静止的规则。",
+      "sourceIds": [
+        "zhou",
+        "cn-zhou-chron"
+      ],
+      "subperiods": [
+        {
+          "name": "周初与封国秩序",
+          "start": -1046,
+          "end": -900,
+          "note": "概括展示段，并非正式学术分期。"
+        },
+        {
+          "name": "西周后期",
+          "start": -900,
+          "end": -771,
+          "note": "概括展示段；具体器物依自身年代著录。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "王室与封国",
+          "body": "封国向周王室承担义务，周王权通过亲缘、礼仪和政治关系运行。"
+        },
+        {
+          "title": "社会与资源",
+          "body": "礼器制作需要金属资源、工匠和组织；贵族器物只是社会的一部分。"
+        },
+        {
+          "title": "器形与铭文",
+          "body": "器形、组合与铭文共同帮助研究礼仪和政治秩序，单凭纹样无法复原整个时代。"
+        }
+      ],
+      "note": "前1046年为采用口径，周初起年存在讨论。",
+      "placeId": "place-zhou",
+      "thread": "周初通过克商、东征、营洛与分封建立统治网络，随后王室面临财政、战争和内部政治压力。共和、宣王整顿与两周之际构成后段转折。",
+      "keyPersonIds": [
+        "v5-wenwang",
+        "wuwang",
+        "v5-zhougong",
+        "v5-chengwang",
+        "v5-liwang",
+        "pingwang",
+        "v5-xuanwang",
+        "v5-youwang"
+      ]
+    },
+    {
+      "id": "eastern",
+      "title": "春秋战国",
+      "start": -770,
+      "end": -221,
+      "label": "前770—前221年",
+      "focus": -344,
+      "subtitle": "列国与诸子 · 铜铁交响",
+      "summary": "周王室东迁后，诸侯竞争与兼并改变政治格局。春秋战国的分界存在多种口径，铁器、改革、思想与工艺共同构成这一长时段，不宜只用七雄战争概括。",
+      "sourceIds": [
+        "zhou",
+        "measure",
+        "cn-zhou-chron"
+      ],
+      "subperiods": [
+        {
+          "name": "春秋",
+          "start": -770,
+          "end": -476,
+          "note": "本站采用前476年为春秋终点。"
+        },
+        {
+          "name": "战国",
+          "start": -475,
+          "end": -221,
+          "note": "前475为采用口径，前403等也是常见起点。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "列国与改革",
+          "body": "东周王室权威减弱，列国扩大治理能力；秦国改革可从量器等实物考察。"
+        },
+        {
+          "title": "生产与交换",
+          "body": "青铜和铁器共存，容量标准联系粮食计量、赋税与商品交换。"
+        },
+        {
+          "title": "地域与思想",
+          "body": "列国有不同传统和文化网络，诸子思想及器物风格的差异应并置呈现。"
+        }
+      ],
+      "placeId": "place-eastern",
+      "thread": "王室东迁后，诸侯争霸与卿族崛起逐步改变政治格局。改革、兼并战争和士的流动相互交织，诸子思想为秩序、生活与治理提出不同答案。",
+      "keyPersonIds": [
+        "pingwang",
+        "v5-qihuangong",
+        "v5-guanzhong",
+        "v5-jinwengong",
+        "v5-goujian",
+        "v5-kongzi",
+        "v5-laozi",
+        "v5-mozi",
+        "v5-mengzi",
+        "v5-xunzi",
+        "shangyang",
+        "v5-zhangyi",
+        "v5-zhaowuling",
+        "v5-baiqi",
+        "v5-quyuan",
+        "v5-hanfei",
+        "v5-zhuangzi",
+        "v5-sunwu",
+        "v5-wuqi",
+        "v5-sunbin"
+      ]
+    },
+    {
+      "id": "qin",
+      "title": "秦",
+      "start": -221,
+      "end": -207,
+      "label": "前221—前207年",
+      "focus": -221,
+      "subtitle": "玄黑与朱砂 · 帝国初声",
+      "summary": "前221年秦完成兼并六国，并推广制度与标准。咸阳政治中心、量器诏文和秦始皇陵的陶俑共同呈现制度组织、工艺与王权表达；短暂国祚背后仍有复杂区域差异。",
+      "sourceIds": [
+        "measure",
+        "qin-tomb"
+      ],
+      "subperiods": [
+        {
+          "name": "统一后的秦帝国",
+          "start": -221,
+          "end": -207,
+          "note": "本站以秦政权于前207年结束为期末；部分年表用前206。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "统一与治理",
+          "body": "兼并之后，推广度量衡等标准是治理的一部分，不能把一项制度当作统一的唯一原因。"
+        },
+        {
+          "title": "劳作与组织",
+          "body": "帝陵和陶俑体现工匠分工及大规模资源调动；王权工程并不代表普通人的全部生活。"
+        },
+        {
+          "title": "色彩与材料",
+          "body": "陶俑和青铜器应区分出土状态与原有彩绘；玄黑朱砂属于本站选取的氛围线索。"
+        }
+      ],
+      "note": "秦期末前207/前206存在年表口径差异；展厅以遗存为证，不重建未经证实的精确军阵疆域。",
+      "placeId": "place-qin",
+      "thread": "秦完成兼并后，把皇帝制度、郡县和共同标准推广到更大范围，边疆战争与工程征发又扩大治理压力。秦末起义与宫廷冲突共同推动帝国迅速瓦解。",
+      "keyPersonIds": [
+        "qinshi",
+        "v5-lisi",
+        "v5-mengtian",
+        "v5-chensheng",
+        "v5-xiangyu",
+        "v5-zhaogao",
+        "liubang",
+        "v5-wuguang",
+        "v5-huhai"
+      ]
+    },
+    {
+      "id": "han",
+      "title": "西汉",
+      "start": -206,
+      "end": 9,
+      "label": "前206—9年",
+      "focus": -100,
+      "subtitle": "漆与锦 · 长安向西",
+      "summary": "西汉经历秦汉之际的战争和秩序重建，长安成为政治与交通中心。汉武帝时代的政策、史学与中亚联系留下丰富线索；边疆交流由多个参与者和长期过程构成。",
+      "sourceIds": [
+        "han",
+        "cn-han-chron"
+      ],
+      "subperiods": [
+        {
+          "name": "秦汉之际与前期",
+          "start": -206,
+          "end": -141,
+          "note": "前206为汉王纪年口径；刘邦称帝为前202。"
+        },
+        {
+          "name": "汉武帝至西汉末",
+          "start": -141,
+          "end": 9,
+          "note": "概括展示段，内部有不同政治阶段。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "政治与官僚",
+          "body": "汉在秦制基础上调整统治，儒家经典逐渐成为官僚文化的重要依据。"
+        },
+        {
+          "title": "长安与交流",
+          "body": "都城、市场和中亚联系连接宫廷与更广的资源网络；丝路不是一条恒定单线。"
+        },
+        {
+          "title": "史学与随葬",
+          "body": "《史记》与陶塑、漆器等不同材料，分别呈现知识生产和丧葬生活想象。"
+        }
+      ],
+      "placeId": "place-han",
+      "thread": "西汉从楚汉战争后的重建和休养恢复起步，经历中央与诸侯的冲突、武帝扩张和财政调整，再转向昭宣治理。晚期社会危机与外戚政治为改朝创造条件。",
+      "keyPersonIds": [
+        "v5-xiangyu",
+        "liubang",
+        "v5-lvhou",
+        "v5-wendi",
+        "v5-jingdi",
+        "wudi",
+        "v5-zhangqian",
+        "v5-weiqing",
+        "v5-huoqubing",
+        "v5-dongzhongshu",
+        "simaqian",
+        "v5-sanghongyang",
+        "v5-huoguang",
+        "wangmang",
+        "v5-xiaohe",
+        "v5-zhangliang",
+        "v5-hanxin"
+      ]
+    },
+    {
+      "id": "xin",
+      "title": "新与两汉之际",
+      "start": 9,
+      "end": 25,
+      "label": "9—25年",
+      "focus": 14,
+      "subtitle": "古制与新币 · 秩序转折",
+      "summary": "王莽建立新朝后多次改币，币名、形制和面值折射政治改革与经济困难。新末战争之后刘秀建立东汉；9—25年是衔接框架，不能说王莽一直统治到25年。",
+      "sourceIds": [
+        "cn-xin-coins",
+        "cn-han-chron",
+        "cn-1-500"
+      ],
+      "subperiods": [
+        {
+          "name": "新朝",
+          "start": 9,
+          "end": 23,
+          "note": "王莽新朝。"
+        },
+        {
+          "name": "新末与更始政权等",
+          "start": 23,
+          "end": 25,
+          "note": "并立和战争的过渡阶段，非新朝延续。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "改朝与古制",
+          "body": "王莽以新国号取代西汉，改革既涉及政治表达，也涉及社会资源分配。"
+        },
+        {
+          "title": "币制与流通",
+          "body": "频繁改变货币名称、形制和比价使市场承受压力；不能只凭一枚精美钱币判断经济繁荣。"
+        },
+        {
+          "title": "篆书与工艺",
+          "body": "货泉、货布等铜钱形制多样，文字工整，可将审美与货币制度分别赏看。"
+        }
+      ],
+      "placeId": "place-xin",
+      "thread": "王莽以改制回应西汉末年的危机，土地与钱币方案却在执行中遭遇困难。饥荒、起义与反莽武装发展，经过昆阳和长安失守进入两汉之际的重组。",
+      "keyPersonIds": [
+        "wangmang",
+        "v5-fanchong",
+        "v5-liuxuan",
+        "liuxiu"
+      ]
+    },
+    {
+      "id": "eastern-han",
+      "title": "东汉",
+      "start": 25,
+      "end": 220,
+      "label": "25—220年",
+      "focus": 100,
+      "subtitle": "画像与楼阁 · 洛阳万象",
+      "summary": "刘秀重建汉政权并以洛阳为中心。田庄与区域开发、纸张工艺、佛教译介和丰富明器并行发展。东汉后期政治危机走向战争，不能将近两百年压缩成末年的动乱。",
+      "sourceIds": [
+        "han",
+        "cn-han-chron",
+        "cn-1-500"
+      ],
+      "subperiods": [
+        {
+          "name": "重建与发展",
+          "start": 25,
+          "end": 184,
+          "note": "为阅读方便的概括分段，不表示此前无社会矛盾。"
+        },
+        {
+          "name": "东汉末年",
+          "start": 184,
+          "end": 220,
+          "note": "黄巾以后到汉末的常用概括。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "洛阳与政治",
+          "body": "东汉以洛阳为都城，中央与地方、宫廷与官僚的关系在长期内变化。"
+        },
+        {
+          "title": "田庄与技术",
+          "body": "田庄经济、南方开发与纸张生产提供社会经济线索；蔡伦不是纸张此前绝不存在的证明。"
+        },
+        {
+          "title": "译介与明器",
+          "body": "安世高在洛阳的译介活动与陶楼等随葬模型，分别打开知识交流和物质生活的窗口。"
+        }
+      ],
+      "placeId": "place-eastern-han",
+      "thread": "刘秀重建统一后，豪强、外戚与宦官的力量不断牵动朝政；西域往来和科技文献继续发展，晚期起义与军阀战争又推动统一秩序瓦解。",
+      "keyPersonIds": [
+        "liuxiu",
+        "banchao",
+        "cailun",
+        "zhangheng",
+        "bangu",
+        "wangchong",
+        "zhongjing",
+        "zhangjiao",
+        "anshigao",
+        "douxian",
+        "huatuo"
+      ]
+    },
+    {
+      "id": "three-kingdoms",
+      "title": "三国",
+      "start": 220,
+      "end": 280,
+      "label": "220—280年",
+      "focus": 240,
+      "subtitle": "江河与三都 · 并立的世界",
+      "summary": "魏、蜀、吴在不同年份建立并相继消亡，三国框架与西晋初期重叠。应把史书记载与后世小说形象分开，并通过农具、青瓷和城市遗存观察战争之外的生活。",
+      "sourceIds": [
+        "cn-three-chron",
+        "cn-division"
+      ],
+      "subperiods": [
+        {
+          "name": "魏",
+          "start": 220,
+          "end": 265,
+          "note": "传统年表记至265；岁末换算涉及266年。"
+        },
+        {
+          "name": "蜀汉",
+          "start": 221,
+          "end": 263,
+          "note": "刘备建立的汉政权。"
+        },
+        {
+          "name": "吴",
+          "start": 222,
+          "end": 280,
+          "note": "此处以孙权称吴王为起点；称帝为229。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "三国与晋",
+          "body": "三国不是同时开国、同时结束；西晋建立后，吴仍继续存在。"
+        },
+        {
+          "title": "经济与地域",
+          "body": "政权力图恢复生产，南方农业与水利发展；战乱影响存在区域差别。"
+        },
+        {
+          "title": "器物与记忆",
+          "body": "东吴青瓷和陶制农具展示物质生活，人物形象须区分史书与《三国演义》。"
+        }
+      ],
+      "placeId": "place-three-kingdoms",
+      "thread": "汉末战争逐渐形成魏蜀吴并立，屯田、地方开发与军需相互牵连；各国既交战也结盟，曹魏内部权力转移最终为晋的统一创造条件。",
+      "keyPersonIds": [
+        "caocao",
+        "yuanshao",
+        "caopi",
+        "liubei",
+        "sunquan",
+        "zhouyu",
+        "luxun",
+        "zhugeliang",
+        "simayi",
+        "guanyu"
+      ]
+    },
+    {
+      "id": "western-jin",
+      "title": "西晋",
+      "start": 265,
+      "end": 316,
+      "label": "265—316年",
+      "focus": 280,
+      "subtitle": "洛阳与青瓷 · 短暂一统",
+      "summary": "司马炎代魏建立晋朝，三国并立后出现短暂统一。皇室冲突和各地动荡削弱统治，北方多个政权兴起；青瓷与陶俑仍显示工艺和社会生活的延续。",
+      "sourceIds": [
+        "cn-jin-chron",
+        "cn-division"
+      ],
+      "subperiods": [
+        {
+          "name": "建晋至统一前",
+          "start": 265,
+          "end": 280,
+          "note": "传统年表265年十二月，公历跨至266。"
+        },
+        {
+          "name": "统一与动荡",
+          "start": 280,
+          "end": 316,
+          "note": "280年灭吴后统一，316年长安失守西晋结束。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "建国与一统",
+          "body": "司马炎代魏，晋随后灭吴；建朝与完成统一是两个不同节点。"
+        },
+        {
+          "title": "动荡与迁徙",
+          "body": "皇室争权、社会矛盾与战争促成人口流动，北方与南方的经历并不一致。"
+        },
+        {
+          "title": "陶瓷与陈设",
+          "body": "青瓷香熏、陶俑及动物模型反映工艺与生活想象，不能仅用政治衰亡概括艺术。"
+        }
+      ],
+      "note": "采用博物馆和大学年表常见265—316；265年十二月跨公历266年。",
+      "placeId": "place-western-jin",
+      "thread": "司马氏代魏并灭吴，短暂统一伴随田籍与官僚秩序重整；宗室战争与各地冲突、饥荒迁徙叠加，洛阳和长安先后失守，统一局面再度分裂。",
+      "keyPersonIds": [
+        "simayan",
+        "wangjun-jin",
+        "duyu",
+        "jiananfeng",
+        "simazhong",
+        "simaye"
+      ]
+    },
+    {
+      "id": "eastern-jin",
+      "title": "东晋与十六国",
+      "start": 304,
+      "end": 439,
+      "label": "304—439年",
+      "focus": 383,
+      "subtitle": "江左与北地 · 迁徙与交汇",
+      "summary": "十六国自304年前后展开，东晋自317年在江南延续晋统，两者并行且与南北朝初段重叠。人口流动、门阀政治、区域经济和书画发展共同构成时代面貌。",
+      "sourceIds": [
+        "cn-jin-chron",
+        "cn-division",
+        "cn-1-500"
+      ],
+      "subperiods": [
+        {
+          "name": "十六国",
+          "start": 304,
+          "end": 439,
+          "note": "习惯性总称，实际政权不止十六；并非一个统一国家。"
+        },
+        {
+          "name": "东晋",
+          "start": 317,
+          "end": 420,
+          "note": "317年称晋王、318年称帝，通常以317年起期。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "南北并行",
+          "body": "建康的东晋与北方各政权须并列，不能写成西晋之后全国只有东晋。"
+        },
+        {
+          "title": "迁徙与社会",
+          "body": "人口迁徙带来资源、技术和生活习惯的互动，也伴随战争与权力不平等。"
+        },
+        {
+          "title": "书画与器用",
+          "body": "王羲之、顾恺之等人的创作与青瓷、黑釉器物呈现多种文化层面。"
+        }
+      ],
+      "note": "页面范围304—439包括十六国全段；东晋自身为317—420。",
+      "placeId": "place-eastern-jin",
+      "thread": "北方多政权竞争与江南晋室并存，南渡人口和大族重塑江南社会；北伐、淝水之战与户籍调整相互交织，书法等文化实践也留下深远影响。",
+      "keyPersonIds": [
+        "sima-rui",
+        "wangdao",
+        "zuti",
+        "wangxizhi",
+        "huanwen",
+        "xiean",
+        "fujian",
+        "liuyuan",
+        "liuyu",
+        "taoyuanming",
+        "gukaizhi"
+      ]
+    },
+    {
+      "id": "north-south",
+      "title": "南北朝",
+      "start": 420,
+      "end": 589,
+      "label": "420—589年",
+      "focus": 494,
+      "subtitle": "石窟与南朝烟水 · 文化重组",
+      "summary": "南朝宋齐梁陈与北方诸政权并立，北魏起于386年的背景早于本页420年起点。改革、迁都、移民和佛教艺术推动文化交汇；分裂时代也有持续的生产与创造。",
+      "sourceIds": [
+        "cn-ns",
+        "cn-division",
+        "cn-500-1000",
+        "cn-1-500"
+      ],
+      "subperiods": [
+        {
+          "name": "南朝宋齐梁陈",
+          "start": 420,
+          "end": 589,
+          "note": "宋420—479、齐479—502、梁502—557、陈557—589。"
+        },
+        {
+          "name": "北魏及分裂后的北朝",
+          "start": 386,
+          "end": 581,
+          "note": "北魏386—534，后分东西魏，再有北齐北周；部分阶段互相重叠。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "政权与改革",
+          "body": "北魏迁都及孝文帝改革改变宫廷制度与文化表达，南北之间既竞争又交流。"
+        },
+        {
+          "title": "区域与生活",
+          "body": "农业、蚕桑与陶瓷发展具有地域差别；不同人群的服饰和居住习惯相互影响。"
+        },
+        {
+          "title": "佛教与艺术",
+          "body": "云冈、龙门等石窟关联王室、信仰和工匠网络，造像样式随地区与时期变化。"
+        }
+      ],
+      "placeId": "place-north-south",
+      "thread": "南方宋齐梁陈更替，北方从北魏统一走向分裂和重组；人口流动、田籍改革与文化交流持续展开，南北社会各有变化，最后由隋完成统一。",
+      "keyPersonIds": [
+        "liuyu",
+        "tuobatao",
+        "xiaowen",
+        "lichong",
+        "xiaoyan",
+        "houjing",
+        "chenbaxian",
+        "yuwenyong",
+        "jiasixie",
+        "zuchongzhi",
+        "yangjian",
+        "taoyuanming"
+      ]
+    },
+    {
+      "id": "sui",
+      "title": "隋",
+      "start": 581,
+      "end": 618,
+      "label": "581—618年",
+      "focus": 589,
+      "subtitle": "运河与新都 · 南北再相连",
+      "summary": "杨坚建立隋朝并于589年灭陈，重新整合南北。都城、制度和运河工程联系政治治理与物资运输；隋代工程有前代基础，也在后世持续改造，不能视作一次完成。",
+      "sourceIds": [
+        "cn-500-1000",
+        "cn-canal"
+      ],
+      "subperiods": [
+        {
+          "name": "建国与统一",
+          "start": 581,
+          "end": 589,
+          "note": "581年建隋，589年灭陈。"
+        },
+        {
+          "name": "统一后的隋",
+          "start": 589,
+          "end": 618,
+          "note": "运河网络与政治整合持续推进。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "统一与制度",
+          "body": "建朝与南北统一相隔数年；制度整合为唐代提供条件，但并非唐制全部始于隋。"
+        },
+        {
+          "title": "运河与经济",
+          "body": "运河把运输、赋税和粮食供给联系起来，建设同时需要大量劳力与组织。"
+        },
+        {
+          "title": "工程与遗存",
+          "body": "今天看到的运河及城市景观常叠加多个朝代，赏看时应区分年代层。"
+        }
+      ],
+      "placeId": "place-sui",
+      "thread": "隋在北周基础上建国并灭陈，整顿户籍、选官与都城交通；多段运河加强地区联系，大规模工程和战争也加重社会压力，最终陷入隋末群雄战争。",
+      "keyPersonIds": [
+        "yangjian",
+        "yangguang",
+        "yuwenkai",
+        "yangsu",
+        "limi",
+        "doujiande"
+      ]
+    },
+    {
+      "id": "tang",
+      "title": "唐",
+      "start": 618,
+      "end": 907,
+      "label": "618—907年",
+      "focus": 713,
+      "subtitle": "长安与敦煌 · 流动的盛景",
+      "summary": "唐在隋后建立，长安与洛阳汇聚来自不同地区的人群、物资和知识。诗歌、绘画、三彩与佛教艺术发展；安史之乱前后政治经济发生变化，盛唐审美不等于整个唐代。",
+      "sourceIds": [
+        "cn-tang",
+        "cn-500-1000",
+        "cn-smithsonian"
+      ],
+      "subperiods": [
+        {
+          "name": "唐前期",
+          "start": 618,
+          "end": 690,
+          "note": "展示段，内部包含太宗等不同统治阶段。"
+        },
+        {
+          "name": "武周",
+          "start": 690,
+          "end": 705,
+          "note": "武则天改国号周，置于唐代长时段并明确国号区别。"
+        },
+        {
+          "name": "复唐至安史之乱",
+          "start": 705,
+          "end": 763,
+          "note": "安史之乱755—763。"
+        },
+        {
+          "name": "中晚唐",
+          "start": 763,
+          "end": 907,
+          "note": "为展示方便的概括。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "都城与制度",
+          "body": "科举和官僚结构变化不等于门第影响立刻消失；政治资源仍有明显差别。"
+        },
+        {
+          "title": "市场与往来",
+          "body": "长安可见商旅、僧人和使节，多种语言与物质文化交汇。"
+        },
+        {
+          "title": "诗与工艺",
+          "body": "李白杜甫、书画、三彩和金属工艺提供不同入口；墓俑不能被当作所有人的日常衣着。"
+        }
+      ],
+      "placeId": "place-tang",
+      "thread": "唐初恢复秩序，武周与开元推动政治文化变化；安史之乱后财政、军政关系重组，藩镇与朝廷反复博弈，诗歌及交流仍活跃，晚唐战争再破旧局。",
+      "keyPersonIds": [
+        "liyuan",
+        "tang-taizong",
+        "weizheng",
+        "wuzetian",
+        "xuanzong",
+        "anlushan",
+        "guoziyi",
+        "yangyan",
+        "huangchao",
+        "xuanzang",
+        "jianzhen",
+        "wencheng",
+        "libai",
+        "dufu",
+        "baijuyi",
+        "tang-xianzong",
+        "tang-wuzong"
+      ]
+    },
+    {
+      "id": "five-dynasties",
+      "title": "五代十国",
+      "start": 907,
+      "end": 979,
+      "label": "907—979年",
+      "focus": 955,
+      "subtitle": "山川之间 · 从乱世到江南",
+      "summary": "唐亡之后中原五代相继、各地政权并立。五代止于960年，而十国中的北汉延续至979年；部分地方政权形成更早。战争之外，吴越佛教与工艺保留鲜明地域线索。",
+      "sourceIds": [
+        "cn-five-chron",
+        "cn-five-art"
+      ],
+      "subperiods": [
+        {
+          "name": "五代",
+          "start": 907,
+          "end": 960,
+          "note": "后梁、后唐、后晋、后汉、后周相继；页面常见946/947等终年口径需个案辨明。"
+        },
+        {
+          "name": "十国",
+          "start": 902,
+          "end": 979,
+          "note": "部分政权早于唐亡；“十国”为习惯总称。"
+        },
+        {
+          "name": "宋初收并阶段",
+          "start": 960,
+          "end": 979,
+          "note": "与北宋重叠，不是宋朝不存在。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "相继与并立",
+          "body": "中原五朝的接替顺序，与吴、吴越、南唐等政权的同时存在，是两种时间关系。"
+        },
+        {
+          "title": "地域与安宁",
+          "body": "战争频仍，但不同区域经历不同；江南地方治理与宗教投入留下物质见证。"
+        },
+        {
+          "title": "银简与佛塔",
+          "body": "钱镠银简和钱弘俶造塔，分别联系道教祈愿与佛教功德实践。"
+        }
+      ],
+      "placeId": "place-five-dynasties",
+      "thread": "唐末地方军事力量继续重组，中原五朝相继更替；南方诸国各有经营，辽也参与北方格局，最终宋逐步结束主要割据。",
+      "keyPersonIds": [
+        "zhuwen",
+        "licunxu",
+        "shijingtang",
+        "chairong",
+        "qianliu",
+        "qianhongchu",
+        "liyu",
+        "guowei",
+        "liuzhiyuan",
+        "zhaoguangyi"
+      ]
+    },
+    {
+      "id": "song-liao-xia-jin",
+      "title": "宋辽夏金",
+      "start": 916,
+      "end": 1279,
+      "label": "916—1279年",
+      "focus": 1120,
+      "subtitle": "城郭与草原 · 多中心时代",
+      "summary": "辽、宋、西夏、金相继形成并长期并立，政治关系不能排成单线王朝接力。城市、印刷、海贸、山水画、瓷器与各政权的宗教和文字传统，共同塑造多中心的历史。",
+      "sourceIds": [
+        "cn-liao",
+        "cn-xixia",
+        "cn-1000-1400"
+      ],
+      "subperiods": [
+        {
+          "name": "辽",
+          "start": 916,
+          "end": 1125,
+          "note": "以契丹建国起点；部分年表从907年阿保机成为可汗起计。"
+        },
+        {
+          "name": "北宋",
+          "start": 960,
+          "end": 1127,
+          "note": "宋政权前期。"
+        },
+        {
+          "name": "南宋",
+          "start": 1127,
+          "end": 1279,
+          "note": "宋政权南迁后的阶段。"
+        },
+        {
+          "name": "西夏",
+          "start": 1038,
+          "end": 1227,
+          "note": "以李元昊称帝为起点。"
+        },
+        {
+          "name": "金",
+          "start": 1115,
+          "end": 1234,
+          "note": "女真建立的金朝。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "并立与交往",
+          "body": "战争、议和与贸易交错，辽宋夏金各自制度不同，不以宋朝年表抹去其他政权。"
+        },
+        {
+          "title": "城市与知识",
+          "body": "宋代印刷、学校与海贸发展，社会资源和文化表达在地区与阶层间并不均等。"
+        },
+        {
+          "title": "多元艺术",
+          "body": "山水、青瓷与西夏陵等材料可并置，宫廷、宗教和市民器用各有语境。"
+        }
+      ],
+      "note": "本组从辽916年起，到南宋1279年结束；各政权起讫、重叠分别展示，北元与西辽另作后续扩展。",
+      "placeId": "place-song-liao-xia-jin",
+      "thread": "辽、宋、西夏、金先后建立并长期并立，战争与和议交替；改革、城市商业和文化同时发展，蒙古兴起后重组这一格局。",
+      "keyPersonIds": [
+        "yelv-abaoji",
+        "zhaokuangyin",
+        "xiaochuo",
+        "songzhenzong",
+        "liyuanhao",
+        "fanzhongyan",
+        "wanganshi",
+        "simaguang",
+        "bisheng",
+        "wanyanguda",
+        "wanyanyong",
+        "yuefei",
+        "zhaogou",
+        "zhuxi",
+        "sushi",
+        "liqingzhao",
+        "temujin",
+        "wentianxiang",
+        "shenkuo",
+        "xinqiji",
+        "yelvdashi",
+        "zhaoguangyi"
+      ]
+    },
+    {
+      "id": "yuan",
+      "title": "元",
+      "start": 1271,
+      "end": 1368,
+      "label": "1271—1368年",
+      "focus": 1290,
+      "subtitle": "大都与远路 · 墨色与钴蓝",
+      "summary": "忽必烈1271年采用元国号，1279年结束南宋，元与更广阔的蒙古世界联系密切。大都、工艺、宗教和文人画有多重面向，宫廷与不同群体的经历不能用一种叙事覆盖。",
+      "sourceIds": [
+        "cn-yuan",
+        "cn-1000-1400",
+        "cn-canal"
+      ],
+      "subperiods": [
+        {
+          "name": "定国号至灭宋",
+          "start": 1271,
+          "end": 1279,
+          "note": "建国号与结束南宋是不同节点。"
+        },
+        {
+          "name": "元代统治",
+          "start": 1279,
+          "end": 1368,
+          "note": "1368为元廷退出大都，不表示此后蒙古政权消失。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "大都与政治",
+          "body": "蒙古统治者在大都组织帝国行政，不同群体面临的机会与约束有明显差别。"
+        },
+        {
+          "title": "交通与工艺",
+          "body": "运河、陆路与海贸联系大都和各区域，瓷器、丝织等生产服务宫廷与市场。"
+        },
+        {
+          "title": "文人画与蓝白",
+          "body": "赵孟頫等将书法笔意带入绘画；青花瓷形成另一种鲜明但不唯一的元代视觉。"
+        }
+      ],
+      "placeId": "place-yuan",
+      "thread": "蒙古统治转入大元王朝，行省、驿站与南北运输维系广域国家；多种文化和技术汇聚，财政、灾害与权力危机最终激化为大起义。",
+      "keyPersonIds": [
+        "khubilai",
+        "guoshoujing",
+        "bayan",
+        "guanhanqing",
+        "wangshifu",
+        "zhaomengfu",
+        "huangdaopo",
+        "jialu",
+        "liufutong",
+        "tuotuo"
+      ]
+    },
+    {
+      "id": "ming",
+      "title": "明",
+      "start": 1368,
+      "end": 1644,
+      "label": "1368—1644年",
+      "focus": 1420,
+      "subtitle": "城阙与书斋 · 海上与江南",
+      "summary": "朱元璋建立明朝，政治中心由南京转向北京。郑和航行、制造和印刷发展连接宫廷、城市与海外；吴门书画、瓷器和家具显示多种生活趣味，不能只用朱墙金瓦定义。",
+      "sourceIds": [
+        "cn-ming",
+        "cn-1400-1600",
+        "cn-1000-1400"
+      ],
+      "subperiods": [
+        {
+          "name": "明前期",
+          "start": 1368,
+          "end": 1500,
+          "note": "展示用概括分段，非统一政治分期。"
+        },
+        {
+          "name": "明中后期",
+          "start": 1500,
+          "end": 1644,
+          "note": "止于北京明廷结束；南明延续另标，不混入同一政权终点。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "都城与权力",
+          "body": "南京与北京先后成为主要政治中心，紫禁城体现宫廷空间和工匠组织。"
+        },
+        {
+          "title": "制造与海洋",
+          "body": "郑和航行有外交与物资交流目的；后来的商业海贸和丝瓷生产又有不同条件。"
+        },
+        {
+          "title": "书斋与工艺",
+          "body": "吴门绘画、园林、木作与装饰艺术并行，宫廷标准和私人趣味并不相同。"
+        }
+      ],
+      "note": "1644为北京明廷结束，南明延续作为子条目扩展，避免误称全国同时改朝。",
+      "placeId": "place-ming",
+      "thread": "明朝重建中央秩序并调整军政财赋，航海、商贸和文化技术各有发展；中后期改革与边疆战争并行，内外危机最终导致明清更替。",
+      "keyPersonIds": [
+        "zhuyuanzhang",
+        "zhudi",
+        "zhuyunwen",
+        "zhuqizhen",
+        "zhenghe",
+        "yuqian",
+        "qijiguang",
+        "zhangjuzheng",
+        "wangshouren",
+        "xuguangqi",
+        "songyingxing",
+        "lishizhen",
+        "wenzhengming",
+        "lizicheng",
+        "yuanchonghuan",
+        "zhengchenggong",
+        "zhuyoujian"
+      ]
+    },
+    {
+      "id": "qing",
+      "title": "清",
+      "start": 1636,
+      "end": 1912,
+      "label": "1636—1912年",
+      "focus": 1750,
+      "subtitle": "宫廷与市井 · 旧制与新世界",
+      "summary": "清国号始于1636年，1644年入关后逐步确立统治。满洲传统、多地区制度、城市商业与工艺并存；19世纪战争与改革带来剧变，1911革命后清帝于1912年退位。",
+      "sourceIds": [
+        "cn-qing-name",
+        "cn-qing-chron",
+        "cn-qing-art"
+      ],
+      "subperiods": [
+        {
+          "name": "后金背景",
+          "start": 1616,
+          "end": 1636,
+          "note": "先行背景，国号大金，史称后金。"
+        },
+        {
+          "name": "大清与入关",
+          "start": 1636,
+          "end": 1644,
+          "note": "已用清国号，与明并存。"
+        },
+        {
+          "name": "入关后至19世纪前期",
+          "start": 1644,
+          "end": 1840,
+          "note": "政治和疆域形成经历长期过程，不能把最大范围投射到全部年份。"
+        },
+        {
+          "name": "晚清",
+          "start": 1840,
+          "end": 1912,
+          "note": "战争、改革与革命并行，终点取清帝退位。"
+        }
+      ],
+      "sections": [
+        {
+          "title": "政权与多地区治理",
+          "body": "1636改国号、1644入关和随后统治扩展是不同阶段；不同地区制度须分层叙述。"
+        },
+        {
+          "title": "贸易与社会转折",
+          "body": "茶、丝、瓷贸易联系内外市场；19世纪战争及条约改变政治经济条件。"
+        },
+        {
+          "title": "艺术与生活",
+          "body": "粉彩等瓷艺、宫廷制作和不同绘画传统并存；晚清还需纳入新式媒介与城市变化。"
+        }
+      ],
+      "note": "1636国号起点、1644入关起点、1911革命和1912退位分别说明；以1912为本版终点。",
+      "placeId": "place-qing",
+      "thread": "清朝在入关和边疆经营中形成广域国家，康雍乾时期制度与经济继续发展；19世纪内乱、外战与改革交织，最终走向辛亥革命和帝制终结。",
+      "keyPersonIds": [
+        "nurhaci",
+        "huangtaiji",
+        "dorgon",
+        "kangxi",
+        "yongzheng",
+        "qianlong",
+        "zhengchenggong",
+        "shilang",
+        "linzexu",
+        "weiyuan",
+        "hongxiuquan",
+        "zengguofan",
+        "lihongzhang",
+        "zuozongtang",
+        "cixi",
+        "guangxu",
+        "zhangzhidong",
+        "kangyouwei",
+        "liangqichao",
+        "sunzhongshan",
+        "yuanshikai",
+        "puyi",
+        "tansitong",
+        "dengshichang",
+        "yixin"
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "westernzhou",
+      "title": "西周的礼仪青铜器",
+      "start": -1046,
+      "end": -771,
+      "lane": "china",
+      "periodId": "zhou",
+      "placeId": "fenghao",
+      "summary": "青铜礼器既是技术与艺术的产物，也帮助我们观察礼仪和社会秩序。器物不是抽离时代的装饰。",
+      "sourceIds": [
+        "zhou"
+      ],
+      "personIds": [
+        "wuwang"
+      ],
+      "note": "前1046年为本站采用的周初年表口径；部分研究采用其他年份。",
+      "status": "资料支持",
+      "dateLabel": null,
+      "themeId": "zhou"
+    },
+    {
+      "id": "eastzhou",
+      "title": "东周：列国竞争",
+      "start": -770,
+      "end": -221,
+      "lane": "china",
+      "periodId": "eastern",
+      "placeId": "luoyang",
+      "summary": "周王室东迁后，诸侯力量发展；春秋与战国是理解政治结构变化的两个常用分期。",
+      "sourceIds": [
+        "zhou"
+      ],
+      "personIds": [
+        "v5-sunwu",
+        "v5-wuqi",
+        "v5-sunbin"
+      ],
+      "note": "本站用前475年作战国起点；前403年也是常见分期口径。",
+      "status": "资料支持",
+      "dateLabel": null,
+      "themeId": "eastern"
+    },
+    {
+      "id": "measure",
+      "title": "商鞅方升与计量标准",
+      "start": -344,
+      "end": -344,
+      "lane": "china",
+      "periodId": "eastern",
+      "placeId": "place-eastern",
+      "summary": "商鞅方升铭文记录秦孝公十八年的容量标准，为秦国计量制度留下实物证据。它后来又加刻秦统一诏文，呈现战国制度到帝国治理的延续。",
+      "sourceIds": [
+        "measure"
+      ],
+      "personIds": [
+        "shangyang"
+      ],
+      "note": "制造年不等于全部变法起点；本条为器物与计量制度节点。",
+      "status": "章节支持",
+      "dateLabel": "",
+      "themeId": "eastern",
+      "personNames": [
+        "商鞅"
+      ],
+      "category": "制度与改革",
+      "importance": "器物能把变法叙事与可核对的物证联系起来，帮助分清长期改革和明确纪年。",
+      "outcome": "标准量器成为征收、交易及行政处理共同尺度的一环，后来在统一中继续使用。",
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第五章 战国前期各诸侯国的变法改革",
+          "section": "六 秦国卫鞅的变法",
+          "lineStart": 67925,
+          "lineEnd": 67943
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "unify",
+      "title": "秦统一六国与帝制建立",
+      "start": -221,
+      "end": -221,
+      "lane": "china",
+      "periodId": "qin",
+      "placeId": "place-qin",
+      "summary": "秦在持续兼并战争后完成对六国的征服，秦王政称皇帝，并在更大范围推行郡县等治理安排。统一战争的结束开启了新的帝国政治问题。",
+      "sourceIds": [
+        "measure",
+        "qin"
+      ],
+      "personIds": [
+        "qinshi",
+        "v5-lisi"
+      ],
+      "note": "不把统一说成各地文化、制度和社会关系当年全部相同。",
+      "status": "章节支持",
+      "dateLabel": "",
+      "themeId": "qin",
+      "personNames": [
+        "秦始皇"
+      ],
+      "category": "建国与转折",
+      "importance": "它建立影响深远的皇帝统治与中央地方联系框架，是中国政治史的重要转折。",
+      "outcome": "秦帝国开始整合法令、官制和地方治理，但地区差异与新旧力量的张力继续存在。",
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第九章 秦的统一",
+          "section": "",
+          "lineStart": 70089,
+          "lineEnd": 70121
+        },
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "二 地方政权机构及官制",
+          "lineStart": 74398,
+          "lineEnd": 74443
+        },
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "一 暴虐和愚蠢的“焚书坑儒”",
+          "lineStart": 74963,
+          "lineEnd": 74963
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "qinend",
+      "title": "子婴投降与秦政权终结",
+      "start": -207,
+      "end": -206,
+      "lane": "china",
+      "periodId": "qin",
+      "placeId": "xianyang",
+      "summary": "反秦战争逼近关中，秦朝内部又发生赵高、二世与子婴之间的权力冲突。刘邦军进入关中后，子婴投降，秦的帝国统治终结。",
+      "sourceIds": [
+        "qin",
+        "qinenddate"
+      ],
+      "personIds": [
+        "v5-zhaogao",
+        "liubang",
+        "v5-huhai",
+        "v5-lisi"
+      ],
+      "note": "子婴降汉通常系前207年；书中及部分年表以汉元年冬记前206，保留口径区别。",
+      "status": "章节支持",
+      "dateLabel": "公元前207年前后",
+      "themeId": "qin",
+      "category": "建国与转折",
+      "importance": "秦亡表明军事、政治与社会危机互相作用，也开启楚汉争夺及新王朝重建。",
+      "outcome": "秦留下的许多制度被后继政权调整沿用，王朝结束并未使帝国治理经验全部消失。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "二 秦末农民战争的最后胜利",
+          "lineStart": 75316,
+          "lineEnd": 75324
+        },
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75880,
+          "lineEnd": 75896
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "hanculture",
+      "title": "司马迁与《史记》的编纂",
+      "start": null,
+      "end": null,
+      "lane": "china",
+      "periodId": "han",
+      "placeId": "place-han",
+      "summary": "司马迁继承既有史学资料并编纂《史记》，以本纪、表、书、世家、列传联系人物、制度和社会历史。帝王之外也有多种群体进入叙事。",
+      "sourceIds": [
+        "han"
+      ],
+      "personIds": [
+        "simaqian",
+        "wudi"
+      ],
+      "note": "成书是长期过程，本条不拟定一日完成；历史人物对白不能一律作原声记录。",
+      "status": "章节支持",
+      "dateLabel": "西汉中期的编纂过程",
+      "themeId": "han",
+      "personNames": [
+        "汉武帝",
+        "司马迁"
+      ],
+      "category": "思想与文化",
+      "importance": "它形成影响深远的纪传体通史结构，使后世观察历史的方式得到重要扩展。",
+      "outcome": "《史记》成为后续历史编纂与文学的重要参照，也留下需要结合立场审读的叙述。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第一章 绪论",
+          "section": "一 文献资料",
+          "lineStart": 73643,
+          "lineEnd": 73643
+        },
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "一 经学和史学",
+          "lineStart": 82603,
+          "lineEnd": 82607
+        }
+      ],
+      "coreEntry": true,
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "cn-erlitou",
+      "title": "二里头都邑与专业工艺发展",
+      "start": -1750,
+      "end": -1530,
+      "summary": "二里头及相关遗址的建筑、陶器和生产工具反映早期都邑及资源组织。农业生活与专业工艺的材料，为探索夏文化提供考古窗口。",
+      "personNames": [],
+      "sourceIds": [
+        "erlitoudate"
+      ],
+      "periodId": "xia",
+      "placeId": "place-xia",
+      "lane": "china",
+      "personIds": [],
+      "note": "沿用本站已有约数年代；书中分期和测年属较早研究，不以其旧解释取代现行考古成果。",
+      "dateLabel": "约公元前1750—前1530年（遗址约数）",
+      "category": "考古与文献",
+      "importance": "它让夏史相关讨论获得地下材料，同时要求区分遗址、文化和王朝名称。",
+      "outcome": "对早期国家形成、都邑组织与手工业分工的研究由此有了重要实物依据。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）",
+          "section": "三、二里头文化与夏文化的关系",
+          "lineStart": 2846,
+          "lineEnd": 2918
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "xia",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-xia-memory",
+      "title": "禹启与早期王权的文献记忆",
+      "start": null,
+      "end": null,
+      "summary": "后世文献以禹治水、启继位等故事解释夏的开端，但对继承过程记载不同；这些材料保留了关于公共事务和政治权威的古史记忆。",
+      "personNames": [
+        "禹",
+        "启"
+      ],
+      "sourceIds": [
+        "cn-xia-chron",
+        "xia"
+      ],
+      "periodId": "xia",
+      "placeId": "place-xia",
+      "lane": "china",
+      "personIds": [
+        "yu",
+        "qi",
+        "v5-xiajie"
+      ],
+      "note": "传说未定年；不把禹启故事与某件二里头遗物直接对应。",
+      "dateLabel": "古史传说，未定年",
+      "category": "考古与文献",
+      "importance": "它是理解传统夏史叙述的起点，也展示古人如何讨论政治继承与正当性。",
+      "outcome": "禹启故事成为后世解释王朝起源的重要资源，具体经过仍需与证据层次分别讨论。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）",
+          "section": "第二节 传说中的夏王朝",
+          "lineStart": 2590,
+          "lineEnd": 2648
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "xia",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "cn-yinxu",
+      "title": "盘庚迁殷与晚商王都发展",
+      "start": -1300,
+      "end": -1300,
+      "summary": "传世文献记盘庚迁殷，殷墟遗存则展示晚商王都的建筑、祭祀和手工业。迁徙的原因有多种解释，不能只归结为一场洪水或一次节俭行动。",
+      "personNames": [],
+      "sourceIds": [
+        "yin"
+      ],
+      "periodId": "shang",
+      "placeId": "place-shang",
+      "lane": "china",
+      "personIds": [
+        "v5-pangeng"
+      ],
+      "note": "迁殷年代为约数；文献中的殷与各期遗址关系及迁都原因仍需讨论。",
+      "dateLabel": "约公元前1300年",
+      "category": "建国与转折",
+      "importance": "迁殷是商史前后阶段的重要观察节点，王都遗存使晚商社会面貌更为具体。",
+      "outcome": "以安阳一带为核心的晚商材料日益丰富，成为商代政治与文化研究的主要基础。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第六章 商代阶级国家的形成",
+          "section": "第一节 盘庚迁殷及其社会意义",
+          "lineStart": 4062,
+          "lineEnd": 4064
+        },
+        {
+          "volume": 1,
+          "chapter": "第六章 商代阶级国家的形成",
+          "section": "二、盘庚迁殷的原因及其意义",
+          "lineStart": 4158,
+          "lineEnd": 4190
+        },
+        {
+          "volume": 2,
+          "chapter": "第十二章 居住环境",
+          "section": "",
+          "lineStart": 32475,
+          "lineEnd": 32475
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "shang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-fuhao",
+      "title": "妇好墓所见王室工艺",
+      "start": null,
+      "end": null,
+      "summary": "殷墟妇好墓保存青铜器、玉石器等丰富遗物，与甲骨中妇好的名字形成多类材料联系，使晚商王室女性及工艺生产获得具体的观察入口。",
+      "personNames": [
+        "妇好"
+      ],
+      "sourceIds": [
+        "yin"
+      ],
+      "periodId": "shang",
+      "placeId": "place-shang",
+      "lane": "china",
+      "personIds": [
+        "fuhao"
+      ],
+      "note": "展示古代墓葬，不把1976年发掘年当成商代事件年；不拟定墓葬精确年代。",
+      "dateLabel": "商代晚期·武丁时期相关遗存",
+      "category": "考古与文献",
+      "importance": "较完整的墓葬组合帮助理解器物使用与王室身份，避免只看单件珍品。",
+      "outcome": "晚商礼仪、军事身份与工艺网络的研究得到重要补充，人物与器物能够相互关联。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第八章 商代后期的经济发展",
+          "section": "一、精致的青铜器",
+          "lineStart": 7448,
+          "lineEnd": 7448
+        },
+        {
+          "volume": 2,
+          "chapter": "第四章 殷商方国",
+          "section": "",
+          "lineStart": 19299,
+          "lineEnd": 19311
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "shang",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "cn-zhou-founding",
+      "title": "牧野之战与周王朝建立",
+      "start": -1046,
+      "end": -1046,
+      "summary": "周武王率军克商，周取代商成为中原政治中心的重要力量。战后祭告、安置商人和建立统治关系，说明一次军事胜利之后仍有长期整合。",
+      "personNames": [
+        "周武王"
+      ],
+      "sourceIds": [
+        "zhou",
+        "cn-zhou-chron"
+      ],
+      "periodId": "zhou",
+      "placeId": "place-zhou",
+      "lane": "china",
+      "personIds": [
+        "wuwang",
+        "v5-wenwang",
+        "v5-dixin"
+      ],
+      "note": "前1046年沿用本站口径；战役细节及周初绝对年代仍有不同研究意见。",
+      "dateLabel": "公元前1046年（本站年表口径）",
+      "category": "建国与转折",
+      "importance": "它开启两周历史，也使商周间制度、礼仪与政治正当性的变化成为重要主题。",
+      "outcome": "周初逐步建立新的统治网络，同时延续并改造商代留下的文化和礼仪资源。",
+      "bookRefs": [
+        {
+          "volume": 3,
+          "chapter": "第四章 周朝的创建和东征的胜利",
+          "section": "",
+          "lineStart": 46637,
+          "lineEnd": 46671
+        },
+        {
+          "volume": 1,
+          "chapter": "第十二章 周王朝的建立",
+          "section": "四、西周开始的年代问题",
+          "lineStart": 12852,
+          "lineEnd": 12914
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "zhou",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "shang"
+      ]
+    },
+    {
+      "id": "cn-zhou-eastmove",
+      "title": "西周终结与两周之际",
+      "start": -771,
+      "end": -770,
+      "summary": "幽王末年王位继承冲突与外部军事介入交织，幽王身亡，王室统治中心转向东方。平王东迁成为后世划分西周与东周的常用标志。",
+      "personNames": [
+        "周平王"
+      ],
+      "sourceIds": [
+        "cn-zhou-chron"
+      ],
+      "periodId": "zhou",
+      "placeId": "place-zhou",
+      "lane": "china",
+      "personIds": [
+        "pingwang",
+        "v5-youwang"
+      ],
+      "note": "前771/前770为通行分期；不把烽火戏诸侯或女性祸国故事当作唯一原因。",
+      "dateLabel": "公元前771—前770年（通行分期）",
+      "category": "建国与转折",
+      "importance": "它标志政治重心和王室地位发生重大变化，随后诸侯主导的格局更为突出。",
+      "outcome": "洛邑成为周王室的主要政治中心，周的名义秩序继续存在，实际关系逐步改变。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第五节 幽王昏乱、灭亡与平王东迁",
+          "lineStart": 16889,
+          "lineEnd": 16949
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "zhou",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-zhou-move",
+      "title": "平王东迁与东周开端",
+      "start": -770,
+      "end": -770,
+      "summary": "两周之际的继承与战争危机后，平王以洛邑为王室中心。周的名义秩序继续存在，但诸侯力量增长，中央与地方的政治关系逐渐变化。",
+      "personNames": [
+        "周平王"
+      ],
+      "sourceIds": [
+        "cn-zhou-chron"
+      ],
+      "periodId": "eastern",
+      "placeId": "place-eastern",
+      "lane": "china",
+      "personIds": [
+        "pingwang"
+      ],
+      "note": "前770年为通行分期，王室东迁的具体过程及两王并立问题仍有讨论。",
+      "dateLabel": "",
+      "category": "建国与转折",
+      "importance": "东迁是理解东周格局的常用起点，标志王室重心转移而非周朝完全消失。",
+      "outcome": "诸侯争霸与王室权威的关系成为后续历史主线，各地变化速度并不相同。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第五节 幽王昏乱、灭亡与平王东迁",
+          "lineStart": 16889,
+          "lineEnd": 16949
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qin-mausoleum",
+      "title": "秦始皇陵与俑群",
+      "start": -221,
+      "end": -210,
+      "summary": "帝陵工程贯穿秦始皇统治；此条仅展示帝国阶段，非完整工程起讫。",
+      "personNames": [
+        "秦始皇"
+      ],
+      "sourceIds": [
+        "qin-tomb"
+      ],
+      "periodId": "qin",
+      "placeId": "place-qin",
+      "lane": "china",
+      "personIds": [
+        "qinshi"
+      ],
+      "note": "秦期末前207/前206存在年表口径差异；展厅以遗存为证，不重建未经证实的精确军阵疆域。"
+    },
+    {
+      "id": "cn-han-founder",
+      "title": "楚汉战争与西汉建立",
+      "start": -206,
+      "end": -202,
+      "summary": "秦亡后项羽分封诸侯，刘邦与项羽及其他力量争夺统治。经过楚汉战争，刘邦击败主要对手并于前202年称帝，开始重建统一政治秩序。",
+      "personNames": [
+        "刘邦"
+      ],
+      "sourceIds": [
+        "cn-han-chron",
+        "han"
+      ],
+      "periodId": "han",
+      "placeId": "place-han",
+      "lane": "china",
+      "personIds": [
+        "liubang",
+        "v5-xiangyu",
+        "v5-xiaohe",
+        "v5-zhangliang",
+        "v5-hanxin"
+      ],
+      "note": "前206年受封汉王与前202年称帝是不同开端口径；不将鸿门宴当成成败唯一原因。",
+      "dateLabel": "",
+      "category": "建国与转折",
+      "importance": "它承接秦末反抗与帝国重建，说明秦的终结与汉的稳固建立并非同一瞬间。",
+      "outcome": "西汉皇权与郡国并行格局逐渐确立，长期战争后的经济和社会恢复成为当务之急。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "",
+          "lineStart": 75355,
+          "lineEnd": 75447
+        },
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "四 项羽的败亡",
+          "lineStart": 75620,
+          "lineEnd": 75669
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-xin-start",
+      "title": "王莽建新与托古改制",
+      "start": 9,
+      "end": 12,
+      "summary": "王莽在西汉末年取得政治权力，建立新朝，并以古代制度为依据推动改制。王田、私属等方案试图处理土地与奴婢问题，但执行遇到阻力。",
+      "personNames": [
+        "王莽"
+      ],
+      "sourceIds": [
+        "cn-xin-coins"
+      ],
+      "periodId": "xin",
+      "placeId": "place-xin",
+      "lane": "china",
+      "personIds": [
+        "wangmang"
+      ],
+      "note": "建国为公元9年，区间包含初期改制；不能把诏令中的王田方案当成已完全落实。",
+      "dateLabel": "",
+      "category": "建国与转折",
+      "importance": "它显示王朝更替背后还包含解决社会危机的制度尝试，不能只当一场宫廷夺位。",
+      "outcome": "改制频繁调整，政治支持与社会执行之间矛盾增加，新朝治理问题进一步显现。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十二章 “新”朝的出现和王莽改制",
+          "section": "二 向帝位逼进的历程",
+          "lineStart": 78760,
+          "lineEnd": 78803
+        },
+        {
+          "volume": 6,
+          "chapter": "第十二章 “新”朝的出现和王莽改制",
+          "section": "二 “王田”和“私属”",
+          "lineStart": 78919,
+          "lineEnd": 78945
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "xin",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "han"
+      ]
+    },
+    {
+      "id": "cn-xin-currency",
+      "title": "王莽改币与货泉货布",
+      "start": 9,
+      "end": 14,
+      "summary": "王莽多次改变钱币种类和官方比值，新朝时期又发行货泉、货布。民间继续使用旧五铢钱等记录，表明法令与市场接受之间存在明显距离。",
+      "personNames": [
+        "王莽"
+      ],
+      "sourceIds": [
+        "cn-xin-coins"
+      ],
+      "periodId": "xin",
+      "placeId": "place-xin",
+      "lane": "china",
+      "personIds": [
+        "wangmang"
+      ],
+      "note": "改币在公元7年已先行，本条显示新朝阶段；部分法定龟贝名目未必实际发行。",
+      "dateLabel": "",
+      "category": "制度与改革",
+      "importance": "钱币实物与制度记录能够相互参照，也说明货币信任不能只由币形与诏令决定。",
+      "outcome": "频繁更改和强制推行干扰交易与生活，但钱制并非新朝覆亡的唯一原因。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十二章 “新”朝的出现和王莽改制",
+          "section": "四 混乱的币制改革",
+          "lineStart": 79013,
+          "lineEnd": 79133
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "xin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-easthan-restore",
+      "title": "刘秀重建汉政权",
+      "start": 25,
+      "end": 25,
+      "summary": "刘秀在王莽末年战争中扩大河北势力，25年称帝，随后以洛阳为中心继续消除各地割据，重建汉朝统治。",
+      "personNames": [
+        "刘秀"
+      ],
+      "sourceIds": [
+        "cn-han-chron"
+      ],
+      "periodId": "eastern-han",
+      "placeId": "place-eastern-han",
+      "lane": "china",
+      "personIds": [
+        "liuxiu"
+      ],
+      "note": "不把25年称帝写作当天已经统一全国；重建过程还包含后续长期征战。",
+      "dateLabel": "25年",
+      "category": "建国与转折",
+      "importance": "这一节点开启东汉，但称帝与全国主要战争结束并非同一时刻，需要区分建国和统一过程。",
+      "outcome": "东汉政治中心转向洛阳，朝廷逐步整顿官僚、赋役与社会秩序，重新组织国家治理。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十四章 东汉王朝的出现",
+          "section": "第一节 在血和火中建立起的王朝",
+          "lineStart": 79896,
+          "lineEnd": 80006
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-anshigao",
+      "title": "安世高在洛阳译介佛典",
+      "start": 147,
+      "end": 148,
+      "summary": "来自安息的安世高在汉桓帝初年到洛阳活动，译介禅修等佛教经典；译经与传播是持续多年的文化工作。",
+      "personNames": [
+        "安世高"
+      ],
+      "sourceIds": [
+        "cn-1-500"
+      ],
+      "periodId": "eastern-han",
+      "placeId": "place-eastern-han",
+      "lane": "china",
+      "personIds": [
+        "anshigao"
+      ],
+      "note": "本书记147年，现有年表常用148年前后；采用约数，不称其为佛教首次传入中国的确定日期。",
+      "dateLabel": "约147—148年开始在洛阳活动",
+      "category": "思想与文化",
+      "importance": "这一线索展现佛教进入汉语知识世界的具体途径，也把洛阳与西亚、南亚的文化联系起来。",
+      "outcome": "早期汉译佛典逐渐流传，佛教观念进入新的语言与社会环境，并与既有思想发生互动。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第二节 哲学思想和宗教迷信",
+          "lineStart": 82575,
+          "lineEnd": 82582
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-wei-founded",
+      "title": "曹丕建立魏",
+      "start": 220,
+      "end": 220,
+      "summary": "曹操去世后曹丕继承魏王及丞相地位，同年汉献帝退位，曹丕称帝建立魏，东汉的皇朝名义至此结束。",
+      "personNames": [
+        "曹丕"
+      ],
+      "sourceIds": [
+        "cn-three-chron"
+      ],
+      "periodId": "three-kingdoms",
+      "placeId": "place-three-kingdoms",
+      "lane": "china",
+      "personIds": [
+        "caopi",
+        "caocao"
+      ],
+      "note": "区分曹操奠定势力与曹丕正式称帝，不将二人的政治身份混为一人。",
+      "dateLabel": "220年",
+      "category": "建国与转折",
+      "importance": "曹魏以新王朝形式接收已有统治基础，与后来蜀汉、孙吴的建国节点共同构成三国框架。",
+      "outcome": "魏以洛阳为中心形成皇朝统治，但南方仍有独立势力，汉朝结束并不意味着全国重新统一。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83604,
+          "lineEnd": 83616
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-three-coexist",
+      "title": "孙权称帝与三国并立",
+      "start": 229,
+      "end": 263,
+      "summary": "孙权在江东建立统治基础，先称吴王，229年称帝。魏、蜀汉、吴三方继续并存，政治联盟和边境战争交替出现。",
+      "personNames": [
+        "曹丕"
+      ],
+      "sourceIds": [
+        "cn-three-chron"
+      ],
+      "periodId": "three-kingdoms",
+      "placeId": "place-three-kingdoms",
+      "lane": "china",
+      "personIds": [
+        "sunquan",
+        "caopi"
+      ],
+      "note": "保留原有并立事件ID；222年可用于吴独立年号口径，229年用于正式称帝口径。",
+      "dateLabel": "229年吴称帝；三国并存至263年",
+      "category": "建国与转折",
+      "importance": "三个皇朝名号齐备，是认识三国并立的清楚节点，但政权形成并非都始于同一年。",
+      "outcome": "吴继续经营长江中下游与东南地区；蜀汉263年被魏灭后，吴仍独立延续到280年。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第四节 吴在东南的开发",
+          "lineStart": 83824,
+          "lineEnd": 83850
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jin-founded",
+      "title": "司马炎建立晋",
+      "start": 265,
+      "end": 266,
+      "summary": "司马炎在司马氏长期控制曹魏中枢的基础上，接受魏帝禅位，建立晋朝，以洛阳为中心；此时吴国仍然存在。",
+      "personNames": [
+        "司马炎"
+      ],
+      "sourceIds": [
+        "cn-jin-chron"
+      ],
+      "periodId": "western-jin",
+      "placeId": "place-western-jin",
+      "lane": "china",
+      "personIds": [
+        "simayan"
+      ],
+      "note": "265与266是同一建朝节点的纪年换算口径，不是两次建国；沿用网站现有说明。",
+      "dateLabel": "传统年265年；岁末换算公历跨至266年",
+      "category": "建国与转折",
+      "importance": "从司马氏掌权到正式改朝换代，是分开的政治节点，建晋也不能直接等同于统一全国。",
+      "outcome": "晋承接魏的大部分统治基础，随后继续准备对吴战争，直到280年才结束三国分立。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第三章 西晋的暂时统一及其崩溃",
+          "section": "第二节 西晋的黑暗统治与“八王之乱”",
+          "lineStart": 85140,
+          "lineEnd": 85146
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "western-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jin-end",
+      "title": "长安失守与西晋结束",
+      "start": 316,
+      "end": 317,
+      "summary": "长安在围困后失守，晋愍帝司马邺被俘，西晋朝廷结束。翌年司马睿在江南称晋王，新的晋室政治中心形成。",
+      "personNames": [
+        "司马睿"
+      ],
+      "sourceIds": [
+        "cn-jin-chron"
+      ],
+      "periodId": "western-jin",
+      "placeId": "place-western-jin",
+      "lane": "china",
+      "personIds": [
+        "simaye",
+        "sima-rui"
+      ],
+      "note": "316年为西晋终点，317年称晋王与318年称帝另列东晋节点，不混为同一天。",
+      "dateLabel": "316年西晋结束；317年江南重建",
+      "category": "建国与转折",
+      "importance": "西晋覆亡与东晋重建相连，却有不同地点、时间和支持力量，不能当作一次简单迁都。",
+      "outcome": "北方各政权继续竞争，江南晋室依靠南渡与本地大族建立统治，长期南北分立进一步展开。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第三章 西晋的暂时统一及其崩溃",
+          "section": "第二节 西晋的黑暗统治与“八王之乱”",
+          "lineStart": 85284,
+          "lineEnd": 85284
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "western-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-easternjin-start",
+      "title": "司马睿在江南重建晋政权",
+      "start": 317,
+      "end": 318,
+      "summary": "司马睿在南渡大族与江南地方力量支持下组织政权，317年称晋王，318年称帝，以建康为中心重建晋室统治。",
+      "personNames": [
+        "司马睿"
+      ],
+      "sourceIds": [
+        "cn-jin-chron"
+      ],
+      "periodId": "eastern-jin",
+      "placeId": "place-eastern-jin",
+      "lane": "china",
+      "personIds": [
+        "sima-rui",
+        "wangdao"
+      ],
+      "note": "正式称帝在318年；本页面还含304—439十六国全段，东晋本身通常记317—420年。",
+      "dateLabel": "317年称晋王，318年称帝",
+      "category": "建国与转折",
+      "importance": "这表明晋室延续需要新的地方联盟和资源基础，不能只用皇帝南迁概括国家重建。",
+      "outcome": "北来与江南大族共享并竞争军政资源，东晋王朝与北方多个政权长期并存。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第五章 东晋王朝的建立及其政治",
+          "section": "第一节 北方世家大族的南渡与东晋王朝的建立",
+          "lineStart": 86650,
+          "lineEnd": 86652
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "eastern-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-feishui",
+      "title": "淝水之战",
+      "start": 383,
+      "end": 383,
+      "summary": "前秦大举南进，东晋方面组织抵抗。淝水交战中秦军失利并撤退，东晋暂时守住江南政权，北方局势随之再度变化。",
+      "personNames": [
+        "谢安",
+        "苻坚"
+      ],
+      "sourceIds": [
+        "cn-jin-chron"
+      ],
+      "periodId": "eastern-jin",
+      "placeId": "place-eastern-jin",
+      "lane": "china",
+      "personIds": [
+        "xiean",
+        "fujian"
+      ],
+      "note": "不照搬百万对数万的兵力传说，也不把秦军失败仅归于一条口令或一个谣言。",
+      "dateLabel": "383年",
+      "category": "战争与外交",
+      "importance": "这一节点阻止前秦迅速向南完成统一，但战后北方重新分裂还涉及原有权力与社会条件。",
+      "outcome": "东晋得以延续，前秦统治受到重创，前燕等旧势力及新集团先后争夺北方各地。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第四章 十六国",
+          "section": "第三节 淝水之战与苻坚的败亡",
+          "lineStart": 86131,
+          "lineEnd": 86221
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "eastern-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-luoyang-494",
+      "title": "北魏迁都洛阳",
+      "start": 494,
+      "end": 494,
+      "summary": "孝文帝将北魏政治中心由平城转向洛阳，随后继续调整朝廷语言、服饰、姓氏和官制，迁都与多项改革相互联系。",
+      "personNames": [
+        "北魏孝文帝"
+      ],
+      "sourceIds": [
+        "cn-1-500",
+        "cn-ns"
+      ],
+      "periodId": "north-south",
+      "placeId": "place-north-south",
+      "lane": "china",
+      "personIds": [
+        "xiaowen",
+        "lichong"
+      ],
+      "note": "不把全部北方居民写成同时改衣改语；南朝及北方各地有不同的生活和政治环境。",
+      "dateLabel": "494年",
+      "category": "制度与改革",
+      "importance": "政治重心、粮运条件与统治安排一起进入变化，文化政策也深入到朝廷礼仪和身份表达。",
+      "outcome": "洛阳成为新的中心，部分统治集团生活方式改变，也引发旧有势力与新政策之间的冲突。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第二节 北魏孝文帝的均田、迁都与改革",
+          "lineStart": 89522,
+          "lineEnd": 89562
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "north-south",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ns-sui",
+      "title": "隋灭陈与南北朝结束",
+      "start": 589,
+      "end": 589,
+      "summary": "隋军从多路进攻陈朝，进入建康并俘陈后主，陈朝结束；长期南北对峙在主要疆域内告一段落，统一后的治理仍需继续。",
+      "personNames": [
+        "隋文帝"
+      ],
+      "sourceIds": [
+        "cn-500-1000"
+      ],
+      "periodId": "north-south",
+      "placeId": "place-north-south",
+      "lane": "china",
+      "personIds": [
+        "yangjian"
+      ],
+      "note": "沿用现有转折事件ID；589年不是隋建立年，也不表示所有边疆地区同一时刻完成整合。",
+      "dateLabel": "589年",
+      "category": "建国与转折",
+      "importance": "此节点连接南北朝与隋的统一历程，建隋581年和灭陈589年应在同一时间线上分清。",
+      "outcome": "南北地区被纳入同一王朝，隋继续调整地方行政与社会秩序，江南的接收也并非毫无阻力。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第一节 隋前期的政治与经济",
+          "lineStart": 96487,
+          "lineEnd": 96523
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "north-south",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sui-unify",
+      "title": "杨坚建隋与灭陈",
+      "start": 581,
+      "end": 589,
+      "summary": "杨坚在北周中枢取得权力后于581年建隋，继而筹划南下，589年灭陈，重新把南北主要地区纳入同一王朝。",
+      "personNames": [
+        "隋文帝"
+      ],
+      "sourceIds": [
+        "cn-500-1000"
+      ],
+      "periodId": "sui",
+      "placeId": "place-sui",
+      "lane": "china",
+      "personIds": [
+        "yangjian",
+        "yangsu"
+      ],
+      "note": "581与589须分别标示，不能把建隋当天写成南北已统一或全部边疆均已整合。",
+      "dateLabel": "581年建隋；589年灭陈",
+      "category": "建国与转折",
+      "importance": "建国、北方承接与南方接收是相连但不同的过程，为理解隋的制度和交通建设提供背景。",
+      "outcome": "统一后的行政、户籍与交通安排继续推进，江南也经历接收、反抗和进一步治理调整。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第一节 隋前期的政治与经济",
+          "lineStart": 96455,
+          "lineEnd": 96523
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "sui",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sui-canal",
+      "title": "隋代运河网络整合",
+      "start": 584,
+      "end": 610,
+      "summary": "隋代从广通渠到通济渠、邗沟整治、永济渠和江南河，分期连接既有水道与新工程，加强都城供给和南北运输。",
+      "personNames": [],
+      "sourceIds": [
+        "cn-canal"
+      ],
+      "periodId": "sui",
+      "placeId": "place-sui",
+      "lane": "china",
+      "personIds": [
+        "yangjian",
+        "yangguang",
+        "yuwenkai"
+      ],
+      "note": "不把隋代线路直接等同于元明清京杭线，也不把全部工程归于炀帝个人一次开凿。",
+      "dateLabel": "584年广通渠；605—610年多段工程",
+      "category": "社会与经济",
+      "importance": "不同河段显示国家交通网络如何逐步形成，军需、漕运与商旅并非只有单一用途。",
+      "outcome": "后世长期利用这些水道，同时大规模征发也给当时居民带来沉重劳役，收益与代价需并看。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第三节 隋炀帝大兴土木与开凿运河",
+          "lineStart": 97069,
+          "lineEnd": 97095
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "sui",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-tang-start",
+      "title": "李渊建立唐",
+      "start": 618,
+      "end": 618,
+      "summary": "李渊在隋末战争中进入长安，先立隋宗室为帝并掌权，618年自己称帝，建立唐朝，之后继续与各地军事集团争夺。",
+      "personNames": [
+        "李渊"
+      ],
+      "sourceIds": [
+        "cn-500-1000"
+      ],
+      "periodId": "tang",
+      "placeId": "place-tang",
+      "lane": "china",
+      "personIds": [
+        "liyuan",
+        "tang-taizong"
+      ],
+      "note": "唐的主要统一战争延续到建国之后，不把618年当作所有地区同时安定之年。",
+      "dateLabel": "618年",
+      "category": "建国与转折",
+      "importance": "唐的开端来自隋末战争中的政权重组，建国并不是全国战争结束或秩序立即恢复的同义词。",
+      "outcome": "唐逐步击败对手、接收地区与制度资源，为前期治理和社会恢复建立政治基础。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第一节 唐王朝的创建",
+          "lineStart": 97652,
+          "lineEnd": 97716
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-an-shi",
+      "title": "安史之乱",
+      "start": 755,
+      "end": 763,
+      "summary": "安禄山、史思明等势力反叛，唐朝军队与相关援军反复争夺两京和河北等地，战争持续多年，造成广泛社会破坏。",
+      "personNames": [
+        "唐玄宗",
+        "杜甫"
+      ],
+      "sourceIds": [
+        "cn-tang",
+        "cn-smithsonian"
+      ],
+      "periodId": "tang",
+      "placeId": "place-tang",
+      "lane": "china",
+      "personIds": [
+        "anlushan",
+        "guoziyi",
+        "xuanzong",
+        "dufu"
+      ],
+      "note": "不把杨贵妃或一人失德当成唯一原因，也不以763年战事结束表示所有社会问题同时解决。",
+      "dateLabel": "755—763年",
+      "category": "战争与外交",
+      "importance": "地方军事集中、中央政治与财政问题在战争中交汇，此后国家治理进入长期重组。",
+      "outcome": "唐朝平定主要叛军后仍延续一个多世纪，藩镇、财政和军队关系却已难恢复到原有格局。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第三节 开元天宝的全盛时期与安史之乱",
+          "lineStart": 98180,
+          "lineEnd": 98264
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-five-start",
+      "title": "后梁建立，唐朝结束",
+      "start": 907,
+      "end": 907,
+      "summary": "朱温在控制唐廷后称帝，国号梁，唐朝结束。中原进入五代更替时期，南方地方政权与北方契丹势力仍各自发展。",
+      "personNames": [
+        "朱温"
+      ],
+      "sourceIds": [
+        "cn-five-chron"
+      ],
+      "periodId": "five-dynasties",
+      "placeId": "place-five-dynasties",
+      "lane": "china",
+      "personIds": [
+        "zhuwen"
+      ],
+      "note": "五代是中原政权序列，十国并非907年同时建立。",
+      "dateLabel": "907年",
+      "category": "建国与转折",
+      "importance": "这是唐末藩镇重组为新王朝的节点，也是观察中原与地方不同步变化的重要起点。",
+      "outcome": "后梁取得中原部分地区，未能统一全国，随后与李存勖的晋军长期争战。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109256,
+          "lineEnd": 109262
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "five-dynasties",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "tang"
+      ]
+    },
+    {
+      "id": "cn-wuyue-pagoda",
+      "title": "钱弘俶铸造佛塔",
+      "start": 955,
+      "end": 965,
+      "summary": "955与965年两次造塔活动留下铭文和实物；愿数不等于存世数量。",
+      "personNames": [
+        "钱弘俶"
+      ],
+      "sourceIds": [
+        "cn-five-art"
+      ],
+      "periodId": "five-dynasties",
+      "placeId": "place-five-dynasties",
+      "lane": "china",
+      "personIds": [
+        "qianhongchu"
+      ],
+      "note": ""
+    },
+    {
+      "id": "cn-liao-founded",
+      "title": "耶律阿保机建立契丹国",
+      "start": 916,
+      "end": 916,
+      "summary": "耶律阿保机在契丹部族联盟基础上称帝建国，创设王朝制度，并吸收不同地区人口和行政经验，形成北方长期重要政权。",
+      "personNames": [
+        "耶律阿保机"
+      ],
+      "sourceIds": [
+        "cn-liao"
+      ],
+      "periodId": "song-liao-xia-jin",
+      "placeId": "place-song-liao-xia-jin",
+      "lane": "china",
+      "personIds": [
+        "yelv-abaoji"
+      ],
+      "note": "916年为本站建国起点；907年掌权与后来的辽国号变化另行区分。",
+      "dateLabel": "916年",
+      "category": "建国与转折",
+      "importance": "辽不是宋朝的短暂陪衬，其制度、城市和外交是这一时期中国历史的组成部分。",
+      "outcome": "契丹国逐步扩展，后来控制燕云等地区，与中原王朝形成长期互动。",
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第一章 辽朝的建立",
+          "section": "第一节 阿保机夺取汗位及称帝",
+          "lineStart": 129783,
+          "lineEnd": 129819
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-song-south",
+      "title": "赵构即位与宋室南迁",
+      "start": 1127,
+      "end": 1138,
+      "summary": "赵构在北宋覆亡后即位，重建宋朝，朝廷在金军压力下辗转南移，逐步以临安为驻跸中心，南方行政与军防重新整合。",
+      "personNames": [
+        "朱熹"
+      ],
+      "sourceIds": [
+        "cn-1000-1400"
+      ],
+      "periodId": "song-liao-xia-jin",
+      "placeId": "place-song-liao-xia-jin",
+      "lane": "china",
+      "personIds": [
+        "zhaogou",
+        "zhuxi",
+        "liqingzhao"
+      ],
+      "note": "原条目1127—1279是整个南宋阶段；这里缩为重建与南迁过程。",
+      "dateLabel": "1127—1138年",
+      "category": "建国与转折",
+      "importance": "政治中心南移与既有经济格局结合，使江南成为宋廷财政、文化与军事经营的重心。",
+      "outcome": "南宋政权逐步立足，但宋金边界和战争和平安排仍经过多次反复。",
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十一章 南宋与金对峙局面的形成",
+          "section": "第一节 宋王朝的重建与南迁",
+          "lineStart": 125530,
+          "lineEnd": 125544
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-name",
+      "title": "忽必烈定国号大元",
+      "start": 1271,
+      "end": 1271,
+      "summary": "忽必烈在蒙古汗位争夺和经营汉地之后改国号大元，建立兼用蒙古传统与中原制度的朝廷，南宋此时仍独立存在。",
+      "personNames": [
+        "忽必烈"
+      ],
+      "sourceIds": [
+        "cn-1000-1400"
+      ],
+      "periodId": "yuan",
+      "placeId": "place-yuan",
+      "lane": "china",
+      "personIds": [
+        "khubilai"
+      ],
+      "note": "1206大蒙古国、1271大元、1279南宋亡是三个不同起讫口径。",
+      "dateLabel": "1271年",
+      "category": "建国与转折",
+      "importance": "大元建号表明王朝统治组织的进一步确立，应与蒙古建国和后来灭宋分别理解。",
+      "outcome": "元朝继续整合行政、财政与军事，随后完成对南宋的征服并经营全国性秩序。",
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第五章 元朝的建立",
+          "section": "第二节 封建专制王权的建立",
+          "lineStart": 141233,
+          "lineEnd": 141257
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-art",
+      "title": "赵孟頫与元代书画探索",
+      "start": 1290,
+      "end": 1320,
+      "summary": "赵孟頫等提倡古意与书画用笔相通，在山水、人物、竹石及书法中探索不同表达，文人画与宫廷、职业绘画同时存在。",
+      "personNames": [
+        "赵孟頫"
+      ],
+      "sourceIds": [
+        "cn-yuan"
+      ],
+      "periodId": "yuan",
+      "placeId": "place-yuan",
+      "lane": "china",
+      "personIds": [
+        "zhaomengfu"
+      ],
+      "note": "此为活动窗口，不是生卒年；文人画不能代表元朝全部视觉文化。",
+      "dateLabel": "约13世纪末—14世纪初",
+      "category": "思想与文化",
+      "importance": "书画关系和笔墨观念成为理解元代艺术的重要线索，也深刻影响明清文人画。",
+      "outcome": "元代绘画形成多样风格，观赏者可从用笔、题跋和作品流传认识其文化联系。",
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十三章 文 化",
+          "section": "第四节 文学艺术",
+          "lineStart": 146459,
+          "lineEnd": 146495
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-found",
+      "title": "朱元璋建立明朝",
+      "start": 1368,
+      "end": 1368,
+      "summary": "朱元璋在元末起义和群雄竞争中壮大，1368年在南京建立明朝，随后派军北伐并继续统一各地，元廷退出大都。",
+      "personNames": [
+        "朱元璋"
+      ],
+      "sourceIds": [
+        "cn-1000-1400"
+      ],
+      "periodId": "ming",
+      "placeId": "place-ming",
+      "lane": "china",
+      "personIds": [
+        "zhuyuanzhang"
+      ],
+      "note": "元廷退出大都、明建国和各地平定并非同日完成。",
+      "dateLabel": "1368年",
+      "category": "建国与转折",
+      "importance": "明的建立开启新的政治与赋役秩序，也标志元末多方竞争进入新的整合阶段。",
+      "outcome": "明朝逐步控制原元大部分地区，北方蒙古政权与边疆关系仍需持续经营。",
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第一章 元末农民大起义和明朝的建立",
+          "section": "第三节 朱元璋参加红巾军和建立明朝",
+          "lineStart": 148872,
+          "lineEnd": 148880
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-zhenghe",
+      "title": "郑和七次远航",
+      "start": 1405,
+      "end": 1433,
+      "summary": "郑和、王景弘等组织大型船队多次航行印度洋诸地，进行外交、物资交换及相关军事行动，与沿途多种社会建立联系。",
+      "personNames": [
+        "郑和"
+      ],
+      "sourceIds": [
+        "cn-1400-1600",
+        "fuzhou-zhenghe-last-voyage",
+        "neac-zhenghe-voyages"
+      ],
+      "periodId": "ming",
+      "placeId": "place-ming",
+      "lane": "china",
+      "personIds": [
+        "zhenghe",
+        "zhudi"
+      ],
+      "note": "本书部分叙述写至1430年，末航回国年依福州市档案馆等资料采用1433。",
+      "dateLabel": "1405—1433年",
+      "category": "战争与外交",
+      "importance": "远航连接明廷外交与印度洋网络，可与同时期各地区的港口、贸易和政治并看。",
+      "outcome": "航海知识和物资人员往来扩大，但国家航行并不等于此后所有民间海贸均被允许。",
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第六章 明初的中外关系和郑和远航亚非各国",
+          "section": "",
+          "lineStart": 150965,
+          "lineEnd": 151018
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qing-name-1636",
+      "title": "皇太极定国号大清",
+      "start": 1636,
+      "end": 1636,
+      "summary": "皇太极在整合满、蒙、汉多种力量后称帝，改国号为大清，调整官制与礼仪，政权目标由辽东进一步转向更广范围。",
+      "personNames": [
+        "皇太极"
+      ],
+      "sourceIds": [
+        "cn-qing-name"
+      ],
+      "periodId": "qing",
+      "placeId": "place-qing",
+      "lane": "china",
+      "personIds": [
+        "huangtaiji"
+      ],
+      "note": "改族称满洲在1635年，改国号在1636年；两项不能合成同一天。",
+      "dateLabel": "1636年",
+      "category": "建国与转折",
+      "importance": "大清建号是清王朝形成的重要节点，早于1644年入关和迁都北京。",
+      "outcome": "清继续对明作战并经营蒙古、朝鲜等关系，军事与行政资源进一步扩展。",
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第三章 皇太极时期后金（清）政权的发展与强大",
+          "section": "第三节 松锦的军事相持与几次深入腹地的斗争",
+          "lineStart": 173041,
+          "lineEnd": 173047
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qing-end",
+      "title": "辛亥革命与清帝退位",
+      "start": 1911,
+      "end": 1912,
+      "summary": "武昌起义后多省宣布独立，革命与立宪等力量共同改变局势。中华民国临时政府成立，南北谈判推进，1912年清帝退位。",
+      "personNames": [
+        "溥仪"
+      ],
+      "sourceIds": [
+        "cn-qing-chron"
+      ],
+      "periodId": "qing",
+      "placeId": "place-qing",
+      "lane": "china",
+      "personIds": [
+        "sunzhongshan",
+        "yuanshikai",
+        "puyi"
+      ],
+      "note": "1911起义、1912民国成立与2月清帝退位分别标注，不归功于单一人物。",
+      "dateLabel": "1911—1912年",
+      "category": "建国与转折",
+      "importance": "清朝结束并改变君主政体，为共和国建立打开新局面，但国家制度与社会问题并未一举解决。",
+      "outcome": "帝制作为中央政体终结，权力转入新的政治安排，北洋军力和各地力量继续影响民初秩序。",
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第十章 宣统朝之穷途末路",
+          "section": "第四节 辛亥革命高潮与清王朝灭亡",
+          "lineStart": 186693,
+          "lineEnd": 186825
+        }
+      ],
+      "coreEntry": true,
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-xia-shaokang",
+      "periodId": "xia",
+      "title": "太康失国与少康中兴的传说",
+      "start": null,
+      "end": null,
+      "dateLabel": "古史传说，未定年",
+      "category": "考古与文献",
+      "summary": "《左传》等后世文献保存夏与有穷氏争夺、少康恢复旧有势力的故事；各书叙述并不齐全，也包含后人的解释和神话成分。",
+      "importance": "它补充了夏史不只包含开国与灭亡的传统认识，但不能直接还原连续政事。",
+      "outcome": "这组故事构成夏代中段兴衰的文献线索，为观察古史叙述的形成提供材料。",
+      "note": "未发现可将各情节逐年落实的同期记录；少康中兴为传统称谓。",
+      "personIds": [
+        "v5-shaokang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）",
+          "section": "二、夏王朝的历史传说及夏代的社会性质",
+          "lineStart": 2652,
+          "lineEnd": 2688
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "xia",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "v5-shang-founding",
+      "periodId": "shang",
+      "title": "商汤灭夏与商王朝开端",
+      "start": -1600,
+      "end": -1600,
+      "dateLabel": "约公元前1600年",
+      "category": "建国与转折",
+      "summary": "传世文献记载商汤联合力量征伐夏桀，夏商政治格局发生改变。商先王世系还可与甲骨祭祀名号对读，但战争细节主要来自后世追述。",
+      "importance": "它是传统中国王朝更替叙述的重要起点，也是比较文献与甲骨证据的切入口。",
+      "outcome": "商成为中原重要政治力量，后来逐步发展出以王室为中心的统治与祭祀网络。",
+      "note": "约数为通行分期展示；鸣条等具体地望和战事细节存在争论。",
+      "personIds": [
+        "v5-tang",
+        "v5-xiajie",
+        "v5-yiyin"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第五章 商王朝前期的历史——从原始社会到奴隶社会的过渡时期（下）",
+          "section": "第一节 商汤的灭夏",
+          "lineStart": 3617,
+          "lineEnd": 3657
+        },
+        {
+          "volume": 2,
+          "chapter": "第二章 殷商世系",
+          "section": "",
+          "lineStart": 17341,
+          "lineEnd": 17355
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "shang",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "xia"
+      ]
+    },
+    {
+      "id": "v5-shang-wuding",
+      "periodId": "shang",
+      "title": "武丁时期的王室与方国战争",
+      "start": null,
+      "end": null,
+      "dateLabel": "商代晚期·武丁时期",
+      "category": "战争与外交",
+      "summary": "甲骨记录中，武丁及王室成员参与对土方等方国的军事事务，妇好也出现在相关卜辞中。战争、祭祀与人员动员在这些材料中互相联系。",
+      "importance": "它展示商王权如何在与周边政治共同体的关系中运作，而不只是孤立王表。",
+      "outcome": "晚商王室活动的参与者与组织线索更加可见，但具体疆界和战役全貌仍不完整。",
+      "note": "属于晚商武丁时期，未在本条拟定无争议的绝对起讫年；方国不等于现代民族国家。",
+      "personIds": [
+        "v5-wuding",
+        "fuhao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 2,
+          "chapter": "第四章 殷商方国",
+          "section": "",
+          "lineStart": 19299,
+          "lineEnd": 19345
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "shang",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "v5-shang-oracle",
+      "periodId": "shang",
+      "title": "甲骨刻辞留下王室事务记录",
+      "start": null,
+      "end": null,
+      "dateLabel": "商代晚期，未拟定单一起始年",
+      "category": "思想与文化",
+      "summary": "晚商甲骨刻辞保存卜问雨水、收成、战争和祭祀等内容，一些还记判断与事后情况。它们让研究者得以接触当时留下的文字材料。",
+      "importance": "甲骨材料改变了商史主要依靠后世文献的局面，并可与传世世系相互核对。",
+      "outcome": "商王室关心的事务和记录方式逐渐可被辨识，中国古文字研究获得重要基础。",
+      "note": "刻辞并非完整日记，卜问不等于事件已经发生；残缺与释读问题必须保留。",
+      "personIds": [
+        "v5-wuding"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第八章 商代后期的经济发展",
+          "section": "第一节 商代后期农业的发展",
+          "lineStart": 6194,
+          "lineEnd": 6228
+        },
+        {
+          "volume": 1,
+          "chapter": "第十章 商代的文化、科学与艺术",
+          "section": "四、甲骨的发现和卜辞文例",
+          "lineStart": 10406,
+          "lineEnd": 10496
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "shang",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "v5-shang-bronze",
+      "periodId": "shang",
+      "title": "商代青铜作坊与礼器体系",
+      "start": null,
+      "end": null,
+      "dateLabel": "商代中晚期的长期过程",
+      "category": "社会与经济",
+      "summary": "郑州和安阳的铸铜作坊遗存包括陶范、坩埚和炼渣，青铜器类型与纹饰也日益丰富。这些材料呈现技术、专业劳动与王室礼仪的联系。",
+      "importance": "青铜文明的成就来自复杂工艺和资源组织，不能只归功于一位君主或一件重器。",
+      "outcome": "礼器、兵器等器物的制作与使用扩大，形成商代物质文化的重要特征。",
+      "note": "这是长期过程；书中部分器物名称、重量和发现统计有旧口径，本条不沿用。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第八章 商代后期的经济发展",
+          "section": "一、精致的青铜器",
+          "lineStart": 7410,
+          "lineEnd": 7448
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "shang",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "v5-zhou-east",
+      "periodId": "zhou",
+      "title": "周公东征与周初秩序巩固",
+      "start": null,
+      "end": null,
+      "dateLabel": "西周初年，绝对年代未统一",
+      "category": "战争与外交",
+      "summary": "武王去世后，周初出现管蔡、武庚及东方力量的反抗。周公组织东征，重新安排统治关系，显示周取代商并非牧野一战就全部完成。",
+      "importance": "东征是周初政治危机与统治扩展的重要转折，有助于理解新王朝的整合过程。",
+      "outcome": "东方的统治与分封网络进一步发展，为成王时期政治秩序提供条件。",
+      "note": "周初相对年次与绝对年代有争议；不以传说心理解释全部行动。",
+      "personIds": [
+        "v5-zhougong",
+        "v5-chengwang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十二章 周王朝的建立",
+          "section": "第二节 周公旦及其东征",
+          "lineStart": 12914,
+          "lineEnd": 13046
+        },
+        {
+          "volume": 3,
+          "chapter": "第四章 周朝的创建和东征的胜利",
+          "section": "三 周公摄政称王和“三监”、武庚、东夷叛乱",
+          "lineStart": 47021,
+          "lineEnd": 47157
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "zhou",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "v5-zhou-luoyi",
+      "periodId": "zhou",
+      "title": "营建洛邑与扩大分封",
+      "start": null,
+      "end": null,
+      "dateLabel": "西周初年的持续建设",
+      "category": "制度与改革",
+      "summary": "周初在洛邑建立东方政治据点，并以分封亲属和相关贵族等方式扩展统治。城邑、驻军、诸侯与王室之间形成相互联系的组织网络。",
+      "importance": "它说明周的统治依靠多中心的联系与安排，不能直接套用后世统一郡县模型。",
+      "outcome": "东方控制得到加强，诸侯国长期发展，也为后来王室与诸侯关系变化埋下条件。",
+      "note": "营洛与分封是多阶段过程，具体制度随时地变化，不给它们拟一个共同确年。",
+      "personIds": [
+        "v5-zhougong",
+        "v5-chengwang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十二章 周王朝的建立",
+          "section": "四、周公营建东都洛邑和还政成王",
+          "lineStart": 13046,
+          "lineEnd": 13112
+        },
+        {
+          "volume": 3,
+          "chapter": "第四章 西周初期的分封制",
+          "section": "",
+          "lineStart": 51975,
+          "lineEnd": 51985
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "zhou",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "v5-zhou-gonghe",
+      "periodId": "zhou",
+      "title": "国人暴动与共和时期",
+      "start": -841,
+      "end": -828,
+      "dateLabel": "公元前841—前828年",
+      "category": "建国与转折",
+      "summary": "周厉王时期政治与利益冲突加剧，国人逐走厉王，王政进入通常称共和的阶段。此时由谁实际主持政事，传世材料记载存在分歧。",
+      "importance": "共和元年前841年是中国传统史学连续纪年的重要起点，政局也显出王权约束。",
+      "outcome": "厉王离开王都，王室在新的政治安排下延续，后来进入宣王时期。",
+      "note": "国人不等于现代全体国民；共和主持者有周召二公与共伯和等解释。",
+      "personIds": [
+        "v5-liwang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第二节 周厉王专利与国人暴动及国人暴动的伟大意义",
+          "lineStart": 16719,
+          "lineEnd": 16785
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "zhou",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-zhou-xuan",
+      "periodId": "zhou",
+      "title": "宣王整顿与晚周压力",
+      "start": -827,
+      "end": -782,
+      "dateLabel": "公元前827—前782年（在位期窗口）",
+      "category": "建国与转折",
+      "summary": "宣王即位后修整政务并发动多方向军事行动，诗歌与金文留下相关线索。所谓中兴包含王室恢复的表现，也与晚期持续战争压力并存。",
+      "importance": "这一时期帮助连接共和后的恢复与西周末年的危机，避免把晚周视为直线衰落。",
+      "outcome": "王室一度重振影响，但军事、资源与政治关系问题并未由此永久解决。",
+      "note": "采用通行在位期作展示窗口；中兴为传统评价，不代表整个社会无矛盾。",
+      "personIds": [
+        "v5-xuanwang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第四节 所谓“宣王中兴”",
+          "lineStart": 16787,
+          "lineEnd": 16815
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "zhou",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-qi-hegemony",
+      "periodId": "eastern",
+      "title": "管仲改革与齐桓公称霸",
+      "start": -685,
+      "end": -651,
+      "dateLabel": "",
+      "category": "制度与改革",
+      "summary": "齐桓公任用管仲，改革经济与军政组织，并通过战争、援助和会盟扩大影响。葵丘会盟是其霸业的重要节点，齐逐渐成为诸侯间的强国。",
+      "importance": "它展示霸主形成不只依靠战场胜负，也涉及用人、资源组织和外交协调。",
+      "outcome": "齐成为春秋早期重要盟主，诸侯在名义尊周的同时由强国主导秩序。",
+      "note": "区间为改革至会盟的观察窗口；《管子》是多时期汇编，不能全作管仲亲著。",
+      "personIds": [
+        "v5-qihuangong",
+        "v5-guanzhong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第二章诸侯的改革与大国的争霸",
+          "section": "第一节管仲的改革与齐桓公称霸",
+          "lineStart": 61940,
+          "lineEnd": 62014
+        },
+        {
+          "volume": 4,
+          "chapter": "第七章春秋时代的思想、文化艺术和科学技术",
+          "section": "三、 思想家及其主要思想",
+          "lineStart": 64200,
+          "lineEnd": 64200
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-chengpu",
+      "periodId": "eastern",
+      "title": "城濮之战与晋文公称霸",
+      "start": -632,
+      "end": -632,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "晋文公复位后发展军政，与楚争夺中原影响。晋楚在城濮交战，晋取得胜利，随后通过会盟等方式巩固其诸侯盟主地位。",
+      "importance": "它反映春秋霸权从齐向晋等强国变化，中原政治受大国战争和结盟共同塑造。",
+      "outcome": "晋的影响上升，晋楚争衡成为此后较长时期的重要政治格局。",
+      "note": "战役叙事主要见于传世史书，不把退避三舍等故事扩写成未经证实的对白。",
+      "personIds": [
+        "v5-jinwengong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第二章诸侯的改革与大国的争霸",
+          "section": "六、 城濮之战，晋文公称霸",
+          "lineStart": 62050,
+          "lineEnd": 62070
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-tax",
+      "periodId": "eastern",
+      "title": "鲁国初税亩与赋税变化",
+      "start": -594,
+      "end": -594,
+      "dateLabel": "",
+      "category": "社会与经济",
+      "summary": "鲁国出现初税亩的记载，田亩如何承担租税成为制度变化的重要线索。书中把它与私田发展、国君财政及农户经营方式联系起来讨论。",
+      "importance": "它把诸侯政治与普通农户的负担连接起来，是观察春秋社会经济变动的典型事件。",
+      "outcome": "按田亩讨论税收更加突出，土地、财政与军赋之间的联系进一步发展。",
+      "note": "税率、旧田制性质及其社会分期意义存在争论，不将一种解释当作定论。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第三章春秋时代的社会经济",
+          "section": "八、 井田制的瓦解，封建土地制的确立",
+          "lineStart": 62858,
+          "lineEnd": 62882
+        },
+        {
+          "volume": 5,
+          "chapter": "第四章 春秋战国间社会经济制度的变革",
+          "section": "一 农田制度的变革",
+          "lineStart": 67546,
+          "lineEnd": 67556
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-wu-yue",
+      "periodId": "eastern",
+      "title": "吴越争霸与越灭吴",
+      "start": -496,
+      "end": -473,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "吴越持续争战，吴一度击败越并北上争霸，越则恢复生产并等待机会反攻。最终越灭吴，长江下游力量成为春秋后期格局的重要部分。",
+      "importance": "它说明春秋政治不只发生于黄河中游，也涉及江淮、长江下游的国家竞争。",
+      "outcome": "吴的争霸结束，越的影响扩展；长期战争也给地方资源和民众带来巨大消耗。",
+      "note": "卧薪尝胆等叙事应区分文献层次，胜败不能单归因于君主个人性格。",
+      "personIds": [
+        "v5-goujian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第二章诸侯的改革与大国的争霸",
+          "section": "六、 吴越的争斗，越灭吴",
+          "lineStart": 62352,
+          "lineEnd": 62368
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-three-jin",
+      "periodId": "eastern",
+      "title": "三家分晋与战国格局形成",
+      "start": -453,
+      "end": -403,
+      "dateLabel": "",
+      "category": "建国与转折",
+      "summary": "赵、魏、韩在晋国内部竞争中击败知氏并分其地，逐渐形成独立国家，后来获得周王承认。政治权力由旧诸侯公室进一步转向强大卿族。",
+      "importance": "它是观察春秋向战国转变的代表性过程，说明战国格局有长期形成的历史。",
+      "outcome": "魏、赵、韩成为战国重要诸侯，旧晋国的名义和实际地位持续衰落。",
+      "note": "前453年分地与前403年列为诸侯是不同节点，不混作同一天建国。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第七章 七强并立的形势和战争规模的扩大",
+          "section": "二 七强并立形势的形成",
+          "lineStart": 68755,
+          "lineEnd": 68759
+        },
+        {
+          "volume": 5,
+          "chapter": "第五章 战国前期各诸侯国的变法改革",
+          "section": "二 赵国公仲连的改革",
+          "lineStart": 67817,
+          "lineEnd": 67817
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-shang-reform",
+      "periodId": "eastern",
+      "title": "商鞅变法与秦国制度重组",
+      "start": -356,
+      "end": -338,
+      "dateLabel": "",
+      "category": "制度与改革",
+      "summary": "秦孝公支持商鞅推进耕织、军功、户籍与地方行政等改革。新法把国家资源动员与农户生活联系起来，同时触及既有特权并引发冲突。",
+      "importance": "它是秦国崛起的重要条件，也是理解战国国家如何强化组织与控制的典型案例。",
+      "outcome": "秦的行政与军事组织能力增强，商鞅死后不少制度继续存在并逐步调整。",
+      "note": "改革分多次实施，具体措施年代有异说；不把富强等同于所有人的生活改善。",
+      "personIds": [
+        "shangyang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第五章 战国前期各诸侯国的变法改革",
+          "section": "六 秦国卫鞅的变法",
+          "lineStart": 67895,
+          "lineEnd": 67965
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-hufu",
+      "periodId": "eastern",
+      "title": "赵武灵王推行胡服骑射",
+      "start": -307,
+      "end": -307,
+      "dateLabel": "",
+      "category": "制度与改革",
+      "summary": "赵武灵王在边境军事互动中推动服饰与骑射改革，训练马上作战能力。改革遭遇既有礼俗观念的反对，也获得部分大臣支持。",
+      "importance": "它体现战国军事变化与不同人群间技术、服饰交流，而非各国封闭发展的历史。",
+      "outcome": "赵国骑兵及北方军事能力得到发展，参与中山和北部地区的竞争。",
+      "note": "胡为当时宽泛称呼，不对应单一现代民族；改革不是所有军队瞬间完成转型。",
+      "personIds": [
+        "v5-zhaowuling"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "三 孟尝君合纵齐、韩、魏而胜楚攻秦和赵武灵王“胡服骑射”而攻取中山及胡地",
+          "lineStart": 69538,
+          "lineEnd": 69538
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-diplomacy",
+      "periodId": "eastern",
+      "title": "合纵连横与列国外交",
+      "start": -322,
+      "end": -241,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "张仪、公孙衍等策士在列国间推动结盟，各国随利益与强弱改变而合纵或连横。外交、战争与土地兼并彼此交织，并无永久不变的阵营。",
+      "importance": "它展示战国竞争中的联盟选择和士人流动，不能简化成秦与六国始终两方对立。",
+      "outcome": "结盟影响战争方向与各国处境，秦等强国也借机扩大实力和控制重要通道。",
+      "note": "区间为书中所述主要外交活动窗口；纵横故事经过后世加工，需逐事判断。",
+      "personIds": [
+        "v5-zhangyi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "二 张仪、公孙衍的连横、合纵和秦灭巴蜀、取汉中以及楚灭越",
+          "lineStart": 69346,
+          "lineEnd": 69368
+        },
+        {
+          "volume": 5,
+          "chapter": "第九章 秦的统一",
+          "section": "一 秦兼并六国和完成统一",
+          "lineStart": 70093,
+          "lineEnd": 70121
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-bashu",
+      "periodId": "eastern",
+      "title": "秦灭巴蜀与西南力量重组",
+      "start": -316,
+      "end": -316,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "秦在巴蜀与周边势力冲突中出兵，攻灭蜀并兼并巴地。此后当地统治仍有保留旧有君长、设置官员和逐步整合等不同安排。",
+      "importance": "它扩大了秦的战略与资源基础，也提醒我们注意西南地区自身的政治历史。",
+      "outcome": "秦获得重要西南地区与通道，但地方整合经历反复，并非一次战争即全部完成。",
+      "note": "不以兼并抹去巴蜀自身文化，也不把古代地域直接等同现代行政边界。",
+      "personIds": [
+        "v5-zhangyi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "二 张仪、公孙衍的连横、合纵和秦灭巴蜀、取汉中以及楚灭越",
+          "lineStart": 69362,
+          "lineEnd": 69366
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-changping",
+      "periodId": "eastern",
+      "title": "长平之战与秦赵消耗",
+      "start": -260,
+      "end": -260,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "秦赵在长平长期相持后发生决战，秦军在白起指挥下取胜，赵军遭受惨重损失。战事也重压双方的粮食、兵员与社会资源。",
+      "importance": "它是战国兼并战争规模与代价的典型，显著影响秦赵及东方诸国的力量关系。",
+      "outcome": "赵的军事力量受到重创，秦继续扩展优势，但其后进攻邯郸仍遭遇反击。",
+      "note": "传世伤亡数字不能当作精确统计；战争进程不只由赵括个人能力决定。",
+      "personIds": [
+        "v5-baiqi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "六 秦、赵间剧战，楚灭鲁和秦灭西周以及魏攻取陶、卫",
+          "lineStart": 69994,
+          "lineEnd": 70034
+        },
+        {
+          "volume": 5,
+          "chapter": "第九章 秦的统一",
+          "section": "一 秦兼并六国和完成统一",
+          "lineStart": 70099,
+          "lineEnd": 70101
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-eastern-schools",
+      "periodId": "eastern",
+      "title": "诸子讲学与百家争鸣",
+      "start": null,
+      "end": null,
+      "dateLabel": "春秋末至战国的持续过程",
+      "category": "思想与文化",
+      "summary": "士的活动、私学与著述发展，儒、墨、道、法等不同思想讨论秩序、伦理和治理。各家有共同问题，也有明显分歧，并在长期传播中变化。",
+      "importance": "它形成中国思想文化的重要基础，也显示政治竞争与知识传播之间的密切关系。",
+      "outcome": "讲学、辩论和著书成为重要文化活动，诸子文献持续影响后来的政治与社会。",
+      "note": "这是持续过程，不拟定单一开端年；各书有多层编纂历史，不能全作个人原话。",
+      "personIds": [
+        "v5-kongzi",
+        "v5-laozi",
+        "v5-mozi",
+        "v5-mengzi",
+        "v5-xunzi",
+        "v5-hanfei",
+        "v5-zhuangzi",
+        "v5-sunwu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "一 士的活跃和“百家争鸣”",
+          "lineStart": 70590,
+          "lineEnd": 70614
+        },
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "二 墨子的天志、兼爱和尚贤学说",
+          "lineStart": 70642,
+          "lineEnd": 70670
+        },
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "三 老子主张柔弱和无为的道家学说",
+          "lineStart": 70686,
+          "lineEnd": 70702
+        },
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "七 孟子主张“王道”和“仁政”的儒家学说",
+          "lineStart": 70810,
+          "lineEnd": 70820
+        },
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "十一 荀子主张礼治的儒家学说",
+          "lineStart": 70920,
+          "lineEnd": 70966
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "v5-eastern-chuci",
+      "periodId": "eastern",
+      "title": "屈原与楚辞文学",
+      "start": null,
+      "end": null,
+      "dateLabel": "战国时期，作品形成时间不一",
+      "category": "思想与文化",
+      "summary": "楚地文学在地方语言、祭祀歌辞与文人创作中形成鲜明风格，屈原作品成为重要代表。政治经历、理想表达与丰富想象在相关篇章中交织。",
+      "importance": "它展示先秦文化的地域多样性，提供超出王朝战争和制度史的审美入口。",
+      "outcome": "楚辞的语言、意象和抒情方式深刻影响后世文学，并形成持续的文化记忆。",
+      "note": "屈原生平与个别作品归属存在讨论，不把《楚辞》全书都归为其一人创作。",
+      "personIds": [
+        "v5-quyuan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十二章 战国时代文化的发展",
+          "section": "二 文体的变革和文学的发展",
+          "lineStart": 72086,
+          "lineEnd": 72098
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern",
+      "status": "章节支持",
+      "temporalStatus": "period-or-undated"
+    },
+    {
+      "id": "v5-qin-standards",
+      "periodId": "qin",
+      "title": "书同文与统一度量衡",
+      "start": -221,
+      "end": -210,
+      "dateLabel": "",
+      "category": "制度与改革",
+      "summary": "秦以原秦制为基础推广计量、货币与文字规范，标准量器加刻诏文，官府和各地事务因此获得共同依据。文字书写本身仍有持续演变。",
+      "importance": "它把帝国政令与交易、征收及文书实践联系起来，是理解治理如何落地的典型。",
+      "outcome": "跨地区处理事务的共同尺度增加，相关制度和字形传统继续影响后代。",
+      "note": "区间为帝国时期观察窗口，非每项措施的共同起讫；书同文不等于只有一种实际字体。",
+      "personIds": [
+        "qinshi",
+        "v5-lisi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "一 经济政策",
+          "lineStart": 74813,
+          "lineEnd": 74909
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qin",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-qin-north",
+      "periodId": "qin",
+      "title": "北方用兵与长城整修",
+      "start": -215,
+      "end": -211,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "秦派蒙恬等向北方用兵，控制河套相关地区，并利用既有城墙整修防御、安排移民戍守。军事、工程与人口调动在边地治理中结合。",
+      "importance": "它显示统一后帝国仍面临边疆军事与资源组织问题，也涉及不同人群的长期互动。",
+      "outcome": "北方防御与行政据点发展，同时战争、修筑和戍守增加国家与民众负担。",
+      "note": "不把今天可见明长城外观当秦长城，也不照书中旧统计绘制精确边界。",
+      "personIds": [
+        "qinshi",
+        "v5-mengtian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二章 秦王朝的建立",
+          "section": "一 匈奴和秦王朝的关系",
+          "lineStart": 74227,
+          "lineEnd": 74246
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qin",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-qin-books",
+      "periodId": "qin",
+      "title": "焚书与坑儒记载",
+      "start": -213,
+      "end": -212,
+      "dateLabel": "",
+      "category": "思想与文化",
+      "summary": "秦朝围绕分封与政治批评的争论颁布焚书禁令，随后又有惩处诸生等记载。传统以焚书坑儒概括两事，它们的对象与经过应分别考察。",
+      "importance": "它是讨论帝国思想控制、知识传播与文献损失的重要事件，不能仅当作传奇故事。",
+      "outcome": "部分典籍流传与思想活动受到限制，后世又不断围绕事件范围与性质进行讨论。",
+      "note": "两事并非同一天；坑杀对象与细节有争议，不采用晚出种瓜诱杀传说作定论。",
+      "personIds": [
+        "qinshi",
+        "v5-lisi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "一 暴虐和愚蠢的“焚书坑儒”",
+          "lineStart": 74961,
+          "lineEnd": 74983
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qin",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-qin-dazexiang",
+      "periodId": "qin",
+      "title": "陈胜吴广起义",
+      "start": -209,
+      "end": -209,
+      "dateLabel": "",
+      "category": "建国与转折",
+      "summary": "陈胜、吴广率戍卒在大泽乡起事，随后建立张楚政权并向外发展。反秦行动引发各地响应，秦末局势由局部反抗转为广泛战争。",
+      "importance": "它揭开秦末大规模反抗的序幕，使帝国统治危机迅速转化为军事和政治重组。",
+      "outcome": "起义主力虽很快受挫，反秦力量却继续发展，项羽、刘邦等逐渐成为重要领袖。",
+      "note": "遇雨失期皆斩是传世叙事，需与秦律材料对读；不把它当所有徭役统一规则。",
+      "personIds": [
+        "v5-chensheng",
+        "v5-wuguang",
+        "v5-huhai"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "二 起义的爆发和反秦战争的初步胜利",
+          "lineStart": 75151,
+          "lineEnd": 75183
+        },
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "一 农民起义军重振军威",
+          "lineStart": 75266,
+          "lineEnd": 75282
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qin",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-qin-julu",
+      "periodId": "qin",
+      "title": "巨鹿之战",
+      "start": -207,
+      "end": -207,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "秦军围攻巨鹿，项羽率军救援并击败秦军重要部队，随后章邯等投降。战役与其后的军事变化共同使秦在东方维持统治的能力严重削弱。",
+      "importance": "它是秦末战争的重要转折，项羽由此在诸侯军中取得突出的军事地位。",
+      "outcome": "秦主力遭重创，反秦力量能够进一步进攻关中，战争与权力争夺进入新阶段。",
+      "note": "战役前后跨数月，年代随历法换算有差异；不采用夸张兵数作为精确战力模型。",
+      "personIds": [
+        "v5-xiangyu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "一 农民起义军重振军威",
+          "lineStart": 75304,
+          "lineEnd": 75314
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qin",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-wenjing",
+      "periodId": "han",
+      "title": "文景之治与休养政策",
+      "start": -180,
+      "end": -141,
+      "dateLabel": "",
+      "category": "社会与经济",
+      "summary": "汉初长期战争后实行较为宽缓的治理，文景时期减轻部分赋税、重视农耕与节用。社会生产逐渐恢复，但土地、身份和负担差异仍然存在。",
+      "importance": "它展示新王朝从战争动员转向恢复治理，也为后来中央政策扩张提供条件。",
+      "outcome": "国家财力和生产积累增加，休养政策成为后世讨论治国经验的重要参照。",
+      "note": "采用文景时期作窗口；轻田租不等于免除全部赋役，也不代表所有群体同等富裕。",
+      "personIds": [
+        "v5-wendi",
+        "v5-jingdi",
+        "v5-lvhou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75857,
+          "lineEnd": 75928
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-seven",
+      "periodId": "han",
+      "title": "吴楚七国之乱",
+      "start": -154,
+      "end": -154,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "景帝削减诸侯王封地，引发吴楚等七国起兵。朝廷派军应对，周亚夫等击败主力，叛乱失败后中央进一步调整诸侯国的权力与治理。",
+      "importance": "它是西汉中央与诸侯关系的重大转折，显示郡国并行内部的政治矛盾。",
+      "outcome": "诸侯王的军事与行政能力继续受到限制，后来推恩等措施在此基础上进一步展开。",
+      "note": "削藩是直接导火线，矛盾形成有长期条件；不把叛乱全归晁错一人。",
+      "personIds": [
+        "v5-jingdi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "三 “吴楚七国之乱”",
+          "lineStart": 75977,
+          "lineEnd": 76015
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-confucian",
+      "periodId": "han",
+      "title": "尊儒与太学制度发展",
+      "start": -136,
+      "end": -124,
+      "dateLabel": "",
+      "category": "思想与文化",
+      "summary": "武帝时期设置五经博士，逐步发展太学与经学人才培养，董仲舒等提出相关建议。学术、选官与政治教化之间的联系因此更为紧密。",
+      "importance": "它使儒学在官方教育与政治论述中取得重要地位，影响后世士人入仕道路。",
+      "outcome": "经学教育与官僚培养制度发展，但其他知识和治理资源并未从社会中全部消失。",
+      "note": "不将罢黜百家解释为一令之后其他思想消失；董仲舒建言年代也有讨论。",
+      "personIds": [
+        "wudi",
+        "v5-dongzhongshu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第七章 汉武帝统治时期中央集权的加强",
+          "section": "二 提倡儒学",
+          "lineStart": 76150,
+          "lineEnd": 76191
+        },
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "一 经学和史学",
+          "lineStart": 82592,
+          "lineEnd": 82596
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-tui-en",
+      "periodId": "han",
+      "title": "推恩令削弱诸侯封地",
+      "start": -127,
+      "end": -127,
+      "dateLabel": "",
+      "category": "制度与改革",
+      "summary": "汉武帝采纳主父偃等建议，准诸侯王分封子弟为侯，将原有大国进一步分割。它与其他财政、法令及官僚措施配合，限制诸侯独立力量。",
+      "importance": "推恩展示中央通过继承和封地安排改变政治结构，并非只靠战争削藩。",
+      "outcome": "诸侯国规模和资源进一步分散，中央对地方的联系与控制得到加强。",
+      "note": "不是宣布取消全部诸侯国；实际效果来自多项长期措施共同作用。",
+      "personIds": [
+        "wudi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第七章 汉武帝统治时期中央集权的加强",
+          "section": "二 打击豪强和抑制诸侯王势力膨胀的措施",
+          "lineStart": 76533,
+          "lineEnd": 76555
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-xiongnu",
+      "periodId": "han",
+      "title": "汉匈战争与河西、漠北战役",
+      "start": -133,
+      "end": -119,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "武帝时期对匈奴战争扩大，卫青、霍去病等参与河套、河西与漠北方向的军事行动。战争改变战略格局，也消耗双方大量人力物力。",
+      "importance": "它深刻影响汉与北方草原政治关系，同时联系西域往来、边郡建设和财政调整。",
+      "outcome": "汉的北方及西北控制扩展，但战争未使匈奴立即消失，双方互动仍长期持续。",
+      "note": "只取主要军事阶段为窗口；不把复杂人群关系简化为现代国家间固定边界。",
+      "personIds": [
+        "wudi",
+        "v5-weiqing",
+        "v5-huoqubing"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第八章 武帝时期的民族关系",
+          "section": "二 拉开全面反击匈奴的序幕（前133年至前127年）",
+          "lineStart": 76748,
+          "lineEnd": 76835
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-zhangqian",
+      "periodId": "han",
+      "title": "张骞出使西域",
+      "start": -138,
+      "end": -126,
+      "dateLabel": "约公元前138—前126年",
+      "category": "战争与外交",
+      "summary": "汉武帝为联络大月氏派张骞西行，使团经历拘留与长途跋涉后返回。结盟目标未能实现，但带回关于中亚诸地与交通的重要信息。",
+      "importance": "它扩大汉朝对西方地区的认识和官方往来，外交目标与实际收获并不完全相同。",
+      "outcome": "此后使节、贸易与军事联系继续发展，中原与中亚之间的互动更为频繁。",
+      "note": "书中采用前138年初使口径，亦有前139年说；丝路并非一人一次行动创造。",
+      "personIds": [
+        "v5-zhangqian",
+        "wudi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第八章 武帝时期的民族关系",
+          "section": "一 西汉政府与西域诸国的正式接触",
+          "lineStart": 77084,
+          "lineEnd": 77108
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-saltmonopoly",
+      "periodId": "han",
+      "title": "盐铁官营与均输平准",
+      "start": -119,
+      "end": -110,
+      "dateLabel": "",
+      "category": "制度与改革",
+      "summary": "军事和国家支出增加后，武帝朝逐步推行盐铁官营、均输和平准等财政措施，桑弘羊等参与组织。国家更深入介入重要产品与商品流通。",
+      "importance": "它展示财政需求、市场管理与国家权力之间的联系，也涉及日常用盐和农具。",
+      "outcome": "国用来源扩大，但执行中的价格、质量与官吏问题引发持续批评和政策讨论。",
+      "note": "政策分阶段开展，盐与铁经营方式不同；不把法令目标等同所有实际效果。",
+      "personIds": [
+        "wudi",
+        "v5-sanghongyang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第七章 汉武帝统治时期中央集权的加强",
+          "section": "三 盐铁官营和均输平准政策",
+          "lineStart": 76654,
+          "lineEnd": 76691
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-saltdebate",
+      "periodId": "han",
+      "title": "盐铁会议讨论财政与民生",
+      "start": -81,
+      "end": -81,
+      "dateLabel": "",
+      "category": "制度与改革",
+      "summary": "昭帝时期朝廷召集贤良文学讨论政策，桑弘羊等维护官营，反对者批评其弊端。争论从盐铁延伸到边防、刑政与治理方式。",
+      "importance": "它让不同政策立场和实际约束同时可见，是理解西汉财政与民生张力的典型事件。",
+      "outcome": "部分批评进入后续政策讨论，相关论辩经整理保存，成为政治思想研究的重要文本。",
+      "note": "《盐铁论》经过整理发挥，并非会场逐字实录；不将争论直接写成单一胜负。",
+      "personIds": [
+        "v5-sanghongyang",
+        "v5-huoguang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第九章 繁荣兴旺的“昭宣中兴”时代",
+          "section": "二 一场唇枪舌剑的辩论——“盐铁会议”",
+          "lineStart": 77483,
+          "lineEnd": 77552
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-zhaoxuan",
+      "periodId": "han",
+      "title": "昭宣治理与中兴局面",
+      "start": -87,
+      "end": -49,
+      "dateLabel": "",
+      "category": "社会与经济",
+      "summary": "武帝末年之后，昭宣时期在减轻部分负担、调整政策与整顿吏治方面继续推进。霍光辅政及宣帝用吏等活动，与社会恢复和政治变化相联系。",
+      "importance": "它说明西汉政策并非从汉初宽缓直线走向扩张，治理也会因现实压力而调整。",
+      "outcome": "生产与秩序一度趋于稳定，但中央权力、社会负担和地方关系的问题仍然存在。",
+      "note": "中兴是传统概括；书中昭帝卒年与宣帝即位年有错字，本条不沿用前73年的错误。",
+      "personIds": [
+        "v5-huoguang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第九章 繁荣兴旺的“昭宣中兴”时代",
+          "section": "四 宣帝时期的政治",
+          "lineStart": 77585,
+          "lineEnd": 77612
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-han-latecrisis",
+      "periodId": "han",
+      "title": "西汉后期社会危机与外戚政治",
+      "start": -49,
+      "end": 9,
+      "dateLabel": "",
+      "category": "建国与转折",
+      "summary": "西汉后期灾害、流亡、土地集中和政治权力变化相互交织，改革建议与社会矛盾并存。外戚王氏势力上升，王莽最终取得更大的政治权力。",
+      "importance": "它解释王朝更替的长期背景，避免把西汉终结只归为一位末帝或一场夺位。",
+      "outcome": "旧政治秩序的支持和治理能力受到压力，托古改制与新朝建立成为随后重要转折。",
+      "note": "这是多线索观察窗口，不把灾害直接等同亡国原因，也不把外戚群体一概而论。",
+      "personIds": [
+        "wangmang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十一章 西汉王朝的衰落",
+          "section": "一 风雨飘摇中的西汉王朝",
+          "lineStart": 78432,
+          "lineEnd": 78484
+        },
+        {
+          "volume": 6,
+          "chapter": "第十二章 “新”朝的出现和王莽改制",
+          "section": "二 向帝位逼进的历程",
+          "lineStart": 78760,
+          "lineEnd": 78803
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "han",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-xin-uprising",
+      "periodId": "xin",
+      "title": "绿林赤眉起义与新朝覆亡",
+      "start": 17,
+      "end": 23,
+      "dateLabel": "",
+      "category": "建国与转折",
+      "summary": "饥荒、流亡和新朝治理危机中，绿林、赤眉等武装相继兴起，并与其他反莽力量竞争合作。更始军进入长安，王莽死亡，新朝统治终结。",
+      "importance": "它把社会危机与王朝更替连接起来，也揭开两汉之际不同武装争夺政治秩序的过程。",
+      "outcome": "新朝结束并未立即带来统一，绿林、赤眉、汉宗室与地方力量继续竞争。",
+      "note": "绿林通常系17年，赤眉18年；书中赤眉年号有错字，不把各支武装视作统一组织。",
+      "personIds": [
+        "v5-fanchong",
+        "v5-liuxuan",
+        "liuxiu",
+        "wangmang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "一 由局部走向全国的农民起义",
+          "lineStart": 79384,
+          "lineEnd": 79400
+        },
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "三 “新”莽王朝的覆亡",
+          "lineStart": 79736,
+          "lineEnd": 79756
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "xin",
+      "status": "章节支持"
+    },
+    {
+      "id": "v5-xin-kunyang",
+      "periodId": "xin",
+      "title": "昆阳之战",
+      "start": 23,
+      "end": 23,
+      "dateLabel": "",
+      "category": "战争与外交",
+      "summary": "更始政权建立后，新朝集结军队进攻昆阳。守军与刘秀等援军内外配合击败新军，战役严重削弱王莽维持统治的重要军事力量。",
+      "importance": "它是反莽战争的关键转折，也使刘秀在两汉之际的军事政治活动中更加突出。",
+      "outcome": "新朝军力遭重创，各路反莽行动继续扩大，但更始阵营内部矛盾并未消失。",
+      "note": "兵力数字多有夸大，天气因素也不能神化为天命或人物超能力。",
+      "personIds": [
+        "liuxiu",
+        "v5-liuxuan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "一 决定性的胜利——昆阳大捷",
+          "lineStart": 79592,
+          "lineEnd": 79614
+        },
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "一 决定性的胜利——昆阳大捷",
+          "lineStart": 79668,
+          "lineEnd": 79694
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "xin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-easthan-land-survey",
+      "periodId": "eastern-han",
+      "title": "度田与户口清查",
+      "start": 39,
+      "end": 40,
+      "dateLabel": "39—40年前后",
+      "category": "制度与改革",
+      "summary": "刘秀下令核查垦田和户口，以掌握税役依据。地方执行不均，豪强隐匿与官吏舞弊使清查受到抵制并引起冲突。",
+      "importance": "它把国家财政与地方土地、人口控制联系起来，也显示统一政权面对豪强势力的约束。",
+      "outcome": "朝廷处置部分官员，但清查未按预想全面落实；制度目标与地方实际之间仍有明显距离。",
+      "note": "作者对失败必然性的判断属于解释，本卡只概括政策、阻力与有限落实。",
+      "personIds": [
+        "liuxiu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十四章 东汉王朝的出现",
+          "section": "第三节 恢复生产、安定社会秩序的措施",
+          "lineStart": 80292,
+          "lineEnd": 80298
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ban-chao-west",
+      "periodId": "eastern-han",
+      "title": "班超经营西域与汉匈战事",
+      "start": 73,
+      "end": 102,
+      "dateLabel": "73—102年（活动范围）",
+      "category": "战争与外交",
+      "summary": "班超由军旅转入西域使者活动，长期联络地方政权，参与军事和政治经营，102年回到内地；同期汉军也北击匈奴。",
+      "importance": "这使东汉与西域的联系成为持续经营的过程，不能只用一次出使或一场战役概括。",
+      "outcome": "东汉在西域的政治联系得到加强，人员和信息往来扩大，但各地关系仍会随形势改变。",
+      "note": "展示的是班超主要活动阶段，不等于这三十年间所有西域政权均持续受同样控制。",
+      "personIds": [
+        "banchao",
+        "douxian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十五章 东汉前期的政治",
+          "section": "第三节 东汉前期的民族关系",
+          "lineStart": 80502,
+          "lineEnd": 80575
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-cai-lun-paper",
+      "periodId": "eastern-han",
+      "title": "蔡伦改进造纸",
+      "start": 105,
+      "end": 105,
+      "dateLabel": "105年（呈报节点）",
+      "category": "思想与文化",
+      "summary": "本书依据《后汉书》介绍蔡伦利用树皮、麻料、旧布和鱼网等改进造纸，并于105年将制纸成果呈报朝廷。",
+      "importance": "纸的实用化关系到书写成本与知识传递，应把早期发明、技术改良和长期普及分开理解。",
+      "outcome": "造纸工艺继续发展，左伯等后续改良者和东汉文书纸实物表明技术并未止于一人。",
+      "note": "105年是文献中的呈报节点，不是纸的唯一发明年，也不是竹木简即时退出之年。",
+      "personIds": [
+        "cailun"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十六章 东汉社会经济的发展",
+          "section": "第二节 手工业生产水平的提高",
+          "lineStart": 80860,
+          "lineEnd": 80870
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-zhangheng-science",
+      "periodId": "eastern-han",
+      "title": "张衡的天文与观测技术",
+      "start": 132,
+      "end": 132,
+      "dateLabel": "132年（地动仪文献记载节点）",
+      "category": "思想与文化",
+      "summary": "张衡任太史令期间研究天文历算，制作天体演示装置，并留下地动仪的文献记载，连接理论思考与机械观测。",
+      "importance": "他的活动说明东汉科技依靠文献、计算、仪器和官署工作相互配合，超出单件奇器故事。",
+      "outcome": "天文著述与仪器记载成为后世科学史的重要材料，同时留下需要审慎复原的技术问题。",
+      "note": "132年为文献所述制作节点；原仪器不存，不将现代复原模型当成原物，也不宣称可测定震源距离。",
+      "personIds": [
+        "zhangheng"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第一节 科学技术的主要成就",
+          "lineStart": 82397,
+          "lineEnd": 82415
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-party-proscriptions",
+      "periodId": "eastern-han",
+      "title": "党锢之祸",
+      "start": 166,
+      "end": 169,
+      "dateLabel": "166年、169年及后续禁锢",
+      "category": "制度与改革",
+      "summary": "士大夫、部分官僚和太学生与宦官势力的冲突，在166年及169年演变为大规模捕治和禁锢，牵连众多人士。",
+      "importance": "朝廷权力冲突由官职竞争扩展到士人交往与舆论空间，成为理解东汉后期政治的重要节点。",
+      "outcome": "部分士人遭杀害、流放或禁仕，政治网络受到重创，朝廷与地方士人之间的裂痕扩大。",
+      "note": "党人不是现代政党；禁锢和株连持续发展，不止于两次标志性年份。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十七章 东汉后期的腐败统治",
+          "section": "第二节 一场壮烈的悲剧——“党锢之祸”",
+          "lineStart": 81348,
+          "lineEnd": 81388
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yellow-turbans",
+      "periodId": "eastern-han",
+      "title": "黄巾起义",
+      "start": 184,
+      "end": 184,
+      "dateLabel": "184年；余部活动延续其后",
+      "category": "战争与外交",
+      "summary": "张角领导的太平道网络在起义计划泄露后发动武装行动，多地响应；汉廷征发军队镇压，主力随后被击败。",
+      "importance": "宗教组织、社会困境与地方动员在此交汇，镇压过程中地方军事力量也获得更大活动空间。",
+      "outcome": "起义主力虽败，各地余部和相关武装仍继续活动，东汉晚期军事化局面进一步发展。",
+      "note": "黄巾主力失败不等于所有余部消失，也不能把此役直接等同于220年汉朝终结。",
+      "personIds": [
+        "zhangjiao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十八章 黄巾大起义和东汉的灭亡",
+          "section": "第二节 “遐迩动摇，八州并起”的黄巾大起义",
+          "lineStart": 81529,
+          "lineEnd": 81644
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-dongzhuo-luoyang",
+      "periodId": "eastern-han",
+      "title": "董卓入洛与关东起兵",
+      "start": 189,
+      "end": 190,
+      "dateLabel": "189—190年",
+      "category": "建国与转折",
+      "summary": "董卓率军进入洛阳后废立皇帝、控制朝政。关东各地力量随后联合讨董，董卓又迁帝与人口西往长安。",
+      "importance": "宫廷控制权与地方军事实力正面冲突，使汉廷政治危机进入公开的地区战争阶段。",
+      "outcome": "联军内部并未保持统一，战争和迁徙破坏洛阳及周边，地方势力逐步转向相互争夺。",
+      "note": "不采用董卓一人决定汉亡的单因解释，也不把关东联军视为长期一致的政治集团。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十八章 黄巾大起义和东汉的灭亡",
+          "section": "第三节 割据形势的再现，东汉的灭亡",
+          "lineStart": 81682,
+          "lineEnd": 81734
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-hanshu-compilation",
+      "periodId": "eastern-han",
+      "title": "班固与《汉书》编纂",
+      "start": 50,
+      "end": 100,
+      "dateLabel": "1世纪后半叶（概略展示窗口）",
+      "category": "考古与文献",
+      "summary": "班固以西汉为中心编纂《汉书》，纪传与表志共同组织历史知识；地理、艺文等内容拓展了断代史的记录范围。",
+      "importance": "断代纪传体和较丰富的志书结构，为后世史家组织政治、制度、社会与文献材料提供范式。",
+      "outcome": "《汉书》成为研究西汉的重要基础文献，也提示史书的叙事范围与作者所处时代应分开。",
+      "note": "50—100年是编纂活动展示窗口，不是确定开工、完成年；不把文献所载直接当作无立场实录。",
+      "personIds": [
+        "bangu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第三节 经学、史学和文学艺术",
+          "lineStart": 82605,
+          "lineEnd": 82617
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-han",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-wei-tuntian",
+      "periodId": "three-kingdoms",
+      "title": "曹操推行屯田",
+      "start": 196,
+      "end": 196,
+      "dateLabel": "196年起；三国形成期",
+      "category": "社会与经济",
+      "summary": "曹操在许下募民屯田，后来逐步扩展，军屯与民屯分别组织生产，在汉末战争中筹措军粮并吸纳部分流动人口。",
+      "importance": "军队供给与农民土地、人身关系紧密结合，体现战争背后的社会组织和财政条件。",
+      "outcome": "屯田支持曹操势力的发展，也使耕作者承受特定租课和管理约束，并非单纯无偿安置。",
+      "note": "起点早于220年，归入三国形成背景；兵屯与民屯的义务不能完全等同。",
+      "personIds": [
+        "caocao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第五节 曹魏的经济与政治",
+          "lineStart": 84088,
+          "lineEnd": 84102
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-guandu",
+      "periodId": "three-kingdoms",
+      "title": "官渡之战",
+      "start": 200,
+      "end": 200,
+      "dateLabel": "200年；三国形成期",
+      "category": "战争与外交",
+      "summary": "曹操与袁绍在官渡一带交战，双方围绕营垒、粮道和后方持续争夺，曹操最终取胜，袁绍集团随后进一步分裂。",
+      "importance": "这改变北方主要势力的相对强弱，为曹操后续扩展提供条件，却不是当天就统一整个北方。",
+      "outcome": "曹操逐步控制更多河北地区，袁氏力量在继承争夺与继续战争中走向瓦解。",
+      "note": "不采用小说化兵力数字和计谋细节；200年后仍有多年战争与地方整合。",
+      "personIds": [
+        "caocao",
+        "yuanshao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83500,
+          "lineEnd": 83532
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-chibi",
+      "periodId": "three-kingdoms",
+      "title": "赤壁之战",
+      "start": 208,
+      "end": 208,
+      "dateLabel": "208年；三国形成期",
+      "category": "战争与外交",
+      "summary": "曹操南进荆州后，与孙权、刘备联合力量在长江流域交战。孙刘一方获胜，阻止曹操继续迅速向江南推进。",
+      "importance": "北方军事优势未能直接转换为南方统一，江东政权与刘备集团获得继续发展的空间。",
+      "outcome": "曹操退回北方，孙刘随后在荆州等地各自扩展，三方政治格局逐渐明朗而未立即固定。",
+      "note": "作战地点、兵力与具体过程有考证空间；火攻不等于小说中的借东风情节。",
+      "personIds": [
+        "caocao",
+        "liubei",
+        "sunquan",
+        "zhouyu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83534,
+          "lineEnd": 83602
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-shu-founded",
+      "periodId": "three-kingdoms",
+      "title": "刘备建立蜀汉",
+      "start": 221,
+      "end": 221,
+      "dateLabel": "221年",
+      "category": "建国与转折",
+      "summary": "刘备在取得益州、汉中等基础后，于成都称帝，沿用汉的国号，史称蜀汉；其政权与曹魏及孙吴势力相互对峙。",
+      "importance": "蜀汉以延续汉统为政治主张，也使益州资源与荆州来人之间的关系进入新的国家组织。",
+      "outcome": "蜀汉形成以成都为中心的统治体系，随后的吴蜀战争和北伐又持续考验其资源条件。",
+      "note": "蜀汉是后世便于区分的称呼，不能将国号写成蜀；称帝不等于占领全部西南。",
+      "personIds": [
+        "liubei",
+        "zhugeliang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第三节 蜀汉的兴起与衰亡",
+          "lineStart": 83682,
+          "lineEnd": 83702
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yiling",
+      "periodId": "three-kingdoms",
+      "title": "夷陵之战",
+      "start": 221,
+      "end": 222,
+      "dateLabel": "221—222年",
+      "category": "战争与外交",
+      "summary": "刘备为争夺荆州等问题东征孙吴，陆逊统领吴军应战。222年蜀军在夷陵一带遭受重大失败，刘备退往白帝城。",
+      "importance": "吴蜀关系并非始终结盟；这场内部战争显示联盟利益、地方控制与军事条件的复杂牵连。",
+      "outcome": "蜀汉东向扩展受挫，之后吴蜀重新建立合作，以共同面对曹魏的压力与各自安全问题。",
+      "note": "不把战争仅解释成个人复仇，也不将小说中的连营数量作为无争议精确事实。",
+      "personIds": [
+        "liubei",
+        "luxun",
+        "sunquan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第三节 蜀汉的兴起与衰亡",
+          "lineStart": 83720,
+          "lineEnd": 83734
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-zhuge-northern-campaigns",
+      "periodId": "three-kingdoms",
+      "title": "诸葛亮北伐",
+      "start": 228,
+      "end": 234,
+      "dateLabel": "228—234年",
+      "category": "战争与外交",
+      "summary": "诸葛亮主持蜀汉政务后多次北上攻魏，战争围绕陇右、关中与交通补给展开，234年在北伐期间病逝。",
+      "importance": "军事计划与蜀汉财政、兵力、运输能力密切相关，有助理解疆域竞争背后的治理条件。",
+      "outcome": "蜀汉未能突破魏的整体防线，北伐也留下军需组织、政治主张与双方战术选择的记录。",
+      "note": "多次出兵的具体计数口径不同，不将六出祁山当成六次都从同一路线进军。",
+      "personIds": [
+        "zhugeliang",
+        "simayi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第三节 蜀汉的兴起与衰亡",
+          "lineStart": 83746,
+          "lineEnd": 83780
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-gaopingling",
+      "periodId": "three-kingdoms",
+      "title": "高平陵政变",
+      "start": 249,
+      "end": 249,
+      "dateLabel": "249年",
+      "category": "制度与改革",
+      "summary": "司马懿趁魏帝曹芳与曹爽离开洛阳祭陵，控制京城、武库与交通，迫使曹爽交出权力，随后诛杀其集团。",
+      "importance": "政变改变曹魏中枢的权力配置，使司马氏从辅政竞争者转为实际掌权集团。",
+      "outcome": "司马氏继续压制对手并扩大控制，但距离265—266年晋正式代魏仍有后续斗争与变化。",
+      "note": "不把249年等同于晋朝建立，也不将其后司马氏全部活动归于司马懿本人。",
+      "personIds": [
+        "simayi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第五节 曹魏的经济与政治",
+          "lineStart": 84144,
+          "lineEnd": 84158
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-wei-conquer-shu",
+      "periodId": "three-kingdoms",
+      "title": "曹魏灭蜀汉",
+      "start": 263,
+      "end": 263,
+      "dateLabel": "263年",
+      "category": "战争与外交",
+      "summary": "司马昭主持曹魏军政期间，魏军由钟会、邓艾等分路攻蜀，邓艾进逼成都，刘禅投降，蜀汉政权结束。",
+      "importance": "三方并立在此出现决定性变化，西南与北方的政权关系重组，统一进程又向前推进。",
+      "outcome": "蜀汉辖地被纳入魏的控制，但军事接收并非毫无反复，吴也仍在长江流域继续存在。",
+      "note": "此时出兵者仍是曹魏而非已经成立的西晋；不把一条山路奇袭当作全部胜负原因。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第三节 蜀汉的兴起与衰亡",
+          "lineStart": 83784,
+          "lineEnd": 83794
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jin-conquer-wu",
+      "periodId": "western-jin",
+      "title": "晋灭吴与短暂统一",
+      "start": 279,
+      "end": 280,
+      "dateLabel": "279年出兵，280年吴降",
+      "category": "战争与外交",
+      "summary": "晋军分路进攻吴国，王濬水军自上游顺江而下，杜预等协同推进，280年孙皓投降，吴国政权结束。",
+      "importance": "汉末以来的长期分立在主要疆域内暂时告一段落，国家接收与地方社会整合成为新任务。",
+      "outcome": "晋接收吴的户籍、军队和交通资源，但江东大族的经济与地方影响并未随之全部消失。",
+      "note": "不把军事统一等同于社会差异立即消失；晋方多路军队与地方条件共同影响战果。",
+      "personIds": [
+        "simayan",
+        "wangjun-jin",
+        "duyu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第四节 吴在东南的开发",
+          "lineStart": 83904,
+          "lineEnd": 83910
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "western-jin",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "three-kingdoms"
+      ]
+    },
+    {
+      "id": "cn-jin-land-system",
+      "periodId": "western-jin",
+      "title": "太康田制与户调安排",
+      "start": 280,
+      "end": 282,
+      "dateLabel": "280年统一后；太康初年",
+      "category": "制度与改革",
+      "summary": "晋统一后规定占田、课田和户调，并按年龄、性别、身份设定不同标准；官员另有按品占田和荫客等特权。",
+      "importance": "一套规则把田地、家庭身份和国家税役联系起来，展现统一后的治理安排及身份差别。",
+      "outcome": "制度为民户和官员规定不同权利义务，但条文数额并不能直接代表每户实际领有土地。",
+      "note": "占田是否普遍授田及实际执行程度存在解释争议；280—282为概略展示范围。",
+      "personIds": [
+        "simayan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第二章 封建关系的加强",
+          "section": "第二节 西晋的占田法",
+          "lineStart": 84775,
+          "lineEnd": 84805
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "western-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-eight-princes",
+      "periodId": "western-jin",
+      "title": "八王之乱",
+      "start": 291,
+      "end": 306,
+      "dateLabel": "291—306年（通常概括范围）",
+      "category": "战争与外交",
+      "summary": "西晋宫廷政变逐渐扩展为多位宗王争夺中枢的战争，军队反复控制皇帝与都城，地方也被卷入长期武装冲突。",
+      "importance": "王朝的权力结构与军事动员失衡，战事破坏治理、生产和人口安置，使统一基础削弱。",
+      "outcome": "各地饥荒、流徙和武装力量扩张与内战相互叠加，西晋中央权威已难恢复到统一初期。",
+      "note": "八王是后世概括，实际参与者更多；不把全部冲突归为贾南风一人的性格。",
+      "personIds": [
+        "jiananfeng",
+        "simazhong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第三章 西晋的暂时统一及其崩溃",
+          "section": "第二节 西晋的黑暗统治与“八王之乱”",
+          "lineStart": 85184,
+          "lineEnd": 85276
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "western-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yongjia",
+      "periodId": "western-jin",
+      "title": "永嘉洛阳失守",
+      "start": 311,
+      "end": 311,
+      "dateLabel": "311年",
+      "category": "战争与外交",
+      "summary": "汉国军队攻破洛阳，晋怀帝被俘，西晋政治中心遭到重创。战乱与饥荒中，人口流亡和地方势力重组继续扩大。",
+      "importance": "洛阳失守使中央统治难以维系，但西晋并未在这一年立即结束，长安仍有后续政权。",
+      "outcome": "晋室在长安继续组织朝廷，部分士族与民众向江淮等地迁徙，南北政治格局逐步重组。",
+      "note": "不照搬古籍屠杀人数作精确统计；永嘉之乱不等于一次性、全体人口同时南迁。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第三章 西晋的暂时统一及其崩溃",
+          "section": "第二节 西晋的黑暗统治与“八王之乱”",
+          "lineStart": 85278,
+          "lineEnd": 85284
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "western-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-liuyuan-han",
+      "periodId": "eastern-jin",
+      "title": "刘渊建立汉国",
+      "start": 304,
+      "end": 308,
+      "dateLabel": "304年称汉王；308年称帝",
+      "category": "建国与转折",
+      "summary": "刘渊在西晋宗王战争中组织匈奴等力量，304年称汉王，308年称帝，以汉为国号，成为北方政权竞争的重要一方。",
+      "importance": "它与江南晋室重建并非同日起步，十六国的时间范围也因此早于东晋正式建国。",
+      "outcome": "刘渊之后汉国继续扩展，后来的改号与分化又形成前赵等政权演变，北方格局持续变化。",
+      "note": "采用304—439为本网站东晋十六国展示窗口，不把刘渊国号直接写成始终称前赵。",
+      "personIds": [
+        "liuyuan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第四章 十六国",
+          "section": "第一节 胡羯的建国",
+          "lineStart": 85461,
+          "lineEnd": 85471
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-zuti-north",
+      "periodId": "eastern-jin",
+      "title": "祖逖北进与河南经营",
+      "start": 313,
+      "end": 321,
+      "dateLabel": "313—321年；起点早于东晋建国",
+      "category": "战争与外交",
+      "summary": "祖逖率南渡部众北上，自筹兵器和军队，逐步联系河南地方力量，并与石勒方面交战和互市，直到321年去世。",
+      "importance": "北伐不只有皇帝命令与战场胜负，还涉及流民组织、地方坞堡、贸易和军需的支持。",
+      "outcome": "部分河南地区一度纳入晋方影响，但祖逖死后局面又改变，成果未形成长期稳定统一。",
+      "note": "原书对势力范围有较强概括，本卡不绘成精确疆界，也不把313年写在东晋正式建国之后。",
+      "personIds": [
+        "zuti"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第五章 东晋王朝的建立及其政治",
+          "section": "第一节 北方世家大族的南渡与东晋王朝的建立",
+          "lineStart": 86656,
+          "lineEnd": 86684
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-lanting",
+      "periodId": "eastern-jin",
+      "title": "兰亭雅集与书法传承",
+      "start": 353,
+      "end": 353,
+      "dateLabel": "353年（永和九年）",
+      "category": "思想与文化",
+      "summary": "王羲之与谢安等人在会稽山阴兰亭修禊、赋诗，留下《兰亭序》的书法与文本传统，后来又经摹写、刻石等方式传播。",
+      "importance": "士人交游、文章与书法在同一场合相遇，也提醒读者今天所见作品常经过后世传摹。",
+      "outcome": "兰亭成为中国书法接受史的重要主题，摹本和拓本各有年代与传承，原迹并未传世。",
+      "note": "353年据故宫馆藏说明复核，不采用原书所称写作年龄；各现存摹本不能称王羲之原件。",
+      "personIds": [
+        "wangxizhi",
+        "xiean"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第十一章 魏晋南北朝的经学、史学与文学艺术",
+          "section": "第三节 艺术",
+          "lineStart": 95304,
+          "lineEnd": 95320
+        }
+      ],
+      "sourceIds": [
+        "v5-dpm-lanting"
+      ],
+      "coreEntry": true,
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-gengxu-soil-registration",
+      "periodId": "eastern-jin",
+      "title": "庚戌土断",
+      "start": 364,
+      "end": 364,
+      "dateLabel": "364年",
+      "category": "制度与改革",
+      "summary": "桓温主持清理户口与土断，调整北来侨民的登记及赋役待遇，并打击部分隐匿户口的势力，重整朝廷可掌握的人口。",
+      "importance": "南渡者的故籍与现居地如何对应，直接关系国家财政、兵役和地方大族控制。",
+      "outcome": "更多人口被纳入朝廷登记，部分侨置机构仍然保留，制度整合并不是简单取消旧地名。",
+      "note": "土断不只发生一次；本条专指364年，不把刘宋以后整理户籍混为同一政策。",
+      "personIds": [
+        "huanwen"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第五章 东晋王朝的建立及其政治",
+          "section": "第二节 北方流民的南下与东晋政府的对策",
+          "lineStart": 86940,
+          "lineEnd": 86960
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-fujian-unification",
+      "periodId": "eastern-jin",
+      "title": "前秦统一北方的进程",
+      "start": 370,
+      "end": 376,
+      "dateLabel": "370—376年主要兼并阶段",
+      "category": "战争与外交",
+      "summary": "苻坚统治的前秦先后消灭前燕、前凉和代等势力，至376年前后控制北方大部，与东晋形成南北对峙。",
+      "importance": "十六国并非始终同样分散，前秦的扩展一度重新整合北方军政资源，也带来新治理难题。",
+      "outcome": "前秦得以筹划大举南进，但被兼并群体与统治集团之间仍有复杂关系，统一未能稳固延续。",
+      "note": "北方统一是概括性表述，不意味现代北方全部区域均受同一强度控制。",
+      "personIds": [
+        "fujian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第四章 十六国",
+          "section": "第二节 前燕与前秦的对立及苻坚的统一北方",
+          "lineStart": 85920,
+          "lineEnd": 85940
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "eastern-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-liusong-founded",
+      "periodId": "north-south",
+      "title": "刘裕建宋与南朝开端",
+      "start": 420,
+      "end": 420,
+      "dateLabel": "420年",
+      "category": "建国与转折",
+      "summary": "刘裕在东晋末年掌握军政大权，并组织对北方的战争，420年代晋称帝，建立宋朝，南朝的政权序列由此开始。",
+      "importance": "东晋终结与南朝开端是同一转折的两面，新兴军事集团与旧有门阀的关系继续改变。",
+      "outcome": "宋以建康为中心统治南方，后来齐、梁、陈相继更替，北方政权则沿另一条路径重组。",
+      "note": "此宋为刘宋，不是960年建立的赵宋；不将南朝四个朝代误称一朝。",
+      "personIds": [
+        "liuyu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第六章 南朝的政治与经济",
+          "section": "第一节 宋初内政及北强南弱局势的形成",
+          "lineStart": 87335,
+          "lineEnd": 87401
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "north-south",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "eastern-jin"
+      ]
+    },
+    {
+      "id": "cn-northwei-unify",
+      "periodId": "north-south",
+      "title": "北魏统一北方",
+      "start": 439,
+      "end": 439,
+      "dateLabel": "439年（灭北凉节点）",
+      "category": "战争与外交",
+      "summary": "拓跋焘统治的北魏在多次兼并后于439年灭北凉，控制北方大部，与南方刘宋对峙，南北两大格局更加清楚。",
+      "importance": "十六国长期竞争在北方出现新的整合，军政、土地与多族群社会的治理成为北魏的重要任务。",
+      "outcome": "北魏逐步组织北方地区，南北军事对峙仍继续，内部制度和社会关系也不断调整。",
+      "note": "439年是通常分期节点，不意味南北停战或北方各地文化差异立即消失。",
+      "personIds": [
+        "tuobatao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第一节 北魏初期的社会性质",
+          "lineStart": 89202,
+          "lineEnd": 89206
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "north-south",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "eastern-jin"
+      ]
+    },
+    {
+      "id": "cn-zuchong-calendar",
+      "periodId": "north-south",
+      "title": "祖冲之编成《大明历》",
+      "start": 462,
+      "end": 462,
+      "dateLabel": "462年编成；510年起行用",
+      "category": "思想与文化",
+      "summary": "祖冲之通过观测和推算发现旧历不够精密，462年编成《大明历》，提出闰法和岁差等调整，历法后来才获采用。",
+      "importance": "科学方案从提出到实际应用，还要经过朝廷评议和制度采纳，知识创新并非自动生效。",
+      "outcome": "梁朝后来采用该历，陈继续沿用；祖冲之的数学与天文学成就也成为后世研究的重要材料。",
+      "note": "462年是编成而非立即实施之年；不把圆周率计算与历法改进混成同一项实验。",
+      "personIds": [
+        "zuchongzhi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第十二章 魏晋南北朝的科学技术",
+          "section": "第一节 数学、天文学与地图学",
+          "lineStart": 95677,
+          "lineEnd": 95807
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "north-south",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-northwei-equalland",
+      "periodId": "north-south",
+      "title": "北魏均田与三长制",
+      "start": 485,
+      "end": 486,
+      "dateLabel": "485年均田令；486年三长制",
+      "category": "制度与改革",
+      "summary": "北魏推行均田安排，并组织邻、里、党三级三长以清查户口、承担赋役管理，田地与人口登记形成相互配合的制度。",
+      "importance": "国家试图把分散、荫庇人口纳入更直接的治理，是理解土地、赋税与地方组织关联的典型。",
+      "outcome": "编户、土地利用和租调管理受到影响，制度又被后来的北朝与隋唐继承调整，实际执行因地而异。",
+      "note": "均田不是把全国私田平均重分；法令标准和实际授田范围须分别理解。",
+      "personIds": [
+        "xiaowen",
+        "lichong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第二节 北魏孝文帝的均田、迁都与改革",
+          "lineStart": 89442,
+          "lineEnd": 89502
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "north-south",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-six-garrisons-and-split",
+      "periodId": "north-south",
+      "title": "六镇动荡与北魏分裂",
+      "start": 523,
+      "end": 535,
+      "dateLabel": "523—524年起事至534—535年分裂",
+      "category": "战争与外交",
+      "summary": "北魏北部军镇兵民在饥荒与待遇等矛盾中起事，随后河北及其他地区战事扩大，新的军事集团崛起，最终形成东西魏。",
+      "importance": "边镇与中枢的关系、兵民处境和军人集团重组共同影响国家分裂，不能仅靠迁都一因解释。",
+      "outcome": "534—535年前后东西魏分立，后来分别演变为北齐、北周，北方制度与军事格局再次重组。",
+      "note": "六镇起事有523、524等节点口径；分裂发生在534—535，不与后来的齐周建国混为同年。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第三节 北魏末年的各族人民大起义",
+          "lineStart": 89850,
+          "lineEnd": 89882
+        },
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第四节 东魏与北齐的政治",
+          "lineStart": 90104,
+          "lineEnd": 90110
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "north-south",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-houjing-liang-chen",
+      "periodId": "north-south",
+      "title": "侯景之乱与梁陈更替",
+      "start": 548,
+      "end": 557,
+      "dateLabel": "548—552年乱事；557年陈建国",
+      "category": "战争与外交",
+      "summary": "侯景起兵攻围建康，梁武帝及梁朝中枢遭受重创。乱事平定后，各方继续争夺，陈霸先最终于557年建立陈朝。",
+      "importance": "南朝政权与江南社会遭到深刻冲击，梁陈更替还伴随北方军事势力介入，不能只看宫廷继位。",
+      "outcome": "江南政治与社会基础被破坏，陈继承范围已较狭小，南北实力和长江流域控制继续变化。",
+      "note": "侯景之乱552年结束，陈557年才建立；用一条过程线展示而不当成同一日改朝换代。",
+      "personIds": [
+        "xiaoyan",
+        "houjing",
+        "chenbaxian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第六章 南朝的政治与经济",
+          "section": "第四节 侯景乱梁与南朝的再削弱",
+          "lineStart": 88083,
+          "lineEnd": 88248
+        },
+        {
+          "volume": 7,
+          "chapter": "第六章 南朝的政治与经济",
+          "section": "第五节 陈王朝的建立与衰亡",
+          "lineStart": 88249,
+          "lineEnd": 88255
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "north-south",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qimin-agronomy",
+      "periodId": "north-south",
+      "title": "《齐民要术》汇集农事经验",
+      "start": 534,
+      "end": 544,
+      "dateLabel": "约534—544年成书",
+      "category": "考古与文献",
+      "summary": "贾思勰整理古书、农民经验与生产观察，编写《齐民要术》，内容包括耕种、畜养和食物加工，保存大量北方农业知识。",
+      "importance": "普通劳动经验与书面整理在这里结合，历史知识不仅来自帝王文书，也来自田间与作坊。",
+      "outcome": "农书成为后人认识6世纪以前黄河中下游生产生活的重要材料，技术知识得以长期传承。",
+      "note": "成书年份为研究估计；主要反映特定地域和时代经验，不能当成全国所有家庭的日常记录。",
+      "personIds": [
+        "jiasixie"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第十二章 魏晋南北朝的科学技术",
+          "section": "第三节 农学与医药学",
+          "lineStart": 95949,
+          "lineEnd": 95955
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "north-south",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-northzhou-conquer-qi",
+      "periodId": "north-south",
+      "title": "北周灭北齐",
+      "start": 577,
+      "end": 577,
+      "dateLabel": "577年",
+      "category": "战争与外交",
+      "summary": "北周武帝宇文邕整顿军政并对北齐用兵，577年攻破邺城，北齐政权结束，北方再次由一个主要政权控制。",
+      "importance": "东西对峙的北方格局被打破，为随后隋朝的建立及其南下统一创造了新的政治军事条件。",
+      "outcome": "北周接收北齐地区与资源，但尚未统一南方；北周政权又在数年后被杨坚建立的隋取代。",
+      "note": "不把577年视为全国统一；军制、财政和外交条件共同影响战果。",
+      "personIds": [
+        "yuwenyong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第五节 西魏与北周的政治",
+          "lineStart": 90380,
+          "lineEnd": 90430
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "north-south",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sui-daxing",
+      "periodId": "sui",
+      "title": "营建大兴城",
+      "start": 582,
+      "end": 583,
+      "dateLabel": "582年起营建，583年前后迁入",
+      "category": "社会与经济",
+      "summary": "隋文帝在旧长安城东南营建大兴城，重组宫城、官署和街坊；唐代长安后来继承并扩展这一城市空间基础。",
+      "importance": "都城建设连接国家组织、居民安置与物资供应，宏大规划并非脱离日常运行的装饰。",
+      "outcome": "大兴成为隋的政治中心，并给唐代长安留下空间框架；供给与交通仍需后续工程保障。",
+      "note": "不同建筑完成时间并不一致，582—583是营建和迁入的概略范围，不能视为全城一次建成。",
+      "personIds": [
+        "yangjian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第一节 隋前期的政治与经济",
+          "lineStart": 96485,
+          "lineEnd": 96485
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "sui",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sui-household-check",
+      "periodId": "sui",
+      "title": "大索貌阅与输籍整顿",
+      "start": 585,
+      "end": 590,
+      "dateLabel": "585年貌阅；输籍为开皇年间过程",
+      "category": "制度与改革",
+      "summary": "隋朝核查人口年龄和户籍，整顿隐漏与户等，并以输籍等办法评定赋役依据，使朝廷对人口和税源的掌握更直接。",
+      "importance": "土地政策、国家财政与农民依附关系在此相互连接，体现统一国家深入地方治理的方式。",
+      "outcome": "登记人口和国家财政基础扩大，但强制清查、赋役分配和地方执行仍可能使不同群体负担不均。",
+      "note": "585年据福建省统计局复核，原书此处记583；不把输籍法所有步骤强定为同一年。",
+      "personIds": [
+        "yangjian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第一节 隋前期的政治与经济",
+          "lineStart": 96591,
+          "lineEnd": 96605
+        }
+      ],
+      "sourceIds": [
+        "v5-fujian-households"
+      ],
+      "coreEntry": true,
+      "placeId": null,
+      "lane": "china",
+      "themeId": "sui",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sui-selection",
+      "periodId": "sui",
+      "title": "隋代选官与科举开端",
+      "start": 587,
+      "end": 607,
+      "dateLabel": "开皇至大业初年（制度形成窗口）",
+      "category": "制度与改革",
+      "summary": "隋逐渐废止九品中正的选官方式，要求地方举人，并出现以进士等科选拔人才的记载，官僚选用规则继续变化。",
+      "importance": "选官更集中于朝廷，并逐步重视考试才学，成为后来科举制度发展的一项基础。",
+      "outcome": "唐朝继续发展考试和铨选，但门第、荐举与人际关系并未因此立即退出官僚选拔。",
+      "note": "科举起源及进士科具体设立年份有讨论；587—607是形成期展示，不宣称某年一天发明成熟科举。",
+      "personIds": [
+        "yangjian",
+        "yangguang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第一节 隋前期的政治与经济",
+          "lineStart": 96561,
+          "lineEnd": 96567
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "sui",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sui-koguryo",
+      "periodId": "sui",
+      "title": "隋炀帝三征高句丽",
+      "start": 612,
+      "end": 614,
+      "dateLabel": "612—614年",
+      "category": "战争与外交",
+      "summary": "隋炀帝组织大规模征发，连续对高句丽用兵，军队与物资经北方集结。战争受挫又与国内起事、政治危机相互牵连。",
+      "importance": "远征需要长期运输和征役，军事选择的代价进入普通人的生产与生活，也考验国家动员。",
+      "outcome": "隋未能实现预期控制，国内压力继续增加；后续朝廷失去对各地的有效统合。",
+      "note": "高句丽不与现代国家简单画等号；不把古籍号称兵力当精确实数，也不以战争单因解释隋亡。",
+      "personIds": [
+        "yangguang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第四节 隋末农民大起义与隋王朝的倾覆",
+          "lineStart": 97155,
+          "lineEnd": 97191
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "sui",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sui-collapse",
+      "periodId": "sui",
+      "title": "隋末起事与王朝终结",
+      "start": 611,
+      "end": 618,
+      "dateLabel": "611年起多地战争；618年江都兵变",
+      "category": "建国与转折",
+      "summary": "地方起事、军事集团扩张与朝廷内部争夺叠加，李密、窦建德等势力先后发展，618年江都兵变中杨广被杀。",
+      "importance": "隋的终结不是一座城或一场战役的孤立结果，不同地方力量形成并争夺新秩序。",
+      "outcome": "隋主要统治体系瓦解，唐及其他政权继续竞争，王朝替换后仍有数年大规模战争。",
+      "note": "618年是通常终点，部分隋宗室政权及年号仍有延续；不把唐建国等于战争立即结束。",
+      "personIds": [
+        "yangguang",
+        "limi",
+        "doujiande"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第四节 隋末农民大起义与隋王朝的倾覆",
+          "lineStart": 97193,
+          "lineEnd": 97479
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "sui",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-xuanwumen",
+      "periodId": "tang",
+      "title": "玄武门之变",
+      "start": 626,
+      "end": 626,
+      "dateLabel": "626年",
+      "category": "建国与转折",
+      "summary": "李世民在皇位继承竞争中于玄武门发动武装行动，杀死李建成、李元吉，随后成为太子，并在当年继承皇位。",
+      "importance": "唐初军事集团与皇室继承安排发生直接冲突，事件改变中枢权力及其后政治人物的组合。",
+      "outcome": "李世民即位为唐太宗，翌年改元贞观，朝廷继续调整政治与用人，但暴力继承的事实不能略去。",
+      "note": "不虚构宫门对白与心理，唐太宗后来的政绩也不使夺位过程自动变为无争议正当。",
+      "personIds": [
+        "tang-taizong",
+        "liyuan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第一节 唐王朝的创建",
+          "lineStart": 97718,
+          "lineEnd": 97724
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-zhenguan",
+      "periodId": "tang",
+      "title": "贞观时期的恢复与治理",
+      "start": 627,
+      "end": 649,
+      "dateLabel": "627—649年",
+      "category": "制度与改革",
+      "summary": "唐太宗统治时期整顿用人、法制和赋役，君臣讨论隋亡教训与纳谏，社会生产逐步恢复，同时也进行多次对外战争。",
+      "importance": "贞观之治应作为治理过程理解，政治调整与地区恢复存在成效，也受到财政和军事动员的约束。",
+      "outcome": "唐前期统治基础得到加强，官僚与制度继续发展，但各地贫富和恢复程度并不相同。",
+      "note": "不把旧史太平盛世修辞直接当统计事实，纳谏也不等于现代政治参与制度。",
+      "personIds": [
+        "tang-taizong",
+        "weizheng"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第一节 唐王朝的创建",
+          "lineStart": 97728,
+          "lineEnd": 97778
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-xuanzang-trip",
+      "periodId": "tang",
+      "title": "玄奘西行与译经",
+      "start": 629,
+      "end": 645,
+      "dateLabel": "629年出发，645年返长安（通行年表口径）",
+      "category": "思想与文化",
+      "summary": "玄奘越中亚赴南亚求学和访经，返回长安后组织翻译，并口述域外见闻，形成连接旅行、语言与佛学研究的知识活动。",
+      "importance": "行旅不仅传播宗教，也记录地域社会和交通信息，显现陆上跨地区知识交换的具体方式。",
+      "outcome": "译经与《大唐西域记》影响后世佛学及地理研究，但其记述仍须结合行程与文本性质阅读。",
+      "note": "行旅起年采用西安机构介绍的629年口径；路线存在研究讨论，小说取经故事不作史实。",
+      "personIds": [
+        "xuanzang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第六章 唐与各国经济文化交流的扩大",
+          "section": "第三节 唐与南亚各国的经济文化交流",
+          "lineStart": 107324,
+          "lineEnd": 107324
+        },
+        {
+          "volume": 8,
+          "chapter": "第六章 唐与各国经济文化交流的扩大",
+          "section": "第三节 唐与南亚各国的经济文化交流",
+          "lineStart": 107446,
+          "lineEnd": 107460
+        }
+      ],
+      "sourceIds": [
+        "v5-xian-xuanzang"
+      ],
+      "coreEntry": true,
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-wencheng",
+      "periodId": "tang",
+      "title": "文成公主入蕃",
+      "start": 641,
+      "end": 641,
+      "dateLabel": "641年",
+      "category": "战争与外交",
+      "summary": "唐与吐蕃在使者往来和政治协商后联姻，文成公主入蕃与松赞干布成婚，成为双方关系和交流史上的重要节点。",
+      "importance": "和亲把政治联系、人员移动与文化接触结合起来，但双边关系并不因此永远没有战争。",
+      "outcome": "唐蕃间人员与技术文化往来继续发展，后世也形成丰富的公主叙事和地方记忆。",
+      "note": "不把吐蕃所有技术发展归为公主一人带来，也不将后世传说中的清单全部当实物证据。",
+      "personIds": [
+        "wencheng",
+        "tang-taizong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第五章 唐代少数民族社会经济的发展与民族关系的加强",
+          "section": "第四节 唐代西方及西南各族社会经济的发展",
+          "lineStart": 106439,
+          "lineEnd": 106445
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-wuzhou",
+      "periodId": "tang",
+      "title": "武则天建立周与唐复辟",
+      "start": 690,
+      "end": 705,
+      "dateLabel": "690—705年",
+      "category": "建国与转折",
+      "summary": "武则天在长期参与朝政后于690年称帝，改唐为周，以洛阳为重要政治中心；705年政变后李唐国号恢复。",
+      "importance": "女性皇帝和皇朝名号改变突破既有继承格局，用人、官僚选拔和政治控制也发生调整。",
+      "outcome": "周的统治进入唐代历史的连续脉络，改号前后仍有制度和人物延续，而非全部重新开始。",
+      "note": "不照搬宫廷传闻作为杀子等事实，也不因女性身份将政治评价简化为赞颂或妖魔化。",
+      "personIds": [
+        "wuzetian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第二节 唐高宗的统治与武周的改制",
+          "lineStart": 97822,
+          "lineEnd": 97960
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-kaiyuan",
+      "periodId": "tang",
+      "title": "开元时期的政治与繁荣",
+      "start": 713,
+      "end": 741,
+      "dateLabel": "713—741年",
+      "category": "社会与经济",
+      "summary": "唐玄宗开元时期整顿中枢与地方治理，农业、财政和城市交往继续发展，姚崇、宋璟等官员参与具体政治事务。",
+      "importance": "所谓开元盛世来自长期恢复、制度与社会生产共同作用，不应只归结为皇帝个人治理才能。",
+      "outcome": "国家资源与城市文化达到唐代高峰之一，同时土地、军政和财政问题也在长期发展。",
+      "note": "开元不同于742年起的天宝，不能把后期所有问题无差别倒置到开元全段。",
+      "personIds": [
+        "xuanzong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第三节 开元天宝的全盛时期与安史之乱",
+          "lineStart": 97996,
+          "lineEnd": 98076
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-tang-poetry-li-du",
+      "periodId": "tang",
+      "title": "李白杜甫与盛唐诗歌",
+      "start": 720,
+      "end": 770,
+      "dateLabel": "约720—770年（创作活动展示窗口）",
+      "category": "思想与文化",
+      "summary": "李白、杜甫在旅行、仕宦和战乱经历中发展各具特色的诗歌，作品既描写山川与个人理想，也触及社会关系和战争。",
+      "importance": "文学提供不同于诏令、年表的时代观察，但作品的修辞、文体和个人处境需要同时辨析。",
+      "outcome": "两人的作品经编集与传播，成为后世理解唐代文化的重要入口，并影响诗歌写作和评论。",
+      "note": "展示窗口不是一个事件的精确起讫，也不能把诗句当作未经判断的经济或人口统计。",
+      "personIds": [
+        "libai",
+        "dufu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第十章 隋唐五代的文学艺术与科学技术",
+          "section": "第一节 隋唐五代的诗歌与民间文学",
+          "lineStart": 113798,
+          "lineEnd": 113828
+        },
+        {
+          "volume": 8,
+          "chapter": "第十章 隋唐五代的文学艺术与科学技术",
+          "section": "第一节 隋唐五代的诗歌与民间文学",
+          "lineStart": 114058,
+          "lineEnd": 114122
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jianzhen-japan",
+      "periodId": "tang",
+      "title": "鉴真东渡与日本传戒",
+      "start": 753,
+      "end": 754,
+      "dateLabel": "753年再出航，754年抵达畿内",
+      "category": "思想与文化",
+      "summary": "鉴真在多次尝试后乘船东渡日本，赴奈良等地传授戒律，也携带经籍与书法等文化材料，参与跨海佛教和知识交流。",
+      "importance": "海上交往依赖使团、船舶、僧侣与接待网络，成行不是一位高僧单独横海的孤立壮举。",
+      "outcome": "鉴真在日本建立持续影响，佛教戒律及相关艺术文化往来扩大，双方交流仍由更多群体共同推进。",
+      "note": "753、754涉及不同航程节点与纪年口径，本条展示跨年过程，不把资料中十二月日期直接当统一公历。",
+      "personIds": [
+        "jianzhen"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第六章 唐与各国经济文化交流的扩大",
+          "section": "第一节 唐与海东各国的经济文化交流",
+          "lineStart": 106916,
+          "lineEnd": 106916
+        },
+        {
+          "volume": 8,
+          "chapter": "第六章 唐与各国经济文化交流的扩大",
+          "section": "第一节 唐与海东各国的经济文化交流",
+          "lineStart": 106970,
+          "lineEnd": 106974
+        }
+      ],
+      "sourceIds": [
+        "v5-embassy-jianzhen"
+      ],
+      "coreEntry": true,
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-two-taxes",
+      "periodId": "tang",
+      "title": "两税法实施",
+      "start": 780,
+      "end": 780,
+      "dateLabel": "780年",
+      "category": "制度与改革",
+      "summary": "唐德宗采纳杨炎建议，合并整理既有租庸调等税目，以现居户籍、资产贫富和田亩等为依据，夏秋分期征收。",
+      "importance": "人口流动、土地变化和战争财政迫使旧制度调整，国家取税依据由丁身走向更重财产。",
+      "outcome": "两税法成为后续财政的重要基础，但额外征敛、折纳和地方执行问题并未因此自然消失。",
+      "note": "两税指夏秋征收安排，不是全国只剩两种税；也不将改革等同于农民总负担必然降低。",
+      "personIds": [
+        "yangyan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第三章 唐代的经济",
+          "section": "第二节 租庸调制的破坏与两税法的实施",
+          "lineStart": 100363,
+          "lineEnd": 100381
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuanhe",
+      "periodId": "tang",
+      "title": "元和时期整顿藩镇",
+      "start": 806,
+      "end": 820,
+      "dateLabel": "806—820年；817年平淮西为节点",
+      "category": "制度与改革",
+      "summary": "唐宪宗时期朝廷先后对部分藩镇用兵，平定淮西并收服淄青等地，试图重建中枢对地方财政、任官和军队的控制。",
+      "importance": "安史之后并非一直单线衰落，朝廷与藩镇力量会反复变化，短期整合也有社会和军费代价。",
+      "outcome": "中央权力一度加强，却未根除藩镇体系；后续边镇、宦官和财政压力仍继续影响政治。",
+      "note": "元和中兴是后世评价，不能据此断言全境直接听令或民众负担已恢复到战前。",
+      "personIds": [
+        "tang-xianzong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第四节 宪穆敬文武宣六朝的政治",
+          "lineStart": 98930,
+          "lineEnd": 99058
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-new-yuefu",
+      "periodId": "tang",
+      "title": "白居易与新乐府倡导",
+      "start": 806,
+      "end": 815,
+      "dateLabel": "9世纪初，元和年间（展示窗口）",
+      "category": "思想与文化",
+      "summary": "白居易等人倡导具有社会政治内容的讽喻诗，通过新乐府写劳作、赋税与政治问题，把诗歌写作同公共议论联系起来。",
+      "importance": "诗人以不同文体参与时代问题，读者既能观察生活经验，也要分清文学主张与事实记录。",
+      "outcome": "讽喻诗成为中唐文学的重要线索，白居易的写作与仕宦经历又体现文学和政治的张力。",
+      "note": "806—815是本条活动窗口，不把全部作品定为某一年，也不以一首诗代表所有农户生活。",
+      "personIds": [
+        "baijuyi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第十章 隋唐五代的文学艺术与科学技术",
+          "section": "第一节 隋唐五代的诗歌与民间文学",
+          "lineStart": 115532,
+          "lineEnd": 115550
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-huichang-buddhism",
+      "periodId": "tang",
+      "title": "会昌时期抑佛",
+      "start": 842,
+      "end": 846,
+      "dateLabel": "842年起收紧；845年集中执行；846年后调整",
+      "category": "制度与改革",
+      "summary": "唐武宗朝逐步限制僧尼和寺院，845年前后大规模裁撤寺院、令僧尼还俗并收取财产，其他外来宗教也受冲击。",
+      "importance": "宗教政策与土地、赋役、财政和朝廷信仰取向相互联系，展现多元交流并非始终没有限制。",
+      "outcome": "寺院经济和经典传承遭打击，武宗死后政策又有调整，各地区实际执行也不一致。",
+      "note": "不照搬没收田亩与寺院数量作精确统计，也不把抑佛全部简化为宗教教义争论。",
+      "personIds": [
+        "tang-wuzong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第九章 隋唐五代的学术与宗教",
+          "section": "第二节 隋唐五代的哲学思想与宗教神学",
+          "lineStart": 113019,
+          "lineEnd": 113037
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-huangchao",
+      "periodId": "tang",
+      "title": "黄巢起义与晚唐战争",
+      "start": 875,
+      "end": 884,
+      "dateLabel": "875—884年；王仙芝起事可追至874年末",
+      "category": "战争与外交",
+      "summary": "黄巢响应并继承部分王仙芝部众，辗转南北后进入长安建立大齐政权，随后在多方围攻与内部分化中失败。",
+      "importance": "晚唐地方军队、财政和社会压力在战争中集中爆发，朝廷、藩镇与起义军共同改变地区格局。",
+      "outcome": "起义虽败，唐廷控制力继续削弱，新的军事集团扩张；唐朝并未立即结束，而延续到907年。",
+      "note": "不把战争中的暴力浪漫化，也不将884年失败与907年唐亡合成同一个节点。",
+      "personIds": [
+        "huangchao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第七章 唐末农民大起义与唐王朝的衰亡",
+          "section": "第二节 唐末农民大起义",
+          "lineStart": 108585,
+          "lineEnd": 108715
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "tang",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-fancheng-jingzhou",
+      "periodId": "three-kingdoms",
+      "title": "襄樊战事与荆州易手",
+      "start": 219,
+      "end": 220,
+      "dateLabel": "219年战事；汉历岁末可跨公历220年",
+      "category": "战争与外交",
+      "summary": "关羽北攻襄樊一度威胁曹操势力，孙权方面同时袭取其后方江陵，关羽撤军后败亡，荆州地区的控制关系改变。",
+      "importance": "襄樊前线与长江后方相互牵连，孙刘联盟中的利益分歧在这里转化为军事冲突。",
+      "outcome": "刘备集团失去荆州重要基地，之后夷陵战争和吴蜀关系调整都要面对这一战略变化。",
+      "note": "起点早于魏蜀吴正式建朝；关羽败亡为汉建安二十四年十二月，不强将古历岁末写成统一公历日。",
+      "personIds": [
+        "guanyu",
+        "caocao",
+        "sunquan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83594,
+          "lineEnd": 83602
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "three-kingdoms",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-wuyue-water",
+      "periodId": "five-dynasties",
+      "title": "吴越经营两浙与杭州水利",
+      "start": 907,
+      "end": 932,
+      "dateLabel": "907—932年",
+      "category": "社会与经济",
+      "summary": "钱镠获封吴越王后经营两浙，杭州修筑海塘，并延续湖泊与运河整治。地方政权建设同防潮、灌溉和城市供给相连。",
+      "importance": "从水利和城市观察五代，可补足只有中原战争与帝王更替的单一图景。",
+      "outcome": "杭州区域经营获得持续基础，后继钱氏仍面对周边战争、贡赋与内部统治问题。",
+      "note": "此处是钱镠时期的过程窗口；射潮传说不能解释海塘工程效果。",
+      "personIds": [
+        "qianliu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第三节 五代十国的社会经济",
+          "lineStart": 111042,
+          "lineEnd": 111062
+        },
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第一节 统一战争",
+          "lineStart": 121241,
+          "lineEnd": 121253
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "five-dynasties",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-later-tang",
+      "periodId": "five-dynasties",
+      "title": "李存勖灭梁与后唐兴亡",
+      "start": 923,
+      "end": 936,
+      "dateLabel": "923—936年",
+      "category": "建国与转折",
+      "summary": "李存勖称帝建后唐并灭后梁，迁都洛阳；后唐随后经历兵变与内部权力更替，至936年被石敬瑭与契丹联军所取代。",
+      "importance": "沙陀军事集团成为中原统治者，显示五代政权形成与军队、地方和财政的紧密关系。",
+      "outcome": "后唐一度拓展势力，最终未能维持稳定继承，后晋在新的军事联盟下建立。",
+      "note": "923年建国与926年庄宗身亡、936年后唐灭亡是不同节点。",
+      "personIds": [
+        "licunxu",
+        "shijingtang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109446,
+          "lineEnd": 109496
+        },
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109540,
+          "lineEnd": 109548
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "five-dynasties",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yanyun-cession",
+      "periodId": "five-dynasties",
+      "title": "后晋建立与燕云割让",
+      "start": 936,
+      "end": 938,
+      "dateLabel": "936—938年",
+      "category": "战争与外交",
+      "summary": "石敬瑭依靠契丹援军建立后晋，答应割让幽云诸州并输送岁帛。契丹由此取得山前山后要地，北方政权的力量关系改变。",
+      "importance": "燕云地区的归属长期影响辽与中原王朝的边防、交通和外交安排。",
+      "outcome": "后晋与契丹形成依附关系，宋后来也未能轻易收回这些地区，边界问题持续。",
+      "note": "936年许割与后续交割、改制须分开；十六州不是现代省界。",
+      "personIds": [
+        "shijingtang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109540,
+          "lineEnd": 109548
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "five-dynasties",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-chai-rong-reforms",
+      "periodId": "five-dynasties",
+      "title": "柴荣整顿后周与南北用兵",
+      "start": 954,
+      "end": 959,
+      "dateLabel": "954—959年",
+      "category": "制度与改革",
+      "summary": "后周世宗柴荣整顿军队、财政与征税，并对南唐、北汉和辽用兵。改革与战争并行，后周的政治和军事基础有所增强。",
+      "importance": "后周的制度整顿为宋初承接中原政权提供条件，可与宋的中央集权措施连续观察。",
+      "outcome": "后周取得淮南等地，北进时柴荣病逝；其后的幼主朝廷被赵匡胤取代。",
+      "note": "不将宋的统一完全归因于柴荣一人；各项改革起点也不完全相同。",
+      "personIds": [
+        "chairong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109698,
+          "lineEnd": 109764
+        },
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109800,
+          "lineEnd": 109836
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "five-dynasties",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-wuyue-return",
+      "periodId": "five-dynasties",
+      "title": "吴越归地，区域格局再变",
+      "start": 978,
+      "end": 978,
+      "dateLabel": "978年",
+      "category": "建国与转折",
+      "summary": "吴越国王钱弘俶在宋已取得南方优势的形势下入朝，最终献出所辖土地。两浙由吴越地方政权转入宋朝的行政体系。",
+      "importance": "归地显示结束割据并非只有攻城一种方式，也涉及长期臣属关系与政治压力。",
+      "outcome": "宋进一步控制东南财赋地区；次年北汉覆亡后，中原主要割据局面基本结束。",
+      "note": "并非全无压力的自愿让位，亦不等于978年全国全部统一。",
+      "personIds": [
+        "qianhongchu",
+        "zhaoguangyi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第一节 统一战争",
+          "lineStart": 121241,
+          "lineEnd": 121253
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "five-dynasties",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-song-founded",
+      "periodId": "song-liao-xia-jin",
+      "title": "陈桥兵变与宋朝建立",
+      "start": 960,
+      "end": 960,
+      "dateLabel": "960年",
+      "category": "建国与转折",
+      "summary": "后周将领赵匡胤在陈桥兵变后取得皇位，建立宋朝。新王朝随后削弱地方军事权力，并逐步消灭南方和北汉等政权。",
+      "importance": "宋初面临的中心问题是如何结束五代军人易主的循环，并把地方权力收归中央。",
+      "outcome": "皇权和文官行政体系得到加强，但辽与党项势力并未随宋建立而消失。",
+      "note": "“黄袍加身”等细节含后世叙事加工，不把所有传说当实录。",
+      "personIds": [
+        "zhaokuangyin"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第一章 宋王朝的建立与加强中央集权的措施",
+          "section": "第一节 宋王朝的建立",
+          "lineStart": 120596,
+          "lineEnd": 120720
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-chanyuan-treaty",
+      "periodId": "song-liao-xia-jin",
+      "title": "澶渊之盟",
+      "start": 1004,
+      "end": 1005,
+      "dateLabel": "1004—1005年之交",
+      "category": "战争与外交",
+      "summary": "辽军南下，宋真宗赴澶州；双方经使者接触订立和约，约定守界和岁币。长期对抗由此转入有规则的和平交往阶段。",
+      "importance": "盟约使宋辽关系出现长期缓和，边境社会、外交礼仪与市场往来获得较稳定环境。",
+      "outcome": "严重战争减少，但双方继续维持边防并进行外交博弈，和平不等于没有矛盾。",
+      "note": "采用农历1004年末对应公历1005年初的跨年口径。",
+      "personIds": [
+        "songzhenzong",
+        "xiaochuo"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第二节 宋辽战争与“澶渊之盟”",
+          "lineStart": 121473,
+          "lineEnd": 121497
+        },
+        {
+          "volume": 10,
+          "chapter": "第二章 辽朝的兴盛",
+          "section": "第一节 对中原政策的转变",
+          "lineStart": 130261,
+          "lineEnd": 130285
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-western-xia-founded",
+      "periodId": "song-liao-xia-jin",
+      "title": "李元昊建立西夏",
+      "start": 1038,
+      "end": 1038,
+      "dateLabel": "1038年",
+      "category": "建国与转折",
+      "summary": "李元昊在党项夏州势力基础上称帝，国号大夏，推行文字、礼制和官制建设。西夏同宋、辽的关系随之进入新的阶段。",
+      "importance": "西夏使西北政治格局更为复杂，其文字、文化与贸易也不能仅用宋夏战争概括。",
+      "outcome": "宋夏战争爆发，此后双方又通过和议与互市调整关系，西夏持续经营河西等地。",
+      "note": "李德明是建国前首领；宋、辽、西夏关系不固定为两方联盟。",
+      "personIds": [
+        "liyuanhao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第十一章 西夏王朝的兴亡",
+          "section": "第一节 西夏王朝的建立（景、毅、惠时期）",
+          "lineStart": 135369,
+          "lineEnd": 135401
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qingli-reform",
+      "periodId": "song-liao-xia-jin",
+      "title": "范仲淹与庆历新政",
+      "start": 1043,
+      "end": 1045,
+      "dateLabel": "1043—1045年",
+      "category": "制度与改革",
+      "summary": "范仲淹、富弼等提出改革官吏选任、考核与相关政策，宋仁宗一度支持。新政很快遭遇反对，主要参与者先后离开朝廷。",
+      "importance": "它把财政军防困境与官僚治理相联系，是北宋中期连续改革尝试的重要前奏。",
+      "outcome": "部分改革未能持续，围绕冗官、选举和治理能力的问题仍继续影响后来的变法。",
+      "note": "新政并非现代民主改革，失败也不能归结为一位人物的阻挠。",
+      "personIds": [
+        "fanzhongyan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第五章 北宋中叶的改革浪潮（上）：庆历新政",
+          "section": "第二节 “庆历新政”及“新政”失败以后的政治形势",
+          "lineStart": 122790,
+          "lineEnd": 122840
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-wang-anshi-reform",
+      "periodId": "song-liao-xia-jin",
+      "title": "王安石变法与新旧党争",
+      "start": 1069,
+      "end": 1086,
+      "dateLabel": "1069—1086年",
+      "category": "制度与改革",
+      "summary": "宋神宗起用王安石，推行青苗、募役、农田水利等新法，并调整军政与教育。改革引发持续争论，神宗死后政策再度转向。",
+      "importance": "变法触及财政、基层负担和行政执行，展示国家能力扩张与社会承受之间的紧张。",
+      "outcome": "部分政策反复存废，改革分歧又与官员集团竞争结合，影响北宋后期政治。",
+      "note": "时间含新法实施与元祐更化；不同新法、地区和阶段的效果须分开看。",
+      "personIds": [
+        "wanganshi",
+        "simaguang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第六章 北宋中叶的改革浪潮（下）：王安石变法",
+          "section": "第一节 王安石变法",
+          "lineStart": 123013,
+          "lineEnd": 123193
+        },
+        {
+          "volume": 9,
+          "chapter": "第六章 北宋中叶的改革浪潮（下）：王安石变法",
+          "section": "第二节 元祐更化与绍圣绍述",
+          "lineStart": 123409,
+          "lineEnd": 123437
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-movable-type",
+      "periodId": "song-liao-xia-jin",
+      "title": "毕昇与活字印刷试验",
+      "start": 1001,
+      "end": 1100,
+      "dateLabel": "11世纪，北宋中期",
+      "category": "思想与文化",
+      "summary": "北宋毕昇试用胶泥活字，通过组合字块排印书籍；后世继续试验锡字、木字等材料。活字与雕版长期并存，各有适用条件。",
+      "importance": "它改变了制作印版的一种方法，是理解知识传播技术和工匠改进的重要切口。",
+      "outcome": "活字方法被后世继承改进，但没有立即取代雕版，传播效果受材料、成本与需求制约。",
+      "note": "本书元史回顾毕昇技术，未给精确年份；此处只用世纪窗口，不称全部印刷的起点。",
+      "personIds": [
+        "bisheng"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第九章 社会经济",
+          "section": "第二节 农业、手工业和商业概况",
+          "lineStart": 143629,
+          "lineEnd": 143633
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jurchen-jin-founded",
+      "periodId": "song-liao-xia-jin",
+      "title": "完颜阿骨打建立金朝",
+      "start": 1115,
+      "end": 1115,
+      "dateLabel": "1115年",
+      "category": "建国与转折",
+      "summary": "完颜阿骨打组织女真诸部反抗辽的统治，在军事胜利后称帝，国号金。新政权迅速扩展，随后改变东北与华北的政治秩序。",
+      "importance": "金的建立打破辽宋长期对峙，促成新的战争、联盟和人口迁徙。",
+      "outcome": "金先灭辽，继而攻宋，逐渐统治北方广大地区，政制也持续调整。",
+      "note": "1115年建金、1125年灭辽和1127年北宋亡是三个节点。",
+      "personIds": [
+        "wanyanguda"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第三章 辽朝衰亡与金朝建立",
+          "section": "第二节 生女真与金朝",
+          "lineStart": 130979,
+          "lineEnd": 130999
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jingkang",
+      "periodId": "song-liao-xia-jin",
+      "title": "靖康之变与北宋灭亡",
+      "start": 1126,
+      "end": 1127,
+      "dateLabel": "1126—1127年",
+      "category": "战争与外交",
+      "summary": "金军两次进逼开封，宋廷在抵抗与议和之间反复，最终城破，徽宗、钦宗等被俘北去。北宋中央政权结束，战争和迁徙继续。",
+      "importance": "靖康之变使北方统治格局与宋朝政治中心发生根本变化，也是南宋建立的直接背景。",
+      "outcome": "赵构在南方重建宋政权，金继续经营北方，宋金并立格局逐渐形成。",
+      "note": "北宋灭亡不等于所有宋朝机构和地方社会在同一天消失。",
+      "personIds": [
+        "zhaogou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十章 北宋末年的腐朽统治及其灭亡",
+          "section": "第三节 金灭北宋",
+          "lineStart": 125489,
+          "lineEnd": 125507
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuefei-shaoxing",
+      "periodId": "song-liao-xia-jin",
+      "title": "岳飞北伐与绍兴和议",
+      "start": 1140,
+      "end": 1142,
+      "dateLabel": "1140—1142年",
+      "category": "战争与外交",
+      "summary": "岳飞等部在宋金战争中取得战果，但朝廷转向议和并收回主要将领兵权。岳飞被下狱杀害，宋金订立绍兴和议。",
+      "importance": "它关系南宋皇权、将帅和外交目标的冲突，也是理解宋金边界趋于固定的重要节点。",
+      "outcome": "宋金形成新的和约关系，南宋保有南方统治；岳飞的遭遇留下长期历史记忆。",
+      "note": "1141年农历岁末处死对应公历1142年；不采用真伪有争议词作证明战事。",
+      "personIds": [
+        "yuefei",
+        "zhaogou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十一章 南宋与金对峙局面的形成",
+          "section": "第三节 岳飞北伐中原 绍兴和议",
+          "lineStart": 125828,
+          "lineEnd": 125900
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jin-capital",
+      "periodId": "song-liao-xia-jin",
+      "title": "金迁都中都与政治整顿",
+      "start": 1153,
+      "end": 1189,
+      "dateLabel": "1153年迁都；12世纪后半叶整顿",
+      "category": "制度与改革",
+      "summary": "完颜亮迁都燕京，改称中都，统治重心转向华北。金世宗即位后调整政策、延续中央行政建设，北方社会逐渐获得恢复。",
+      "importance": "这使北京地区在全国性政治中的地位进一步上升，也展示金朝并非只有征服战争。",
+      "outcome": "中都成为金的重要政治中心，女真与各地居民的制度、生产和文化联系更为密切。",
+      "note": "迁都与世宗治政分属不同君主，勿合写为一人的改革。",
+      "personIds": [
+        "wanyanyong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第五章 金朝巩固在北方的统治",
+          "section": "第一节 迁都与南侵",
+          "lineStart": 132099,
+          "lineEnd": 132109
+        },
+        {
+          "volume": 10,
+          "chapter": "第五章 金朝巩固在北方的统治",
+          "section": "第二节 金朝的盛世",
+          "lineStart": 132299,
+          "lineEnd": 132321
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-border-trade",
+      "periodId": "song-liao-xia-jin",
+      "title": "宋辽夏金的互市网络",
+      "start": 1007,
+      "end": 1227,
+      "dateLabel": "11—13世纪初的过程",
+      "category": "社会与经济",
+      "summary": "宋、辽、西夏、金之间先后通过使节贸易、榷场与民间交易交换物资，丝织品、牲畜和药材等跨境流动，禁运与战争也反复干预。",
+      "importance": "并立不等于全面隔绝，边民生计和资源互补同样塑造各政权的关系。",
+      "outcome": "市场把不同生产区联系起来，但贸易规模、货种和开放程度随政治形势变化。",
+      "note": "四政权并非在整个窗口同时存在；辽宋和约不能视为全部互市的起因。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第十三章 西夏的经济制度",
+          "section": "第三节 西夏的手工业、商业与对外贸易",
+          "lineStart": 136281,
+          "lineEnd": 136339
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-zhu-xi-learning",
+      "periodId": "song-liao-xia-jin",
+      "title": "朱熹与南宋学术论辩",
+      "start": 1175,
+      "end": 1202,
+      "dateLabel": "1175—1202年前后的学术与政治过程",
+      "category": "思想与文化",
+      "summary": "朱熹整理经典、讲学并参与学术辩论，理学与新学、事功之学等并存。其学派也经历党禁，后来地位继续发生变化。",
+      "importance": "经典解释、教育实践与政治支持相互作用，深刻影响后世科举和思想生活。",
+      "outcome": "程朱学说在后代逐步取得更强的制度地位，但南宋当时并非始终只有一家独尊。",
+      "note": "本条为学术过程窗口，不把元明以后的官方地位提前套到朱熹一生。",
+      "personIds": [
+        "zhuxi",
+        "sushi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第一节 宋学三大学派及事功学派",
+          "lineStart": 127279,
+          "lineEnd": 127329
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-mongol-founded",
+      "periodId": "song-liao-xia-jin",
+      "title": "铁木真统一蒙古与建国",
+      "start": 1206,
+      "end": 1206,
+      "dateLabel": "1206年",
+      "category": "建国与转折",
+      "summary": "铁木真在多年部族战争后取得草原主导地位，召开忽里台，建大蒙古国，号成吉思汗，并把军事和社会组织进一步制度化。",
+      "importance": "蒙古兴起为辽宋夏金之后的格局转折提供新的强大力量，影响范围扩展至欧亚。",
+      "outcome": "蒙古持续向周边征战，西夏、金和南宋先后受到冲击，草原内部也继续变化。",
+      "note": "1206年大蒙古国不等于1271年大元国号；征服带来的破坏不能略去。",
+      "personIds": [
+        "temujin"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第三章 成吉思汗统一蒙古与大蒙古国的建立",
+          "section": "第二节 大蒙古国的建立",
+          "lineStart": 139677,
+          "lineEnd": 139711
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-western-xia-fall",
+      "periodId": "song-liao-xia-jin",
+      "title": "蒙古灭西夏",
+      "start": 1226,
+      "end": 1227,
+      "dateLabel": "1226—1227年",
+      "category": "战争与外交",
+      "summary": "成吉思汗发动对西夏的最后战争，蒙古军攻取要地并围困都城。1227年西夏政权覆亡，当地人口与城市遭受严重战争破坏。",
+      "importance": "西夏灭亡改变河西走廊和西北政治关系，也提示文字与遗址是认识亡国社会的重要材料。",
+      "outcome": "西夏故地进入蒙古统治，其人民、文化和制度遗存并未随王朝终结而完全消失。",
+      "note": "成吉思汗去世与西夏覆亡同年，具体时序不按传说演绎。",
+      "personIds": [
+        "temujin"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第十一章 西夏王朝的兴亡",
+          "section": "第三节 西夏王朝的衰亡（桓、襄、神、献、末帝时期）",
+          "lineStart": 135589,
+          "lineEnd": 135641
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jin-fall",
+      "periodId": "song-liao-xia-jin",
+      "title": "宋蒙攻金与金朝覆亡",
+      "start": 1233,
+      "end": 1234,
+      "dateLabel": "1233—1234年",
+      "category": "战争与外交",
+      "summary": "蒙古军进逼金朝残余政权，南宋出兵参加蔡州围攻。1234年蔡州陷落，金哀宗自尽，金朝作为北方王朝的统治结束。",
+      "importance": "金亡结束了长期宋金对峙，却没有带来南宋与蒙古之间的持久和平。",
+      "outcome": "北方大部转入蒙古统治，宋蒙围绕原金地区的争夺与冲突接续发生。",
+      "note": "宋参加攻金不等于它预见或能控制蒙古后来的全部扩张。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第六章 金的衰亡",
+          "section": "第四节 金的灭亡",
+          "lineStart": 133055,
+          "lineEnd": 133093
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-song-fall",
+      "periodId": "song-liao-xia-jin",
+      "title": "元军南下与南宋覆亡",
+      "start": 1276,
+      "end": 1279,
+      "dateLabel": "1276—1279年",
+      "category": "战争与外交",
+      "summary": "元军攻临安，宋廷出降；部分宗室与大臣继续在东南沿海抵抗。1279年崖山海战后，南宋最后的海上朝廷覆亡。",
+      "importance": "它是宋元政权更替的关键终点，需连同临安出降和各地持续战争分阶段理解。",
+      "outcome": "元朝统治范围扩至原南宋地区，宋代社会文化则以不同方式延续进入元代。",
+      "note": "1276临安出降与1279崖山终局不同；不把文化存续等同于王朝存续。",
+      "personIds": [
+        "wentianxiang",
+        "khubilai",
+        "bayan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十三章 南宋晚期的腐朽统治与元灭南宋",
+          "section": "第二节 元灭南宋",
+          "lineStart": 126432,
+          "lineEnd": 126454
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "yuan"
+      ]
+    },
+    {
+      "id": "cn-yuan-dadu",
+      "periodId": "yuan",
+      "title": "大都营建与两都格局",
+      "start": 1267,
+      "end": 1293,
+      "dateLabel": "1267—1293年的营建过程",
+      "category": "社会与经济",
+      "summary": "忽必烈在原金中都东北营建新城，1272年定名大都，宫城、街道与水运逐步完成。大都和上都共同服务于元廷运行。",
+      "importance": "都城布局与南粮北运相结合，推动北京地区成为政治、文化与物资汇集中心。",
+      "outcome": "大都形成宫廷、行政和市场空间，但大规模工程也使华北居民承担长期劳动与支出。",
+      "note": "不是1267年一次建成；本窗口含通惠河完工，不能作为全部建筑的单一竣工年。",
+      "personIds": [
+        "khubilai",
+        "guoshoujing"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第五章 元朝的建立",
+          "section": "第三节 大都的营建",
+          "lineStart": 141315,
+          "lineEnd": 141343
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-provinces",
+      "periodId": "yuan",
+      "title": "行省与广域行政体系",
+      "start": 1271,
+      "end": 1330,
+      "dateLabel": "元代前中期的制度过程",
+      "category": "制度与改革",
+      "summary": "元朝把部分出征时的行中书省逐步改为地方行政机构，与中书省、宣政院等不同体系并行，管理钱粮、军政和地方事务。",
+      "importance": "行省是中国地方行政演变的重要阶段，也显示广域统治需要多种管理安排。",
+      "outcome": "省级机构的地位日益稳定，影响后世区划，但权责和辖境并非始终不变。",
+      "note": "元行省不等于现代各省，腹里、吐蕃等地也不能统一套作相同行省。",
+      "personIds": [
+        "khubilai"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第七章 统治制度（上）",
+          "section": "第三节 官 制",
+          "lineStart": 142183,
+          "lineEnd": 142211
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-calendar",
+      "periodId": "yuan",
+      "title": "郭守敬等编成《授时历》",
+      "start": 1280,
+      "end": 1281,
+      "dateLabel": "1280年编成，1281年颁行",
+      "category": "思想与文化",
+      "summary": "许衡、王恂、郭守敬等分工进行观测、仪器改进与计算，编成《授时历》，由元廷颁行，形成长期使用的重要历法。",
+      "importance": "历法把国家行政、农业时序和天文技术联系起来，是多人合作的科学事业。",
+      "outcome": "新的观测数据和计算方法提高了历法水平，并对明代历制继续产生影响。",
+      "note": "不把历法等同现代公历，也不把全部成果归功于郭守敬一人。",
+      "personIds": [
+        "guoshoujing",
+        "khubilai"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十三章 文 化",
+          "section": "第五节 科学技术",
+          "lineStart": 146543,
+          "lineEnd": 146559
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-grain-routes",
+      "periodId": "yuan",
+      "title": "漕运改造与南粮海运",
+      "start": 1282,
+      "end": 1293,
+      "dateLabel": "1282—1293年前后",
+      "category": "社会与经济",
+      "summary": "元廷因大都供给需要扩展江南粮食北运，海运规模增长，会通河、通惠河等水路陆续改善；船户与役夫维持复杂运输。",
+      "importance": "南北运输决定都城供给，也把江南财赋、沿海航路与北方城镇更加紧密地联结。",
+      "outcome": "直沽、通州等节点的重要性提高，运输仍受水量、风浪、征役和管理条件限制。",
+      "note": "河运与海运长期并用，并非一条航路出现后立即替代全部陆运。",
+      "personIds": [
+        "guoshoujing",
+        "bayan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第九章 社会经济",
+          "section": "第二节 农业、手工业和商业概况",
+          "lineStart": 143681,
+          "lineEnd": 143717
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-drama",
+      "periodId": "yuan",
+      "title": "元杂剧与戏曲创作繁荣",
+      "start": 1280,
+      "end": 1350,
+      "dateLabel": "13世纪末—14世纪前半叶",
+      "category": "思想与文化",
+      "summary": "关汉卿、王实甫等剧作家以舞台和城市文化为依托，创作大量杂剧，爱情、诉讼与社会不平等成为重要题材，南戏也持续发展。",
+      "importance": "戏曲把文学、表演和城市观众联系起来，拓展了表达社会生活与情感的方式。",
+      "outcome": "《窦娥冤》《西厢记》等进入后世戏曲传统，作品又不断改编，并非原样传至今天。",
+      "note": "元杂剧有金代等前史；作家活动年代和个别作品归属仍需个别考证。",
+      "personIds": [
+        "guanhanqing",
+        "wangshifu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十三章 文 化",
+          "section": "第四节 文学艺术",
+          "lineStart": 146285,
+          "lineEnd": 146431
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-textiles",
+      "periodId": "yuan",
+      "title": "黄道婆与松江棉纺织改进",
+      "start": 1295,
+      "end": 1330,
+      "dateLabel": "约13世纪末—14世纪前期",
+      "category": "社会与经济",
+      "summary": "黄道婆把在海南接触的棉纺织工具与经验带到松江地区，推动当地技术改进。棉作、家庭劳动、市场与区域交流共同参与扩展。",
+      "importance": "棉纺织关系普通人的衣被和谋生，也显示技术传播依靠不同地区劳动者的积累。",
+      "outcome": "松江逐渐成为重要棉纺织地区，但产业成长并非由一位人物或一次传授单独造成。",
+      "note": "元贞年间返乡是书中口径；生卒与技术细节存在传说和史料限制。",
+      "personIds": [
+        "huangdaopo"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第九章 社会经济",
+          "section": "第二节 农业、手工业和商业概况",
+          "lineStart": 143553,
+          "lineEnd": 143567
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-red-turban",
+      "periodId": "yuan",
+      "title": "治河危机与红巾军起义",
+      "start": 1351,
+      "end": 1351,
+      "dateLabel": "1351年",
+      "category": "战争与外交",
+      "summary": "黄河灾害、货币财政问题与社会矛盾加剧，元廷组织大规模治河。同年韩山童、刘福通等发动起义，红巾军迅速扩大。",
+      "importance": "它把灾害治理、徭役和社会不满联系起来，成为元末政权崩解的重要转折。",
+      "outcome": "各路起义与地方武装并起，元廷内部争斗继续，最终形成多方竞争的新局面。",
+      "note": "治河是重要背景而非唯一原因；石人谶谣不能当作起义规模的直接证据。",
+      "personIds": [
+        "jialu",
+        "liufutong",
+        "tuotuo"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十二章 元末人民大起义",
+          "section": "第一节 元末社会总危机的形成",
+          "lineStart": 144978,
+          "lineEnd": 145010
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-yuan-retreat",
+      "periodId": "yuan",
+      "title": "元廷退出大都",
+      "start": 1368,
+      "end": 1368,
+      "dateLabel": "1368年",
+      "category": "建国与转折",
+      "summary": "朱元璋部将徐达等北伐推进，元廷在军事和内部危机中撤离大都，明军入城。元在中原的统治结束，蒙古政权继续在北方存在。",
+      "importance": "这一节点区分“中原王朝更替”与蒙古政权整体存续，避免把1368写成所有元系势力消失。",
+      "outcome": "明朝继续向北方和各地扩展，元廷余部保持政治军事活动，明蒙关系成为新问题。",
+      "note": "不另复制“明朝建立”为同一事件；1368改朝并非所有地区同时完成。",
+      "personIds": [
+        "zhuyuanzhang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十二章 元末人民大起义",
+          "section": "第五节 朱元璋统一诸部与元朝的灭亡",
+          "lineStart": 145284,
+          "lineEnd": 145298
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "yuan",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-centralization",
+      "periodId": "ming",
+      "title": "洪武制度与丞相废除",
+      "start": 1380,
+      "end": 1380,
+      "dateLabel": "1380年，兼看洪武制度建设",
+      "category": "制度与改革",
+      "summary": "朱元璋在胡惟庸案后废除中书省和丞相，由六部分理事务并直接对皇帝负责；地方、军制、法律与赋役也先后调整。",
+      "importance": "它重新配置中央决策权力，对明清皇权和行政方式产生深远影响。",
+      "outcome": "皇帝直接处理事务的负担加重，后来的内阁等辅助安排在这一基础上发展。",
+      "note": "胡案罪名与扩大的政治清洗须审慎区分，制度后果不等于全面治理高效。",
+      "personIds": [
+        "zhuyuanzhang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二章 明初全国统一的完成明太祖的治国政策",
+          "section": "第二节 加强君主专制统治的政治制度",
+          "lineStart": 149065,
+          "lineEnd": 149109
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-jingnan",
+      "periodId": "ming",
+      "title": "靖难之役与朱棣夺位",
+      "start": 1399,
+      "end": 1402,
+      "dateLabel": "1399—1402年",
+      "category": "战争与外交",
+      "summary": "建文帝削减藩王势力，燕王朱棣起兵，经过多年内战攻入南京并夺取皇位。建文朝结束，明朝内部权力重新组合。",
+      "importance": "它显示宗室军权与中央集权的冲突，也深刻影响后来的史书书写和政治合法性。",
+      "outcome": "朱棣即位后继续削藩、经营北方和对外活动，建文旧臣遭受清算。",
+      "note": "建文帝下落存在史料与传说问题，不写作已确定出家或自焚。",
+      "personIds": [
+        "zhudi",
+        "zhuyunwen"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第三章 从永乐到宣德治国政策的演变",
+          "section": "",
+          "lineStart": 149744,
+          "lineEnd": 149856
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-beijing",
+      "periodId": "ming",
+      "title": "明朝迁都北京",
+      "start": 1421,
+      "end": 1421,
+      "dateLabel": "1421年",
+      "category": "建国与转折",
+      "summary": "朱棣在修建宫城、整治运河等准备后，把首都由南京迁往北京。南北粮食运输与北方军事形势，共同影响政治中心的设置。",
+      "importance": "北京的政治中心地位进一步确立，都城、边防与南粮北运形成持续联系。",
+      "outcome": "北京承担主要朝廷运行，南京仍保留相应机构，北方防务和漕运投入长期增加。",
+      "note": "迁都不是北京第一次成为都城，工程与行政迁移也有不同时间节点。",
+      "personIds": [
+        "zhudi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第三章 从永乐到宣德治国政策的演变",
+          "section": "",
+          "lineStart": 149942,
+          "lineEnd": 149944
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-tumu-beijing-defense",
+      "periodId": "ming",
+      "title": "土木之变与北京保卫战",
+      "start": 1449,
+      "end": 1450,
+      "dateLabel": "1449—1450年",
+      "category": "战争与外交",
+      "summary": "明英宗亲征瓦剌时在土木堡战败被俘，北京面临威胁。于谦等组织守御，明廷另立新君并稳住局面，英宗随后获释。",
+      "importance": "重大军事挫败使皇位、军队和都城防御同时陷入危机，是明中期政治的重要转折。",
+      "outcome": "北京得以守住，朝廷内部的皇位问题和军政调整仍继续发酵，后有夺门之变。",
+      "note": "土木败与守北京不是同一战役；不把所有责任简化给一个宦官。",
+      "personIds": [
+        "zhuqizhen",
+        "yuqian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第七章 明中期的政治（上）",
+          "section": "第一节 王振专权和“土木之败”",
+          "lineStart": 151110,
+          "lineEnd": 151190
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-coastal-defense",
+      "periodId": "ming",
+      "title": "沿海抗倭与军队整顿",
+      "start": 1553,
+      "end": 1567,
+      "dateLabel": "1550—1560年代",
+      "category": "战争与外交",
+      "summary": "东南沿海遭受武装海商与倭寇等侵扰，戚继光、俞大猷等整军训练，联合多地军民作战，逐步改善浙江、福建等地局势。",
+      "importance": "沿海安全、贸易禁令和跨海武装交织，抗倭不能只作为两国正规军战争理解。",
+      "outcome": "主要沿海武装集团受到打击，募兵和训练经验留下影响，海贸管理仍继续调整。",
+      "note": "“倭寇”成分复杂，不等于全部日本人；各地战事起讫不同。",
+      "personIds": [
+        "qijiguang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第十章 明朝中期的民族关系反对外来侵略的斗争",
+          "section": "第二节 中国人民反抗倭寇、葡萄牙殖民者的斗争",
+          "lineStart": 154783,
+          "lineEnd": 154977
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-longqing-trade",
+      "periodId": "ming",
+      "title": "隆庆开海与私人海贸",
+      "start": 1567,
+      "end": 1567,
+      "dateLabel": "1567年起",
+      "category": "社会与经济",
+      "summary": "明廷在福建允许部分私人海外贸易，商人凭引票出航，航区、船额和税收仍受规定。漳州等地的海贸由此获得新的制度空间。",
+      "importance": "它纠正了“明代始终完全禁海”的印象，也连接东南港口与亚洲及美洲贸易网络。",
+      "outcome": "私人海贸和关税收入增长，海外白银与中国商品交换更密切，但限制并未全部取消。",
+      "note": "主要指福建月港等制度调整，不是全国无条件自由贸易。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第十一章 明代中、后期社会经济的发展",
+          "section": "第三节 商品经济的繁荣",
+          "lineStart": 155778,
+          "lineEnd": 155800
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-zhang-juzheng-reform",
+      "periodId": "ming",
+      "title": "张居正改革与一条鞭法",
+      "start": 1573,
+      "end": 1582,
+      "dateLabel": "1573—1582年",
+      "category": "制度与改革",
+      "summary": "张居正在万历初推行考成、清丈与财政整顿，推广一条鞭法，将多种赋役合并折银征收，并经营边防，以增强行政和财力。",
+      "importance": "改革连接中央执行、土地税役与白银流通，直接影响普通家庭纳税和地方官治理。",
+      "outcome": "朝廷财政一度改善，但地方执行不一，折银也带来交易压力，部分整顿后来被废弛。",
+      "note": "一条鞭法早有地方实践，不能说由张居正一次发明或所有地区同法同率。",
+      "personIds": [
+        "zhangjuzheng"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第九章 明中期的政治（下）",
+          "section": "第二节 从嘉靖中期到万历初年的改革活动",
+          "lineStart": 154356,
+          "lineEnd": 154512
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-korea-war",
+      "periodId": "ming",
+      "title": "明朝援朝抗击日本入侵",
+      "start": 1592,
+      "end": 1598,
+      "dateLabel": "1592—1598年",
+      "category": "战争与外交",
+      "summary": "丰臣秀吉发动侵朝战争，朝鲜军民抵抗并向明求援。明军渡江参战，海陆战争和谈判反复，至1598年日军撤离朝鲜。",
+      "importance": "战争牵动东亚海陆秩序、明朝财政和军力，需同时看到朝鲜自身的抵抗与海上作用。",
+      "outcome": "日本侵朝计划受挫，朝鲜遭到严重破坏，明朝也付出大量财政和兵员成本。",
+      "note": "不能把朝鲜写成被动战场，也不把战争结果归功于单一将领。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十章 明后期的中外关系",
+          "section": "第三节 中朝人民的友谊和联合抗日",
+          "lineStart": 163123,
+          "lineEnd": 163227
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-liaodong-war",
+      "periodId": "ming",
+      "title": "辽东战争与明金力量转变",
+      "start": 1618,
+      "end": 1630,
+      "dateLabel": "1618—1630年",
+      "category": "战争与外交",
+      "summary": "后金向明开战，萨尔浒等战役后不断扩展，明朝辽东防务趋于被动。袁崇焕等经营宁锦防线，军事与朝廷政治相互影响。",
+      "importance": "辽东局势连接后金兴起与明朝危机，使边防、军费和政权信任问题同时突出。",
+      "outcome": "后金取得战略优势，明军仍有防御胜绩；袁崇焕被处死后，战争并未结束。",
+      "note": "1630只是本条聚焦窗口，明金战争此后继续；反间计和罪案解释不能全按传说处理。",
+      "personIds": [
+        "yuanchonghuan",
+        "nurhaci",
+        "huangtaiji",
+        "zhuyoujian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第十九章 满族的兴起和后金的扩展（下）",
+          "section": "第一节 汗位之争和皇太极即位",
+          "lineStart": 162477,
+          "lineEnd": 162598
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-science-books",
+      "periodId": "ming",
+      "title": "晚明实用科学与著述",
+      "start": 1578,
+      "end": 1637,
+      "dateLabel": "1578—1637年的著述过程",
+      "category": "思想与文化",
+      "summary": "李时珍、徐光启、宋应星等结合文献、观察与生产经验，整理医药、农业及工艺知识；中外知识交流也进入天文与数学研究。",
+      "importance": "这些著述把技术、自然观察与日用生活联系起来，是认识明代知识生产的重要入口。",
+      "outcome": "《本草纲目》《农政全书》《天工开物》等成为后世研究与传播的资源，内容仍有时代局限。",
+      "note": "各书编成与刊印年不同；古代医药和工艺不作为现代操作或诊疗指南。",
+      "personIds": [
+        "lishizhen",
+        "xuguangqi",
+        "songyingxing"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十五章 明代的科学技术",
+          "section": "",
+          "lineStart": 167864,
+          "lineEnd": 167920
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-li-zicheng-beijing",
+      "periodId": "ming",
+      "title": "李自成入北京与明廷结束",
+      "start": 1644,
+      "end": 1644,
+      "dateLabel": "1644年",
+      "category": "建国与转折",
+      "summary": "明朝在内外战争、灾荒和财政压力中危机加深。李自成建立大顺并攻入北京，崇祯帝自缢，北京明廷结束，战争随即进入新的阶段。",
+      "importance": "它是明清更替的重要节点，但其后大顺、清军和南明之间的战争仍继续。",
+      "outcome": "大顺短暂控制北京，山海关战后撤离；清军随后入京，南方又出现继承明号的政权。",
+      "note": "不是1644年全国同时改朝，也不把多重危机归结为一个皇帝或一次灾害。",
+      "personIds": [
+        "lizicheng",
+        "zhuyoujian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十一章 推翻明朝北京中央政权的农民大起义",
+          "section": "第三节 起义的高潮阶段",
+          "lineStart": 164600,
+          "lineEnd": 164712
+        },
+        {
+          "volume": 12,
+          "chapter": "第二十一章 推翻明朝北京中央政权的农民大起义",
+          "section": "第三节 起义的高潮阶段",
+          "lineStart": 164822,
+          "lineEnd": 164824
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-southern-ming",
+      "periodId": "ming",
+      "title": "南明与持续的明清战争",
+      "start": 1644,
+      "end": 1662,
+      "dateLabel": "1644—1662年，另有郑氏延续",
+      "category": "战争与外交",
+      "summary": "北京明廷结束后，南方先后拥立弘光、隆武、永历等朝廷，与清军继续战争。原农民军部分力量也转而参与抗清。",
+      "importance": "南明说明1644只是北京政权终点，战争、地域归属和政治认同仍有长期变化。",
+      "outcome": "1662年永历帝被杀，主要南明朝廷结束；台湾郑氏仍使用永历年号并继续存在。",
+      "note": "时间只标主要南明朝廷，不把台湾郑氏1683年以前的存在抹去。",
+      "personIds": [
+        "lizicheng",
+        "zhengchenggong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十二章 南明政权及农民军余部的拥明抗清",
+          "section": "第六节 大西军余部的失败和永历政权的灭亡",
+          "lineStart": 166275,
+          "lineEnd": 166297
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-ming-wang-learning",
+      "periodId": "ming",
+      "title": "王守仁与心学传播",
+      "start": 1508,
+      "end": 1529,
+      "dateLabel": "1508—1529年前后的讲学过程",
+      "category": "思想与文化",
+      "summary": "王守仁结合从政经历与讲学提出知行合一、致良知等主张，参与明代儒学解释的转变。其门人传播又产生多种学术发展。",
+      "importance": "它把道德实践与个人主体问题推到学术讨论中心，对后世思想和教育影响深远。",
+      "outcome": "心学在士人与地方社会中扩散，内部观点并不一致，也与程朱学说持续争论。",
+      "note": "不把心学简化为“想到就做到”或现代成功学，活动窗口不是所有著作年代。",
+      "personIds": [
+        "wangshouren"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十三章 明代的哲学、史学、地理学和宗教",
+          "section": "",
+          "lineStart": 166362,
+          "lineEnd": 166540
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "ming",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-later-jin-founded",
+      "periodId": "qing",
+      "title": "努尔哈赤建立后金",
+      "start": 1616,
+      "end": 1616,
+      "dateLabel": "1616年，清朝的前史",
+      "category": "建国与转折",
+      "summary": "努尔哈赤在逐步整合女真诸部与八旗组织后，于赫图阿拉即汗位，建国号金，史称后金，开始同明朝持续争夺辽东。",
+      "importance": "后金是清朝形成的前史，其组织和战争经验为后来改号大清、进入中原提供基础。",
+      "outcome": "后金从地方军事势力转为王朝政权，人口组织、行政和对明关系继续改变。",
+      "note": "本站清朝自1636年起，1616仅作为前史节点，不与改号大清混写。",
+      "personIds": [
+        "nurhaci"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第二章 努尔哈赤的兴起与后金政权的建立",
+          "section": "第一节 努尔哈赤统一女真和后金政权的建立",
+          "lineStart": 172393,
+          "lineEnd": 172395
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qing-entry",
+      "periodId": "qing",
+      "title": "山海关战争与清军入京",
+      "start": 1644,
+      "end": 1644,
+      "dateLabel": "1644年",
+      "category": "战争与外交",
+      "summary": "李自成攻入北京后，吴三桂与多尔衮统领的清军联合作战，大顺军败退。清军随后进入北京，清廷以北京为新的政治中心。",
+      "importance": "清由关外政权转入经营中原的阶段，但全国统治仍经过长期战争和社会重组。",
+      "outcome": "清廷继续南下，与南明、农民军余部及地方力量反复作战，并推行新的统治政策。",
+      "note": "入关不等于全部地区同时归清；战争、剃发与人口损失须在后续展开。",
+      "personIds": [
+        "dorgon"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第四章 清军入关与统一中国",
+          "section": "第一节 多尔衮与清兵入关",
+          "lineStart": 173481,
+          "lineEnd": 173563
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-three-feudatories",
+      "periodId": "qing",
+      "title": "三藩战争",
+      "start": 1673,
+      "end": 1681,
+      "dateLabel": "1673—1681年",
+      "category": "战争与外交",
+      "summary": "清廷决定撤藩后，吴三桂、耿精忠等先后起兵，战争波及南方多省。康熙朝调集各路军队长期作战，最终平定主要反抗。",
+      "importance": "三藩战争决定地方军事藩镇与中央权力的关系，也使清廷进一步控制南方军政。",
+      "outcome": "藩王军事体系被削除，清廷财政和地方统治重新调整，战争造成广泛社会损耗。",
+      "note": "三藩行动并不始终一致，不能写成一开始即统一指挥的完整联盟。",
+      "personIds": [
+        "kangxi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第六章 康熙时期的政治斗争与经济恢复",
+          "section": "第一节 康熙时期的政治斗争",
+          "lineStart": 174781,
+          "lineEnd": 174857
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-taiwan-zheng-qing",
+      "periodId": "qing",
+      "title": "郑氏经营台湾与清廷设府",
+      "start": 1661,
+      "end": 1684,
+      "dateLabel": "1661—1684年",
+      "category": "战争与外交",
+      "summary": "郑成功击败荷兰殖民者进入台湾，郑氏随后经营岛内政权。1683年施琅攻澎湖，郑氏降清，次年清廷设台湾府实施行政管理。",
+      "importance": "这一过程涉及反殖民、明清战争、移民与岛内不同居民，也是清朝海疆经营的重要转折。",
+      "outcome": "台湾转入清朝行政体系，沿海政策与海上贸易随之调整，岛内开发和社会关系继续变化。",
+      "note": "1662郑成功收台、1683郑氏降清、1684设府是不同节点；不以移民史抹去原住民。",
+      "personIds": [
+        "zhengchenggong",
+        "shilang",
+        "kangxi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十章 明后期的中外关系",
+          "section": "第一节 荷兰殖民者侵占我国领土和郑成功收复台湾",
+          "lineStart": 162867,
+          "lineEnd": 162967
+        },
+        {
+          "volume": 13,
+          "chapter": "第六章 康熙时期的政治斗争与经济恢复",
+          "section": "第一节 康熙时期的政治斗争",
+          "lineStart": 174889,
+          "lineEnd": 174915
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-nerchinsk-treaty",
+      "periodId": "qing",
+      "title": "雅克萨战争与尼布楚条约",
+      "start": 1685,
+      "end": 1689,
+      "dateLabel": "1685—1689年",
+      "category": "战争与外交",
+      "summary": "清军同俄方在黑龙江流域发生军事冲突，双方随后派使团谈判，1689年签订《尼布楚条约》，议定部分边界和交往规则。",
+      "importance": "它是中俄以条约处理边疆关系的重要开端，军事、翻译与外交程序共同发挥作用。",
+      "outcome": "东北边境局势得到缓和，通商与人员往来有了约定，部分地区仍留待后续议定。",
+      "note": "条约并未解决全部中俄边界，不能直接套用今天国界展示。",
+      "personIds": [
+        "kangxi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第七章 清初经营边疆和巩固统一的战争",
+          "section": "第一节 抗击沙俄对黑龙江流域的入侵和尼布楚条约的签订",
+          "lineStart": 175445,
+          "lineEnd": 175473
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qing-tax-reform",
+      "periodId": "qing",
+      "title": "永不加赋与摊丁入亩",
+      "start": 1712,
+      "end": 1730,
+      "dateLabel": "1712年起，雍正朝推广",
+      "category": "制度与改革",
+      "summary": "康熙末年固定丁银总额，此后雍正朝逐步将丁银摊入田赋征收。清代赋役由按丁与按田并行，向更多依土地承担调整。",
+      "importance": "它改变人丁、土地与税收的关系，是理解清代家庭负担和财政管理的重要制度节点。",
+      "outcome": "人丁增减与丁银征收的联系减弱，但田赋及其他负担继续存在，各地办法也有差异。",
+      "note": "“永不加赋”主要指新增人丁不加丁银，不表示清朝以后所有税负都不增加。",
+      "personIds": [
+        "kangxi",
+        "yongzheng"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第八章 雍正时期的政治和经济",
+          "section": "第二节 赋役制度的改革",
+          "lineStart": 176125,
+          "lineEnd": 176149
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qing-northwest",
+      "periodId": "qing",
+      "title": "乾隆时期的西北战争与设治",
+      "start": 1755,
+      "end": 1762,
+      "dateLabel": "1755—1762年",
+      "category": "战争与外交",
+      "summary": "清军在准噶尔及天山南路持续用兵，先后击败当地对手，并设置伊犁将军等管理机构，清朝西北统治与多元管理体系进一步形成。",
+      "importance": "疆域经营并非地图上一次涂色，而是战争、驻军、移民、地方制度和社会变化的结合。",
+      "outcome": "西北被纳入清廷持续管辖，但战争、疾病与人口损失严重，地方秩序经历长期重建。",
+      "note": "不将今天省界倒投18世纪；军事胜利与当地居民遭受的损失须同时说明。",
+      "personIds": [
+        "qianlong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第九章 清高宗继位和统一多民族国家的巩固和发展",
+          "section": "第一节 清高宗继位及其对边疆地区的经营",
+          "lineStart": 176307,
+          "lineEnd": 176405
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qing-maritime-trade",
+      "periodId": "qing",
+      "title": "开海、海关与广州贸易",
+      "start": 1684,
+      "end": 1757,
+      "dateLabel": "1684年后开海；1757年制度转折",
+      "category": "社会与经济",
+      "summary": "清廷在沿海战争趋缓后开放贸易、设置海关，海外商贸继续发展。乾隆时又把西洋商船通商主要集中于广州，形成受管制的贸易安排。",
+      "importance": "清代对外联系有开放、限制与不同渠道，不能简单说成完全没有海外交流。",
+      "outcome": "广州、澳门及行商成为重要交往节点，贸易和知识流动持续，但外国商人与居民活动受约束。",
+      "note": "广州一口主要针对西洋商船，国内沿海及其他亚洲贸易不能一并写成全部禁止。",
+      "personIds": [
+        "kangxi",
+        "qianlong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第十三章 对外关系",
+          "section": "第三节 反对西欧北美殖民者的斗争",
+          "lineStart": 178425,
+          "lineEnd": 178477
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-white-lotus-war",
+      "periodId": "qing",
+      "title": "川楚陕白莲教起义",
+      "start": 1796,
+      "end": 1804,
+      "dateLabel": "1796—1804年",
+      "category": "战争与外交",
+      "summary": "人口流动、土地生计和地方苛扰等矛盾积累，白莲教组织在川楚陕一带起事。清廷长期调兵镇压，战争延续到嘉庆时期。",
+      "importance": "它暴露所谓盛世之后的基层矛盾，也考验清军组织和财政承受能力。",
+      "outcome": "起义被镇压，但清廷耗费巨大，地方社会遭到破坏，治理和军队问题并未根除。",
+      "note": "宗教组织、地方利益和民生压力并存，不能把参与者全视为同一目的的整体。",
+      "personIds": [],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第十二章 封建社会日趋衰败的嘉庆、道光时期",
+          "section": "第二节 嘉道时期各族人民的反抗斗争",
+          "lineStart": 177855,
+          "lineEnd": 178051
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-opium-war",
+      "periodId": "qing",
+      "title": "虎门销烟与鸦片战争",
+      "start": 1839,
+      "end": 1842,
+      "dateLabel": "1839—1842年",
+      "category": "战争与外交",
+      "summary": "林则徐在广州禁烟并销毁鸦片，英国随后发动战争。清军在海陆作战中失利，1842年清廷签订《南京条约》，被迫接受通商与割地赔款。",
+      "importance": "战争改变中国对外关系的制度环境，使海防、国际知识和改革需求更为迫切。",
+      "outcome": "香港岛被割让，五口通商及后续条约安排扩大外国特权，沿海社会和财政承受新压力。",
+      "note": "1839禁烟与1840开战分开；战争不能归咎于禁烟本身或单一技术差距。",
+      "personIds": [
+        "linzexu",
+        "weiyuan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第一章 道光朝后期社会的新变动",
+          "section": "第一节 鸦片战争",
+          "lineStart": 180013,
+          "lineEnd": 180259
+        },
+        {
+          "volume": 13,
+          "chapter": "第一章 道光朝后期社会的新变动",
+          "section": "第三节 思想界的新动向 ——从“夷夏之防”到“师夷长技”的历史转变",
+          "lineStart": 180433,
+          "lineEnd": 180507
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-taiping-war",
+      "periodId": "qing",
+      "title": "太平天国兴起与战争",
+      "start": 1851,
+      "end": 1864,
+      "dateLabel": "1851—1864年",
+      "category": "战争与外交",
+      "summary": "洪秀全等在广西起事并建立太平天国，1853年定都南京，提出制度主张。清廷及地方武装与其长期交战，内部冲突也削弱太平政权。",
+      "importance": "战争牵动长江流域社会与财政，改变清朝军队和地方权力结构，造成巨大人口损耗。",
+      "outcome": "1864年天京陷落，主要政权结束，部分余部继续活动；湘淮军及督抚权力随战争上升。",
+      "note": "政策文本不等于实际全面实行，死亡规模估计有争议，不沿用单一巨额数字。",
+      "personIds": [
+        "hongxiuquan",
+        "zengguofan",
+        "lihongzhang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第二章 咸丰朝之内忧与外患（上）",
+          "section": "第四节 太平天国的兴起与发展",
+          "lineStart": 181009,
+          "lineEnd": 181285
+        },
+        {
+          "volume": 13,
+          "chapter": "第四章 同治中兴（上）",
+          "section": "第三节 太平天国灭亡与各地起义平息",
+          "lineStart": 182273,
+          "lineEnd": 182395
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-second-opium-war",
+      "periodId": "qing",
+      "title": "第二次鸦片战争",
+      "start": 1856,
+      "end": 1860,
+      "dateLabel": "1856—1860年",
+      "category": "战争与外交",
+      "summary": "英国与法国发动对华战争，清廷先后签订《天津条约》《北京条约》等。联军攻入北京并焚毁圆明园，朝廷对外关系再受重大冲击。",
+      "importance": "外国通商、传教和使节等权利进一步扩大，对中国内地与外交体制造成长远影响。",
+      "outcome": "口岸和内地活动范围继续变化，清廷开始更多采用常设外交机构与学习西方技术的措施。",
+      "note": "英法联军的侵略与清廷决策责任分别说明，不能用一场战争解释全部洋务起因。",
+      "personIds": [
+        "yixin"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第三章 咸丰朝之内忧与外患（下）",
+          "section": "第一节 英法联军之役",
+          "lineStart": 181401,
+          "lineEnd": 181565
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-self-strengthening",
+      "periodId": "qing",
+      "title": "洋务运动与近代事业兴办",
+      "start": 1861,
+      "end": 1895,
+      "dateLabel": "1860年代—1890年代",
+      "category": "制度与改革",
+      "summary": "清廷部分大臣与督抚兴办军事工厂、船政、海军和新式学堂，后来兼及航运、矿业、电报等事业，试图以技术和组织调整应对危机。",
+      "importance": "它把新式工业、教育与国家防务联系起来，形成中国近代制度和产业变化的一部分。",
+      "outcome": "新技术与人才逐渐积累，但财政、管理和政治结构限制持续；甲午失败暴露严重问题。",
+      "note": "洋务不是单一统一计划，不能以“完全成功”或“毫无作用”一笔概括。",
+      "personIds": [
+        "zengguofan",
+        "lihongzhang",
+        "zuozongtang",
+        "zhangzhidong",
+        "cixi",
+        "yixin"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第五章 同治中兴（下）",
+          "section": "第一节 洋务思潮的产生与发展",
+          "lineStart": 182575,
+          "lineEnd": 182863
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-qing-xinjiang",
+      "periodId": "qing",
+      "title": "新疆战争、交涉与建省",
+      "start": 1875,
+      "end": 1884,
+      "dateLabel": "1875—1884年",
+      "category": "战争与外交",
+      "summary": "清廷以左宗棠主持西征，收复阿古柏占据的新疆大部分地区，又通过对俄谈判处理伊犁问题，1884年正式设新疆省。",
+      "importance": "军事实力、财政筹措、外交和行政调整共同塑造晚清西北格局，不能只记一场战役。",
+      "outcome": "清廷恢复并调整西北统治，省制进入新疆，地方治理仍保留复杂的社会和族群问题。",
+      "note": "左宗棠西征与曾纪泽交涉分属不同工作，建省也不是同一年的单一动作。",
+      "personIds": [
+        "zuozongtang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第六章 光绪朝社会的急剧变化与重大变革（上）",
+          "section": "第二节 光绪朝边疆告警",
+          "lineStart": 183899,
+          "lineEnd": 184015
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sino-french-war",
+      "periodId": "qing",
+      "title": "中法战争",
+      "start": 1883,
+      "end": 1885,
+      "dateLabel": "1883—1885年",
+      "category": "战争与外交",
+      "summary": "法国扩张到越南并与清军、黑旗军发生战争，战事又波及福建与台湾。陆海战果不一，最终清廷与法国订约，调整对越关系。",
+      "importance": "战争连结越南、台湾和东南沿海，说明晚清对外冲突常跨越今日国界与多个战场。",
+      "outcome": "清廷承认法国对越南的保护关系，海防与边疆治理受到冲击，台湾设省问题继续推进。",
+      "note": "越南地名“山西”“太原”不是中国同名省市；不把陆战胜利写成全面获胜。",
+      "personIds": [
+        "lihongzhang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第六章 光绪朝社会的急剧变化与重大变革（上）",
+          "section": "第三节 中法战争",
+          "lineStart": 184225,
+          "lineEnd": 184277
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-sino-japanese-war",
+      "periodId": "qing",
+      "title": "甲午战争与《马关条约》",
+      "start": 1894,
+      "end": 1895,
+      "dateLabel": "1894—1895年",
+      "category": "战争与外交",
+      "summary": "日本围绕朝鲜与中国开战，清军在陆海战场接连失利，北洋舰队覆灭。1895年《马关条约》规定割地、赔款并扩大日本权益。",
+      "importance": "失败加深中国的民族危机，震动既有改革信心，并推动维新、革命和其他政治探索。",
+      "outcome": "台湾、澎湖被割让，赔款和通商设厂等安排加重压力，台湾居民继续开展反割台抵抗。",
+      "note": "不能把败因归于一种武器或一笔经费；各军及民众抵抗需要具体区分。",
+      "personIds": [
+        "lihongzhang",
+        "guangxu",
+        "cixi",
+        "dengshichang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第六章 光绪朝社会的急剧变化与重大变革（上）",
+          "section": "第四节 中日甲午战争",
+          "lineStart": 184279,
+          "lineEnd": 184451
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-hundred-days-reform",
+      "periodId": "qing",
+      "title": "戊戌变法与政变",
+      "start": 1898,
+      "end": 1898,
+      "dateLabel": "1898年",
+      "category": "制度与改革",
+      "summary": "光绪帝在康有为等影响下推行涉及行政、教育和经济的改革诏令，维新派积极宣传。慈禧发动政变，光绪失去实权，改革大部被中止。",
+      "importance": "它把政治制度改革提上更突出位置，也显示诏令设计、执行基础和权力结构之间的落差。",
+      "outcome": "谭嗣同等被杀，康梁流亡；部分教育与改革议题继续影响清末新政和立宪讨论。",
+      "note": "公车上书细节有争议，不能以传奇故事代替1898年的具体政治过程。",
+      "personIds": [
+        "guangxu",
+        "kangyouwei",
+        "liangqichao",
+        "cixi",
+        "tansitong"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第二节 戊戌变法",
+          "lineStart": 185107,
+          "lineEnd": 185253
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-boxer-crisis",
+      "periodId": "qing",
+      "title": "义和团、联军入侵与辛丑条约",
+      "start": 1900,
+      "end": 1901,
+      "dateLabel": "1900—1901年",
+      "category": "战争与外交",
+      "summary": "义和团运动在华北扩大，清廷政策由压制转为利用，民教冲突与排外暴力加剧。八国联军攻入北京，次年清廷签订《辛丑条约》。",
+      "importance": "它集中呈现外来侵略、地方冲突和朝廷误判，深刻改变清廷财政、驻军与外交处境。",
+      "outcome": "巨额赔款与驻兵等条款加重主权和财政压力，清廷随后加快新政以维系统治。",
+      "note": "反侵略诉求与对普通教民、外国平民的伤害须分辨，不把运动或参与者一概美化。",
+      "personIds": [
+        "cixi",
+        "lihongzhang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第三节 义和团运动",
+          "lineStart": 185255,
+          "lineEnd": 185439
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-late-qing-reform",
+      "periodId": "qing",
+      "title": "清末新政与预备立宪",
+      "start": 1901,
+      "end": 1911,
+      "dateLabel": "1901—1911年",
+      "category": "制度与改革",
+      "summary": "清廷推进官制、军队、警政、教育、司法和工商改革，并宣布预备立宪，设谘议局、资政院等，试图重建国家能力与政治支持。",
+      "importance": "改革扩大新式制度与公共参与空间，也激起关于代表权、财政和改革期限的争议。",
+      "outcome": "新军、学堂与地方政治力量发展，但皇族内阁等安排加剧失望，未能稳住清朝统治。",
+      "note": "新政不是戊戌诏令的原样恢复；立宪制度发展与革命兴起是相互作用的不同进程。",
+      "personIds": [
+        "zhangzhidong",
+        "yuanshikai",
+        "liangqichao",
+        "cixi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第七章 光绪朝社会的急剧变化与重大变革（中）",
+          "section": "第一节 光绪朝政府机构重大变革",
+          "lineStart": 184697,
+          "lineEnd": 184811
+        },
+        {
+          "volume": 13,
+          "chapter": "第十章 宣统朝之穷途末路",
+          "section": "第三节 立宪运动与迟到的资产阶级民主化进程加速",
+          "lineStart": 186491,
+          "lineEnd": 186691
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-abolish-exams",
+      "periodId": "qing",
+      "title": "废科举与新学制推进",
+      "start": 1905,
+      "end": 1905,
+      "dateLabel": "1905年",
+      "category": "制度与改革",
+      "summary": "袁世凯、张之洞等督抚联衔请求停科举，清廷下令停止相关考试。新式学堂与留学逐渐成为人才培养和社会上升的重要路径。",
+      "importance": "取士方式的改变触及士人职业和地方文化，是清末制度转型中影响普通社会的重要节点。",
+      "outcome": "旧生员出路与学校资源问题并存，教育内容和知识结构持续变化，地区差距仍然明显。",
+      "note": "1905为停科举决定，1906原定科次不再举行；不等于现代普及教育已经实现。",
+      "personIds": [
+        "zhangzhidong",
+        "yuanshikai"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第七章 光绪朝社会的急剧变化与重大变革（中）",
+          "section": "第三节 光绪朝学制重大变革",
+          "lineStart": 184887,
+          "lineEnd": 184915
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "qing",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-later-zhou-founded",
+      "periodId": "five-dynasties",
+      "title": "契丹灭晋与后汉、后周更替",
+      "start": 946,
+      "end": 951,
+      "dateLabel": "946—951年",
+      "category": "建国与转折",
+      "summary": "契丹军击败后晋并进入中原，后晋于947年结束；刘知远同年建立后汉。后汉内部军政冲突后，郭威于951年建立后周。",
+      "importance": "这段接续把后晋、后汉和后周串为一体，显示北方战争与军队易主如何重组中原。",
+      "outcome": "契丹退出中原主体地区，后汉继起而又迅速为后周代替，中原政权仍未稳定。",
+      "note": "946年末出兵与947年亡晋须分开；后汉、后周均未使全国同时归一。",
+      "personIds": [
+        "liuzhiyuan",
+        "guowei"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109574,
+          "lineEnd": 109638
+        },
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109732,
+          "lineEnd": 109764
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "five-dynasties",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-song-science-records",
+      "periodId": "song-liao-xia-jin",
+      "title": "宋代观测与知识记录",
+      "start": 1001,
+      "end": 1100,
+      "dateLabel": "11世纪的技术与著述过程",
+      "category": "思想与文化",
+      "summary": "宋代天文观测、数学和其他技术持续发展，沈括等通过记录、比较和推算整理经验。官府工程、士人著述与工匠实践共同提供知识来源。",
+      "importance": "知识生产同国家历法、工程和日常问题联系，而非只有少数孤立的“天才发明”。",
+      "outcome": "《梦溪笔谈》等留下观察与技术材料，为后世研究保存资源，也有时代解释的局限。",
+      "note": "本条是世纪窗口，不把每一条笔记定为同年事件，亦不沿用未经复核的世界排名。",
+      "personIds": [
+        "shenkuo",
+        "bisheng"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十七章 宋代的科学技术(1)",
+          "section": "第一节 数学",
+          "lineStart": 127450,
+          "lineEnd": 127518
+        },
+        {
+          "volume": 11,
+          "chapter": "第九章 社会经济",
+          "section": "第二节 农业、手工业和商业概况",
+          "lineStart": 143629,
+          "lineEnd": 143633
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-song-literature-history",
+      "periodId": "song-liao-xia-jin",
+      "title": "宋词与文史著述的新发展",
+      "start": 1050,
+      "end": 1200,
+      "dateLabel": "11世纪中叶—12世纪",
+      "category": "思想与文化",
+      "summary": "苏轼、李清照、辛弃疾等拓展词的表达，司马光等整理历史著述。士人仕途、印刷和城市文化，让作品在不同群体间传播。",
+      "importance": "它把个人情感、政治经验和知识整理连接起来，形成宋代文化多样发展的主要线索。",
+      "outcome": "词作与史书持续影响后世，作品流传、版本和评价也不断变化，不能全作当时生活实录。",
+      "note": "这是文化过程而非一次事件；文学人物的不同活动期均在条目内分别理解。",
+      "personIds": [
+        "sushi",
+        "liqingzhao",
+        "xinqiji",
+        "simaguang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第二节 文学、史学、绘画与石刻",
+          "lineStart": 127333,
+          "lineEnd": 127355
+        },
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第二节 文学、史学、绘画与石刻",
+          "lineStart": 127381,
+          "lineEnd": 127381
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-western-liao",
+      "periodId": "song-liao-xia-jin",
+      "title": "辽亡与西辽兴起",
+      "start": 1125,
+      "end": 1132,
+      "dateLabel": "1125年辽亡；1132年前后西辽成形",
+      "category": "建国与转折",
+      "summary": "金攻灭辽朝后，耶律大石所部继续西行，依靠草原部众和中亚政治关系建立新的统治，西辽成为中亚重要力量，辽的政治传统部分延续。",
+      "importance": "它说明辽在东部覆亡与契丹政治传统的消失并不等同，也把中国北方史与中亚史联系起来。",
+      "outcome": "西辽以不同于旧辽的方式统辖当地政权，持续影响区域关系，后来又受蒙古扩张冲击。",
+      "note": "西辽建立有不同起算口径，1132用本书称帝叙述；不把中亚直接画成旧辽同制行省。",
+      "personIds": [
+        "yelvdashi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第三章 辽朝衰亡与金朝建立",
+          "section": "第二节 生女真与金朝",
+          "lineStart": 131141,
+          "lineEnd": 131173
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "song-liao-xia-jin",
+      "status": "章节支持"
+    },
+    {
+      "id": "cn-northern-han-fall",
+      "periodId": "five-dynasties",
+      "title": "宋灭北汉与十国格局收束",
+      "start": 979,
+      "end": 979,
+      "dateLabel": "979年",
+      "category": "战争与外交",
+      "summary": "宋太宗继续征讨北汉，宋军击退辽的援兵并围攻太原，北汉末帝刘继元投降。五代十国遗留的主要割据政权至此相继结束。",
+      "importance": "它是宋初统一战争的重要收束点，也为理解宋随即对辽用兵提供背景。",
+      "outcome": "宋控制河东要地，但与辽的争夺没有结束，幽燕和西北格局仍然存在分立。",
+      "note": "十国格局收束不等于全国在979年完全统一，战争破坏和强制迁民也需保留。",
+      "personIds": [
+        "zhaoguangyi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第一节 统一战争",
+          "lineStart": 121195,
+          "lineEnd": 121229
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "placeId": null,
+      "lane": "china",
+      "themeId": "five-dynasties",
+      "status": "章节支持",
+      "relatedPeriodIds": [
+        "song-liao-xia-jin"
+      ]
+    }
+  ],
+  "places": [
+    {
+      "id": "place-xia",
+      "name": "二里头遗址一带",
+      "lon": 112.69,
+      "lat": 34.69,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-shang",
+      "name": "殷墟一带",
+      "lon": 114.32,
+      "lat": 36.12,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-zhou",
+      "name": "丰镐一带",
+      "lon": 108.76,
+      "lat": 34.22,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-eastern",
+      "name": "洛阳一带",
+      "lon": 112.45,
+      "lat": 34.62,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-qin",
+      "name": "秦咸阳一带",
+      "lon": 108.82,
+      "lat": 34.4,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-han",
+      "name": "汉长安一带",
+      "lon": 108.87,
+      "lat": 34.33,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-xin",
+      "name": "常安／汉长安一带",
+      "lon": 108.87,
+      "lat": 34.33,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-eastern-han",
+      "name": "汉魏洛阳一带",
+      "lon": 112.66,
+      "lat": 34.73,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-three-kingdoms",
+      "name": "建业／今南京一带",
+      "lon": 118.79,
+      "lat": 32.06,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-western-jin",
+      "name": "西晋洛阳一带",
+      "lon": 112.45,
+      "lat": 34.62,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-eastern-jin",
+      "name": "建康一带",
+      "lon": 118.79,
+      "lat": 32.06,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-north-south",
+      "name": "洛阳龙门一带",
+      "lon": 112.48,
+      "lat": 34.56,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-sui",
+      "name": "隋大兴城／今西安一带",
+      "lon": 108.94,
+      "lat": 34.25,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-tang",
+      "name": "唐长安一带",
+      "lon": 108.94,
+      "lat": 34.25,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-five-dynasties",
+      "name": "吴越杭州一带",
+      "lon": 120.15,
+      "lat": 30.25,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-song-liao-xia-jin",
+      "name": "北宋汴京／今开封一带",
+      "lon": 114.31,
+      "lat": 34.8,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-yuan",
+      "name": "元大都／今北京一带",
+      "lon": 116.39,
+      "lat": 39.94,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-ming",
+      "name": "明代北京宫城一带",
+      "lon": 116.39,
+      "lat": 39.92,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "place-qing",
+      "name": "清代北京宫城一带",
+      "lon": 116.39,
+      "lat": 39.92,
+      "precision": "历史地点区域近似点；不表示城址边界或政权疆域"
+    },
+    {
+      "id": "fenghao",
+      "name": "丰镐一带",
+      "lon": 108.76,
+      "lat": 34.22,
+      "precision": "聚落范围概括点"
+    },
+    {
+      "id": "luoyang",
+      "name": "洛阳一带",
+      "lon": 112.45,
+      "lat": 34.62,
+      "precision": "古城区域近似点"
+    },
+    {
+      "id": "xianyang",
+      "name": "秦咸阳一带",
+      "lon": 108.82,
+      "lat": 34.4,
+      "precision": "古都区域近似点"
+    }
+  ],
+  "people": [
+    {
+      "id": "yu",
+      "name": "禹",
+      "description": "禹在传世文献中以治水和夏代起源人物出现。各书把公共工程、声望和政治继承联系起来，但叙事形成较晚，不能逐项视为同期实录。",
+      "sourceIds": [
+        "cn-xia-chron"
+      ],
+      "periodIds": [
+        "xia"
+      ],
+      "eventIds": [
+        "cn-xia-memory"
+      ],
+      "scope": "china",
+      "role": "古史传说中的治水者",
+      "contribution": "治水与继位故事成为后世讨论公共事务、王权来源和政治责任的重要文化资源。",
+      "context": "理解夏的开端时，他首先是文献记忆中的关键人物。",
+      "note": "治水细节、活动年代及与遗址对应均不能据此确证。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）",
+          "section": "第二节 传说中的夏王朝",
+          "lineStart": 2590,
+          "lineEnd": 2648
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "qi",
+      "name": "启",
+      "description": "启是传世夏史中禹的继承者。关于他继位的过程，文献有归附、竞争等不同叙述，后世常用这段故事说明传贤与传子的变化。",
+      "sourceIds": [
+        "cn-xia-chron"
+      ],
+      "periodIds": [
+        "xia"
+      ],
+      "eventIds": [
+        "cn-xia-memory"
+      ],
+      "scope": "china",
+      "role": "古史传说中的夏君",
+      "contribution": "启的继位叙述集中体现古人对王位继承与家族统治形成的追问，是传统夏史的重要节点。",
+      "context": "其作用应放在古史传说和后世政治解释中理解。",
+      "note": "不把不同继位版本拼接成一场确定发生的完整政变。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）",
+          "section": "一、夏王朝的开国",
+          "lineStart": 2612,
+          "lineEnd": 2648
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "fuhao",
+      "name": "妇好",
+      "description": "妇好见于武丁时期军事卜辞，其墓葬又保存丰富器物。文字与遗存使她成为观察晚商王室女性、战争活动和礼仪工艺的重要人物。",
+      "sourceIds": [
+        "yin"
+      ],
+      "periodIds": [
+        "shang"
+      ],
+      "eventIds": [
+        "cn-fuhao",
+        "v5-shang-wuding"
+      ],
+      "scope": "china",
+      "role": "晚商王室女性",
+      "contribution": "参与王室军事活动的记录，与墓葬器物共同提供晚商身份和工艺研究的多类线索。",
+      "context": "她的角色连接王室关系、军事事务与礼仪生活。",
+      "note": "墓葬与卜辞都不是完整传记，不虚构私人对白或心理。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第八章 商代后期的经济发展",
+          "section": "一、精致的青铜器",
+          "lineStart": 7448,
+          "lineEnd": 7448
+        },
+        {
+          "volume": 2,
+          "chapter": "第四章 殷商方国",
+          "section": "",
+          "lineStart": 19299,
+          "lineEnd": 19311
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "wuwang",
+      "name": "周武王",
+      "description": "武王是率军克商、建立周王朝的关键人物。战后祭告、安置商人和安排诸侯的记载，说明其开国活动既涉及战争，也涉及政治组织。",
+      "sourceIds": [
+        "cn-zhou-chron"
+      ],
+      "periodIds": [
+        "zhou"
+      ],
+      "eventIds": [
+        "westernzhou",
+        "cn-zhou-founding"
+      ],
+      "scope": "china",
+      "role": "周王朝建立者",
+      "contribution": "通过克商和战后建国措施改变中原政治格局，开启周初统治网络的建设。",
+      "context": "其事业由周公、成王等继续推进，整合并非一次完成。",
+      "note": "周初确年与部分战役细节有争议，不重复神化战胜过程。",
+      "bookRefs": [
+        {
+          "volume": 3,
+          "chapter": "第四章 周朝的创建和东征的胜利",
+          "section": "",
+          "lineStart": 46637,
+          "lineEnd": 46671
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "pingwang",
+      "name": "周平王",
+      "description": "平王的继立与王室东迁处在西周终结后的复杂政治局面中。洛邑后来成为王室中心，前770年通常被用作东周历史的起点。",
+      "sourceIds": [
+        "cn-zhou-chron"
+      ],
+      "periodIds": [
+        "zhou",
+        "eastern"
+      ],
+      "eventIds": [
+        "cn-zhou-eastmove",
+        "cn-zhou-move"
+      ],
+      "scope": "china",
+      "role": "两周之际君主",
+      "contribution": "东迁与王室延续使周的名义政治秩序保存下来，同时诸侯在实际事务中的力量日益突出。",
+      "context": "应把他放在王位继承、各方军事介入与政治重组中观察。",
+      "note": "两周之际材料有差异，东迁并不意味着各地同日改变制度。",
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第五节 幽王昏乱、灭亡与平王东迁",
+          "lineStart": 16889,
+          "lineEnd": 16949
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "shangyang",
+      "name": "商鞅",
+      "description": "商鞅又称卫鞅，在秦孝公支持下推行耕织、军功、户籍及地方行政等改革。其政策改变秦的组织方式，也给家庭生活带来约束与负担。",
+      "sourceIds": [
+        "measure"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "eventIds": [
+        "measure",
+        "v5-eastern-shang-reform"
+      ],
+      "scope": "china",
+      "role": "战国秦国改革者",
+      "contribution": "以一系列相互关联的制度措施加强秦国资源动员，方升铭文留下计量标准的实物证据。",
+      "context": "变法发生在列国竞争与秦国谋求富强的环境中。",
+      "note": "各项措施并非同年完成，不将改革后果简单概括为全民受益。",
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第五章 战国前期各诸侯国的变法改革",
+          "section": "六 秦国卫鞅的变法",
+          "lineStart": 67895,
+          "lineEnd": 67965
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "qinshi",
+      "name": "秦始皇",
+      "description": "秦王嬴政完成六国兼并后称皇帝，推进郡县、共同标准与边疆工程。其统治成就与征发、思想控制及政治压力应同时观察，避免单面评价。",
+      "sourceIds": [
+        "measure",
+        "qin-tomb"
+      ],
+      "periodIds": [
+        "qin"
+      ],
+      "eventIds": [
+        "unify",
+        "cn-qin-mausoleum",
+        "v5-qin-standards",
+        "v5-qin-north",
+        "v5-qin-books"
+      ],
+      "scope": "china",
+      "role": "秦帝国建立者",
+      "contribution": "推动统一及帝国治理制度的建立，计量诏文与出土材料留下可与文献对照的实物线索。",
+      "context": "统一之后仍面对各地整合、边疆军事和权力继承等问题。",
+      "note": "不因后世帝王形象而虚构疾病、性格成因或个人心理。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "二 地方政权机构及官制",
+          "lineStart": 74398,
+          "lineEnd": 74443
+        },
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "一 经济政策",
+          "lineStart": 74813,
+          "lineEnd": 74909
+        },
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "一 暴虐和愚蠢的“焚书坑儒”",
+          "lineStart": 74961,
+          "lineEnd": 74983
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "wudi",
+      "name": "汉武帝",
+      "description": "武帝时期中央集权、经学教育、财政政策与对外战争同步展开。其活动扩大国家的资源和战略能力，也带来财政与社会负担的深刻变化。",
+      "sourceIds": [
+        "han"
+      ],
+      "periodIds": [
+        "han"
+      ],
+      "eventIds": [
+        "hanculture",
+        "v5-han-confucian",
+        "v5-han-tui-en",
+        "v5-han-xiongnu",
+        "v5-han-zhangqian",
+        "v5-han-saltmonopoly"
+      ],
+      "scope": "china",
+      "role": "西汉皇帝",
+      "contribution": "推进推恩、太学及财政措施，组织对匈奴战争并扩大西域交往，深刻改变西汉政治格局。",
+      "context": "国家扩张与民众负担之间的张力，是理解其时期的核心。",
+      "note": "不以雄才或暴政一词概括全部活动，政策目标与后果须分开。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第七章 汉武帝统治时期中央集权的加强",
+          "section": "二 提倡儒学",
+          "lineStart": 76150,
+          "lineEnd": 76191
+        },
+        {
+          "volume": 6,
+          "chapter": "第七章 汉武帝统治时期中央集权的加强",
+          "section": "二 打击豪强和抑制诸侯王势力膨胀的措施",
+          "lineStart": 76533,
+          "lineEnd": 76555
+        },
+        {
+          "volume": 6,
+          "chapter": "第七章 汉武帝统治时期中央集权的加强",
+          "section": "三 盐铁官营和均输平准政策",
+          "lineStart": 76654,
+          "lineEnd": 76691
+        },
+        {
+          "volume": 6,
+          "chapter": "第八章 武帝时期的民族关系",
+          "section": "二 拉开全面反击匈奴的序幕（前133年至前127年）",
+          "lineStart": 76748,
+          "lineEnd": 76835
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "simaqian",
+      "name": "司马迁",
+      "description": "司马迁以《史记》把人物、制度及社会历史组织为纪传体通史，继承并选择多种材料。其写法既追求历史解释，也带有作者的立场与时代限制。",
+      "sourceIds": [
+        "han"
+      ],
+      "periodIds": [
+        "han"
+      ],
+      "eventIds": [
+        "hanculture"
+      ],
+      "scope": "china",
+      "role": "《史记》编纂者",
+      "contribution": "以本纪、表、书、世家、列传共同组织历史，对史料处理、人物叙事和后世史书体例影响深远。",
+      "context": "他处于汉代文献积累和帝国政治扩展的文化环境中。",
+      "note": "不把《史记》所有故事都视为同期实录，仍须与出土材料对读。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第一章 绪论",
+          "section": "一 文献资料",
+          "lineStart": 73643,
+          "lineEnd": 73643
+        },
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "一 经学和史学",
+          "lineStart": 82603,
+          "lineEnd": 82607
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "liubang",
+      "name": "刘邦",
+      "description": "刘邦由秦末起兵进入关中，后与项羽等力量争夺统治并建立西汉。其政治活动涵盖战争结盟、封国安排与战后恢复，不能只用个人传奇说明。",
+      "sourceIds": [
+        "cn-han-chron",
+        "han"
+      ],
+      "periodIds": [
+        "han",
+        "qin"
+      ],
+      "eventIds": [
+        "cn-han-founder",
+        "qinend"
+      ],
+      "scope": "china",
+      "role": "汉朝建立者",
+      "contribution": "建立西汉并推进战后政治重建，沿用和调整秦制，使长期战争后重新整合的秩序逐步形成。",
+      "context": "初建政权需要处理功臣诸侯、生产恢复和中央权力之间的关系。",
+      "note": "前206受封与前202称帝有别，不将起年口径混同。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "一 农民起义军重振军威",
+          "lineStart": 75278,
+          "lineEnd": 75282
+        },
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "四 项羽的败亡",
+          "lineStart": 75620,
+          "lineEnd": 75669
+        },
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75874,
+          "lineEnd": 75880
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "wangmang",
+      "name": "王莽",
+      "description": "王莽由西汉末外戚政治中崛起，建新后推动土地、奴婢和币制等改制。政策目标、实际执行与社会后果存在距离，个人评价历来分歧很大。",
+      "sourceIds": [
+        "cn-xin-coins",
+        "cn-han-chron"
+      ],
+      "periodIds": [
+        "xin",
+        "han"
+      ],
+      "eventIds": [
+        "cn-xin-start",
+        "cn-xin-currency",
+        "v5-han-latecrisis",
+        "v5-xin-uprising"
+      ],
+      "scope": "china",
+      "role": "新朝建立者与改制者",
+      "contribution": "以托古方式尝试重组制度，并留下多种钱币实物；其治理得失连接西汉危机与两汉之际重组。",
+      "context": "社会期待、权力集中及基层执行的困难在其时期交织。",
+      "note": "不照搬伪君子或穿越者标签，也不以心理推断替代制度分析。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十二章 “新”朝的出现和王莽改制",
+          "section": "二 向帝位逼进的历程",
+          "lineStart": 78760,
+          "lineEnd": 78803
+        },
+        {
+          "volume": 6,
+          "chapter": "第十二章 “新”朝的出现和王莽改制",
+          "section": "二 “王田”和“私属”",
+          "lineStart": 78919,
+          "lineEnd": 78945
+        },
+        {
+          "volume": 6,
+          "chapter": "第十二章 “新”朝的出现和王莽改制",
+          "section": "四 混乱的币制改革",
+          "lineStart": 79013,
+          "lineEnd": 79133
+        },
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "三 “新”莽王朝的覆亡",
+          "lineStart": 79736,
+          "lineEnd": 79756
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "liuxiu",
+      "name": "刘秀",
+      "description": "刘秀即汉光武帝，在新莽末年战争后逐步建立东汉，以洛阳为中心恢复统治，并尝试整顿赋役与户口土地。",
+      "sourceIds": [
+        "cn-han-chron"
+      ],
+      "periodIds": [
+        "eastern-han",
+        "xin"
+      ],
+      "eventIds": [
+        "cn-easthan-restore",
+        "v5-xin-kunyang",
+        "cn-easthan-land-survey",
+        "v5-xin-uprising"
+      ],
+      "scope": "china",
+      "role": "东汉开国皇帝",
+      "contribution": "重建汉政权，逐步消除割据；简政、恢复生产与度田等措施呈现建国后的治理任务。",
+      "context": "既要收束长期战争，也必须处理功臣、豪强和地方官僚的关系。",
+      "note": "开国与恢复政策不能掩盖度田受阻等限制，不以单一明君标签代替具体制度。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "一 决定性的胜利——昆阳大捷",
+          "lineStart": 79668,
+          "lineEnd": 79694
+        },
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "三 “新”莽王朝的覆亡",
+          "lineStart": 79736,
+          "lineEnd": 79744
+        },
+        {
+          "volume": 6,
+          "chapter": "第十四章 东汉王朝的出现",
+          "section": "第一节 在血和火中建立起的王朝",
+          "lineStart": 79772,
+          "lineEnd": 79910
+        },
+        {
+          "volume": 6,
+          "chapter": "第十四章 东汉王朝的出现",
+          "section": "第一节 在血和火中建立起的王朝",
+          "lineStart": 79772,
+          "lineEnd": 80067
+        },
+        {
+          "volume": 6,
+          "chapter": "第十四章 东汉王朝的出现",
+          "section": "第二节 专制主义的强化",
+          "lineStart": 80068,
+          "lineEnd": 80199
+        },
+        {
+          "volume": 6,
+          "chapter": "第十四章 东汉王朝的出现",
+          "section": "第三节 恢复生产、安定社会秩序的措施",
+          "lineStart": 80200,
+          "lineEnd": 80299
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "anshigao",
+      "name": "安世高",
+      "description": "安世高在2世纪中叶于洛阳译介佛典，连接不同语言与思想传统，是早期佛教进入汉语知识世界的重要人物。",
+      "sourceIds": [
+        "cn-1-500"
+      ],
+      "periodIds": [
+        "eastern-han"
+      ],
+      "eventIds": [
+        "cn-anshigao"
+      ],
+      "scope": "china",
+      "role": "安息来华译经者",
+      "contribution": "译介禅修等经典，参与汉语佛教术语与文本的形成，使域外知识获得新的表达。",
+      "context": "佛教翻译与既有养生、思想语言发生接触，需要译者持续理解和转述。",
+      "note": "其王子身份为传说性履历，译经数量与来华年份不作没有余地的精确断言。",
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第二节 哲学思想和宗教迷信",
+          "lineStart": 82575,
+          "lineEnd": 82582
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "caopi",
+      "name": "曹丕",
+      "description": "曹丕继承曹操的魏王和丞相地位，220年代汉称帝建立魏；其政治角色与文学活动共同属于汉魏转折的一部分。",
+      "sourceIds": [
+        "cn-three-chron"
+      ],
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "eventIds": [
+        "cn-wei-founded",
+        "cn-three-coexist"
+      ],
+      "scope": "china",
+      "role": "曹魏开国皇帝、作家",
+      "contribution": "完成曹魏皇朝建国，将已有军事政治集团转为新王朝的中枢组织，并继续与吴蜀竞争。",
+      "context": "已有北方统治基础需要转化为皇朝制度，南方则仍有强大对手。",
+      "note": "代汉的禅让形式不等于完全无权力压力，也不能把曹魏政权视为曹操生前已建成的皇朝。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83604,
+          "lineEnd": 83616
+        },
+        {
+          "volume": 7,
+          "chapter": "第十一章 魏晋南北朝的经学、史学与文学艺术",
+          "section": "第二节 文学",
+          "lineStart": 94306,
+          "lineEnd": 94306
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "simayan",
+      "name": "司马炎",
+      "description": "司马炎即晋武帝，在司马氏控制曹魏的基础上建晋，后灭吴实现短暂统一；其治理还涉及田制、官品与宗室安排。",
+      "sourceIds": [
+        "cn-jin-chron"
+      ],
+      "periodIds": [
+        "western-jin"
+      ],
+      "eventIds": [
+        "cn-jin-founded",
+        "cn-jin-conquer-wu",
+        "cn-jin-land-system"
+      ],
+      "scope": "china",
+      "role": "西晋开国皇帝",
+      "contribution": "建立晋朝，组织对吴战争，并在统一后推行田制和户调等国家治理安排。",
+      "context": "军事统一并不自动解决地方大族、宗室权力和国家财政之间的矛盾。",
+      "note": "不将其时代仅概括为太康盛世；265、266两种年份须视为同一建朝节点。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第三章 西晋的暂时统一及其崩溃",
+          "section": "第二节 西晋的黑暗统治与“八王之乱”",
+          "lineStart": 85140,
+          "lineEnd": 85192
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "wangxizhi",
+      "name": "王羲之",
+      "description": "王羲之的书法与东晋士人交游共同构成其文化影响，兰亭传统尤为著名；理解作品还需区分文本、原迹与后世传本。",
+      "sourceIds": [
+        "cn-1-500",
+        "v5-dpm-lanting"
+      ],
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "eventIds": [
+        "cn-lanting"
+      ],
+      "scope": "china",
+      "role": "书法家、官员",
+      "contribution": "发展书法实践并留下广泛传播的作品传统，353年兰亭雅集成为后世书法欣赏的重要主题。",
+      "context": "江南士人交游、礼俗和艺术实践相互交织，后世收藏摹刻又扩大影响。",
+      "note": "原迹未传，生卒与部分作品归属有讨论；不采用原书关于兰亭写作年龄的说法。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第十一章 魏晋南北朝的经学、史学与文学艺术",
+          "section": "第三节 艺术",
+          "lineStart": 95304,
+          "lineEnd": 95320
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "sima-rui",
+      "name": "司马睿",
+      "description": "司马睿在江南联络北来与本地大族建立晋室政权，先称晋王再称帝；其政治地位依赖新的联盟和地方资源。",
+      "sourceIds": [
+        "cn-jin-chron"
+      ],
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "eventIds": [
+        "cn-easternjin-start",
+        "cn-jin-end"
+      ],
+      "scope": "china",
+      "role": "东晋开国皇帝",
+      "contribution": "组织东晋政权，使晋室在江南延续，并通过王导等人协调不同大族的支持。",
+      "context": "南渡的政治名义必须与江南地方实力结合，皇权并非独自掌握全部军政。",
+      "note": "317年称王与318年称帝需分开；不把大族支持写成社会各群体一致拥戴。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第五章 东晋王朝的建立及其政治",
+          "section": "第一节 北方世家大族的南渡与东晋王朝的建立",
+          "lineStart": 86650,
+          "lineEnd": 86652
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "xiean",
+      "name": "谢安",
+      "description": "谢安在东晋军政事务中承担重要组织作用，与谢玄等将领协作应对前秦南进；其士人文化形象应与具体政治职责并看。",
+      "sourceIds": [
+        "cn-jin-chron"
+      ],
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "eventIds": [
+        "cn-feishui",
+        "cn-lanting"
+      ],
+      "scope": "china",
+      "role": "东晋重臣",
+      "contribution": "参与淝水之战前后的决策与组织，支持北府军系统作战，帮助东晋守住江南局面。",
+      "context": "前秦南进形成巨大压力，朝廷内部协调与前线军事部署同样重要。",
+      "note": "不把围棋不动声色等轶闻当作战争机制，也不抹去谢玄、刘牢之等前线人员。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第四章 十六国",
+          "section": "第三节 淝水之战与苻坚的败亡",
+          "lineStart": 86131,
+          "lineEnd": 86221
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "fujian",
+      "name": "苻坚",
+      "description": "苻坚统治的前秦一度控制北方大部，并在383年南进东晋；其成败需要结合兼并后的整合能力与军事条件。",
+      "sourceIds": [
+        "cn-jin-chron"
+      ],
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "eventIds": [
+        "cn-feishui",
+        "cn-fujian-unification"
+      ],
+      "scope": "china",
+      "role": "前秦君主",
+      "contribution": "推动前秦扩张和北方整合，随后组织大规模南征，在淝水失利后面对政权分裂。",
+      "context": "短期兼并聚合多种武装与地方势力，扩大版图并不等于完成稳定治理。",
+      "note": "不以民族性格或刚愎自用概括所有问题，也不把前秦等同于秦始皇的秦朝。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第四章 十六国",
+          "section": "第二节 前燕与前秦的对立及苻坚的统一北方",
+          "lineStart": 85920,
+          "lineEnd": 85940
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "xiaowen",
+      "name": "北魏孝文帝",
+      "description": "孝文帝拓跋宏、后改元宏，推动均田、三长和迁都等改革；制度与文化调整相互牵连，并非只有改姓换衣的一面。",
+      "sourceIds": [
+        "cn-ns",
+        "cn-1-500"
+      ],
+      "periodIds": [
+        "north-south"
+      ],
+      "eventIds": [
+        "cn-luoyang-494",
+        "cn-northwei-equalland"
+      ],
+      "scope": "china",
+      "role": "北魏皇帝",
+      "contribution": "推动田籍及地方组织整顿，494年迁都洛阳，并改革朝廷语言、衣冠与官制。",
+      "context": "北方农业、财政、军镇与统治集团的关系不断变化，改革需处理不同利益。",
+      "note": "不把多族群交流写成单向文化高低替代，也不把改革后所有问题都归于迁都。",
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第二节 北魏孝文帝的均田、迁都与改革",
+          "lineStart": 89442,
+          "lineEnd": 89562
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "yangjian",
+      "name": "隋文帝",
+      "description": "隋文帝杨坚由北周中枢掌权而建隋，589年灭陈；其统治还涉及都城、户籍、赋税与选官制度的重整。",
+      "sourceIds": [
+        "cn-500-1000"
+      ],
+      "periodIds": [
+        "sui",
+        "north-south"
+      ],
+      "eventIds": [
+        "cn-sui-unify",
+        "cn-sui-daxing",
+        "cn-sui-household-check",
+        "cn-sui-selection",
+        "cn-ns-sui",
+        "cn-sui-canal"
+      ],
+      "scope": "china",
+      "role": "隋开国皇帝",
+      "contribution": "建立隋朝并统一南北，营建大兴、整顿人口与赋役，为国家集中治理扩大基础。",
+      "context": "南北分立后的制度、地域与社会差异需要在接收和治理中逐步协调。",
+      "note": "统一与改革不能等同于没有强制征发；581年建朝与589年灭陈应分开理解。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第一节 隋前期的政治与经济",
+          "lineStart": 96455,
+          "lineEnd": 96605
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "dufu",
+      "name": "杜甫",
+      "description": "杜甫经历长安仕途、安史战争与辗转流离，在诗中写政治、劳作和家庭处境；文学创作与个人遭际共同塑造其观察。",
+      "sourceIds": [
+        "cn-tang"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "eventIds": [
+        "cn-an-shi",
+        "cn-tang-poetry-li-du"
+      ],
+      "scope": "china",
+      "role": "唐代诗人",
+      "contribution": "通过多种诗体表现战争、赋役与日常关系，为后人理解唐代社会留下重要文化材料。",
+      "context": "战乱、贫困与仕宦限制交织，个人经历使其作品形成多层次的时代感受。",
+      "note": "诗史是文学评价，不表示每一句诗都能直接当作未经核实的社会统计或实录。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第十章 隋唐五代的文学艺术与科学技术",
+          "section": "第一节 隋唐五代的诗歌与民间文学",
+          "lineStart": 114058,
+          "lineEnd": 114122
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "tang-taizong",
+      "name": "唐太宗",
+      "description": "唐太宗李世民参与开国战争，经玄武门之变继位；贞观时期整顿治理与用人，同时也不断开展对外军事活动。",
+      "sourceIds": [
+        "cn-tang"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "eventIds": [
+        "cn-tang-start",
+        "cn-xuanwumen",
+        "cn-zhenguan",
+        "cn-wencheng"
+      ],
+      "scope": "china",
+      "role": "唐代皇帝",
+      "contribution": "推进唐初治理和人才任用，重视纳谏及隋亡教训，使社会恢复与皇朝制度继续发展。",
+      "context": "从夺位进入守成，需要处理皇室、中枢官僚、军队与财政的相互关系。",
+      "note": "纳谏有其限度，政治成就不能抹去夺位暴力，也不以盛世标签覆盖地区差异。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第一节 唐王朝的创建",
+          "lineStart": 97718,
+          "lineEnd": 97778
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "liyuan",
+      "name": "李渊",
+      "description": "李渊在隋末战争中依托太原起兵并进入长安，618年建立唐朝；其建国还需要继续处理割据力量和皇室继承关系。",
+      "sourceIds": [
+        "cn-500-1000"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "eventIds": [
+        "cn-tang-start",
+        "cn-xuanwumen"
+      ],
+      "scope": "china",
+      "role": "唐开国皇帝",
+      "contribution": "组织唐初军政集团建立新王朝，并逐步接收隋的制度、地区和政治资源。",
+      "context": "旧朝瓦解后地方武装并立，建国与全国秩序恢复之间仍有长期战争。",
+      "note": "不将其形象简化为完全被李世民替代的陪衬，也不把建国等于全国已统一。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第一节 唐王朝的创建",
+          "lineStart": 97652,
+          "lineEnd": 97724
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "xuanzong",
+      "name": "唐玄宗",
+      "description": "唐玄宗统治前期形成开元政治与经济繁荣，后期中枢用人、边镇和财政矛盾扩大，安史之乱使其统治陷入重大危机。",
+      "sourceIds": [
+        "cn-tang",
+        "cn-500-1000"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "eventIds": [
+        "cn-an-shi",
+        "cn-kaiyuan"
+      ],
+      "scope": "china",
+      "role": "唐代皇帝",
+      "contribution": "前期整顿政治并任用姚崇、宋璟等人，后期政策与军政安排也深刻影响唐代转折。",
+      "context": "长期积累的国力与不断变化的边镇军事实力相伴，皇帝决策受到多重条件牵动。",
+      "note": "开元与天宝不可混为同一政策阶段，也不把战争唯一原因归结为杨贵妃。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第三节 开元天宝的全盛时期与安史之乱",
+          "lineStart": 97996,
+          "lineEnd": 98238
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "qianhongchu",
+      "name": "钱弘俶",
+      "description": "钱弘俶亦称钱俶，在宋统一南方的进程中维持臣属关系，并曾助宋攻南唐；978年献地，结束吴越地方政权。",
+      "sourceIds": [
+        "cn-five-art"
+      ],
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "eventIds": [
+        "cn-wuyue-pagoda",
+        "cn-wuyue-return"
+      ],
+      "scope": "china",
+      "role": "吴越末代国王",
+      "contribution": "参与对宋交涉，最终交出吴越辖地，使两浙转入宋制；其佛教活动另有实物资料。",
+      "context": "处在地方政权经营与宋朝统一压力逐步上升的交界。",
+      "note": "献地过程含现实政治压力；造塔年代沿用原有文物来源。",
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第一节 统一战争",
+          "lineStart": 121241,
+          "lineEnd": 121253
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "qianliu",
+      "name": "钱镠",
+      "description": "钱镠经营两浙，以杭州为政治中心，修筑海塘并参与区域水利建设。其政权在中原频繁更替时延续地方经营。",
+      "sourceIds": [
+        "cn-five-art"
+      ],
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "eventIds": [
+        "cn-wuyue-water"
+      ],
+      "scope": "china",
+      "role": "吴越政权奠基者",
+      "contribution": "通过城防、水利和对中原政权的关系维持吴越，为杭州地区发展提供条件。",
+      "context": "在多国竞争中经营区域统治，安全与贡赋压力同时存在。",
+      "note": "地方建设并不代表没有战争与赋役；射潮只按传说理解。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第三节 五代十国的社会经济",
+          "lineStart": 111042,
+          "lineEnd": 111062
+        },
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第一节 统一战争",
+          "lineStart": 121241,
+          "lineEnd": 121253
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "zhuwen",
+      "name": "朱温",
+      "description": "朱温由唐末军人发展为宣武节度使，控制唐廷后于907年称帝。他的经历连接黄巢战争、藩镇兼并与后梁建立。",
+      "sourceIds": [
+        "cn-five-chron"
+      ],
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "eventIds": [
+        "cn-five-start"
+      ],
+      "scope": "china",
+      "role": "后梁建立者",
+      "contribution": "凭借汴州军事和财政基础兼并周边，建立后梁，改变唐末中原的权力配置。",
+      "context": "处于唐末秩序解体与军事实力决定政权归属的环境。",
+      "note": "不以个人性格解释唐亡，亦不美化其战争和政治暴力。",
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109256,
+          "lineEnd": 109262
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "yelv-abaoji",
+      "name": "耶律阿保机",
+      "description": "阿保机在契丹部族竞争中掌握权力，916年建立王朝，吸收汉人与渤海等地的人口和制度经验，奠定辽朝发展基础。",
+      "sourceIds": [
+        "cn-liao"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "eventIds": [
+        "cn-liao-founded"
+      ],
+      "scope": "china",
+      "role": "契丹国建立者",
+      "contribution": "强化统治机构、经营城邑与农业地区，把契丹政权从联盟推向持续的王朝组织。",
+      "context": "面对部族贵族力量与多种生产生活方式并存的局面。",
+      "note": "907掌权、916称帝建国及后来的国号变化须区分。",
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第一章 辽朝的建立",
+          "section": "第一节 阿保机夺取汗位及称帝",
+          "lineStart": 129783,
+          "lineEnd": 129819
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "zhuxi",
+      "name": "朱熹",
+      "description": "朱熹整理四书与经典注释，讲学并参与学术辩论，在南宋政治中也经历排斥。其学说对后代教育、科举与思想影响深远。",
+      "sourceIds": [
+        "cn-1000-1400"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "eventIds": [
+        "cn-song-south",
+        "cn-zhu-xi-learning"
+      ],
+      "scope": "china",
+      "role": "南宋思想家、教育家",
+      "contribution": "综合程氏等学术资源，发展经学解释与讲学实践，使理学形成更系统的表达。",
+      "context": "南宋多学派竞争，学术传播与政治支持既相联系又有冲突。",
+      "note": "后世官方化不等于朱熹在世时始终独尊，也不代表学术全无异说。",
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第一节 宋学三大学派及事功学派",
+          "lineStart": 127279,
+          "lineEnd": 127329
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "khubilai",
+      "name": "忽必烈",
+      "description": "忽必烈在蒙古内部争夺中取得汗位，经营汉地并于1271年定国号大元，随后灭南宋、建大都，构建多种传统并存的王朝。",
+      "sourceIds": [
+        "cn-1000-1400"
+      ],
+      "periodIds": [
+        "yuan"
+      ],
+      "eventIds": [
+        "cn-yuan-name",
+        "cn-yuan-dadu",
+        "cn-yuan-provinces",
+        "cn-song-fall",
+        "cn-yuan-calendar"
+      ],
+      "scope": "china",
+      "role": "元世祖、蒙古大汗",
+      "contribution": "推动中央与地方制度、都城和财政建设，并组织南宋征服与广域国家运行。",
+      "context": "既面向中原王朝治理，也面对蒙古宗王和诸汗国关系。",
+      "note": "1271建号不等于蒙古始建国，制度组织与征服破坏需同时呈现。",
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第五章 元朝的建立",
+          "section": "第二节 封建专制王权的建立",
+          "lineStart": 141233,
+          "lineEnd": 141257
+        },
+        {
+          "volume": 11,
+          "chapter": "第五章 元朝的建立",
+          "section": "第三节 大都的营建",
+          "lineStart": 141315,
+          "lineEnd": 141343
+        },
+        {
+          "volume": 11,
+          "chapter": "第七章 统治制度（上）",
+          "section": "第三节 官 制",
+          "lineStart": 142183,
+          "lineEnd": 142211
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "zhaomengfu",
+      "name": "赵孟頫",
+      "description": "赵孟頫在宋元更替后的文化环境中从事书画，提倡古意和书画用笔相通，作品与题跋体现复古资源和个人探索的结合。",
+      "sourceIds": [
+        "cn-yuan"
+      ],
+      "periodIds": [
+        "yuan"
+      ],
+      "eventIds": [
+        "cn-yuan-art"
+      ],
+      "scope": "china",
+      "role": "元代书画家",
+      "contribution": "以书法笔意入画，兼及多种题材，推动元代绘画观念变化，并影响明清艺术。",
+      "context": "具有宋宗室后裔和元朝任职等多重政治文化身份。",
+      "note": "不能用“复古”概括全部创新，也不以仕元一事代替作品分析。",
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十三章 文 化",
+          "section": "第四节 文学艺术",
+          "lineStart": 146459,
+          "lineEnd": 146495
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "zhenghe",
+      "name": "郑和",
+      "description": "郑和奉明廷命令多次率船队赴印度洋诸地，组织航海、外交和物资交流，也参与武力行动，是明代对外关系的重要人物。",
+      "sourceIds": [
+        "cn-1400-1600",
+        "fuzhou-zhenghe-last-voyage",
+        "neac-zhenghe-voyages"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "eventIds": [
+        "cn-zhenghe"
+      ],
+      "scope": "china",
+      "role": "明代远航组织者",
+      "contribution": "把国家资源、航海经验和外交使节组织成远航行动，促进港口、物资与知识联系。",
+      "context": "航行目的与明廷秩序、沿海管理和海外政治相联系。",
+      "note": "“发现”当地文明等说法不成立；宝船尺寸与人数不沿用未核统计。",
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第六章 明初的中外关系和郑和远航亚非各国",
+          "section": "",
+          "lineStart": 150965,
+          "lineEnd": 151018
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "wenzhengming",
+      "name": "文徵明",
+      "description": "文徵明活跃于苏州文人网络，兼擅诗文书画，融会宋元绘画资源。其作品与园林、交游和题跋共同呈现江南文化生活。",
+      "sourceIds": [
+        "cn-ming"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "eventIds": [],
+      "scope": "china",
+      "role": "明代书画家",
+      "contribution": "发展精细与多样的山水、书法表达，通过交游和传承影响吴门及后世艺术。",
+      "context": "苏州文人、收藏与地方经济为其创作和传播提供环境。",
+      "note": "书中写作文征明，网站统一文徵明；园林题材不是社会全景。",
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十四章 明代的文学艺术",
+          "section": "第四节 绘画与雕塑",
+          "lineStart": 167647,
+          "lineEnd": 167655
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "zhuyuanzhang",
+      "name": "朱元璋",
+      "description": "朱元璋从元末起义中发展势力，1368年建立明朝，随后推行严密的官僚、军事与赋役制度，重建秩序也实行大规模政治清洗。",
+      "sourceIds": [
+        "cn-1000-1400"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "eventIds": [
+        "cn-ming-found",
+        "cn-ming-centralization",
+        "cn-yuan-retreat"
+      ],
+      "scope": "china",
+      "role": "明太祖",
+      "contribution": "统一主要地区，建立明代中央地方制度，并以户籍、屯田和法律强化国家管理。",
+      "context": "面对战乱后的生产恢复、地方控制和新朝权力分配。",
+      "note": "恢复生产与政治暴力同时呈现，不能只写“布衣传奇”。",
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第一章 元末农民大起义和明朝的建立",
+          "section": "第三节 朱元璋参加红巾军和建立明朝",
+          "lineStart": 148872,
+          "lineEnd": 148880
+        },
+        {
+          "volume": 12,
+          "chapter": "第二章 明初全国统一的完成明太祖的治国政策",
+          "section": "第二节 加强君主专制统治的政治制度",
+          "lineStart": 149065,
+          "lineEnd": 149109
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "huangtaiji",
+      "name": "皇太极",
+      "description": "皇太极继承后金政权，调整满蒙汉关系与机构，1636年改国号大清，经营蒙古和朝鲜关系，并持续向明朝施加军事压力。",
+      "sourceIds": [
+        "cn-qing-name"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "eventIds": [
+        "cn-qing-name-1636",
+        "cn-ming-liaodong-war"
+      ],
+      "scope": "china",
+      "role": "清太宗",
+      "contribution": "扩大统治联盟，推进官制和军队建设，使后金逐步转为准备经营广域国家的清朝。",
+      "context": "需要平衡诸王贵族、军队和新纳人口的利益与组织方式。",
+      "note": "1636建号与1644入关分开，后者发生于其去世之后。",
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第三章 皇太极时期后金（清）政权的发展与强大",
+          "section": "第三节 松锦的军事相持与几次深入腹地的斗争",
+          "lineStart": 173041,
+          "lineEnd": 173047
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "puyi",
+      "name": "溥仪",
+      "description": "溥仪幼年即位，在清末改革与革命浪潮中并无独立执政能力，1912年以皇帝名义退位，成为清朝中央君主政体终结的象征。",
+      "sourceIds": [
+        "cn-qing-chron"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "eventIds": [
+        "cn-qing-end"
+      ],
+      "scope": "china",
+      "role": "清朝末代皇帝",
+      "contribution": "其退位诏令构成清朝政权交接的法律政治文件，实际决策主要由太后、大臣及谈判各方推动。",
+      "context": "幼主地位与宗室、北洋军力和革命势力的角逐相交织。",
+      "note": "退位时没有独立执政能力，不把清亡归责于幼童；本条以1912年为叙述终点。",
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第十章 宣统朝之穷途末路",
+          "section": "第四节 辛亥革命高潮与清王朝灭亡",
+          "lineStart": 186693,
+          "lineEnd": 186825
+        }
+      ],
+      "coreEntry": true
+    },
+    {
+      "id": "v5-shaokang",
+      "name": "少康",
+      "periodIds": [
+        "xia"
+      ],
+      "role": "古史传说中的复国者",
+      "description": "少康在《左传》等保存的故事中经历流亡、积聚力量和恢复夏的统治。其形象连接夏代中段兴衰，但叙述带有明显传说层次。",
+      "contribution": "传统称其重建旧有势力为少康中兴，形成中国古史中常见的失国与复国叙事。",
+      "context": "他提供观察传统夏史中段的入口，而非确定年表坐标。",
+      "note": "少康事迹缺乏可逐年核对的同时代文字材料。",
+      "eventIds": [
+        "v5-xia-shaokang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）",
+          "section": "二、夏王朝的历史传说及夏代的社会性质",
+          "lineStart": 2678,
+          "lineEnd": 2688
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-tang",
+      "name": "商汤",
+      "periodIds": [
+        "shang"
+      ],
+      "role": "商王朝开端人物",
+      "description": "商汤在传世文献中是灭夏建商的关键人物，甲骨祭祀先王名号又为商先王研究提供另一类证据。其战争过程仍主要依靠后世记述。",
+      "contribution": "联合力量征伐夏、开启商的统治，是传统王朝更替叙事中最常见的历史节点之一。",
+      "context": "理解夏商之际时，应分别考察世系名号与故事细节。",
+      "note": "不把歌颂性材料中的全部征伐细节都当作确证事实。",
+      "eventIds": [
+        "v5-shang-founding"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第五章 商王朝前期的历史——从原始社会到奴隶社会的过渡时期（下）",
+          "section": "第一节 商汤的灭夏",
+          "lineStart": 3617,
+          "lineEnd": 3657
+        },
+        {
+          "volume": 2,
+          "chapter": "第二章 殷商世系",
+          "section": "",
+          "lineStart": 17341,
+          "lineEnd": 17355
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-pangeng",
+      "name": "盘庚",
+      "periodIds": [
+        "shang"
+      ],
+      "role": "商代迁殷君主",
+      "description": "盘庚以迁殷见于文献，其时期是理解商前期迁徙与晚商王都发展的重要节点。迁都前后动员臣民的叙述，也反映政治决策的复杂性。",
+      "contribution": "迁殷与此后王都长期发展的传统记忆，为梳理商代政治中心变化提供重要线索。",
+      "context": "迁都涉及既有居住与利益关系，原因不能单线解释。",
+      "note": "迁殷原因、地望细节和绝对年代存在讨论。",
+      "eventIds": [
+        "cn-yinxu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第六章 商代阶级国家的形成",
+          "section": "二、盘庚迁殷的原因及其意义",
+          "lineStart": 4158,
+          "lineEnd": 4190
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-wuding",
+      "name": "武丁",
+      "periodIds": [
+        "shang"
+      ],
+      "role": "商代晚期君主",
+      "description": "武丁是晚商研究中材料较丰富的君主，相关甲骨记录涉及战争、祭祀和王室事务。由其时期进入商史，可以把人物活动与同期文字联系起来。",
+      "contribution": "王室军事行动与事务记录在其时期留下多种线索，妇好等参与者也由此进入历史视野。",
+      "context": "他处在商王权与周边方国频繁互动的政治网络中。",
+      "note": "不把文献中的中兴评价直接转换为精确疆域或国力数值。",
+      "eventIds": [
+        "v5-shang-wuding",
+        "v5-shang-oracle"
+      ],
+      "bookRefs": [
+        {
+          "volume": 2,
+          "chapter": "第二章 殷商世系",
+          "section": "",
+          "lineStart": 17349,
+          "lineEnd": 17349
+        },
+        {
+          "volume": 2,
+          "chapter": "第四章 殷商方国",
+          "section": "",
+          "lineStart": 19299,
+          "lineEnd": 19345
+        },
+        {
+          "volume": 1,
+          "chapter": "第十章 商代的文化、科学与艺术",
+          "section": "四、甲骨的发现和卜辞文例",
+          "lineStart": 10416,
+          "lineEnd": 10486
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-dixin",
+      "name": "帝辛",
+      "periodIds": [
+        "shang"
+      ],
+      "role": "商代最后一位君主",
+      "description": "帝辛即后世常称的商纣王，其统治与商周更替相联系。后世文献大量集中其恶行，本书也提醒亡国君主形象可能被不断夸饰。",
+      "contribution": "他所处的商末政治、方国关系与周的崛起，构成理解商朝终结的关键历史背景。",
+      "context": "应把末代君主的处境放在多重政治关系中观察。",
+      "note": "不将妲己、酒池肉林等故事逐条当作同期已证实记录。",
+      "eventIds": [
+        "cn-zhou-founding"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十二章 周王朝的建立",
+          "section": "一、武王克商前中原的形势",
+          "lineStart": 12438,
+          "lineEnd": 12472
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-wenwang",
+      "name": "周文王",
+      "periodIds": [
+        "zhou"
+      ],
+      "role": "周兴起时期的君主",
+      "description": "文王在周的兴起中以用人和扩大势力见于文献，后来又成为周人及儒家推崇的政治文化象征。实际历史与后世理想化形象应分别观察。",
+      "contribution": "重用来自不同群体的人才并发展周的力量，为后续克商及开国事业提供重要条件。",
+      "context": "他属于周建国前的关键背景，不能误作克商后才在位。",
+      "note": "不把后世圣王叙述等同于可逐项验证的政治实录。",
+      "eventIds": [
+        "cn-zhou-founding"
+      ],
+      "bookRefs": [
+        {
+          "volume": 3,
+          "chapter": "第一章 绪论",
+          "section": "一 西周文献的来历",
+          "lineStart": 44871,
+          "lineEnd": 44893
+        },
+        {
+          "volume": 3,
+          "chapter": "第四章 西周初期的分封制",
+          "section": "",
+          "lineStart": 51975,
+          "lineEnd": 51983
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-zhougong",
+      "name": "周公旦",
+      "periodIds": [
+        "zhou"
+      ],
+      "role": "周初政治与军事人物",
+      "description": "周公在武王去世后的政治危机中主持东征，并参与营洛和分封安排。他的形象后来成为礼乐政治的重要象征，但制度形成有长期过程。",
+      "contribution": "东征、营建东方据点及统治安排共同促进周初秩序巩固，影响后世政治文化记忆。",
+      "context": "他面对的是新王朝尚未整合与内部继承相互交织的局面。",
+      "note": "不把所有周礼条文和西周制度都归为他一人一次创造。",
+      "eventIds": [
+        "v5-zhou-east",
+        "v5-zhou-luoyi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十二章 周王朝的建立",
+          "section": "第二节 周公旦及其东征",
+          "lineStart": 12914,
+          "lineEnd": 13046
+        },
+        {
+          "volume": 1,
+          "chapter": "第十二章 周王朝的建立",
+          "section": "四、周公营建东都洛邑和还政成王",
+          "lineStart": 13046,
+          "lineEnd": 13112
+        },
+        {
+          "volume": 3,
+          "chapter": "第四章 西周初期的分封制",
+          "section": "",
+          "lineStart": 51975,
+          "lineEnd": 51985
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-chengwang",
+      "name": "周成王",
+      "periodIds": [
+        "zhou"
+      ],
+      "role": "周初承继君主",
+      "description": "成王处在周初权力承继和东方统治巩固的阶段。周公东征、营洛及分封的发展与其时期相联系，显示开国之后还需要持续制度建设。",
+      "contribution": "其时期延续并巩固周初的统治网络，营洛与分封成为周王室联系东方的重要安排。",
+      "context": "年少继位与周公活动的关系，是周初史的重要议题。",
+      "note": "摄政年次和还政经过有不同解释，不替人物补写内心。",
+      "eventIds": [
+        "v5-zhou-east",
+        "v5-zhou-luoyi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十二章 周王朝的建立",
+          "section": "第二节 周公旦及其东征",
+          "lineStart": 12914,
+          "lineEnd": 13046
+        },
+        {
+          "volume": 1,
+          "chapter": "第十二章 周王朝的建立",
+          "section": "四、周公营建东都洛邑和还政成王",
+          "lineStart": 13046,
+          "lineEnd": 13112
+        },
+        {
+          "volume": 3,
+          "chapter": "第四章 西周初期的分封制",
+          "section": "",
+          "lineStart": 51975,
+          "lineEnd": 51985
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-liwang",
+      "name": "周厉王",
+      "periodIds": [
+        "zhou"
+      ],
+      "role": "西周晚期君主",
+      "description": "厉王时期的利益集中与政治压制在传世文献中引起批评，国人暴动后他离开王都。其经历反映王室权力、资源和政治支持之间的张力。",
+      "contribution": "厉王失位及其后的共和阶段，成为观察西周晚期政治危机与纪年转折的关键线索。",
+      "context": "他所面对的矛盾与王室资源压力、统治关系变化相关。",
+      "note": "专利的具体范围和国人构成有讨论，勿直接套现代概念。",
+      "eventIds": [
+        "v5-zhou-gonghe"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第二节 周厉王专利与国人暴动及国人暴动的伟大意义",
+          "lineStart": 16719,
+          "lineEnd": 16785
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-qihuangong",
+      "name": "齐桓公",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "春秋齐国君主",
+      "description": "齐桓公任用管仲并参加多次战争与会盟，使齐成为春秋早期的重要霸主。其权威既依赖齐国实力，也依靠诸侯关系与尊周名义。",
+      "contribution": "支持军政经济调整，并通过援助、军事行动和会盟协调诸侯关系，扩大齐国影响。",
+      "context": "周王室力量变化后，强大诸侯逐渐承担主导秩序的角色。",
+      "note": "霸业是长期过程，不把春秋五霸当作毫无分歧的固定名单。",
+      "eventIds": [
+        "v5-eastern-qi-hegemony"
+      ],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第二章诸侯的改革与大国的争霸",
+          "section": "第一节管仲的改革与齐桓公称霸",
+          "lineStart": 61940,
+          "lineEnd": 62014
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-guanzhong",
+      "name": "管仲",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "春秋齐国政治人物",
+      "description": "管仲是齐桓公时期改革与治国叙述的核心人物，相关材料把经济发展、行政军事组织和外交联系起来。他的思想也不断被后人整理发挥。",
+      "contribution": "参与齐国军政经济组织调整，为齐桓公扩大实力与协调诸侯关系提供重要支持。",
+      "context": "其活动体现争霸政治与国家资源组织之间的联系。",
+      "note": "《管子》含多时期内容，不将全书政策都作其本人实施。",
+      "eventIds": [
+        "v5-eastern-qi-hegemony"
+      ],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第二章诸侯的改革与大国的争霸",
+          "section": "二、 管仲的改革措施",
+          "lineStart": 61950,
+          "lineEnd": 61968
+        },
+        {
+          "volume": 4,
+          "chapter": "第七章春秋时代的思想、文化艺术和科学技术",
+          "section": "三、 思想家及其主要思想",
+          "lineStart": 64200,
+          "lineEnd": 64200
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-jinwengong",
+      "name": "晋文公",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "春秋晋国君主",
+      "description": "晋文公重耳经历流亡后复位，整顿国家并参与中原争霸。城濮战胜楚及其后的会盟，使晋成为春秋政治中的重要强国。",
+      "contribution": "以军事和外交行动扩大晋的影响，晋楚争霸由此成为观察春秋中后期的重要主线。",
+      "context": "其处境连接晋国内部继承、周王室事务和诸侯结盟。",
+      "note": "流亡与战争故事经过史家叙述，不据此补写人物心理。",
+      "eventIds": [
+        "v5-eastern-chengpu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第二章诸侯的改革与大国的争霸",
+          "section": "五、 晋由乱而治，晋文公得政",
+          "lineStart": 62044,
+          "lineEnd": 62070
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-goujian",
+      "name": "勾践",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "春秋后期越国君主",
+      "description": "勾践在吴越战争中先遭失败，后来恢复国家力量并灭吴。其历史联系生产恢复、用人、外交与战争，后世又形成卧薪尝胆等著名叙事。",
+      "contribution": "在吴越长期竞争中组织恢复与反攻，改变长江下游政治力量关系并向江淮扩展影响。",
+      "context": "吴北上争霸与越逐渐恢复相互交织，战争消耗十分巨大。",
+      "note": "不把励志故事当作完整政策说明，也不以成败美化战争代价。",
+      "eventIds": [
+        "v5-eastern-wu-yue"
+      ],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第二章诸侯的改革与大国的争霸",
+          "section": "六、 吴越的争斗，越灭吴",
+          "lineStart": 62352,
+          "lineEnd": 62368
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-kongzi",
+      "name": "孔子",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "儒家代表与教育者",
+      "description": "孔子在春秋末期聚徒讲学，以礼、仁和政治伦理等问题展开思考。其言行经弟子及后学整理传播，成为儒家传统的重要起点。",
+      "contribution": "推动私人讲学与经典传授，对个人修养、社会关系和治理提出持续影响后世的主张。",
+      "context": "他面对传统秩序变化，试图在继承周文化中寻求政治出路。",
+      "note": "《论语》经后学编纂，不把全书当作孔子亲笔作品。",
+      "eventIds": [
+        "v5-eastern-schools"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "一 士的活跃和“百家争鸣”",
+          "lineStart": 70594,
+          "lineEnd": 70600
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-laozi",
+      "name": "老子",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "传统道家代表",
+      "description": "老子是道家传统的重要代表，《老子》讨论道、柔弱、无为等问题。关于其身份、生平及书的形成，古代记载本身已有不同说法。",
+      "contribution": "相关思想从事物变化和治理方式提出不同于强力进取的思路，对后世哲学政治影响深远。",
+      "context": "其思想应与列国竞争和诸子对秩序的讨论联系起来理解。",
+      "note": "不确定写死其生卒、身份或一人一次完成全书的经过。",
+      "eventIds": [
+        "v5-eastern-schools"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "三 老子主张柔弱和无为的道家学说",
+          "lineStart": 70686,
+          "lineEnd": 70702
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-mozi",
+      "name": "墨子",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "墨家代表人物",
+      "description": "墨子及墨者关注兼爱、非攻、尚贤、节用等问题，并形成组织化活动。墨家文献还保存技术和防御思想，体现诸子知识的多样面貌。",
+      "contribution": "以反对攻伐、重视实际民用及选贤等主张回应时代问题，也推动论证与技术知识发展。",
+      "context": "其活动联系士人讲学、民生困境及诸侯战争的现实环境。",
+      "note": "墨子与后期墨家须区分，不将《墨子》各篇全部作本人手笔。",
+      "eventIds": [
+        "v5-eastern-schools"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "一 士的活跃和“百家争鸣”",
+          "lineStart": 70598,
+          "lineEnd": 70600
+        },
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "二 墨子的天志、兼爱和尚贤学说",
+          "lineStart": 70642,
+          "lineEnd": 70670
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-mengzi",
+      "name": "孟子",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国儒家代表",
+      "description": "孟子游说列国，提出仁政、王道和性善等主张，并与弟子整理学说。他把政治正当性与民众生活相联系，继续发展儒家传统。",
+      "contribution": "通过讲学与游说讨论减轻税敛、重视民生及道德修养，丰富战国关于治理的思想辩论。",
+      "context": "列国谋强的时代，使其政治理想与现实权力形成张力。",
+      "note": "生卒有不同说法，思想概述不等于各国已经实际全面采用。",
+      "eventIds": [
+        "v5-eastern-schools"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "七 孟子主张“王道”和“仁政”的儒家学说",
+          "lineStart": 70810,
+          "lineEnd": 70820
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-xunzi",
+      "name": "荀子",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国儒家思想家",
+      "description": "荀子参与稷下及列国学术活动，重视学习、礼义、法度与人的努力。他对自然与社会关系、人性和政治组织的讨论形成鲜明特色。",
+      "contribution": "提出礼法并重及后天学习的重要作用，对政治秩序、教育和天人关系作系统阐述。",
+      "context": "其思想回应战国末期关于统一、秩序与人才培养的争论。",
+      "note": "性恶论不宜简化为每个人注定作恶，应连同教化学说阅读。",
+      "eventIds": [
+        "v5-eastern-schools"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "十一 荀子主张礼治的儒家学说",
+          "lineStart": 70920,
+          "lineEnd": 70938
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-zhangyi",
+      "name": "张仪",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国纵横外交人物",
+      "description": "张仪在秦、魏等国从事政治外交活动，以连横策略见称。书中把他的行动放在张仪、公孙衍及列国不断调整联盟的格局中观察。",
+      "contribution": "通过游说、任相与结盟参与列国竞争，展示战国士人凭政治谋略进入权力中心的途径。",
+      "context": "各国利益经常变化，外交选择并非固定阵营或单人棋局。",
+      "note": "《战国策》等有文学加工，不把每篇说辞都当作逐字实录。",
+      "eventIds": [
+        "v5-eastern-diplomacy",
+        "v5-eastern-bashu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "二 张仪、公孙衍的连横、合纵和秦灭巴蜀、取汉中以及楚灭越",
+          "lineStart": 69346,
+          "lineEnd": 69366
+        },
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "一 士的活跃和“百家争鸣”",
+          "lineStart": 70610,
+          "lineEnd": 70610
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-zhaowuling",
+      "name": "赵武灵王",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国赵国改革君主",
+      "description": "赵武灵王因边境军事需求推动胡服骑射，改变部分军队服饰与训练方式。改革在与北方不同人群交流和竞争的背景下展开。",
+      "contribution": "推行骑射与相关军事调整，增强赵国在北方争夺中的能力，并挑战既有礼俗观念。",
+      "context": "改革面对军事实践与贵族习惯之间的分歧和阻力。",
+      "note": "不把胡视为单一民族，也不把改变服装直接等同全部军事改革。",
+      "eventIds": [
+        "v5-eastern-hufu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "三 孟尝君合纵齐、韩、魏而胜楚攻秦和赵武灵王“胡服骑射”而攻取中山及胡地",
+          "lineStart": 69538,
+          "lineEnd": 69538
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-baiqi",
+      "name": "白起",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国秦国将领",
+      "description": "白起参与秦对东方诸国的战争，以长平等战役见于文献。他的军事胜利与大规模杀伤并存，反映战国兼并战争的组织能力和残酷代价。",
+      "contribution": "指挥多次战争削弱秦的对手，长平之战显著改变秦赵力量关系，也造成严重生命损失。",
+      "context": "应同时观察军事决策、国家动员和战争中的普通人命运。",
+      "note": "传世伤亡数字有夸大与统计问题，不以战功掩盖杀俘。",
+      "eventIds": [
+        "v5-eastern-changping"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "六 秦、赵间剧战，楚灭鲁和秦灭西周以及魏攻取陶、卫",
+          "lineStart": 69994,
+          "lineEnd": 70034
+        },
+        {
+          "volume": 5,
+          "chapter": "第九章 秦的统一",
+          "section": "一 秦兼并六国和完成统一",
+          "lineStart": 70099,
+          "lineEnd": 70101
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-quyuan",
+      "name": "屈原",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国楚地诗人与政治人物",
+      "description": "屈原与楚辞创作关系密切，相关作品把政治理想、个人遭际和神话想象结合起来。其形象既属于战国楚史，也在后世形成深厚文化记忆。",
+      "contribution": "以富于想象的抒情诗歌拓展文学表达，楚地语言和意象对后来的文学审美影响深远。",
+      "context": "其政治处境与楚国竞争、理想受挫及文人表达相联系。",
+      "note": "具体生平与篇章归属存在讨论，不把楚辞全书归一人。",
+      "eventIds": [
+        "v5-eastern-chuci"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十二章 战国时代文化的发展",
+          "section": "二 文体的变革和文学的发展",
+          "lineStart": 72086,
+          "lineEnd": 72098
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-hanfei",
+      "name": "韩非",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国法家思想代表",
+      "description": "韩非讨论法、术、势及君臣关系，试图回应列国治理和集权问题。他以著述见长，后入秦，其思想与秦的政治实践有复杂联系。",
+      "contribution": "综合不同法家治理资源，对法令、官吏考核和君主权势作系统论述，影响后世政治思考。",
+      "context": "其活动处于战国末期韩国危局与秦国扩张的环境中。",
+      "note": "法家不能直接等同现代法治，其主张应连同君主权力背景理解。",
+      "eventIds": [
+        "v5-eastern-schools"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "十二 韩非兼用法、术、势的法家学说",
+          "lineStart": 70940,
+          "lineEnd": 70966
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-lisi",
+      "name": "李斯",
+      "periodIds": [
+        "qin"
+      ],
+      "role": "秦朝重要官员与丞相",
+      "description": "李斯参与统一后的政治制度和文字整理，支持郡县安排，并提出焚书禁令。始皇死后的继承斗争中，他又与赵高等相联系，最后遭杀害。",
+      "contribution": "参与帝国制度与文书规范的形成，也在思想禁令和继承政治中承担重要责任。",
+      "context": "他处在从战国策士到帝国官僚的转变与皇权政治中心。",
+      "note": "不把秦的制度全归个人设计，也不以结局抹去不同活动的差别。",
+      "eventIds": [
+        "unify",
+        "v5-qin-standards",
+        "v5-qin-books",
+        "qinend"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "二 统一文字，端正风俗",
+          "lineStart": 74889,
+          "lineEnd": 74909
+        },
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "一 暴虐和愚蠢的“焚书坑儒”",
+          "lineStart": 74963,
+          "lineEnd": 74974
+        },
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "三 第五次巡行和始皇之死",
+          "lineStart": 75094,
+          "lineEnd": 75094
+        },
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "二 秦末农民战争的最后胜利",
+          "lineStart": 75320,
+          "lineEnd": 75320
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-mengtian",
+      "name": "蒙恬",
+      "periodIds": [
+        "qin"
+      ],
+      "role": "秦朝将领",
+      "description": "蒙恬在秦北方用兵和边防工程中发挥重要作用，相关活动涉及河套、旧长城利用与人口戍守。其命运也卷入始皇死后的政治继承。",
+      "contribution": "统率北方军事行动并参与防御整修，是理解秦帝国边疆治理和资源动员的重要人物。",
+      "context": "军事行动与工程不是孤立壮举，也依赖征发与地方组织。",
+      "note": "不把全部秦长城都说成其一人新建，线路与规模需考古校核。",
+      "eventIds": [
+        "v5-qin-north"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二章 秦王朝的建立",
+          "section": "一 匈奴和秦王朝的关系",
+          "lineStart": 74227,
+          "lineEnd": 74246
+        },
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "三 第五次巡行和始皇之死",
+          "lineStart": 75094,
+          "lineEnd": 75094
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-chensheng",
+      "name": "陈胜",
+      "periodIds": [
+        "qin"
+      ],
+      "role": "秦末起义领袖",
+      "description": "陈胜与吴广率戍卒起义并建立张楚政权，迅速推动各地反秦行动。其队伍虽未取得最终胜利，却改变了秦末政治与军事局势。",
+      "contribution": "点燃大规模反秦起义并组织进攻，使帝国统治遭到公开挑战，也推动其他力量加入战争。",
+      "context": "赋役与政治压力是背景，起义后组织和战略问题同样重要。",
+      "note": "不以成败判定其行动意义，也不将文学化号召都当逐字实录。",
+      "eventIds": [
+        "v5-qin-dazexiang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "二 起义的爆发和反秦战争的初步胜利",
+          "lineStart": 75151,
+          "lineEnd": 75183
+        },
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "一 农民起义军重振军威",
+          "lineStart": 75266,
+          "lineEnd": 75282
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-xiangyu",
+      "name": "项羽",
+      "periodIds": [
+        "qin",
+        "han"
+      ],
+      "role": "秦末与楚汉战争将领",
+      "description": "项羽在秦末起兵，巨鹿战胜秦军后取得诸侯军事领袖地位。秦亡后他分封诸侯并与刘邦争夺统治，军事优势最终未能转为稳定政治秩序。",
+      "contribution": "在反秦战争中发挥重大军事作用，其后分封与楚汉战争又深刻影响秦汉之际的政治重组。",
+      "context": "军事组织、联盟和地方控制共同影响其事业，不能只谈勇武。",
+      "note": "不把失败简单归为刚愎或一场宴会，杀俘等行为也需明确呈现。",
+      "eventIds": [
+        "v5-qin-julu",
+        "cn-han-founder"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "一 农民起义军重振军威",
+          "lineStart": 75270,
+          "lineEnd": 75282
+        },
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "一 农民起义军重振军威",
+          "lineStart": 75304,
+          "lineEnd": 75314
+        },
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "",
+          "lineStart": 75355,
+          "lineEnd": 75447
+        },
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "四 项羽的败亡",
+          "lineStart": 75620,
+          "lineEnd": 75648
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-zhaogao",
+      "name": "赵高",
+      "periodIds": [
+        "qin"
+      ],
+      "role": "秦二世时期权臣",
+      "description": "赵高参与始皇死后的继承安排，后来掌握二世朝廷的重要权力，李斯与二世相继死亡后又立子婴。其活动是秦末宫廷政治的重要一线。",
+      "contribution": "参与继承与朝廷权力斗争，对统治集团内部关系和秦末决策产生影响。",
+      "context": "宫廷冲突与外部反秦战争并行，二者不能彼此替代解释。",
+      "note": "不以指鹿为马一则故事概括秦亡，也不替人物推断全部动机。",
+      "eventIds": [
+        "qinend"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "三 第五次巡行和始皇之死",
+          "lineStart": 75092,
+          "lineEnd": 75094
+        },
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "二 秦末农民战争的最后胜利",
+          "lineStart": 75320,
+          "lineEnd": 75324
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-lvhou",
+      "name": "吕后",
+      "periodIds": [
+        "han"
+      ],
+      "role": "西汉初期太后与执政者",
+      "description": "吕雉在刘邦之后的继承与朝政中占有重要位置，其时期延续汉初较宽缓的治理。宫廷斗争和对社会恢复的政策作用应分别观察。",
+      "contribution": "参与维持汉初政治及休养政策，也深度介入皇室继承与外戚力量安排。",
+      "context": "女性执政、皇室继承与开国集团关系在其时期相互交织。",
+      "note": "不以宫廷残酷故事取代其整个政治时期，也不为权争美化。",
+      "eventIds": [
+        "v5-han-wenjing"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75857,
+          "lineEnd": 75876
+        },
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75902,
+          "lineEnd": 75904
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-wendi",
+      "name": "汉文帝",
+      "periodIds": [
+        "han"
+      ],
+      "role": "西汉皇帝",
+      "description": "文帝在汉初恢复阶段实行较为宽缓的政策，文献记载其节用、减轻部分租税并关注农业。其时期也面对诸侯和中央关系等政治问题。",
+      "contribution": "延续与民休息的治理取向，减少部分田租及奢费，为生产恢复与国家积累提供条件。",
+      "context": "其政策应放在长期战乱后社会需要稳定的背景中理解。",
+      "note": "轻田租不等于百姓没有其他负担；书中霸陵位置为旧说，不采用。",
+      "eventIds": [
+        "v5-han-wenjing"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75902,
+          "lineEnd": 75904
+        },
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75868,
+          "lineEnd": 75880
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-jingdi",
+      "name": "汉景帝",
+      "periodIds": [
+        "han"
+      ],
+      "role": "西汉皇帝",
+      "description": "景帝延续休养政策，同时面对诸侯王力量与中央的冲突。七国之乱期间中央以军事平叛，战后又继续调整诸侯国的统治能力。",
+      "contribution": "在恢复治理之外削弱诸侯独立力量，使中央与封国的政治关系出现重要变化。",
+      "context": "宽缓经济政策与加强中央权力可以在同一时期并行。",
+      "note": "不把七国之乱只解释为晁错造成，也不把杀晁错当作平叛原因。",
+      "eventIds": [
+        "v5-han-wenjing",
+        "v5-han-seven"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "三 “吴楚七国之乱”",
+          "lineStart": 75977,
+          "lineEnd": 76015
+        },
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75902,
+          "lineEnd": 75904
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-zhangqian",
+      "name": "张骞",
+      "periodIds": [
+        "han"
+      ],
+      "role": "西汉使者",
+      "description": "张骞奉命联络大月氏，经历拘留和长途跋涉后返回，带回中亚诸地信息。外交结盟未达最初目标，实际认知与交通收获却很重要。",
+      "contribution": "以使者行动扩大汉与西方地区的官方联系和认识，为后续交往提供新的信息与条件。",
+      "context": "其出使源于汉与匈奴的战略关系，也依靠同行者及沿途帮助。",
+      "note": "不把丝路说成其独自开创的单一路线，也不抹去更早交流。",
+      "eventIds": [
+        "v5-han-zhangqian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第八章 武帝时期的民族关系",
+          "section": "一 西汉政府与西域诸国的正式接触",
+          "lineStart": 77084,
+          "lineEnd": 77108
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-weiqing",
+      "name": "卫青",
+      "periodIds": [
+        "han"
+      ],
+      "role": "西汉将领",
+      "description": "卫青在武帝对匈奴战争中多次统军，参与北方重要军事行动。他的战役与国家骑兵、后勤及边郡资源组织密切相关，不能孤立看作个人勇武。",
+      "contribution": "组织并参与对匈奴的多次重要进攻，与霍去病等共同影响河套、河西及漠北的战略格局。",
+      "context": "军事成就背后有国家动员与战争消耗，也有不同战场的成败。",
+      "note": "不用传世俘获数字制作精确战力排名，不将战争写成零代价。",
+      "eventIds": [
+        "v5-han-xiongnu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第八章 武帝时期的民族关系",
+          "section": "二 拉开全面反击匈奴的序幕（前133年至前127年）",
+          "lineStart": 76748,
+          "lineEnd": 76835
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-huoqubing",
+      "name": "霍去病",
+      "periodIds": [
+        "han"
+      ],
+      "role": "西汉将领",
+      "description": "霍去病在武帝时期参与对匈奴战争，以快速骑兵行动见于文献，尤其与河西及漠北军事变化相联系。其短暂生涯对后世英雄记忆影响很大。",
+      "contribution": "指挥河西等方向的重要行动，参与改变汉匈战略形势，也与边地控制和交通发展相联系。",
+      "context": "理解其战绩需同时观察后勤、兵员与草原战场条件。",
+      "note": "不以封狼居胥等文化象征替代战事核查，也不神化个体。",
+      "eventIds": [
+        "v5-han-xiongnu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第八章 武帝时期的民族关系",
+          "section": "三 汉王朝向匈奴全线出击（前126年至前117年）",
+          "lineStart": 76782,
+          "lineEnd": 76835
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-dongzhongshu",
+      "name": "董仲舒",
+      "periodIds": [
+        "han"
+      ],
+      "role": "西汉儒者",
+      "description": "董仲舒在武帝时期提出与儒学教化、人才培养和政治秩序有关的建议。他的思想将先秦儒家资源与汉代政治需求结合，并包含天人论述。",
+      "contribution": "参与儒学进入官方政治和教育的讨论，关于兴太学与养士的建议具有重要代表性。",
+      "context": "儒学地位的上升是制度、用人与思想长期共同变化的结果。",
+      "note": "不把尊儒写成一人一策完成，也不把天人感应当科学事实。",
+      "eventIds": [
+        "v5-han-confucian"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第七章 汉武帝统治时期中央集权的加强",
+          "section": "二 提倡儒学",
+          "lineStart": 76150,
+          "lineEnd": 76191
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-sanghongyang",
+      "name": "桑弘羊",
+      "periodIds": [
+        "han"
+      ],
+      "role": "西汉财政政治人物",
+      "description": "桑弘羊参与盐铁、均输和平准等财政安排，后来在盐铁会议中维护相关政策。他的活动展示国家筹款、市场组织与民众负担之间的关系。",
+      "contribution": "组织重要财政措施，并从国用和边防需要解释政策，在汉代经济治理讨论中占有重要位置。",
+      "context": "国家支出扩大与市场执行问题共同塑造其政策处境。",
+      "note": "不把理财能力等同政策必然成功，也不以其结局替代评价。",
+      "eventIds": [
+        "v5-han-saltmonopoly",
+        "v5-han-saltdebate"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第七章 汉武帝统治时期中央集权的加强",
+          "section": "三 盐铁官营和均输平准政策",
+          "lineStart": 76654,
+          "lineEnd": 76691
+        },
+        {
+          "volume": 6,
+          "chapter": "第九章 繁荣兴旺的“昭宣中兴”时代",
+          "section": "二 一场唇枪舌剑的辩论——“盐铁会议”",
+          "lineStart": 77483,
+          "lineEnd": 77552
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-huoguang",
+      "name": "霍光",
+      "periodIds": [
+        "han"
+      ],
+      "role": "昭帝时期辅政大臣",
+      "description": "霍光在武帝之后长期主持重要政务，与盐铁会议、政策调整和皇位继承相联系。辅政权力及昭宣时期治理变化，是理解其作用的两条线索。",
+      "contribution": "推动政策讨论并参与昭宣间政治安排，在国家恢复与皇权继承中具有重要影响。",
+      "context": "辅政者与皇帝、官僚及外戚关系共同构成其权力环境。",
+      "note": "不把所有政策效果归于一人，人物动机与派系判断须标明解释层次。",
+      "eventIds": [
+        "v5-han-saltdebate",
+        "v5-han-zhaoxuan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第九章 繁荣兴旺的“昭宣中兴”时代",
+          "section": "二 一场唇枪舌剑的辩论——“盐铁会议”",
+          "lineStart": 77483,
+          "lineEnd": 77552
+        },
+        {
+          "volume": 6,
+          "chapter": "第九章 繁荣兴旺的“昭宣中兴”时代",
+          "section": "四 宣帝时期的政治",
+          "lineStart": 77585,
+          "lineEnd": 77612
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-fanchong",
+      "name": "樊崇",
+      "periodIds": [
+        "xin"
+      ],
+      "role": "赤眉军重要领袖",
+      "description": "樊崇在西汉末年危机延续到新朝的环境中聚众起义，赤眉军逐步扩大并成为重要反莽力量。其活动联系饥民、地方社会和军事组织变化。",
+      "contribution": "组织并率领赤眉军发展，在东方战场打击新朝军队，影响两汉之际的政治与军事格局。",
+      "context": "起义军并非完全同质，与更始及其他力量关系不断变化。",
+      "note": "书中起义年号有错，不将贫民背景直接等同统一政治纲领。",
+      "eventIds": [
+        "v5-xin-uprising"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "一 由局部走向全国的农民起义",
+          "lineStart": 79394,
+          "lineEnd": 79400
+        },
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "二 赤眉、绿林军的辉煌战绩",
+          "lineStart": 79402,
+          "lineEnd": 79416
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-liuxuan",
+      "name": "刘玄",
+      "periodIds": [
+        "xin"
+      ],
+      "role": "更始政权君主",
+      "description": "刘玄被拥立为更始帝，其政权成为反莽的重要政治中心。绿林军与汉宗室等不同力量在阵营内合作又冲突，影响战争和新朝结束后的局势。",
+      "contribution": "以恢复汉号组织政治秩序，更始军参与昆阳及攻取长安，推动新朝终结。",
+      "context": "其政权同时面对反莽战争、内部权力分配和地方武装竞争。",
+      "note": "不把更始政权等同后来的东汉，也不假定各路反莽力量服从同一指挥。",
+      "eventIds": [
+        "v5-xin-uprising",
+        "v5-xin-kunyang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "一 决定性的胜利——昆阳大捷",
+          "lineStart": 79592,
+          "lineEnd": 79614
+        },
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "一 决定性的胜利——昆阳大捷",
+          "lineStart": 79668,
+          "lineEnd": 79694
+        },
+        {
+          "volume": 6,
+          "chapter": "第十三章 绿林、赤眉起义和“新”莽的灭亡",
+          "section": "三 “新”莽王朝的覆亡",
+          "lineStart": 79736,
+          "lineEnd": 79756
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-xiajie",
+      "name": "夏桀",
+      "periodIds": [
+        "xia"
+      ],
+      "role": "古史传说中的夏末君主",
+      "description": "桀是后世夏史叙述中的末代君主，与商汤灭夏相联系。关于其暴政和奢侈的故事不断被后人增饰，应把古史记忆与可验证事实分别处理。",
+      "contribution": "作为传统夏商更替叙事的核心人物，其形象反映后人如何解释失政、民怨与王朝终结。",
+      "context": "他首先属于古史传说与后世政治评价的讨论范围。",
+      "note": "不为其统治和具体恶行虚构确年，也不把全部传说当作实录。",
+      "eventIds": [
+        "cn-xia-memory",
+        "v5-shang-founding"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）",
+          "section": "二、夏王朝的历史传说及夏代的社会性质",
+          "lineStart": 2698,
+          "lineEnd": 2700
+        },
+        {
+          "volume": 1,
+          "chapter": "第五章 商王朝前期的历史——从原始社会到奴隶社会的过渡时期（下）",
+          "section": "第一节 商汤的灭夏",
+          "lineStart": 3617,
+          "lineEnd": 3657
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-yiyin",
+      "name": "伊尹",
+      "periodIds": [
+        "shang"
+      ],
+      "role": "商初传世叙述中的重臣",
+      "description": "伊尹在传世文献中辅佐商汤，并与太甲继承故事相联系，其名也见于甲骨祭祀材料。身份线索与不同版本的政治故事需要分开审读。",
+      "contribution": "辅汤建商和干预王位继承的叙述，使他成为后世讨论重臣责任与君臣关系的重要人物。",
+      "context": "商初政治经历主要经后世文献传下，版本并不一致。",
+      "note": "放太甲等故事有忠臣与篡位两类叙述，不把其中一说定为实录。",
+      "eventIds": [
+        "v5-shang-founding"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第五章 商王朝前期的历史——从原始社会到奴隶社会的过渡时期（下）",
+          "section": "一、商汤和伊尹",
+          "lineStart": 3699,
+          "lineEnd": 3723
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-xuanwang",
+      "name": "周宣王",
+      "periodIds": [
+        "zhou"
+      ],
+      "role": "西周晚期君主",
+      "description": "宣王在共和之后即位，整顿政务并开展多方向军事活动，传统称之为中兴。但文献和金文也保留战败与资源压力线索，恢复并非永久稳定。",
+      "contribution": "延续并恢复王室部分影响，其时期的军事、用人与治理活动连接共和后整顿与晚周危机。",
+      "context": "王室需要在边地战争、资源动员和政治支持之间维持平衡。",
+      "note": "中兴是传统评价，不能因此抹去其统治中的战争损失和矛盾。",
+      "eventIds": [
+        "v5-zhou-xuan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第四节 所谓“宣王中兴”",
+          "lineStart": 16787,
+          "lineEnd": 16815
+        },
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第四节 所谓“宣王中兴”",
+          "lineStart": 16863,
+          "lineEnd": 16865
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-youwang",
+      "name": "周幽王",
+      "periodIds": [
+        "zhou"
+      ],
+      "role": "西周末年君主",
+      "description": "幽王统治末期发生王位继承冲突与外部军事介入，最终身亡，周王室进入两周之际的政治重组。褒姒与烽火故事不能代替这些复杂关系。",
+      "contribution": "其时期的继承安排与政治冲突，是理解西周终结及平王东迁背景的重要人物线索。",
+      "context": "王室内部对立与诸侯、周边力量相互牵动，危机并非突发。",
+      "note": "不将西周灭亡归罪于女性一笑，也不把烽火戏诸侯当作确证经过。",
+      "eventIds": [
+        "cn-zhou-eastmove"
+      ],
+      "bookRefs": [
+        {
+          "volume": 1,
+          "chapter": "第十五章 西周的衰微、灭亡",
+          "section": "第五节 幽王昏乱、灭亡与平王东迁",
+          "lineStart": 16889,
+          "lineEnd": 16949
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-zhuangzi",
+      "name": "庄子",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国道家思想代表",
+      "description": "庄子名周，相关著述借寓言和辩论讨论认识、生命与精神自由。《庄子》具有多层编纂背景，其文学想象与思想探讨共同影响后世文化。",
+      "contribution": "以多样寓言和对日常判断的反思，拓展先秦关于生命处境、认识限度与精神自由的讨论。",
+      "context": "列国竞争之外，诸子也追问个人如何面对功名和现实束缚。",
+      "note": "《庄子》并非各篇均可确定为庄周亲作，寓言不当真实生平。",
+      "eventIds": [
+        "v5-eastern-schools"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第十章 战国时代的“百家争鸣”",
+          "section": "四 道家的几个流派",
+          "lineStart": 70742,
+          "lineEnd": 70746
+        },
+        {
+          "volume": 5,
+          "chapter": "第十二章 战国时代文化的发展",
+          "section": "二 文体的变革和文学的发展",
+          "lineStart": 72060,
+          "lineEnd": 72060
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-sunwu",
+      "name": "孙武",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "传统兵家代表人物",
+      "description": "孙武在传世文献中与吴国军事活动及《孙子兵法》相联系，相关思想重视形势、虚实和因敌变化。人物生平与兵书成书问题应分别考察。",
+      "contribution": "相关兵学强调分析敌我条件、重视谋划与灵活用兵，成为中国军事思想的重要传统资源。",
+      "context": "春秋战国战争变化促使作战经验逐步形成系统的知识表达。",
+      "note": "与孙膑是不同人物；不把后世完整生平故事或成书细节都当作定论。",
+      "eventIds": [
+        "eastzhou",
+        "v5-eastern-schools"
+      ],
+      "bookRefs": [
+        {
+          "volume": 4,
+          "chapter": "第五章春秋时代的政治制度和军事制度",
+          "section": "五、 孙武的军事理论及《孙子兵法》",
+          "lineStart": 63858,
+          "lineEnd": 63876
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-wuqi",
+      "name": "吴起",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国将领与改革人物",
+      "description": "吴起曾在魏、楚等国活动，在楚悼王支持下改革官政与贵族待遇，试图把资源转向军政需求。其经历展示军事才能与制度改革的联系。",
+      "contribution": "在楚国削减部分世袭和冗费、整顿吏治以供养军队，是战国各国改革的重要代表。",
+      "context": "改革触及既有贵族利益，国家谋强与政治阻力在其经历中交织。",
+      "note": "不将各国活动压成一次改革，也不以惨烈结局替代对政策效果的分析。",
+      "eventIds": [
+        "eastzhou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第五章 战国前期各诸侯国的变法改革",
+          "section": "三 楚国吴起的变法",
+          "lineStart": 67819,
+          "lineEnd": 67835
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-sunbin",
+      "name": "孙膑",
+      "periodIds": [
+        "eastern"
+      ],
+      "role": "战国齐国军事人物",
+      "description": "孙膑在齐国用兵叙述中担任军师，与桂陵、马陵等战事相联系。《孙膑兵法》材料又为其军事思想提供线索，人物故事与兵学应相互参照。",
+      "contribution": "参与制定齐军作战方案，重视避实击虚、地形和诱敌等条件，反映战国军事知识的发展。",
+      "context": "其活动处在齐魏竞争与战争规模扩大的历史环境中。",
+      "note": "与孙武不是同一人；减灶、田忌赛马等故事不等于完整军事经历。",
+      "eventIds": [
+        "eastzhou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "一 魏和齐、秦大战以及魏、齐、秦等国陆续称王",
+          "lineStart": 69270,
+          "lineEnd": 69274
+        },
+        {
+          "volume": 5,
+          "chapter": "第八章 合纵、连横和兼并战争的变化",
+          "section": "一 魏和齐、秦大战以及魏、齐、秦等国陆续称王",
+          "lineStart": 69292,
+          "lineEnd": 69294
+        },
+        {
+          "volume": 5,
+          "chapter": "第七章 七强并立的形势和战争规模的扩大",
+          "section": "五 兵法的讲求和军事学的发展",
+          "lineStart": 69153,
+          "lineEnd": 69153
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-wuguang",
+      "name": "吴广",
+      "periodIds": [
+        "qin"
+      ],
+      "role": "秦末起义领袖",
+      "description": "吴广与陈胜共同组织大泽乡起义，被推为都尉，参与反秦力量的初步发展。他并非陈胜故事中的陪衬，而是起义发动与组织的重要人物。",
+      "contribution": "参与发动戍卒起事并推动反秦行动，使局部反抗迅速发展为影响各地的政治军事挑战。",
+      "context": "秦的赋役、法律压力与基层群体处境，是理解起义的背景。",
+      "note": "传世起义对白与失期刑罚记载需审读，不据此虚构个体心理或原话。",
+      "eventIds": [
+        "v5-qin-dazexiang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "二 起义的爆发和反秦战争的初步胜利",
+          "lineStart": 75151,
+          "lineEnd": 75179
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-huhai",
+      "name": "秦二世胡亥",
+      "periodIds": [
+        "qin"
+      ],
+      "role": "秦朝第二位皇帝",
+      "description": "胡亥在始皇去世后的继承安排中即位，其统治与赵高权势、宫廷冲突及秦末起义相交织。后来被逼自杀，子婴继立，秦朝迅速走向终结。",
+      "contribution": "其继位与在位时期的权力安排，提供观察帝国继承机制、君臣关系和统治危机的重要线索。",
+      "context": "内部权力斗争与各地反秦战争并行，彼此加重政治压力。",
+      "note": "不把秦亡全归于一名君主的性格，也不把传世继承情节当作完整档案。",
+      "eventIds": [
+        "v5-qin-dazexiang",
+        "qinend"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第三章 秦王朝的统治",
+          "section": "三 第五次巡行和始皇之死",
+          "lineStart": 75092,
+          "lineEnd": 75100
+        },
+        {
+          "volume": 6,
+          "chapter": "第四章 农民大起义和秦王朝的灭亡",
+          "section": "二 秦末农民战争的最后胜利",
+          "lineStart": 75320,
+          "lineEnd": 75324
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-xiaohe",
+      "name": "萧何",
+      "periodIds": [
+        "han"
+      ],
+      "role": "汉初政治与后勤人物",
+      "description": "萧何随刘邦起兵，保存秦的律令与图籍资料，并在楚汉战争中承担后方组织和补给。其作用说明王朝建立不仅依靠前线将领，也依赖文书与资源管理。",
+      "contribution": "整理和保存治理资料、供应战争后勤，为刘邦集团的持续作战与西汉政治重建提供支持。",
+      "context": "地方吏务经验、行政资料与后方供给共同构成其重要作用。",
+      "note": "不将汉初法律全部归为他一人创制，也不以成语故事替代制度研究。",
+      "eventIds": [
+        "cn-han-founder"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "一 “约法三章”——农民战争结束的标志",
+          "lineStart": 75369,
+          "lineEnd": 75371
+        },
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "一 刘邦进入汉中及还定“三秦”",
+          "lineStart": 75482,
+          "lineEnd": 75488
+        },
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 “与民休息”的统治政策",
+          "lineStart": 75880,
+          "lineEnd": 75890
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-zhangliang",
+      "name": "张良",
+      "periodIds": [
+        "han"
+      ],
+      "role": "汉初谋臣",
+      "description": "张良在秦末及楚汉之际参与刘邦集团的谋划和外交协调，鸿门前后的交涉只是其中一例。他的作用体现联盟、人事与战争策略之间的联系。",
+      "contribution": "在关键交涉和战略判断中提供建议，协助刘邦应对项羽等力量，参与西汉建立的政治过程。",
+      "context": "军事实力之外，结盟、信息与应对时机也是秦汉之际的关键条件。",
+      "note": "不把谋略神化为预知未来，鸿门宴也不是楚汉胜负的唯一决定因素。",
+      "eventIds": [
+        "cn-han-founder"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "一 “约法三章”——农民战争结束的标志",
+          "lineStart": 75365,
+          "lineEnd": 75365
+        },
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "二 项羽入关和“鸿门宴”上的刀光剑影",
+          "lineStart": 75402,
+          "lineEnd": 75406
+        },
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "一 刘邦进入汉中及还定“三秦”",
+          "lineStart": 75488,
+          "lineEnd": 75496
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "v5-hanxin",
+      "name": "韩信",
+      "periodIds": [
+        "han"
+      ],
+      "role": "汉初将领",
+      "description": "韩信在秦末转入刘邦阵营，经萧何推荐拜将，参与还定三秦和后续楚汉战争。他的军事作用与后来功臣、诸侯和皇权之间的关系应共同观察。",
+      "contribution": "提出作战与形势判断并率军参战，成为刘邦集团击败主要对手、建立西汉的重要军事人物。",
+      "context": "军功带来政治地位，也使开国后军权与皇权关系成为难题。",
+      "note": "不以胯下之辱或背水一战概括其全部经历，也不把后世故事当作完整生平。",
+      "eventIds": [
+        "cn-han-founder"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第五章 地主阶级内部的一场厮杀——楚汉战争",
+          "section": "一 刘邦进入汉中及还定“三秦”",
+          "lineStart": 75480,
+          "lineEnd": 75488
+        },
+        {
+          "volume": 6,
+          "chapter": "第六章 西汉王朝的诞生和汉初的统治",
+          "section": "一 刘邦称帝及初期的政权建设",
+          "lineStart": 75667,
+          "lineEnd": 75671
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "banchao",
+      "name": "班超",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "东汉西域经营者",
+      "description": "班超在东汉前期长期往来西域，以使者、军事与行政活动联络地方政权，是理解丝路政治条件的重要人物。",
+      "contribution": "从73年起持续经营西域，在军事行动之外进行地方联络与政治协调，102年回到内地。",
+      "context": "东汉与北匈奴、西域各政权关系不断变化，经营需要长期维系。",
+      "note": "不把西域各国写成同一种政体，也不将全部交流归为个人开辟。",
+      "eventIds": [
+        "cn-ban-chao-west"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十五章 东汉前期的政治",
+          "section": "第三节 东汉前期的民族关系",
+          "lineStart": 80502,
+          "lineEnd": 80575
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "cailun",
+      "name": "蔡伦",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "东汉造纸改良者",
+      "description": "蔡伦在前代造纸经验基础上改进工艺，并将成果呈报朝廷；其技术作用应与纸的早期出现和长期普及区别。",
+      "contribution": "改进植物纤维纸的制作与原料利用，在朝廷支持下推动实用纸的发展和应用。",
+      "context": "简牍、缣帛和早期纸共存，技术改良需要与实际书写需求结合。",
+      "note": "不把105年当成纸张从无到有的唯一时刻，也不抹去工匠集体经验。",
+      "eventIds": [
+        "cn-cai-lun-paper"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十六章 东汉社会经济的发展",
+          "section": "第二节 手工业生产水平的提高",
+          "lineStart": 80860,
+          "lineEnd": 80870
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhangheng",
+      "name": "张衡",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "天文学家、官员",
+      "description": "张衡研究天文历算并制作相关仪器，兼有文学创作与官署经历；其科学活动连接观察、计算和机械装置。",
+      "contribution": "撰述天文学著作、制作天体演示装置，并留下132年地动仪的文献记载。",
+      "context": "太史令等官职为观测和历算提供制度环境，技术实践也依赖工匠协作。",
+      "note": "原器不存，地动仪的结构与性能不能直接由现代模型倒推。",
+      "eventIds": [
+        "cn-zhangheng-science"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第一节 科学技术的主要成就",
+          "lineStart": 82397,
+          "lineEnd": 82415
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "bangu",
+      "name": "班固",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "史学家、文学家",
+      "description": "班固编纂以西汉为对象的《汉书》，把帝纪、人物与表志结合起来；他的断代史书成为后世修史的重要参照。",
+      "contribution": "推进《汉书》纪传体断代史与地理、艺文等志书内容，丰富制度和知识史记录。",
+      "context": "作为东汉人书写西汉，需要在前代材料、朝廷环境与编纂结构间作取舍。",
+      "note": "不把史家安排的体例和论断视为历史本身，也不将成书归为一时一人完成。",
+      "eventIds": [
+        "cn-hanshu-compilation"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第三节 经学、史学和文学艺术",
+          "lineStart": 82605,
+          "lineEnd": 82617
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wangchong",
+      "name": "王充",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "思想家、《论衡》作者",
+      "description": "王充长期著述《论衡》，讨论知识来源、自然与人事关系，并批评谶纬及神怪解释，是东汉思想多样性的代表。",
+      "contribution": "通过论辩质疑部分天人感应和神怪说法，强调见闻与学习在知识形成中的作用。",
+      "context": "谶纬和经学具有广泛影响，他的批评也在当时儒学知识框架内展开。",
+      "note": "不能把王充简单变成现代科学家或全面反儒者；本书也强调其思想边界。",
+      "eventIds": [],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第二节 哲学思想和宗教迷信",
+          "lineStart": 82525,
+          "lineEnd": 82535
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhongjing",
+      "name": "张仲景",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "东汉末医学家",
+      "description": "张仲景总结前代与当时医学经验，相关著作经后世整理流传；其事迹是理解古代疾病认识与医疗知识积累的入口。",
+      "contribution": "汇集方剂和诊疗经验，形成后世中医学重要经典的基础，并由后人传抄整理。",
+      "context": "东汉末社会动荡与疾病问题构成背景，医学知识依赖长期经验和文本传承。",
+      "note": "本卡只作医学史展示，不将古代记载当成当代诊疗建议；生卒及传本须留边界。",
+      "eventIds": [],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第一节 科学技术的主要成就",
+          "lineStart": 82431,
+          "lineEnd": 82448
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhangjiao",
+      "name": "张角",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "太平道领袖",
+      "description": "张角通过太平道组织和传播活动聚集追随者，184年发动黄巾起义；他的经历连接宗教动员与东汉末社会危机。",
+      "contribution": "建立跨地区信众网络，在起义计划泄露后发动武装行动，多地响应形成黄巾战争。",
+      "context": "灾害、赋役和政治压力交织，宗教网络为民众提供组织与相互联系。",
+      "note": "不把宗教号召等同于现代政治纲领，也不以英雄或反派标签解释全部参与者。",
+      "eventIds": [
+        "cn-yellow-turbans"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十八章 黄巾大起义和东汉的灭亡",
+          "section": "第二节 “遐迩动摇，八州并起”的黄巾大起义",
+          "lineStart": 81529,
+          "lineEnd": 81644
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "douxian",
+      "name": "窦宪",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "东汉将领、外戚",
+      "description": "窦宪以外戚身份参与朝廷政治，并统军北击北匈奴；其军事作用与外戚权力背景，需放在同一时代中考察。",
+      "contribution": "89年与耿秉等率军作战，联合南匈奴力量，并留下燕然刻石记功的相关记载。",
+      "context": "对北匈奴战争与西域经营同时进行，军事胜利也与联盟和对手内部变化有关。",
+      "note": "不把北匈奴与欧洲匈人直接画成一条已确证迁徙线，也不以战功概括全部政治评价。",
+      "eventIds": [
+        "cn-ban-chao-west"
+      ],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第十五章 东汉前期的政治",
+          "section": "第三节 东汉前期的民族关系",
+          "lineStart": 80552,
+          "lineEnd": 80558
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "caocao",
+      "name": "曹操",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "汉末政治与军事人物",
+      "description": "曹操在东汉末年控制朝廷并扩展北方势力，推行屯田、组织战争；其身份与后来曹魏建国需要明确区分。",
+      "contribution": "以屯田支持军需，官渡取胜并逐步经营北方，也在赤壁南进时遭遇军事挫折。",
+      "context": "汉廷名义、地方武力与人口土地控制同时构成其政治资源。",
+      "note": "生前未称皇帝，不把后世小说中的奸雄或能臣形象当作完整历史结论。",
+      "eventIds": [
+        "cn-wei-tuntian",
+        "cn-guandu",
+        "cn-chibi",
+        "cn-wei-founded",
+        "cn-fancheng-jingzhou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83364,
+          "lineEnd": 83616
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yuanshao",
+      "name": "袁绍",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "汉末北方军事首领",
+      "description": "袁绍在汉末经营河北，依靠地方与士人网络形成重要势力，与曹操争夺北方，官渡战败后其集团仍有后续活动。",
+      "contribution": "组织河北势力与曹操作战，是理解官渡战争双方资源和内部结构的重要一方。",
+      "context": "门第声望、区域实力和继承安排共同影响其集团的组织能力。",
+      "note": "不以单纯优柔寡断解释战败，也不把200年一役视为袁氏势力即时完全消失。",
+      "eventIds": [
+        "cn-guandu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83464,
+          "lineEnd": 83532
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liubei",
+      "name": "刘备",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "蜀汉开国皇帝",
+      "description": "刘备在汉末战争中辗转发展，取得益州、汉中后建立蜀汉；与孙吴既联合又冲突，不能只用桃园故事理解其经历。",
+      "contribution": "建立以成都为中心的蜀汉政权，参与赤壁联盟，东征孙吴则在夷陵受到重挫。",
+      "context": "外来军事集团与益州地方资源结合，是其立国与治理的重要条件。",
+      "note": "桃园结义等情节属于小说传统；不把东征成败完全归结为个人情绪。",
+      "eventIds": [
+        "cn-chibi",
+        "cn-shu-founded",
+        "cn-yiling"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第三节 蜀汉的兴起与衰亡",
+          "lineStart": 83644,
+          "lineEnd": 83734
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "sunquan",
+      "name": "孙权",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "孙吴开国皇帝",
+      "description": "孙权继承江东基业，依靠将领和地方力量维持长江下游统治，229年称帝；其时代兼有战争、开发与对外往来。",
+      "contribution": "领导江东政权应对曹操南进，逐步建立吴朝，并组织水利、交通和地方治理。",
+      "context": "江东大族、迁入人口与军需供给共同支撑吴的政权组织。",
+      "note": "不把江南开发全部归于君主，也不把吴蜀关系简化为长期不变的联盟。",
+      "eventIds": [
+        "cn-chibi",
+        "cn-three-coexist",
+        "cn-yiling",
+        "cn-fancheng-jingzhou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第四节 吴在东南的开发",
+          "lineStart": 83824,
+          "lineEnd": 83868
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhouyu",
+      "name": "周瑜",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "孙吴将领",
+      "description": "周瑜在孙氏江东集团中承担重要军政职责，208年参与抵御曹操南进；其历史作用应与小说中的竞争形象分开。",
+      "contribution": "支持孙权抗曹并统军参与赤壁作战，为江东政权在长江流域的立足争取条件。",
+      "context": "曹操南下使江东面临战略抉择，联合力量和水战条件都影响战争。",
+      "note": "不采纳小说中嫉妒诸葛亮而死的叙述，也不把联军胜利归为单人神机。",
+      "eventIds": [
+        "cn-chibi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83534,
+          "lineEnd": 83588
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "luxun",
+      "name": "陆逊",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "孙吴将领、政治人物",
+      "description": "陆逊出身江东陆氏，先后承担地方和军事事务；夷陵指挥作战是其代表性经历，也体现孙吴依靠地方大族的政治条件。",
+      "contribution": "222年统领吴军抵御刘备东征，利用战场条件击败蜀军，后来继续承担吴国军政事务。",
+      "context": "面对吴蜀冲突，需要在兵力配置、补给与作战时机之间作选择。",
+      "note": "不以一场火攻概括全部生涯，也不将贵族身份等同于所有江东居民的利益。",
+      "eventIds": [
+        "cn-yiling"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第三节 蜀汉的兴起与衰亡",
+          "lineStart": 83724,
+          "lineEnd": 83734
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhugeliang",
+      "name": "诸葛亮",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "蜀汉丞相",
+      "description": "诸葛亮参与刘备集团建国，并在刘备去世后主持蜀汉政务和北伐，治理与军需组织同样是其历史角色的重要部分。",
+      "contribution": "整顿蜀汉政务、组织多次北伐，处理军粮运输与前线部署，使国家治理和战争联系紧密。",
+      "context": "蜀汉人口、财力与运输条件有限，政策选择始终受到资源约束。",
+      "note": "空城计等流行故事不直接用作史实；不把未能统一归结为天命或一人得失。",
+      "eventIds": [
+        "cn-shu-founded",
+        "cn-zhuge-northern-campaigns"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第三节 蜀汉的兴起与衰亡",
+          "lineStart": 83734,
+          "lineEnd": 83780
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "simayi",
+      "name": "司马懿",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "曹魏重臣、将领",
+      "description": "司马懿长期参与曹魏军政，抵御蜀汉北伐，并在249年高平陵政变后控制中枢，成为司马氏权力扩展的关键人物。",
+      "contribution": "组织对蜀军事防御，在高平陵政变中夺取曹爽集团权力，为家族后续掌权奠定基础。",
+      "context": "曹魏辅政结构与军事资源结合，使宫廷内的竞争可以转成武装政变。",
+      "note": "司马懿生前并未建立晋朝，不以忍者或阴谋家标签代替具体政治过程。",
+      "eventIds": [
+        "cn-zhuge-northern-campaigns",
+        "cn-gaopingling"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第五节 曹魏的经济与政治",
+          "lineStart": 84138,
+          "lineEnd": 84158
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wangjun-jin",
+      "name": "王濬",
+      "periodIds": [
+        "western-jin"
+      ],
+      "role": "西晋将领",
+      "description": "王濬在蜀地组织造船，279—280年率水军顺长江而下，是晋灭吴多路作战中的重要将领，也体现上游水战条件。",
+      "contribution": "预备舰船与水军，自上游推进并参与攻入建业，使水道优势进入统一战争。",
+      "context": "晋吴在长江上下游争夺交通与防御条件，造船和补给同样关键。",
+      "note": "姓名为濬；不与西晋末幽州的王浚混淆，也不将多路灭吴写成单人功业。",
+      "eventIds": [
+        "cn-jin-conquer-wu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第四节 吴在东南的开发",
+          "lineStart": 83904,
+          "lineEnd": 83906
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "duyu",
+      "name": "杜预",
+      "periodIds": [
+        "western-jin"
+      ],
+      "role": "西晋将领、学者",
+      "description": "杜预参与晋灭吴战争，率军从荆州方向推进，与上游水军及其他军路协同；其生涯还兼有经学研究的一面。",
+      "contribution": "在279—280年伐吴中攻取江陵等地，与多路晋军共同改变长江流域军事格局。",
+      "context": "对吴战争依赖跨地区协同，不能只以一处胜负解释全国政权转移。",
+      "note": "本卡重点据所读正文介绍其军事作用，不据此编造个人战术对白或心理。",
+      "eventIds": [
+        "cn-jin-conquer-wu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第四节 吴在东南的开发",
+          "lineStart": 83904,
+          "lineEnd": 83906
+        },
+        {
+          "volume": 7,
+          "chapter": "第十一章 魏晋南北朝的经学、史学与文学艺术",
+          "section": "第一节 经学与历史、地理著作",
+          "lineStart": 93644,
+          "lineEnd": 93644
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "jiananfeng",
+      "name": "贾南风",
+      "periodIds": [
+        "western-jin"
+      ],
+      "role": "晋惠帝皇后",
+      "description": "贾南风在西晋宫廷权力斗争中结盟并打击对手，291年政变是八王之乱的开端之一，后来又被宗王集团推翻。",
+      "contribution": "参与清除杨骏集团并掌握朝政，其政治行动与宗室、外戚和中枢权力配置紧密相关。",
+      "context": "司马衷继位后辅政与宫廷结构不稳，不同集团争夺皇帝周边的权力。",
+      "note": "不采用丑化容貌和单一恶后叙事解释十余年内战，也不抹去其他宗王的责任。",
+      "eventIds": [
+        "cn-eight-princes"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第三章 西晋的暂时统一及其崩溃",
+          "section": "第二节 西晋的黑暗统治与“八王之乱”",
+          "lineStart": 85184,
+          "lineEnd": 85234
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "simazhong",
+      "name": "司马衷",
+      "periodIds": [
+        "western-jin"
+      ],
+      "role": "晋惠帝",
+      "description": "司马衷在290年继位后经历宫廷和宗王集团反复争夺，皇帝名义被不同力量利用，是八王之乱政治结构的核心位置。",
+      "contribution": "其在位期间的废立、迁徙和受制状况，显示皇帝名位与实际军政控制可以分离。",
+      "context": "统治者争夺中枢时往往同时争夺皇帝所在地点与诏令名义。",
+      "note": "不以何不食肉糜等单个轶闻替代全部史实，也不作缺乏依据的现代医学诊断。",
+      "eventIds": [
+        "cn-eight-princes"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第三章 西晋的暂时统一及其崩溃",
+          "section": "第二节 西晋的黑暗统治与“八王之乱”",
+          "lineStart": 85192,
+          "lineEnd": 85276
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "simaye",
+      "name": "司马邺",
+      "periodIds": [
+        "western-jin"
+      ],
+      "role": "晋愍帝",
+      "description": "司马邺在洛阳失守后于长安继位，依靠关中残存力量维持西晋朝廷，316年城破被俘，成为西晋终结的关键人物。",
+      "contribution": "在关中组织晋室临时政权，试图维系军政与地方支持，却无法改变围困和资源困竭。",
+      "context": "长安人口、粮食和军力不足，地方武装关系也使朝廷处境艰难。",
+      "note": "西晋亡于316年，不将翌年遇害混作国家终结日；个人处境不代表全部流民经历。",
+      "eventIds": [
+        "cn-jin-end"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第三章 西晋的暂时统一及其崩溃",
+          "section": "第二节 西晋的黑暗统治与“八王之乱”",
+          "lineStart": 85284,
+          "lineEnd": 85284
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wangdao",
+      "name": "王导",
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "role": "东晋重臣",
+      "description": "王导帮助司马睿联系北来与江东大族，参与东晋中枢组织；他的作用体现门阀网络与皇朝名义的结合和张力。",
+      "contribution": "协调司马睿与顾荣、贺循等江南地方力量的关系，为东晋建国争取政治支持。",
+      "context": "政权初建时需要解决外来军事政治集团与江东本地势力的相互接纳。",
+      "note": "王与马共天下是权力格局的概括，不表示王氏家族内部始终一致。",
+      "eventIds": [
+        "cn-easternjin-start"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第五章 东晋王朝的建立及其政治",
+          "section": "第一节 北方世家大族的南渡与东晋王朝的建立",
+          "lineStart": 86650,
+          "lineEnd": 86652
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zuti",
+      "name": "祖逖",
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "role": "东晋时期北进将领",
+      "description": "祖逖由组织南渡部众转入河南经营，北进活动兼有征战、招募、生产和互市；其经历连接流民社会与军事组织。",
+      "contribution": "313年起北进并联合地方坞堡力量，争取军需和人口支持，在河南形成一定影响。",
+      "context": "军队初期依赖有限支援与自行组织，地方联系和粮饷尤其重要。",
+      "note": "不把个人北伐等同于东晋朝廷有能力持续控制全部北方，也不作精确疆界承诺。",
+      "eventIds": [
+        "cn-zuti-north"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第五章 东晋王朝的建立及其政治",
+          "section": "第一节 北方世家大族的南渡与东晋王朝的建立",
+          "lineStart": 86656,
+          "lineEnd": 86684
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "huanwen",
+      "name": "桓温",
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "role": "东晋执政重臣、将领",
+      "description": "桓温既参与军事行动，也主持户籍整理与庚戌土断；其军政权力显示东晋皇朝中将领集团与中枢的复杂关系。",
+      "contribution": "364年推行土断，整顿侨民和隐匿户口问题，将更多人口纳入朝廷赋役管理。",
+      "context": "侨置制度与人口散居、豪族荫庇交织，清查触动不同集团的现实利益。",
+      "note": "本卡只据具体政策说明作用，不把税收增加等同于所有迁居者的生活改善。",
+      "eventIds": [
+        "cn-gengxu-soil-registration"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第五章 东晋王朝的建立及其政治",
+          "section": "第二节 北方流民的南下与东晋政府的对策",
+          "lineStart": 86940,
+          "lineEnd": 86960
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liuyuan",
+      "name": "刘渊",
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "role": "十六国汉国建立者",
+      "description": "刘渊在西晋内战中组织匈奴等力量，304年称汉王，308年称帝；其国号和政治主张体现北方政权竞争的多样性。",
+      "contribution": "建立以汉为号的政权，并通过军政组织扩展势力，为其后汉赵政权的演变奠定基础。",
+      "context": "西晋宗王彼此利用外部武力，地方战争为新政权兴起提供条件。",
+      "note": "刘渊去世早于311年洛阳陷落，不将其写成永嘉破城的亲自指挥者。",
+      "eventIds": [
+        "cn-liuyuan-han"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第四章 十六国",
+          "section": "第一节 胡羯的建国",
+          "lineStart": 85461,
+          "lineEnd": 85471
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liuyu",
+      "name": "刘裕",
+      "periodIds": [
+        "north-south",
+        "eastern-jin"
+      ],
+      "role": "刘宋开国皇帝",
+      "description": "刘裕由东晋北府军事系统崛起，镇压对手并组织北伐，420年代晋建立刘宋，其生涯连接东晋晚期与南朝开端。",
+      "contribution": "掌握军政后推进北伐与内部整合，最终建立宋朝，使南方皇朝进入新的更替序列。",
+      "context": "新兴军事集团逐步取代旧有中枢格局，但仍需面对门阀与地方关系。",
+      "note": "刘宋不同于北宋、南宋；北伐成果并未都能长期保留，不能用收复版图概括治理。",
+      "eventIds": [
+        "cn-liusong-founded"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第六章 南朝的政治与经济",
+          "section": "第一节 宋初内政及北强南弱局势的形成",
+          "lineStart": 87335,
+          "lineEnd": 87401
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "tuobatao",
+      "name": "拓跋焘",
+      "periodIds": [
+        "north-south"
+      ],
+      "role": "北魏太武帝",
+      "description": "拓跋焘统治时期北魏消灭多个北方政权，439年灭北凉形成南北对峙；其时代也涉及强制迁徙、征战和宗教冲突。",
+      "contribution": "以连续军事兼并扩大北魏势力，完成北方大部整合，使治理多地区社会成为国家核心任务。",
+      "context": "骑兵军力与被兼并地区资源共同扩大国家规模，统治整合仍面临多重矛盾。",
+      "note": "北方统一不等于全国统一，不将军事成就概括为被征服地区民众一致受益。",
+      "eventIds": [
+        "cn-northwei-unify"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第一节 北魏初期的社会性质",
+          "lineStart": 89202,
+          "lineEnd": 89206
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "lichong",
+      "name": "李冲",
+      "periodIds": [
+        "north-south"
+      ],
+      "role": "北魏改革重臣",
+      "description": "李冲参与北魏地方与朝廷制度调整，本书以三长、户籍和议定衣冠等事务呈现其作用，显示改革需要官员协作与执行。",
+      "contribution": "参与三长制及人口赋役组织的讨论，也参与朝廷衣冠规范的制定与制度落实。",
+      "context": "隐匿户口、地方大族与朝廷治理需求相互纠缠，政策须转成具体程序。",
+      "note": "不把各项改革都归其独自设计；其观点和作用仍应按具体政策材料分别考察。",
+      "eventIds": [
+        "cn-northwei-equalland",
+        "cn-luoyang-494"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第二节 北魏孝文帝的均田、迁都与改革",
+          "lineStart": 89456,
+          "lineEnd": 89502
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "xiaoyan",
+      "name": "萧衍",
+      "periodIds": [
+        "north-south"
+      ],
+      "role": "梁武帝",
+      "description": "萧衍建立梁朝并长期统治，重视佛教与文化活动；其晚年侯景之乱重创建康，须将政治、宗教和社会条件结合考察。",
+      "contribution": "在南朝长期主持国家与文化事务，晚年的侯景关系处理和建康围困成为梁朝转折。",
+      "context": "梁朝的地方、军事和财政矛盾与北方势力的介入相互交织。",
+      "note": "不能只用佞佛或个人昏庸解释梁亡，也不把文学宗教繁荣当作人人生活富足。",
+      "eventIds": [
+        "cn-houjing-liang-chen"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第六章 南朝的政治与经济",
+          "section": "第四节 侯景乱梁与南朝的再削弱",
+          "lineStart": 88083,
+          "lineEnd": 88247
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "houjing",
+      "name": "侯景",
+      "periodIds": [
+        "north-south"
+      ],
+      "role": "南北朝军事首领",
+      "description": "侯景原在北方军政竞争中活动，归梁后起兵，围困并控制建康，548—552年的战争严重冲击梁朝统治及江南社会。",
+      "contribution": "利用南北政权矛盾进入梁朝，再发动战争夺取中枢，最终在反击中败亡。",
+      "context": "军人集团的流动与朝廷内部冲突给其扩展机会，围城又造成广泛破坏。",
+      "note": "不以人物残暴标签替代政治背景，也不淡化围城与战争对普通居民的灾难。",
+      "eventIds": [
+        "cn-houjing-liang-chen"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第六章 南朝的政治与经济",
+          "section": "第四节 侯景乱梁与南朝的再削弱",
+          "lineStart": 88095,
+          "lineEnd": 88247
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "chenbaxian",
+      "name": "陈霸先",
+      "periodIds": [
+        "north-south"
+      ],
+      "role": "南朝陈开国皇帝",
+      "description": "陈霸先参与平定侯景及随后南朝权力竞争，557年建立陈朝；其政权统治范围比梁盛时收缩，是南朝最后一代皇朝。",
+      "contribution": "平定乱事、抵抗北方军队介入后组织陈朝，使江南出现新的政治中心和军政安排。",
+      "context": "梁后江南受战乱破坏，不同军事集团争权，南北实力差距也在变化。",
+      "note": "陈朝不等于整个南北朝，不能以陈后主后来的处境倒推陈霸先全部统治。",
+      "eventIds": [
+        "cn-houjing-liang-chen"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第六章 南朝的政治与经济",
+          "section": "第五节 陈王朝的建立与衰亡",
+          "lineStart": 88249,
+          "lineEnd": 88259
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yuwenyong",
+      "name": "宇文邕",
+      "periodIds": [
+        "north-south"
+      ],
+      "role": "北周武帝",
+      "description": "宇文邕在北周强化军政控制，处理寺院经济与军队组织，577年灭北齐；其生涯连接北方重组与隋统一的前置条件。",
+      "contribution": "整顿北周政治军事力量，运用外交与多路作战消灭北齐，接收北方大部资源。",
+      "context": "北周与北齐对峙中，府兵、均田、财政及盟友选择都影响国力。",
+      "note": "不将灭佛单独当作战争取胜原因，也不把577年的北方统一写作全国统一。",
+      "eventIds": [
+        "cn-northzhou-conquer-qi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第七章 北朝的政治与经济",
+          "section": "第五节 西魏与北周的政治",
+          "lineStart": 90370,
+          "lineEnd": 90430
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "jiasixie",
+      "name": "贾思勰",
+      "periodIds": [
+        "north-south"
+      ],
+      "role": "农学家、官员",
+      "description": "贾思勰通过整理古籍、访问农人和观察实践编写《齐民要术》，内容从耕作畜养到加工食物，反映北方生产知识的积累。",
+      "contribution": "把田间和生活经验系统编入农书，使农业与日常技艺获得可传递、可讨论的文本形式。",
+      "context": "长期人口与土地变化中，稳定生产和保存经验具有现实价值。",
+      "note": "书中技艺有地域和时代边界，不当作所有地区同时采用的统一农业手册。",
+      "eventIds": [
+        "cn-qimin-agronomy"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第十二章 魏晋南北朝的科学技术",
+          "section": "第三节 农学与医药学",
+          "lineStart": 95949,
+          "lineEnd": 95955
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zuchongzhi",
+      "name": "祖冲之",
+      "periodIds": [
+        "north-south"
+      ],
+      "role": "数学家、天文学家",
+      "description": "祖冲之活跃于南朝宋齐时期，在前人基础上推进圆周率计算和天文历法；其知识创新与官方采用之间存在时间差。",
+      "contribution": "推算更精密的圆周率，并于462年编成《大明历》，提出历法计算的重要调整。",
+      "context": "技术成果需要通过材料、计算和评议进入制度应用，不是提出即刻通行。",
+      "note": "不同成果不可混为一项实验；圆周率计算工具与过程不能无证据复原。",
+      "eventIds": [
+        "cn-zuchong-calendar"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第十二章 魏晋南北朝的科学技术",
+          "section": "第一节 数学、天文学与地图学",
+          "lineStart": 95677,
+          "lineEnd": 95807
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yangguang",
+      "name": "隋炀帝",
+      "periodIds": [
+        "sui"
+      ],
+      "role": "隋代皇帝",
+      "description": "隋炀帝杨广统治期间推进东都与多段运河建设，开展大规模对外战争；国家动员与社会负担同时构成其时代。",
+      "contribution": "推进跨地区交通和都城建设，也连续远征高句丽，深刻影响隋朝的财政与政治局势。",
+      "context": "统一王朝的宏大工程与军队需要大量粮运和劳力，地方压力随之累积。",
+      "note": "不将全部长期交通收益归为个人功劳，也不把隋亡简化为单项工程或性格问题。",
+      "eventIds": [
+        "cn-sui-canal",
+        "cn-sui-selection",
+        "cn-sui-koguryo",
+        "cn-sui-collapse"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第三节 隋炀帝大兴土木与开凿运河",
+          "lineStart": 97019,
+          "lineEnd": 97154
+        },
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第四节 隋末农民大起义与隋王朝的倾覆",
+          "lineStart": 97155,
+          "lineEnd": 97191
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yuwenkai",
+      "name": "宇文恺",
+      "periodIds": [
+        "sui"
+      ],
+      "role": "隋代工程主持者",
+      "description": "宇文恺参与隋代大型工程，本书记述其率水工凿广通渠及参与东都营建；技术组织是国家建设不可缺少的一环。",
+      "contribution": "584年率水工开广通渠，后来参与东都建设，连接工程规划、实施与都城供给需要。",
+      "context": "水道和城市建设依靠工匠、役作者、物资与行政组织的协作。",
+      "note": "不把隋代全部运河或都城归于他独自设计，更不忽略广大劳动者。",
+      "eventIds": [
+        "cn-sui-canal"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第三节 隋炀帝大兴土木与开凿运河",
+          "lineStart": 97045,
+          "lineEnd": 97075
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yangsu",
+      "name": "杨素",
+      "periodIds": [
+        "sui"
+      ],
+      "role": "隋代将领、重臣",
+      "description": "杨素在隋朝承担军事与中枢职务，参与灭陈及其后政治活动，也参与东都营建；其作用跨越战争、行政和宫廷关系。",
+      "contribution": "参与南下灭陈，长期担任重臣，并在隋炀帝时期承担东都建设的高层组织工作。",
+      "context": "隋朝统一和国家建设依赖关陇政治军事集团，也不断出现中枢权力竞争。",
+      "note": "不把杨素与其子杨玄感的起兵混为一人一事；评价须分别看具体活动。",
+      "eventIds": [
+        "cn-sui-unify"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第四节 隋末农民大起义与隋王朝的倾覆",
+          "lineStart": 97215,
+          "lineEnd": 97217
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "limi",
+      "name": "李密",
+      "periodIds": [
+        "sui"
+      ],
+      "role": "隋末瓦岗军领袖",
+      "description": "李密先参与杨玄感起兵，后加入并领导瓦岗军，成为隋末争夺洛阳等地的重要力量；其身份和联盟随战争多次变化。",
+      "contribution": "组织瓦岗势力参与隋末战争，围绕粮仓、都城与各方政治联系展开争夺。",
+      "context": "各路起事军、旧官僚和地方武装彼此合作竞争，军粮与民心同样影响力量。",
+      "note": "不把瓦岗军当作从始至终结构不变的集团，也不以成败抹去其阶段性影响。",
+      "eventIds": [
+        "cn-sui-collapse"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第四节 隋末农民大起义与隋王朝的倾覆",
+          "lineStart": 97215,
+          "lineEnd": 97361
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "doujiande",
+      "name": "窦建德",
+      "periodIds": [
+        "sui"
+      ],
+      "role": "隋末河北军事首领",
+      "description": "窦建德由隋末河北起事集团中发展起来，逐步联合并兼并周边力量，与唐等政权竞争，成为隋唐转折的重要人物。",
+      "contribution": "组织河北及周边军事力量，在隋末唐初争夺中建立地区性政权并持续扩大影响。",
+      "context": "北方社会承受征发、饥荒和战乱，各地民众与武装寻求新的组织依托。",
+      "note": "其活动延续到621年，不把618年隋亡当作个人政治军事生涯终点。",
+      "eventIds": [
+        "cn-sui-collapse"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第一章 隋代的政治与经济",
+          "section": "第四节 隋末农民大起义与隋王朝的倾覆",
+          "lineStart": 97203,
+          "lineEnd": 97207
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "weizheng",
+      "name": "魏征",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐初重臣、谏官",
+      "description": "魏征原属李建成集团，后受唐太宗重用，以进谏与讨论治理见称；其活动体现唐初用人与谏议机制的重要一面。",
+      "contribution": "以隋亡教训、民力和兼听等议题规谏皇帝，对宫室建设、征发与施政提出具体意见。",
+      "context": "皇帝需要掌握地方和政策问题，官员进言又受君臣关系与实际权力限制。",
+      "note": "进谏不是每次都被采纳；不把镜子等流传名句当作完整政治制度说明。",
+      "eventIds": [
+        "cn-zhenguan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第一节 唐王朝的创建",
+          "lineStart": 97744,
+          "lineEnd": 97768
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wuzetian",
+      "name": "武则天",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "周朝建立者、女皇帝",
+      "description": "武则天从参与唐廷政治逐步掌权，690年改国号周并称帝，705年退位；她的统治同时涉及选官、政治控制与制度延续。",
+      "contribution": "建立周朝并扩大新进官员进入中枢的机会，围绕皇权与官僚组织进行多项政治调整。",
+      "context": "皇室、门第和新兴官员之间的力量变化，为其掌权与治理提供复杂条件。",
+      "note": "不采纳宫廷杀子等未经充分证实传闻作确定事实，也不因性别作单向褒贬。",
+      "eventIds": [
+        "cn-wuzhou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第二节 唐高宗的统治与武周的改制",
+          "lineStart": 97822,
+          "lineEnd": 97960
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "anlushan",
+      "name": "安禄山",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐代节度使、叛乱首领",
+      "description": "安禄山在唐东北军事体系中掌握多镇兵力，755年起兵反唐；其集团内部又继续发生争权和更替，战争延续多年。",
+      "contribution": "发动对唐朝中枢的战争并控制两京等地区，打破原有政治军事平衡，造成深远破坏。",
+      "context": "地方军权集中、中枢信任和财政军需安排，构成其扩张的制度条件。",
+      "note": "不以族群出身解释叛乱，也不把其755年起兵与整个安史战争结束混为一时。",
+      "eventIds": [
+        "cn-an-shi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第三节 开元天宝的全盛时期与安史之乱",
+          "lineStart": 98180,
+          "lineEnd": 98238
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "guoziyi",
+      "name": "郭子仪",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐代将领",
+      "description": "郭子仪在安史战争中承担朔方等军队的重要指挥任务，参与收复和防御；其作用须放在多支军队协作及朝廷关系中理解。",
+      "contribution": "率军应对安史叛军并参与战争后国家防御，为唐朝维持和恢复统治发挥重要作用。",
+      "context": "军事行动与粮饷、中枢调度、盟军关系相互牵连，胜利并非单将独立完成。",
+      "note": "不把其个人功绩等同于藩镇问题全部解决，也不将传奇化寿福故事替代战事。",
+      "eventIds": [
+        "cn-an-shi"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第三节 开元天宝的全盛时期与安史之乱",
+          "lineStart": 98194,
+          "lineEnd": 98238
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yangyan",
+      "name": "杨炎",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐代宰相、财政改革者",
+      "description": "杨炎面对战后户籍、土地和税目失序提出两税法，780年由唐德宗采纳，其改革连接财政需要与社会经济变化。",
+      "contribution": "提出整理税目、按现居与财产等核定并分夏秋征收的方案，改变旧有财政组织方式。",
+      "context": "战争和人口流动冲击租庸调运行，国家需要重建能够持续征收的财政基础。",
+      "note": "两税不是仅征两种税，也不能把制度文本直接理解为所有农民负担下降。",
+      "eventIds": [
+        "cn-two-taxes"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第三章 唐代的经济",
+          "section": "第二节 租庸调制的破坏与两税法的实施",
+          "lineStart": 100343,
+          "lineEnd": 100381
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "huangchao",
+      "name": "黄巢",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐末起义军领袖",
+      "description": "黄巢由唐末起事中发展，率部辗转南北并进入长安建立大齐，随后在围攻、分化和战争中失败，深刻影响晚唐格局。",
+      "contribution": "组织跨地区军事行动并冲击唐廷中枢，使晚唐财政、藩镇及社会危机进一步集中显现。",
+      "context": "起义军、朝廷和各地军人集团既争夺资源，也反复吸纳或分化彼此部众。",
+      "note": "不因反抗身份浪漫化暴力，也不把唐亡写成黄巢一人造成或在884年已经发生。",
+      "eventIds": [
+        "cn-huangchao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第七章 唐末农民大起义与唐王朝的衰亡",
+          "section": "第二节 唐末农民大起义",
+          "lineStart": 108585,
+          "lineEnd": 108715
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "xuanzang",
+      "name": "玄奘",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "佛教僧人、译经者",
+      "description": "玄奘西行求学，返唐后主持翻译并留下域外地理与社会记述；其工作连接佛学、语言学习和跨地区知识交换。",
+      "contribution": "在南亚求学、收集经论，返唐组织译经，并口述形成《大唐西域记》的重要内容。",
+      "context": "长途交通依赖多地政治与接待条件，翻译和记录也须依靠团队合作。",
+      "note": "不把《西游记》的艺术形象当作本人经历；行旅起年有研究讨论，此处采用629年口径。",
+      "eventIds": [
+        "cn-xuanzang-trip"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第六章 唐与各国经济文化交流的扩大",
+          "section": "第三节 唐与南亚各国的经济文化交流",
+          "lineStart": 107324,
+          "lineEnd": 107324
+        }
+      ],
+      "sourceIds": [
+        "v5-xian-xuanzang"
+      ],
+      "coreEntry": true,
+      "scope": "china"
+    },
+    {
+      "id": "jianzhen",
+      "name": "鉴真",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐代僧人、赴日传戒者",
+      "description": "鉴真在多次东渡尝试后到达日本，传授戒律并携带经籍和文化材料；其经历展现唐日交流的海路条件和宗教网络。",
+      "contribution": "在日本传戒与培养僧人，也参与经籍、书法和相关文化交流，形成长期影响。",
+      "context": "使团、船舶、僧侣和两地接待共同支持跨海活动，航行充满实际风险。",
+      "note": "753与754涉及不同航程节点及纪年，不把所有日本文化变化都归于他一人。",
+      "eventIds": [
+        "cn-jianzhen-japan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第六章 唐与各国经济文化交流的扩大",
+          "section": "第一节 唐与海东各国的经济文化交流",
+          "lineStart": 106916,
+          "lineEnd": 106974
+        }
+      ],
+      "sourceIds": [
+        "v5-embassy-jianzhen"
+      ],
+      "coreEntry": true,
+      "scope": "china"
+    },
+    {
+      "id": "wencheng",
+      "name": "文成公主",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐蕃和亲公主",
+      "description": "文成公主641年入蕃，与吐蕃赞普松赞干布成婚，成为唐蕃政治关系与文化交流的重要人物，也产生丰富的后世记忆。",
+      "contribution": "作为和亲使团的重要成员参与唐蕃联系，其经历连接人员、物品和文化观念的往来。",
+      "context": "唐蕃既有协商联姻也有军事竞争，交流并非始终只有单一和平模式。",
+      "note": "不把后世传说中的全部技术和器物清单当作亲自带入的实证，也不抹去吐蕃本地发展。",
+      "eventIds": [
+        "cn-wencheng"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第五章 唐代少数民族社会经济的发展与民族关系的加强",
+          "section": "第四节 唐代西方及西南各族社会经济的发展",
+          "lineStart": 106439,
+          "lineEnd": 106445
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "libai",
+      "name": "李白",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐代诗人",
+      "description": "李白的漫游、交往与仕宦经历进入诗歌创作，作品表现个人理想、山川经验及时代变化，其文化形象又经后世不断塑造。",
+      "contribution": "发展富有想象力和鲜明个人声音的诗歌，以旅行、交游和政治遭际拓展唐代文学表达。",
+      "context": "盛唐社会流动与士人求仕提供活动空间，安史战争又改变其个人处境。",
+      "note": "不把诗中夸张与传说当作实地纪行，出生地等争议也不在本卡强作唯一判断。",
+      "eventIds": [
+        "cn-tang-poetry-li-du"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第十章 隋唐五代的文学艺术与科学技术",
+          "section": "第一节 隋唐五代的诗歌与民间文学",
+          "lineStart": 113798,
+          "lineEnd": 113828
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "baijuyi",
+      "name": "白居易",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "中唐诗人、官员",
+      "description": "白居易参与中唐政治与文学活动，提倡具有讽喻和社会内容的诗歌，仕宦升沉又与他的写作和公共表达密切相连。",
+      "contribution": "倡导新乐府和讽喻诗，以较易理解的语言关注赋税、劳作和政治问题，扩大文学议论空间。",
+      "context": "元和时期中央与地方问题持续，官员进言和文学表达均受到政治环境限制。",
+      "note": "不以老妪能解等轶闻概括全部文风，也不把诗中人物当成所有民众的统计样本。",
+      "eventIds": [
+        "cn-new-yuefu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第十章 隋唐五代的文学艺术与科学技术",
+          "section": "第一节 隋唐五代的诗歌与民间文学",
+          "lineStart": 115522,
+          "lineEnd": 115550
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "tang-xianzong",
+      "name": "唐宪宗",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐代皇帝",
+      "description": "唐宪宗在元和时期强化对部分藩镇的控制，通过战争、任官和财政调度谋求中枢整合，但地方和宦官问题仍然存在。",
+      "contribution": "坚持对淮西等镇用兵，支持裴度等人组织军事行动，使朝廷权力一度获得加强。",
+      "context": "藩镇控制交通与税源，中枢既需军事资源，也面临征费和宫廷权力的限制。",
+      "note": "元和中兴不表示藩镇根除或全国人民生活普遍改善，也不当作长期稳定的最终完成。",
+      "eventIds": [
+        "cn-yuanhe"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第二章 唐王朝的建立与唐代政治",
+          "section": "第四节 宪穆敬文武宣六朝的政治",
+          "lineStart": 98930,
+          "lineEnd": 99058
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "tang-wuzong",
+      "name": "唐武宗",
+      "periodIds": [
+        "tang"
+      ],
+      "role": "唐代皇帝",
+      "description": "唐武宗统治时朝廷对寺院、僧尼及相关财产实施大规模限制，宗教政策、军事财政和皇帝信仰取向共同影响施政。",
+      "contribution": "在会昌年间推动裁寺还俗和财产接收，改变宗教机构与国家赋役、土地管理的关系。",
+      "context": "战争支出、寺院经济与道教影响等条件并存，政策在不同地区执行不一。",
+      "note": "不将抑佛称为只有利无害的财政成绩，也不把复杂动机简化为个人信仰一因。",
+      "eventIds": [
+        "cn-huichang-buddhism"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第九章 隋唐五代的学术与宗教",
+          "section": "第二节 隋唐五代的哲学思想与宗教神学",
+          "lineStart": 113019,
+          "lineEnd": 113037
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "guanyu",
+      "name": "关羽",
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "role": "汉末刘备部将",
+      "description": "关羽长期随刘备活动并镇守荆州，219年北攻襄樊后在孙吴袭取后方时败亡；其历史角色与后来信仰、小说形象须区分。",
+      "contribution": "参与刘备集团在荆州的军事经营，发动襄樊攻势，其成败深刻影响吴蜀关系和地方控制。",
+      "context": "处在曹操、孙权与刘备势力交界，前线部署和盟友关系同样重要。",
+      "note": "不将武圣形象、桃园结义等后世文化直接当作史实，也不以骄傲单因解释失利。",
+      "eventIds": [
+        "cn-fancheng-jingzhou"
+      ],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第一章 三国分立",
+          "section": "第二节 曹操的统一北方",
+          "lineStart": 83594,
+          "lineEnd": 83602
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "huatuo",
+      "name": "华佗",
+      "periodIds": [
+        "eastern-han"
+      ],
+      "role": "汉末医者",
+      "description": "华佗在传世史籍中以方药、针灸及导引等医疗活动见称，相关记述是认识汉末医学知识与医者形象的重要材料。",
+      "contribution": "本书记述其用药、针灸与五禽戏等活动；对传说中的外科能力仍须保留实证边界。",
+      "context": "东汉末疾病与求医情境中，经验积累和后世叙事共同塑造其历史形象。",
+      "note": "麻沸散方与原手术器械不存，不据旧书推断当时已可施行现代式脑外科手术。",
+      "eventIds": [],
+      "bookRefs": [
+        {
+          "volume": 6,
+          "chapter": "第二十章 秦汉时代的科学技术和思想文化",
+          "section": "第一节 科学技术的主要成就",
+          "lineStart": 82448,
+          "lineEnd": 82454
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "taoyuanming",
+      "name": "陶渊明",
+      "periodIds": [
+        "eastern-jin",
+        "north-south"
+      ],
+      "role": "晋宋之际诗人",
+      "description": "陶渊明经历东晋末至刘宋初，诗文将田园劳动、亲友交往和个人选择写入日常经验，以朴素语言形成独特风格。",
+      "contribution": "以《归园田居》《饮酒》《桃花源诗并记》等表现耕读生活与理想社会，扩展山林田园书写。",
+      "context": "退居田园并不意味着没有生计压力；其生活和写作仍与时代社会联系。",
+      "note": "跨越晋宋，不将全部作品限定在东晋；文学中的理想田园不等于农村普遍纪实，也不照搬原书对归隐的单向贬评。",
+      "eventIds": [],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第十一章 魏晋南北朝的经学、史学与文学艺术",
+          "section": "第二节 文学",
+          "lineStart": 94478,
+          "lineEnd": 94514
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "gukaizhi",
+      "name": "顾恺之",
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "role": "东晋画家",
+      "description": "顾恺之重视人物画中的神情与性格，也关注环境如何烘托人物；其相关画论和后世传摹，为欣赏早期人物画提供重要线索。",
+      "contribution": "重视人物神情与环境对性格的表达，其相关画论及后世传摹成为理解早期人物画的线索。",
+      "context": "士人交往、人物评价和绘画实践彼此相连，艺术也参与呈现人的身份与性格。",
+      "note": "相关传本的年代与归属须分别辨析，不将《女史箴图》等传摹作品直接标作顾恺之原迹，也不把点睛轶闻当作技术实证。",
+      "eventIds": [],
+      "bookRefs": [
+        {
+          "volume": 7,
+          "chapter": "第十一章 魏晋南北朝的经学、史学与文学艺术",
+          "section": "第三节 艺术",
+          "lineStart": 95124,
+          "lineEnd": 95132
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "licunxu",
+      "name": "李存勖",
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "role": "后唐庄宗",
+      "description": "李存勖承袭晋王势力，与后梁长期争战，923年建立后唐并灭梁；其统治很快陷入财政、军政与继承危机。",
+      "contribution": "凭军事整合取得中原，又在任用、军饷和内部权力关系中暴露统治的不稳定。",
+      "context": "从军事胜利转向经营统一政权，是其关键处境。",
+      "note": "戏曲化的“误国”故事不能替代财政与军队问题的分析。",
+      "eventIds": [
+        "cn-later-tang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109446,
+          "lineEnd": 109496
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "shijingtang",
+      "name": "石敬瑭",
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "role": "后晋建立者",
+      "description": "石敬瑭原为后唐将领，在与朝廷冲突时请求契丹援助，建立后晋并割让燕云诸州，使北方外交与军事格局长期改变。",
+      "contribution": "依靠契丹军事联盟称帝，以土地和岁帛换取支持，建立与契丹密切相连的后晋。",
+      "context": "在后唐内部军事冲突与契丹扩张交织的局势中夺权。",
+      "note": "说明割让的制度与战略影响，不使用族群本质论评价。",
+      "eventIds": [
+        "cn-yanyun-cession",
+        "cn-later-tang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109540,
+          "lineEnd": 109548
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "chairong",
+      "name": "柴荣",
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "role": "后周世宗",
+      "description": "柴荣继承后周皇位后整顿军政与财政，亲自指挥南北战争，取得淮南等地；959年病逝，未完成其统一进程。",
+      "contribution": "整顿军队、缓和部分征敛并扩展后周实力，为宋初承接制度和地域创造条件。",
+      "context": "军政改革与连年战争并行，后周仍面对继承难题。",
+      "note": "政策效果有地域差别，不能把统一设想写成既定历史必然。",
+      "eventIds": [
+        "cn-chai-rong-reforms"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109698,
+          "lineEnd": 109764
+        },
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109800,
+          "lineEnd": 109836
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liyu",
+      "name": "李煜",
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "role": "南唐后主、词人",
+      "description": "李煜是南唐末代统治者，975年国亡后被迁往宋京；其词在宫廷生活与身世剧变之间形成鲜明变化，影响后世词史。",
+      "contribution": "以富有情感表现力的词作拓展抒情传统，也成为理解南唐覆亡后的个人经验入口。",
+      "context": "面对宋的统一战争，政治处境与文学创作相互交织。",
+      "note": "文学成就与治理能力分开评价，死因传说不作为确定事实。",
+      "eventIds": [],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第十章 隋唐五代的文学艺术与科学技术",
+          "section": "第一节 隋唐五代的诗歌与民间文学",
+          "lineStart": 117824,
+          "lineEnd": 117858
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhaokuangyin",
+      "name": "赵匡胤",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "宋太祖",
+      "description": "赵匡胤原为后周高级将领，960年建立宋朝，逐步加强中央权力并推进统一南方，试图减少五代以来军人易主的风险。",
+      "contribution": "调整禁军、地方财赋与官员任用，组织攻取南方诸国，为宋朝长期统治奠定基础。",
+      "context": "新政权既需承接后周军力，又要限制地方军事自主。",
+      "note": "中央集权有多重制度步骤，不把“杯酒释兵权”当全部原因。",
+      "eventIds": [
+        "cn-song-founded"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第一章 宋王朝的建立与加强中央集权的措施",
+          "section": "第一节 宋王朝的建立",
+          "lineStart": 120596,
+          "lineEnd": 120720
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "xiaochuo",
+      "name": "萧绰",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "辽承天皇太后",
+      "description": "萧绰在辽圣宗年幼时主持朝政，参与军政决策与对宋战争。澶渊之盟的订立，正发生于她和圣宗共同主政时期。",
+      "contribution": "维持辽廷权力运行，参与南征及和议，使辽宋关系从战争转向较长期的和平。",
+      "context": "须在皇室、贵族、军队与不同官僚力量之间维持统治。",
+      "note": "私人关系传闻不作定论；“以战迫和”是作者解释而非唯一动机。",
+      "eventIds": [
+        "cn-chanyuan-treaty"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第二章 辽朝的兴盛",
+          "section": "第一节 对中原政策的转变",
+          "lineStart": 130261,
+          "lineEnd": 130285
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "songzhenzong",
+      "name": "宋真宗",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "北宋皇帝",
+      "description": "宋真宗面对辽军南下与朝廷内部争议，前往澶州并遣使议和。其时期的澶渊之盟成为宋辽长期和平的重要制度安排。",
+      "contribution": "在将领守御和使者交涉基础上接受和约，以岁币和守界条款调整宋辽关系。",
+      "context": "边防压力、皇权安全与战争成本共同制约其选择。",
+      "note": "不以“怯懦”等性格标签代替对兵力、外交和决策程序的说明。",
+      "eventIds": [
+        "cn-chanyuan-treaty"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第二节 宋辽战争与“澶渊之盟”",
+          "lineStart": 121473,
+          "lineEnd": 121497
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liyuanhao",
+      "name": "李元昊",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "西夏建立者",
+      "description": "李元昊继承党项夏州势力，推行礼制、文字与官制建设，1038年称帝建夏，成为西北长期并立政权的开国统治者。",
+      "contribution": "强化党项政权组织和文化标识，与宋辽进行战争与交涉，争取王朝地位。",
+      "context": "在吸收周边制度与强调本部传统之间建立统治。",
+      "note": "文字创制由野利仁荣等多人参与，不归功于一人独创。",
+      "eventIds": [
+        "cn-western-xia-founded"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第十一章 西夏王朝的兴亡",
+          "section": "第一节 西夏王朝的建立（景、毅、惠时期）",
+          "lineStart": 135369,
+          "lineEnd": 135401
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "fanzhongyan",
+      "name": "范仲淹",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "北宋官员、改革者",
+      "description": "范仲淹有地方与边防经历，参与庆历新政，主张以选官、考课等改善治理；其改革很快受阻，政治影响却未随之结束。",
+      "contribution": "条陈改革事项，强调官员责任、人才选任及减轻部分社会负担，推动中期改革讨论。",
+      "context": "边疆战事和财政行政问题使朝廷寻求新的治理办法。",
+      "note": "文学名句不能代替政策评价，改革也不是其一人独自设计。",
+      "eventIds": [
+        "cn-qingli-reform"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第五章 北宋中叶的改革浪潮（上）：庆历新政",
+          "section": "第二节 “庆历新政”及“新政”失败以后的政治形势",
+          "lineStart": 122790,
+          "lineEnd": 122840
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wanganshi",
+      "name": "王安石",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "北宋改革家、学者",
+      "description": "王安石在宋神宗支持下主持变法，调整财政、役法、教育和军政，既有治理目标，也引发执行方式与社会负担的争议。",
+      "contribution": "组织推行青苗、募役等新法，尝试扩大国家调配资源和解决财政军防问题的能力。",
+      "context": "面对冗费、边防与官僚治理困境，同时依赖皇帝支持。",
+      "note": "不以新旧党标签判定各项政策效果，须区别法令与地方执行。",
+      "eventIds": [
+        "cn-wang-anshi-reform"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第六章 北宋中叶的改革浪潮（下）：王安石变法",
+          "section": "第一节 王安石变法",
+          "lineStart": 123013,
+          "lineEnd": 123193
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "simaguang",
+      "name": "司马光",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "北宋史家、政治家",
+      "description": "司马光反对部分新法，元祐初主持政策转向；他又长期从事编年史整理。政治主张与史学工作都是理解他的必要侧面。",
+      "contribution": "在政治上主张撤改新法，在史学上组织整理历代政治经验，为后世留下编年通史。",
+      "context": "处在神宗以后政治支持变化与改革争论持续的环境。",
+      "note": "反对新法不等于反对一切改革；史书编纂同样依靠团队。",
+      "eventIds": [
+        "cn-wang-anshi-reform",
+        "cn-song-literature-history"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第六章 北宋中叶的改革浪潮（下）：王安石变法",
+          "section": "第二节 元祐更化与绍圣绍述",
+          "lineStart": 123409,
+          "lineEnd": 123437
+        },
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第二节 文学、史学、绘画与石刻",
+          "lineStart": 127381,
+          "lineEnd": 127381
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "bisheng",
+      "name": "毕昇",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "北宋印刷技术实践者",
+      "description": "毕昇以胶泥制作可组合的字块，尝试活字排印。他的实践经文献记录而为后世所知，也被宋元时期的技术试验接续。",
+      "contribution": "探索可重复组合的印字方法，使印版制作出现雕版以外的路径，后人继续改进材料。",
+      "context": "印刷需求增长，但材料耐用、着墨与排字成本仍有制约。",
+      "note": "本书此段是元史对早期技术的追述，生平细节和精确年份不作补写。",
+      "eventIds": [
+        "cn-movable-type",
+        "cn-song-science-records"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第九章 社会经济",
+          "section": "第二节 农业、手工业和商业概况",
+          "lineStart": 143629,
+          "lineEnd": 143633
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wanyanguda",
+      "name": "完颜阿骨打",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "金朝建立者",
+      "description": "阿骨打领导完颜部及相关女真力量反辽，在军事胜利后于1115年称帝建金，开创了迅速改变东北和华北格局的王朝。",
+      "contribution": "组织反辽战争并建立大金政权，使女真军事联合逐步转为王朝统治机构。",
+      "context": "辽统治压力、部族竞争与战争胜利相互交织。",
+      "note": "金灭辽和侵宋多在继承者时期完成，不将全部扩张归于他。",
+      "eventIds": [
+        "cn-jurchen-jin-founded"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第三章 辽朝衰亡与金朝建立",
+          "section": "第二节 生女真与金朝",
+          "lineStart": 130979,
+          "lineEnd": 130999
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wanyanyong",
+      "name": "完颜雍",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "金世宗",
+      "description": "完颜雍在完颜亮南征时即位，停止相关战争并调整治理，延续既有中央机构，使金朝北方统治获得相对稳定与恢复。",
+      "contribution": "整顿行政与财政，稳定统治集团，维持女真传统与中原制度之间的政策平衡。",
+      "context": "承接战争危机，面对多族群人口与区域发展差异。",
+      "note": "“大定之治”是总体概括，不能表示没有压迫和社会冲突。",
+      "eventIds": [
+        "cn-jin-capital"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第五章 金朝巩固在北方的统治",
+          "section": "第二节 金朝的盛世",
+          "lineStart": 132299,
+          "lineEnd": 132321
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yuefei",
+      "name": "岳飞",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "南宋抗金将领",
+      "description": "岳飞组织军队与金作战，在北伐中收复部分地区；后被朝廷解除兵权、下狱杀害，其遭遇与绍兴和议时期的政治选择相连。",
+      "contribution": "训练和指挥部队抗金，争取恢复失地，其军事行动是南宋立足过程的重要部分。",
+      "context": "战场目标同朝廷议和、收兵权的方向发生冲突。",
+      "note": "战果数字、传说和文学作品真伪另论，不凭后世故事补写心理。",
+      "eventIds": [
+        "cn-yuefei-shaoxing"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十一章 南宋与金对峙局面的形成",
+          "section": "第三节 岳飞北伐中原 绍兴和议",
+          "lineStart": 125828,
+          "lineEnd": 125900
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhaogou",
+      "name": "赵构",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "宋高宗",
+      "description": "赵构在靖康之变后重建宋廷，逐步南迁并立足江南。他的统治同时涉及抗金、议和与收回将帅兵权，具有复杂的政治后果。",
+      "contribution": "重建朝廷行政与财政军防体系，在与金的战争和议和之间维持南宋政权。",
+      "context": "需处理北方失地、南方立足和皇权对军队控制的矛盾。",
+      "note": "保存政权与谋害将领的责任分开说明，不以单一标签概括。",
+      "eventIds": [
+        "cn-song-south",
+        "cn-yuefei-shaoxing",
+        "cn-jingkang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十一章 南宋与金对峙局面的形成",
+          "section": "第一节 宋王朝的重建与南迁",
+          "lineStart": 125530,
+          "lineEnd": 125544
+        },
+        {
+          "volume": 9,
+          "chapter": "第十一章 南宋与金对峙局面的形成",
+          "section": "第三节 岳飞北伐中原 绍兴和议",
+          "lineStart": 125828,
+          "lineEnd": 125900
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "sushi",
+      "name": "苏轼",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "北宋文学家、官员",
+      "description": "苏轼兼有诗文、词、书画与官员经历，其创作和思想在宋代文化中影响广泛；政治上的处境变化也成为作品的重要背景。",
+      "contribution": "拓展词的题材与表达，参与诗文书画实践，并在地方任职中介入现实治理。",
+      "context": "新旧政治争论使其仕途反复，文人活动并不脱离政治。",
+      "note": "文学“豪放”不能等同于全部词作，也不把他固定归为单一党派。",
+      "eventIds": [
+        "cn-zhu-xi-learning",
+        "cn-song-literature-history"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第九章 北宋中后期思想、文化的革新",
+          "section": "",
+          "lineStart": 125040,
+          "lineEnd": 125165
+        },
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第一节 宋学三大学派及事功学派",
+          "lineStart": 127279,
+          "lineEnd": 127329
+        },
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第二节 文学、史学、绘画与石刻",
+          "lineStart": 127333,
+          "lineEnd": 127355
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liqingzhao",
+      "name": "李清照",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "两宋之际词人",
+      "description": "李清照注重音律和词体特色，作品横跨北宋与南宋，其南渡后的写作呈现战争、流离与身世变化，构成宋词的重要面貌。",
+      "contribution": "以细致而有个性的语言写情与时代经验，对词体和抒情方式留下独特贡献。",
+      "context": "北宋覆亡和南迁改变了个人生活、收藏与创作环境。",
+      "note": "不把所有作品机械对应一件生平事件，作品系年须另行考辨。",
+      "eventIds": [
+        "cn-song-south",
+        "cn-song-literature-history"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第二节 文学、史学、绘画与石刻",
+          "lineStart": 127333,
+          "lineEnd": 127355
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "temujin",
+      "name": "铁木真",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "成吉思汗",
+      "description": "铁木真在蒙古诸部竞争中形成强大联盟，1206年建大蒙古国，被尊为成吉思汗，随后发动大规模对外战争，改变欧亚格局。",
+      "contribution": "整合草原军事与政治组织，建立汗国并推进扩张，使蒙古成为新的跨区域力量。",
+      "context": "部族竞争、依附关系和军事组织创新共同塑造其兴起。",
+      "note": "国家整合与征服造成的生命损失须并列，不能只写疆域扩张。",
+      "eventIds": [
+        "cn-mongol-founded",
+        "cn-western-xia-fall"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第三章 成吉思汗统一蒙古与大蒙古国的建立",
+          "section": "第二节 大蒙古国的建立",
+          "lineStart": 139677,
+          "lineEnd": 139711
+        },
+        {
+          "volume": 10,
+          "chapter": "第十一章 西夏王朝的兴亡",
+          "section": "第三节 西夏王朝的衰亡（桓、襄、神、献、末帝时期）",
+          "lineStart": 135589,
+          "lineEnd": 135641
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wentianxiang",
+      "name": "文天祥",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "南宋官员、抗元者",
+      "description": "文天祥在元军南下时起兵勤王、参与交涉，后继续转战东南，战败被俘后拒绝出仕元朝，其诗文记录了政治与个人抉择。",
+      "contribution": "在南宋危局中组织抵抗并留下诗文，使亡国时期的政治伦理与个人经历获得表达。",
+      "context": "宋廷崩解、军事失利与继续抵抗的责任交织。",
+      "note": "肯定其选择时不把宋元人物简单按族群划作固定道德等级。",
+      "eventIds": [
+        "cn-song-fall"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十三章 南宋晚期的腐朽统治与元灭南宋",
+          "section": "第二节 元灭南宋",
+          "lineStart": 126432,
+          "lineEnd": 126454
+        },
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第二节 文学、史学、绘画与石刻",
+          "lineStart": 127333,
+          "lineEnd": 127355
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "guoshoujing",
+      "name": "郭守敬",
+      "periodIds": [
+        "yuan"
+      ],
+      "role": "元代天文、水利学者",
+      "description": "郭守敬参与天文仪器、观测和《授时历》编制，也提出通惠河引水方案，其工作连接测量、国家工程与都城供给。",
+      "contribution": "在团队中改进观测和仪器，并以水源地势研究推动大都水运，使科学实践服务具体问题。",
+      "context": "大型历法与水利工程依赖朝廷资源、协作及长期劳动。",
+      "note": "不把授时历和运河全部写成一人的独创，具体工程年代分别标注。",
+      "eventIds": [
+        "cn-yuan-calendar",
+        "cn-yuan-grain-routes",
+        "cn-yuan-dadu"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十三章 文 化",
+          "section": "第五节 科学技术",
+          "lineStart": 146543,
+          "lineEnd": 146559
+        },
+        {
+          "volume": 11,
+          "chapter": "第九章 社会经济",
+          "section": "第二节 农业、手工业和商业概况",
+          "lineStart": 143681,
+          "lineEnd": 143717
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "bayan",
+      "name": "伯颜",
+      "periodIds": [
+        "yuan"
+      ],
+      "role": "元代将领、重臣",
+      "description": "伯颜统军参与灭南宋，后因北运物资成本问题推动海运安排。他既是征服战争的重要将领，也是王朝运行中的组织者。",
+      "contribution": "组织对宋军事行动并提出利用海船输送南方物资，为大都供给开拓运输办法。",
+      "context": "从战争夺取地区转入经营南北财政与运输网络。",
+      "note": "不能将军事征服只写成交流，南宋地区承受的战争破坏须保留。",
+      "eventIds": [
+        "cn-song-fall",
+        "cn-yuan-grain-routes"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十三章 南宋晚期的腐朽统治与元灭南宋",
+          "section": "第二节 元灭南宋",
+          "lineStart": 126432,
+          "lineEnd": 126454
+        },
+        {
+          "volume": 11,
+          "chapter": "第九章 社会经济",
+          "section": "第二节 农业、手工业和商业概况",
+          "lineStart": 143681,
+          "lineEnd": 143717
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "guanhanqing",
+      "name": "关汉卿",
+      "periodIds": [
+        "yuan"
+      ],
+      "role": "元杂剧作家",
+      "description": "关汉卿活跃于金元之际及元初戏曲环境，创作表现人物命运和社会冲突的杂剧，以《窦娥冤》等作品影响后世舞台。",
+      "contribution": "把曲词、人物与舞台行动结合，塑造普通人处境，推动杂剧成为成熟的文学表演形式。",
+      "context": "城市观众、演出行业与多种文体为创作提供条件。",
+      "note": "生卒与部分作品归属尚有争议，戏剧情节不是社会事件的实录。",
+      "eventIds": [
+        "cn-yuan-drama"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十三章 文 化",
+          "section": "第四节 文学艺术",
+          "lineStart": 146285,
+          "lineEnd": 146431
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wangshifu",
+      "name": "王实甫",
+      "periodIds": [
+        "yuan"
+      ],
+      "role": "元杂剧作家",
+      "description": "王实甫以《西厢记》著称，在既有故事传统上组织人物、曲词和舞台结构，把爱情与礼法冲突写成影响深远的戏剧。",
+      "contribution": "以细致的情节和曲词推动杂剧表达，《西厢记》成为后世改编、评点与演出的重要文本。",
+      "context": "与城市戏曲繁荣相连，创作承接前代故事和表演经验。",
+      "note": "其生平材料有限，不虚构仕途经历；不同版本和改编须区分。",
+      "eventIds": [
+        "cn-yuan-drama"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十三章 文 化",
+          "section": "第四节 文学艺术",
+          "lineStart": 146285,
+          "lineEnd": 146431
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "huangdaopo",
+      "name": "黄道婆",
+      "periodIds": [
+        "yuan"
+      ],
+      "role": "棉纺织技术传播者",
+      "description": "黄道婆被文献记为把海南棉纺织经验带回松江的人物，其活动展示技术、妇女劳动和跨地区知识传播之间的联系。",
+      "contribution": "介绍和改进棉纺织工具及方法，促进当地织造经验传播，使衣被生产获得新的条件。",
+      "context": "本地棉作与市场发展需要同生产技术改进相互配合。",
+      "note": "功绩依托黎族等劳动者积累，生平和具体技术归属不确定处保留。",
+      "eventIds": [
+        "cn-yuan-textiles"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第九章 社会经济",
+          "section": "第二节 农业、手工业和商业概况",
+          "lineStart": 143553,
+          "lineEnd": 143567
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "jialu",
+      "name": "贾鲁",
+      "periodIds": [
+        "yuan"
+      ],
+      "role": "元代治河官员",
+      "description": "贾鲁在元末黄河灾害与漕运危机中主持治河，组织疏塞并举工程。工程规模和徭役负担同时影响当地社会及政治局势。",
+      "contribution": "负责1351年治理决河方案与施工组织，使黄河一度恢复既定流路并保障交通目标。",
+      "context": "技术判断、朝廷财政与大规模劳力征发彼此牵连。",
+      "note": "治河成效与百姓负担并列，不把起义简单归罪于他个人。",
+      "eventIds": [
+        "cn-yuan-red-turban"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十二章 元末人民大起义",
+          "section": "第一节 元末社会总危机的形成",
+          "lineStart": 144978,
+          "lineEnd": 145010
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liufutong",
+      "name": "刘福通",
+      "periodIds": [
+        "yuan"
+      ],
+      "role": "元末红巾军领袖",
+      "description": "刘福通参与组织1351年红巾军起义，在韩山童被捕后继续扩大武装，成为元末起义与北方战争中的重要领导者。",
+      "contribution": "组织东系红巾军并推进军事扩展，使元朝面临大范围挑战，打破既有政治秩序。",
+      "context": "社会贫困、灾害徭役与宗教组织网络共同构成动员环境。",
+      "note": "起义军内部多支力量并存，不把所有元末武装称为其部属。",
+      "eventIds": [
+        "cn-yuan-red-turban"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十二章 元末人民大起义",
+          "section": "第一节 元末社会总危机的形成",
+          "lineStart": 144978,
+          "lineEnd": 145010
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "tuotuo",
+      "name": "脱脱",
+      "periodIds": [
+        "yuan"
+      ],
+      "role": "元末丞相",
+      "description": "脱脱参与元末财政与治河政策，支持贾鲁工程，后又统军对付起义。其处境体现朝廷在治理危机与内部权力竞争中的摇摆。",
+      "contribution": "推动大型治河并组织军事应对，试图挽救财政、交通与统治秩序，但未能根治危机。",
+      "context": "在皇权、权臣斗争和不断扩大的地方战争之间施政。",
+      "note": "不将元亡归结为其罢相一个因素，具体政绩与政策成本分开。",
+      "eventIds": [
+        "cn-yuan-red-turban"
+      ],
+      "bookRefs": [
+        {
+          "volume": 11,
+          "chapter": "第十二章 元末人民大起义",
+          "section": "第一节 元末社会总危机的形成",
+          "lineStart": 144978,
+          "lineEnd": 145010
+        },
+        {
+          "volume": 11,
+          "chapter": "第十二章 元末人民大起义",
+          "section": "第一节 元末社会总危机的形成",
+          "lineStart": 144758,
+          "lineEnd": 144806
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhudi",
+      "name": "朱棣",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明成祖",
+      "description": "朱棣以燕王身份起兵，在靖难之役后取得皇位，经营北方、迁都北京并组织远航，其政治活动同时包含建设和战争成本。",
+      "contribution": "推进北京都城与运河建设，支持郑和远航，又以军事行动维持北方统治与影响。",
+      "context": "通过内战夺位后，需要巩固皇权与政治合法性。",
+      "note": "迁都、航海和征战的成本与清洗建文旧臣不能被盛世叙事遮蔽。",
+      "eventIds": [
+        "cn-jingnan",
+        "cn-ming-beijing",
+        "cn-zhenghe"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第三章 从永乐到宣德治国政策的演变",
+          "section": "",
+          "lineStart": 149744,
+          "lineEnd": 149856
+        },
+        {
+          "volume": 12,
+          "chapter": "第三章 从永乐到宣德治国政策的演变",
+          "section": "",
+          "lineStart": 149942,
+          "lineEnd": 149944
+        },
+        {
+          "volume": 12,
+          "chapter": "第六章 明初的中外关系和郑和远航亚非各国",
+          "section": "",
+          "lineStart": 150965,
+          "lineEnd": 151018
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhuyunwen",
+      "name": "朱允炆",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "建文帝",
+      "description": "朱允炆继承明太祖皇位后削弱藩王势力，触发与燕王朱棣的军事冲突。靖难之役失败后，建文朝被改写为短暂而有争议的时期。",
+      "contribution": "试图调整皇室藩封和中央地方权力关系，成为明初政治重组的关键参与者。",
+      "context": "初继位即面对拥有军队和地方基础的叔辈藩王。",
+      "note": "出家、流亡等传闻不作确定下落，失败也不证明削藩目标全无依据。",
+      "eventIds": [
+        "cn-jingnan"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第三章 从永乐到宣德治国政策的演变",
+          "section": "",
+          "lineStart": 149744,
+          "lineEnd": 149856
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhuqizhen",
+      "name": "朱祁镇",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明英宗",
+      "description": "朱祁镇在1449年亲征中被瓦剌俘获，返国后曾失去皇位，后经夺门之变复位；其经历折射明中期军事与宫廷权力危机。",
+      "contribution": "其亲征决策、被俘及复位改变皇位安排和大臣处境，影响明廷政治运行。",
+      "context": "军事危局与皇室继承问题交织，朝廷须维持都城和军队。",
+      "note": "不以被俘一事概括全部在位时期，也不替他卸去决策责任。",
+      "eventIds": [
+        "cn-tumu-beijing-defense"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第七章 明中期的政治（上）",
+          "section": "第一节 王振专权和“土木之败”",
+          "lineStart": 151110,
+          "lineEnd": 151190
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yuqian",
+      "name": "于谦",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明代兵部尚书",
+      "description": "于谦在土木之变后参与拥立新君并组织北京防御，稳定军事危局。英宗复位后，他被处死，体现军功与皇权竞争的紧张。",
+      "contribution": "调动兵力、城防和物资组织保卫北京，阻止军事失败进一步转为都城陷落。",
+      "context": "皇帝被俘、军心不稳与瓦剌进逼同时发生，朝廷急需组织防御。",
+      "note": "保卫北京有军民共同作用，后来的冤狱不能仅用私人恩怨解释。",
+      "eventIds": [
+        "cn-tumu-beijing-defense"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第七章 明中期的政治（上）",
+          "section": "第一节 王振专权和“土木之败”",
+          "lineStart": 151110,
+          "lineEnd": 151190
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "qijiguang",
+      "name": "戚继光",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明代军事将领",
+      "description": "戚继光在东南抗倭中训练募兵、改进战术并与其他将领协同作战，后来又经营北方防务，其实践重视组织与训练。",
+      "contribution": "通过选兵、训练和战术配合提升部队战力，留下《纪效新书》等军事经验总结。",
+      "context": "沿海武装活动复杂，作战依赖地方资源与多部队合作。",
+      "note": "抗倭不是一人完成，倭寇也不等同全部日本居民。",
+      "eventIds": [
+        "cn-ming-coastal-defense"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第十章 明朝中期的民族关系反对外来侵略的斗争",
+          "section": "第二节 中国人民反抗倭寇、葡萄牙殖民者的斗争",
+          "lineStart": 154783,
+          "lineEnd": 154977
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhangjuzheng",
+      "name": "张居正",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明代首辅、改革者",
+      "description": "张居正在万历初整顿行政、财政与边防，推广考成和一条鞭法；其权力、政策效果和政治手段都需要在具体制度中理解。",
+      "contribution": "强化政令考核、清丈与税役整顿，试图缓解财政军防压力，改革部分地方征收方式。",
+      "context": "幼主时期获得较强政治支持，也面对官僚和地方利益阻力。",
+      "note": "一条鞭并非其独创，财政改善也不表示所有民户负担下降。",
+      "eventIds": [
+        "cn-zhang-juzheng-reform"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第九章 明中期的政治（下）",
+          "section": "第二节 从嘉靖中期到万历初年的改革活动",
+          "lineStart": 154356,
+          "lineEnd": 154512
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wangshouren",
+      "name": "王守仁",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明代思想家、官员",
+      "description": "王守仁号阳明，兼有官员、军事和讲学经历，提出知行合一、致良知等主张，推动明代儒学对道德认识与实践的讨论。",
+      "contribution": "结合现实行动与经典解释发展心学，通过讲学和门人传播形成广泛思想影响。",
+      "context": "在程朱传统、政治实践与地方讲学网络之间开展活动。",
+      "note": "卒年按公历常用1529口径，农历岁次有记作1528者；不将心学化约为个人意志万能。",
+      "eventIds": [
+        "cn-ming-wang-learning"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十三章 明代的哲学、史学、地理学和宗教",
+          "section": "",
+          "lineStart": 166362,
+          "lineEnd": 166540
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "xuguangqi",
+      "name": "徐光启",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明代官员、科学学者",
+      "description": "徐光启研究农业、历法和数学，与耶稣会士合作译述，也重视田间试种和生产者经验，呈现晚明多来源知识结合的面貌。",
+      "contribution": "合译数学著作、参与历法研究，并整理农业制度与技术，使文献和实践互相校验。",
+      "context": "农业问题与中外知识交流都进入晚明士人的现实关切。",
+      "note": "不能把合作成果归于一人，也不把每一试种经验推广到所有地区。",
+      "eventIds": [
+        "cn-ming-science-books"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十五章 明代的科学技术",
+          "section": "",
+          "lineStart": 167864,
+          "lineEnd": 167920
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "songyingxing",
+      "name": "宋应星",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "《天工开物》作者",
+      "description": "宋应星把农业和手工业知识编为图文著作，关心材料、工具和生产工序，使后世能通过书页观察明代日用技术与劳动。",
+      "contribution": "以分类、说明和图解整理多种生产经验，留下研究工艺史和劳动过程的重要材料。",
+      "context": "生产经验多分散在劳动者与作坊中，需要观察和记录。",
+      "note": "著作具有选择性，不代表全明代所有工艺水平或现代操作标准。",
+      "eventIds": [
+        "cn-ming-science-books"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十五章 明代的科学技术",
+          "section": "",
+          "lineStart": 167864,
+          "lineEnd": 167920
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "lishizhen",
+      "name": "李时珍",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明代医药学者",
+      "description": "李时珍通过阅读、调查和医药实践整理《本草纲目》，校订旧说并分类记述自然物，成为中国医药与博物知识史的重要人物。",
+      "contribution": "汇集和辨析本草知识，结合观察订正部分旧说，使药物与自然物记录更有系统。",
+      "context": "旧有本草积累丰富，但名称、分类与经验可靠性需要比较。",
+      "note": "古代药性、处方与经验不等同现代医学证据，不供自行诊疗。",
+      "eventIds": [
+        "cn-ming-science-books"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十五章 明代的科学技术",
+          "section": "",
+          "lineStart": 167864,
+          "lineEnd": 167920
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "lizicheng",
+      "name": "李自成",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明末大顺政权领袖",
+      "description": "李自成在明末战争中扩大力量，建立大顺并攻入北京；随后败于山海关，撤离京城，其起落与内外多方势力竞争密切相关。",
+      "contribution": "组织大规模起义武装并建立政权，直接终结北京明廷，改变明清更替的军事局势。",
+      "context": "灾荒、税役、军队和地方社会关系共同影响其动员和治理。",
+      "note": "不把起义胜败归结于单一传说，进入北京不等于已稳固统治全国。",
+      "eventIds": [
+        "cn-li-zicheng-beijing",
+        "cn-southern-ming"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十一章 推翻明朝北京中央政权的农民大起义",
+          "section": "第三节 起义的高潮阶段",
+          "lineStart": 164600,
+          "lineEnd": 164712
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yuanchonghuan",
+      "name": "袁崇焕",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "明末辽东将领",
+      "description": "袁崇焕在明金战争中经营宁锦防线，参与重要防御战，后在政治疑惧与军事危机中被逮捕处死，留下持续的历史讨论。",
+      "contribution": "组织辽东防御与军队，利用城防和火器抵御后金，试图维持关外防线。",
+      "context": "军事资源不足、君臣信任和朝廷派系同时制约边防经营。",
+      "note": "反间计、议和和毛文龙之死需按史料辨析，不复制单一阴谋故事。",
+      "eventIds": [
+        "cn-ming-liaodong-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第十九章 满族的兴起和后金的扩展（下）",
+          "section": "第一节 汗位之争和皇太极即位",
+          "lineStart": 162477,
+          "lineEnd": 162598
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "nurhaci",
+      "name": "努尔哈赤",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "后金建立者",
+      "description": "努尔哈赤通过女真各部战争与联盟扩大势力，建立八旗组织，1616年建后金，随后与明争夺辽东，为清朝兴起奠定基础。",
+      "contribution": "把人口与军队纳入八旗组织，形成更稳定的征发和统治机构，建立对明竞争的政权。",
+      "context": "明辽东边防、女真内部竞争和跨族群交换构成其活动背景。",
+      "note": "1616是后金前史，不能提前称大清；统一过程伴随战争和迁徙。",
+      "eventIds": [
+        "cn-later-jin-founded",
+        "cn-ming-liaodong-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第二章 努尔哈赤的兴起与后金政权的建立",
+          "section": "第一节 努尔哈赤统一女真和后金政权的建立",
+          "lineStart": 172393,
+          "lineEnd": 172395
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "dorgon",
+      "name": "多尔衮",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "清初摄政王",
+      "description": "多尔衮在顺治初摄政，统军与吴三桂共同击败大顺军并进入北京，随后推进清朝在中原的统治，其政策影响深及地方社会。",
+      "contribution": "组织入关与后续军政部署，使清由关外政权转向全国性统治，并集中摄政权力。",
+      "context": "幼主继位、诸王竞争与明朝崩解同时提供机会和压力。",
+      "note": "军政扩展与剃发等强制政策及战争伤害并列，不只按功绩叙述。",
+      "eventIds": [
+        "cn-qing-entry"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第四章 清军入关与统一中国",
+          "section": "第一节 多尔衮与清兵入关",
+          "lineStart": 173481,
+          "lineEnd": 173563
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "kangxi",
+      "name": "康熙",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "清圣祖",
+      "description": "康熙时期清廷平定三藩、解决台湾郑氏与中俄边境问题，并继续经营西北，制度和经济逐步恢复发展，社会矛盾仍长期存在。",
+      "contribution": "整合地方军政、参与边疆战争与谈判，固定新增人丁不加丁银政策，强化清廷统治。",
+      "context": "入关后秩序尚待整合，地方军力和边疆问题同时突出。",
+      "note": "“盛世”不能抹去战争、强制与地方差异，也不等于政策全由皇帝独创。",
+      "eventIds": [
+        "cn-three-feudatories",
+        "cn-taiwan-zheng-qing",
+        "cn-nerchinsk-treaty",
+        "cn-qing-tax-reform",
+        "cn-qing-maritime-trade"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第六章 康熙时期的政治斗争与经济恢复",
+          "section": "第一节 康熙时期的政治斗争",
+          "lineStart": 174781,
+          "lineEnd": 174857
+        },
+        {
+          "volume": 13,
+          "chapter": "第六章 康熙时期的政治斗争与经济恢复",
+          "section": "第一节 康熙时期的政治斗争",
+          "lineStart": 174889,
+          "lineEnd": 174915
+        },
+        {
+          "volume": 13,
+          "chapter": "第七章 清初经营边疆和巩固统一的战争",
+          "section": "第一节 抗击沙俄对黑龙江流域的入侵和尼布楚条约的签订",
+          "lineStart": 175445,
+          "lineEnd": 175473
+        },
+        {
+          "volume": 13,
+          "chapter": "第八章 雍正时期的政治和经济",
+          "section": "第二节 赋役制度的改革",
+          "lineStart": 176125,
+          "lineEnd": 176149
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yongzheng",
+      "name": "雍正",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "清世宗",
+      "description": "雍正重视行政与财政整顿，推广摊丁入亩等措施，并强化中央对地方官员的控制，其改革改变清代赋役与治理运行方式。",
+      "contribution": "调整丁银承担和财政征收，借官僚考核与信息渠道提高中央对地方事务的掌握。",
+      "context": "在人口增长、负担不均与地方财政困难中寻求治理调整。",
+      "note": "财政整顿与民户实际负担不是一回事，政策地方差异须保留。",
+      "eventIds": [
+        "cn-qing-tax-reform"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第八章 雍正时期的政治和经济",
+          "section": "第二节 赋役制度的改革",
+          "lineStart": 176125,
+          "lineEnd": 176149
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "qianlong",
+      "name": "乾隆",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "清高宗",
+      "description": "乾隆时期清廷在西北战争和设治中扩大统治范围，文化工程与商贸持续发展；晚期财政、人口和基层治理矛盾日益显露。",
+      "contribution": "组织西北军事与管理安排，延续广域国家经营，同时调整对外贸易与地方行政。",
+      "context": "政治规模与文化建设扩张，资源成本和社会矛盾也累积。",
+      "note": "不以疆域大小单独评价，准噶尔战争中的严重人口损失不能略去。",
+      "eventIds": [
+        "cn-qing-northwest",
+        "cn-qing-maritime-trade"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第九章 清高宗继位和统一多民族国家的巩固和发展",
+          "section": "第一节 清高宗继位及其对边疆地区的经营",
+          "lineStart": 176307,
+          "lineEnd": 176405
+        },
+        {
+          "volume": 13,
+          "chapter": "第十三章 对外关系",
+          "section": "第三节 反对西欧北美殖民者的斗争",
+          "lineStart": 178425,
+          "lineEnd": 178477
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhengchenggong",
+      "name": "郑成功",
+      "periodIds": [
+        "ming",
+        "qing"
+      ],
+      "role": "明清之际军事领袖",
+      "description": "郑成功在明清战争中建立海上军事力量，1661年进攻荷兰殖民者控制的台湾，次年迫使其投降，并开始经营岛内政权。",
+      "contribution": "结合东南沿海海军与贸易资源收复台湾，维持郑氏抗清力量，开启新的岛内治理阶段。",
+      "context": "明朝覆亡后仍使用明号，又面对清廷和荷兰殖民势力。",
+      "note": "不把台湾写成此前无人居住，原住民和既有移民社会都在场。",
+      "eventIds": [
+        "cn-taiwan-zheng-qing",
+        "cn-southern-ming"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十章 明后期的中外关系",
+          "section": "第一节 荷兰殖民者侵占我国领土和郑成功收复台湾",
+          "lineStart": 162867,
+          "lineEnd": 162967
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "shilang",
+      "name": "施琅",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "清代水师将领",
+      "description": "施琅有郑氏与清朝两段军事经历，康熙时统军攻澎湖并迫使郑氏降清，随后参与清廷保留台湾及相关行政安排的讨论。",
+      "contribution": "组织1683年澎湖海战，推动台湾转入清朝治理，其航海与水师经验发挥重要作用。",
+      "context": "海上军事、郑氏内部局势与清廷台湾政策相互联系。",
+      "note": "不将全部政治结果归于一人，海战伤亡与岛内不同群体经历需并看。",
+      "eventIds": [
+        "cn-taiwan-zheng-qing"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第六章 康熙时期的政治斗争与经济恢复",
+          "section": "第一节 康熙时期的政治斗争",
+          "lineStart": 174889,
+          "lineEnd": 174915
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "linzexu",
+      "name": "林则徐",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "清代官员、禁烟主持者",
+      "description": "林则徐奉命赴广东禁烟、组织虎门销烟，并搜集翻译域外信息以应对交涉；战争形势变化后被革职遣戍，仍参与边疆事务。",
+      "contribution": "执行禁烟并组织对外信息搜集，将报刊、地理和技术知识引入具体防务与外交工作。",
+      "context": "鸦片贸易、地方财政和英国扩张使交涉迅速国际化。",
+      "note": "不把战争归咎于禁烟，亦不以“开眼第一人”掩盖译员及前人工作。",
+      "eventIds": [
+        "cn-opium-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第一章 道光朝后期社会的新变动",
+          "section": "第一节 鸦片战争",
+          "lineStart": 180013,
+          "lineEnd": 180259
+        },
+        {
+          "volume": 13,
+          "chapter": "第一章 道光朝后期社会的新变动",
+          "section": "第三节 思想界的新动向 ——从“夷夏之防”到“师夷长技”的历史转变",
+          "lineStart": 180433,
+          "lineEnd": 180507
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "weiyuan",
+      "name": "魏源",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "《海国图志》编纂者",
+      "description": "魏源承接林则徐的域外资料，汇集世界史地和技术知识编为《海国图志》，提出学习有益技艺，回应鸦片战争后的现实危机。",
+      "contribution": "把译述、地图与多种资料系统组织，扩大士人认识域外的窗口并提出防务技术主张。",
+      "context": "经世传统与战争后的外部知识需求共同塑造其写作。",
+      "note": "初刊版本年代另考，书中世界认识受资料和时代限制，不等同现代地理。",
+      "eventIds": [
+        "cn-opium-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第一章 道光朝后期社会的新变动",
+          "section": "第三节 思想界的新动向 ——从“夷夏之防”到“师夷长技”的历史转变",
+          "lineStart": 180433,
+          "lineEnd": 180507
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "hongxiuquan",
+      "name": "洪秀全",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "太平天国主要领袖",
+      "description": "洪秀全把宗教动员与社会不满结合，参与广西起义并建立太平天国，定都天京后成为最高领袖，其统治也经历严重内部危机。",
+      "contribution": "建立与清廷对抗的大规模政权，提出土地和社会制度主张，对清朝统治构成长期挑战。",
+      "context": "地方贫困、宗教网络和族群区域矛盾共同形成动员环境。",
+      "note": "政策主张与实际执行分开，宗教理想、权力集中和内部暴力都需呈现。",
+      "eventIds": [
+        "cn-taiping-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第二章 咸丰朝之内忧与外患（上）",
+          "section": "第四节 太平天国的兴起与发展",
+          "lineStart": 181009,
+          "lineEnd": 181285
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zengguofan",
+      "name": "曾国藩",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "湘军组织者、洋务官员",
+      "description": "曾国藩以地方社会和团练资源组建湘军，镇压太平天国，又倡议学习制造船炮；其活动扩大地方军政网络并影响晚清权力结构。",
+      "contribution": "组织湘军战争和相关财政体系，参与早期洋务，以自制技术回应军事与对外压力。",
+      "context": "清朝正规军疲弱，地方筹饷、士绅网络与军事动员上升。",
+      "note": "军事组织、工业尝试与镇压造成的伤害并列，不作纯粹成功学人物。",
+      "eventIds": [
+        "cn-taiping-war",
+        "cn-self-strengthening"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第四章 同治中兴（上）",
+          "section": "第三节 太平天国灭亡与各地起义平息",
+          "lineStart": 182273,
+          "lineEnd": 182395
+        },
+        {
+          "volume": 13,
+          "chapter": "第五章 同治中兴（下）",
+          "section": "第一节 洋务思潮的产生与发展",
+          "lineStart": 182575,
+          "lineEnd": 182863
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "lihongzhang",
+      "name": "李鸿章",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "淮军领袖、洋务与外交官员",
+      "description": "李鸿章组织淮军、经营洋务和海防，并长期处理对外谈判。其事业与太平战争、近代工业和甲午失败等晚清关键变化紧密相连。",
+      "contribution": "推动军事及民用企业、海军与人才培养，代表清廷参与多项重大外交交涉。",
+      "context": "财政资源分散、中央地方关系与列强压力共同制约其施政。",
+      "note": "既不以“卖国”一词替代分析，也不把国家失败全部卸为无奈处境。",
+      "eventIds": [
+        "cn-taiping-war",
+        "cn-self-strengthening",
+        "cn-sino-japanese-war",
+        "cn-boxer-crisis",
+        "cn-sino-french-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第五章 同治中兴（下）",
+          "section": "第一节 洋务思潮的产生与发展",
+          "lineStart": 182575,
+          "lineEnd": 182863
+        },
+        {
+          "volume": 13,
+          "chapter": "第六章 光绪朝社会的急剧变化与重大变革（上）",
+          "section": "第四节 中日甲午战争",
+          "lineStart": 184279,
+          "lineEnd": 184451
+        },
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第三节 义和团运动",
+          "lineStart": 185255,
+          "lineEnd": 185439
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zuozongtang",
+      "name": "左宗棠",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "清代督抚、军事与洋务官员",
+      "description": "左宗棠参与镇压太平军，兴办船政等事业，后主持西征收复新疆大部地区。其活动连接军事、技术学习和边疆治理。",
+      "contribution": "经营军事工业与军队，筹措西征财政和运输，推动西北战事与行政重建。",
+      "context": "海防与塞防争论、财政筹措和边疆外部干预同时存在。",
+      "note": "伊犁交涉等有其他官员贡献，不把所有西北成果归于他个人。",
+      "eventIds": [
+        "cn-self-strengthening",
+        "cn-qing-xinjiang"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第五章 同治中兴（下）",
+          "section": "第一节 洋务思潮的产生与发展",
+          "lineStart": 182575,
+          "lineEnd": 182863
+        },
+        {
+          "volume": 13,
+          "chapter": "第六章 光绪朝社会的急剧变化与重大变革（上）",
+          "section": "第二节 光绪朝边疆告警",
+          "lineStart": 183899,
+          "lineEnd": 184015
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "cixi",
+      "name": "慈禧",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "晚清皇太后、实际掌权者",
+      "description": "慈禧经辛酉政变进入权力中心，长期影响晚清军政外交，曾支持部分洋务与新政，又压制戊戌改革并卷入庚子决策危机。",
+      "contribution": "主导或影响宫廷人事、改革取舍与重大对外决策，是理解晚清权力结构的关键人物。",
+      "context": "皇权、督抚、宗室和新式力量之间的关系日益复杂。",
+      "note": "不以私人生活传闻解释政策；其实际决策责任也不能因制度限制被取消。",
+      "eventIds": [
+        "cn-self-strengthening",
+        "cn-hundred-days-reform",
+        "cn-boxer-crisis",
+        "cn-late-qing-reform",
+        "cn-sino-japanese-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第三章 咸丰朝之内忧与外患（下）",
+          "section": "第二节 辛酉政变与太后垂帘听政制度确立",
+          "lineStart": 181567,
+          "lineEnd": 181753
+        },
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第二节 戊戌变法",
+          "lineStart": 185107,
+          "lineEnd": 185253
+        },
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第三节 义和团运动",
+          "lineStart": 185255,
+          "lineEnd": 185439
+        },
+        {
+          "volume": 13,
+          "chapter": "第七章 光绪朝社会的急剧变化与重大变革（中）",
+          "section": "第一节 光绪朝政府机构重大变革",
+          "lineStart": 184697,
+          "lineEnd": 184811
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "guangxu",
+      "name": "光绪",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "清德宗",
+      "description": "光绪在慈禧主导的权力结构中成长，甲午战败后支持变法，1898年改革受政变中止并被幽禁，其经历体现晚清皇权内部冲突。",
+      "contribution": "批准戊戌改革诏令，试图推动行政、教育与经济调整，使变法进入朝廷决策层。",
+      "context": "改革迫切需求与缺少独立权力、军队及执行基础形成落差。",
+      "note": "不能只把变法看成两人的私人争斗；改革范围与实际执行须分开。",
+      "eventIds": [
+        "cn-sino-japanese-war",
+        "cn-hundred-days-reform"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第六章 光绪朝社会的急剧变化与重大变革（上）",
+          "section": "第四节 中日甲午战争",
+          "lineStart": 184279,
+          "lineEnd": 184451
+        },
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第二节 戊戌变法",
+          "lineStart": 185107,
+          "lineEnd": 185253
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhangzhidong",
+      "name": "张之洞",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "洋务督抚、教育改革官员",
+      "description": "张之洞在地方兴办工业和新式学堂，倡导中学与西学并用；清末又参与新政及废科举建议，对教育与实业转型产生影响。",
+      "contribution": "筹办工业、军事和教育事业，参与学制设计和停止科举，推动地方人才培养。",
+      "context": "技术学习与维持既有政治伦理并行，是其改革的主要张力。",
+      "note": "“中体西用”不是完整西化或完全守旧，实际事业效果也有差别。",
+      "eventIds": [
+        "cn-self-strengthening",
+        "cn-late-qing-reform",
+        "cn-abolish-exams"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第十一章 晚清文化（上）",
+          "section": "第二节 教育与学校",
+          "lineStart": 186983,
+          "lineEnd": 187009
+        },
+        {
+          "volume": 13,
+          "chapter": "第七章 光绪朝社会的急剧变化与重大变革（中）",
+          "section": "第三节 光绪朝学制重大变革",
+          "lineStart": 184887,
+          "lineEnd": 184915
+        },
+        {
+          "volume": 13,
+          "chapter": "第七章 光绪朝社会的急剧变化与重大变革（中）",
+          "section": "第一节 光绪朝政府机构重大变革",
+          "lineStart": 184697,
+          "lineEnd": 184811
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "kangyouwei",
+      "name": "康有为",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "晚清维新人物",
+      "description": "康有为借经典解释论证变法，组织讲学、学会与上书，参与推动1898年改革；政变后流亡海外，继续倡导君主立宪。",
+      "contribution": "把思想宣传、人才网络和朝廷改革联系起来，促使制度变革成为更广泛的公共议题。",
+      "context": "甲午后危机加深，士人与部分官员迫切寻找改革方案。",
+      "note": "自述和公车上书细节须同其他材料核对，不将所有诏令视为其个人设计。",
+      "eventIds": [
+        "cn-hundred-days-reform"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第二节 戊戌变法",
+          "lineStart": 185107,
+          "lineEnd": 185253
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liangqichao",
+      "name": "梁启超",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "晚清思想家、报人",
+      "description": "梁启超通过《时务报》等报刊宣传变法，政变后在海外继续写作，后来主张立宪，其思想与政治立场随时局持续调整。",
+      "contribution": "以政论、报刊与学会扩大新政治词汇和社会议题的传播，影响晚清知识界与公共舆论。",
+      "context": "新式传播媒介和海外经验拓宽了士人参与政治的方式。",
+      "note": "不能用一个时期的立场概括其全部人生，报刊影响也不等于全民共识。",
+      "eventIds": [
+        "cn-hundred-days-reform",
+        "cn-late-qing-reform"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第二节 戊戌变法",
+          "lineStart": 185107,
+          "lineEnd": 185253
+        },
+        {
+          "volume": 13,
+          "chapter": "第十章 宣统朝之穷途末路",
+          "section": "第三节 立宪运动与迟到的资产阶级民主化进程加速",
+          "lineStart": 186491,
+          "lineEnd": 186691
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "sunzhongshan",
+      "name": "孙中山",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "革命组织者、民国创建者",
+      "description": "孙中山长期组织反清革命并推动同盟会发展，1911年后回国，被选为中华民国临时大总统，参与帝制结束后的政治安排。",
+      "contribution": "联络海内外革命网络、宣传共和并组织起义，成为从反清到建立民国的重要代表。",
+      "context": "革命组织、地方新军、立宪势力与南北军事力量共同参与转折。",
+      "note": "武昌起义并非其现场指挥，辛亥成功不能归于个人单独完成。",
+      "eventIds": [
+        "cn-qing-end"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第十章 宣统朝之穷途末路",
+          "section": "第四节 辛亥革命高潮与清王朝灭亡",
+          "lineStart": 186693,
+          "lineEnd": 186825
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yuanshikai",
+      "name": "袁世凯",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "北洋军政领袖",
+      "description": "袁世凯从新建陆军发展北洋势力，参与清末改革，在辛亥革命后的谈判中掌握重要军政筹码，推动清帝退位并取得民国总统职位。",
+      "contribution": "经营新军和行政改革，参与废科举倡议，并以北洋实力介入南北议和与政权交接。",
+      "context": "清廷衰弱、革命独立与中央军力重新分配使其成为关键中介。",
+      "note": "不把退位谈判等同全部民主转型，清后称帝问题留给民国后续条目。",
+      "eventIds": [
+        "cn-late-qing-reform",
+        "cn-abolish-exams",
+        "cn-qing-end"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第七章 光绪朝社会的急剧变化与重大变革（中）",
+          "section": "第三节 光绪朝学制重大变革",
+          "lineStart": 184887,
+          "lineEnd": 184915
+        },
+        {
+          "volume": 13,
+          "chapter": "第十章 宣统朝之穷途末路",
+          "section": "第三节 立宪运动与迟到的资产阶级民主化进程加速",
+          "lineStart": 186491,
+          "lineEnd": 186691
+        },
+        {
+          "volume": 13,
+          "chapter": "第十章 宣统朝之穷途末路",
+          "section": "第四节 辛亥革命高潮与清王朝灭亡",
+          "lineStart": 186693,
+          "lineEnd": 186825
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "guowei",
+      "name": "郭威",
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "role": "后周太祖",
+      "description": "郭威原为后汉掌兵重臣，在朝廷清洗后起兵并于951年称帝建立后周。他整顿刑罚与征敛，继任者柴荣继续扩展后周实力。",
+      "contribution": "调整部分苛法和税役，巩固军政机构，为后周的制度整顿与后来的统一进程提供基础。",
+      "context": "朝廷与军将互相猜疑，军队拥立又决定了新朝诞生。",
+      "note": "减轻部分弊政不代表废除严刑和战争，后周仍是军事权力重组的产物。",
+      "eventIds": [
+        "cn-later-zhou-founded"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109732,
+          "lineEnd": 109764
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "shenkuo",
+      "name": "沈括",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "北宋官员、科学著述者",
+      "description": "沈括在任职和观察中接触数学、天文、地理及技术知识，以《梦溪笔谈》等留下大量记录，体现宋代多来源知识的交汇。",
+      "contribution": "通过记述、比较与推算整理自然现象和技术经验，为后世留下研究科学史的材料。",
+      "context": "官府事务、工程与士人交往，使观察研究具有具体社会背景。",
+      "note": "笔记有转述和时代解释，不把所有记录都当作其本人发明。",
+      "eventIds": [
+        "cn-song-science-records"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十七章 宋代的科学技术(1)",
+          "section": "第一节 数学",
+          "lineStart": 127450,
+          "lineEnd": 127518
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "xinqiji",
+      "name": "辛弃疾",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "南宋词人、官员",
+      "description": "辛弃疾兼有抗金经历、地方任职与词人身份，作品涉及恢复志向、人生处境和日常景物，在豪放与细腻表达之间展现多样风格。",
+      "contribution": "拓展词的叙事、议论和情感表现，与苏轼并称重要豪放词人，同时写有其他风格作品。",
+      "context": "南宋政治、宋金关系与个人任用变化影响其创作经验。",
+      "note": "不能把所有词都视为政治宣言，作品题材和系年需分别看待。",
+      "eventIds": [
+        "cn-song-literature-history"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第十六章 南宋的学术与文化",
+          "section": "第二节 文学、史学、绘画与石刻",
+          "lineStart": 127345,
+          "lineEnd": 127355
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yelvdashi",
+      "name": "耶律大石",
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "role": "西辽奠基者",
+      "description": "耶律大石原为辽朝官员，辽末危局中率众西行，在蒙古草原和中亚重建政治力量，形成后世所称西辽，延续并调整辽的统治传统。",
+      "contribution": "整合部众并建立跨地区支配关系，使契丹政治力量在辽朝东部覆亡后仍继续发挥作用。",
+      "context": "金朝军事压力与中亚既有政权格局共同限定其行动空间。",
+      "note": "称帝、迁都与政权起点有不同口径，不凭一条路线恢复精确疆界。",
+      "eventIds": [
+        "cn-western-liao"
+      ],
+      "bookRefs": [
+        {
+          "volume": 10,
+          "chapter": "第三章 辽朝衰亡与金朝建立",
+          "section": "第二节 生女真与金朝",
+          "lineStart": 131141,
+          "lineEnd": 131173
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhuyoujian",
+      "name": "朱由检",
+      "periodIds": [
+        "ming"
+      ],
+      "role": "崇祯帝、明思宗",
+      "description": "朱由检即位于明朝内外危机日深之时，试图整顿政务，但面临辽东战争、财政和起义压力；1644年北京城破前自缢。",
+      "contribution": "任用和更换官员、统筹多线战事，其决策同明末国家资源和信任危机相互作用。",
+      "context": "中央财力不足、灾害与多线战争使政策选择日益困难。",
+      "note": "不以“勤政”或“多疑”单因解释明亡，也不替其政策和处置责任开脱。",
+      "eventIds": [
+        "cn-li-zicheng-beijing",
+        "cn-ming-liaodong-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 12,
+          "chapter": "第二十一章 推翻明朝北京中央政权的农民大起义",
+          "section": "第三节 起义的高潮阶段",
+          "lineStart": 164822,
+          "lineEnd": 164824
+        },
+        {
+          "volume": 12,
+          "chapter": "第十九章 满族的兴起和后金的扩展（下）",
+          "section": "第一节 汗位之争和皇太极即位",
+          "lineStart": 162477,
+          "lineEnd": 162598
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "tansitong",
+      "name": "谭嗣同",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "晚清维新思想家",
+      "description": "谭嗣同参与湖南维新与1898年改革，以《仁学》等批判旧有政治伦理束缚，政变后被捕遇害，成为戊戌六君子之一。",
+      "contribution": "将思想写作、地方维新组织和朝廷改革相联系，强调平等与破除束缚，推动政治讨论。",
+      "context": "甲午战败后的改革诉求高涨，但维新派缺乏稳固权力基础。",
+      "note": "临刑言行等应依可核资料辨识，不凭后世传奇补写心理；生卒采用常见1865—1898口径。",
+      "eventIds": [
+        "cn-hundred-days-reform"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第二节 戊戌变法",
+          "lineStart": 185135,
+          "lineEnd": 185145
+        },
+        {
+          "volume": 13,
+          "chapter": "第八章 光绪朝社会的急剧变化与重大变革（下）",
+          "section": "第二节 戊戌变法",
+          "lineStart": 185107,
+          "lineEnd": 185253
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "dengshichang",
+      "name": "邓世昌",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "北洋海军致远舰管带",
+      "description": "邓世昌在北洋海军担任军官，1894年黄海海战中指挥致远舰作战，舰沉后殉职，其经历成为甲午战争中的重要历史记忆。",
+      "contribution": "在海战中指挥舰艇、奋力抵抗，展示北洋官兵的作战行动与重大损失。",
+      "context": "舰队整体指挥、火力和速度差异影响单舰作战的可能性。",
+      "note": "沉没机制、撞击目标等细节有争议，不沿用“鱼雷击沉”等单一说法。",
+      "eventIds": [
+        "cn-sino-japanese-war"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第六章 光绪朝社会的急剧变化与重大变革（上）",
+          "section": "第四节 中日甲午战争",
+          "lineStart": 184331,
+          "lineEnd": 184337
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "yixin",
+      "name": "奕訢",
+      "periodIds": [
+        "qing"
+      ],
+      "role": "恭亲王、晚清外交重臣",
+      "description": "奕訢在第二次鸦片战争末期主持对外交涉，后参与辛酉政变并掌管总理衙门，是晚清外交机构和洋务活动的重要组织者。",
+      "contribution": "参与北京条约交涉，推动设立总理各国事务衙门，使外交事务逐步由常设机构管理。",
+      "context": "列强压力骤增，旧有外交办理方式难以应对新条约体系。",
+      "note": "条约责任、处境与改革作用分开说明，不把被迫交涉等同于完全没有选择。",
+      "eventIds": [
+        "cn-second-opium-war",
+        "cn-self-strengthening"
+      ],
+      "bookRefs": [
+        {
+          "volume": 13,
+          "chapter": "第三章 咸丰朝之内忧与外患（下）",
+          "section": "第一节 英法联军之役",
+          "lineStart": 181503,
+          "lineEnd": 181527
+        },
+        {
+          "volume": 13,
+          "chapter": "第四章 同治中兴（上）",
+          "section": "第二节 同治朝政府机构初次变革",
+          "lineStart": 182077,
+          "lineEnd": 182111
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "liuzhiyuan",
+      "name": "刘知远",
+      "periodIds": [
+        "five-dynasties"
+      ],
+      "role": "后汉建立者",
+      "description": "刘知远原为后晋河东节度使，在契丹灭晋、进入中原后，于947年在太原称帝并南下建立后汉统治，继承五代中原政权序列。",
+      "contribution": "利用河东军事基础接收中原，在契丹撤退和各地归附中建立后汉，但统治短暂。",
+      "context": "中原战乱、契丹驻军与地方军事力量重组构成其建国条件。",
+      "note": "不把后汉与刘邦的西汉或刘秀的东汉混淆，其建立也未结束割据。",
+      "eventIds": [
+        "cn-later-zhou-founded"
+      ],
+      "bookRefs": [
+        {
+          "volume": 8,
+          "chapter": "第八章 五代十国的政治与经济",
+          "section": "第一节 五代的更替",
+          "lineStart": 109574,
+          "lineEnd": 109638
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "zhaoguangyi",
+      "name": "赵光义",
+      "periodIds": [
+        "five-dynasties",
+        "song-liao-xia-jin"
+      ],
+      "role": "宋太宗",
+      "description": "赵光义继位后继续宋初统一战争，迫使吴越归地并攻灭北汉，随后北伐辽朝受挫，体现宋从结束割据转向长期边防的变化。",
+      "contribution": "组织纳地和军事统一河东，并继续加强朝廷控制，推动宋初政治与军事格局形成。",
+      "context": "南方大部已归宋，北汉与辽的关系使北向战争更复杂。",
+      "note": "继位细节与“烛影斧声”传说分开；灭北汉不等于成功收回燕云。",
+      "eventIds": [
+        "cn-northern-han-fall",
+        "cn-wuyue-return"
+      ],
+      "bookRefs": [
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第一节 统一战争",
+          "lineStart": 121195,
+          "lineEnd": 121229
+        },
+        {
+          "volume": 9,
+          "chapter": "第二章 宋初的统一战争和与辽及党项的关系",
+          "section": "第一节 统一战争",
+          "lineStart": 121241,
+          "lineEnd": 121253
+        }
+      ],
+      "coreEntry": true,
+      "sourceIds": [],
+      "scope": "china"
+    },
+    {
+      "id": "wp-shotoku",
+      "name": "圣德太子",
+      "role": "飞鸟时代王族与佛教支持者",
+      "start": 593,
+      "end": 622,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-kofun-asuka"
+      ],
+      "description": "传统记载中的摄政王族，活动与宫廷整合、佛教推广及隋日往来相连。",
+      "contribution": "支持佛教与制度借鉴，成为日本早期政治文化改革的象征人物。",
+      "context": "体现王权形成与跨海知识传播相互联系。",
+      "note": "十七条宪法等文献的成书和归属需与后世记载区分。",
+      "sourceIds": [
+        "ws6-asiaearly",
+        "wv3-japan-columbia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-buddhism-japan"
+      ],
+      "periodIds": [
+        "sui",
+        "tang"
+      ],
+      "dateLabel": "约公元593年—公元622年"
+    },
+    {
+      "id": "wp-nakatomi",
+      "name": "中臣镰足",
+      "role": "大化改新相关政治人物",
+      "start": 645,
+      "end": 669,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-kofun-asuka"
+      ],
+      "description": "参与推翻苏我氏主导的宫廷格局，与中大兄皇子合作。",
+      "contribution": "推动权力重新集中，参与新政治秩序的形成。",
+      "context": "改革需要多代落实，不能归结为个人一次设计。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-japan-columbia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-taika"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元645年—公元669年"
+    },
+    {
+      "id": "wp-shomu",
+      "name": "圣武天皇",
+      "role": "奈良时代天皇与佛教施主",
+      "start": 724,
+      "end": 749,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-nara-heian"
+      ],
+      "description": "在位时国家佛教、国分寺与东大寺工程得到大力支持。",
+      "contribution": "以寺院和造像组织国家祈愿，动员各地物资和工艺。",
+      "context": "可借他理解宗教工程、王权和社会负担的联系。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-japan-columbia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-nara"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元724年—公元749年"
+    },
+    {
+      "id": "wp-murasaki",
+      "name": "紫式部",
+      "role": "平安时代作家",
+      "start": 1000,
+      "end": 1010,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-nara-heian"
+      ],
+      "description": "在贵族宫廷生活背景下写作的女性作者，以《源氏物语》闻名。",
+      "contribution": "通过人物关系、情感与日常描写呈现宫廷世界。",
+      "context": "她的作品是理解平安审美、身份与性别处境的窗口。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-japan-columbia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-heian"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1000年—公元1010年"
+    },
+    {
+      "id": "wp-yoritomo",
+      "name": "源赖朝",
+      "role": "镰仓武家政权建立者",
+      "start": 1180,
+      "end": 1199,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "description": "在源平战争及战后重建中取得优势的武士领袖。",
+      "contribution": "建立家臣与地方军事管理网络，获得将军称号。",
+      "context": "使武家成为持续影响全国政治的统治力量。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-japan-columbia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-kamakura"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1180年—公元1199年"
+    },
+    {
+      "id": "wp-hojo",
+      "name": "北条时宗",
+      "role": "镰仓幕府执权",
+      "start": 1268,
+      "end": 1284,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "description": "蒙古两次进攻日本时的幕府实际执政者。",
+      "contribution": "组织防御和西部动员，维系御家人军事网络。",
+      "context": "战争负担说明守卫成功也可能伴随统治财政危机。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-mongol-japan"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin",
+        "yuan"
+      ],
+      "dateLabel": "约公元1268年—公元1284年"
+    },
+    {
+      "id": "wp-ashikaga",
+      "name": "足利尊氏",
+      "role": "室町幕府建立者",
+      "start": 1333,
+      "end": 1358,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "description": "在镰仓幕府崩溃后的权力争夺中崛起。",
+      "contribution": "建立新武家政权，依靠各地武士集团统治。",
+      "context": "其统治形成于朝廷分裂与地方力量竞争之中。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-muromachi"
+      ],
+      "periodIds": [
+        "yuan"
+      ],
+      "dateLabel": "约公元1333年—公元1358年"
+    },
+    {
+      "id": "wp-nobunaga",
+      "name": "织田信长",
+      "role": "战国统一进程中的大名",
+      "start": 1560,
+      "end": 1582,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "description": "通过战争与联盟在日本中部迅速扩大势力。",
+      "contribution": "削弱对立大名及部分宗教军事势力，推动统一。",
+      "context": "显示战国竞争如何走向权力集中，统一在其死后继续。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-sengoku"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1560年—公元1582年"
+    },
+    {
+      "id": "wp-hideyoshi",
+      "name": "丰臣秀吉",
+      "role": "统一日本的统治者与侵朝发动者",
+      "start": 1582,
+      "end": 1598,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "description": "继织田信长之后整合诸大名，并发动侵朝战争。",
+      "contribution": "以检地、刀狩等措施巩固秩序，同时向海外扩张。",
+      "context": "国内整合与对外战争应一并理解，不只看个人传奇。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2",
+        "wv3-korea"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-sengoku",
+        "we-imjin"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1582年—公元1598年"
+    },
+    {
+      "id": "wp-ieyasu",
+      "name": "德川家康",
+      "role": "江户幕府建立者",
+      "start": 1600,
+      "end": 1616,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-edo"
+      ],
+      "description": "在关原战后取得优势，1603年获任征夷大将军。",
+      "contribution": "奠定幕藩统治与家族继承基础，消除主要政治对手。",
+      "context": "长期秩序还由后继统治者、地方大名与社会协商形成。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-edo"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1600年—公元1616年"
+    },
+    {
+      "id": "wp-meiji",
+      "name": "明治天皇",
+      "role": "近代日本国家转型中的天皇",
+      "start": 1868,
+      "end": 1912,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-meiji"
+      ],
+      "description": "新政府以天皇名义推进政治、军事和经济改革。",
+      "contribution": "在中央集权及宪政形成中成为国家权威的核心象征。",
+      "context": "具体改革由政治集团和官僚执行，不能全归个人意志。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-industrial2",
+        "ws6-colonial"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-meiji"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1868年—公元1912年"
+    },
+    {
+      "id": "wp-ito",
+      "name": "伊藤博文",
+      "role": "明治政治家与首任内阁总理大臣",
+      "start": 1885,
+      "end": 1909,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-meiji",
+        "w-joseon"
+      ],
+      "description": "参与近代内阁、宪法和对外政策建设的政治家。",
+      "contribution": "推动帝国宪法与政府制度，并任日本在韩统监。",
+      "context": "制度建设和殖民扩张是其政治活动的两个重要面向。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-industrial2",
+        "ws6-colonial"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-meiji",
+        "we-japan-expansion"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1885年—公元1909年"
+    },
+    {
+      "id": "wp-kim-yusin",
+      "name": "金庾信",
+      "role": "新罗将领",
+      "start": 660,
+      "end": 673,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-korea-kingdoms"
+      ],
+      "description": "新罗对百济、高句丽战争中的重要军事人物。",
+      "contribution": "配合王权及外交联盟实施军事整合。",
+      "context": "半岛秩序的变化是多国战争与地方参与共同作用的结果。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-korea"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-silla"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元660年—公元673年"
+    },
+    {
+      "id": "wp-wang-geon",
+      "name": "王建",
+      "role": "高丽太祖",
+      "start": 918,
+      "end": 943,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-korea-kingdoms"
+      ],
+      "description": "在后三国竞争中建立高丽王朝的统治者。",
+      "contribution": "通过战争、联姻和吸纳地方势力推进统一。",
+      "context": "其政治整合奠定高丽王朝长期延续的基础。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-korea"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-koryo"
+      ],
+      "periodIds": [
+        "five-dynasties",
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元918年—公元943年"
+    },
+    {
+      "id": "wp-yi-seonggye",
+      "name": "李成桂",
+      "role": "朝鲜太祖",
+      "start": 1388,
+      "end": 1398,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-joseon"
+      ],
+      "description": "高丽末年出身军事集团，后建立朝鲜王朝。",
+      "contribution": "重组统治中心并开启以儒学为重要依据的新秩序。",
+      "context": "王朝更替同时涉及土地、官僚集团和国际关系调整。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-korea"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-joseon"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1388年—公元1398年"
+    },
+    {
+      "id": "wp-sejong",
+      "name": "世宗",
+      "role": "朝鲜王朝君主与文字创制主持者",
+      "start": 1418,
+      "end": 1450,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-joseon"
+      ],
+      "description": "重视文教、科学技术与治理的朝鲜君主。",
+      "contribution": "主持创制训民正音，使本地语言获得适用的书写系统。",
+      "context": "文字创新既有知识意义，也与社会沟通和国家治理相关。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-korea"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-hangul"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1418年—公元1450年"
+    },
+    {
+      "id": "wp-yi-sunsin",
+      "name": "李舜臣",
+      "role": "朝鲜海军将领",
+      "start": 1592,
+      "end": 1598,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-joseon"
+      ],
+      "description": "壬辰战争中组织海上抵抗的重要军事人物。",
+      "contribution": "利用海域条件及舰队战术打击日军海上运输与行动。",
+      "context": "其作用应置于朝鲜军民与明军共同作战的整体中理解。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-korea"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-imjin"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1592年—公元1598年"
+    },
+    {
+      "id": "wp-gojong",
+      "name": "高宗",
+      "role": "朝鲜君主与大韩帝国皇帝",
+      "start": 1863,
+      "end": 1907,
+      "scope": "world",
+      "regionIds": [
+        "east-asia"
+      ],
+      "worldEntryIds": [
+        "w-joseon"
+      ],
+      "description": "在列强介入与国内改革压力下执政的半岛君主。",
+      "contribution": "1897年称帝，尝试借制度改革与外交维持自主。",
+      "context": "帝国成立未阻止日本强制保护和吞并，显示弱国主权困境。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-korea"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-korea-colonial"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1863年—公元1907年"
+    },
+    {
+      "id": "wp-buddha",
+      "name": "释迦牟尼",
+      "role": "佛教形成中的导师",
+      "start": -500,
+      "end": -400,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-vedic"
+      ],
+      "description": "在古代北印度修行与讲说，其教法围绕苦、缘起和解脱展开。",
+      "contribution": "组织修行共同体，强调通过实践改变人的行为与认识。",
+      "context": "佛教后由不同僧团发展传播，不能把全部后世教义等同其原话。",
+      "note": "活动时段仅作约数；生卒年有不同传统与学术推算。",
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-buddha"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前500年—公元前400年"
+    },
+    {
+      "id": "wp-mahavira",
+      "name": "大雄",
+      "role": "耆那教传统的重要导师",
+      "start": -500,
+      "end": -400,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-vedic"
+      ],
+      "description": "与早期佛教相近时代的沙门导师，后世耆那教尊其为第二十四祖师。",
+      "contribution": "强调不害、克制与修行，形成持续影响南亚的宗教传统。",
+      "context": "展示古代印度思想的多样性，而非只有单一经典路线。",
+      "note": "传统生卒年与现代推算不同，采用约略活动时段。",
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-buddha"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前500年—公元前400年"
+    },
+    {
+      "id": "wp-chandragupta",
+      "name": "旃陀罗笈多·孔雀",
+      "role": "孔雀王朝建立者",
+      "start": -321,
+      "end": -297,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-maurya-kushan"
+      ],
+      "description": "在北印度权力重组中建立大范围统治的君主。",
+      "contribution": "组织军事扩张和帝国治理，并与塞琉古势力交涉。",
+      "context": "他奠定阿育王时代统治扩展的政治基础。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-maurya"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前321年—公元前297年"
+    },
+    {
+      "id": "wp-ashoka",
+      "name": "阿育王",
+      "role": "孔雀王朝君主与敕令发布者",
+      "start": -268,
+      "end": -232,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-maurya-kushan"
+      ],
+      "description": "以石柱和岩石敕令留下统治理念的古代君主。",
+      "contribution": "在战争后宣传法与克制，支持佛教并改进帝国沟通。",
+      "context": "其同期铭文为理解古代统治提供罕见直接材料。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-ashoka"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前268年—公元前232年"
+    },
+    {
+      "id": "wp-kanishka",
+      "name": "迦腻色迦",
+      "role": "贵霜君主与佛教施主",
+      "start": 127,
+      "end": 150,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-maurya-kushan"
+      ],
+      "description": "统治连接中亚和南亚部分地区的贵霜王朝君主。",
+      "contribution": "支持寺院、造像和跨区交流，币制也呈现多种神祇传统。",
+      "context": "其时代帮助理解贸易通道上多文化政治的形成。",
+      "note": "约127年即位为常用新推算之一，具体年代仍有争论。",
+      "sourceIds": [
+        "wv3-south-summary",
+        "ws6-indianocean"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-kushan"
+      ],
+      "periodIds": [
+        "eastern-han"
+      ],
+      "dateLabel": "约公元127年—公元150年"
+    },
+    {
+      "id": "wp-samudragupta",
+      "name": "沙摩陀罗笈多",
+      "role": "笈多王朝扩张者",
+      "start": 335,
+      "end": 375,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "description": "其征伐与政治理想见于阿拉哈巴德柱铭等王室材料。",
+      "contribution": "扩张北印度统治，并以不同方式安排周边势力关系。",
+      "context": "碑铭具有颂扬性质，不能把宣称都当作直接行政控制。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-gupta"
+      ],
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "dateLabel": "约公元335年—公元375年"
+    },
+    {
+      "id": "wp-kalidasa",
+      "name": "迦梨陀娑",
+      "role": "梵语诗人与戏剧作家",
+      "start": 350,
+      "end": 500,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "description": "以诗歌和戏剧享誉后世，常被置于古典梵语文学繁荣背景中。",
+      "contribution": "将神话、宫廷生活和自然意象写入精致文学形式。",
+      "context": "作品显示政治史之外语言与审美传统的持久生命。",
+      "note": "确切生平与年代不明，采用约四至五世纪范围。",
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-gupta"
+      ],
+      "periodIds": [
+        "eastern-jin",
+        "north-south"
+      ],
+      "dateLabel": "约公元350年—公元500年"
+    },
+    {
+      "id": "wp-aryabhata",
+      "name": "阿耶波多",
+      "role": "数学家与天文学家",
+      "start": 499,
+      "end": 520,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "description": "于499年完成重要著述，处理计算、天文周期等问题。",
+      "contribution": "用系统化计算方法讨论天体与数，推动南亚学术传统。",
+      "context": "其成果经后续评注与翻译继续发展，不能理解为孤立发明。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-math-india"
+      ],
+      "periodIds": [
+        "north-south"
+      ],
+      "dateLabel": "约公元499年—公元520年"
+    },
+    {
+      "id": "wp-brahmagupta",
+      "name": "婆罗摩笈多",
+      "role": "数学家与天文学家",
+      "start": 628,
+      "end": 665,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "description": "在七世纪著述中讨论算术、代数和天文计算。",
+      "contribution": "对零、负数及运算法则作出重要系统讨论。",
+      "context": "其著作经阿拉伯语等渠道参与欧亚知识传播。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-math-india"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元628年—公元665年"
+    },
+    {
+      "id": "wp-rajaraja",
+      "name": "罗阇罗阇一世",
+      "role": "朱罗君主与寺院营建者",
+      "start": 985,
+      "end": 1014,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "description": "在位时扩大南印度王权，并支持坦贾武尔大寺建设。",
+      "contribution": "结合军事、寺院和资源管理巩固统治。",
+      "context": "寺庙既是艺术遗产，也是经济组织与王权呈现的材料。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-indianocean",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-chola"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元985年—公元1014年"
+    },
+    {
+      "id": "wp-rajendra",
+      "name": "罗阇因陀罗一世",
+      "role": "朱罗君主",
+      "start": 1014,
+      "end": 1044,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "description": "延续朱罗扩张并介入孟加拉湾海上网络的统治者。",
+      "contribution": "远征北印度与海上诸地，强化王室威望及贸易联系。",
+      "context": "远征影响海域力量关系，但不等于永久占领全部港市。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-indianocean",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-chola"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1014年—公元1044年"
+    },
+    {
+      "id": "wp-aibak",
+      "name": "库特布丁·艾伯克",
+      "role": "德里苏丹国早期统治者",
+      "start": 1206,
+      "end": 1210,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-delhi-regional"
+      ],
+      "description": "由军事奴隶集团中崛起，在古尔势力变化后于北印度掌权。",
+      "contribution": "奠定德里苏丹国早期统治与建筑赞助的基础。",
+      "context": "新政权仍须依赖后继统治者协调军人、地方和城市。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-delhi"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1206年—公元1210年"
+    },
+    {
+      "id": "wp-iltutmish",
+      "name": "伊勒杜迷失",
+      "role": "德里苏丹国巩固者",
+      "start": 1211,
+      "end": 1236,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-delhi-regional"
+      ],
+      "description": "在早期苏丹国内部竞争中巩固德里政治中心。",
+      "contribution": "重整统治、钱币与对外名分，增强王朝稳定性。",
+      "context": "其作用说明政权建立后的制度化同样决定历史走向。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-delhi"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1211年—公元1236年"
+    },
+    {
+      "id": "wp-krishnadevaraya",
+      "name": "克里希纳德瓦拉亚",
+      "role": "毗奢耶那伽罗君主",
+      "start": 1509,
+      "end": 1529,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-delhi-regional"
+      ],
+      "description": "统治南印度强大宫廷，兼有军事和文化赞助活动。",
+      "contribution": "扩展王权并支持寺院、语言文学与城市生活。",
+      "context": "提供观察德里以外南亚政治和文化中心的入口。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-vijayanagara"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1509年—公元1529年"
+    },
+    {
+      "id": "wp-babur",
+      "name": "巴布尔",
+      "role": "莫卧儿王朝建立者",
+      "start": 1526,
+      "end": 1530,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "description": "出身中亚帖木儿王室传统，在北印度建立新王朝。",
+      "contribution": "以军事胜利进入德里，并留下自传性记录。",
+      "context": "其活动连接中亚政治经验与南亚帝国的开端。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-mughal"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1526年—公元1530年"
+    },
+    {
+      "id": "wp-akbar",
+      "name": "阿克巴",
+      "role": "莫卧儿帝国整合者",
+      "start": 1556,
+      "end": 1605,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "description": "在多宗教、多语言环境下扩大并巩固莫卧儿统治。",
+      "contribution": "吸纳拉杰普特等精英，调整税制与军政体系。",
+      "context": "其政策体现帝国依靠协商与组织维持差异社会的方式。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-akbar"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1556年—公元1605年"
+    },
+    {
+      "id": "wp-shahjahan",
+      "name": "沙贾汗",
+      "role": "莫卧儿君主与建筑赞助者",
+      "start": 1628,
+      "end": 1658,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "description": "在位时莫卧儿宫廷艺术和纪念性建筑达到重要高峰。",
+      "contribution": "营建泰姬陵等大型工程，集中工艺和财政资源。",
+      "context": "宫廷审美应与广泛工匠劳动、权力和资源配置一起理解。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-taj"
+      ],
+      "periodIds": [
+        "ming",
+        "qing"
+      ],
+      "dateLabel": "约公元1628年—公元1658年"
+    },
+    {
+      "id": "wp-shivaji",
+      "name": "希瓦吉",
+      "role": "马拉塔政权建立者",
+      "start": 1646,
+      "end": 1680,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "description": "在德干山区及周边地区组织军事和地方统治力量。",
+      "contribution": "建立马拉塔王权，并于1674年加冕。",
+      "context": "其继承者与联盟推动十八世纪南亚多中心政治。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-maratha"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1646年—公元1680年"
+    },
+    {
+      "id": "wp-clive",
+      "name": "罗伯特·克莱武",
+      "role": "东印度公司军政人物",
+      "start": 1757,
+      "end": 1767,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "description": "通过军事与本地联盟扩大英国公司在孟加拉的权力。",
+      "contribution": "参与普拉西战役及公司获取征税权的安排。",
+      "context": "其活动是商业势力转成领土殖民统治的重要节点。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-plassey"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1757年—公元1767年"
+    },
+    {
+      "id": "wp-lakshmibai",
+      "name": "拉克希米·芭伊",
+      "role": "章西女王与反英起义领导者",
+      "start": 1857,
+      "end": 1858,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-south-colonial",
+        "w-mughal"
+      ],
+      "description": "在王位继承与英国吞并政策争端背景下参与1857年反英斗争。",
+      "contribution": "组织章西及周边抵抗，成为起义的重要军事人物。",
+      "context": "她体现本地统治权与反殖民动员相交织的复杂处境。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-resistance",
+        "ws6-colonial"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-india1857"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1857年—公元1858年"
+    },
+    {
+      "id": "wp-naoroji",
+      "name": "达达拜·瑙罗吉",
+      "role": "印度公共政治人物与经济批评者",
+      "start": 1885,
+      "end": 1906,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-south-colonial"
+      ],
+      "description": "早期国大党领导人，关注殖民统治中的财富外流。",
+      "contribution": "以统计、演说和公共论辩批评印度经济受剥夺的结构。",
+      "context": "将经济问题与政治代表、自治要求联系起来。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-resistance",
+        "ws6-colonial"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-congress"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1885年—公元1906年"
+    },
+    {
+      "id": "wp-tagore",
+      "name": "罗宾德拉纳特·泰戈尔",
+      "role": "孟加拉作家与公共知识分子",
+      "start": 1890,
+      "end": 1912,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-south-colonial"
+      ],
+      "description": "以孟加拉语文学、教育实践和社会关怀参与近代公共文化。",
+      "contribution": "在反分治时期支持团结与本土文化，同时反思狭隘民族主义。",
+      "context": "本版只展示1912年前活动，其1913年诺贝尔奖不放入同期窗口。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-resistance",
+        "ws6-colonial"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-swadeshi"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1890年—公元1912年"
+    },
+    {
+      "id": "wp-jayavarman2",
+      "name": "阇耶跋摩二世",
+      "role": "吴哥王权早期统治者",
+      "start": 802,
+      "end": 835,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-angkor-maritime"
+      ],
+      "description": "后世碑铭把他与高棉王权的重要开端联系起来。",
+      "contribution": "在区域整合中建立新的政治权威及王室仪式传统。",
+      "context": "其事迹应区分较晚碑铭的回溯与同期证据。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-angkor",
+        "wv3-khmer"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-angkor"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元802年—公元835年"
+    },
+    {
+      "id": "wp-suryavarman2",
+      "name": "苏利耶跋摩二世",
+      "role": "高棉君主与吴哥窟营建者",
+      "start": 1113,
+      "end": 1150,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-angkor-maritime"
+      ],
+      "description": "吴哥王朝的重要君主，其统治与大规模战争和寺庙工程相连。",
+      "contribution": "营建吴哥窟，以宏大宗教空间呈现统治秩序。",
+      "context": "建筑是王室意图与众多工匠、劳动者共同创造的遗存。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-angkor",
+        "wv3-khmer"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-angkorwat"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1113年—公元1150年"
+    },
+    {
+      "id": "wp-jayavarman7",
+      "name": "阇耶跋摩七世",
+      "role": "高棉君主与重建者",
+      "start": 1181,
+      "end": 1218,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-angkor-maritime"
+      ],
+      "description": "在战争危机后重建吴哥权力的重要统治者。",
+      "contribution": "支持巴戎寺、城市道路及与医疗相关的设施建设。",
+      "context": "其佛教王权政策使吴哥景观与国家形象发生明显变化。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-angkor",
+        "wv3-khmer"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-jayavarman"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1181年—公元1218年"
+    },
+    {
+      "id": "wp-ngoquyen",
+      "name": "吴权",
+      "role": "越南自主政权奠基者",
+      "start": 938,
+      "end": 944,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [],
+      "description": "在红河地区权力重组中领导对南汉作战。",
+      "contribution": "利用白藤江地形和水文条件取得关键军事胜利。",
+      "context": "为后续自主政权提供条件，地方整合仍经历长期竞争。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-vietnam"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-vietnam"
+      ],
+      "periodIds": [
+        "five-dynasties",
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元938年—公元944年"
+    },
+    {
+      "id": "wp-lythaito",
+      "name": "李太祖",
+      "role": "越南李朝建立者",
+      "start": 1009,
+      "end": 1028,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [],
+      "description": "建立李朝后将政治中心迁到升龙。",
+      "contribution": "通过定都与国家组织巩固红河地区统治。",
+      "context": "其时代联系都城空间、佛教文化与王朝长期发展的开端。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-vietnam"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-lythanglong"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1009年—公元1028年"
+    },
+    {
+      "id": "wp-ramkhamhaeng",
+      "name": "兰甘亨",
+      "role": "素可泰君主",
+      "start": 1279,
+      "end": 1298,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [],
+      "description": "传统上与王室碑铭、佛教和泰文字的发展相联系。",
+      "contribution": "以本地语言和王权叙事塑造统治形象。",
+      "context": "碑铭是重要入口，但人物事迹与文字创制须注意证据争议。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-sukhothai"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-sukhothai"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin",
+        "yuan"
+      ],
+      "dateLabel": "约公元1279年—公元1298年"
+    },
+    {
+      "id": "wp-gajahmada",
+      "name": "加查·马达",
+      "role": "满者伯夷重臣",
+      "start": 1336,
+      "end": 1364,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-majapahit-melaka"
+      ],
+      "description": "在爪哇王室和岛际权力扩展中发挥作用的官员。",
+      "contribution": "参与军事、联盟与政治整合，成为王国强盛的象征。",
+      "context": "后世统一叙事常放大其作用，不能据誓言推定实际疆域。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-malacca",
+        "ws6-indianocean"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-majapahit"
+      ],
+      "periodIds": [
+        "yuan"
+      ],
+      "dateLabel": "约公元1336年—公元1364年"
+    },
+    {
+      "id": "wp-hayamwuruk",
+      "name": "哈奄·武鲁克",
+      "role": "满者伯夷君主",
+      "start": 1350,
+      "end": 1389,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-majapahit-melaka"
+      ],
+      "description": "王国较强盛时期的君主，其宫廷留下重要文学与政治记忆。",
+      "contribution": "支持宫廷与地方关系的整合及文化活动。",
+      "context": "与加查·马达一起观察王室、官员和港市间的权力网络。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-malacca",
+        "ws6-indianocean"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-majapahit"
+      ],
+      "periodIds": [
+        "yuan",
+        "ming"
+      ],
+      "dateLabel": "约公元1350年—公元1389年"
+    },
+    {
+      "id": "wp-parameswara",
+      "name": "帕拉梅斯瓦拉",
+      "role": "马六甲早期统治者",
+      "start": 1400,
+      "end": 1414,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-majapahit-melaka"
+      ],
+      "description": "常被视为马六甲建城及王权起点的重要人物。",
+      "contribution": "借港口位置、外交及商贸关系建立新的政治中心。",
+      "context": "其生平、改宗和继承记载存在不同传统，不能拼成无争议叙事。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-malacca"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-melaka"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1400年—公元1414年"
+    },
+    {
+      "id": "wp-albuquerque",
+      "name": "阿方索·德·阿尔布克尔克",
+      "role": "葡萄牙印度洋殖民军政人物",
+      "start": 1509,
+      "end": 1515,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-majapahit-melaka"
+      ],
+      "description": "以武力争夺印度洋港口的葡萄牙统治者。",
+      "contribution": "1511年攻占马六甲，以据点与舰队谋取贸易优势。",
+      "context": "其行动加深殖民暴力与既有亚洲网络的冲突。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-malacca"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-melaka1511"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1509年—公元1515年"
+    },
+    {
+      "id": "wp-mongkut",
+      "name": "蒙固（拉玛四世）",
+      "role": "暹罗君主",
+      "start": 1851,
+      "end": 1868,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-sea19"
+      ],
+      "description": "在英法影响增强时期执政，重视知识与外交往来。",
+      "contribution": "以条约和制度调整应对外部压力。",
+      "context": "改革为后继政策提供条件，也伴随不平等经济约束。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance",
+        "wv3-sea19"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-siam-reform"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1851年—公元1868年"
+    },
+    {
+      "id": "wp-chulalongkorn",
+      "name": "朱拉隆功（拉玛五世）",
+      "role": "暹罗改革君主",
+      "start": 1868,
+      "end": 1910,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-sea19"
+      ],
+      "description": "在殖民竞争中推动中央行政与社会制度变化。",
+      "contribution": "重整官僚财政，逐步废除奴隶制并发展近代国家机构。",
+      "context": "维护自主与集中权力同时发生，地方社会也承受改革代价。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance",
+        "wv3-sea19"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-siam-reform"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1868年—公元1910年"
+    },
+    {
+      "id": "wp-rizal",
+      "name": "何塞·黎刹",
+      "role": "菲律宾作家与改革思想者",
+      "start": 1887,
+      "end": 1896,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-sea19"
+      ],
+      "description": "以小说与公共写作批判殖民社会不平等。",
+      "contribution": "把宗教权力、身份和政治改革问题带入公共讨论。",
+      "context": "1896年被处决后成为民族运动象征，但他不等同所有革命派立场。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance",
+        "wv3-sea19"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-philippines"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1887年—公元1896年"
+    },
+    {
+      "id": "wp-aguinaldo",
+      "name": "埃米利奥·阿奎纳多",
+      "role": "菲律宾革命与第一共和国领导人",
+      "start": 1896,
+      "end": 1901,
+      "scope": "world",
+      "regionIds": [
+        "southeast-asia"
+      ],
+      "worldEntryIds": [
+        "w-sea19"
+      ],
+      "description": "在反西班牙革命和对美战争中担任军事、政治领袖。",
+      "contribution": "参与1898年独立宣告与共和国组织。",
+      "context": "其经历揭示独立宣言与实际摆脱殖民控制之间的距离。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance",
+        "wv3-sea19"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-philippines"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1896年—公元1901年"
+    },
+    {
+      "id": "wp-shulgi",
+      "name": "舒尔吉",
+      "role": "乌尔第三王朝君主",
+      "start": -2094,
+      "end": -2047,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-mesopotamia"
+      ],
+      "description": "在两河流域城市与宫廷行政发展中居重要地位的君主。",
+      "contribution": "加强文书、贡赋与国家工程，王室颂歌突出其统治形象。",
+      "context": "泥板账目有助于把宏大王权叙事与实际资源管理对照。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mesopotamia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-ur3"
+      ],
+      "periodIds": [
+        "xia"
+      ],
+      "dateLabel": "约公元前2094年—公元前2047年"
+    },
+    {
+      "id": "wp-hammurabi",
+      "name": "汉谟拉比",
+      "role": "巴比伦君主与法典发布者",
+      "start": -1792,
+      "end": -1750,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-mesopotamia"
+      ],
+      "description": "通过战争和联盟扩大巴比伦势力的统治者。",
+      "contribution": "发布著名法典碑，宣称以司法与秩序维护王权。",
+      "context": "文本体现身份差等及统治理想，不能视作现代平等法典。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mesopotamia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-hammurabi"
+      ],
+      "periodIds": [
+        "xia"
+      ],
+      "dateLabel": "约公元前1792年—公元前1750年"
+    },
+    {
+      "id": "wp-ashurnasirpal",
+      "name": "亚述那西尔帕二世",
+      "role": "新亚述君主",
+      "start": -883,
+      "end": -859,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "kalhu",
+        "w-mesopotamia"
+      ],
+      "description": "以征战、迁徙政策及卡尔胡宫殿工程闻名。",
+      "contribution": "集中贡赋与劳动力，利用浮雕展示统治和军事力量。",
+      "context": "其遗存可同时观察帝国宣传、工艺与征服暴力。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-babylon"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-assyria"
+      ],
+      "periodIds": [
+        "zhou"
+      ],
+      "dateLabel": "约公元前883年—公元前859年"
+    },
+    {
+      "id": "wp-ashurbanipal",
+      "name": "亚述巴尼拔",
+      "role": "亚述君主与泥板收集者",
+      "start": -669,
+      "end": -627,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-mesopotamia"
+      ],
+      "description": "在亚述晚期战争和宫廷文化中扮演重要角色。",
+      "contribution": "征集、抄写大量文学与知识泥板，形成尼尼微文书收藏。",
+      "context": "保存文本的意义与帝国战争、强制统治应一并理解。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-babylon"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-assyria"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前669年—公元前627年"
+    },
+    {
+      "id": "wp-nebuchadnezzar",
+      "name": "尼布甲尼撒二世",
+      "role": "新巴比伦君主",
+      "start": -605,
+      "end": -562,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-mesopotamia"
+      ],
+      "description": "在位时新巴比伦进行战争并大规模营建城市。",
+      "contribution": "修筑城墙、神庙与仪式道路，塑造巴比伦王权景观。",
+      "context": "其政绩与对被征服群体的暴力及迁徙政策并存。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-babylon"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-babylon-rise"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前605年—公元前562年"
+    },
+    {
+      "id": "cyrus",
+      "name": "居鲁士二世",
+      "role": "阿契美尼德波斯建立者",
+      "start": -550,
+      "end": -530,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-achaemenid"
+      ],
+      "description": "先后击败多个强国，将不同地方传统纳入波斯帝国。",
+      "contribution": "以军事和地方政策结合建立跨地区王权。",
+      "context": "圆筒及后世记载呈现多种形象，不能用现代口号代替历史分析。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-persia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-cyrus-babylon"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前550年—公元前530年"
+    },
+    {
+      "id": "wp-darius",
+      "name": "大流士一世",
+      "role": "波斯帝国组织者",
+      "start": -522,
+      "end": -486,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia",
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-achaemenid"
+      ],
+      "description": "在帝国继承冲突后取得统治权，并开展广泛治理与建设。",
+      "contribution": "整合行省、贡赋和交通，营建波斯波利斯等王室空间。",
+      "context": "其作用说明帝国延续依赖制度与信息，而非只靠征服。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-persia",
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-darius",
+        "we-persianwars"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前522年—公元前486年"
+    },
+    {
+      "id": "wp-arsaces",
+      "name": "阿尔萨息一世",
+      "role": "安息王朝早期建立者",
+      "start": -247,
+      "end": -217,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-seleucid-parthia"
+      ],
+      "description": "与帕提亚早期独立及阿尔萨息王朝起源相联系。",
+      "contribution": "在塞琉古势力变化中奠定地方王权。",
+      "context": "后世帝国规模由多代扩张而成，不能反推为建国时疆域。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-parthia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-parthia"
+      ],
+      "periodIds": [
+        "eastern",
+        "qin"
+      ],
+      "dateLabel": "约公元前247年—公元前217年"
+    },
+    {
+      "id": "wp-ardashir",
+      "name": "阿尔达希尔一世",
+      "role": "萨珊王朝建立者",
+      "start": 224,
+      "end": 241,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-sasanian"
+      ],
+      "description": "在伊朗地方竞争中击败安息末王并建立新王朝。",
+      "contribution": "重塑王权名分、宗教关系与宫廷秩序。",
+      "context": "萨珊制度后来影响西亚政治文化，并在征服后仍有延续。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-byzpersia",
+        "wv3-sasanian"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-sasanian"
+      ],
+      "periodIds": [
+        "three-kingdoms"
+      ],
+      "dateLabel": "约公元224年—公元241年"
+    },
+    {
+      "id": "wp-khosrow",
+      "name": "库思老一世",
+      "role": "萨珊君主与改革者",
+      "start": 531,
+      "end": 579,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-sasanian"
+      ],
+      "description": "在萨珊与拜占庭长期竞争时代统治伊朗。",
+      "contribution": "推行赋税、军事及行政调整并支持宫廷学术。",
+      "context": "其理想化贤王形象须与财政需求、战争和社会层级相对照。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-byzpersia",
+        "wv3-sasanian"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-sasanian-reform"
+      ],
+      "periodIds": [
+        "north-south"
+      ],
+      "dateLabel": "约公元531年—公元579年"
+    },
+    {
+      "id": "wp-muhammad",
+      "name": "穆罕默德",
+      "role": "伊斯兰先知与共同体组织者",
+      "start": 610,
+      "end": 632,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "在麦加与麦地那传播伊斯兰并组织信仰共同体。",
+      "contribution": "以宗教信息、社会规范及政治协调改变阿拉伯半岛格局。",
+      "context": "其去世后的领导权继承与制度发展由后继共同体继续展开。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islamrise"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-hijra"
+      ],
+      "periodIds": [
+        "sui",
+        "tang"
+      ],
+      "dateLabel": "约公元610年—公元632年"
+    },
+    {
+      "id": "wp-abubakr",
+      "name": "阿布·伯克尔",
+      "role": "首任正统哈里发",
+      "start": 632,
+      "end": 634,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "穆罕默德去世后被推举领导共同体。",
+      "contribution": "处理阿拉伯半岛分离与反抗，维系新政治秩序。",
+      "context": "其时期连接先知时代与哈里发国家扩张的开端。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islamstates"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-arab-conquests"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元632年—公元634年"
+    },
+    {
+      "id": "wp-umar",
+      "name": "欧麦尔一世",
+      "role": "早期哈里发",
+      "start": 634,
+      "end": 644,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "在阿拉伯军队扩展至叙利亚、埃及和伊朗时担任领导者。",
+      "contribution": "组织征服后的财政、军队与统治安排。",
+      "context": "扩张成功不表示被征服居民立即完成改宗或语言转变。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islamstates"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-arab-conquests"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元634年—公元644年"
+    },
+    {
+      "id": "wp-ali",
+      "name": "阿里",
+      "role": "哈里发与什叶派传统核心人物",
+      "start": 656,
+      "end": 661,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "在继承和领导权争论激烈时期担任哈里发。",
+      "contribution": "参与政治与军事争端，其地位后来成为宗教传统的重要问题。",
+      "context": "后世逊尼、什叶分化不宜全部压缩为一场个人冲突。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islamstates"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-arab-conquests"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元656年—公元661年"
+    },
+    {
+      "id": "wp-abdmalik",
+      "name": "阿卜杜勒·麦立克",
+      "role": "倭马亚君主",
+      "start": 685,
+      "end": 705,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "在内战后重建倭马亚帝国秩序。",
+      "contribution": "推进行政阿拉伯语化与币制调整，营建圆顶清真寺。",
+      "context": "统一制度与宗教象征共同强化王权，各地执行仍有差异。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islamstates"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-umayyad"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元685年—公元705年"
+    },
+    {
+      "id": "wp-almansur",
+      "name": "曼苏尔",
+      "role": "阿拔斯哈里发与巴格达建城者",
+      "start": 754,
+      "end": 775,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "阿拔斯早期巩固王朝统治的重要君主。",
+      "contribution": "762年营建巴格达，将政治中心放到伊拉克交通与经济网络。",
+      "context": "新都城聚集官僚、商人和学者，繁荣超出个人规划。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islam"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-abbasid"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元754年—公元775年"
+    },
+    {
+      "id": "wp-khwarizmi",
+      "name": "花拉子米",
+      "role": "数学家与天文学家",
+      "start": 820,
+      "end": 850,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "在阿拔斯学术环境中从事数学、天文与地理著述。",
+      "contribution": "系统论述代数与计算方法，吸收并发展多种知识传统。",
+      "context": "其著述经翻译影响更广地区，知识传播伴随持续改造。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islam"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-translation"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元820年—公元850年"
+    },
+    {
+      "id": "wp-hunayn",
+      "name": "侯奈因·伊本·伊斯哈格",
+      "role": "医学翻译家与学者",
+      "start": 830,
+      "end": 873,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "多语言基督徒学者，活跃于阿拔斯时期知识网络。",
+      "contribution": "翻译、整理希腊医学并讨论术语与文本版本。",
+      "context": "说明伊斯兰世界学术由不同宗教与语言群体共同创造。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islam"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-translation"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元830年—公元873年"
+    },
+    {
+      "id": "wp-ibnsina",
+      "name": "伊本·西那",
+      "role": "医学家与哲学家",
+      "start": 1000,
+      "end": 1037,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-central-medieval",
+        "w-caliphates"
+      ],
+      "description": "在中亚及伊朗多个宫廷和城市从事学术与政治活动。",
+      "contribution": "撰写《医典》等系统著作，将医学、逻辑与哲学相互贯通。",
+      "context": "长期影响来自著述、评注和跨语言教育网络的共同作用。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islam"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-ibnsina"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1000年—公元1037年"
+    },
+    {
+      "id": "wp-alparslan",
+      "name": "阿尔普·阿尔斯兰",
+      "role": "塞尔柱苏丹",
+      "start": 1063,
+      "end": 1072,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-central-medieval"
+      ],
+      "description": "统治塞尔柱扩张时期的西亚强权。",
+      "contribution": "1071年在曼齐刻尔特击败拜占庭军队。",
+      "context": "战役促进安纳托利亚局势改变，但长期转型不由一人决定。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-seljuk"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-seljuk"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1063年—公元1072年"
+    },
+    {
+      "id": "wp-saladin",
+      "name": "萨拉丁",
+      "role": "阿尤布王朝统治者",
+      "start": 1174,
+      "end": 1193,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia",
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "description": "在埃及与叙利亚整合力量，并与十字军政权竞争。",
+      "contribution": "1187年收复耶路撒冷，随后以战争与谈判应对第三次十字军。",
+      "context": "其军事成就建立在财政、政治联合与宗教动员之上。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-crusades"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-saladin",
+        "we-crusades"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1174年—公元1193年"
+    },
+    {
+      "id": "wp-hulegu",
+      "name": "旭烈兀",
+      "role": "蒙古征服者与伊儿汗国奠基者",
+      "start": 1256,
+      "end": 1265,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-central-medieval"
+      ],
+      "description": "率蒙古军队进入伊朗和伊拉克，攻陷巴格达。",
+      "contribution": "建立西征后的统治基础，推动伊儿汗国形成。",
+      "context": "征服带来严重破坏，也改变人口、城市和区域政治中心。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-ottomans"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-baghdad1258"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1256年—公元1265年"
+    },
+    {
+      "id": "wp-timur",
+      "name": "帖木儿",
+      "role": "河中统治者与征服者",
+      "start": 1370,
+      "end": 1405,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-central-medieval"
+      ],
+      "description": "以撒马尔罕为中心建立广泛军事支配网络。",
+      "contribution": "征战多地并迁移工匠，集中资源营建王室城市。",
+      "context": "辉煌艺术和巨大战争代价必须放在一起理解。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-ottomans"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-timur"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1370年—公元1405年"
+    },
+    {
+      "id": "wp-mehmed",
+      "name": "穆罕默德二世",
+      "role": "奥斯曼苏丹与君士坦丁堡征服者",
+      "start": 1451,
+      "end": 1481,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "description": "以1453年攻城及都城重建闻名的奥斯曼君主。",
+      "contribution": "扩张帝国，重建伊斯坦布尔并组织多群体城市社会。",
+      "context": "拜占庭遗产与新王权在城市空间中发生复杂继承。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-ottomans"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-ottoman1453"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1451年—公元1481年"
+    },
+    {
+      "id": "wp-suleiman",
+      "name": "苏莱曼一世",
+      "role": "奥斯曼苏丹与法律整合者",
+      "start": 1520,
+      "end": 1566,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "description": "统治跨欧亚非的奥斯曼帝国，并支持艺术与建筑。",
+      "contribution": "开展军事扩展、法律整理及财政行政管理。",
+      "context": "其强盛形象背后有官僚、地方集团和广大生产者的支撑。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-ottoman2"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-suleiman"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1520年—公元1566年"
+    },
+    {
+      "id": "wp-ismail",
+      "name": "伊斯玛仪一世",
+      "role": "萨法维王朝建立者",
+      "start": 1501,
+      "end": 1524,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "description": "结合宗教追随者与军事力量在伊朗建立王朝。",
+      "contribution": "确立十二伊玛目什叶派的国家地位，并与奥斯曼竞争。",
+      "context": "宗教社会转型长期持续，不能视为一次政令即全部完成。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-safavid"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-safavid"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1501年—公元1524年"
+    },
+    {
+      "id": "wp-abbas",
+      "name": "阿拔斯一世",
+      "role": "萨法维改革者与城市赞助者",
+      "start": 1587,
+      "end": 1629,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "description": "在帝国危机后重组军政、贸易与王室资源。",
+      "contribution": "营建伊斯法罕，发展丝绸贸易并调整军事结构。",
+      "context": "文化繁荣与强制迁徙、国家垄断和地方负担同时存在。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-safavid"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-abbas"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1587年—公元1629年"
+    },
+    {
+      "id": "wp-aghakhan",
+      "name": "阿迦·穆罕默德汗",
+      "role": "卡扎尔王朝奠基者",
+      "start": 1785,
+      "end": 1797,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-qajar"
+      ],
+      "description": "在十八世纪伊朗长期竞争后取得优势。",
+      "contribution": "整合主要地区，并于1796年正式加冕。",
+      "context": "王朝巩固伴随战争与严酷统治，其后面临更强外部压力。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-qajar",
+        "ws6-iranconstitution"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-qajar"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1785年—公元1797年"
+    },
+    {
+      "id": "wp-abdulmecid",
+      "name": "阿卜杜勒·迈吉德一世",
+      "role": "坦志麦特时期奥斯曼苏丹",
+      "start": 1839,
+      "end": 1861,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "description": "在帝国军事财政压力与列强干预下统治。",
+      "contribution": "支持1839和1856年改革诏令，调整臣民权利与行政制度。",
+      "context": "改革由官僚集团与多方利益推动，执行并不均衡。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-tanzimat"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-tanzimat"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1839年—公元1861年"
+    },
+    {
+      "id": "wp-sattarkhan",
+      "name": "萨塔尔汗",
+      "role": "伊朗立宪运动抵抗领袖",
+      "start": 1908,
+      "end": 1910,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-qajar"
+      ],
+      "description": "在大不里士反对王权政变的斗争中成为重要领导者。",
+      "contribution": "组织武装抵抗，维护宪法与议会诉求。",
+      "context": "其行动体现立宪革命既有城市动员，也面对地方与国际压力。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-iranconstitution"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-iran1906"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1908年—公元1910年"
+    },
+    {
+      "id": "wp-solon",
+      "name": "梭伦",
+      "role": "雅典改革者与诗人",
+      "start": -594,
+      "end": -560,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-greek-world"
+      ],
+      "description": "面对债务和社会冲突主持雅典改革。",
+      "contribution": "缓解债务奴役，按财产安排部分政治资格。",
+      "context": "为后续改革创造空间，但没有立即建立完整民主。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-athens"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前594年—公元前560年"
+    },
+    {
+      "id": "wp-cleisthenes",
+      "name": "克里斯提尼",
+      "role": "雅典政治改革者",
+      "start": -508,
+      "end": -500,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-greek-world"
+      ],
+      "description": "在贵族竞争和民众动员中调整雅典政治组织。",
+      "contribution": "重组部落和五百人议事会，削弱旧家族网络。",
+      "context": "公民参与扩大，制度仍排除大量居民。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-athens"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前508年—公元前500年"
+    },
+    {
+      "id": "wp-pericles",
+      "name": "伯里克利",
+      "role": "雅典政治家",
+      "start": -461,
+      "end": -429,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "classical",
+        "w-greek-world"
+      ],
+      "description": "在雅典海上势力扩展和城邦战争时代领导公共政治。",
+      "contribution": "支持公民参与与卫城工程，并领导战争初期政策。",
+      "context": "繁荣与同盟控制相伴，雅典政治不能脱离帝国资源理解。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-athens",
+        "we-peloponnesian"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前461年—公元前429年"
+    },
+    {
+      "id": "wp-themistocles",
+      "name": "地米斯托克利",
+      "role": "雅典政治家与海军组织者",
+      "start": -483,
+      "end": -470,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-greek-world"
+      ],
+      "description": "在波斯战争前后推动雅典重视海军。",
+      "contribution": "组织舰队并在萨拉米斯战争中发挥作用。",
+      "context": "海军强化雅典防御，也提升桨手公民与海上霸权的重要性。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-persianwars"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前483年—公元前470年"
+    },
+    {
+      "id": "wp-thucydides",
+      "name": "修昔底德",
+      "role": "历史著述者",
+      "start": -431,
+      "end": -400,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-greek-world"
+      ],
+      "description": "亲历伯罗奔尼撒战争，并撰写战争史。",
+      "contribution": "分析战争、权力和人的决策，重视调查与论证。",
+      "context": "其作品仍是带有作者选择的叙述，不能代替全部历史声音。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-peloponnesian"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前431年—公元前400年"
+    },
+    {
+      "id": "wp-socrates",
+      "name": "苏格拉底",
+      "role": "雅典哲学家",
+      "start": -430,
+      "end": -399,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "classical",
+        "w-greek-world"
+      ],
+      "description": "以对话和追问讨论德性、知识与公共生活。",
+      "contribution": "通过检验概念与理由影响后来的哲学方法。",
+      "context": "思想主要经学生记述传世，应区分历史人物与文学塑造。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-greek-philosophy"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前430年—公元前399年"
+    },
+    {
+      "id": "wp-plato",
+      "name": "柏拉图",
+      "role": "哲学家与学园创办者",
+      "start": -387,
+      "end": -347,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "classical",
+        "w-greek-world"
+      ],
+      "description": "以对话作品讨论正义、知识、教育与理想政治。",
+      "contribution": "创办学园，使哲学讨论与持续教育组织结合。",
+      "context": "其思想经历多重解释，不能以一句理想国概括全部作品。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-greek-philosophy"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前387年—公元前347年"
+    },
+    {
+      "id": "wp-aristotle",
+      "name": "亚里士多德",
+      "role": "哲学家与系统知识研究者",
+      "start": -367,
+      "end": -322,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "classical",
+        "w-greek-world"
+      ],
+      "description": "研究逻辑、自然、伦理与政治的古希腊学者。",
+      "contribution": "以分类、论证和调查形成广泛的知识体系。",
+      "context": "其著作经不同语言传统传承，并被后世不断批评与改造。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-greek-philosophy"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前367年—公元前322年"
+    },
+    {
+      "id": "alexander",
+      "name": "亚历山大",
+      "role": "马其顿国王与征服者",
+      "start": -336,
+      "end": -323,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "hellenism",
+        "w-greek-world",
+        "w-seleucid-parthia"
+      ],
+      "description": "率军从巴尔干进入波斯、埃及及南亚西北。",
+      "contribution": "击败阿契美尼德王朝，重组广阔区域的军事政治关系。",
+      "context": "征服促成文化接触也造成破坏，希腊化诸国由继承者继续塑造。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-persia",
+        "ws6-greece"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-alexander"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前336年—公元前323年"
+    },
+    {
+      "id": "wp-hannibal",
+      "name": "汉尼拔",
+      "role": "迦太基将领",
+      "start": -218,
+      "end": -202,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "第二次布匿战争中率军进入意大利，与罗马长期交战。",
+      "contribution": "利用战术和联盟取得多次胜利，试图瓦解罗马同盟。",
+      "context": "战场胜利不足以单独决定战争，后勤和政治资源同样关键。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-republic"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-punic"
+      ],
+      "periodIds": [
+        "qin",
+        "han"
+      ],
+      "dateLabel": "约公元前218年—公元前202年"
+    },
+    {
+      "id": "wp-scipio",
+      "name": "西庇阿",
+      "role": "罗马将领",
+      "start": -210,
+      "end": -183,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "在第二次布匿战争后期领导罗马作战。",
+      "contribution": "转战伊比利亚与北非，前202年在扎马击败汉尼拔。",
+      "context": "罗马通过盟友、资源与军事调整取得长期优势。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-republic"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-punic"
+      ],
+      "periodIds": [
+        "qin",
+        "han"
+      ],
+      "dateLabel": "约公元前210年—公元前183年"
+    },
+    {
+      "id": "wp-caesar",
+      "name": "尤利乌斯·恺撒",
+      "role": "罗马将领与独裁者",
+      "start": -60,
+      "end": -44,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "以高卢战争、政治联盟与内战取得极大权力。",
+      "contribution": "突破共和国权力制衡，实施改革并终身独裁。",
+      "context": "其遇刺未解决军队个人化和精英竞争，反而引出新内战。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-republic"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-caesar"
+      ],
+      "periodIds": [
+        "han"
+      ],
+      "dateLabel": "约公元前60年—公元前44年"
+    },
+    {
+      "id": "wp-augustus",
+      "name": "奥古斯都",
+      "role": "罗马元首制奠基者",
+      "start": -31,
+      "end": 14,
+      "scope": "world",
+      "regionIds": [
+        "europe",
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "原名屋大维，在内战中击败对手后建立持久统治。",
+      "contribution": "集中军政权力，重塑官职、行省与王朝继承安排。",
+      "context": "共和外观与皇帝实际权力并存，是理解帝制形成的核心。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-augustus",
+        "wv3-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-augustus",
+        "we-cleopatra"
+      ],
+      "periodIds": [
+        "han",
+        "xin"
+      ],
+      "dateLabel": "约公元前31年—公元14年"
+    },
+    {
+      "id": "wp-constantine",
+      "name": "君士坦丁一世",
+      "role": "罗马皇帝与新都建设者",
+      "start": 306,
+      "end": 337,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman",
+        "w-byzantium"
+      ],
+      "description": "在帝国内战后取得统治，并改变皇权与基督教的关系。",
+      "contribution": "支持基督教合法化，建立君士坦丁堡政治中心。",
+      "context": "其政策加速帝国重组，但社会基督教化是长期过程。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-late-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-constantine"
+      ],
+      "periodIds": [
+        "western-jin",
+        "eastern-jin"
+      ],
+      "dateLabel": "约公元306年—公元337年"
+    },
+    {
+      "id": "wp-odoacer",
+      "name": "奥多亚塞",
+      "role": "意大利军事统治者",
+      "start": 476,
+      "end": 493,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman",
+        "w-europe-medieval"
+      ],
+      "description": "476年废黜西部皇帝后统治意大利。",
+      "contribution": "以军事权力接管西罗马残余行政体系。",
+      "context": "罗马制度部分延续，说明政治断代不等于社会全面消失。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-late-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-rome476"
+      ],
+      "periodIds": [
+        "north-south"
+      ],
+      "dateLabel": "约公元476年—公元493年"
+    },
+    {
+      "id": "wp-justinian",
+      "name": "查士丁尼一世",
+      "role": "东罗马皇帝与法律编纂主持者",
+      "start": 527,
+      "end": 565,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-byzantium"
+      ],
+      "description": "尝试恢复地中海帝国，并营建宗教与城市工程。",
+      "contribution": "组织《民法大全》编纂，支持圣索菲亚大教堂建设。",
+      "context": "法律遗产深远，战争和瘟疫也限制其帝国重建。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-byzpersia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-justinian"
+      ],
+      "periodIds": [
+        "north-south"
+      ],
+      "dateLabel": "约公元527年—公元565年"
+    },
+    {
+      "id": "wp-theodora",
+      "name": "狄奥多拉",
+      "role": "东罗马皇后",
+      "start": 527,
+      "end": 548,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-byzantium"
+      ],
+      "description": "在查士丁尼宫廷拥有重要政治影响的皇后。",
+      "contribution": "参与宫廷决策、宗教政策与权力维护。",
+      "context": "她的形象受褒贬不一的史家塑造，需结合立场阅读。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-byzpersia"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-justinian"
+      ],
+      "periodIds": [
+        "north-south"
+      ],
+      "dateLabel": "约公元527年—公元548年"
+    },
+    {
+      "id": "wp-charlemagne",
+      "name": "查理曼",
+      "role": "法兰克国王与加洛林皇帝",
+      "start": 768,
+      "end": 814,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "description": "通过军事扩张与教会合作统治西欧大片地区。",
+      "contribution": "整合地方精英，推动学校、书写和宗教管理。",
+      "context": "其帝国后来分裂，文化与政治遗产仍长期存在。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-medieval"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-charlemagne"
+      ],
+      "periodIds": [
+        "tang"
+      ],
+      "dateLabel": "约公元768年—公元814年"
+    },
+    {
+      "id": "wp-aquinas",
+      "name": "托马斯·阿奎那",
+      "role": "中世纪神学家与哲学家",
+      "start": 1250,
+      "end": 1274,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "description": "在大学和修会学术环境中讨论信仰、理性与伦理。",
+      "contribution": "利用亚里士多德等知识传统组织系统论证。",
+      "context": "说明中世纪学术依靠翻译、争论和机构网络发展。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-aquinas",
+        "ws6-medieval"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-medieval-towns"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin",
+        "yuan"
+      ],
+      "dateLabel": "约公元1250年—公元1274年"
+    },
+    {
+      "id": "wp-urban2",
+      "name": "乌尔班二世",
+      "role": "教皇与第一次十字军动员者",
+      "start": 1088,
+      "end": 1099,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "description": "在教会改革与东西方政治互动背景下主持教廷。",
+      "contribution": "1095年发出十字军动员号召。",
+      "context": "宗教号召与参战者多样利益结合，后果超出最初倡议。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-crusades"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-crusades"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1088年—公元1099年"
+    },
+    {
+      "id": "wp-john",
+      "name": "约翰王",
+      "role": "英格兰国王",
+      "start": 1199,
+      "end": 1216,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "description": "与贵族、教会及欧洲对手冲突不断的英格兰君主。",
+      "contribution": "1215年在压力下接受大宪章，随后又试图废除。",
+      "context": "王权约束产生于政治博弈，不是君主主动赐予普遍民主。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-magna"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-magna"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1199年—公元1216年"
+    },
+    {
+      "id": "wp-leonardo",
+      "name": "列奥纳多·达·芬奇",
+      "role": "画家与技术观察者",
+      "start": 1480,
+      "end": 1519,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "在意大利及法国宫廷环境中创作和研究。",
+      "contribution": "结合观察、素描与绘画实践研究身体、自然和机械。",
+      "context": "手稿显示艺术、工艺和知识领域尚未按现代学科清楚分开。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-renaissanceart",
+        "ws6-renaissance"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-renaissance"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1480年—公元1519年"
+    },
+    {
+      "id": "wp-michelangelo",
+      "name": "米开朗琪罗",
+      "role": "雕塑家、画家与建筑师",
+      "start": 1490,
+      "end": 1564,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "为城市、教皇和宫廷赞助者创作的大师。",
+      "contribution": "以雕塑、壁画和建筑表现人体、宗教与纪念性空间。",
+      "context": "杰作需与赞助制度、工坊劳动及当时信仰一同理解。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-michelangelo",
+        "ws6-renaissance",
+        "ws6-renaissanceart"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-renaissance"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1490年—公元1564年"
+    },
+    {
+      "id": "wp-erasmus",
+      "name": "伊拉斯谟",
+      "role": "人文主义学者",
+      "start": 1500,
+      "end": 1536,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "以语言研究、出版与公共论辩参与欧洲宗教文化。",
+      "contribution": "提倡回到文本，批评教会和社会弊端。",
+      "context": "人文主义并不只通向宗教分裂，也存在温和改革路线。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-reformation",
+        "ws6-renaissance",
+        "ws6-renaissanceart"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-renaissance"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1500年—公元1536年"
+    },
+    {
+      "id": "wp-gutenberg",
+      "name": "约翰内斯·古腾堡",
+      "role": "欧洲金属活字印刷先驱",
+      "start": 1450,
+      "end": 1468,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "在美因茨整合金属活字、油墨和压印工艺。",
+      "contribution": "推动可持续复制长篇印本的技术与生产方式。",
+      "context": "书业扩展由大量印工、出版者与读者共同完成。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-renaissance"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-printing-europe"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1450年—公元1468年"
+    },
+    {
+      "id": "wp-luther",
+      "name": "马丁·路德",
+      "role": "宗教改革者",
+      "start": 1517,
+      "end": 1546,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "因对赎罪券、救赎与教会权威的批评引发广泛争论。",
+      "contribution": "借写作、翻译和出版传播新的宗教主张。",
+      "context": "宗教改革同时依赖地方统治者、城市和民众的参与。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-reformation"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-reformation"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1517年—公元1546年"
+    },
+    {
+      "id": "wp-calvin",
+      "name": "约翰·加尔文",
+      "role": "宗教改革思想家",
+      "start": 1536,
+      "end": 1564,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "以著述与日内瓦教会组织影响改革宗传统。",
+      "contribution": "系统化教义并调整城市宗教生活。",
+      "context": "改革塑造新的共同体规范，也包含严格纪律和排斥。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-reformation"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-reformation"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1536年—公元1564年"
+    },
+    {
+      "id": "wp-copernicus",
+      "name": "哥白尼",
+      "role": "天文学家",
+      "start": 1510,
+      "end": 1543,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "在长期计算与古典研究基础上提出太阳居中的天文模型。",
+      "contribution": "1543年出版《天体运行论》，重新安排行星运动解释。",
+      "context": "其模型仍有局限，后继观测和理论才继续改变天文学。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-astronomy",
+        "ws6-enlighten"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-science"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1510年—公元1543年"
+    },
+    {
+      "id": "wp-galileo",
+      "name": "伽利略",
+      "role": "自然研究者与望远镜观察者",
+      "start": 1609,
+      "end": 1633,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "通过仪器观察和数学研究讨论天体及运动。",
+      "contribution": "公布木星卫星等发现，为传统宇宙观带来挑战。",
+      "context": "科学论证与赞助、教会权威发生冲突，不能只写成孤胆天才故事。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-astronomy",
+        "ws6-enlighten"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-science"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1609年—公元1633年"
+    },
+    {
+      "id": "wp-newton",
+      "name": "牛顿",
+      "role": "数学家与自然哲学家",
+      "start": 1665,
+      "end": 1727,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "研究运动、引力、光学与数学，也参与当时宗教及炼金术讨论。",
+      "contribution": "1687年《自然哲学的数学原理》系统阐述力学。",
+      "context": "理论综合建立在前人和学术网络之上，后世物理又继续修正。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-astronomy",
+        "ws6-enlighten"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-science"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1665年—公元1727年"
+    },
+    {
+      "id": "wp-cromwell",
+      "name": "克伦威尔",
+      "role": "议会军统帅与护国公",
+      "start": 1642,
+      "end": 1658,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "在英伦内战中崛起，后统治共和国与护国政体。",
+      "contribution": "组织军队击败王党，并集中军政权力。",
+      "context": "反君权并不等于现代民主，其军事统治及对爱尔兰暴力须并观。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-civilwar"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-englishcivil"
+      ],
+      "periodIds": [
+        "ming",
+        "qing"
+      ],
+      "dateLabel": "约公元1642年—公元1658年"
+    },
+    {
+      "id": "wp-william3",
+      "name": "威廉三世",
+      "role": "1688年英国权力更替中的君主",
+      "start": 1688,
+      "end": 1702,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "荷兰执政者受邀进入英格兰，与玛丽共同继位。",
+      "contribution": "在权利法案框架下接受新的王位与议会安排。",
+      "context": "王位更替也与欧洲战争及宗教冲突密切相关。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-rights"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-rights1689"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1688年—公元1702年"
+    },
+    {
+      "id": "wp-peter",
+      "name": "彼得一世",
+      "role": "俄国改革君主",
+      "start": 1682,
+      "end": 1725,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "在欧洲强国竞争中重整军队、官僚和贸易。",
+      "contribution": "建设圣彼得堡，扩展波罗的海地位。",
+      "context": "改革增强国家力量，也依靠沉重征税和强制劳役。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-peterrussia",
+        "ws6-peterreforms"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-peter"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1682年—公元1725年"
+    },
+    {
+      "id": "wp-locke",
+      "name": "洛克",
+      "role": "政治思想家",
+      "start": 1689,
+      "end": 1704,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "围绕知识、财产、政府和宗教宽容展开论述。",
+      "contribution": "提出以同意和权利解释政府合法性的重要理论。",
+      "context": "其自由理念与当时财产及殖民背景存在复杂关系。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-enlighten"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-englightenment"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1689年—公元1704年"
+    },
+    {
+      "id": "wp-montesquieu",
+      "name": "孟德斯鸠",
+      "role": "政治与法律思想家",
+      "start": 1721,
+      "end": 1755,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "以比较制度和法律环境研究政治秩序。",
+      "contribution": "讨论权力制衡，强调法律与社会条件的联系。",
+      "context": "影响后世宪政，但其分类和判断带有十八世纪局限。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-enlighten"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-englightenment"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1721年—公元1755年"
+    },
+    {
+      "id": "wp-voltaire",
+      "name": "伏尔泰",
+      "role": "作家与启蒙论辩者",
+      "start": 1720,
+      "end": 1778,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "以文学、历史和公共写作批评迫害与专断。",
+      "contribution": "维护宗教宽容并推动对既有权威的讨论。",
+      "context": "其主张并不等同所有启蒙作者或现代平等观念。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-enlighten"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-englightenment"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1720年—公元1778年"
+    },
+    {
+      "id": "wp-rousseau",
+      "name": "卢梭",
+      "role": "政治思想家与作家",
+      "start": 1750,
+      "end": 1778,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "description": "研究不平等、教育和政治共同体的合法性。",
+      "contribution": "以社会契约、人民主权等论述影响政治想象。",
+      "context": "其思想存在内在张力，后世采用方式也各不相同。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-enlighten"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-englightenment"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1750年—公元1778年"
+    },
+    {
+      "id": "wp-watt",
+      "name": "詹姆斯·瓦特",
+      "role": "蒸汽机改良者",
+      "start": 1769,
+      "end": 1800,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "在早期蒸汽技术基础上与企业伙伴改进动力装置。",
+      "contribution": "分离冷凝器等改良提高效率，扩大工业动力应用。",
+      "context": "工业革命由能源、资本、劳动和市场共同推动，不是个人发明的自动结果。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-industrial1"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-industrial"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1769年—公元1800年"
+    },
+    {
+      "id": "wp-louis16",
+      "name": "路易十六",
+      "role": "法国革命时期国王",
+      "start": 1774,
+      "end": 1793,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "在财政危机中召集三级会议，却未能解决代表和权力问题。",
+      "contribution": "其政策与出逃等行动加深政治信任危机。",
+      "context": "1793年被处决，象征革命对旧王权合法性的彻底挑战。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-french-revolution"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1774年—公元1793年"
+    },
+    {
+      "id": "wp-robespierre",
+      "name": "罗伯斯庇尔",
+      "role": "法国革命政治家",
+      "start": 1789,
+      "end": 1794,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "在雅各宾派及救国委员会政治中发挥重要作用。",
+      "contribution": "以共和国、德性和紧急统治推动革命政策。",
+      "context": "平等诉求与恐怖统治并存，不能以单一英雄或暴君标签替代过程。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-french-revolution"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1789年—公元1794年"
+    },
+    {
+      "id": "wp-degouges",
+      "name": "奥兰普·德·古热",
+      "role": "法国作家与女性权利倡议者",
+      "start": 1789,
+      "end": 1793,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "在革命中质问女性为何被排除在公民权之外。",
+      "contribution": "1791年发表《妇女与女公民权利宣言》。",
+      "context": "其文本揭示普遍权利口号与现实参与资格之间的落差。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-french-revolution"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1789年—公元1793年"
+    },
+    {
+      "id": "wp-napoleon",
+      "name": "拿破仑·波拿巴",
+      "role": "法国皇帝与军事统治者",
+      "start": 1799,
+      "end": 1815,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "利用革命后政治危机建立集权统治并称帝。",
+      "contribution": "推进民法和行政改革，同时发动大规模征服战争。",
+      "context": "改革遗产、战争伤亡与殖民奴隶制恢复构成复杂历史评价。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-napoleon"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1799年—公元1815年"
+    },
+    {
+      "id": "wp-metternich",
+      "name": "梅特涅",
+      "role": "奥地利外交家",
+      "start": 1809,
+      "end": 1848,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "维也纳会议及战后保守秩序中的重要人物。",
+      "contribution": "推动强国协调与压制革命、民族运动。",
+      "context": "均势外交可维持一定稳定，也难阻社会和民族诉求增长。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-vienna"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1809年—公元1848年"
+    },
+    {
+      "id": "wp-marx",
+      "name": "卡尔·马克思",
+      "role": "思想家与工人运动参与者",
+      "start": 1848,
+      "end": 1883,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "在欧洲工业化与政治革命背景下研究资本主义社会。",
+      "contribution": "与恩格斯发表《共产党宣言》，以《资本论》等研究生产和阶级关系。",
+      "context": "思想在不同运动中被解释、实践与争论，不能把后世全部政策归于作者。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-revolution1848"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1848年—公元1883年"
+    },
+    {
+      "id": "wp-engels",
+      "name": "弗里德里希·恩格斯",
+      "role": "社会主义思想家",
+      "start": 1845,
+      "end": 1895,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "观察英国工业社会，与马克思长期合作。",
+      "contribution": "研究工人处境，参与社会主义理论与国际组织活动。",
+      "context": "其作品把工厂劳动、城市生活和政治经济问题联系起来。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-revolution1848"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1845年—公元1895年"
+    },
+    {
+      "id": "wp-cavour",
+      "name": "加富尔",
+      "role": "撒丁王国首相",
+      "start": 1852,
+      "end": 1861,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "以王国改革和外交推动意大利统一的重要政治家。",
+      "contribution": "借国际联盟与战争扩大撒丁王国的整合力量。",
+      "context": "其君主国家路线与共和、民众运动既合作又有分歧。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-italy"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1852年—公元1861年"
+    },
+    {
+      "id": "wp-garibaldi",
+      "name": "加里波第",
+      "role": "意大利统一运动军事领袖",
+      "start": 1848,
+      "end": 1870,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "长期参与民族和共和运动，曾在南美活动。",
+      "contribution": "率志愿军取得南方胜利，支持政治整合。",
+      "context": "民众动员与王国外交共同促成统一，成果并不完全符合共和理想。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-italy"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1848年—公元1870年"
+    },
+    {
+      "id": "wp-alexander2",
+      "name": "亚历山大二世",
+      "role": "俄国改革沙皇",
+      "start": 1855,
+      "end": 1881,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "在战争失利和国家危机后主持一系列改革。",
+      "contribution": "1861年废除农奴制，并调整司法、地方和军事制度。",
+      "context": "改革保留专制及诸多约束，农村和政治矛盾持续。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-labor"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-serfs"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1855年—公元1881年"
+    },
+    {
+      "id": "wp-bismarck",
+      "name": "俾斯麦",
+      "role": "普鲁士首相与德意志帝国宰相",
+      "start": 1862,
+      "end": 1890,
+      "scope": "world",
+      "regionIds": [
+        "europe",
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "通过现实外交和战争推动普鲁士主导的统一。",
+      "contribution": "整合邦国、建立帝国，后以联盟外交和社会政策维护统治。",
+      "context": "国家建设同时包含议会协商、镇压与社会改革。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas",
+        "ws6-colonial"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-germany",
+        "we-berlin"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1862年—公元1890年"
+    },
+    {
+      "id": "wp-nicholas2",
+      "name": "尼古拉二世",
+      "role": "俄国末代沙皇",
+      "start": 1894,
+      "end": 1912,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "description": "在工业化、对外战争和社会矛盾加剧时统治俄国。",
+      "contribution": "1905年危机中承诺国家杜马，随后限制其作用。",
+      "context": "本版止于1912，1917年退位属于展示窗口之外。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-russiacontext"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-russia1905"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1894年—公元1912年"
+    },
+    {
+      "id": "wp-mentuhotep",
+      "name": "孟图霍特普二世",
+      "role": "埃及中王国奠基君主",
+      "start": -2055,
+      "end": -2004,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-egypt-middle"
+      ],
+      "description": "底比斯王朝统治者，常与埃及重新统一相联系。",
+      "contribution": "整合尼罗河政治中心，重建王权与纪念性工程。",
+      "context": "其事迹显示古埃及历史也经历分裂、地方竞争和重新统一。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-egypt-middle"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-egyptmiddle"
+      ],
+      "periodIds": [
+        "xia"
+      ],
+      "dateLabel": "约公元前2055年—公元前2004年"
+    },
+    {
+      "id": "wp-ahmose",
+      "name": "雅赫摩斯一世",
+      "role": "埃及新王国奠基君主",
+      "start": -1550,
+      "end": -1525,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-egypt-new"
+      ],
+      "description": "驱逐喜克索斯势力并重新整合埃及的重要统治者。",
+      "contribution": "以军事胜利和资源重组开启新王国时期。",
+      "context": "帝国扩张由后继君主继续，不能将长期变化都归一人。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-egypt"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-egyptnew"
+      ],
+      "periodIds": [
+        "shang"
+      ],
+      "dateLabel": "约公元前1550年—公元前1525年"
+    },
+    {
+      "id": "wp-hatshepsut",
+      "name": "哈特谢普苏特",
+      "role": "埃及女性法老",
+      "start": -1479,
+      "end": -1458,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-egypt-new"
+      ],
+      "description": "以法老身份统治并支持大型建筑与远方贸易的君主。",
+      "contribution": "营建德尔巴哈里神庙，派遣远航前往蓬特。",
+      "context": "其形象后来被部分删改，遗存有助于观察性别、王权与历史记忆。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-egypt"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-egyptnew"
+      ],
+      "periodIds": [
+        "shang"
+      ],
+      "dateLabel": "约公元前1479年—公元前1458年"
+    },
+    {
+      "id": "wp-thutmose3",
+      "name": "图特摩斯三世",
+      "role": "埃及新王国法老",
+      "start": -1458,
+      "end": -1425,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-egypt-new"
+      ],
+      "description": "在哈特谢普苏特之后独掌王权并扩展对外军事行动。",
+      "contribution": "通过黎凡特战争与贡赋巩固埃及帝国地位。",
+      "context": "王室战功记录具有宣传目的，需与外交及地方证据对读。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-egypt"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-egyptnew"
+      ],
+      "periodIds": [
+        "shang"
+      ],
+      "dateLabel": "约公元前1458年—公元前1425年"
+    },
+    {
+      "id": "wp-akhenaten",
+      "name": "阿肯那顿",
+      "role": "阿玛尔纳改革法老",
+      "start": -1353,
+      "end": -1336,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-egypt-new"
+      ],
+      "description": "以突出阿吞崇拜和迁都阿玛尔纳改变王室宗教表达。",
+      "contribution": "重组祭祀与王室形象，留下特殊的艺术和文书遗存。",
+      "context": "改革后来逆转，其动机和社会影响仍存在多种解释。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-egypt"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-egyptamarna"
+      ],
+      "periodIds": [
+        "shang"
+      ],
+      "dateLabel": "约公元前1353年—公元前1336年"
+    },
+    {
+      "id": "wp-ramesses",
+      "name": "拉美西斯二世",
+      "role": "埃及法老与外交参与者",
+      "start": -1279,
+      "end": -1213,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-egypt-new"
+      ],
+      "description": "长期统治中进行战争、神庙和纪念建筑营建。",
+      "contribution": "参加卡迭石之战并与赫梯缔约，以广泛工程塑造王权形象。",
+      "context": "铭文中的胜利宣传与实际战局、外交妥协须区分。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-egypt"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-kadesh"
+      ],
+      "periodIds": [
+        "shang"
+      ],
+      "dateLabel": "约公元前1279年—公元前1213年"
+    },
+    {
+      "id": "wp-piye",
+      "name": "皮耶",
+      "role": "库施君主与埃及征服者",
+      "start": -747,
+      "end": -716,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-kush"
+      ],
+      "description": "从努比亚北上并建立对埃及影响的统治者。",
+      "contribution": "以军事、宗教与王室碑铭组织其征服名分。",
+      "context": "说明尼罗河文化与政治交流不是单向由北向南。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-kush"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-kush"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前747年—公元前716年"
+    },
+    {
+      "id": "wp-taharqa",
+      "name": "塔哈尔卡",
+      "role": "库施第二十五王朝君主",
+      "start": -690,
+      "end": -664,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-kush"
+      ],
+      "description": "统治埃及与努比亚并面对亚述扩张压力。",
+      "contribution": "进行建筑赞助与军事抵抗，联系尼罗河多个政治文化中心。",
+      "context": "其失败没有使库施社会终结，南方王国继续发展。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-kush"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-kush"
+      ],
+      "periodIds": [
+        "eastern"
+      ],
+      "dateLabel": "约公元前690年—公元前664年"
+    },
+    {
+      "id": "wp-amanirenas",
+      "name": "阿玛尼蕾娜丝",
+      "role": "库施女王",
+      "start": -40,
+      "end": -10,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-kush"
+      ],
+      "description": "在罗马控制埃及后领导库施与罗马交战及交涉。",
+      "contribution": "维护南部王国利益，参与战争后关系的重新安排。",
+      "context": "她使尼罗河帝国史中的非洲女性政治主体更为可见。",
+      "note": "活动年代为约数，部分叙事来自罗马材料，需注意立场。",
+      "sourceIds": [
+        "ws6-kush"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-meroe"
+      ],
+      "periodIds": [
+        "han"
+      ],
+      "dateLabel": "约公元前40年—公元前10年"
+    },
+    {
+      "id": "wp-cleopatra",
+      "name": "克娄巴特拉七世",
+      "role": "托勒密埃及末代君主",
+      "start": -51,
+      "end": -30,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [],
+      "description": "在罗马内战压力下维护王朝和埃及地位的统治者。",
+      "contribution": "以外交、联盟及资源支持介入地中海权力斗争。",
+      "context": "她的政治处境比后世爱情传奇更能解释王朝终结。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-augustus"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-cleopatra"
+      ],
+      "periodIds": [
+        "han"
+      ],
+      "dateLabel": "约公元前51年—公元前30年"
+    },
+    {
+      "id": "wp-ezana",
+      "name": "埃扎纳",
+      "role": "阿克苏姆君主",
+      "start": 320,
+      "end": 360,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-aksum"
+      ],
+      "description": "其铭文、钱币和王室活动显示红海强国的发展。",
+      "contribution": "统治期间王室采纳基督教，继续参与跨区域政治与贸易。",
+      "context": "宗教转变发生于本地王权与国际联系交会的环境。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-aksum"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-aksum"
+      ],
+      "periodIds": [
+        "eastern-jin"
+      ],
+      "dateLabel": "约公元320年—公元360年"
+    },
+    {
+      "id": "wp-sundiata",
+      "name": "孙迪亚塔",
+      "role": "马里王国奠基人物",
+      "start": 1235,
+      "end": 1255,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-sahel"
+      ],
+      "description": "在口传史诗与历史记忆中居核心地位的马里统治者。",
+      "contribution": "通过联盟和军事竞争奠定马里力量。",
+      "context": "事迹须区分史诗表达、后世文字与可考的政治过程。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-africamed",
+        "ws6-sahel"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-mali"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1235年—公元1255年"
+    },
+    {
+      "id": "wp-musa",
+      "name": "曼萨·穆萨",
+      "role": "马里君主与朝觐者",
+      "start": 1312,
+      "end": 1337,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-sahel"
+      ],
+      "description": "其朝觐和黄金资源使马里在地中海记载中广为人知。",
+      "contribution": "以外交、施赠与建筑赞助加强王室及伊斯兰网络联系。",
+      "context": "个人财富传闻不能代替对普通居民生活和国家结构的认识。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-africamed",
+        "ws6-sahel"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-mali"
+      ],
+      "periodIds": [
+        "yuan"
+      ],
+      "dateLabel": "约公元1312年—公元1337年"
+    },
+    {
+      "id": "wp-sonniali",
+      "name": "逊尼·阿里",
+      "role": "桑海扩张者",
+      "start": 1464,
+      "end": 1492,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-sahel"
+      ],
+      "description": "通过军队和河运控制扩大桑海政治力量。",
+      "contribution": "夺取重要城镇，协调或压制地方集团。",
+      "context": "史家对其宗教与统治评价带有不同立场，应避免单一标签。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-songhai"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-songhai"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1464年—公元1492年"
+    },
+    {
+      "id": "wp-askia",
+      "name": "阿斯基亚·穆罕默德",
+      "role": "桑海君主与组织者",
+      "start": 1493,
+      "end": 1528,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-sahel"
+      ],
+      "description": "在桑海王朝更替后巩固帝国政治和宗教名分。",
+      "contribution": "调整税收、地方管理及跨撒哈拉联系。",
+      "context": "国家运作依靠地方农业、城市和商旅网络，并不只是王室黄金。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-songhai"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-songhai"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1493年—公元1528年"
+    },
+    {
+      "id": "wp-lalibela",
+      "name": "拉利贝拉",
+      "role": "埃塞俄比亚扎格维王朝君主",
+      "start": 1180,
+      "end": 1225,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [],
+      "description": "传统上与高地岩石教堂群的营建相联系。",
+      "contribution": "通过圣地与宗教建筑表达王权及基督教共同体。",
+      "context": "建筑次序和具体归属有争论，不能把所有工程都确归个人。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-lalibela"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-lalibela"
+      ],
+      "periodIds": [
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元1180年—公元1225年"
+    },
+    {
+      "id": "wp-afonso",
+      "name": "阿丰索一世",
+      "role": "刚果王国君主",
+      "start": 1509,
+      "end": 1543,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-kongo"
+      ],
+      "description": "在与葡萄牙的外交、宗教和贸易联系中统治刚果。",
+      "contribution": "采用基督教并尝试控制奴隶贸易中的非法掠卖。",
+      "context": "其政策展示主动选择与结构性依赖并存的复杂处境。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-slavery"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-kongo"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1509年—公元1543年"
+    },
+    {
+      "id": "wp-njinga",
+      "name": "恩津加·姆班德",
+      "role": "恩东戈与马坦巴统治者",
+      "start": 1624,
+      "end": 1663,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [],
+      "description": "在葡萄牙殖民扩张和本地战争中维护王权的女性统治者。",
+      "contribution": "结合外交、宗教转变、联盟和战争争取自主。",
+      "context": "抵抗殖民不等于处于奴隶制度之外，须保留权力与暴力的复杂性。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-njinga"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-njinga"
+      ],
+      "periodIds": [
+        "ming",
+        "qing"
+      ],
+      "dateLabel": "约公元1624年—公元1663年"
+    },
+    {
+      "id": "wp-shaka",
+      "name": "沙卡",
+      "role": "祖鲁王国统治者",
+      "start": 1816,
+      "end": 1828,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "description": "在南部非洲地方竞争中扩大祖鲁军事政治力量。",
+      "contribution": "重整军队和年龄组织，强化王权动员。",
+      "context": "地区动荡成因多样，不能把全部迁徙和战争简单归于其个人。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-zulu"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1816年—公元1828年"
+    },
+    {
+      "id": "wp-leopold",
+      "name": "利奥波德二世",
+      "role": "比利时国王与刚果殖民控制者",
+      "start": 1885,
+      "end": 1908,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "description": "以个人殖民控制形式掌握刚果自由邦。",
+      "contribution": "建立依靠武装、特许公司和强迫劳动的资源掠夺体系。",
+      "context": "其活动揭示人道话语如何掩盖殖民暴力，国际揭露促成统治形式改变。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-congo-rubber"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1885年—公元1908年"
+    },
+    {
+      "id": "wp-menelik",
+      "name": "孟尼利克二世",
+      "role": "埃塞俄比亚皇帝",
+      "start": 1889,
+      "end": 1912,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "description": "在王权整合、国家扩张和殖民压力下统治。",
+      "contribution": "动员各地军队与资源，1896年击败意大利军队。",
+      "context": "维护独立与内部扩张同时发生，不能把国家形成写成无矛盾的统一故事。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-adwa"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-adwa"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1889年—公元1912年"
+    },
+    {
+      "id": "wp-taytu",
+      "name": "泰图·贝图尔",
+      "role": "埃塞俄比亚皇后与政治参与者",
+      "start": 1889,
+      "end": 1910,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "description": "在外交、宫廷决策和反殖民战争中发挥重要作用。",
+      "contribution": "反对损害主权的条约解释，并参与阿杜瓦战争动员。",
+      "context": "胜利不是男性君主独自完成，女性和地方力量亦是关键行动者。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-adwa"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-adwa"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1889年—公元1910年"
+    },
+    {
+      "id": "wp-ovonramwen",
+      "name": "奥冯拉姆文",
+      "role": "贝宁王国末期君主",
+      "start": 1888,
+      "end": 1897,
+      "scope": "world",
+      "regionIds": [
+        "africa"
+      ],
+      "worldEntryIds": [],
+      "description": "在英国殖民压力和地方政治冲突下统治贝宁。",
+      "contribution": "维护宫廷与王国秩序，1897年侵略后被废黜流放。",
+      "context": "其处境把殖民征服与王室艺术品劫掠的历史连接起来。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-benin"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-benin1897"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1888年—公元1897年"
+    },
+    {
+      "id": "wp-itzcoatl",
+      "name": "伊兹科阿特尔",
+      "role": "墨西加统治者与三方同盟参与者",
+      "start": 1427,
+      "end": 1440,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-aztec"
+      ],
+      "description": "在墨西哥盆地政治竞争中领导特诺奇蒂特兰。",
+      "contribution": "与其他城邦结盟，推动1428年前后新的权力格局。",
+      "context": "同盟形成涉及多方利益，不能归为单人建立的统一国家。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-americanempires"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-triplealliance"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1427年—公元1440年"
+    },
+    {
+      "id": "wp-pachacuti",
+      "name": "帕查库蒂",
+      "role": "印加扩张时期君主",
+      "start": 1438,
+      "end": 1471,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-inca"
+      ],
+      "description": "常被视为印加由地方王权走向大帝国的重要统治者。",
+      "contribution": "推动征服、国家组织与库斯科王室空间建设。",
+      "context": "确切编年与早期事迹含较晚记载及王室传统，需注意证据精度。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-americanempires"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-inca"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1438年—公元1471年"
+    },
+    {
+      "id": "wp-columbus",
+      "name": "克里斯托弗·哥伦布",
+      "role": "跨大西洋航行者与殖民统治者",
+      "start": 1492,
+      "end": 1504,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-colonial"
+      ],
+      "description": "在西班牙支持下多次进入加勒比海。",
+      "contribution": "建立持续跨洋航路，并参与殖民占有和对原住民的强制统治。",
+      "context": "航行意义须与既有美洲社会、殖民暴力及全球交换一同理解。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-contact1492"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1492年—公元1504年"
+    },
+    {
+      "id": "wp-cortes",
+      "name": "埃尔南·科尔特斯",
+      "role": "西班牙征服者",
+      "start": 1519,
+      "end": 1540,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-colonial",
+        "w-aztec"
+      ],
+      "description": "进入墨西哥后与多种本地力量结盟并争夺权力。",
+      "contribution": "组织攻陷特诺奇蒂特兰，参与建立殖民统治。",
+      "context": "成功依赖庞大原住民盟军、翻译及疾病等因素，不是少数人独力完成。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-conquestmexico"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1519年—公元1540年"
+    },
+    {
+      "id": "wp-moctezuma",
+      "name": "蒙特祖马二世",
+      "role": "墨西加君主",
+      "start": 1502,
+      "end": 1520,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-aztec"
+      ],
+      "description": "在帝国贡赋秩序与欧洲来客进入的危机中统治。",
+      "contribution": "以交涉和接待等方式应对复杂局势，后受西班牙人控制。",
+      "context": "有关其动机与死亡的材料立场不同，不能套用迷信投降等单一解释。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-conquestmexico"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1502年—公元1520年"
+    },
+    {
+      "id": "wp-cuauhtemoc",
+      "name": "夸乌特莫克",
+      "role": "墨西加抵抗领袖",
+      "start": 1520,
+      "end": 1525,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-aztec"
+      ],
+      "description": "特诺奇蒂特兰被围时领导抵抗的统治者。",
+      "contribution": "在疫情、断粮与联盟压力下组织保卫城市。",
+      "context": "1521年被俘，后被处决，成为殖民征服中本地抵抗的重要记忆。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-conquestmexico"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1520年—公元1525年"
+    },
+    {
+      "id": "wp-atahualpa",
+      "name": "阿塔瓦尔帕",
+      "role": "印加君主",
+      "start": 1532,
+      "end": 1533,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-inca"
+      ],
+      "description": "在印加继承战争后取得优势，却遭西班牙军队俘虏。",
+      "contribution": "其王权资源成为征服者争夺和勒索的目标。",
+      "context": "个人被俘改变帝国局势，但安第斯抵抗并未因此立即结束。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-conquestinca"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1532年—公元1533年"
+    },
+    {
+      "id": "wp-pizarro",
+      "name": "弗朗西斯科·皮萨罗",
+      "role": "西班牙征服者",
+      "start": 1532,
+      "end": 1541,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-inca",
+        "w-americas-colonial"
+      ],
+      "description": "率队进入安第斯，在印加内战背景下夺取政治机会。",
+      "contribution": "抓获阿塔瓦尔帕并参与建立殖民中心。",
+      "context": "其行动依赖本地联盟和既有道路资源，同时伴随掠夺与暴力。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-conquestinca"
+      ],
+      "periodIds": [
+        "ming"
+      ],
+      "dateLabel": "约公元1532年—公元1541年"
+    },
+    {
+      "id": "wp-washington",
+      "name": "乔治·华盛顿",
+      "role": "大陆军统帅与美国首任总统",
+      "start": 1775,
+      "end": 1797,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "领导独立战争中的大陆军，后主持新联邦政府。",
+      "contribution": "维系军队与政治联盟，建立总统职务的早期惯例。",
+      "context": "自由叙事与其奴隶主身份并存，建国并未实现所有人的平等。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-american-revolution",
+        "we-usconstitution"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1775年—公元1797年"
+    },
+    {
+      "id": "wp-jefferson",
+      "name": "托马斯·杰斐逊",
+      "role": "独立宣言主要起草者与美国总统",
+      "start": 1776,
+      "end": 1809,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "在北美独立与共和政治中发挥思想和行政作用。",
+      "contribution": "撰写独立宣言主体，提出自然权利与政治同意的语言。",
+      "context": "他拥有被奴役者，体现权利宣言与现实社会之间的根本矛盾。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-american-revolution"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1776年—公元1809年"
+    },
+    {
+      "id": "wp-madison",
+      "name": "詹姆斯·麦迪逊",
+      "role": "美国制宪参与者",
+      "start": 1787,
+      "end": 1812,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "在联邦制度设计与早期政党政治中发挥重要作用。",
+      "contribution": "参与制定宪法、论证联邦与分权安排，并推进权利修正案。",
+      "context": "制度形成有争论与妥协，不能视为少数人一次完美设计。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-usconstitution"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1787年—公元1812年"
+    },
+    {
+      "id": "wp-toussaint",
+      "name": "杜桑·卢维杜尔",
+      "role": "海地革命领导人",
+      "start": 1791,
+      "end": 1802,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics",
+        "w-americas-colonial"
+      ],
+      "description": "从被奴役者社会中崛起，在革命和国际战争中组织力量。",
+      "contribution": "推进废奴及自治，并以宪法巩固其统治地位。",
+      "context": "解放与强制劳动安排并存，他未亲历1804年的最终独立。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-haiti"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1791年—公元1802年"
+    },
+    {
+      "id": "wp-dessalines",
+      "name": "让-雅克·德萨林",
+      "role": "海地独立领导人",
+      "start": 1802,
+      "end": 1806,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "在法国重新征服战争中领导抵抗，推动最终脱离法国。",
+      "contribution": "1804年宣布独立并建立新国家。",
+      "context": "反奴隶制胜利伴随严酷统治与报复暴力，评价须保留复杂性。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-haiti"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1802年—公元1806年"
+    },
+    {
+      "id": "wp-hidalgo",
+      "name": "米格尔·伊达尔戈",
+      "role": "墨西哥独立起义领导人",
+      "start": 1810,
+      "end": 1811,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "以神父身份动员群众反抗殖民秩序。",
+      "contribution": "1810年发动起义，使社会底层诉求进入独立斗争。",
+      "context": "其失败未终结运动，精英和民众目标仍有明显差异。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mexico"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-mexico-independence"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1810年—公元1811年"
+    },
+    {
+      "id": "wp-morelos",
+      "name": "何塞·玛丽亚·莫雷洛斯",
+      "role": "墨西哥独立运动领导人",
+      "start": 1811,
+      "end": 1815,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "继伊达尔戈之后组织军事和政治运动。",
+      "contribution": "支持独立、代表机构及削弱种族等级的主张。",
+      "context": "其社会理想与最终实现独立的保守联盟并不完全相同。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mexico"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-mexico-independence"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1811年—公元1815年"
+    },
+    {
+      "id": "wp-bolivar",
+      "name": "西蒙·玻利瓦尔",
+      "role": "南美独立运动领导人",
+      "start": 1811,
+      "end": 1830,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "在南美北部组织反西班牙战争与共和国建设。",
+      "contribution": "协调多地军事行动，提出联合国家的政治愿景。",
+      "context": "独立、强行政权和地区自主之间存在矛盾，统一理想最终受挫。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-southamerica"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-southamerica-independence"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1811年—公元1830年"
+    },
+    {
+      "id": "wp-sanmartin",
+      "name": "何塞·德·圣马丁",
+      "role": "南美独立军统帅",
+      "start": 1812,
+      "end": 1822,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "在南美南部及秘鲁独立战争中发挥重要作用。",
+      "contribution": "组织跨安第斯行动，推动智利和秘鲁政治变局。",
+      "context": "胜利依靠士兵、地方社群和国际协作，不只是统帅冒险。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-southamerica"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-southamerica-independence"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1812年—公元1822年"
+    },
+    {
+      "id": "wp-pedro1",
+      "name": "佩德罗一世",
+      "role": "巴西独立皇帝",
+      "start": 1822,
+      "end": 1831,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "葡萄牙王室成员，在巴西精英和地方压力下宣布独立。",
+      "contribution": "以帝国形式组织国家并争取国际承认。",
+      "context": "独立保留奴隶制与王朝政治，体现不同于共和革命的道路。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-brazil"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-brazil-independence"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1822年—公元1831年"
+    },
+    {
+      "id": "wp-lincoln",
+      "name": "亚伯拉罕·林肯",
+      "role": "美国内战时期总统",
+      "start": 1861,
+      "end": 1865,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "在国家分裂和奴隶制冲突中领导联邦政府。",
+      "contribution": "推动战争胜利、解放宣言和废奴修宪。",
+      "context": "黑人行动、士兵与废奴者同样关键，不把解放写成总统单方面恩赐。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-emancipation",
+        "ws6-douglass"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-us-civilwar"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1861年—公元1865年"
+    },
+    {
+      "id": "wp-douglass",
+      "name": "弗雷德里克·道格拉斯",
+      "role": "废奴者与公民权倡议者",
+      "start": 1845,
+      "end": 1895,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "逃离奴役后通过演说、著述和组织参与公共政治。",
+      "contribution": "推动废奴、黑人参军与平等公民权，批评解放后的种族压迫。",
+      "context": "其经历把奴隶制、战争和重建的权利问题连成长期脉络。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-douglass",
+        "ws6-emancipation"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-us-civilwar"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1845年—公元1895年"
+    },
+    {
+      "id": "wp-isabel",
+      "name": "伊莎贝尔公主",
+      "role": "巴西摄政与废奴法签署者",
+      "start": 1871,
+      "end": 1888,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "在巴西帝国后期摄政期间参与废奴立法。",
+      "contribution": "签署1871年自由出生法及1888年黄金法。",
+      "context": "废奴来自被奴役者反抗和社会运动，不能仅归为王室善意。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-labor"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-brazil-abolition"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1871年—公元1888年"
+    },
+    {
+      "id": "wp-madero",
+      "name": "弗朗西斯科·马德罗",
+      "role": "墨西哥革命政治领导人",
+      "start": 1910,
+      "end": 1912,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "反对迪亚斯长期统治，主张选举和政治改革。",
+      "contribution": "发动反对连任的动员，1911年成为总统。",
+      "context": "其改革未满足各地土地诉求，本版只展示1912年前活动。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mexicorevolution"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-mexican-revolution"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1910年—公元1912年"
+    },
+    {
+      "id": "wp-zapata",
+      "name": "埃米利亚诺·萨帕塔",
+      "role": "墨西哥农民革命领导人",
+      "start": 1910,
+      "end": 1912,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "description": "从莫雷洛斯地方土地与社群权利斗争中崛起。",
+      "contribution": "以阿亚拉计划等主张归还土地，推动革命的社会议题。",
+      "context": "与仅换政府的政治诉求不同，后续活动延伸到本版窗口之外。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-mexicorevolution"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-mexican-revolution"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1910年—公元1912年"
+    },
+    {
+      "id": "wp-tasman",
+      "name": "阿贝尔·塔斯曼",
+      "role": "荷兰航海者",
+      "start": 1642,
+      "end": 1644,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-oceania-contact"
+      ],
+      "description": "在荷兰公司组织下考察澳大利亚及太平洋海域。",
+      "contribution": "留下欧洲关于塔斯马尼亚和新西兰的早期航行记录。",
+      "context": "已有原住民历史不能因欧洲记录的出现才被视为开始。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-nz"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-tasman"
+      ],
+      "periodIds": [
+        "ming",
+        "qing"
+      ],
+      "dateLabel": "约公元1642年—公元1644年"
+    },
+    {
+      "id": "wp-cook",
+      "name": "詹姆斯·库克",
+      "role": "英国航海者与测绘者",
+      "start": 1769,
+      "end": 1779,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-oceania-contact"
+      ],
+      "description": "多次进入太平洋，进行测绘、自然观察和帝国考察。",
+      "contribution": "记录广阔海域，并在图帕亚等本地知识帮助下航行交流。",
+      "context": "其活动与领土声索、疾病及接触冲突相连，不能只看科学成就。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-tupaia",
+        "wv3-nz"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-cook"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1769年—公元1779年"
+    },
+    {
+      "id": "wp-tupaia",
+      "name": "图帕亚",
+      "role": "赖阿特阿航海知识者与祭司",
+      "start": 1769,
+      "end": 1770,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-polynesian-landscape",
+        "w-oceania-contact"
+      ],
+      "description": "来自波利尼西亚社会，掌握广泛岛际知识并加入库克航行。",
+      "contribution": "提供导航、语言和文化沟通，绘制反映本地海域关系的图像。",
+      "context": "让太平洋考察史显现原住民知识贡献，而非只留下欧洲船长。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-tupaia",
+        "wv3-nz"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-cook"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1769年—公元1770年"
+    },
+    {
+      "id": "wp-phillip",
+      "name": "阿瑟·菲利普",
+      "role": "新南威尔士首任总督",
+      "start": 1788,
+      "end": 1792,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "description": "率第一舰队建立悉尼流放殖民地并负责早期行政。",
+      "contribution": "组织殖民定居、供给与对原住民的接触政策。",
+      "context": "殖民扩张和土地占用具有结构性影响，不以个人善意抹去剥夺。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-firstfleet",
+        "ws6-pemulwuy"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-firstfleet"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1788年—公元1792年"
+    },
+    {
+      "id": "wp-pemulwuy",
+      "name": "佩穆尔维",
+      "role": "比吉加尔抵抗领袖",
+      "start": 1790,
+      "end": 1802,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "description": "在悉尼地区土地和生活遭殖民侵占后组织抵抗。",
+      "contribution": "领导袭击与机动作战，多次逃脱殖民军追捕。",
+      "context": "1802年遇害，其经历显示原住民并非被动接受殖民统治。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-firstfleet",
+        "ws6-pemulwuy"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-firstfleet"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1790年—公元1802年"
+    },
+    {
+      "id": "wp-kamehameha",
+      "name": "卡美哈梅哈一世",
+      "role": "夏威夷王国整合者",
+      "start": 1795,
+      "end": 1819,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-polynesian-landscape"
+      ],
+      "description": "在岛际战争和跨海接触环境中建立统一王权。",
+      "contribution": "运用军事、联盟和外交整合主要岛屿。",
+      "context": "外来技术被本地统治者主动利用，王国仍保持自身政治目标。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-kamehameha"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-hawaiiunification"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1795年—公元1819年"
+    },
+    {
+      "id": "wp-hobson",
+      "name": "威廉·霍布森",
+      "role": "英国条约代表与殖民总督",
+      "start": 1840,
+      "end": 1842,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-oceania-colonial",
+        "w-maori"
+      ],
+      "description": "代表英国参与怀唐伊条约的组织和签署。",
+      "contribution": "以条约和主权声索建立殖民政府基础。",
+      "context": "其对条约权力的理解与毛利文本及首领理解并不完全一致。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-hobson",
+        "wv3-nz-treaty"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-waitangi"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1840年—公元1842年"
+    },
+    {
+      "id": "wp-honeheke",
+      "name": "霍内·赫克",
+      "role": "毛利首领与战争领导者",
+      "start": 1840,
+      "end": 1845,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-maori"
+      ],
+      "description": "签署怀唐伊条约后，对殖民权威及其象征提出反抗。",
+      "contribution": "砍倒旗杆并参与北方战争，维护其对权威与权利的理解。",
+      "context": "签署条约不等于对后来所有殖民政策都表示同意。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-nz-treaty",
+        "wv3-nz",
+        "ws6-nene"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-waitangi",
+        "we-nzwars"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1840年—公元1845年"
+    },
+    {
+      "id": "wp-tamati",
+      "name": "塔马蒂·瓦卡·内内",
+      "role": "毛利首领与条约参与者",
+      "start": 1840,
+      "end": 1846,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-maori"
+      ],
+      "description": "支持签署条约，并在北方冲突中选择与赫克不同的政治路线。",
+      "contribution": "以联盟和交涉维护自身社群利益。",
+      "context": "毛利社会内部存在不同判断，不能把所有行动者归成单一立场。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-nene",
+        "wv3-nz-treaty",
+        "wv3-nz"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-waitangi",
+        "we-nzwars"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1840年—公元1846年"
+    },
+    {
+      "id": "wp-sheppard",
+      "name": "凯特·谢泼德",
+      "role": "新西兰妇女选举权组织者",
+      "start": 1887,
+      "end": 1896,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "description": "通过全国请愿、演说与团体网络争取女性政治权利。",
+      "contribution": "推动1893年妇女选举权立法，并继续参与妇女组织。",
+      "context": "其成功依靠广泛参与者及议会盟友，权利扩展仍有历史边界。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-nzsuffrage"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-nzsuffrage"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1887年—公元1896年"
+    },
+    {
+      "id": "wp-liliuokalani",
+      "name": "利留卡拉尼",
+      "role": "夏威夷末代女王",
+      "start": 1891,
+      "end": 1898,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "description": "在外来政商力量与本地主权诉求冲突中继位。",
+      "contribution": "试图调整宪政安排，遭推翻后继续反对吞并。",
+      "context": "她的政治与文化活动反映夏威夷居民维护自主的持续努力。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-hawaii"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-hawaii-overthrow"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1891年—公元1898年"
+    },
+    {
+      "id": "wp-barton",
+      "name": "埃德蒙·巴顿",
+      "role": "澳大利亚首任联邦总理",
+      "start": 1891,
+      "end": 1903,
+      "scope": "world",
+      "regionIds": [
+        "oceania"
+      ],
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "description": "在联邦运动与新政府建立中发挥重要作用。",
+      "contribution": "参与宪法和联邦组织，主持早期共同政府。",
+      "context": "国家建设伴随白澳政策及对原住民等群体排斥，不能只作建国赞歌。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-barton",
+        "ws6-federation"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-federation"
+      ],
+      "periodIds": [
+        "qing"
+      ],
+      "dateLabel": "约公元1891年—公元1903年"
+    },
+    {
+      "id": "wp-trajan",
+      "name": "图拉真",
+      "role": "罗马皇帝与扩张者",
+      "start": 98,
+      "end": 117,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "在位期间罗马继续对达契亚和东方发动战争。",
+      "contribution": "扩大帝国控制并营建道路、广场和纪念工程。",
+      "context": "帝国规模增长也意味着更长边疆和更多资源需求。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-roman-frontiers"
+      ],
+      "periodIds": [
+        "eastern-han"
+      ],
+      "dateLabel": "约公元98年—公元117年"
+    },
+    {
+      "id": "wp-hadrian",
+      "name": "哈德良",
+      "role": "罗马皇帝与边疆整合者",
+      "start": 117,
+      "end": 138,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "在广阔帝国巡行并处理地方行政与边境问题。",
+      "contribution": "重视防御体系和城市赞助，调整前任扩张后的统治安排。",
+      "context": "从征服转向巩固有助理解帝国治理方式的变化。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-roman-frontiers"
+      ],
+      "periodIds": [
+        "eastern-han"
+      ],
+      "dateLabel": "约公元117年—公元138年"
+    },
+    {
+      "id": "wp-marcus",
+      "name": "马可·奥勒留",
+      "role": "罗马皇帝与斯多亚思想作者",
+      "start": 161,
+      "end": 180,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "在边境战争和疫病压力下执政，并留下自省文字。",
+      "contribution": "承担帝国军事统治，也以斯多亚思想思考责任和人的行为。",
+      "context": "哲学声誉不能掩盖其作为帝国统治者所处的战争与权力结构。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-roman-frontiers"
+      ],
+      "periodIds": [
+        "eastern-han"
+      ],
+      "dateLabel": "约公元161年—公元180年"
+    },
+    {
+      "id": "wp-jesus",
+      "name": "耶稣",
+      "role": "早期基督教的核心历史人物",
+      "start": 27,
+      "end": 33,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia",
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "在犹太宗教与罗马统治背景下活动，其生平主要见于早期基督教文本。",
+      "contribution": "围绕上帝之国、伦理和社群生活讲说，影响追随者形成新传统。",
+      "context": "后世神学中的基督形象与历史研究中的可考活动不宜混为一层。",
+      "note": "活动年代为约数，受难年份常用30或33；不以信仰命题代替历史证据。其本人主要活动在犹太地区，欧洲入口表示后续传播的历史关联，不表示其本人曾在欧洲活动。",
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-christianity"
+      ],
+      "periodIds": [
+        "eastern-han"
+      ],
+      "dateLabel": "约公元27年—公元33年"
+    },
+    {
+      "id": "wp-paul",
+      "name": "保罗",
+      "role": "早期基督教传播者与书信作者",
+      "start": 35,
+      "end": 65,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia",
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "description": "在东地中海多个城市传教并与信仰社群通信。",
+      "contribution": "讨论非犹太信徒加入共同体等问题，推动跨社群传播。",
+      "context": "书信是早期思想与组织的重要材料，后世教会制度仍经历长期形成。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-christianity"
+      ],
+      "periodIds": [
+        "eastern-han"
+      ],
+      "dateLabel": "约公元35年—公元65年"
+    },
+    {
+      "id": "wp-diocletian",
+      "name": "戴克里先",
+      "role": "罗马皇帝与四帝共治推行者",
+      "start": 284,
+      "end": 305,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-roman",
+        "w-byzantium"
+      ],
+      "description": "在三世纪危机后取得帝位，重视军政协调与继承问题。",
+      "contribution": "调整行政、赋税和统治分工，实施四帝共治。",
+      "context": "改革增强动员能力，却不能保证退位后各方继续和平合作。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-diocletian"
+      ],
+      "periodIds": [
+        "western-jin",
+        "eastern-jin"
+      ],
+      "dateLabel": "约公元284年—公元305年"
+    },
+    {
+      "id": "wp-shapur",
+      "name": "沙普尔一世",
+      "role": "萨珊君主",
+      "start": 241,
+      "end": 272,
+      "scope": "world",
+      "regionIds": [
+        "central-west-asia"
+      ],
+      "worldEntryIds": [
+        "w-sasanian"
+      ],
+      "description": "在萨珊早期巩固王权，并与罗马展开多次战争。",
+      "contribution": "260年俘获罗马皇帝瓦勒良，以纪念浮雕塑造王权形象。",
+      "context": "军事胜利、人口迁移和城市建设共同改变西亚社会。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "wv3-sasanian"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-shapur"
+      ],
+      "periodIds": [
+        "three-kingdoms",
+        "western-jin"
+      ],
+      "dateLabel": "约公元241年—公元272年"
+    },
+    {
+      "id": "wp-harsha",
+      "name": "戒日王",
+      "role": "北印度统治者与宗教赞助者",
+      "start": 606,
+      "end": 647,
+      "scope": "world",
+      "regionIds": [
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "description": "在笈多之后的区域竞争中建立北印度较强王权。",
+      "contribution": "整合地方力量，支持宗教集会、寺院及文化活动。",
+      "context": "玄奘与巴那的记录提供入口，但其赞誉不能视为所有社会群体的共同经验。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-indianocean"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-harsha"
+      ],
+      "periodIds": [
+        "sui",
+        "tang"
+      ],
+      "dateLabel": "约公元606年—公元647年"
+    },
+    {
+      "id": "wp-otto",
+      "name": "奥托一世",
+      "role": "德意志国王与罗马皇帝",
+      "start": 936,
+      "end": 973,
+      "scope": "world",
+      "regionIds": [
+        "europe"
+      ],
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "description": "在后加洛林王国竞争中巩固军事和教会支持。",
+      "contribution": "955年取得莱希费尔德胜利，962年在罗马加冕。",
+      "context": "其帝国依赖联盟和地方协调，远非现代统一民族国家。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-medieval"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-otto"
+      ],
+      "periodIds": [
+        "five-dynasties",
+        "song-liao-xia-jin"
+      ],
+      "dateLabel": "约公元936年—公元973年"
+    },
+    {
+      "id": "wp-ibnbattuta",
+      "name": "伊本·白图泰",
+      "role": "摩洛哥旅行者与游记口述者",
+      "start": 1325,
+      "end": 1354,
+      "scope": "world",
+      "regionIds": [
+        "africa",
+        "central-west-asia",
+        "south-asia"
+      ],
+      "worldEntryIds": [
+        "w-central-medieval",
+        "w-delhi-regional"
+      ],
+      "description": "在宗教、贸易和宫廷联系支持下进行广泛远行。",
+      "contribution": "观察城市、礼仪与统治，并在返乡后口述旅行见闻。",
+      "context": "游记具有独特价值，路线、转述和部分经历仍须核查。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-islamconnections"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-ibnbattuta"
+      ],
+      "periodIds": [
+        "yuan"
+      ],
+      "dateLabel": "约公元1325年—公元1354年"
+    },
+    {
+      "id": "wp-pakal",
+      "name": "帕卡尔大帝",
+      "role": "帕伦克玛雅君主",
+      "start": 615,
+      "end": 683,
+      "scope": "world",
+      "regionIds": [
+        "americas"
+      ],
+      "worldEntryIds": [
+        "w-maya"
+      ],
+      "description": "古典玛雅时期帕伦克的重要统治者，其姓名和年代有铭文支持。",
+      "contribution": "推动宫廷与纪念建筑，以王室图像和文字连接统治、祖先与神圣秩序。",
+      "context": "墓葬、铭文和建筑能共同展示政治文化，无需用神秘传说代替历史。",
+      "note": "所列为便于同期对照的主要活动时段，不是生卒年；个人作用应结合制度与其他参与者理解。",
+      "sourceIds": [
+        "ws6-pakal"
+      ],
+      "coreEntry": true,
+      "eventIds": [
+        "we-pakal"
+      ],
+      "periodIds": [
+        "sui",
+        "tang"
+      ],
+      "dateLabel": "约公元615年—公元683年"
+    }
+  ],
+  "objects": [
+    {
+      "id": "obj-xia",
+      "periodId": "xia",
+      "material": "土石与工艺",
+      "title": "二里头都邑与工艺遗存",
+      "description": "从土台、道路、陶器与金属工艺观察早期国家的空间组织；不以想象宫殿代替考古复原。",
+      "sourceIds": [
+        "erlitoudate"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "空间：将土台、道路和聚落布局放在一起观察，区分遗址范围与想象中的王都。",
+        "工艺：陶器、青铜与其他材料体现不同制作经验，不把一种器类当作社会全貌。",
+        "对应：遗存的年代与“夏”的文献记述是两条证据线，不能仅凭形象相似作名称认定。"
+      ]
+    },
+    {
+      "id": "obj-shang",
+      "periodId": "shang",
+      "material": "青铜与文字",
+      "title": "甲骨刻辞与青铜兽面纹",
+      "description": "观察刻辞布局、器壁铸纹和突出的双眼形象；兽面纹含义有讨论，不把现代命名视为商人自称。",
+      "sourceIds": [
+        "yin",
+        "zhou"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "文字：刻辞的布局与内容，需结合甲骨的用途和释读语境理解。",
+        "铸纹：兽面纹突出的双眼、器壁结构与铸造工艺，可以连起来看。",
+        "命名：今天的纹样名称与解释，不一定是商代使用者自己的称呼。"
+      ]
+    },
+    {
+      "id": "obj-zhou",
+      "periodId": "zhou",
+      "material": "青铜",
+      "title": "西周青铜礼器",
+      "description": "从鼎、簋、壶等器类的形制与铭文观察礼仪用途；铜绿常为埋藏后锈蚀，不宜当成新铸器物本色。",
+      "sourceIds": [
+        "zhou"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "器类：鼎、簋、壶等不同形制，提示用途和礼仪场合的差别。",
+        "铭文：文字与器物共同构成材料，不能只把铭文抽离为一句格言。",
+        "表面：埋藏后形成的铜绿与新铸时的金属表面不同，审美印象也会随保存状态改变。"
+      ]
+    },
+    {
+      "id": "obj-eastern",
+      "periodId": "eastern",
+      "material": "度量衡",
+      "title": "商鞅方升",
+      "description": "方升侧面的前344年铭文与后来加刻的前221年诏书并存，适合逐层查看器物生命史。",
+      "sourceIds": [
+        "measure"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "层次：先看前344年的制造铭文，再看前221年加刻的诏书，辨认同一器物的不同时间。",
+        "尺度：容量标准将制度转化为可观察的器形与数值，联系农业、赋税与交换。",
+        "生命史：制造、使用、加刻和后来的收藏，属于一件器物经历的不同阶段。"
+      ]
+    },
+    {
+      "id": "obj-qin",
+      "periodId": "qin",
+      "material": "陶塑",
+      "title": "秦始皇陵兵马俑",
+      "description": "对照发式、甲衣、姿态与军阵组织；出土陶土色不等于原来没有彩绘，氛围插画不替代实物。",
+      "sourceIds": [
+        "qin-tomb"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "个体：从发式、甲衣和姿态看陶俑差别，不把军阵中的人物看作完全相同。",
+        "群体：个体造型与军阵组织形成两种观看尺度，均须结合陵园语境。",
+        "颜色：出土陶土色不等于原来没有彩绘；艺术意绘不能替代彩绘保护与考古记录。"
+      ]
+    },
+    {
+      "id": "obj-han",
+      "periodId": "han",
+      "material": "陶塑",
+      "title": "汉代陶舞俑与乐舞想象",
+      "description": "陶舞俑的动态和衣袖可引导观察乐舞形象；随葬艺术所呈现的生活经过丧葬观念筛选。",
+      "sourceIds": [
+        "han"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "姿态：衣袖与身体动势一起构成舞蹈形象，器物的观看方向也会影响印象。",
+        "语境：随葬乐舞形象是丧葬艺术的选择，不能直接等同于所有人的生活。",
+        "比较：把器物与史书、图像资料对照，区分可见细节与后来的解释。"
+      ]
+    },
+    {
+      "id": "obj-xin",
+      "periodId": "xin",
+      "material": "货币",
+      "title": "货泉与货布",
+      "description": "对照圆钱方孔、布币轮廓及篆书；精致铸造与流通困难可以同时存在。",
+      "sourceIds": [
+        "cn-xin-coins"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "形制：圆钱方孔与布币轮廓形成鲜明对照，先辨形，再看铭文与制度背景。",
+        "文字：篆书和铸造细节让货币兼具制度与工艺面向。",
+        "流通：工艺精细与使用中的困难并不互相排斥，不能仅凭外观判断改革成效。"
+      ]
+    },
+    {
+      "id": "obj-eastern-han",
+      "periodId": "eastern-han",
+      "material": "陶塑",
+      "title": "汉代陶楼与院落明器",
+      "description": "楼阁、井、灶等模型把日常器用带入随葬世界；可观察结构，但不可直接当作所有民居的比例复原。",
+      "sourceIds": [
+        "han",
+        "cn-1-500"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "建筑形象：楼阁、井、灶等明器，把不同日常器用组合进随葬世界。",
+        "结构：模型可以提示建筑与生活组织，但不是所有民居的统一比例复原。",
+        "目的：形象如何被选择，须与墓葬目的和墓主社会位置一起看。"
+      ]
+    },
+    {
+      "id": "obj-three-kingdoms",
+      "periodId": "three-kingdoms",
+      "material": "陶瓷",
+      "title": "东吴青瓷羊形烛台",
+      "description": "国博所藏南京清凉山出土器物，将动物形象与照明器具结合；青釉的温润来自工艺与烧造条件。",
+      "sourceIds": [
+        "cn-division"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "造型：羊的动物形象与照明器具功能结合，既看轮廓，也看用途。",
+        "釉色：青釉的温润来自材料与烧造，不宜以“青”概括所有同代陶瓷。",
+        "出处：以南京清凉山出土、国博馆藏等记录定位器物，不凭意绘补出细节。"
+      ]
+    },
+    {
+      "id": "obj-western-jin",
+      "periodId": "western-jin",
+      "material": "陶瓷",
+      "title": "西晋青瓷香熏",
+      "description": "国博藏1953年宜兴周氏墓群出土青瓷香熏，可对照器身、承盘与釉色；功能说明须结合具体器物。",
+      "sourceIds": [
+        "cn-division"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "部件：将器身与承盘作为整体观察，形制与使用方式彼此关联。",
+        "釉色：色泽与质感要结合烧造、保存和观看光线理解。",
+        "出土语境：宜兴周氏墓群的记录，比泛称“晋代风格”更能帮助定位这件器物。"
+      ]
+    },
+    {
+      "id": "obj-eastern-jin",
+      "periodId": "eastern-jin",
+      "material": "陶瓷",
+      "title": "东晋黑釉鸡首壶",
+      "description": "国博藏镇江出土黑釉鸡首瓷壶，以动物形象和壶体结合，提示当时陶瓷并非只有一种青色。",
+      "sourceIds": [
+        "cn-division"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "形象：鸡首与壶体如何结合，是观看造型与功能关系的入口。",
+        "色泽：黑釉提醒我们，东晋陶瓷并非只有一种青色。",
+        "传承：类型延续与地方差异需逐件核查，不将一件器物推成全部地区的共同样式。"
+      ]
+    },
+    {
+      "id": "obj-north-south",
+      "periodId": "north-south",
+      "material": "造像",
+      "title": "太和十年弥勒佛造像",
+      "description": "大都会艺术博物馆著录486年的鎏金铜弥勒像；有纪年造像帮助将姿态、衣纹与具体时段联系。",
+      "sourceIds": [
+        "cn-ns"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "纪年：486年的著录让造像与具体时段相连，纪年材料有助于比较风格变化。",
+        "衣纹：姿态与衣纹是观看造像的入口，但宗教含义还需图像学与文本支持。",
+        "材质：鎏金铜的材质与保存状态影响观看，不应把意绘表面当作实物记录。"
+      ]
+    },
+    {
+      "id": "obj-sui",
+      "periodId": "sui",
+      "material": "建筑工程",
+      "title": "大运河的工程层次",
+      "description": "对照水道、漕运与城镇关系；遗产包含历代建设维护成果，不能用现代河道直接复原隋代全线。",
+      "sourceIds": [
+        "cn-canal"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "水脉：水道、漕运与城镇应结合观察，不能只看一条孤立线。",
+        "层累：遗产包含历代建设、维护和改变的成果，不全是隋代一次完成。",
+        "地图：今天的河道与古代工程之间要逐段核查，不用氛围图充当工程复原。"
+      ]
+    },
+    {
+      "id": "obj-tang",
+      "periodId": "tang",
+      "material": "陶塑",
+      "title": "三彩俑与多元长安",
+      "description": "从驼、马、人物俑及釉色观察交通与工艺想象；三彩是典型线索之一，不是唐人全部器物的配色。",
+      "sourceIds": [
+        "cn-500-1000",
+        "cn-tang"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "釉与形：先观察釉色与驼、马、人物等器形怎样配合。",
+        "形象：交通与交流的线索需要结合器物用途，随葬艺术不等于生活实录。",
+        "多样性：三彩是唐代典型线索之一，并不意味着唐人所有器物都采用三种颜色。"
+      ]
+    },
+    {
+      "id": "obj-five-dynasties",
+      "periodId": "five-dynasties",
+      "material": "金属工艺",
+      "title": "吴越王钱弘俶造佛塔",
+      "description": "国博藏塔铭记乙卯年，对应955年，塔身佛本生故事可与铸造工艺、宗教用途一并赏鉴。",
+      "sourceIds": [
+        "cn-five-art"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "铭文：塔铭的乙卯年对应955年，使器物与吴越政治文化语境相连。",
+        "图像：塔身佛本生故事要放在宗教用途下理解，不能只作为装饰。",
+        "制作：铸造工艺、仪式和赞助者是同一件器物的不同面向。"
+      ]
+    },
+    {
+      "id": "obj-song-liao-xia-jin",
+      "periodId": "song-liao-xia-jin",
+      "material": "陶瓷与绘画",
+      "title": "青瓷、山水与西夏陵",
+      "description": "宋画和青瓷之外，同时观察西夏陵的建筑空间与多种文化影响，避免把同期所有政权概括成单一“宋式极简”。",
+      "sourceIds": [
+        "cn-1000-1400",
+        "cn-xixia"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "并置：宋画、青瓷与西夏陵属于不同的材料和空间入口。",
+        "多中心：辽、夏、金各有自己的文化面貌，不能被一套“宋式审美”覆盖。",
+        "观看尺度：从案头器物到陵墓空间，注意其用途、身份与地域差异。"
+      ]
+    },
+    {
+      "id": "obj-yuan",
+      "periodId": "yuan",
+      "material": "陶瓷",
+      "title": "元代青花鱼纹盘",
+      "description": "大都会藏14世纪中叶鱼纹青花盘，以透明釉下的钴蓝纹饰呈现工艺；不可将元代所有瓷器等同青花。",
+      "sourceIds": [
+        "cn-yuan"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "钴蓝：纹饰位于透明釉下，可把色彩与工艺顺序联系起来。",
+        "图像：鱼纹与器面布局共同构成观看经验，需以实物著录核查具体细节。",
+        "类型：青花是元代重要线索之一，不是元代陶瓷的唯一面貌。"
+      ]
+    },
+    {
+      "id": "obj-ming",
+      "periodId": "ming",
+      "material": "木作与绘画",
+      "title": "黄花梨柜与吴门绘画",
+      "description": "以大都会著录的16世纪黄花梨柜和文徵明1551年园林图册为线索，比较木作结构、文人笔墨与居住趣味。",
+      "sourceIds": [
+        "cn-ming"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "木作：黄花梨柜的结构与材料，呈现家具观看的一条路径。",
+        "笔墨：文徵明园林图册的笔墨与园居题材，提供另一种空间表达。",
+        "居住：实物家具、书画图像与真实居住实践相关，但不能互相直接替代。"
+      ]
+    },
+    {
+      "id": "obj-qing",
+      "periodId": "qing",
+      "material": "陶瓷与绘画",
+      "title": "粉彩、外销瓷与多种绘画倾向",
+      "description": "观察新增彩绘技法及丝瓷贸易，同时并置遵循传统与强调个性的绘画实践，避免以宫廷金红代表清代所有人群。",
+      "sourceIds": [
+        "cn-qing-art"
+      ],
+      "note": "此条目为具体器物、遗存或文化类型的赏鉴入口；所示图片仅为时代意境，不是该对象的实物照片。",
+      "lookingPoints": [
+        "彩绘：粉彩的技法与器形应结合具体器物观察，不只看宫廷金红。",
+        "流通：外销瓷将工艺、贸易与使用者联系起来，不能只以产地解释其审美。",
+        "多声：绘画中传统与个性并存，宫廷、市井与不同群体不共享唯一的清代样式。"
+      ]
+    }
+  ],
+  "worldEntries": [
+    {
+      "id": "w-jomon",
+      "title": "日本列岛：绳文社会",
+      "start": -2070,
+      "end": -300,
+      "regionId": "east-asia",
+      "summary": "渔猎、采集与定居聚落形成多样的地方社会。绳纹陶器和土偶留下了列岛居民与环境相处的物质痕迹。",
+      "topics": [
+        "绳纹陶器",
+        "聚落",
+        "渔猎采集"
+      ],
+      "sourceIds": [
+        "wv3-japan",
+        "wv3-japan-art"
+      ],
+      "place": {
+        "name": "日本列岛中部",
+        "lon": 138,
+        "lat": 36,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "绳纹与土偶",
+        "description": "观察压印纹路、口沿造型与土偶形体；不同遗址的器物不宜合成一种“全国风格”。",
+        "sourceIds": [
+          "wv3-japan",
+          "wv3-japan-art"
+        ]
+      },
+      "note": "考古文化分期，非王朝。只展示前2070以后部分；绳文起源更早，终点因地区而异。"
+    },
+    {
+      "id": "w-yayoi",
+      "title": "日本列岛：弥生与稻作社会",
+      "start": -900,
+      "end": 300,
+      "regionId": "east-asia",
+      "summary": "稻作、金属器与村落组织变化在列岛西部逐步展开，并与延续的绳文传统交错。",
+      "topics": [
+        "水田",
+        "铜铎",
+        "大陆联系"
+      ],
+      "sourceIds": [
+        "wv3-japan",
+        "wv3-japan-art"
+      ],
+      "place": {
+        "name": "北九州一带",
+        "lon": 130.4,
+        "lat": 33.6,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "铜铎与陶器",
+        "description": "从铜铎的轮廓与线刻图像、陶器的简洁器形，辨认工艺和使用情境。",
+        "sourceIds": [
+          "wv3-japan",
+          "wv3-japan-art"
+        ]
+      },
+      "note": "考古分期。起点有约前900／前800和传统前300等口径；这里采用宽范围，不能解释为各地同步进入。"
+    },
+    {
+      "id": "w-kofun-asuka",
+      "title": "日本：古坟与飞鸟",
+      "start": 250,
+      "end": 710,
+      "regionId": "east-asia",
+      "summary": "大型墓冢体现权力集中；佛教传入后，寺院、造像和文字文化逐渐成为新的公共表达。",
+      "topics": [
+        "前方后圆坟",
+        "埴轮",
+        "佛教造像"
+      ],
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "wv3-japan-art"
+      ],
+      "place": {
+        "name": "奈良盆地",
+        "lon": 135.8,
+        "lat": 34.5,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "圣德太子"
+      ],
+      "art": {
+        "title": "从埴轮到寺院造像",
+        "description": "墓冢上的陶制埴轮与寺院佛像属于不同用途；并列观看，能看见政治与宗教表达的转换。",
+        "sourceIds": [
+          "wv3-japan-columbia",
+          "wv3-japan-art"
+        ]
+      },
+      "note": "合并浏览两个交叠分期；飞鸟起年有538／552／593等口径，古坟文化并非到某一年整齐终止。"
+    },
+    {
+      "id": "w-nara-heian",
+      "title": "日本：奈良与平安",
+      "start": 710,
+      "end": 1185,
+      "regionId": "east-asia",
+      "summary": "以都城和寺院为中心的制度、书写与艺术发展；平安宫廷又形成日语文学及绘卷等多样表达。",
+      "topics": [
+        "都城",
+        "宫廷文学",
+        "绘卷"
+      ],
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "wv3-japan-art"
+      ],
+      "place": {
+        "name": "京都",
+        "lon": 135.77,
+        "lat": 35.01,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "紫式部"
+      ],
+      "art": {
+        "title": "寺院与绘卷",
+        "description": "从奈良佛教造像、平安绘卷的叙事布局与书写节奏进入时代；宫廷材料不代表所有人的生活。",
+        "sourceIds": [
+          "wv3-japan-columbia",
+          "wv3-japan-art"
+        ]
+      },
+      "note": "奈良710—794、平安794—1185为本站概括口径；奈良末迁都存在784—794过渡。"
+    },
+    {
+      "id": "w-japan-medieval",
+      "title": "日本：武家政权与中世文化",
+      "start": 1185,
+      "end": 1603,
+      "regionId": "east-asia",
+      "summary": "镰仓、室町及战国诸阶段中，武家政治、寺院网络和城镇文化交织，政权与文化面貌持续变化。",
+      "topics": [
+        "武家",
+        "禅寺",
+        "茶与水墨"
+      ],
+      "sourceIds": [
+        "wv3-japan-art",
+        "wv3-japan-columbia"
+      ],
+      "place": {
+        "name": "镰仓",
+        "lon": 139.55,
+        "lat": 35.32,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "足利义满"
+      ],
+      "art": {
+        "title": "水墨、庭园与茶器",
+        "description": "观看留白、山水构成和器物肌理；中世并非只有一种禅意审美，也有华丽的装饰和叙事。",
+        "sourceIds": [
+          "wv3-japan-art",
+          "wv3-japan-columbia"
+        ]
+      },
+      "note": "1185／1192均见于镰仓开端叙述；本条是多个政权的区域框架，不是一个延续四百年的王朝。"
+    },
+    {
+      "id": "w-edo",
+      "title": "日本：江户的城市与工艺",
+      "start": 1603,
+      "end": 1868,
+      "regionId": "east-asia",
+      "summary": "德川幕府统治下，城市消费、出版、交通和工艺发展。对外联系受到规制，但并未完全中断。",
+      "topics": [
+        "町人文化",
+        "浮世绘",
+        "出版"
+      ],
+      "sourceIds": [
+        "wv3-japan-art",
+        "wv3-japan-columbia"
+      ],
+      "place": {
+        "name": "江户（今东京）",
+        "lon": 139.76,
+        "lat": 35.68,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "葛饰北斋"
+      ],
+      "art": {
+        "title": "浮世绘与染织",
+        "description": "从版画中的线条、套色和城市题材，观察印刷与消费；不同作者和年代各有变化。",
+        "sourceIds": [
+          "wv3-japan-art",
+          "wv3-japan-columbia"
+        ]
+      },
+      "note": "政治分期采用幕府建立1603至1868；艺术史资源也常用1615作江户风格开端。"
+    },
+    {
+      "id": "w-meiji",
+      "title": "日本：明治的转型与对外扩张",
+      "start": 1868,
+      "end": 1912,
+      "regionId": "east-asia",
+      "summary": "政治制度与工业社会发生快速转型，传统工艺进入国际展览与市场；对外战争和殖民扩张同样属于这一时代。",
+      "topics": [
+        "工业化",
+        "国际博览会",
+        "传统工艺转型"
+      ],
+      "sourceIds": [
+        "wv3-japan-art",
+        "wv3-japan-columbia"
+      ],
+      "place": {
+        "name": "东京",
+        "lon": 139.76,
+        "lat": 35.68,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "明治天皇"
+      ],
+      "art": {
+        "title": "工艺与国际展览",
+        "description": "金工、陶瓷和织物在新市场中改变形式与尺度；“传统”本身也在现代条件下重新组织。",
+        "sourceIds": [
+          "wv3-japan-art",
+          "wv3-japan-columbia"
+        ]
+      },
+      "note": "1912既是明治终年，也是本站展示终点。近代化与帝国扩张需同时呈现。"
+    },
+    {
+      "id": "w-korea-kingdoms",
+      "title": "朝鲜半岛：三国、新罗与高丽",
+      "start": -57,
+      "end": 1392,
+      "regionId": "east-asia",
+      "summary": "多个政权和文化网络先后形成。三国、统一新罗与渤海并存、高丽等阶段，留下金属工艺、寺院、青瓷与印刷遗产。",
+      "topics": [
+        "三国",
+        "新罗与渤海",
+        "高丽青瓷"
+      ],
+      "sourceIds": [
+        "wv3-korea",
+        "wv3-korea-art"
+      ],
+      "place": {
+        "name": "庆州",
+        "lon": 129.22,
+        "lat": 35.86,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "王建"
+      ],
+      "art": {
+        "title": "金冠、佛像与青瓷",
+        "description": "以不同阶段的器物作入口，保留金属、釉色与礼仪用途的差异，避免把千余年压成一种朝鲜美学。",
+        "sourceIds": [
+          "wv3-korea",
+          "wv3-korea-art"
+        ]
+      },
+      "note": "大框架合并条目。传统三国起年与考古证据应区分；统一新罗并不统治全部原高句丽地区，高丽918—1392。"
+    },
+    {
+      "id": "w-joseon",
+      "title": "朝鲜王朝至大韩帝国",
+      "start": 1392,
+      "end": 1912,
+      "regionId": "east-asia",
+      "summary": "王朝政治、儒学秩序与日常工艺相互作用；19世纪对外关系急变，1897建立大韩帝国，1910遭日本吞并。",
+      "topics": [
+        "白瓷",
+        "谚文",
+        "近代变局"
+      ],
+      "sourceIds": [
+        "wv3-korea",
+        "wv3-korea-art"
+      ],
+      "place": {
+        "name": "汉阳（今首尔）",
+        "lon": 126.98,
+        "lat": 37.57,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "世宗"
+      ],
+      "art": {
+        "title": "白瓷与螺钿漆器",
+        "description": "从釉面的温润、器物比例及螺钿光泽看不同工艺；白瓷之外仍有多样的宗教与民间艺术。",
+        "sourceIds": [
+          "wv3-korea",
+          "wv3-korea-art"
+        ]
+      },
+      "note": "朝鲜王朝1392—1897、大韩帝国1897—1910；1910—1912为殖民统治初期。1912是本站窗口，不是王朝终年。"
+    },
+    {
+      "id": "w-harappa",
+      "title": "印度河流域：哈拉帕与城市转型",
+      "start": -2070,
+      "end": -1300,
+      "regionId": "south-asia",
+      "summary": "成熟城市之后，人口、生产与聚落网络发生区域性调整。遗存呈现的是长期转型，不宜归结为一次突然消失。",
+      "topics": [
+        "城市遗存",
+        "印章",
+        "区域转型"
+      ],
+      "sourceIds": [
+        "wv3-harappa"
+      ],
+      "place": {
+        "name": "摩亨佐-达罗",
+        "lon": 68.14,
+        "lat": 27.33,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "印章与城市空间",
+        "description": "印章上的动物、器形与砖筑空间可作观看入口；印度河文字尚未得到公认释读。",
+        "sourceIds": [
+          "wv3-harappa"
+        ]
+      },
+      "note": "成熟期通常约前2600—前1900、晚期约前1900—前1300；本站从前2070截取，并非文明起点。"
+    },
+    {
+      "id": "w-vedic",
+      "title": "南亚：吠陀传统与恒河城市",
+      "start": -1500,
+      "end": -321,
+      "regionId": "south-asia",
+      "summary": "口传文本、聚落扩展和国家形成在不同地区展开。前一千纪后半，恒河流域城市与宗教思想逐渐兴盛。",
+      "topics": [
+        "口传文本",
+        "恒河城市",
+        "早期宗教"
+      ],
+      "sourceIds": [
+        "wv3-harappa",
+        "wv3-south-summary"
+      ],
+      "place": {
+        "name": "恒河中游",
+        "lon": 83,
+        "lat": 25.4,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "释迦牟尼"
+      ],
+      "art": {
+        "title": "从器物到口传传统",
+        "description": "陶器和聚落用于观察物质生活；口传文本须结合形成与传承背景，不能当作某一年的实景记录。",
+        "sourceIds": [
+          "wv3-harappa",
+          "wv3-south-summary"
+        ]
+      },
+      "note": "区域过程约数，不是单一王朝；“吠陀文化”与特定陶器、人群之间不可机械等同。"
+    },
+    {
+      "id": "w-maurya-kushan",
+      "title": "南亚：孔雀王朝与区域王国",
+      "start": -321,
+      "end": 320,
+      "regionId": "south-asia",
+      "summary": "孔雀王朝之后，巽伽、贵霜、萨塔瓦哈纳等政权并存或接续；佛教、耆那教与多种地方传统留下丰富艺术。",
+      "topics": [
+        "阿育王",
+        "佛塔",
+        "贵霜"
+      ],
+      "sourceIds": [
+        "wv3-south-summary"
+      ],
+      "place": {
+        "name": "桑奇",
+        "lon": 77.74,
+        "lat": 23.48,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "阿育王",
+        "迦腻色伽"
+      ],
+      "art": {
+        "title": "佛塔与雕刻叙事",
+        "description": "从绕行空间、栏楯和雕刻叙事理解宗教活动；贵霜时期的不同造像中心也有显著差异。",
+        "sourceIds": [
+          "wv3-south-summary"
+        ]
+      },
+      "note": "合并区域框架，孔雀王朝约前321—前185；贵霜等政权非其延续王朝，贵霜年代存在研究分歧。"
+    },
+    {
+      "id": "w-gupta-regions",
+      "title": "南亚：笈多与区域寺院网络",
+      "start": 320,
+      "end": 1206,
+      "regionId": "south-asia",
+      "summary": "笈多及其后多个区域王国的寺院、雕塑与学术传统各自发展。南北差异和海陆联系共同构成这一长时段。",
+      "topics": [
+        "笈多",
+        "寺院",
+        "南印度铜像"
+      ],
+      "sourceIds": [
+        "wv3-south-summary"
+      ],
+      "place": {
+        "name": "萨尔纳特",
+        "lon": 83.02,
+        "lat": 25.38,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "石雕与铜铸造像",
+        "description": "比较石雕的体态、衣纹与南印度铜像的动态；雕像的仪式功能与观看方式同样重要。",
+        "sourceIds": [
+          "wv3-south-summary"
+        ]
+      },
+      "note": "320—1206仅为框架窗口；笈多王朝通常约4—6世纪，不能将此后整个南亚称为笈多时代。"
+    },
+    {
+      "id": "w-delhi-regional",
+      "title": "南亚：德里苏丹国与南方诸国",
+      "start": 1206,
+      "end": 1526,
+      "regionId": "south-asia",
+      "summary": "北部德里苏丹国与南方等地多个政权共同参与城市、宗教和贸易网络，货币与建筑留下多种政治表达。",
+      "topics": [
+        "德里苏丹国",
+        "货币",
+        "区域并立"
+      ],
+      "sourceIds": [
+        "wv3-delhi",
+        "wv3-south-summary"
+      ],
+      "place": {
+        "name": "德里",
+        "lon": 77.2,
+        "lat": 28.61,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "铭文钱币与建筑",
+        "description": "观看钱币的书法、称号和铸造信息，再与建筑铭刻比较；文字装饰也承担政治与宗教意义。",
+        "sourceIds": [
+          "wv3-delhi",
+          "wv3-south-summary"
+        ]
+      },
+      "note": "1206—1526为德里苏丹国分期，不能画成覆盖整个次大陆的恒定统一疆域。"
+    },
+    {
+      "id": "w-mughal",
+      "title": "南亚：莫卧儿与区域宫廷",
+      "start": 1526,
+      "end": 1858,
+      "regionId": "south-asia",
+      "summary": "莫卧儿宫廷及拉杰普特、德干等区域中心发展书画、建筑与工艺。帝国控制范围和政治实力随时期改变。",
+      "topics": [
+        "细密画",
+        "园林",
+        "多中心宫廷"
+      ],
+      "sourceIds": [
+        "wv3-mughal",
+        "wv3-three-empires"
+      ],
+      "place": {
+        "name": "阿格拉",
+        "lon": 78.01,
+        "lat": 27.18,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "阿克巴",
+        "沙贾汗"
+      ],
+      "art": {
+        "title": "书册、花卉与园林",
+        "description": "留意册页画的细节和建筑花卉纹；这些来自跨区域作坊与赞助环境，不能只归于单一文化来源。",
+        "sourceIds": [
+          "wv3-mughal",
+          "wv3-three-empires"
+        ]
+      },
+      "note": "采用1526—1858口径；1857也常作为终点。18世纪后的区域发展不是一条简单的宫廷衰落线。"
+    },
+    {
+      "id": "w-south-colonial",
+      "title": "南亚：殖民统治与社会变迁",
+      "start": 1858,
+      "end": 1912,
+      "regionId": "south-asia",
+      "summary": "英国直接统治及土邦等不同政治安排并存，交通、城市、印刷和社会运动改变区域生活，地方文化继续发展。",
+      "topics": [
+        "殖民档案",
+        "城市",
+        "社会变迁"
+      ],
+      "sourceIds": [
+        "wv3-british-india"
+      ],
+      "place": {
+        "name": "加尔各答",
+        "lon": 88.36,
+        "lat": 22.57,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "档案与图像的视角",
+        "description": "并看行政文本与地方材料，辨认谁在记录、为谁记录；殖民照片也有取景与分类的权力。",
+        "sourceIds": [
+          "wv3-british-india"
+        ]
+      },
+      "note": "1858起指英王直接统治，并不意味着殖民活动此前不存在；1912只是本站终点，非统治结束。"
+    },
+    {
+      "id": "w-ban-kao",
+      "title": "东南亚：农耕村落与早期金属网络",
+      "start": -2070,
+      "end": -500,
+      "regionId": "southeast-asia",
+      "summary": "大陆与岛屿上的村落、交换和工艺传统逐步变化。以班高等考古遗存观察陶器、石器和金属技术的不同组合。",
+      "topics": [
+        "班高",
+        "农耕村落",
+        "早期金属"
+      ],
+      "sourceIds": [
+        "wv3-sea-early"
+      ],
+      "place": {
+        "name": "班高一带",
+        "lon": 99.3,
+        "lat": 14,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "陶器的器足与绳纹",
+        "description": "留意陶器的支撑方式、表面纹理和随葬语境；材质变化并非各地同时发生。",
+        "sourceIds": [
+          "wv3-sea-early"
+        ]
+      },
+      "note": "区域框架约数，非“东南亚王朝”。班高文化的常用范围约前2000—前500，前2070为本站窗口示意。"
+    },
+    {
+      "id": "w-dongson",
+      "title": "东南亚：东山铜鼓与海陆交流",
+      "start": -500,
+      "end": 300,
+      "regionId": "southeast-asia",
+      "summary": "铜鼓、青铜器和铁器见于多个地方社会。器物流布为研究交换与精英联系提供证据，但不等于统一政治控制。",
+      "topics": [
+        "东山文化",
+        "铜鼓",
+        "交换网络"
+      ],
+      "sourceIds": [
+        "wv3-sea-early"
+      ],
+      "place": {
+        "name": "东山遗址一带",
+        "lon": 105.78,
+        "lat": 19.82,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "鼓面与几何秩序",
+        "description": "观察铜鼓的同心构图、人物与动物形象；“鼓传到某地”不能自动推成某国占领该地。",
+        "sourceIds": [
+          "wv3-sea-early"
+        ]
+      },
+      "note": "考古文化约前500—公元300，分期有差异；器物分布范围不等于族群或国界。"
+    },
+    {
+      "id": "w-funan",
+      "title": "东南亚：扶南与早期港市",
+      "start": 1,
+      "end": 650,
+      "regionId": "southeast-asia",
+      "summary": "下湄公河及相关港市参与区域交换，印度宗教和文字要素在当地被选择、调整并形成新的表达。",
+      "topics": [
+        "港市",
+        "早期铭文",
+        "宗教雕刻"
+      ],
+      "sourceIds": [
+        "wv3-khmer",
+        "wv3-south-summary"
+      ],
+      "place": {
+        "name": "吴哥波雷一带",
+        "lon": 104.95,
+        "lat": 10.99,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "早期神像与地方表达",
+        "description": "比较石雕姿态、衣饰与宗教属性；共享题材可以在各地形成不同的形体语言。",
+        "sourceIds": [
+          "wv3-khmer",
+          "wv3-south-summary"
+        ]
+      },
+      "note": "扶南名称主要见于域外文献，政治组织、起讫和与考古遗址对应仍有讨论；此处为约1—7世纪窗口。"
+    },
+    {
+      "id": "w-angkor-maritime",
+      "title": "东南亚：吴哥、爪哇与海上佛教网络",
+      "start": 650,
+      "end": 1431,
+      "regionId": "southeast-asia",
+      "summary": "吴哥地区寺院与水利景观发展，爪哇、苏门答腊等地的政权及港口也形成佛教和贸易网络。",
+      "topics": [
+        "吴哥",
+        "爪哇",
+        "室利佛逝"
+      ],
+      "sourceIds": [
+        "wv3-angkor",
+        "wv3-south-summary"
+      ],
+      "place": {
+        "name": "吴哥",
+        "lon": 103.87,
+        "lat": 13.41,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "阇耶跋摩七世"
+      ],
+      "art": {
+        "title": "寺院与景观",
+        "description": "在吴哥的石雕、院落和水体之间阅读空间；爪哇佛塔等遗产须作为不同地区的传统观看。",
+        "sourceIds": [
+          "wv3-angkor",
+          "wv3-south-summary"
+        ]
+      },
+      "note": "多个同时或交错存在的政权，不是一个帝国。吴哥主要阶段约9—15世纪；1431不等于遗址与信仰消失。"
+    },
+    {
+      "id": "w-majapahit-melaka",
+      "title": "东南亚：满者伯夷与马六甲港市",
+      "start": 1293,
+      "end": 1600,
+      "regionId": "southeast-asia",
+      "summary": "爪哇与海峡地区呈现不同政治和贸易中心。马六甲成为多文化港市，伊斯兰传播与地方传统持续互动。",
+      "topics": [
+        "爪哇",
+        "海峡港市",
+        "伊斯兰传播"
+      ],
+      "sourceIds": [
+        "wv3-melaka",
+        "wv3-khmer",
+        "wv3-south-summary"
+      ],
+      "place": {
+        "name": "马六甲",
+        "lon": 102.25,
+        "lat": 2.19,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "砖、木与港口文化",
+        "description": "港市建筑积累了不同时代的改造；赏鉴现存建筑前先看年代，不能将后来的街屋都归入苏丹国。",
+        "sourceIds": [
+          "wv3-melaka",
+          "wv3-khmer",
+          "wv3-south-summary"
+        ]
+      },
+      "note": "满者伯夷约1293起，终点有16世纪初多种说法；马六甲苏丹国与1511后的殖民港市需区分。"
+    },
+    {
+      "id": "w-sea-oceanic",
+      "title": "东南亚：海港、王国与殖民据点",
+      "start": 1600,
+      "end": 1800,
+      "regionId": "southeast-asia",
+      "summary": "本地王国、华人及印度洋商人和欧洲公司在不同港口相遇、贸易并发生冲突，地方政治始终参与其中。",
+      "topics": [
+        "海港",
+        "手稿",
+        "殖民据点"
+      ],
+      "sourceIds": [
+        "wv3-sea-colonial",
+        "wv3-melaka"
+      ],
+      "place": {
+        "name": "马六甲海峡",
+        "lon": 101.8,
+        "lat": 2.5,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "多层城市与交换物",
+        "description": "从陶瓷、手稿与建筑层累阅读港市；相近纹样与材料需逐件核查，不能仅凭外形断定传播路线。",
+        "sourceIds": [
+          "wv3-sea-colonial",
+          "wv3-melaka"
+        ]
+      },
+      "note": "区域过程窗口，不是欧洲开始书写东南亚历史的时刻；各地殖民化程度不同。"
+    },
+    {
+      "id": "w-sea19",
+      "title": "东南亚：殖民扩张与本地转型",
+      "start": 1800,
+      "end": 1912,
+      "regionId": "southeast-asia",
+      "summary": "19世纪英、法、荷等殖民扩张改变政治经济；暹罗维持独立并改革，工艺、摄影与宫廷艺术在新条件下转变。",
+      "topics": [
+        "殖民扩张",
+        "暹罗改革",
+        "摄影与工艺"
+      ],
+      "sourceIds": [
+        "wv3-sea19",
+        "wv3-sea-colonial"
+      ],
+      "place": {
+        "name": "曼谷",
+        "lon": 100.5,
+        "lat": 13.75,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "蒙固",
+        "朱拉隆功"
+      ],
+      "art": {
+        "title": "工艺与早期摄影",
+        "description": "观察织物、宗教图像和摄影如何共存；地方艺术没有随着殖民扩张整齐中止。",
+        "sourceIds": [
+          "wv3-sea19",
+          "wv3-sea-colonial"
+        ]
+      },
+      "note": "不同地区经历不同。1912为窗口终点；不把欧洲考察者的到来写成对本地人始终知晓遗产的首次发现。"
+    },
+    {
+      "id": "w-mesopotamia",
+      "title": "两河流域：王国、城市与书写",
+      "start": -2070,
+      "end": -539,
+      "regionId": "central-west-asia",
+      "summary": "从乌尔第三王朝末期到古巴比伦、亚述和新巴比伦，多个政权先后竞争；城市、书吏与工艺传统持续变化。",
+      "topics": [
+        "泥板",
+        "城市",
+        "亚述与巴比伦"
+      ],
+      "sourceIds": [
+        "wv3-babylon",
+        "wv3-near-east"
+      ],
+      "place": {
+        "name": "巴比伦",
+        "lon": 44.42,
+        "lat": 32.54,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "汉谟拉比",
+        "尼布甲尼撒二世"
+      ],
+      "art": {
+        "title": "泥板、印章与宫殿浮雕",
+        "description": "把小型印章与大型浮雕并看：材料尺度不同，记录、仪式与王权表达的用途也不同。",
+        "sourceIds": [
+          "wv3-babylon",
+          "wv3-near-east"
+        ]
+      },
+      "note": "合并区域框架，非连续单一帝国。前539为居鲁士占领巴比伦，城市历史并未终止；古代绝对年代有不同体系。"
+    },
+    {
+      "id": "w-achaemenid",
+      "title": "西亚：阿契美尼德波斯",
+      "start": -550,
+      "end": -330,
+      "regionId": "central-west-asia",
+      "summary": "以伊朗高原为核心的帝国联系多个地区，宫殿浮雕与器物展示多群体帝国的政治表达。",
+      "topics": [
+        "波斯波利斯",
+        "王室建筑",
+        "帝国组织"
+      ],
+      "sourceIds": [
+        "wv3-near-east"
+      ],
+      "place": {
+        "name": "波斯波利斯",
+        "lon": 52.89,
+        "lat": 29.94,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "居鲁士二世",
+        "大流士一世"
+      ],
+      "art": {
+        "title": "石阶与使团",
+        "description": "比较浮雕中的服饰、器物和排列；王室理想图像不是各族日常生活的直接全景。",
+        "sourceIds": [
+          "wv3-near-east"
+        ]
+      },
+      "note": "前550—前330是常用王朝框架；地图只标代表地点，不能把最大疆域持续投射到每一年。",
+      "illustration": {
+        "image": "assets/themes/persia.jpg",
+        "caption": "AI 氛围意绘 · 非文物照片或精确历史复原"
+      }
+    },
+    {
+      "id": "w-seleucid-parthia",
+      "title": "西亚：希腊化王国与安息",
+      "start": -330,
+      "end": 224,
+      "regionId": "central-west-asia",
+      "summary": "亚历山大征服之后形成多个王国。安息随后成为区域大国，地方与希腊化传统在艺术和城市中交错。",
+      "topics": [
+        "塞琉古",
+        "安息",
+        "商路与城市"
+      ],
+      "sourceIds": [
+        "wv3-parthia"
+      ],
+      "place": {
+        "name": "泰西封一带",
+        "lon": 44.58,
+        "lat": 33.09,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "塞琉古一世",
+        "米特里达梯一世"
+      ],
+      "art": {
+        "title": "正面人物与钱币",
+        "description": "观看浮雕的正面姿态、衣饰线条及钱币上的君主形象；安息艺术内部有多种地方形式。",
+        "sourceIds": [
+          "wv3-parthia"
+        ]
+      },
+      "note": "合并过程窗口；安息帝国常用前247—公元224。跨年前后不设公元0年。"
+    },
+    {
+      "id": "w-sasanian",
+      "title": "西亚：萨珊帝国",
+      "start": 224,
+      "end": 651,
+      "regionId": "central-west-asia",
+      "summary": "萨珊王朝在伊朗及相关地区形成政治与宫廷文化，银器、岩刻和钱币留下王权与宗教表达。",
+      "topics": [
+        "银器",
+        "岩刻",
+        "琐罗亚斯德教"
+      ],
+      "sourceIds": [
+        "wv3-sasanian"
+      ],
+      "place": {
+        "name": "泰西封一带",
+        "lon": 44.58,
+        "lat": 33.09,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "阿尔达希尔一世",
+        "沙普尔一世"
+      ],
+      "art": {
+        "title": "银盘与王室狩猎",
+        "description": "比较狩猎图像与钱币冠饰；很多银器缺乏可靠出土语境，年代判断需要谨慎。",
+        "sourceIds": [
+          "wv3-sasanian"
+        ]
+      },
+      "note": "采用224—651，起年另有226口径；651为末王死亡节点，萨珊工艺传统继续流传。"
+    },
+    {
+      "id": "w-caliphates",
+      "title": "西亚：早期哈里发与阿拔斯世界",
+      "start": 632,
+      "end": 1258,
+      "regionId": "central-west-asia",
+      "summary": "从阿拉伯半岛向外的扩张与区域统治形成新格局。倭马亚、阿拔斯及其周边政权推动城市和工艺发展。",
+      "topics": [
+        "大马士革",
+        "巴格达",
+        "书法与城市"
+      ],
+      "sourceIds": [
+        "wv3-umayyad",
+        "wv3-islamic"
+      ],
+      "place": {
+        "name": "巴格达",
+        "lon": 44.37,
+        "lat": 33.32,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "穆阿维叶",
+        "哈伦·拉希德"
+      ],
+      "art": {
+        "title": "书法、植物纹与建筑",
+        "description": "艺术在继承、改造和新需求中变化；宗教建筑与世俗器物的图像使用不能一概而论。",
+        "sourceIds": [
+          "wv3-umayyad",
+          "wv3-islamic"
+        ]
+      },
+      "note": "倭马亚661—750、巴格达阿拔斯750—1258；本条不是同时覆盖所有穆斯林社会的统一疆域。"
+    },
+    {
+      "id": "w-central-medieval",
+      "title": "中西亚：塞尔柱、蒙古诸汗国与帖木儿",
+      "start": 1040,
+      "end": 1507,
+      "regionId": "central-west-asia",
+      "summary": "草原、绿洲与城市政权在战争和往来中重组。建筑、陶器、金工与书册艺术构成多个相连又有差异的中心。",
+      "topics": [
+        "绿洲城市",
+        "帖木儿",
+        "书册艺术"
+      ],
+      "sourceIds": [
+        "wv3-islamic",
+        "wv3-three-empires"
+      ],
+      "place": {
+        "name": "撒马尔罕",
+        "lon": 66.97,
+        "lat": 39.65,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "帖木儿",
+        "兀鲁伯"
+      ],
+      "art": {
+        "title": "瓷砖与书册",
+        "description": "由建筑表面几何秩序转向册页细节，观看尺度变化；不同工坊和赞助者不能归为一种固定的伊斯兰风格。",
+        "sourceIds": [
+          "wv3-islamic",
+          "wv3-three-empires"
+        ]
+      },
+      "note": "多个政权的框架：塞尔柱约1040起，帖木儿1370—1507；征服破坏与文化赞助须同时呈现。"
+    },
+    {
+      "id": "w-ottoman-safavid",
+      "title": "西亚：奥斯曼与萨法维的多中心世界",
+      "start": 1299,
+      "end": 1912,
+      "regionId": "central-west-asia",
+      "summary": "奥斯曼和萨法维等政权的城市、工坊和宫廷相互竞争并交流；地毯、织物、陶瓷和书画各有地方传统。",
+      "topics": [
+        "伊斯坦布尔",
+        "伊斯法罕",
+        "织物与工坊"
+      ],
+      "sourceIds": [
+        "wv3-three-empires"
+      ],
+      "place": {
+        "name": "伊斯坦布尔",
+        "lon": 28.98,
+        "lat": 41.01,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "苏莱曼一世",
+        "阿拔斯一世"
+      ],
+      "art": {
+        "title": "纹样与工坊",
+        "description": "比较花卉、书法、地毯结构和陶瓷装饰；相似图案可能来自工匠流动与市场，须凭材料判断。",
+        "sourceIds": [
+          "wv3-three-empires"
+        ]
+      },
+      "note": "奥斯曼约1299起并延续至20世纪；萨法维1501起，1722／1736等终点口径不同。1912仅为展示截点。"
+    },
+    {
+      "id": "w-qajar",
+      "title": "西亚：卡扎尔时期的伊朗",
+      "start": 1785,
+      "end": 1912,
+      "regionId": "central-west-asia",
+      "summary": "19世纪伊朗宫廷与民间图像、外交和市场相互作用，传统工艺与新的视觉媒介并存。",
+      "topics": [
+        "宫廷绘画",
+        "外交",
+        "视觉转型"
+      ],
+      "sourceIds": [
+        "wv3-qajar"
+      ],
+      "place": {
+        "name": "德黑兰",
+        "lon": 51.39,
+        "lat": 35.69,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "法特赫·阿里沙",
+        "纳赛尔丁沙"
+      ],
+      "art": {
+        "title": "大幅肖像与民间绘画",
+        "description": "从姿态、服饰和装饰看王权的表现，也并看民间宗教图像；不能让宫廷肖像代表全部社会。",
+        "sourceIds": [
+          "wv3-qajar"
+        ]
+      },
+      "note": "1785为所引展览的艺术分期起点，政治建国纪年另有多种口径；王朝延续到1925，本站止于1912。"
+    },
+    {
+      "id": "w-aegean-bronze",
+      "title": "欧洲：青铜时代的爱琴海世界",
+      "start": -2070,
+      "end": -1200,
+      "regionId": "europe",
+      "summary": "克里特和希腊大陆形成不同宫殿与聚落网络。海上往来、生产与记账让艺术和政治彼此相连。",
+      "topics": [
+        "克里特",
+        "迈锡尼",
+        "宫殿与海"
+      ],
+      "sourceIds": [
+        "wv3-minoa",
+        "wv3-mycenae"
+      ],
+      "place": {
+        "name": "克诺索斯",
+        "lon": 25.16,
+        "lat": 35.3,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "壁画、陶器与金工",
+        "description": "比较海洋题材、陶器装饰与宫殿空间；今天看到的遗址复原须与原始残迹区分。",
+        "sourceIds": [
+          "wv3-minoa",
+          "wv3-mycenae"
+        ]
+      },
+      "note": "考古文化框架，非统一国家；前1200附近是多地转型约数，不表示整个爱琴海同年毁灭。"
+    },
+    {
+      "id": "w-greek-world",
+      "title": "欧洲：从城邦到希腊化世界",
+      "start": -1200,
+      "end": -31,
+      "regionId": "europe",
+      "summary": "青铜时代后，不同希腊社群、城邦及后来形成的王国发展多样制度与艺术，文化空间超出今日希腊国界。",
+      "topics": [
+        "城邦",
+        "陶器",
+        "希腊化王国"
+      ],
+      "sourceIds": [
+        "wv3-mycenae",
+        "wv3-rome"
+      ],
+      "place": {
+        "name": "雅典",
+        "lon": 23.73,
+        "lat": 37.98,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "伯里克利",
+        "亚里士多德",
+        "亚历山大"
+      ],
+      "art": {
+        "title": "陶器与石雕",
+        "description": "从器形、图像和人体表现观察变化；白色石材的现存外观不意味着古代没有彩绘。",
+        "sourceIds": [
+          "wv3-mycenae",
+          "wv3-rome"
+        ]
+      },
+      "note": "合并框架；古典期常用前480—前323，希腊化常用前323—前31／前30；并非一个国家延续千年。"
+    },
+    {
+      "id": "w-roman",
+      "title": "欧洲及地中海：罗马共和国与帝国",
+      "start": -509,
+      "end": 476,
+      "regionId": "europe",
+      "summary": "罗马由意大利地方政权发展为地中海帝国，公民身份、城市生活和艺术赞助随政治变化而改变。",
+      "topics": [
+        "公民与帝国",
+        "城市",
+        "肖像与马赛克"
+      ],
+      "sourceIds": [
+        "wv3-rome"
+      ],
+      "place": {
+        "name": "罗马",
+        "lon": 12.5,
+        "lat": 41.9,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "奥古斯都",
+        "君士坦丁"
+      ],
+      "art": {
+        "title": "肖像、墙画与城市",
+        "description": "把精英肖像、住宅墙画和公共空间并看，区分赞助者、使用者与观看场景。",
+        "sourceIds": [
+          "wv3-rome"
+        ]
+      },
+      "note": "前509为传统共和国起年，前27为帝制常用起点；476只是西部皇帝废黜节点，东部罗马继续存在。"
+    },
+    {
+      "id": "w-byzantium",
+      "title": "欧洲及东地中海：拜占庭",
+      "start": 330,
+      "end": 1453,
+      "regionId": "europe",
+      "summary": "以君士坦丁堡为核心的东部罗马政治与基督教文化持续发展，经历领土变动、宗教争论与多次重组。",
+      "topics": [
+        "东部罗马",
+        "圣像",
+        "穹顶与镶嵌"
+      ],
+      "sourceIds": [
+        "wv3-byzantium"
+      ],
+      "place": {
+        "name": "君士坦丁堡",
+        "lon": 28.98,
+        "lat": 41.01,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "查士丁尼一世"
+      ],
+      "art": {
+        "title": "镶嵌画与圣像",
+        "description": "观看金色背景、光线与建筑曲面如何组织图像；不同材料和时代有不同的观看用途。",
+        "sourceIds": [
+          "wv3-byzantium"
+        ]
+      },
+      "note": "拜占庭为后世名称，居民自称罗马人；1204—1261存在拉丁占领与多个继承政权，不画成连续不变疆域。"
+    },
+    {
+      "id": "w-europe-medieval",
+      "title": "欧洲：中世纪的多种社会",
+      "start": 500,
+      "end": 1500,
+      "regionId": "europe",
+      "summary": "西欧、北欧与东欧出现多个王国、城镇和宗教网络。手稿、城堡、教堂与日常器物记录社会的多种层次。",
+      "topics": [
+        "王国与城镇",
+        "手稿",
+        "教堂"
+      ],
+      "sourceIds": [
+        "wv3-medieval"
+      ],
+      "place": {
+        "name": "巴黎",
+        "lon": 2.35,
+        "lat": 48.86,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "手稿、石雕与彩窗",
+        "description": "细读页边装饰、建筑雕刻和透光色彩，区分修院、宫廷与城镇的不同赞助。",
+        "sourceIds": [
+          "wv3-medieval"
+        ]
+      },
+      "note": "中世纪为后世分期，各地起讫不同；不是全欧洲共同停滞或由一个封建制度覆盖的时代。"
+    },
+    {
+      "id": "w-europe-early-modern",
+      "title": "欧洲：文艺复兴与近世转型",
+      "start": 1400,
+      "end": 1800,
+      "regionId": "europe",
+      "summary": "城市与宫廷赞助、宗教变革、航海和印刷改变知识及艺术传播。欧洲内部和海外关系都呈现冲突与交流。",
+      "topics": [
+        "文艺复兴",
+        "版画与印刷",
+        "宫廷与城市"
+      ],
+      "sourceIds": [
+        "wv3-renaissance",
+        "wv3-medieval"
+      ],
+      "place": {
+        "name": "佛罗伦萨",
+        "lon": 11.26,
+        "lat": 43.77,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "多纳泰罗"
+      ],
+      "art": {
+        "title": "尺度、透视与工艺",
+        "description": "从雕塑和装饰艺术观察材料、比例及古典资源的再利用；文艺复兴不等于所有地区同步换风格。",
+        "sourceIds": [
+          "wv3-renaissance",
+          "wv3-medieval"
+        ]
+      },
+      "note": "1400—1800是近世框架，文艺复兴只是其中一部分；不将此时所有作品都标成文艺复兴。"
+    },
+    {
+      "id": "w-europe-industrial",
+      "title": "欧洲：工业化与19世纪社会",
+      "start": 1750,
+      "end": 1912,
+      "regionId": "europe",
+      "summary": "工厂、铁路和新的能源体系改变生产与城市生活；大众消费与国际展览同时连接帝国扩张和全球劳动。",
+      "topics": [
+        "蒸汽",
+        "铁路",
+        "工业城市"
+      ],
+      "sourceIds": [
+        "wv3-industry"
+      ],
+      "place": {
+        "name": "英国中部工业区",
+        "lon": -1.9,
+        "lat": 52.49,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "詹姆斯·瓦特"
+      ],
+      "art": {
+        "title": "机器与工业材料",
+        "description": "观察机器结构、标准化零件与新材料制品，也追问工人的劳动和能源来源。",
+        "sourceIds": [
+          "wv3-industry"
+        ]
+      },
+      "note": "1750为概括窗口；工业化并非单一发明或各国同时发生，1912为本站终点。"
+    },
+    {
+      "id": "w-egypt-middle",
+      "title": "非洲：埃及中王国",
+      "start": -2030,
+      "end": -1650,
+      "regionId": "africa",
+      "summary": "尼罗河谷重新组织王权与地方社会，雕塑、首饰、墓葬和文学呈现中王国的多样面貌。",
+      "topics": [
+        "尼罗河",
+        "雕塑",
+        "首饰"
+      ],
+      "sourceIds": [
+        "wv3-egypt-middle"
+      ],
+      "place": {
+        "name": "底比斯",
+        "lon": 32.65,
+        "lat": 25.72,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "孟图霍特普二世"
+      ],
+      "art": {
+        "title": "石雕与精细金工",
+        "description": "宏大王权形象与细小首饰并置，观看尺度和细节；墓葬材料不能替代整个社会。",
+        "sourceIds": [
+          "wv3-egypt-middle"
+        ]
+      },
+      "note": "约前2030—前1650，终点另有前1640／前1700等口径；这里只是东北非一个时期。",
+      "illustration": {
+        "image": "assets/themes/egypt-middle.jpg",
+        "caption": "AI 氛围意绘 · 非文物照片或精确历史复原"
+      }
+    },
+    {
+      "id": "w-egypt-new",
+      "title": "非洲：埃及新王国",
+      "start": -1550,
+      "end": -1070,
+      "regionId": "africa",
+      "summary": "底比斯神庙、王陵和工匠聚落留下宏大的纪念性艺术，也保留了具体劳动与生活的记录。",
+      "topics": [
+        "神庙",
+        "壁画",
+        "工匠聚落"
+      ],
+      "sourceIds": [
+        "wv3-egypt-new"
+      ],
+      "place": {
+        "name": "底比斯",
+        "lon": 32.65,
+        "lat": 25.72,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "哈特谢普苏特",
+        "拉美西斯二世"
+      ],
+      "art": {
+        "title": "石柱、浮雕与彩绘",
+        "description": "结合神庙空间和图像用途观看颜色；残存色彩与原始面貌之间仍需考古和修复研究。",
+        "sourceIds": [
+          "wv3-egypt-new"
+        ]
+      },
+      "note": "约数分期，不能据纪念性建筑概括所有人的生活；新王国不等于整个非洲同期。",
+      "illustration": {
+        "image": "assets/themes/egypt-new.jpg",
+        "caption": "AI 氛围意绘 · 非文物照片或精确历史复原"
+      }
+    },
+    {
+      "id": "w-kush",
+      "title": "非洲：库施与麦罗埃",
+      "start": -800,
+      "end": 400,
+      "regionId": "africa",
+      "summary": "尼罗河中游的库施王国形成独特的王室、宗教和工艺表达，并与周边地区交往。",
+      "topics": [
+        "努比亚",
+        "麦罗埃",
+        "王室遗产"
+      ],
+      "sourceIds": [
+        "wv3-kush"
+      ],
+      "place": {
+        "name": "麦罗埃",
+        "lon": 33.75,
+        "lat": 16.94,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "金字塔与宗教建筑",
+        "description": "比较墓葬、庙宇和建筑装饰，保留本地传统的主动创造，不将其只视作埃及的附属。",
+        "sourceIds": [
+          "wv3-kush"
+        ]
+      },
+      "note": "本条采用麦罗埃遗产所述约前8世纪—公元4世纪阶段；库施和努比亚的历史远不止此。"
+    },
+    {
+      "id": "w-aksum",
+      "title": "非洲：阿克苏姆",
+      "start": 1,
+      "end": 800,
+      "regionId": "africa",
+      "summary": "非洲之角的贸易王国联系红海与周边区域，石碑、建筑、钱币和文字呈现其政治与宗教变化。",
+      "topics": [
+        "红海贸易",
+        "石碑",
+        "钱币"
+      ],
+      "sourceIds": [
+        "wv3-aksum"
+      ],
+      "place": {
+        "name": "阿克苏姆",
+        "lon": 38.72,
+        "lat": 14.13,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "埃扎纳"
+      ],
+      "art": {
+        "title": "石碑与建筑细节",
+        "description": "石碑上的建筑式细部让纪念物与真实建筑发生联系；不同遗存的年代和用途仍须区分。",
+        "sourceIds": [
+          "wv3-aksum"
+        ]
+      },
+      "note": "约公元1—8世纪为概括窗口，王国和文化转型不是同年消失；地名并非现代国家边界。"
+    },
+    {
+      "id": "w-sahel",
+      "title": "非洲：加纳、马里与桑海",
+      "start": 300,
+      "end": 1600,
+      "regionId": "africa",
+      "summary": "萨赫勒地区先后出现多个政权，跨撒哈拉网络连接城市、生产与知识活动，口传和文字共同保存历史。",
+      "topics": [
+        "萨赫勒",
+        "跨撒哈拉贸易",
+        "手稿与口传"
+      ],
+      "sourceIds": [
+        "wv3-sahel"
+      ],
+      "place": {
+        "name": "尼日尔河中游",
+        "lon": -3,
+        "lat": 15,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "松迪亚塔",
+        "曼萨·穆萨"
+      ],
+      "art": {
+        "title": "雕塑、织物与手稿",
+        "description": "材料包括陶、木、铜合金和书写，不用一类面具概括广阔地区；来源与保存条件也影响今天所见。",
+        "sourceIds": [
+          "wv3-sahel"
+        ]
+      },
+      "note": "多个交叠政权；采用展览概括：加纳300—1200、马里1230—1600、桑海1464—1591。古加纳不等于今日加纳。"
+    },
+    {
+      "id": "w-swahili",
+      "title": "非洲：斯瓦希里海岸港市",
+      "start": 800,
+      "end": 1900,
+      "regionId": "africa",
+      "summary": "东非海岸港市参与印度洋贸易，地方社会、伊斯兰信仰与跨海往来共同塑造城市文化。",
+      "topics": [
+        "印度洋",
+        "珊瑚石建筑",
+        "港市"
+      ],
+      "sourceIds": [
+        "wv3-kilwa"
+      ],
+      "place": {
+        "name": "基尔瓦",
+        "lon": 39.52,
+        "lat": -8.96,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "珊瑚石与舶来陶瓷",
+        "description": "由房屋、清真寺和陶瓷的不同用途阅读港市；外来物品并不意味着城市文化全由外来人创造。",
+        "sourceIds": [
+          "wv3-kilwa"
+        ]
+      },
+      "note": "以基尔瓦约9—19世纪聚落史作入口，不是整个斯瓦希里世界的统一王朝。贸易也涉及不同时期的奴役与暴力。"
+    },
+    {
+      "id": "w-kongo",
+      "title": "非洲：刚果王国与大西洋联系",
+      "start": 1350,
+      "end": 1900,
+      "regionId": "africa",
+      "summary": "刚果王国的政治与精神中心发展本地建筑和礼仪，15世纪后与葡萄牙及大西洋网络发生深刻互动。",
+      "topics": [
+        "姆班扎刚果",
+        "本地政治",
+        "大西洋"
+      ],
+      "sourceIds": [
+        "wv3-kongo"
+      ],
+      "place": {
+        "name": "姆班扎刚果",
+        "lon": 14.24,
+        "lat": -6.27,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "阿丰索一世"
+      ],
+      "art": {
+        "title": "本地材料与石构建筑",
+        "description": "并看传统王室空间和后来增建的石构建筑，观察宗教、政治与材料如何相遇。",
+        "sourceIds": [
+          "wv3-kongo"
+        ]
+      },
+      "note": "约14—19世纪框架；刚果王国不等于今日刚果各国。大西洋联系必须同时呈现奴隶贸易及其后果。"
+    },
+    {
+      "id": "w-sahel-later",
+      "title": "非洲：近世西非的王国与工艺",
+      "start": 1600,
+      "end": 1870,
+      "regionId": "africa",
+      "summary": "西非多个政治中心与贸易网络继续发展。塞古等地的物质文化呈现战争、信仰、生产及跨区域联系。",
+      "topics": [
+        "西非诸国",
+        "塞古",
+        "金属与织物"
+      ],
+      "sourceIds": [
+        "wv3-sahel",
+        "wv3-africa19"
+      ],
+      "place": {
+        "name": "塞古",
+        "lon": -6.26,
+        "lat": 13.43,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "器物与流通",
+        "description": "观看织物、金属容器和雕塑的材料，辨认本地制作与输入器物之间复杂的流通关系。",
+        "sourceIds": [
+          "wv3-sahel",
+          "wv3-africa19"
+        ]
+      },
+      "note": "1600—1870为近世框架；塞古展览年表1640—1861。不同社会各有时间线，不能统一称作一个王朝。"
+    },
+    {
+      "id": "w-africa-colonial",
+      "title": "非洲：19世纪变局与殖民侵略",
+      "start": 1800,
+      "end": 1912,
+      "regionId": "africa",
+      "summary": "非洲社会经历本地政治重组、商业变化和殖民侵略；抵抗、外交与文化延续也贯穿其中。",
+      "topics": [
+        "殖民扩张",
+        "抵抗",
+        "档案与遗产"
+      ],
+      "sourceIds": [
+        "wv3-colonial-archives",
+        "wv3-africa19"
+      ],
+      "place": {
+        "name": "阿克拉一带",
+        "lon": -0.2,
+        "lat": 5.56,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "藏品也有历史",
+        "description": "观看器物时一并阅读征集、战争与掠夺背景；博物馆所在地点不等于物品原属的文化空间。",
+        "sourceIds": [
+          "wv3-colonial-archives",
+          "wv3-africa19"
+        ]
+      },
+      "note": "大陆性概括过程，不能据本条给所有地区涂成统一殖民疆域；1912为本站窗口，非殖民时代终点。"
+    },
+    {
+      "id": "w-caral",
+      "title": "美洲：卡拉尔—苏佩的城市",
+      "start": -2070,
+      "end": -1800,
+      "regionId": "americas",
+      "summary": "安第斯太平洋沿岸的卡拉尔形成大型平台建筑、下沉广场和有组织的聚落空间，展示美洲早期复杂社会。",
+      "topics": [
+        "安第斯",
+        "平台建筑",
+        "城市空间"
+      ],
+      "sourceIds": [
+        "wv3-caral"
+      ],
+      "place": {
+        "name": "卡拉尔",
+        "lon": -77.52,
+        "lat": -10.89,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "平台与下沉广场",
+        "description": "从建筑之间的尺度和动线观察公共空间；复原图必须与保存下来的遗迹区分。",
+        "sourceIds": [
+          "wv3-caral"
+        ]
+      },
+      "note": "遗址发展约前3000—前1800；本站截取前2070以后部分。不是美洲居民或文明的唯一开端。"
+    },
+    {
+      "id": "w-olmec",
+      "title": "美洲：奥尔梅克艺术与社群",
+      "start": -1200,
+      "end": -400,
+      "regionId": "americas",
+      "summary": "墨西哥湾沿岸社群创造纪念性石雕和精细玉石作品，并参与更广泛的中部美洲互动。",
+      "topics": [
+        "巨石头像",
+        "玉石",
+        "区域交流"
+      ],
+      "sourceIds": [
+        "wv3-olmec"
+      ],
+      "place": {
+        "name": "拉文塔",
+        "lon": -94.04,
+        "lat": 18.1,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "巨石与玉石的两种尺度",
+        "description": "比较雕刻轮廓、表面处理和材料运输，不凭头像面貌进行现代种族分类。",
+        "sourceIds": [
+          "wv3-olmec"
+        ]
+      },
+      "note": "约前1200—前400为所引文章口径，另有前1500起等说法；奥尔梅克是现代文化分类，不等于统一帝国。"
+    },
+    {
+      "id": "w-maya",
+      "title": "美洲：玛雅社群与古典城市",
+      "start": -2000,
+      "end": 1500,
+      "regionId": "americas",
+      "summary": "玛雅历史跨越很长时期，多个城市及社群在文字、历法、建筑和艺术方面创造丰富传统；古典期之后仍持续发展。",
+      "topics": [
+        "城邦",
+        "文字",
+        "石碑与陶器"
+      ],
+      "sourceIds": [
+        "wv3-mesoamerica",
+        "wv3-maya"
+      ],
+      "place": {
+        "name": "蒂卡尔",
+        "lon": -89.62,
+        "lat": 17.22,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "文字与人物形象",
+        "description": "古典期石碑和陶器将图像与文字结合，常服务王室和仪式；必须辨认具体城市、年代和语境。",
+        "sourceIds": [
+          "wv3-mesoamerica",
+          "wv3-maya"
+        ]
+      },
+      "note": "框架约数，非统一王朝；赏鉴重点古典期250—900。900并非玛雅人消失，1500也不是其文化终点。"
+    },
+    {
+      "id": "w-teotihuacan",
+      "title": "美洲：特奥蒂瓦坎",
+      "start": -200,
+      "end": 650,
+      "regionId": "americas",
+      "summary": "墨西哥高原的大型城市以规划、建筑和工艺联系广泛地区，其政治组织仍有许多研究问题。",
+      "topics": [
+        "城市规划",
+        "壁画",
+        "黑曜石"
+      ],
+      "sourceIds": [
+        "wv3-mesoamerica"
+      ],
+      "place": {
+        "name": "特奥蒂瓦坎",
+        "lon": -98.84,
+        "lat": 19.69,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "大道、墙面与色彩",
+        "description": "由城市轴线与图像重复观察公共表达；保存状态和现代修复可能影响今天的观看。",
+        "sourceIds": [
+          "wv3-mesoamerica"
+        ]
+      },
+      "note": "约前200—公元600／650的概括分期；不能把它称为后来阿兹特克人建造的城市。"
+    },
+    {
+      "id": "w-cahokia",
+      "title": "美洲：卡霍基亚与密西西比文化",
+      "start": 800,
+      "end": 1400,
+      "regionId": "americas",
+      "summary": "北美内陆的农业、土丘与聚落网络形成重要中心，说明欧洲到来前已有复杂的社会与公共工程。",
+      "topics": [
+        "北美内陆",
+        "土丘",
+        "农业网络"
+      ],
+      "sourceIds": [
+        "wv3-cahokia"
+      ],
+      "place": {
+        "name": "卡霍基亚",
+        "lon": -90.06,
+        "lat": 38.66,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "土丘与公共空间",
+        "description": "通过地形和聚落布局理解土木工程；土丘是劳动与组织的成果，并非天然山体。",
+        "sourceIds": [
+          "wv3-cahokia"
+        ]
+      },
+      "note": "此处采用遗址约800—1400范围，另有800—1350口径；密西西比文化的地域与延续均更广。"
+    },
+    {
+      "id": "w-aztec",
+      "title": "美洲：墨西加与三方同盟",
+      "start": 1428,
+      "end": 1521,
+      "regionId": "americas",
+      "summary": "以特诺奇蒂特兰等城市为中心的同盟，通过战争、贡赋和市场组织政治经济，留下丰富雕刻与仪式器物。",
+      "topics": [
+        "墨西加",
+        "城市与市场",
+        "贡赋"
+      ],
+      "sourceIds": [
+        "wv3-mesoamerica"
+      ],
+      "place": {
+        "name": "特诺奇蒂特兰（今墨西哥城）",
+        "lon": -99.13,
+        "lat": 19.43,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "蒙特祖马二世"
+      ],
+      "art": {
+        "title": "石雕与仪式物",
+        "description": "图像需放回祭仪和政治语境，不能只作为神秘装饰；文本也要辨认征服前后背景。",
+        "sourceIds": [
+          "wv3-mesoamerica"
+        ]
+      },
+      "note": "1428指三方同盟形成，并非墨西加人历史的开端；1521城陷不等于原住民社会和文化终结。"
+    },
+    {
+      "id": "w-inca",
+      "title": "美洲：印加与安第斯世界",
+      "start": 1438,
+      "end": 1532,
+      "regionId": "americas",
+      "summary": "印加国家在安第斯山地扩张，交通、劳动组织、石构建筑和织物共同支撑多地域联系。",
+      "topics": [
+        "安第斯",
+        "道路",
+        "石构与织物"
+      ],
+      "sourceIds": [
+        "wv3-inca"
+      ],
+      "place": {
+        "name": "库斯科",
+        "lon": -71.98,
+        "lat": -13.52,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "帕查库特克"
+      ],
+      "art": {
+        "title": "石工与织物",
+        "description": "比较精密砌石与织物结构，关注材料、劳动及使用身份；不把所有安第斯遗产都归为印加。",
+        "sourceIds": [
+          "wv3-inca"
+        ]
+      },
+      "note": "采用馆方国家分期1438—1532；1532是征服进程节点，此后仍有抵抗政权与持续的安第斯文化。"
+    },
+    {
+      "id": "w-americas-colonial",
+      "title": "美洲：殖民统治、奴役与文化重组",
+      "start": 1492,
+      "end": 1825,
+      "regionId": "americas",
+      "summary": "欧洲征服、传染病、强制劳动与大西洋奴隶贸易造成深刻破坏；原住民、非洲裔和多种移民持续创造新的社会文化。",
+      "topics": [
+        "殖民城市",
+        "奴役",
+        "跨文化工艺"
+      ],
+      "sourceIds": [
+        "wv3-latin-art"
+      ],
+      "place": {
+        "name": "墨西哥城",
+        "lon": -99.13,
+        "lat": 19.43,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "羽工、绘画与家具",
+        "description": "不同材料和图像在不平等环境中相遇；文化交融不能遮蔽强制、抵抗和创作者的主动选择。",
+        "sourceIds": [
+          "wv3-latin-art"
+        ]
+      },
+      "note": "1492是欧洲到达加勒比的重要节点，不是美洲历史开端；1825为框架截点，各殖民地终结时间不同。"
+    },
+    {
+      "id": "w-americas-republics",
+      "title": "美洲：独立浪潮与19世纪国家",
+      "start": 1776,
+      "end": 1912,
+      "regionId": "americas",
+      "summary": "多地独立与国家建设改变政治格局，奴隶制、原住民土地和公民权冲突持续存在，文化表达也参与国家叙事。",
+      "topics": [
+        "独立",
+        "共和国",
+        "国家图像"
+      ],
+      "sourceIds": [
+        "wv3-independence",
+        "wv3-republic-art"
+      ],
+      "place": {
+        "name": "波哥大",
+        "lon": -74.07,
+        "lat": 4.71,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "西蒙·玻利瓦尔",
+        "何塞·德·圣马丁"
+      ],
+      "art": {
+        "title": "地图、肖像与国家象征",
+        "description": "比较独立后的地图、战役图像和人物肖像；它们塑造集体记忆，并非对历史的透明复制。",
+        "sourceIds": [
+          "wv3-independence",
+          "wv3-republic-art"
+        ]
+      },
+      "note": "1776为北美独立节点，来源重点核验西属美洲1808—1824与新共和国视觉文化；1912为本站窗口。"
+    },
+    {
+      "id": "w-aboriginal-continuity",
+      "title": "大洋洲：澳大利亚原住民的长时段历史",
+      "start": -2070,
+      "end": 1912,
+      "regionId": "oceania",
+      "summary": "众多语言与社群在不同环境中发展土地知识、交换、仪式与艺术。其历史远早于本站窗口，殖民到来后仍持续。",
+      "topics": [
+        "土地与水",
+        "岩画",
+        "多种社群"
+      ],
+      "sourceIds": [
+        "wv3-australia",
+        "wv3-oceania-early"
+      ],
+      "place": {
+        "name": "阿纳姆地一带",
+        "lon": 134,
+        "lat": -12.7,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "岩画与地方传统",
+        "description": "以阿纳姆地的局部岩画传统为入口，不把一种表现手法当成全澳大利亚的共同风格。",
+        "sourceIds": [
+          "wv3-australia",
+          "wv3-oceania-early"
+        ]
+      },
+      "note": "不是单一民族、政权或恒定文化阶段。前2070—1912仅是展示窗口，不能当成起讫年代。"
+    },
+    {
+      "id": "w-kuk-farming",
+      "title": "大洋洲：新几内亚高地农业景观",
+      "start": -2070,
+      "end": 1912,
+      "regionId": "oceania",
+      "summary": "库克遗址保留排水沟和土地利用的长时段证据，显示当地农业知识的独立发展及其持续调整。",
+      "topics": [
+        "库克遗址",
+        "排水农业",
+        "地方知识"
+      ],
+      "sourceIds": [
+        "wv3-kuk"
+      ],
+      "place": {
+        "name": "库克遗址",
+        "lon": 144.33,
+        "lat": -5.78,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "土地本身就是遗产",
+        "description": "从沟渠、地表与考古层位理解劳动形成的景观；不能只用宫殿或王朝来识别历史。",
+        "sourceIds": [
+          "wv3-kuk"
+        ]
+      },
+      "note": "前2070—1912为窗口，不是农业起讫。遗产材料以距今年代描述更早农业阶段，连续利用也包含间歇。"
+    },
+    {
+      "id": "w-lapita",
+      "title": "大洋洲：拉皮塔与远洋航行",
+      "start": -1600,
+      "end": -500,
+      "regionId": "oceania",
+      "summary": "以齿状戳印陶器为标志的考古文化分布于岛屿美拉尼西亚至西波利尼西亚，反映航海、定居与区域互动。",
+      "topics": [
+        "戳印陶",
+        "航海",
+        "岛际联系"
+      ],
+      "sourceIds": [
+        "wv3-lapita",
+        "wv3-lapita-art"
+      ],
+      "place": {
+        "name": "俾斯麦群岛",
+        "lon": 150,
+        "lat": -4.5,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "齿状戳印与重复纹样",
+        "description": "由小单元组合复杂几何图案，观看制作工序；相似图样不意味着所有岛屿有同一政权或身份。",
+        "sourceIds": [
+          "wv3-lapita",
+          "wv3-lapita-art"
+        ]
+      },
+      "note": "约前1600—前500为概括；某些地区延续至公元初。考古文化、语言与现代族群不能直接画等号。"
+    },
+    {
+      "id": "w-pacific-regional",
+      "title": "大洋洲：岛际社会的区域分化",
+      "start": -500,
+      "end": 1000,
+      "regionId": "oceania",
+      "summary": "拉皮塔之后，陶器、交换与定居传统在各岛群继续变化。海洋连接社群，历史可由考古和语言材料重建。",
+      "topics": [
+        "西波利尼西亚",
+        "岛际交换",
+        "区域传统"
+      ],
+      "sourceIds": [
+        "wv3-lapita",
+        "wv3-oceania-medieval"
+      ],
+      "place": {
+        "name": "汤加群岛",
+        "lon": -175.2,
+        "lat": -21.18,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "器物变化与海洋知识",
+        "description": "关注陶器装饰的延续或简化、岛际物资和生产技术；没有宫廷文献并不等于没有复杂历史。",
+        "sourceIds": [
+          "wv3-lapita",
+          "wv3-oceania-medieval"
+        ]
+      },
+      "note": "区域过程窗口，非统一波利尼西亚王朝；不采用旧馆藏年表中过早的东波利尼西亚定居年表。"
+    },
+    {
+      "id": "w-polynesian-landscape",
+      "title": "大洋洲：波利尼西亚航海与祭仪景观",
+      "start": 1000,
+      "end": 1800,
+      "regionId": "oceania",
+      "summary": "东波利尼西亚的定居、岛际关系与祭仪中心逐渐发展。赖阿特阿的祭仪建筑呈现土地、海洋、祖先与权力的关系。",
+      "topics": [
+        "波利尼西亚",
+        "独木舟航海",
+        "marae祭仪空间"
+      ],
+      "sourceIds": [
+        "wv3-taputapuatea"
+      ],
+      "place": {
+        "name": "塔普塔普阿泰",
+        "lon": -151.36,
+        "lat": -16.84,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "铺石庭院与海陆空间",
+        "description": "观看祭仪院落、台基与海口之间的空间关系；这类建筑既是宗教场所，也与社会和政治关系相连。",
+        "sourceIds": [
+          "wv3-taputapuatea"
+        ]
+      },
+      "note": "约1000—1800是区域框架；所引遗产的重要marae建筑多在14—18世纪。各岛定居年代应分别核查。"
+    },
+    {
+      "id": "w-maori",
+      "title": "大洋洲：毛利人在奥特亚罗瓦",
+      "start": 1250,
+      "end": 1840,
+      "regionId": "oceania",
+      "summary": "来自东波利尼西亚的航海者定居后，逐渐形成多样的毛利社群、园艺、交换与社会传统。",
+      "topics": [
+        "航海定居",
+        "iwi与hapū",
+        "土地与交换"
+      ],
+      "sourceIds": [
+        "wv3-nz",
+        "wv3-nz-treaty"
+      ],
+      "place": {
+        "name": "新西兰北岛",
+        "lon": 175,
+        "lat": -38,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "独木舟与文化景观",
+        "description": "从航海、居住和园艺空间理解地方知识；不要用单一部族或一件器物代表所有毛利社群。",
+        "sourceIds": [
+          "wv3-nz",
+          "wv3-nz-treaty"
+        ]
+      },
+      "note": "最初定居常用约1250—1300，具体年代仍有研究；1840是条约节点，并非毛利文化结束。"
+    },
+    {
+      "id": "w-oceania-contact",
+      "title": "大洋洲：跨海接触与航海记录",
+      "start": 1606,
+      "end": 1788,
+      "regionId": "oceania",
+      "summary": "欧洲航海者先后进入已有人居住的海域，与原住民发生贸易、观察和暴力冲突；本地航海与交换早已存在。",
+      "topics": [
+        "航海记录",
+        "相遇",
+        "记录的视角"
+      ],
+      "sourceIds": [
+        "wv3-australia",
+        "wv3-nz"
+      ],
+      "place": {
+        "name": "托雷斯海峡一带",
+        "lon": 142,
+        "lat": -10.5,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [
+        "阿贝尔·塔斯曼",
+        "詹姆斯·库克"
+      ],
+      "art": {
+        "title": "海图与航海叙述",
+        "description": "并看航海记录与原住民知识，分辨“欧洲首次记录”与当地社会早已知晓的地理。",
+        "sourceIds": [
+          "wv3-australia",
+          "wv3-nz"
+        ]
+      },
+      "note": "1606作为欧洲与澳大利亚接触的重要节点；新西兰首次有确证欧洲到达1642。不是大洋洲被人类首次发现。"
+    },
+    {
+      "id": "w-oceania-colonial",
+      "title": "大洋洲：殖民扩张、条约与原住民社会",
+      "start": 1788,
+      "end": 1912,
+      "regionId": "oceania",
+      "summary": "澳大利亚殖民地扩张与新西兰移民增加，土地和权利冲突加深；原住民继续通过外交、抵抗与文化实践维护生活。",
+      "topics": [
+        "殖民扩张",
+        "土地与条约",
+        "文化延续"
+      ],
+      "sourceIds": [
+        "wv3-australia",
+        "wv3-nz-treaty"
+      ],
+      "place": {
+        "name": "悉尼湾",
+        "lon": 151.21,
+        "lat": -33.86,
+        "precision": "历史地点示意近似点；仅作阅读定位，不代表政权疆域、迁徙路线或唯一中心"
+      },
+      "personNames": [],
+      "art": {
+        "title": "条约、档案与记忆",
+        "description": "阅读条约的不同语言文本和殖民图像时，核对记录者立场及原住民叙述；文化不因殖民而静止。",
+        "sourceIds": [
+          "wv3-australia",
+          "wv3-nz-treaty"
+        ]
+      },
+      "note": "1788指英国在悉尼建立殖民据点；新西兰1840条约涉及译文与主权解释争议。1912为本站终点。"
+    },
+    {
+      "id": "kalhu",
+      "title": "亚述都城转向卡尔胡",
+      "start": -883,
+      "end": -859,
+      "regionId": "central-west-asia",
+      "summary": "阿淑尔纳西尔帕二世时期，卡尔胡成为新的王都。宫殿遗存与浮雕是研究亚述王权的重要材料。",
+      "topics": [
+        "宫殿浮雕",
+        "守护兽",
+        "王权叙事"
+      ],
+      "sourceIds": [
+        "assyria"
+      ],
+      "place": {
+        "id": "kalhu",
+        "name": "卡尔胡",
+        "lon": 43.33,
+        "lat": 36.1,
+        "precision": "遗址中心近似点"
+      },
+      "personNames": [],
+      "art": {
+        "title": "石与叙事",
+        "description": "宫殿浮雕和守护兽构成亚述王室艺术的重要面貌。浅浮雕把人物、服饰与叙事编排进建筑空间。",
+        "sourceIds": [
+          "assyria",
+          "assyria-art"
+        ]
+      },
+      "note": "时间范围为该君主在位期，不等于亚述帝国全部存续期。",
+      "illustration": {
+        "image": "assets/themes/assyria.jpg",
+        "caption": "AI 氛围意绘 · 非文物照片或精确历史复原"
+      }
+    },
+    {
+      "id": "classical",
+      "title": "古典希腊",
+      "start": -480,
+      "end": -323,
+      "regionId": "europe",
+      "summary": "希腊古典时期常以约前480年至亚历山大去世的前323年为范围。城邦政治与艺术发展为同期对照提供线索。",
+      "topics": [
+        "陶器图像",
+        "石与比例",
+        "城邦与海"
+      ],
+      "sourceIds": [
+        "greece"
+      ],
+      "place": {
+        "id": "athens",
+        "name": "雅典",
+        "lon": 23.73,
+        "lat": 37.98,
+        "precision": "历史城区近似点"
+      },
+      "personNames": [],
+      "art": {
+        "title": "陶与石的对照",
+        "description": "彩绘陶器与石质雕塑提供两种观看入口。理解陶器，不仅看图案，还应问器形、用途与使用者。",
+        "sourceIds": [
+          "greece",
+          "greek-life"
+        ]
+      },
+      "note": "古典时期是分期概念，不能将全部希腊世界视作统一国家。",
+      "illustration": {
+        "image": "assets/themes/greece.jpg",
+        "caption": "AI 氛围意绘 · 非文物照片或精确历史复原"
+      }
+    },
+    {
+      "id": "hellenism",
+      "title": "希腊化世界",
+      "start": -323,
+      "end": -31,
+      "regionId": "europe",
+      "summary": "亚历山大去世后，其将领建立多个王国。希腊语文化在东地中海及西亚等地传播，与当地传统互动。",
+      "topics": [
+        "雕塑与衣褶",
+        "港口与王国",
+        "文化交汇"
+      ],
+      "sourceIds": [
+        "hellenism"
+      ],
+      "place": {
+        "id": "alexandria",
+        "name": "亚历山大里亚",
+        "lon": 29.92,
+        "lat": 31.2,
+        "precision": "城市近似点；不代表希腊化世界中心唯一性"
+      },
+      "personNames": [],
+      "art": {
+        "title": "形体与表现",
+        "description": "希腊化时期的艺术为雕塑、衣褶和情感表达带来多样的面貌。一个时期内部，并不存在单一风格。",
+        "sourceIds": [
+          "hellenism"
+        ]
+      },
+      "note": "前31年为常见终点；也有前30年的分期。这里展示的是文化历史过程，不是一个疆域恒定的国家。",
+      "illustration": {
+        "image": "assets/themes/hellenism.jpg",
+        "caption": "AI 氛围意绘 · 非文物照片或精确历史复原"
+      }
+    }
+  ],
+  "regions": [
+    {
+      "id": "east-asia",
+      "name": "东亚（中国以外）",
+      "accent": "#885b4d",
+      "deep": "#342721",
+      "thread": "从列岛与半岛的农耕、首领网络，到佛教、律令与宫廷文化，再到武家政权、朝鲜王朝和近代转型。跨海往来长期存在，各地又形成不同的制度与审美；十九世纪的改革与帝国扩张重新改变东亚秩序。"
+    },
+    {
+      "id": "south-asia",
+      "name": "南亚",
+      "accent": "#9a7341",
+      "deep": "#3d3021",
+      "thread": "从印度河城市与恒河诸国，走向佛教、耆那教和多样宗教传统；帝国与区域王国反复并存。陆海商路、寺院和宫廷连接广阔世界，近代殖民扩张又引发制度变化与反殖民公共政治。"
+    },
+    {
+      "id": "southeast-asia",
+      "name": "东南亚",
+      "accent": "#567b68",
+      "deep": "#25372e",
+      "thread": "农耕村落、内陆王国与海港网络共同构成区域历史。吴哥、爪哇、大越和暹罗各有发展道路，佛教、印度教与伊斯兰在本地重新生长；欧洲殖民据点和本地改革、抵抗让近代格局再度变化。"
+    },
+    {
+      "id": "central-west-asia",
+      "name": "中亚与西亚",
+      "accent": "#6c6484",
+      "deep": "#302b3d",
+      "thread": "两河城市与波斯帝国、安息和萨珊形成多层政治文化传统。伊斯兰兴起后，城市、商路与翻译学术连接广阔社会；突厥、蒙古、奥斯曼和伊朗诸王朝持续重组权力，近代改革与宪政追问新的政治秩序。"
+    },
+    {
+      "id": "europe",
+      "name": "欧洲",
+      "accent": "#50788a",
+      "deep": "#243640",
+      "thread": "从爱琴海宫殿与城邦到罗马帝国，政治与文化多次重组。中世纪王国、城市、教会和大学并行发展；文艺复兴、宗教改革与科学改变知识生活，革命、工业化和民族国家又重塑社会与全球权力关系。"
+    },
+    {
+      "id": "africa",
+      "name": "非洲",
+      "accent": "#9b7e3f",
+      "deep": "#3d321d",
+      "thread": "尼罗河与非洲之角、萨赫勒、东非海岸和南部非洲各有国家、工艺与知识传统。沙漠、河流和海洋维系跨区联系；奴隶贸易和殖民战争造成深刻破坏，本地统治者、社群与抵抗者始终是历史行动者。"
+    },
+    {
+      "id": "americas",
+      "name": "美洲",
+      "accent": "#8e6b59",
+      "deep": "#382b25",
+      "thread": "安第斯、中美洲和北美形成多样的城市、农业、礼仪及政治传统。跨大西洋接触带来殖民、疫病和奴役，也有持续的原住民及非洲侨民抵抗；独立革命建立新国家，土地、劳动与公民权的矛盾仍继续。"
+    },
+    {
+      "id": "oceania",
+      "name": "大洋洲",
+      "accent": "#4c8280",
+      "deep": "#213c3a",
+      "thread": "澳大利亚原住民、新几内亚农业与远洋岛屿社群拥有不同的长时段历史。航海知识连接海洋，毛利与波利尼西亚社会主动塑造环境；欧洲接触、条约和殖民劳动制度引发新的权利争夺与国家形成。"
+    }
+  ],
+  "themes": [
+    {
+      "id": "xia",
+      "title": "夏与二里头",
+      "english": "ERLITOU / EARLY STATES",
+      "glyph": "夏",
+      "tagline": "泥土之下，寻找早期国家的轮廓。",
+      "geography": "约前2070—前1600年",
+      "accent": "#8a6343",
+      "gold": "#c7a77c",
+      "deep": "#34291f",
+      "wash": "#ece1ce",
+      "paper": "#fbf4e5",
+      "topics": [
+        "文献与王朝",
+        "都邑与生计",
+        "工艺与权力"
+      ],
+      "sourceIds": [
+        "xia",
+        "erlitoudate",
+        "cn-xia-chron"
+      ],
+      "eventIds": [
+        "cn-erlitou",
+        "cn-xia-memory"
+      ],
+      "cards": [
+        {
+          "title": "文献与王朝",
+          "body": "禹、启等人物见于后世文献传统；尚不能像晚商一样用同时代文字逐项核对。"
+        },
+        {
+          "title": "都邑与生计",
+          "body": "伊洛地区大型聚落汇聚人群和资源，粟作农业、家畜饲养及手工业构成物质基础。"
+        },
+        {
+          "title": "工艺与权力",
+          "body": "青铜、玉石与陶器的制作和流通，是观察技术分工与社会等级的入口。"
+        }
+      ],
+      "designNote": "夯土褐、矿石绿与低饱和铜色；展示地层与器物线索，避免把推想宫城画成精确实景。",
+      "image": "assets/themes/xia.jpg",
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原",
+      "scope": "china"
+    },
+    {
+      "id": "shang",
+      "title": "商",
+      "english": "SHANG / BRONZE & ORACLES",
+      "glyph": "商",
+      "tagline": "青铜凝成礼器，文字留下回声。",
+      "geography": "前1600—前1046年",
+      "accent": "#3f7668",
+      "gold": "#b4aa70",
+      "deep": "#1a302c",
+      "wash": "#e0e8dd",
+      "paper": "#f2f5e9",
+      "topics": [
+        "王都与祭祀",
+        "文字与社会",
+        "青铜与玉"
+      ],
+      "sourceIds": [
+        "yin",
+        "zhou"
+      ],
+      "eventIds": [
+        "cn-yinxu",
+        "cn-fuhao"
+      ],
+      "cards": [
+        {
+          "title": "王都与祭祀",
+          "body": "殷墟有宫殿宗庙、王陵等遗存，反映王室组织与祭祀活动。"
+        },
+        {
+          "title": "文字与社会",
+          "body": "甲骨刻辞记录特定王室视角下的占卜活动；不能当成全民生活的完整档案。"
+        },
+        {
+          "title": "青铜与玉",
+          "body": "分范铸铜及玉器制作高度发展，器物形制与纹样需放回礼仪语境。"
+        }
+      ],
+      "designNote": "青铜深绿、骨白、火光铜色；以刻痕与铸范纹理表现材料，不以满屏神怪代替商代社会。",
+      "image": "assets/themes/shang.jpg",
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原",
+      "scope": "china"
+    },
+    {
+      "id": "zhou",
+      "title": "西周",
+      "english": "ZHOU / RITUAL & ORDER",
+      "glyph": "周",
+      "tagline": "鼎与铭文之间，秩序渐成形。",
+      "geography": "前1046—前771年",
+      "accent": "#74613b",
+      "gold": "#d4b977",
+      "deep": "#30291e",
+      "wash": "#ece4ce",
+      "paper": "#faf5e7",
+      "topics": [
+        "王室与封国",
+        "社会与资源",
+        "器形与铭文"
+      ],
+      "sourceIds": [
+        "zhou",
+        "cn-zhou-chron"
+      ],
+      "eventIds": [
+        "cn-zhou-founding",
+        "cn-zhou-eastmove"
+      ],
+      "cards": [
+        {
+          "title": "王室与封国",
+          "body": "封国向周王室承担义务，周王权通过亲缘、礼仪和政治关系运行。"
+        },
+        {
+          "title": "社会与资源",
+          "body": "礼器制作需要金属资源、工匠和组织；贵族器物只是社会的一部分。"
+        },
+        {
+          "title": "器形与铭文",
+          "body": "器形、组合与铭文共同帮助研究礼仪和政治秩序，单凭纹样无法复原整个时代。"
+        }
+      ],
+      "designNote": "铜金、黯绿、刻铭与节制的礼器轮廓；不把西周所有地域归为一种纹样。",
+      "image": "assets/themes/zhou.jpg",
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原",
+      "scope": "china"
+    },
+    {
+      "id": "eastern",
+      "title": "春秋战国",
+      "english": "EASTERN ZHOU / STATES IN MOTION",
+      "glyph": "争",
+      "tagline": "列国之间，新制度正在生长。",
+      "geography": "前770—前221年",
+      "accent": "#6e6049",
+      "gold": "#b99d64",
+      "deep": "#30342b",
+      "wash": "#e7e4d3",
+      "paper": "#f9f5e7",
+      "topics": [
+        "列国与改革",
+        "生产与交换",
+        "地域与思想"
+      ],
+      "sourceIds": [
+        "zhou",
+        "measure",
+        "cn-zhou-chron"
+      ],
+      "eventIds": [
+        "cn-zhou-move",
+        "measure"
+      ],
+      "cards": [
+        {
+          "title": "列国与改革",
+          "body": "东周王室权威减弱，列国扩大治理能力；秦国改革可从量器等实物考察。"
+        },
+        {
+          "title": "生产与交换",
+          "body": "青铜和铁器共存，容量标准联系粮食计量、赋税与商品交换。"
+        },
+        {
+          "title": "地域与思想",
+          "body": "列国有不同传统和文化网络，诸子思想及器物风格的差异应并置呈现。"
+        }
+      ],
+      "designNote": "铜金与铁灰、简牍和多块并行的地域版面；列国并列而不涂成一个恒定疆域。",
+      "image": "assets/themes/eastern.jpg",
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原",
+      "scope": "china"
+    },
+    {
+      "id": "qin",
+      "title": "秦",
+      "english": "QIN / THE MAKING OF AN EMPIRE",
+      "glyph": "秦",
+      "tagline": "山河归一，秩序始成。",
+      "geography": "前221—前207年",
+      "accent": "#8f4433",
+      "gold": "#c4a46b",
+      "deep": "#28231e",
+      "wash": "#e9e1d0",
+      "paper": "#faf4e8",
+      "topics": [
+        "统一与治理",
+        "劳作与组织",
+        "色彩与材料"
+      ],
+      "sourceIds": [
+        "measure",
+        "qin-tomb"
+      ],
+      "eventIds": [
+        "unify",
+        "cn-qin-mausoleum"
+      ],
+      "cards": [
+        {
+          "title": "统一与治理",
+          "body": "兼并之后，推广度量衡等标准是治理的一部分，不能把一项制度当作统一的唯一原因。"
+        },
+        {
+          "title": "劳作与组织",
+          "body": "帝陵和陶俑体现工匠分工及大规模资源调动；王权工程并不代表普通人的全部生活。"
+        },
+        {
+          "title": "色彩与材料",
+          "body": "陶俑和青铜器应区分出土状态与原有彩绘；玄黑朱砂属于本站选取的氛围线索。"
+        }
+      ],
+      "designNote": "玄黑、朱砂、陶土与规整诏版；黑红为材料叙事选择，不能推论秦人衣食皆同一审美。",
+      "image": "assets/themes/qin.jpg",
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原",
+      "scope": "china"
+    },
+    {
+      "id": "han",
+      "title": "西汉",
+      "english": "HAN / OBJECTS & CONNECTIONS",
+      "glyph": "汉",
+      "tagline": "漆与丝之间，世界渐远又渐近。",
+      "geography": "前206—9年",
+      "accent": "#973e3f",
+      "gold": "#c8a162",
+      "deep": "#352223",
+      "wash": "#eeddcd",
+      "paper": "#fcf2e7",
+      "topics": [
+        "政治与官僚",
+        "长安与交流",
+        "史学与随葬"
+      ],
+      "sourceIds": [
+        "han",
+        "cn-han-chron"
+      ],
+      "eventIds": [
+        "cn-han-founder",
+        "hanculture"
+      ],
+      "cards": [
+        {
+          "title": "政治与官僚",
+          "body": "汉在秦制基础上调整统治，儒家经典逐渐成为官僚文化的重要依据。"
+        },
+        {
+          "title": "长安与交流",
+          "body": "都城、市场和中亚联系连接宫廷与更广的资源网络；丝路不是一条恒定单线。"
+        },
+        {
+          "title": "史学与随葬",
+          "body": "《史记》与陶塑、漆器等不同材料，分别呈现知识生产和丧葬生活想象。"
+        }
+      ],
+      "designNote": "漆黑、朱红与织物金线；以车马、云气、帛书线索组织画卷。",
+      "image": "assets/themes/han.jpg",
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原",
+      "scope": "china"
+    },
+    {
+      "id": "xin",
+      "title": "新与两汉之际",
+      "glyph": "新",
+      "english": "XIN / CURRENCY & CHANGE",
+      "tagline": "在铜钱与制度之间，看见变革。",
+      "accent": "#68715b",
+      "gold": "#c0ab73",
+      "deep": "#293129",
+      "wash": "#e1e5d4",
+      "paper": "#f6f3e5",
+      "image": "assets/themes/xin.jpg",
+      "scope": "china",
+      "geography": "9—25年",
+      "topics": [
+        "改朝与古制",
+        "币制与流通",
+        "篆书与工艺"
+      ],
+      "cards": [
+        {
+          "title": "改朝与古制",
+          "body": "王莽以新国号取代西汉，改革既涉及政治表达，也涉及社会资源分配。"
+        },
+        {
+          "title": "币制与流通",
+          "body": "频繁改变货币名称、形制和比价使市场承受压力；不能只凭一枚精美钱币判断经济繁荣。"
+        },
+        {
+          "title": "篆书与工艺",
+          "body": "货泉、货布等铜钱形制多样，文字工整，可将审美与货币制度分别赏看。"
+        }
+      ],
+      "designNote": "古铜与素简，以钱币翻转和诏令层叠呈现转折；避免把王莽描成穿越传说人物。",
+      "sourceIds": [
+        "cn-xin-coins",
+        "cn-han-chron",
+        "cn-1-500"
+      ],
+      "eventIds": [
+        "cn-xin-start",
+        "cn-xin-currency"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    },
+    {
+      "id": "eastern-han",
+      "title": "东汉",
+      "glyph": "汉",
+      "english": "EASTERN HAN / CONTINUITY & CONTACT",
+      "tagline": "洛阳再兴，交流渐广。",
+      "accent": "#85524c",
+      "gold": "#c3a16d",
+      "deep": "#342724",
+      "wash": "#e8ddcd",
+      "paper": "#faf2e6",
+      "image": "assets/themes/han.jpg",
+      "scope": "china",
+      "geography": "25—220年",
+      "topics": [
+        "洛阳与政治",
+        "田庄与技术",
+        "译介与明器"
+      ],
+      "cards": [
+        {
+          "title": "洛阳与政治",
+          "body": "东汉以洛阳为都城，中央与地方、宫廷与官僚的关系在长期内变化。"
+        },
+        {
+          "title": "田庄与技术",
+          "body": "田庄经济、南方开发与纸张生产提供社会经济线索；蔡伦不是纸张此前绝不存在的证明。"
+        },
+        {
+          "title": "译介与明器",
+          "body": "安世高在洛阳的译介活动与陶楼等随葬模型，分别打开知识交流和物质生活的窗口。"
+        }
+      ],
+      "designNote": "石刻灰、陶釉绿与楼阁剪影，利用画像分格形成连续叙事。 主视觉共用汉代器物意境，不表示图中器物均属于东汉。",
+      "sourceIds": [
+        "han",
+        "cn-han-chron",
+        "cn-1-500"
+      ],
+      "eventIds": [
+        "cn-easthan-restore",
+        "cn-anshigao"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    },
+    {
+      "id": "three-kingdoms",
+      "title": "三国",
+      "glyph": "鼎立",
+      "english": "THREE KINGDOMS / A DIVIDED WORLD",
+      "tagline": "三方鼎立，各有山河。",
+      "accent": "#606e58",
+      "gold": "#bca977",
+      "deep": "#283429",
+      "wash": "#e0e6d8",
+      "paper": "#f5f3e6",
+      "image": "assets/themes/medieval-china.jpg",
+      "scope": "china",
+      "geography": "220—280年",
+      "topics": [
+        "三国与晋",
+        "经济与地域",
+        "器物与记忆"
+      ],
+      "cards": [
+        {
+          "title": "三国与晋",
+          "body": "三国不是同时开国、同时结束；西晋建立后，吴仍继续存在。"
+        },
+        {
+          "title": "经济与地域",
+          "body": "政权力图恢复生产，南方农业与水利发展；战乱影响存在区域差别。"
+        },
+        {
+          "title": "器物与记忆",
+          "body": "东吴青瓷和陶制农具展示物质生活，人物形象须区分史书与《三国演义》。"
+        }
+      ],
+      "designNote": "江水青、青瓷绿与三幅并行卷页；不用势力涂色替代有年代依据的疆域。 主视觉共用魏晋南北朝复合意境，包含该长时段的青瓷与佛教艺术线索，不特指单一政权或具体文物。",
+      "sourceIds": [
+        "cn-three-chron",
+        "cn-division"
+      ],
+      "eventIds": [
+        "cn-wei-founded",
+        "cn-three-coexist"
+      ],
+      "imageCredit": "魏晋南北朝复合意境 · AI意绘（非复原）"
+    },
+    {
+      "id": "western-jin",
+      "title": "西晋",
+      "glyph": "晋",
+      "english": "WESTERN JIN / UNITY & FRACTURE",
+      "tagline": "一度归一，又见分合。",
+      "accent": "#638274",
+      "gold": "#c7b37e",
+      "deep": "#273930",
+      "wash": "#e2e9dc",
+      "paper": "#f6f5e8",
+      "image": "assets/themes/medieval-china.jpg",
+      "scope": "china",
+      "geography": "265—316年",
+      "topics": [
+        "建国与一统",
+        "动荡与迁徙",
+        "陶瓷与陈设"
+      ],
+      "cards": [
+        {
+          "title": "建国与一统",
+          "body": "司马炎代魏，晋随后灭吴；建朝与完成统一是两个不同节点。"
+        },
+        {
+          "title": "动荡与迁徙",
+          "body": "皇室争权、社会矛盾与战争促成人口流动，北方与南方的经历并不一致。"
+        },
+        {
+          "title": "陶瓷与陈设",
+          "body": "青瓷香熏、陶俑及动物模型反映工艺与生活想象，不能仅用政治衰亡概括艺术。"
+        }
+      ],
+      "designNote": "雾青、土灰和器物轮廓，以分层卷轴表现短暂整合与再次分流。 主视觉共用魏晋南北朝复合意境，包含该长时段的青瓷与佛教艺术线索，不特指单一政权或具体文物。",
+      "sourceIds": [
+        "cn-jin-chron",
+        "cn-division"
+      ],
+      "eventIds": [
+        "cn-jin-founded",
+        "cn-jin-end"
+      ],
+      "imageCredit": "魏晋南北朝复合意境 · AI意绘（非复原）"
+    },
+    {
+      "id": "eastern-jin",
+      "title": "东晋与十六国",
+      "glyph": "江左",
+      "english": "EASTERN JIN / NORTH & SOUTH",
+      "tagline": "江左风流，北地多变。",
+      "accent": "#52778a",
+      "gold": "#c6b084",
+      "deep": "#243540",
+      "wash": "#e0e7e6",
+      "paper": "#f6f5e9",
+      "image": "assets/themes/medieval-china.jpg",
+      "scope": "china",
+      "geography": "304—439年",
+      "topics": [
+        "南北并行",
+        "迁徙与社会",
+        "书画与器用"
+      ],
+      "cards": [
+        {
+          "title": "南北并行",
+          "body": "建康的东晋与北方各政权须并列，不能写成西晋之后全国只有东晋。"
+        },
+        {
+          "title": "迁徙与社会",
+          "body": "人口迁徙带来资源、技术和生活习惯的互动，也伴随战争与权力不平等。"
+        },
+        {
+          "title": "书画与器用",
+          "body": "王羲之、顾恺之等人的创作与青瓷、黑釉器物呈现多种文化层面。"
+        }
+      ],
+      "designNote": "墨色、青瓷与江雾；北方政权与江南卷页并置，避免以一种文人风格抹平北方多样性。 主视觉共用魏晋南北朝复合意境，包含该长时段的青瓷与佛教艺术线索，不特指单一政权或具体文物。",
+      "sourceIds": [
+        "cn-jin-chron",
+        "cn-division",
+        "cn-1-500"
+      ],
+      "eventIds": [
+        "cn-easternjin-start",
+        "cn-feishui"
+      ],
+      "imageCredit": "魏晋南北朝复合意境 · AI意绘（非复原）"
+    },
+    {
+      "id": "north-south",
+      "title": "南北朝",
+      "glyph": "南北",
+      "english": "NORTHERN & SOUTHERN DYNASTIES",
+      "tagline": "南北异景，文化相融。",
+      "accent": "#88704e",
+      "gold": "#c9ae76",
+      "deep": "#3c3022",
+      "wash": "#e8dfce",
+      "paper": "#fbf4e4",
+      "image": "assets/themes/medieval-china.jpg",
+      "scope": "china",
+      "geography": "420—589年",
+      "topics": [
+        "政权与改革",
+        "区域与生活",
+        "佛教与艺术"
+      ],
+      "cards": [
+        {
+          "title": "政权与改革",
+          "body": "北魏迁都及孝文帝改革改变宫廷制度与文化表达，南北之间既竞争又交流。"
+        },
+        {
+          "title": "区域与生活",
+          "body": "农业、蚕桑与陶瓷发展具有地域差别；不同人群的服饰和居住习惯相互影响。"
+        },
+        {
+          "title": "佛教与艺术",
+          "body": "云冈、龙门等石窟关联王室、信仰和工匠网络，造像样式随地区与时期变化。"
+        }
+      ],
+      "designNote": "石壁赭、金铜与江南墨色并行；造像、经卷与南北器物共同构成展厅。 主视觉共用魏晋南北朝复合意境，包含该长时段的青瓷与佛教艺术线索，不特指单一政权或具体文物。",
+      "sourceIds": [
+        "cn-ns",
+        "cn-division",
+        "cn-500-1000",
+        "cn-1-500"
+      ],
+      "eventIds": [
+        "cn-luoyang-494",
+        "cn-ns-sui"
+      ],
+      "imageCredit": "魏晋南北朝复合意境 · AI意绘（非复原）"
+    },
+    {
+      "id": "sui",
+      "title": "隋",
+      "glyph": "隋",
+      "english": "SUI / WATERWAYS & REUNIFICATION",
+      "tagline": "水脉相连，南北再合。",
+      "accent": "#5c7c78",
+      "gold": "#cbb17e",
+      "deep": "#233a38",
+      "wash": "#dfe8de",
+      "paper": "#f5f3e5",
+      "image": "assets/themes/sui.jpg",
+      "scope": "china",
+      "geography": "581—618年",
+      "topics": [
+        "统一与制度",
+        "运河与经济",
+        "工程与遗存"
+      ],
+      "cards": [
+        {
+          "title": "统一与制度",
+          "body": "建朝与南北统一相隔数年；制度整合为唐代提供条件，但并非唐制全部始于隋。"
+        },
+        {
+          "title": "运河与经济",
+          "body": "运河把运输、赋税和粮食供给联系起来，建设同时需要大量劳力与组织。"
+        },
+        {
+          "title": "工程与遗存",
+          "body": "今天看到的运河及城市景观常叠加多个朝代，赏看时应区分年代层。"
+        }
+      ],
+      "designNote": "水青、素石和城阙的几何秩序；卷轴以水路串联，航线采用示意而非精确复原。",
+      "sourceIds": [
+        "cn-500-1000",
+        "cn-canal"
+      ],
+      "eventIds": [
+        "cn-sui-unify",
+        "cn-sui-canal"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    },
+    {
+      "id": "tang",
+      "title": "唐",
+      "glyph": "唐",
+      "english": "TANG / AN OPEN HORIZON",
+      "tagline": "长安万象，丝路回响。",
+      "accent": "#955c36",
+      "gold": "#d1ac63",
+      "deep": "#3b2c20",
+      "wash": "#ede0c7",
+      "paper": "#fff5e3",
+      "image": "assets/themes/sui-tang.jpg",
+      "scope": "china",
+      "geography": "618—907年",
+      "topics": [
+        "都城与制度",
+        "市场与往来",
+        "诗与工艺"
+      ],
+      "cards": [
+        {
+          "title": "都城与制度",
+          "body": "科举和官僚结构变化不等于门第影响立刻消失；政治资源仍有明显差别。"
+        },
+        {
+          "title": "市场与往来",
+          "body": "长安可见商旅、僧人和使节，多种语言与物质文化交汇。"
+        },
+        {
+          "title": "诗与工艺",
+          "body": "李白杜甫、书画、三彩和金属工艺提供不同入口；墓俑不能被当作所有人的日常衣着。"
+        }
+      ],
+      "designNote": "赭金、青绿、织锦团花与城阙层次；呈现不同背景人群，避免泛化为永远歌舞升平。",
+      "sourceIds": [
+        "cn-tang",
+        "cn-500-1000",
+        "cn-smithsonian"
+      ],
+      "eventIds": [
+        "cn-tang-start",
+        "cn-an-shi"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    },
+    {
+      "id": "five-dynasties",
+      "title": "五代十国",
+      "glyph": "五代",
+      "english": "FIVE DYNASTIES / REGIONAL WORLDS",
+      "tagline": "分合之间，地方自有光景。",
+      "accent": "#65787b",
+      "gold": "#c2b082",
+      "deep": "#293a3d",
+      "wash": "#e0e6e0",
+      "paper": "#f8f5e7",
+      "image": "assets/themes/five-dynasties.jpg",
+      "scope": "china",
+      "geography": "907—979年",
+      "topics": [
+        "相继与并立",
+        "地域与安宁",
+        "银简与佛塔"
+      ],
+      "cards": [
+        {
+          "title": "相继与并立",
+          "body": "中原五朝的接替顺序，与吴、吴越、南唐等政权的同时存在，是两种时间关系。"
+        },
+        {
+          "title": "地域与安宁",
+          "body": "战争频仍，但不同区域经历不同；江南地方治理与宗教投入留下物质见证。"
+        },
+        {
+          "title": "银简与佛塔",
+          "body": "钱镠银简和钱弘俶造塔，分别联系道教祈愿与佛教功德实践。"
+        }
+      ],
+      "designNote": "烟水青、银简灰、铜塔金与远山层次；五代武备与江南信仰并置，不只留下江南柔景。",
+      "sourceIds": [
+        "cn-five-chron",
+        "cn-five-art"
+      ],
+      "eventIds": [
+        "cn-five-start",
+        "cn-wuyue-pagoda"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    },
+    {
+      "id": "song-liao-xia-jin",
+      "title": "宋辽夏金",
+      "glyph": "诸国",
+      "english": "SONG, LIAO, XIA & JIN",
+      "tagline": "不止一种宋韵，不止一方山河。",
+      "accent": "#577669",
+      "gold": "#c5b27e",
+      "deep": "#24372e",
+      "wash": "#e1e8da",
+      "paper": "#f8f6e8",
+      "image": "assets/themes/five-song.jpg",
+      "scope": "china",
+      "geography": "916—1279年",
+      "topics": [
+        "并立与交往",
+        "城市与知识",
+        "多元艺术"
+      ],
+      "cards": [
+        {
+          "title": "并立与交往",
+          "body": "战争、议和与贸易交错，辽宋夏金各自制度不同，不以宋朝年表抹去其他政权。"
+        },
+        {
+          "title": "城市与知识",
+          "body": "宋代印刷、学校与海贸发展，社会资源和文化表达在地区与阶层间并不均等。"
+        },
+        {
+          "title": "多元艺术",
+          "body": "山水、青瓷与西夏陵等材料可并置，宫廷、宗教和市民器用各有语境。"
+        }
+      ],
+      "designNote": "宋的纸墨与瓷青、辽的金属和草原线索、西夏的砂岩与文字、金的北方城市层次并列；不是一套宋风覆盖四方。 主视觉选取宋代器物与文人意境，其他并立政权由资料展签分别展开，不以宋式审美覆盖全部。",
+      "sourceIds": [
+        "cn-liao",
+        "cn-xixia",
+        "cn-1000-1400"
+      ],
+      "eventIds": [
+        "cn-liao-founded",
+        "cn-song-south"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    },
+    {
+      "id": "yuan",
+      "title": "元",
+      "glyph": "元",
+      "english": "YUAN / CROSSROADS OF EURASIA",
+      "tagline": "驿路万里，笔墨与钴蓝相逢。",
+      "accent": "#3e5f89",
+      "gold": "#c7b378",
+      "deep": "#213149",
+      "wash": "#dde4e8",
+      "paper": "#f7f4e8",
+      "image": "assets/themes/yuan.jpg",
+      "scope": "china",
+      "geography": "1271—1368年",
+      "topics": [
+        "大都与政治",
+        "交通与工艺",
+        "文人画与蓝白"
+      ],
+      "cards": [
+        {
+          "title": "大都与政治",
+          "body": "蒙古统治者在大都组织帝国行政，不同群体面临的机会与约束有明显差别。"
+        },
+        {
+          "title": "交通与工艺",
+          "body": "运河、陆路与海贸联系大都和各区域，瓷器、丝织等生产服务宫廷与市场。"
+        },
+        {
+          "title": "文人画与蓝白",
+          "body": "赵孟頫等将书法笔意带入绘画；青花瓷形成另一种鲜明但不唯一的元代视觉。"
+        }
+      ],
+      "designNote": "墨黑、钴蓝与织金细节并存；驿路和手卷关联，尊重不同群体与宗教的差别。",
+      "sourceIds": [
+        "cn-yuan",
+        "cn-1000-1400",
+        "cn-canal"
+      ],
+      "eventIds": [
+        "cn-yuan-name",
+        "cn-yuan-art"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    },
+    {
+      "id": "ming",
+      "title": "明",
+      "glyph": "明",
+      "english": "MING / MATERIAL WORLDS",
+      "tagline": "青花与木作之间，世间日常入画。",
+      "accent": "#365b7c",
+      "gold": "#cba36f",
+      "deep": "#222f41",
+      "wash": "#dce4e5",
+      "paper": "#faf4e7",
+      "image": "assets/themes/ming.jpg",
+      "scope": "china",
+      "geography": "1368—1644年",
+      "topics": [
+        "都城与权力",
+        "制造与海洋",
+        "书斋与工艺"
+      ],
+      "cards": [
+        {
+          "title": "都城与权力",
+          "body": "南京与北京先后成为主要政治中心，紫禁城体现宫廷空间和工匠组织。"
+        },
+        {
+          "title": "制造与海洋",
+          "body": "郑和航行有外交与物资交流目的；后来的商业海贸和丝瓷生产又有不同条件。"
+        },
+        {
+          "title": "书斋与工艺",
+          "body": "吴门绘画、园林、木作与装饰艺术并行，宫廷标准和私人趣味并不相同。"
+        }
+      ],
+      "designNote": "青花蓝、木色、朱墙与墨纸分层；宫廷、江南书斋和海洋三种场景可切换。",
+      "sourceIds": [
+        "cn-ming",
+        "cn-1400-1600",
+        "cn-1000-1400"
+      ],
+      "eventIds": [
+        "cn-ming-found",
+        "cn-zhenghe"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    },
+    {
+      "id": "qing",
+      "title": "清",
+      "glyph": "清",
+      "english": "QING / MANY VOICES OF AN AGE",
+      "tagline": "宫廷、江湖与海洋，时代多声。",
+      "accent": "#8e5054",
+      "gold": "#c9ab6c",
+      "deep": "#39262b",
+      "wash": "#e9dcda",
+      "paper": "#faf2e6",
+      "image": "assets/themes/qing.jpg",
+      "scope": "china",
+      "geography": "1636—1912年",
+      "topics": [
+        "政权与多地区治理",
+        "贸易与社会转折",
+        "艺术与生活"
+      ],
+      "cards": [
+        {
+          "title": "政权与多地区治理",
+          "body": "1636改国号、1644入关和随后统治扩展是不同阶段；不同地区制度须分层叙述。"
+        },
+        {
+          "title": "贸易与社会转折",
+          "body": "茶、丝、瓷贸易联系内外市场；19世纪战争及条约改变政治经济条件。"
+        },
+        {
+          "title": "艺术与生活",
+          "body": "粉彩等瓷艺、宫廷制作和不同绘画传统并存；晚清还需纳入新式媒介与城市变化。"
+        }
+      ],
+      "designNote": "琉璃暖黄、粉彩、深木与晚清印刷灰；宫廷、市井、边疆和转折叙事分层，不设单一恒定疆域。",
+      "sourceIds": [
+        "cn-qing-name",
+        "cn-qing-chron",
+        "cn-qing-art"
+      ],
+      "eventIds": [
+        "cn-qing-name-1636",
+        "cn-qing-end"
+      ],
+      "imageCredit": "AI 氛围意绘 · 非文物原图或精确复原"
+    }
+  ],
+  "sources": [
+    {
+      "id": "xia",
+      "title": "二里头与夏的寻找",
+      "author": "Robert L. Thorp / Early China，1991；2015年上线",
+      "url": "https://www.cambridge.org/core/journals/early-china/article/abs/erlitou-and-the-search-for-the-xia/56BB0C6F4CA7EE7F1FD3F67CA95895A9",
+      "type": "学术研究",
+      "note": "摘要可读；全文可能需订阅。用于展示学术问题，不代表最新研究定论。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "yin",
+      "title": "殷墟",
+      "author": "联合国教科文组织 · 世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/1114",
+      "type": "遗产档案",
+      "note": "支持殷墟遗存、晚商文字和社会生活的说明。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "zhou",
+      "title": "商周：中国的青铜时代",
+      "author": "大都会艺术博物馆 · 亚洲艺术部，2004",
+      "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+      "type": "博物馆研究",
+      "note": "提供商周分期与礼仪青铜器背景；年代为此来源采用的框架。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "measure",
+      "title": "商鞅方升",
+      "author": "上海博物馆 · 秋慧婷，2024",
+      "url": "https://www.shanghaimuseum.net/mu/show/202411/4335e32d-3cce-4602-955b-17ed7e0b9e59/",
+      "type": "器物与铭文解读",
+      "note": "前344年器物与前221年加刻诏书支持制度延续；不可据此解释秦统一的全部原因。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "qin",
+      "title": "秦汉帝国的艺术与制度",
+      "author": "大都会艺术博物馆 · 展览说明，2016",
+      "url": "https://www.metmuseum.org/fr/press/exhibitions/2016/age-of-empires",
+      "type": "博物馆研究",
+      "note": "秦汉分期及制度背景。秦终结有前207/前206等口径，应明确事件依据。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "han",
+      "title": "汉代",
+      "author": "大都会艺术博物馆 · 亚洲艺术部，2000",
+      "url": "https://www.metmuseum.org/essays/han-dynasty-206-b-c-220-a-d",
+      "type": "博物馆研究",
+      "note": "支持西汉分期、长安、汉武帝时期文化及中亚联系。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "egypt1",
+      "title": "埃及中王国",
+      "author": "大都会艺术博物馆，2019",
+      "url": "https://www.metmuseum.org/fr/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "博物馆研究",
+      "note": "采用约前2030—前1650的分期；不同年表有差异。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "egypt2",
+      "title": "埃及新王国",
+      "author": "大都会艺术博物馆，2000",
+      "url": "https://www.metmuseum.org/de/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "博物馆研究",
+      "note": "采用约前1550—前1070。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "assyria",
+      "title": "尼尼微",
+      "author": "大都会艺术博物馆，2016",
+      "url": "https://www.metmuseum.org/de/essays/nineveh",
+      "type": "博物馆研究",
+      "note": "支持卡尔胡、尼尼微等都城变化；尼尼微陷落不等于所有亚述抵抗当年结束。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "persia",
+      "title": "阿契美尼德波斯帝国",
+      "author": "大都会艺术博物馆 · 古代近东艺术部，2004",
+      "url": "https://www.metmuseum.org/de/essays/the-achaemenid-persian-empire-550-330-b-c",
+      "type": "博物馆研究",
+      "note": "用于帝国形成和终结的基本分期。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "greece",
+      "title": "古典时期",
+      "author": "希腊国家考古博物馆",
+      "url": "https://www.namuseum.gr/en/collection/klasiki-periodos/",
+      "type": "博物馆研究",
+      "note": "前480/479—前323是常见古典期口径；本站采用约前480。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "hellenism",
+      "title": "希腊化时代的艺术",
+      "author": "大都会艺术博物馆 · Hemingway，2007",
+      "url": "https://www.metmuseum.org/it/essays/art-of-the-hellenistic-age-and-the-hellenistic-tradition",
+      "type": "博物馆研究",
+      "note": "采用前323—前31的常见分期，也有前30年终结口径。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "land",
+      "title": "自然地理底图及许可",
+      "author": "Natural Earth · 1:110m land",
+      "url": "https://www.naturalearthdata.com/about/",
+      "type": "地理数据",
+      "note": "公共领域。现代自然地理概括底图，不重建古海岸线，不提供古代疆界。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "erlitoudate",
+      "title": "科技考古助推中国考古学新发展",
+      "author": "中国社会科学院，2022",
+      "url": "https://www.cass.cn/xueshuchengguo/xscg_lsyjy/202207/t20220707_5415948.shtml",
+      "type": "研究与年表",
+      "note": "二里头遗址约前1750—前1530的测年框架。与更宽的文化分期口径应区分。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "xiadate",
+      "title": "少康中兴与夏王朝国家形态的确立",
+      "author": "中国社会科学网，2026",
+      "url": "https://www.cssn.cn/skgz/bwyc/202602/t20260202_5971620.shtml",
+      "type": "研究与年表",
+      "note": "讨论断代工程夏始年前2070及其他推算框架，不把单一推测作为定论。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "qinenddate",
+      "title": "咸阳市秦都区志 · 大事记",
+      "author": "陕西省地方志办公室 · 数字方志",
+      "url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/xbsxsxz/xbsxz/xys_16200/201405/P020240923610537178923.pdf",
+      "type": "研究与年表",
+      "note": "大事记将子婴元年列为前207、汉王元年列为前206；供比较年表口径。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "qin-tomb",
+      "title": "秦始皇陵",
+      "author": "联合国教科文组织 · 世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/441",
+      "type": "文化与视觉依据",
+      "note": "秦俑、陵园与军阵形象的参考；本站插画并非遗址照片或复原。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "erlitou-art",
+      "title": "二里头文化的艺术材料",
+      "author": "Getty 艺术与建筑词汇库",
+      "url": "https://www.getty.edu/vow/AATFullDisplay?find=&logic=null&note=&subjectid=300106389",
+      "type": "文化与视觉依据",
+      "note": "早期青铜、玉及绿松石材料的参考；不解决夏与二里头的名称对应问题。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "lacquer",
+      "title": "东亚漆器",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/essays/lacquerware-of-east-asia",
+      "type": "文化与视觉依据",
+      "note": "漆器工艺的跨时期材料，阅读时需区分具体器物年代。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "han-life",
+      "title": "早期中国的死亡与物质文化",
+      "author": "Smarthistory · Reframing Art History",
+      "url": "https://smarthistory.org/reframing-art-history/death-material-culture-early-china/",
+      "type": "文化与视觉依据",
+      "note": "汉墓器物与织物图像参考；墓葬材料不等同于全社会日常生活。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "assyria-art",
+      "title": "亚述雕塑庭院",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/es/essays/the-assyrian-sculpture-court",
+      "type": "文化与视觉依据",
+      "note": "宫殿浮雕、守护兽与纹样的参考，不能作为所有阶层生活的缩影。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "persia-art",
+      "title": "波斯：古代伊朗与古典世界",
+      "author": "盖蒂博物馆，2022",
+      "url": "https://www.getty.edu/art/exhibitions/persia/explore.html",
+      "type": "文化与视觉依据",
+      "note": "波斯波利斯建筑与使团浮雕参考。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "greek-life",
+      "title": "古希腊学习资源",
+      "author": "阿什莫林博物馆",
+      "url": "https://ashmolean.org/learning-resource-ancient-greece",
+      "type": "文化与视觉依据",
+      "note": "陶器中的生活与劳动图像；宴饮的参与者存在阶层与性别限制。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "faience",
+      "title": "埃及文化中的费昂斯",
+      "author": "澳大利亚博物馆",
+      "url": "https://australian.museum/learn/cultures/international-collection/ancient-egyptian/faience-in-egyptian-culture/",
+      "type": "文化与视觉依据",
+      "note": "青绿色釉质材料及中王国工艺参考；费昂斯不等于中国瓷器。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-xia-chron",
+      "title": "历史纪年：夏",
+      "author": "山西大学图书馆等",
+      "url": "https://ygx.sxu.edu.cn/portals/05x",
+      "type": "大学资料",
+      "note": "用于传世文献中的禹、启与夏代参考年表；其叙事不能等同于同时代文字证明。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-zhou-chron",
+      "title": "历史纪年：周",
+      "author": "山西大学图书馆等",
+      "url": "https://ygx.sxu.edu.cn/portals/07z",
+      "type": "大学资料",
+      "note": "采用正文有关周武王、东迁与春秋战国分期；不采用页面表格中明显概括过宽的在位年。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-han-chron",
+      "title": "历史纪年：汉",
+      "author": "山西大学图书馆等",
+      "url": "https://ygx.sxu.edu.cn/portals/09h",
+      "type": "大学资料",
+      "note": "采用正文有关刘邦、刘秀和东汉社会的介绍；西汉起讫采用大都会博物馆前206—9年口径。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-1-500",
+      "title": "中国，公元1—500年",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/zh/toah/ht/05/eac.html",
+      "type": "博物馆专题",
+      "note": "采用纸张、安世高、王羲之、北魏迁都等条目；页面个别政治史表述有误，未整页照搬。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-xin-coins",
+      "title": "王莽钱币",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/hb/202008/t20200824_247119.shtml",
+      "type": "馆藏档案",
+      "note": "支持新朝货币改革年代、币名及工艺赏鉴。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-three-chron",
+      "title": "历史纪年：三国",
+      "author": "山西大学图书馆等",
+      "url": "https://ygx.sxu.edu.cn/portals/10sg",
+      "type": "大学资料",
+      "note": "魏、蜀、吴分别起讫和曹丕；三国总时段以吴于280年结束为界。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-jin-chron",
+      "title": "历史纪年：晋",
+      "author": "山西大学图书馆等",
+      "url": "https://ygx.sxu.edu.cn/portals/11j",
+      "type": "大学资料",
+      "note": "支持司马炎、东晋与十六国并行、383年淝水之战。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-division",
+      "title": "古代中国：三国两晋南北朝时期",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/detail5.html",
+      "type": "基本陈列",
+      "note": "支持人口迁徙、经济、生活、陶瓷与列出的馆藏文物。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-ns",
+      "title": "南北朝时期",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/essays/period-of-the-northern-and-southern-dynasties-386-589",
+      "type": "博物馆专题",
+      "note": "支持北魏佛教艺术、孝文帝改革与文化交流；本站总分期采用420—589年，并列北魏386年背景。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-500-1000",
+      "title": "中国，公元500—1000年",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/de/toah/ht/06/eac",
+      "type": "博物馆专题",
+      "note": "支持隋581、589年与唐618年建立、隋唐经济和艺术；采用907年唐末。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-canal",
+      "title": "大运河",
+      "author": "联合国教科文组织·世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/1443",
+      "type": "遗产档案",
+      "note": "支持隋代整合运河及后世持续建设；现存世界遗产河段不能全部标为隋代原貌。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-tang",
+      "title": "唐朝，618—907年",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/es/essays/tang-dynasty-618-906",
+      "type": "博物馆专题",
+      "note": "页面标题和正文为618—907；支持长安交流、唐太宗、玄宗、李白杜甫和安禄山叛乱。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-five-chron",
+      "title": "历史纪年：五代十国",
+      "author": "山西大学图书馆等",
+      "url": "https://ygx.sxu.edu.cn/portals/15wdsg",
+      "type": "大学资料",
+      "note": "支持五代次序与十国延续到979年；十国部分政权形成早于907。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-five-art",
+      "title": "国博五代时期珍藏：吴越银简与佛塔",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zx/gbxw/202608/t20260804_281322.shtml",
+      "type": "博物馆专题",
+      "note": "支持钱镠、钱弘俶、955与965年造塔和银简用途；不将记载的造塔愿数直接当作存世数量。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-liao",
+      "title": "历史纪年：辽",
+      "author": "山西大学图书馆等",
+      "url": "https://ygx.sxu.edu.cn/portals/17l",
+      "type": "大学资料",
+      "note": "采用正文916年契丹建国起点；页面题头907年为另一口径，国号变化有不同记载。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-xixia",
+      "title": "西夏陵",
+      "author": "联合国教科文组织·世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/1736",
+      "type": "遗产档案",
+      "note": "支持西夏1038—1227年及多种文化传统交汇。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-1000-1400",
+      "title": "中国，公元1000—1400年",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/zh/toah/ht/07/eac",
+      "type": "博物馆专题",
+      "note": "采用宋金并立、元1271国号、1279灭宋、1368明建立及艺术条目；徽宗败于蒙古等个别误述未采用。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-yuan",
+      "title": "元朝，1271—1368年",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/essays/yuan-dynasty-1271-1368",
+      "type": "博物馆专题",
+      "note": "支持大都、文人画、赵孟頫及青花鱼纹盘等藏品。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-ming",
+      "title": "明朝，1368—1644年",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/essays/ming-dynasty-1368-1644",
+      "type": "博物馆专题",
+      "note": "支持吴门绘画、文徵明、装饰工艺与16世纪黄花梨柜藏品。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-1400-1600",
+      "title": "中国，公元1400—1600年",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/toah/ht/08/eac.html",
+      "type": "博物馆专题",
+      "note": "支持郑和1405—1433年航行、紫禁城建设及明代生产与印刷。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-qing-chron",
+      "title": "历史纪年：清",
+      "author": "山西大学图书馆等",
+      "url": "https://ygx.sxu.edu.cn/portals/22q",
+      "type": "大学资料",
+      "note": "正文支持1616后金、1636大清、1644入关、1840鸦片战争、1911革命与翌年逊位。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-qing-name",
+      "title": "皇太极",
+      "author": "故宫博物院",
+      "url": "https://www.dpm.org.cn/lemmas/239616.html",
+      "type": "人物词条",
+      "note": "支持1636年改国号大清与皇太极；本站以国号起年，与明存在重叠。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-qing-art",
+      "title": "中国，公元1600—1800年",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/toah/ht/09/eac.html",
+      "type": "博物馆专题",
+      "note": "支持清代茶、丝、瓷贸易以及粉彩、五彩与绘画的多种倾向。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "cn-smithsonian",
+      "title": "中国历史、艺术与文化时间线",
+      "author": "史密森尼国立亚洲艺术博物馆",
+      "url": "https://asia-archive.si.edu/learn/for-educators/teaching-china-with-the-smithsonian/interactives/timelines/timeline-of-chinese-history-art-and-culture/",
+      "type": "博物馆时间线",
+      "note": "采用安史之乱755—763年、武则天及杜甫等人物线索；网站涉及发明起点和断代的部分简化未直接采用。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-japan",
+      "title": "Japan Timeline／日本艺术分期",
+      "author": "普林斯顿大学美术馆",
+      "url": "https://static.artmuseum.princeton.edu/asian-art/japan/timeline",
+      "type": "大学美术馆年表",
+      "note": "旧版馆藏年表；绳文、弥生、古坟的分界随地区与研究更新而异。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-japan-columbia",
+      "title": "JAPAN—Timeline of Historical Periods",
+      "author": "哥伦比亚大学 Asia for Educators",
+      "url": "https://www.columbia.edu/itc/eacp/japanworks/timelines/japan_timeline.htm",
+      "type": "大学公共历史年表",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-japan-art",
+      "title": "Keys to Understanding the Arts of Japan",
+      "author": "哥伦比亚大学 Asia for Educators",
+      "url": "https://video.afe.easia.columbia.edu/wp-content/uploads/2024/07/Keys-to-Understanding-the-Arts-of-Japan-Presentation-PDF.pdf",
+      "type": "大学艺术史资源",
+      "note": "提供日本艺术分期；与政治分期并不处处重合。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-korea",
+      "title": "KOREA—Timeline of Historical Periods",
+      "author": "哥伦比亚大学 Asia for Educators",
+      "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+      "type": "大学公共历史年表",
+      "note": "古代各国建国年代部分来自传统纪年；朝鲜王朝与大韩帝国分界应保留。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-korea-art",
+      "title": "Korea／韩国艺术专题",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/exhibitions/listings/2015/korea",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-harappa",
+      "title": "South Asia, 2000–1000 B.C.",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/de/toah/ht/03/ssa",
+      "type": "博物馆研究",
+      "note": "成熟哈拉帕约前2600—前1900，晚期约前1900—前1300；不把语言与考古文化简单一一对应。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-south-summary",
+      "title": "The Art of South and Southeast Asia: A Resource for Educators",
+      "author": "Steven M. Kossak、Edith W. Watts／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/-/media/files/learn/for-educators/publications-for-educators/sseasia.pdf",
+      "type": "博物馆研究",
+      "note": "第3—12页的历史梗概及后续艺术章节；概括分期须保留地区差异。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-delhi",
+      "title": "Medieval India Coinage",
+      "author": "印度储备银行货币博物馆",
+      "url": "https://m.rbi.org.in/Commonman/English/Currency/Scripts/Medieval.aspx",
+      "type": "官方博物馆专题",
+      "note": "德里苏丹国1206—1526；来源重点是货币制度与器物。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-mughal",
+      "title": "Art of the Islamic World: The Mughal Court",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/it/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-five/chapter-four/introduction",
+      "type": "博物馆研究",
+      "note": "馆方采用1526—1858，另有以1857起义为终点的口径。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-british-india",
+      "title": "Partition of British India／背景与档案",
+      "author": "英国国家档案馆",
+      "url": "https://www.nationalarchives.gov.uk/education/teaching-resources/partition-of-british-india/",
+      "type": "国家档案馆",
+      "note": "英王直接统治1858—1947；本站只展示至1912。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-sea-early",
+      "title": "Southeast Asia, 1000 B.C.–1 A.D.",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/ja/toah/ht/04/sse",
+      "type": "博物馆研究",
+      "note": "班高约前2000—前500、东山约前500—公元300是该馆概括口径；非统一国家。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-khmer",
+      "title": "Periods and Styles／Khmer Art History",
+      "author": "柬埔寨国家博物馆",
+      "url": "https://www.cambodiamuseum.info/en_khmer_art_history/style_period.html",
+      "type": "国家博物馆年表",
+      "note": "艺术史风格年表；不能把风格分期直接等同于疆域或王朝存续。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-angkor",
+      "title": "Angkor",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/668/",
+      "type": "遗产档案",
+      "note": "吴哥遗址群约9—15世纪；1431不是所有寺院同时废弃的日期。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-melaka",
+      "title": "Melaka and George Town, Historic Cities of the Straits of Malacca",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/1223/",
+      "type": "遗产档案",
+      "note": "关注贸易港市与建筑层累，现存建筑不一定属于马六甲苏丹国时期。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-sea-colonial",
+      "title": "Southeast Asian Colonial Era Materials",
+      "author": "美国国会图书馆",
+      "url": "https://guides.loc.gov/colonial-southeast-asia",
+      "type": "国家图书馆档案指南",
+      "note": "殖民档案入口；不同地区起止不同，应结合本地材料阅读。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-sea19",
+      "title": "Southeast Asia, 1800–1900 A.D.",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/it/toah/ht/10/sse.html",
+      "type": "博物馆研究",
+      "note": "19世纪殖民扩张与艺术转变；避免沿用旧叙述中将吴哥称为无人知晓的“发现”。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-babylon",
+      "title": "Babylon",
+      "author": "Michael Seymour／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/de/essays/babylon",
+      "type": "博物馆研究",
+      "note": "古巴比伦常用中年表口径，城址、王朝与两河地区不是同一个概念。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-near-east",
+      "title": "Guide to the Collections: Ancient Near Eastern Art",
+      "author": "大都会艺术博物馆",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Guide_to_the_Collections_Ancient_Near_Eastern_Art.pdf",
+      "type": "博物馆研究",
+      "note": "古代西亚年表与艺术综述；精确年代须与专门条目互校。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-parthia",
+      "title": "The Parthian Empire (247 B.C.–224 A.D.)",
+      "author": "Blair Fowlkes-Childs／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/pt/essays/the-parthian-empire-247-b-c-224-a-d",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-sasanian",
+      "title": "The Sasanian Empire (224–651 A.D.)",
+      "author": "Blair Fowlkes-Childs／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/de/essays/the-sasanian-empire-224-651-a-d",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-umayyad",
+      "title": "The Art of the Umayyad Period (661–750)",
+      "author": "Suzan Yalman、Linda Komaroff／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/ja/essays/the-art-of-the-umayyad-period-661-750",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-islamic",
+      "title": "Masterpieces from the Department of Islamic Art",
+      "author": "大都会艺术博物馆",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Masterpieces_from_the_Department_of_Islamic_Art_in_The_Metropolitan_Museum_of_Art.pdf",
+      "type": "博物馆研究",
+      "note": "阿拔斯、塞尔柱、伊儿汗与帖木儿分期用于区域框架，不表示它们依次控制整个伊斯兰世界。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-three-empires",
+      "title": "Imperial Threads: Motifs and Artisans from Turkey, Iran and India",
+      "author": "卡塔尔伊斯兰艺术博物馆",
+      "url": "https://mia.org.qa/en/calendar/imperial-threads-motifs-and-artisans-from-turkey-iran-and-india/",
+      "type": "博物馆研究",
+      "note": "奥斯曼、萨法维和莫卧儿艺术交流；萨法维终点有1722／1736等口径。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-qajar",
+      "title": "Royal Persian Paintings: The Qajar Epoch, 1785–1925",
+      "author": "布鲁克林博物馆",
+      "url": "https://opencollection.brooklynmuseum.org/exhibitions/1206",
+      "type": "博物馆研究",
+      "note": "展览艺术分期从1785起；政治建国也有1789、1794或1796等口径，本站不将其混写。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-minoa",
+      "title": "Minoan Crete",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/ja/essays/minoan-crete",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-mycenae",
+      "title": "Mycenaean Civilization",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/de/essays/mycenaean-civilization",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-rome",
+      "title": "Ancient Rome, an Introduction",
+      "author": "大英博物馆／Smarthistory",
+      "url": "https://smarthistory.org/introduction-to-ancient-rome/",
+      "type": "博物馆公共历史",
+      "note": "大英博物馆撰写的介绍；前509是传统共和国起年，476是西部皇帝废黜节点。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-byzantium",
+      "title": "Byzantium (ca. 330–1453)",
+      "author": "Sarah T. Brooks／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/pt/essays/byzantium-ca-330-1453",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-medieval",
+      "title": "Medieval Art: A Resource for Educators",
+      "author": "大都会艺术博物馆",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Medieval_Art_A_Resource_for_Educators.pdf",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-renaissance",
+      "title": "Renaissance／馆藏专题",
+      "author": "维多利亚与艾尔伯特博物馆",
+      "url": "https://www.vam.ac.uk/collections/renaissance",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-industry",
+      "title": "Making the Modern World: Gallery Guide",
+      "author": "英国科学博物馆集团",
+      "url": "https://learning.sciencemuseumgroup.org.uk/wp-content/uploads/2021/05/Making-the-Modern-World-gallery-guide.pdf",
+      "type": "博物馆研究",
+      "note": "1750起为展览框架；工业化在各地区的节奏不同。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-egypt-middle",
+      "title": "Egypt in the Middle Kingdom (ca. 2030–1650 B.C.)",
+      "author": "Adela Oppenheim／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/fr/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+      "type": "博物馆研究",
+      "note": "同页标题、正文出现1650与1640等约数，不宜伪装精确。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-egypt-new",
+      "title": "Egypt in the New Kingdom (ca. 1550–1070 B.C.)",
+      "author": "Catharine H. Roehrig／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/it/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-kush",
+      "title": "Archaeological Sites of the Island of Meroe",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/1336/",
+      "type": "遗产档案",
+      "note": "麦罗埃及相关遗址所呈现的库施阶段约前8世纪至公元4世纪，并非努比亚历史的全部。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-aksum",
+      "title": "Monumental Architecture of the Aksumite Empire",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/ko/essays/monumental-architecture-and-stelae-of-the-aksumite-empire",
+      "type": "博物馆研究",
+      "note": "采用约公元1—8世纪的概括框架。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-sahel",
+      "title": "Sahel: Art and Empires on the Shores of the Sahara",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/exhibitions/sahel-art-empire-sahara?referringSource=articleShare",
+      "type": "博物馆研究",
+      "note": "展览年表：加纳300—1200、马里1230—1600、桑海1464—1591、塞古1640—1861，均为概括口径。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-kilwa",
+      "title": "Ruins of Kilwa Kisiwani and Ruins of Songo Mnara",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/144/",
+      "type": "遗产档案",
+      "note": "基尔瓦约9—19世纪有聚落，13—14世纪繁盛；非整个斯瓦希里地区统一政权。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-kongo",
+      "title": "Mbanza Kongo, Vestiges of the Capital of the Former Kingdom of Kongo",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/1511",
+      "type": "遗产档案",
+      "note": "刚果王国的14—19世纪概括；不等于今日刚果各国国界。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-africa19",
+      "title": "The Asante Ewer: Large Print Guide",
+      "author": "大英博物馆",
+      "url": "https://www.britishmuseum.org/exhibitions/asante-ewer/asante-ewer-large-print-guide",
+      "type": "博物馆研究",
+      "note": "西非材料、贸易及19世纪英国殖民扩张；注意博物馆藏品取得背景。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-colonial-archives",
+      "title": "Africa and the New Imperialism: European Borders on the African Continent, 1870–1914",
+      "author": "AM／合作档案馆资料集",
+      "url": "https://www.amdigital.co.uk/collection/africa-and-the-new-imperialism",
+      "type": "原始档案集指南",
+      "note": "档案集说明用于晚19世纪范围和材料入口；殖民文本须结合非洲人的材料批判阅读。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-caral",
+      "title": "Sacred City of Caral-Supe",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/1269/",
+      "type": "遗产档案",
+      "note": "遗产档案给出前3000—前1800；本站取前2070以后展示。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-olmec",
+      "title": "Olmec Art",
+      "author": "James Doyle／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/es/essays/olmec-art",
+      "type": "博物馆研究",
+      "note": "文章采用约前1200—前400；其他博物馆有前1500起等口径。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-mesoamerica",
+      "title": "Infinity of Nations: Mesoamerica/Caribbean",
+      "author": "史密森尼国家美洲印第安人博物馆",
+      "url": "https://americanindian.si.edu/exhibitions/infinityofnations/mesoamerica-caribbean.html",
+      "type": "博物馆研究",
+      "note": "提供中部美洲文明和当代原住民连续性的框架。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-maya",
+      "title": "Lives of the Gods: Divinity in Maya Art",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/de/exhibitions/gods-divinity-maya-art",
+      "type": "博物馆研究",
+      "note": "古典期约250—900，不表示玛雅人此后消失。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-cahokia",
+      "title": "Cahokia Mounds State Historic Site",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/198",
+      "type": "遗产档案",
+      "note": "同页有800—1400和800—1350口径，均是遗址及考古分期约数。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-inca",
+      "title": "Central and Southern Andes, 1400–1600 A.D.",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/es/toah/ht/08/sanc.html",
+      "type": "博物馆研究",
+      "note": "采用印加国家1438—1532、征服期1532—1542的馆方分期；后续抵抗政权不应据此抹除。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-latin-art",
+      "title": "The Arts in Latin America, 1492–1820",
+      "author": "洛杉矶郡艺术博物馆",
+      "url": "https://www.lacma.org/art/exhibition/arts-latin-america-1492-1820",
+      "type": "博物馆研究",
+      "note": "展览分期；拉美殖民时期不能以一个日期统一结束。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-independence",
+      "title": "Las oleadas Independentistas en América",
+      "author": "智利国家图书馆 Memoria Chilena",
+      "url": "https://www.memoriachilena.gob.cl/602/w3-article-100716.html",
+      "type": "国家图书馆历史资源",
+      "note": "着重1808—1824西属美洲独立进程；并非全美洲统一的独立年表。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-republic-art",
+      "title": "Representar la república (1819–1830)",
+      "author": "哥伦比亚国家博物馆",
+      "url": "https://www.museonacional.gov.co/noticias/Paginas/Representar_la_republica.aspx",
+      "type": "国家博物馆专题",
+      "note": "以地图、战役图像、人物和符号呈现共和国视觉文化。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-australia",
+      "title": "Australia’s Defining Moments Digital Classroom",
+      "author": "澳大利亚国家博物馆",
+      "url": "https://digital-classroom.nma.gov.au/",
+      "type": "国家博物馆公共历史",
+      "note": "原住民历史早于本站窗口；1788殖民、1901联邦等是节点，不是原住民文化的起止。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-oceania-early",
+      "title": "Oceania, 2000–1000 B.C.",
+      "author": "大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/de/toah/ht/03/oc.html",
+      "type": "博物馆研究",
+      "note": "旧年表中的部分远洋定居年代已修订；本站仅引用当地艺术类型，不照搬东波利尼西亚的旧早年表。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-kuk",
+      "title": "Kuk Early Agricultural Site",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/887/",
+      "type": "遗产档案",
+      "note": "农业遗存是长时段且有间歇的；距今纪年不能直接当作公元前年号。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-lapita",
+      "title": "The Lapita Culture and Austronesian Prehistory in Oceania",
+      "author": "Matthew Spriggs／澳大利亚国立大学出版社",
+      "url": "https://press.anu.edu.au/downloads/press/p69411/mobile/ch06.html",
+      "type": "大学学术研究",
+      "note": "约前1600至前500／公元初，各地不同；文化、语言和人群并非完全等同。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-lapita-art",
+      "title": "Lapita Pottery (ca. 1500–500 B.C.)",
+      "author": "Jennifer Wagelie／大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/de/essays/lapita-pottery-ca-1500-500-b-c",
+      "type": "博物馆研究",
+      "note": "馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-oceania-medieval",
+      "title": "Oceania／A Companion to the Global Early Middle Ages",
+      "author": "剑桥大学出版社",
+      "url": "https://www.cambridge.org/core/books/abs/companion-to-the-global-early-middle-ages/oceania/B4C0E47643AEE594A22900E1A80F0EE7",
+      "type": "大学学术研究",
+      "note": "通过考古学与历史语言学重建500—1000年的大洋洲，非“没有文字便没有历史”。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-taputapuatea",
+      "title": "Taputapuātea",
+      "author": "UNESCO世界遗产中心",
+      "url": "https://whc.unesco.org/en/list/1529/",
+      "type": "遗产档案",
+      "note": "14—18世纪祭仪建筑与更长的文化景观传统；不是全波利尼西亚统一国家。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-nz",
+      "title": "History／新西兰历史",
+      "author": "John Wilson／新西兰文化与遗产部 Te Ara",
+      "url": "https://teara.govt.nz/en/history/print",
+      "type": "政府公共历史百科",
+      "note": "人类定居约1250—1300；欧洲到来前已有复杂社会。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "wv3-nz-treaty",
+      "title": "The Treaty of Waitangi and How It Happened",
+      "author": "新西兰国家档案馆",
+      "url": "https://www.archives.govt.nz/discover-our-stories/the-treaty-of-waitangi/the-treaty-of-waitangi-and-how-it-happened",
+      "type": "国家档案馆",
+      "note": "1840条约文本有语言差异，不能写成无争议的全面主权转让。",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "v5-dpm-lanting",
+      "title": "俞和行书临定武本兰亭卷",
+      "author": "故宫博物院",
+      "url": "https://www.dpm.org.cn/collection/handwriting/229076.html",
+      "type": "博物馆馆藏说明",
+      "note": "复核兰亭雅集为东晋永和九年，即353年；不据此认定现存摹本为王羲之原迹。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "v5-xian-xuanzang",
+      "title": "玄奘广场",
+      "author": "西安曲江新区管理委员会",
+      "url": "https://qjxq.xa.gov.cn/zjqj/gyqj/tsqj/5df21c54fd8508098d284dea.html",
+      "type": "政府机构文化介绍",
+      "note": "复核通行的629年西行、645年返回长安口径；不据城市介绍复原逐日行程。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "v5-fujian-households",
+      "title": "隋 唐 五代统计史",
+      "author": "福建省统计局",
+      "url": "https://tjj.fujian.gov.cn/ztzl/tjzs/tjls/201210/t20121024_44256.htm",
+      "type": "政府机构统计史介绍",
+      "note": "复核大索貌阅为开皇五年即585年；输籍法仍展示为开皇年间的制度过程。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "v5-embassy-jianzhen",
+      "title": "探访鉴真东渡登陆地",
+      "author": "中华人民共和国驻日本国大使馆",
+      "url": "https://jp.china-embassy.gov.cn/dszlnew/201102/t20110212_9410305.htm",
+      "type": "外交机构历史文化介绍",
+      "note": "说明753年东渡与754年抵达大阪、传戒等不同节点；不将文中十二月日期未经换算一律视为现代公历。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "fuzhou-zhenghe-last-voyage",
+      "title": "福州市档案馆：琯头荻芦岛与郑和七下西洋",
+      "url": "https://daj.fuzhou.gov.cn/zz/wszt/tslm/fzly/202212/t20221202_4478039.htm",
+      "note": "补核郑和末航于1433年回国，不采用本文其他未复核统计。"
+    },
+    {
+      "id": "neac-zhenghe-voyages",
+      "title": "国家民委：“苏哈尔”号万里远航相关资料",
+      "url": "https://www.neac.gov.cn/seac/c103391/202212/1159864.shtml",
+      "note": "补核郑和七次远航延续至1433年。"
+    },
+    {
+      "id": "ws6-indus",
+      "title": "印度河文明：城市、贸易与转型",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/3-4-the-indus-valley-civilization",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-india",
+      "title": "吠陀印度、佛教与孔雀王朝",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/5-4-vedic-india-to-the-fall-of-the-maurya-empire",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-asiaearly",
+      "title": "朝鲜半岛、日本与早期东南亚",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/5-3-korea-japan-and-southeast-asia",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-borders",
+      "title": "粟特、朝鲜半岛与日本的中世纪转型",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/12-3-border-states-sogdiana-korea-and-japan",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-indianocean",
+      "title": "中世纪早期印度洋世界",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/12-1-the-indian-ocean-world-in-the-early-middle-ages",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-mughal",
+      "title": "印度与国际联系：德里、莫卧儿与海洋贸易",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/2-1-india-and-international-connections",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-malacca",
+      "title": "马六甲苏丹国与海峡贸易",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/2-2-the-malacca-sultanate",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-resistance",
+      "title": "殖民剥削与本地抵抗",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/9-4-exploitation-and-resistance",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-industrial2",
+      "title": "第二次工业革命与日本明治转型",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/9-1-the-second-industrial-revolution",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-persia",
+      "title": "波斯帝国与跨地区统治",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/4-3-the-persian-empire",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-islam",
+      "title": "伊斯兰世界的制度、城市与知识",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/11-3-islamization-and-religious-rule-under-islam",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-ottomans",
+      "title": "奥斯曼兴起、帖木儿与欧亚转型",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/17-1-the-ottomans-and-the-mongols",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-ottoman2",
+      "title": "奥斯曼帝国的扩展与治理",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/4-2-the-ottoman-empire",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-safavid",
+      "title": "萨法维伊朗与区域竞争",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/4-3-the-safavid-empire",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-greece",
+      "title": "古希腊的城邦、战争与思想",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/6-2-ancient-greece",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-republic",
+      "title": "罗马共和国的扩张与危机",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/6-4-the-roman-republic",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-augustus",
+      "title": "奥古斯都与罗马帝制的形成",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/6-5-the-age-of-augustus",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-medieval",
+      "title": "后罗马西欧的王国与社会",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/13-1-the-post-roman-west-in-the-early-middle-ages",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-crusades",
+      "title": "十字军运动及其影响",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/13-4-the-crusading-movement",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-plague",
+      "title": "黑死病的传播与社会冲击",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/16-3-the-black-death-from-east-to-west",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-reformation",
+      "title": "宗教改革与欧洲信仰秩序",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/5-1-the-protestant-reformation",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-enlighten",
+      "title": "启蒙运动的思想与权利问题",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/7-1-the-enlightenment",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-revolutions",
+      "title": "美国、法国与海地革命",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-industrial1",
+      "title": "资本主义与第一次工业革命",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/6-3-capitalism-and-the-first-industrial-revolution",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-colonial",
+      "title": "十九世纪殖民帝国",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/9-3-colonial-empires",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-egypt",
+      "title": "埃及新王国：王权、信仰与外交",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/4-2-egypts-new-kingdom",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-kush",
+      "title": "库施王国与尼罗河走廊",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/9-3-the-kingdom-of-kush",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-aksum",
+      "title": "阿克苏姆与红海网络",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/10-3-the-kingdoms-of-aksum-and-himyar",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-bantu",
+      "title": "非洲农耕与班图语人群迁徙",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/9-2-the-emergence-of-farming-and-the-bantu-migrations",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-africamed",
+      "title": "中世纪撒哈拉以南非洲的贸易与国家",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/15-2-medieval-sub-saharan-africa",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-sahel",
+      "title": "萨赫勒诸国与跨撒哈拉联系",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/15-3-the-people-of-the-sahel",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-americanearly",
+      "title": "美洲早期文化、城市与艺术",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/8-2-early-cultures-and-civilizations-in-the-americas",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-americanempires",
+      "title": "墨西加、印加与北美社会",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/8-3-the-age-of-empires-in-the-americas",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-slavery",
+      "title": "大西洋奴隶贸易的形成与代价",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/5-4-the-atlantic-slave-trade",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-mexico",
+      "title": "西属北美与墨西哥独立",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/8-2-spanish-north-america",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-labor",
+      "title": "强迫劳动、奴隶制与解放",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/10-3-coerced-and-semicoerced-labor",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-nzsuffrage",
+      "title": "1893年妇女选举权请愿书",
+      "url": "https://www.archives.govt.nz/discover-our-stories/womens-suffrage-petition",
+      "author": "Archives New Zealand",
+      "type": "档案与文献",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-hawaii",
+      "title": "1898年夏威夷吞并决议及其背景",
+      "url": "https://www.archives.gov/milestone-documents/joint-resolution-for-annexing-the-hawaiian-islands",
+      "author": "美国国家档案馆",
+      "type": "档案与文献",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-mesopotamia",
+      "title": "两河流域：城市、乌尔与法典",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/3-2-ancient-mesopotamia",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-babylon",
+      "title": "从古巴比伦到亚述与米底",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/4-1-from-old-babylon-to-the-medes",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-byzpersia",
+      "title": "拜占庭与波斯的制度和竞争",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/10-2-the-byzantine-empire-and-persia",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-islamrise",
+      "title": "伊斯兰的兴起与穆罕默德",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/11-1-the-rise-and-message-of-islam",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-islamstates",
+      "title": "阿拉伯扩张与早期伊斯兰国家",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/11-2-the-arab-islamic-conquests-and-the-first-islamic-states",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-seljuk",
+      "title": "塞尔柱迁徙与西亚政治",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/13-2-the-seljuk-migration-and-the-call-from-the-east",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-iranconstitution",
+      "title": "伊朗立宪革命：事件",
+      "url": "https://www.iranicaonline.org/articles/constitutional-revolution-ii/",
+      "author": "Encyclopaedia Iranica／学术作者",
+      "type": "学术百科",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-tanzimat",
+      "title": "奥斯曼改革与欧洲帝国主义（1839—1907）",
+      "url": "https://www.cambridge.org/core/books/abs/workers-and-peasants-in-the-modern-middle-east/ottoman-reform-and-european-imperialism-18391907/CB0C0938A39820F7BA88C52FC2950B45",
+      "author": "Joel Beinin／Cambridge University Press",
+      "type": "学术研究",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-nation",
+      "title": "民族主义、自由主义与十九世纪政治秩序",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/7-4-nationalism-liberalism-conservatism-and-the-political-order",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-laborideas",
+      "title": "工业社会中的改革、工人运动与革命思想",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/10-5-regulation-reform-and-revolutionary-ideologies",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-late-rome",
+      "title": "罗马帝国重心东移与西部政权更替",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-magna",
+      "title": "大宪章的产生与意义",
+      "url": "https://www.parliament.uk/magnacarta/",
+      "author": "英国议会",
+      "type": "议会史料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-rights",
+      "title": "1689年权利法案",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/collections1/collections-glorious-revolution/billofrights/",
+      "author": "英国议会档案馆",
+      "type": "档案与文献",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-civilwar",
+      "title": "内战与三个王国的冲突",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/act-of-union-1707/overview/revolution-and-civil-war/",
+      "author": "英国议会",
+      "type": "议会史料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-renaissance",
+      "title": "文艺复兴时代馆藏资源导引",
+      "url": "https://guides.loc.gov/renaissance-era-resources",
+      "author": "美国国会图书馆",
+      "type": "馆藏研究指南",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-astronomy",
+      "title": "近代天文学的诞生",
+      "url": "https://openstax.org/books/astronomy/pages/2-4-the-birth-of-modern-astronomy",
+      "author": "OpenStax · Rice University／Astronomy作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-songhai",
+      "title": "桑海帝国与西非社会",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/3-2-the-songhai-empire",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-swahili",
+      "title": "斯瓦希里海岸与印度洋城市",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/3-3-the-swahili-coast",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-southamerica",
+      "title": "西属南美的独立运动",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/8-3-spanish-south-america",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-brazil",
+      "title": "葡属南美与巴西独立",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/8-4-portuguese-south-america",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-colonialamerica",
+      "title": "欧洲殖民扩张与美洲社会",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/6-1-european-colonization-in-the-americas",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-benin",
+      "title": "贝宁王国：工艺、王权与1897年劫掠",
+      "url": "https://prm.ox.ac.uk/kingdom-benin",
+      "author": "牛津大学 Pitt Rivers Museum",
+      "type": "博物馆研究",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-njinga",
+      "title": "恩津加：政治、宗教与殖民接触",
+      "url": "https://dacb.org/stories/angola/njinga/",
+      "author": "Dictionary of African Christian Biography／Boston University研究项目",
+      "type": "学术人物资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-adwa",
+      "title": "阿杜瓦战役与埃塞俄比亚抵抗",
+      "url": "https://adwavictorymemorial.gov.et/about",
+      "author": "埃塞俄比亚阿杜瓦胜利纪念馆",
+      "type": "历史纪念馆",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-zimbabwe",
+      "title": "大津巴布韦国家纪念地",
+      "url": "https://whc.unesco.org/en/list/364/",
+      "author": "联合国教科文组织世界遗产中心",
+      "type": "遗产档案",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-lalibela",
+      "title": "拉利贝拉岩石教堂",
+      "url": "https://whc.unesco.org/en/list/18/",
+      "author": "联合国教科文组织世界遗产中心",
+      "type": "遗产档案",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-douglass",
+      "title": "弗雷德里克·道格拉斯：废奴与公民权",
+      "url": "https://home.nps.gov/people/frederick-douglass.htm",
+      "author": "美国国家公园管理局",
+      "type": "公共历史与人物档案",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-emancipation",
+      "title": "美国内战、解放与争取自由",
+      "url": "https://www.nps.gov/civilwar/emancipation-and-the-quest-for-freedom.htm",
+      "author": "美国国家公园管理局",
+      "type": "公共历史资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-pemulwuy",
+      "title": "佩穆尔维与澳大利亚原住民抵抗",
+      "url": "https://www.nma.gov.au/defining-moments/resources/pemulwuy",
+      "author": "澳大利亚国家博物馆",
+      "type": "博物馆历史资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-firstfleet",
+      "title": "1788年第一舰队与悉尼湾殖民地",
+      "url": "https://digital-classroom.nma.gov.au/defining-moments/first-fleet-arrives-sydney-cove",
+      "author": "澳大利亚国家博物馆",
+      "type": "博物馆历史资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-federation",
+      "title": "1901年澳大利亚联邦成立",
+      "url": "https://digital-classroom.nma.gov.au/defining-moments/federation-australian-colonies",
+      "author": "澳大利亚国家博物馆",
+      "type": "博物馆历史资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-romereligion",
+      "title": "罗马帝国宗教与早期基督教",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-romeregions",
+      "title": "罗马行省、城市和帝国空间",
+      "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-islamconnections",
+      "title": "伊斯兰世界的旅行、学术与跨区域联系",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/4-1-a-connected-islamic-world",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-pakal",
+      "title": "帕伦克与帕卡尔王朝遗存",
+      "url": "https://patrimoniomundialmexico.inah.gob.mx/publico/lista_detalle.php?idLista=MTQ%3D",
+      "author": "墨西哥国家人类学与历史研究所 INAH",
+      "type": "考古与遗产资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-vietnam",
+      "title": "越南历史分期与主要节点",
+      "url": "https://afe.easia.columbia.edu/timelines/vietnam_timeline.htm",
+      "author": "Columbia University · Asia for Educators",
+      "type": "大学历史年表",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-sukhothai",
+      "title": "素可泰及相关古城",
+      "url": "https://whc.unesco.org/en/list/574/",
+      "author": "联合国教科文组织世界遗产中心",
+      "type": "遗产档案",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-ayutthaya",
+      "title": "阿瑜陀耶古城",
+      "url": "https://whc.unesco.org/en/list/576",
+      "author": "联合国教科文组织世界遗产中心",
+      "type": "遗产档案",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-aquinas",
+      "title": "托马斯·阿奎那",
+      "url": "https://plato.stanford.edu/entries/aquinas/",
+      "author": "Stanford Encyclopedia of Philosophy／学术作者",
+      "type": "学术百科",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-tupaia",
+      "title": "图帕亚：祭司与导航者",
+      "url": "https://teara.govt.nz/en/biographies/6t2/tupaia/print",
+      "author": "Joan Druett／Dictionary of New Zealand Biography",
+      "type": "博物馆人物专题",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-kamehameha",
+      "title": "卡美哈梅哈整合夏威夷",
+      "url": "https://www.nps.gov/puhe/learn/historyculture/stories.htm",
+      "author": "美国国家公园管理局",
+      "type": "公共历史资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-barton",
+      "title": "埃德蒙·巴顿与联邦建设",
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/edmund-barton",
+      "author": "澳大利亚国家博物馆",
+      "type": "博物馆人物资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-nene",
+      "title": "塔马蒂·瓦卡·内内",
+      "url": "https://teara.govt.nz/en/biographies/1n2/nene-tamati-waka",
+      "author": "Angela Ballara／Dictionary of New Zealand Biography",
+      "type": "学术人物资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-hobson",
+      "title": "威廉·霍布森",
+      "url": "https://teara.govt.nz/en/biographies/1h29/hobson-william",
+      "author": "Dictionary of New Zealand Biography／Te Ara",
+      "type": "学术人物资料",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-mexicorevolution",
+      "title": "墨西哥革命：报刊与主要日期",
+      "url": "https://guides.loc.gov/chronicling-america-mexican-revolution",
+      "author": "美国国会图书馆",
+      "type": "档案与研究指南",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-russiacontext",
+      "title": "俄国1905年危机与后来的革命背景",
+      "url": "https://openstax.org/books/world-history-volume-2/pages/11-5-the-war-ends",
+      "author": "OpenStax · Rice University／《World History》作者组",
+      "type": "大学开放教材",
+      "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-peterrussia",
+      "title": "圣彼得堡历史中心及相关古迹",
+      "url": "https://whc.unesco.org/en/list/540/",
+      "author": "联合国教科文组织世界遗产中心",
+      "type": "遗产档案",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-renaissanceart",
+      "title": "列奥纳多·达·芬奇：绘画、观察与素描",
+      "url": "https://www.metmuseum.org/essays/leonardo-da-vinci-1452-1519",
+      "author": "Carmen C. Bambach／The Metropolitan Museum of Art",
+      "type": "博物馆研究",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-michelangelo",
+      "title": "米开朗琪罗：雕塑创作与工艺材料",
+      "url": "https://www.vam.ac.uk/articles/michelangelos-prisoner-sculpture",
+      "author": "Victoria and Albert Museum",
+      "type": "博物馆研究",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    },
+    {
+      "id": "ws6-peterreforms",
+      "title": "彼得一世：法律与改革文献",
+      "url": "https://guides.loc.gov/peter-the-great/primary-sources/law",
+      "author": "美国国会图书馆",
+      "type": "档案与研究指南",
+      "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。",
+      "checkedAt": "2026-10-23"
+    }
+  ],
+  "aliases": {
+    "erlitou": "cn-erlitou",
+    "oracle": "cn-yinxu",
+    "middleegypt": "w-egypt-middle",
+    "newegypt": "w-egypt-new",
+    "persia": "w-achaemenid"
+  },
+  "worldEvents": [
+    {
+      "id": "we-jomon",
+      "title": "绳文聚落与定居生活",
+      "start": -2070,
+      "end": -900,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-jomon"
+      ],
+      "category": "考古与文献",
+      "summary": "列岛居民在渔猎采集基础上经营定居聚落，制作绳纹陶器和土偶。",
+      "importance": "定居与复杂文化并不只依赖稻作国家，早期社会存在多条发展道路。",
+      "outcome": "不同生态区域形成地方传统，后与逐渐扩展的稻作社会交错。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-japan"
+      ],
+      "note": "范围仅为本版展示窗口内的一段；绳文文化更早出现，各地分期不同。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前2070年—公元前900年"
+    },
+    {
+      "id": "we-yayoi",
+      "title": "弥生稻作与金属器扩展",
+      "start": -900,
+      "end": 250,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-yayoi"
+      ],
+      "category": "社会与经济",
+      "summary": "稻作和金属技术从列岛西部逐步传播，村落、墓葬及社会分化发生变化。",
+      "importance": "海峡交流改变生产与组织方式，但没有使整个列岛同时转入同一阶段。",
+      "outcome": "部分地区出现更明显的等级和政治联合，为后来的古坟社会提供条件。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-japan"
+      ],
+      "note": "起点有约前900／前800及传统前300等不同口径，此处采用宽范围。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前900年—公元250年"
+    },
+    {
+      "id": "we-kofun",
+      "title": "古坟营建与大和权力形成",
+      "start": 250,
+      "end": 538,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-kofun-asuka"
+      ],
+      "category": "建国与转折",
+      "summary": "大型坟丘及埴轮显示首领集团集中财富与劳动力，大和势力逐步扩展。",
+      "importance": "墓葬材料让人看见早期权力网络，不能把它简单等同于后世统一国家。",
+      "outcome": "王权与各地豪族联系增强，并通过半岛交流接触文字、工艺与信仰。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-asiaearly",
+        "wv3-japan-columbia"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元250年—公元538年"
+    },
+    {
+      "id": "we-buddhism-japan",
+      "title": "佛教传入日本与飞鸟文化",
+      "start": 538,
+      "end": 710,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-kofun-asuka"
+      ],
+      "category": "思想与文化",
+      "summary": "来自朝鲜半岛的佛教、造像与寺院技术进入列岛，并获部分王族和豪族支持。",
+      "importance": "新信仰与政治整合相联系，寺院也成为工艺、文字和知识传播的场所。",
+      "outcome": "飞鸟时代形成跨海文化网络，本地信仰与佛教持续交错。",
+      "personIds": [
+        "wp-shotoku"
+      ],
+      "sourceIds": [
+        "ws6-asiaearly",
+        "wv3-japan-columbia"
+      ],
+      "note": "传入年份常用538或552，非一次传入即全国接受。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-taika",
+      "title": "大化改新与律令国家建设",
+      "start": 645,
+      "end": 701,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-kofun-asuka"
+      ],
+      "category": "制度与改革",
+      "summary": "宫廷政变后推进土地、户籍与官制调整，后续律令编纂使改革逐步制度化。",
+      "importance": "统治者尝试借助文书与地方行政整合豪族分散掌握的资源。",
+      "outcome": "中央集权方向更明确，但实际制度形成经历多代变动。",
+      "personIds": [
+        "wp-nakatomi"
+      ],
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-japan-columbia"
+      ],
+      "note": "645为政治转折，不能把后来全部律令制度视为当年完成。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-nara",
+      "title": "奈良建都与国家佛教",
+      "start": 710,
+      "end": 794,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-nara-heian"
+      ],
+      "category": "建国与转折",
+      "summary": "平城京成为政治中心，官僚制度、史书编纂和大型寺院建设相互配合。",
+      "importance": "都城规划与寺院呈现王权借助大陆制度、信仰建立秩序的努力。",
+      "outcome": "佛教文化繁荣，也使宫廷与僧团权力关系日益复杂。",
+      "personIds": [
+        "wp-shomu"
+      ],
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-japan-columbia"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-heian",
+      "title": "平安迁都与宫廷文学",
+      "start": 794,
+      "end": 1100,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-nara-heian"
+      ],
+      "category": "思想与文化",
+      "summary": "迁都平安京后，贵族政治与假名书写发展，女性作者留下小说、日记和随笔。",
+      "importance": "这些作品将宫廷日常、情感与审美变成理解历史的重要材料。",
+      "outcome": "独特的贵族文化繁荣，地方武士力量则在宫廷体系外逐步增长。",
+      "personIds": [
+        "wp-murasaki"
+      ],
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-japan-columbia"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-kamakura",
+      "title": "镰仓幕府与武家政治",
+      "start": 1185,
+      "end": 1192,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "category": "建国与转折",
+      "summary": "源氏在战争中取得优势，源赖朝建立武家统治网络并获征夷大将军称号。",
+      "importance": "军事家臣关系与守护、地头制度使武士成为政治核心力量。",
+      "outcome": "天皇与朝廷继续存在，形成朝廷与幕府并存的权力格局。",
+      "personIds": [
+        "wp-yoritomo"
+      ],
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-japan-columbia"
+      ],
+      "note": "1185常用于军事与行政转折，1192为受封将军；建幕年份有不同口径。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-mongol-japan",
+      "title": "蒙古两次侵日",
+      "start": 1274,
+      "end": 1281,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "category": "战争与外交",
+      "summary": "元与高丽组织的军队两次进攻日本，遭遇防御、补给困难与风暴。",
+      "importance": "战争把日本卷入更广的东亚力量关系，也增加幕府动员与防卫负担。",
+      "outcome": "进攻未成，战后奖赏和财政压力加剧幕府与御家人的矛盾。",
+      "personIds": [
+        "wp-hojo"
+      ],
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "note": "失败因素包括抵抗、组织和天气，不能只用神风解释。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-muromachi",
+      "title": "室町幕府形成与南北朝分裂",
+      "start": 1336,
+      "end": 1392,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "category": "建国与转折",
+      "summary": "足利尊氏建立新的武家政权，朝廷分裂后逐渐重新合一。",
+      "importance": "京都再成武家政治中心，幕府却须不断协调地方守护力量。",
+      "outcome": "禅宗、庭园和表演艺术发展，地方军事竞争长期存在。",
+      "personIds": [
+        "wp-ashikaga"
+      ],
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-sengoku",
+      "title": "战国统一进程",
+      "start": 1568,
+      "end": 1590,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-japan-medieval"
+      ],
+      "category": "建国与转折",
+      "summary": "织田信长、丰臣秀吉先后通过战争、联盟与政策重整各地大名秩序。",
+      "importance": "统一不仅依赖战场胜负，也涉及土地调查、武器管理和身份安排。",
+      "outcome": "全国秩序重新集中，为德川幕府建立条件，但战争与征发负担沉重。",
+      "personIds": [
+        "wp-nobunaga",
+        "wp-hideyoshi"
+      ],
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-edo",
+      "title": "德川幕府与江户秩序",
+      "start": 1600,
+      "end": 1639,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-edo"
+      ],
+      "category": "制度与改革",
+      "summary": "关原之战后德川家康建立幕府，继任者完善大名管理和对外贸易控制。",
+      "importance": "幕藩体制协调中央与地方，城市、商业及庶民文化在相对稳定中发展。",
+      "outcome": "武家秩序延续两个多世纪，对外往来受控但并未完全中断。",
+      "personIds": [
+        "wp-ieyasu"
+      ],
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "note": "1603为设立幕府；海禁与贸易管理为渐进制度，仍有长崎等交流渠道。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-opening-japan",
+      "title": "黑船来航与开港危机",
+      "start": 1853,
+      "end": 1858,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-edo"
+      ],
+      "category": "战争与外交",
+      "summary": "美国舰队来航后，日本签订通商条约，幕府在外交和国内政治上遭遇压力。",
+      "importance": "不平等条约与对外武力暴露既有统治的困境，推动倒幕和改革争论。",
+      "outcome": "通商口岸开放，国内冲突加深，最终转向明治新政权。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-japan-columbia",
+        "ws6-industrial2"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-meiji",
+      "title": "明治维新与制度转型",
+      "start": 1868,
+      "end": 1889,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-meiji"
+      ],
+      "category": "制度与改革",
+      "summary": "倒幕后新政府废藩置县、征兵、改革教育并发展工业，随后颁布宪法。",
+      "importance": "日本从幕藩秩序转向以天皇为中心的近代国家，改革由国家大力推动。",
+      "outcome": "产业与军力增强，社会身份与生活改变，对外扩张也随之加剧。",
+      "personIds": [
+        "wp-meiji",
+        "wp-ito"
+      ],
+      "sourceIds": [
+        "ws6-industrial2",
+        "ws6-colonial"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-japan-expansion",
+      "title": "甲午战争、日俄战争与帝国扩张",
+      "start": 1894,
+      "end": 1905,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-meiji"
+      ],
+      "category": "战争与外交",
+      "summary": "日本先后与清朝、俄国作战，通过条约扩大在台湾、朝鲜和东北的权益。",
+      "importance": "军事工业化与殖民政策结合，改变东亚力量关系并损害当地社会自主权。",
+      "outcome": "台湾成为日本殖民地，日本控制朝鲜的进程加速，并于1910年吞并。",
+      "personIds": [
+        "wp-ito"
+      ],
+      "sourceIds": [
+        "ws6-industrial2",
+        "ws6-colonial"
+      ],
+      "note": "1894—1895与1904—1905为两场不同战争，此条合看扩张脉络。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-silla",
+      "title": "新罗扩张与唐罗战争",
+      "start": 660,
+      "end": 676,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-korea-kingdoms"
+      ],
+      "category": "战争与外交",
+      "summary": "新罗联合唐灭百济、高句丽后又与唐交战，取得半岛南部主要地区控制权。",
+      "importance": "统一进程伴随国际联盟重组，不能直接理解为现代疆域的完整统一。",
+      "outcome": "半岛形成新罗与北方渤海等并存的格局，佛教艺术与制度继续发展。",
+      "personIds": [
+        "wp-kim-yusin"
+      ],
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-korea"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-koryo",
+      "title": "高丽建国与后三国统一",
+      "start": 918,
+      "end": 936,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-korea-kingdoms"
+      ],
+      "category": "建国与转折",
+      "summary": "王建建立高丽，后整合后百济、新罗等地方势力，结束后三国竞争。",
+      "importance": "新的王朝以联盟和制度吸纳地方集团，重新组织半岛政治秩序。",
+      "outcome": "高丽长期发展佛教、印刷与对外交流，仍面对北方政权压力。",
+      "personIds": [
+        "wp-wang-geon"
+      ],
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-korea"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-koryo-print",
+      "title": "高丽大藏经与金属活字",
+      "start": 1230,
+      "end": 1377,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-korea-kingdoms"
+      ],
+      "category": "思想与文化",
+      "summary": "战乱中重雕佛经木版，金属活字技术也逐步发展，1377年印行《直指》。",
+      "importance": "宗教、工匠技术和知识保存相互联系，是东亚印刷史的重要一环。",
+      "outcome": "留下大藏经版与早期金属活字印本，显示不同印刷技术长期并行。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-borders",
+        "wv3-korea"
+      ],
+      "note": "《直指》为现存最早金属活字印本之一，不等于金属活字于1377年首次发明。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-joseon",
+      "title": "朝鲜王朝建立",
+      "start": 1392,
+      "end": 1394,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-joseon"
+      ],
+      "category": "建国与转折",
+      "summary": "李成桂建立朝鲜王朝，随后迁都汉阳，重整官僚与统治理念。",
+      "importance": "新王朝以儒学政治秩序重塑国家，也重新安排与明朝的关系。",
+      "outcome": "两班、科举和地方行政逐步发展，王朝延续至近代转型。",
+      "personIds": [
+        "wp-yi-seonggye"
+      ],
+      "sourceIds": [
+        "wv3-korea"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-hangul",
+      "title": "训民正音创制与颁布",
+      "start": 1443,
+      "end": 1446,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-joseon"
+      ],
+      "category": "思想与文化",
+      "summary": "世宗主持创制适合记录本地语言的新文字，并以《训民正音》说明其原理。",
+      "importance": "文字设计回应汉文书写门槛，使不同社会群体获得新的表达工具。",
+      "outcome": "新文字逐渐用于文学与日常记录，其普及仍经历长期社会变化。",
+      "personIds": [
+        "wp-sejong"
+      ],
+      "sourceIds": [
+        "wv3-korea"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-imjin",
+      "title": "壬辰战争与东亚联合抗日",
+      "start": 1592,
+      "end": 1598,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-joseon",
+        "w-japan-medieval"
+      ],
+      "category": "战争与外交",
+      "summary": "丰臣秀吉军队侵入朝鲜，朝鲜军民与明军共同抵抗，陆海战争延续多年。",
+      "importance": "这场战争同时改变朝鲜、日本和明朝的军事财政与国际关系。",
+      "outcome": "日军撤退，半岛受到严重破坏，李舜臣等人的海上防御具有重要作用。",
+      "personIds": [
+        "wp-yi-sunsin",
+        "wp-hideyoshi"
+      ],
+      "sourceIds": [
+        "wv3-korea"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-korea-colonial",
+      "title": "朝鲜半岛主权危机与日本吞并",
+      "start": 1894,
+      "end": 1910,
+      "regionId": "east-asia",
+      "worldEntryIds": [
+        "w-joseon",
+        "w-meiji"
+      ],
+      "category": "建国与转折",
+      "summary": "列强竞争与国内改革交错，大韩帝国成立后仍被日本强加保护条约并最终吞并。",
+      "importance": "制度改革未能摆脱帝国主义压力，半岛由王朝国家转入殖民统治。",
+      "outcome": "抗日义兵与独立诉求持续发展，殖民统治结束在本版展示下限之外。",
+      "personIds": [
+        "wp-gojong"
+      ],
+      "sourceIds": [
+        "wv3-korea"
+      ],
+      "note": "1897建大韩帝国，1905保护条约，1910吞并为不同节点。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-harappa",
+      "title": "哈拉帕城市网络与转型",
+      "start": -2070,
+      "end": -1300,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-harappa"
+      ],
+      "category": "考古与文献",
+      "summary": "印度河城市拥有街区、排水和跨区交换网络，前二千纪初后逐渐转向不同聚落形态。",
+      "importance": "其城市传统显示复杂社会组织，但文字尚未可靠释读，统治方式仍有争议。",
+      "outcome": "人口、生产与贸易空间重新分布，不能简单归因于一场外族征服。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-indus"
+      ],
+      "note": "成熟期起点早于本窗口；变化年代因遗址而异。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前2070年—公元前1300年"
+    },
+    {
+      "id": "we-vedic",
+      "title": "吠陀传统与恒河社会变迁",
+      "start": -1500,
+      "end": -600,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-vedic"
+      ],
+      "category": "思想与文化",
+      "summary": "口传宗教传统、农牧生活与政治组织在北印度长期变化，聚落向恒河流域扩展。",
+      "importance": "经典、祭祀和社会身份制度逐渐形成，后世印度思想由此继承并不断重释。",
+      "outcome": "城镇和诸国兴起，为新的宗教与哲学问题提供背景。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "note": "宽范围不表示单一民族的一次迁入或所有地区同时变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前1500年—公元前600年"
+    },
+    {
+      "id": "we-buddha",
+      "title": "佛教兴起与沙门思潮",
+      "start": -500,
+      "end": -300,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-vedic",
+        "w-maurya-kushan"
+      ],
+      "category": "思想与文化",
+      "summary": "释迦牟尼及同时期修行传统讨论苦、解脱与行为，僧团逐步建立。",
+      "importance": "新的修行共同体对祭祀权威与人生目标提出不同回答。",
+      "outcome": "佛教经由王室支持、僧团与商旅传播至南亚及更广地区。",
+      "personIds": [
+        "wp-buddha",
+        "wp-mahavira"
+      ],
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "note": "佛陀与大雄生卒年有多种口径；此处用思潮形成的大致范围。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前500年—公元前300年"
+    },
+    {
+      "id": "we-maurya",
+      "title": "孔雀王朝建立",
+      "start": -321,
+      "end": -297,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-maurya-kushan"
+      ],
+      "category": "建国与转折",
+      "summary": "旃陀罗笈多在北印度建立王朝，并扩展对重要地区与通道的控制。",
+      "importance": "南亚出现跨大范围的帝国统治，财政、军队与地方治理面临新的协调需求。",
+      "outcome": "阿育王时版图进一步扩大，但王朝并未消除各地差异。",
+      "personIds": [
+        "wp-chandragupta"
+      ],
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "note": "约前321为常用建国年份，个别年代存在前后数年差异。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-ashoka",
+      "title": "阿育王敕令与统治转向",
+      "start": -261,
+      "end": -232,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-maurya-kushan"
+      ],
+      "category": "制度与改革",
+      "summary": "羯陵伽战争后，阿育王以岩石和石柱敕令宣传法、克制及善政。",
+      "importance": "统治者试图用公开文字和道德政治协调帝国，其敕令是重要同期材料。",
+      "outcome": "佛教得到支持，帝国沟通留下可读记录；治理仍依赖行政与权力。",
+      "personIds": [
+        "wp-ashoka"
+      ],
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "note": "羯陵伽战争约前261；敕令的法不完全等同于后世单一宗教教义。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-kushan",
+      "title": "贵霜帝国与佛教艺术网络",
+      "start": 50,
+      "end": 250,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-maurya-kushan"
+      ],
+      "category": "社会与经济",
+      "summary": "贵霜连接中亚、印度西北与贸易通道，佛教寺院与造像在多地发展。",
+      "importance": "商旅、王室和僧团交流推动图像与信仰传播，呈现欧亚联系的多中心性质。",
+      "outcome": "犍陀罗、秣菟罗等形成不同造像传统，影响沿交通网络扩展。",
+      "personIds": [
+        "wp-kanishka"
+      ],
+      "sourceIds": [
+        "wv3-south-summary",
+        "ws6-indianocean"
+      ],
+      "note": "贵霜与迦腻色迦年代存在争论，用宽范围避免虚构确年。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元50年—公元250年"
+    },
+    {
+      "id": "we-gupta",
+      "title": "笈多王朝与古典文化",
+      "start": 320,
+      "end": 550,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "category": "思想与文化",
+      "summary": "笈多王室在北印度发展统治，梵语文学、宗教艺术与学术活动繁荣。",
+      "importance": "不同知识与艺术传统在王室和地方社会支持下形成持久影响。",
+      "outcome": "王朝政治后来分散，寺院、区域宫廷与知识网络仍继续发展。",
+      "personIds": [
+        "wp-samudragupta",
+        "wp-kalidasa"
+      ],
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "note": "黄金时代是后世概括，不能代表所有阶层和地区同样繁荣。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元320年—公元550年"
+    },
+    {
+      "id": "we-math-india",
+      "title": "南亚数学与天文学著述",
+      "start": 499,
+      "end": 628,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "category": "思想与文化",
+      "summary": "阿耶波多、婆罗摩笈多等人用著述整理计算、天文及数的运算方法。",
+      "importance": "位值记数与对零、负数等的讨论，为跨地区数学传播提供重要资源。",
+      "outcome": "相关知识经翻译、贸易和学术往来进入更广的欧亚网络。",
+      "personIds": [
+        "wp-aryabhata",
+        "wp-brahmagupta"
+      ],
+      "sourceIds": [
+        "ws6-india",
+        "wv3-south-summary"
+      ],
+      "note": "499和628为重要著述年代，不把全部印度数字体系归于单人单年。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-chola",
+      "title": "朱罗王国与印度洋联系",
+      "start": 985,
+      "end": 1025,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "category": "社会与经济",
+      "summary": "朱罗王室在南印度扩张，营建大寺院，并以海上行动介入孟加拉湾网络。",
+      "importance": "寺院、农业资源、商人集团和海军力量共同连接南印度与东南亚。",
+      "outcome": "泰米尔文化及贸易联系扩展，但海战不等于永久统治全部海域。",
+      "personIds": [
+        "wp-rajaraja",
+        "wp-rajendra"
+      ],
+      "sourceIds": [
+        "ws6-indianocean",
+        "wv3-south-summary"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-delhi",
+      "title": "德里苏丹国建立",
+      "start": 1206,
+      "end": 1236,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-delhi-regional"
+      ],
+      "category": "建国与转折",
+      "summary": "古尔王朝势力变化后，德里形成由军事奴隶出身统治集团建立的苏丹国。",
+      "importance": "北印度的政治整合与伊斯兰文化网络进一步交织。",
+      "outcome": "多个王朝相继执政，与地方王国、农民社会和城市持续互动。",
+      "personIds": [
+        "wp-aibak",
+        "wp-iltutmish"
+      ],
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-vijayanagara",
+      "title": "毗奢耶那伽罗与南印度宫廷",
+      "start": 1336,
+      "end": 1565,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-delhi-regional"
+      ],
+      "category": "建国与转折",
+      "summary": "南印度兴起强大的宫廷中心，发展水利、寺院与贸易，并与德干诸国竞争。",
+      "importance": "南亚政治并非只由德里和莫卧儿构成，南方国家也形成独立资源网络。",
+      "outcome": "1565年战败后都城受到破坏，王朝及地方传统并未立即全部终结。",
+      "personIds": [
+        "wp-krishnadevaraya"
+      ],
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "note": "1336为传统建国年；政权延续不以都城战败一年概括。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-mughal",
+      "title": "巴布尔建立莫卧儿王朝",
+      "start": 1526,
+      "end": 1530,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "category": "建国与转折",
+      "summary": "巴布尔在第一次帕尼帕特战役后取得德里地区，建立新的王朝。",
+      "importance": "中亚军事传统与北印度权力网络重新组合，开创持续数世纪的政治格局。",
+      "outcome": "其继承者经历危机和再扩张，至阿克巴时期进一步巩固。",
+      "personIds": [
+        "wp-babur"
+      ],
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-akbar",
+      "title": "阿克巴的帝国整合",
+      "start": 1556,
+      "end": 1605,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "category": "制度与改革",
+      "summary": "阿克巴扩大版图，以官僚、军役和税收安排吸纳不同背景的地方精英。",
+      "importance": "治理多宗教、多语言社会，需要协商和制度整合，而不只是征服。",
+      "outcome": "莫卧儿统治与宫廷文化繁盛，宗教政策在后继时期仍发生变化。",
+      "personIds": [
+        "wp-akbar"
+      ],
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-taj",
+      "title": "泰姬陵与莫卧儿艺术",
+      "start": 1632,
+      "end": 1653,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "category": "思想与文化",
+      "summary": "沙贾汗为穆姆塔兹·玛哈尔营建陵墓，调集建筑、书法、园林与工艺资源。",
+      "importance": "工程体现王室纪念、帝国财富和跨地区匠作传统的结合。",
+      "outcome": "陵园成为莫卧儿艺术的重要遗存，也提示奢华工程背后的社会劳动。",
+      "personIds": [
+        "wp-shahjahan"
+      ],
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "note": "各部分完工时间不同，1632—1653为常用整体工程范围。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-maratha",
+      "title": "马拉塔力量与区域政治",
+      "start": 1674,
+      "end": 1761,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "category": "建国与转折",
+      "summary": "希瓦吉称王后，马拉塔政治与军事网络扩展，在莫卧儿衰弱中成为重要力量。",
+      "importance": "十八世纪南亚出现多中心竞争，不能简单看成一个帝国被殖民政权直接接替。",
+      "outcome": "地方联盟与欧洲公司相互竞争，1761年帕尼帕特战败改变力量对比。",
+      "personIds": [
+        "wp-shivaji"
+      ],
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-plassey",
+      "title": "普拉西战役与公司势力扩张",
+      "start": 1757,
+      "end": 1765,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-mughal"
+      ],
+      "category": "战争与外交",
+      "summary": "东印度公司利用军事与本地结盟取得孟加拉优势，后获得征税权。",
+      "importance": "商业公司开始掌握领土财政，贸易、战争与殖民统治更加紧密结合。",
+      "outcome": "孟加拉资源支持进一步扩张，南亚政治与经济受殖民力量深刻影响。",
+      "personIds": [
+        "wp-clive"
+      ],
+      "sourceIds": [
+        "ws6-mughal",
+        "wv3-south-summary"
+      ],
+      "note": "1757为普拉西，1765为获得孟加拉等地征税权；不是同一事件的两个日期。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-india1857",
+      "title": "1857年起义与王室直辖",
+      "start": 1857,
+      "end": 1858,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-mughal",
+        "w-south-colonial"
+      ],
+      "category": "建国与转折",
+      "summary": "军人反抗与地方不满汇合，多个地区爆发反英斗争，英国镇压后取消公司统治。",
+      "importance": "起义涉及军人、王公、农民等多方，揭示殖民秩序中的深层矛盾。",
+      "outcome": "印度转归英国王室统治，军队与行政重组，反殖民经验继续影响后世。",
+      "personIds": [
+        "wp-lakshmibai"
+      ],
+      "sourceIds": [
+        "ws6-resistance",
+        "ws6-colonial"
+      ],
+      "note": "参与范围、诉求各异，不宜视为具有统一现代民族纲领的一场行动。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-congress",
+      "title": "国大党成立与公共政治发展",
+      "start": 1885,
+      "end": 1905,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-south-colonial"
+      ],
+      "category": "制度与改革",
+      "summary": "印度国民大会成立，精英通过会议、报刊和请愿表达自治及改革要求。",
+      "importance": "受教育群体开始以跨地区组织讨论殖民政策，公共政治空间扩大。",
+      "outcome": "民族运动逐渐发展，并在1905年孟加拉分治后出现更强动员。",
+      "personIds": [
+        "wp-naoroji"
+      ],
+      "sourceIds": [
+        "ws6-resistance",
+        "ws6-colonial"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-swadeshi",
+      "title": "孟加拉分治与抵制运动",
+      "start": 1905,
+      "end": 1911,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-south-colonial"
+      ],
+      "category": "社会与经济",
+      "summary": "英国分治孟加拉引发抗议，抵制洋货、自制商品与民族教育运动扩展。",
+      "importance": "经济生活、文化认同与反殖民政治相结合，动员方式超出少数精英请愿。",
+      "outcome": "分治于1911年撤销，但殖民统治与社群政治矛盾继续存在。",
+      "personIds": [
+        "wp-tagore"
+      ],
+      "sourceIds": [
+        "ws6-resistance",
+        "ws6-colonial"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-sea-metal",
+      "title": "东南亚农耕、青铜与交换网络",
+      "start": -1500,
+      "end": -300,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-ban-kao",
+        "w-dongson"
+      ],
+      "category": "考古与文献",
+      "summary": "农耕村落、青铜技术和区域交换在大陆及岛屿各地以不同节奏发展。",
+      "importance": "生产技术与远距离交换支持社会分化，但不能把考古器物直接当作统一国家。",
+      "outcome": "铜鼓等物质文化跨地区流动，形成后来港市和政治网络的背景。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-asiaearly",
+        "ws6-indianocean"
+      ],
+      "note": "起点和技术传播路线存在地区差异，不代表一条统一扩散线。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前1500年—公元前300年"
+    },
+    {
+      "id": "we-dongson",
+      "title": "东山铜鼓与地方权威",
+      "start": -500,
+      "end": 200,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-dongson"
+      ],
+      "category": "思想与文化",
+      "summary": "红河及周边社会制作复杂铜鼓，相关器物沿海陆网络进入更广地区。",
+      "importance": "器物体现铸造技术、礼仪及精英交往，提供文字记载之外的社会线索。",
+      "outcome": "铜鼓被不同社群重新使用，影响延续到后世，不能等同一种民族疆域。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-asiaearly",
+        "ws6-indianocean"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前500年—公元200年"
+    },
+    {
+      "id": "we-funan",
+      "title": "扶南与早期港市网络",
+      "start": 100,
+      "end": 600,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-funan"
+      ],
+      "category": "社会与经济",
+      "summary": "湄公河下游港市与内陆节点参与远洋贸易，文献中出现扶南等政治称谓。",
+      "importance": "贸易、地方生产与外来宗教制度相互作用，不能只看成文化被动输入。",
+      "outcome": "区域联系催生新的政治中心，为真腊和吴哥发展提供背景。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-asiaearly",
+        "ws6-indianocean"
+      ],
+      "note": "扶南的边界和政治组织主要由考古及外部记载重建，不能画成确定国界。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元100年—公元600年"
+    },
+    {
+      "id": "we-srivijaya",
+      "title": "三佛齐与海上佛教网络",
+      "start": 670,
+      "end": 1025,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-angkor-maritime"
+      ],
+      "category": "社会与经济",
+      "summary": "苏门答腊的政治与港口网络控制重要通道，也成为僧侣停留和研习的场所。",
+      "importance": "海上权力依赖港市、航道与商旅关系，未必表现为连续陆地疆域。",
+      "outcome": "佛教和商业交流繁荣，随后在区域竞争中转变。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-asiaearly",
+        "ws6-indianocean"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-borobudur",
+      "title": "婆罗浮屠与爪哇佛教艺术",
+      "start": 750,
+      "end": 850,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-angkor-maritime"
+      ],
+      "category": "思想与文化",
+      "summary": "爪哇中部营建大型佛教建筑，以层层空间、浮雕与佛像组织宗教观看。",
+      "importance": "建筑显示本地王室、工匠与佛教思想的结合，而非南亚样式的简单复制。",
+      "outcome": "遗存成为理解爪哇政治文化及海上联系的重要材料。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-asiaearly",
+        "ws6-indianocean"
+      ],
+      "note": "用约八至九世纪范围，不强定单一年份或唯一建造者。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元750年—公元850年"
+    },
+    {
+      "id": "we-angkor",
+      "title": "吴哥王权与水利城市",
+      "start": 802,
+      "end": 1200,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-angkor-maritime"
+      ],
+      "category": "建国与转折",
+      "summary": "高棉王室在吴哥地区组织寺庙、蓄水与城市网络，形成强大的内陆中心。",
+      "importance": "农业、宗教及劳动力组织共同支撑国家，水利不是唯一解释。",
+      "outcome": "吴哥地区留下庞大建筑群，不同君主以新工程重塑政治与神圣空间。",
+      "personIds": [
+        "wp-jayavarman2"
+      ],
+      "sourceIds": [
+        "wv3-angkor",
+        "wv3-khmer"
+      ],
+      "note": "802为传统王权转折纪年，国家形成是较长过程。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-angkorwat",
+      "title": "吴哥窟的营建",
+      "start": 1113,
+      "end": 1150,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-angkor-maritime"
+      ],
+      "category": "思想与文化",
+      "summary": "苏利耶跋摩二世统治时营建吴哥窟，以建筑和浮雕呈现王权与宗教秩序。",
+      "importance": "工程集中显示高棉匠作、空间规划与宇宙观。",
+      "outcome": "建筑后经历宗教用途和社会环境变化，持续成为活的文化场所。",
+      "personIds": [
+        "wp-suryavarman2"
+      ],
+      "sourceIds": [
+        "wv3-angkor",
+        "wv3-khmer"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元1113年—公元1150年"
+    },
+    {
+      "id": "we-jayavarman",
+      "title": "阇耶跋摩七世与吴哥重建",
+      "start": 1181,
+      "end": 1218,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-angkor-maritime"
+      ],
+      "category": "制度与改革",
+      "summary": "战争后高棉王权重建城市，营建巴戎寺及交通、医疗等相关设施。",
+      "importance": "统治者借佛教和公共工程重新组织国家形象与资源。",
+      "outcome": "吴哥城形成新的建筑景观，政治和宗教实践仍继续演变。",
+      "personIds": [
+        "wp-jayavarman7"
+      ],
+      "sourceIds": [
+        "wv3-angkor",
+        "wv3-khmer"
+      ],
+      "note": "卒年存在1218及稍后等不同说法，用约数理解。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元1181年—公元1218年"
+    },
+    {
+      "id": "we-vietnam",
+      "title": "白藤江战役与越南自主政权",
+      "start": 938,
+      "end": 1009,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [],
+      "category": "建国与转折",
+      "summary": "吴权在白藤江击败南汉军队后，红河地区自主政权逐步巩固并经历更替。",
+      "importance": "区域政治不再长期纳入中原王朝直接行政体系，新的国家秩序逐步形成。",
+      "outcome": "丁、前黎至李朝继续整合地方社会，并保持战争与交往并存的关系。",
+      "personIds": [
+        "wp-ngoquyen"
+      ],
+      "sourceIds": [
+        "ws6-vietnam"
+      ],
+      "note": "938是重要转折，国家整合并非一次战役即可完成。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-lythanglong",
+      "title": "李朝迁都升龙",
+      "start": 1010,
+      "end": 1054,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [],
+      "category": "建国与转折",
+      "summary": "李朝迁都升龙，推动王室、佛教与行政组织发展，后来采用大越国号。",
+      "importance": "稳定政治中心有助于协调红河地区资源，也形成独特的都城文化。",
+      "outcome": "大越制度与地方社会逐步发展，并在对外交往中保持自身政治传统。",
+      "personIds": [
+        "wp-lythaito"
+      ],
+      "sourceIds": [
+        "ws6-vietnam"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-sukhothai",
+      "title": "素可泰与泰语政治文化",
+      "start": 1238,
+      "end": 1400,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [],
+      "category": "思想与文化",
+      "summary": "泰语地区形成新的王国，佛教寺院、王室碑铭和地方工艺留下政治文化痕迹。",
+      "importance": "本地语言与宗教表达参与王权建设，显示大陆东南亚的多中心格局。",
+      "outcome": "素可泰传统进入后来的暹罗文化，但不能代表所有泰语人群共同经历。",
+      "personIds": [
+        "wp-ramkhamhaeng"
+      ],
+      "sourceIds": [
+        "ws6-sukhothai"
+      ],
+      "note": "1238为常用建国口径；兰甘亨碑及文字创制的解释存在讨论。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元1238年—公元1400年"
+    },
+    {
+      "id": "we-majapahit",
+      "title": "满者伯夷的兴起",
+      "start": 1293,
+      "end": 1389,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-majapahit-melaka"
+      ],
+      "category": "建国与转折",
+      "summary": "爪哇形成满者伯夷王国，王室与官员通过军事、贸易和联盟扩大影响。",
+      "importance": "岛际权力依赖多样关系，文献中的属地宣称不等于现代式领土控制。",
+      "outcome": "爪哇政治文化影响扩展，港市与伊斯兰网络随后持续改变区域格局。",
+      "personIds": [
+        "wp-gajahmada",
+        "wp-hayamwuruk"
+      ],
+      "sourceIds": [
+        "ws6-malacca",
+        "ws6-indianocean"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-melaka",
+      "title": "马六甲港市与伊斯兰传播",
+      "start": 1400,
+      "end": 1511,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-majapahit-melaka"
+      ],
+      "category": "社会与经济",
+      "summary": "马六甲依托海峡航运聚集商人，苏丹国以贸易规则和外交联系维持繁荣。",
+      "importance": "海上贸易将伊斯兰、语言与法律传统连接到本地港市社会。",
+      "outcome": "多族群城市网络发展，1511年葡萄牙攻占后贸易转向多个新中心。",
+      "personIds": [
+        "wp-parameswara"
+      ],
+      "sourceIds": [
+        "ws6-malacca"
+      ],
+      "note": "约1400为常用建城年代；帕拉梅斯瓦拉改宗与后继身份记载有异。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元1400年—公元1511年"
+    },
+    {
+      "id": "we-melaka1511",
+      "title": "葡萄牙攻占马六甲",
+      "start": 1511,
+      "end": 1511,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-majapahit-melaka"
+      ],
+      "category": "战争与外交",
+      "summary": "葡萄牙军队占领马六甲，尝试用堡垒与舰队控制重要贸易节点。",
+      "importance": "欧洲海上势力以武力介入既有亚洲网络，而非创造原本不存在的贸易。",
+      "outcome": "柔佛、亚齐等港市及政权竞争增强，区域贸易没有因此停止。",
+      "personIds": [
+        "wp-albuquerque"
+      ],
+      "sourceIds": [
+        "ws6-malacca"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-ayutthaya",
+      "title": "阿瑜陀耶与跨海都市",
+      "start": 1350,
+      "end": 1767,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-sea-oceanic"
+      ],
+      "category": "社会与经济",
+      "summary": "阿瑜陀耶发展为王权、河运和远洋贸易交汇的都市，汇集多地商人与使节。",
+      "importance": "内陆政治与海上商业能够在同一中心结合，形成多文化生活。",
+      "outcome": "1767年缅军攻城造成重创，暹罗政治中心随后转移。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-ayutthaya"
+      ],
+      "note": "1350为常用建城年，1767为毁城节点，不能把整个时期视为单一事件。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-voc",
+      "title": "荷兰公司与巴达维亚殖民网络",
+      "start": 1602,
+      "end": 1619,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-sea-oceanic"
+      ],
+      "category": "社会与经济",
+      "summary": "荷兰东印度公司成立后，以武力、契约和据点争夺贸易，并在巴达维亚设中心。",
+      "importance": "公司拥有战争和行政权力，商业垄断与殖民暴力紧密相连。",
+      "outcome": "岛屿社会、劳动力和商品生产被重组，本地政权与商人持续应对。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-malacca"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-siam-reform",
+      "title": "暹罗改革与殖民压力",
+      "start": 1851,
+      "end": 1910,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-sea19"
+      ],
+      "category": "制度与改革",
+      "summary": "蒙固与朱拉隆功时期以外交、官制和财政改革应对英法殖民扩张。",
+      "importance": "改革与领土让步相伴，自主空间由本地行动和列强竞争共同塑造。",
+      "outcome": "暹罗维持形式独立，但条约、边界和经济关系受到深刻外部影响。",
+      "personIds": [
+        "wp-mongkut",
+        "wp-chulalongkorn"
+      ],
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance",
+        "wv3-sea19"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-philippines",
+      "title": "菲律宾革命与殖民权力更替",
+      "start": 1896,
+      "end": 1902,
+      "regionId": "southeast-asia",
+      "worldEntryIds": [
+        "w-sea19"
+      ],
+      "category": "建国与转折",
+      "summary": "反西班牙革命发展后，1898年宣布独立，随后又与美国殖民军队交战。",
+      "importance": "本地民族运动不只是西美战争的附属过程，独立诉求有自己的组织与目标。",
+      "outcome": "西班牙退出后美国实施殖民统治，战争与反抗继续影响社会。",
+      "personIds": [
+        "wp-rizal",
+        "wp-aguinaldo"
+      ],
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance",
+        "wv3-sea19"
+      ],
+      "note": "1902为美国宣布主要战争结束，不表示各地抵抗随即停止。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-ur3",
+      "title": "乌尔第三王朝与文书治理",
+      "start": -2070,
+      "end": -2004,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-mesopotamia"
+      ],
+      "category": "制度与改革",
+      "summary": "乌尔王朝以城市、神庙和大量行政泥板组织贡赋、劳动力及产品流通。",
+      "importance": "书写不仅记录神话，也参与日常经济和国家资源管理。",
+      "outcome": "王朝崩溃后政治分散，文书、法律与书吏传统继续为后继社会吸收。",
+      "personIds": [
+        "wp-shulgi"
+      ],
+      "sourceIds": [
+        "ws6-mesopotamia"
+      ],
+      "note": "年代依常用中年表约数，开端早于本版展示窗口。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元前2070年—公元前2004年"
+    },
+    {
+      "id": "we-hammurabi",
+      "title": "汉谟拉比统一与法典",
+      "start": -1792,
+      "end": -1750,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-mesopotamia"
+      ],
+      "category": "制度与改革",
+      "summary": "巴比伦君主汉谟拉比扩大统治，并以碑刻汇集司法案例与王权宣示。",
+      "importance": "法典呈现财产、家庭、身份与惩罚的差异，是认识古代社会的重要文本。",
+      "outcome": "巴比伦成为文化与政治中心，法律传统长期被抄写和重新解释。",
+      "personIds": [
+        "wp-hammurabi"
+      ],
+      "sourceIds": [
+        "ws6-mesopotamia"
+      ],
+      "note": "不是人类第一部法律，碑上条文也不等于全部社会实践。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-assyria",
+      "title": "新亚述扩张与都城工程",
+      "start": -883,
+      "end": -627,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-mesopotamia",
+        "kalhu"
+      ],
+      "category": "战争与外交",
+      "summary": "亚述君主依靠军队、贡赋与迁徙政策扩大帝国，并营建宫殿和浮雕。",
+      "importance": "战争、行政和形象宣传共同支撑跨地区统治，征服伴随大规模强制迁徙。",
+      "outcome": "都城与文书留下丰富材料，帝国后期陷入多方反抗及战争。",
+      "personIds": [
+        "wp-ashurnasirpal",
+        "wp-ashurbanipal"
+      ],
+      "sourceIds": [
+        "ws6-babylon"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-babylon-rise",
+      "title": "新巴比伦与城市重建",
+      "start": -626,
+      "end": -539,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-mesopotamia"
+      ],
+      "category": "建国与转折",
+      "summary": "亚述崩溃后，新巴比伦在两河地区崛起，营建城墙、神庙与仪式道路。",
+      "importance": "城市纪念建筑与军事扩张同时表现王权及宗教秩序。",
+      "outcome": "尼布甲尼撒二世时期繁盛，后在前539年被波斯征服。",
+      "personIds": [
+        "wp-nebuchadnezzar"
+      ],
+      "sourceIds": [
+        "ws6-babylon"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-cyrus-babylon",
+      "title": "居鲁士征服巴比伦",
+      "start": -550,
+      "end": -539,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-achaemenid",
+        "w-mesopotamia"
+      ],
+      "category": "建国与转折",
+      "summary": "居鲁士先整合波斯和米底力量，再征服吕底亚、巴比伦等地。",
+      "importance": "多地区帝国通过地方制度、王室政策与军事控制结合运作。",
+      "outcome": "阿契美尼德统治扩展至广阔区域，开启新的跨地区行政格局。",
+      "personIds": [
+        "cyrus"
+      ],
+      "sourceIds": [
+        "ws6-persia"
+      ],
+      "note": "居鲁士圆筒是王权文本，不宜直接称为现代人权宣言。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-darius",
+      "title": "大流士的帝国治理",
+      "start": -522,
+      "end": -486,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-achaemenid"
+      ],
+      "category": "制度与改革",
+      "summary": "大流士一世稳定王位后，以行省、贡赋、道路和王室工程组织帝国。",
+      "importance": "跨语言、跨地区统治依靠信息、交通和地方精英协作。",
+      "outcome": "波斯行政与建筑文化持续影响后世，边疆战争也不断消耗资源。",
+      "personIds": [
+        "wp-darius"
+      ],
+      "sourceIds": [
+        "ws6-persia"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-parthia",
+      "title": "安息崛起与欧亚通道",
+      "start": -247,
+      "end": 224,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-seleucid-parthia"
+      ],
+      "category": "社会与经济",
+      "summary": "帕提亚集团在伊朗及周边扩张，建立由王室、贵族与地方势力共同运作的统治。",
+      "importance": "罗马与南亚之间并非空白通道，安息是具有自身政治和贸易网络的中心。",
+      "outcome": "与罗马的竞争及中间贸易长期存在，后由萨珊王朝取代。",
+      "personIds": [
+        "wp-arsaces"
+      ],
+      "sourceIds": [
+        "wv3-parthia"
+      ],
+      "note": "前247为传统纪元；帝国扩展与制度形成跨越多代。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-sasanian",
+      "title": "萨珊建国与王权重整",
+      "start": 224,
+      "end": 241,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-sasanian"
+      ],
+      "category": "建国与转折",
+      "summary": "阿尔达希尔击败安息末王，建立新的伊朗王朝并强化王权与宗教联系。",
+      "importance": "统治结构、宫廷礼仪和宗教组织重组，塑造晚期古代西亚秩序。",
+      "outcome": "萨珊长期与罗马、拜占庭竞争，也参与中亚及印度洋交流。",
+      "personIds": [
+        "wp-ardashir"
+      ],
+      "sourceIds": [
+        "ws6-byzpersia",
+        "wv3-sasanian"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-sasanian-reform",
+      "title": "库思老一世与萨珊治理",
+      "start": 531,
+      "end": 579,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-sasanian"
+      ],
+      "category": "制度与改革",
+      "summary": "萨珊在军队、赋税和宫廷组织上持续调整，并与拜占庭反复交战。",
+      "importance": "帝国竞争需要更稳定的资源动员，改革与社会阶层关系密切相连。",
+      "outcome": "萨珊王权延续，但长期战争与地方矛盾后来加剧帝国危机。",
+      "personIds": [
+        "wp-khosrow"
+      ],
+      "sourceIds": [
+        "ws6-byzpersia",
+        "wv3-sasanian"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-hijra",
+      "title": "穆罕默德与希吉拉",
+      "start": 610,
+      "end": 632,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "category": "思想与文化",
+      "summary": "穆罕默德在阿拉伯半岛传播伊斯兰，622年迁徙麦地那并组织共同体。",
+      "importance": "宗教信息与社会政治组织相联系，信仰共同体超越部分部落关系。",
+      "outcome": "阿拉伯半岛政治与宗教格局改变，为其后哈里发国家发展提供基础。",
+      "personIds": [
+        "wp-muhammad"
+      ],
+      "sourceIds": [
+        "ws6-islamrise"
+      ],
+      "note": "622为伊斯兰纪元起点；宗教信仰内容与可考历史叙述分别理解。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-arab-conquests",
+      "title": "早期哈里发与阿拉伯扩张",
+      "start": 632,
+      "end": 661,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-caliphates",
+        "w-sasanian"
+      ],
+      "category": "战争与外交",
+      "summary": "穆罕默德去世后，哈里发领导的军队进入叙利亚、埃及和萨珊领地。",
+      "importance": "扩张重组晚期古代帝国边界，但居民改宗与阿拉伯化并非立即完成。",
+      "outcome": "新的统治制度形成，继承和领导权争论也在共同体内部发展。",
+      "personIds": [
+        "wp-abubakr",
+        "wp-umar",
+        "wp-ali"
+      ],
+      "sourceIds": [
+        "ws6-islamstates"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-umayyad",
+      "title": "倭马亚与跨地区帝国",
+      "start": 661,
+      "end": 750,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "category": "制度与改革",
+      "summary": "倭马亚以大马士革为中心扩张，逐步推进阿拉伯语行政与币制改革。",
+      "importance": "政治统合与宗教共同体扩展交织，同时存在身份、税收和继承矛盾。",
+      "outcome": "统治跨越西亚、北非至伊比利亚，后由阿拔斯革命改写东方中心。",
+      "personIds": [
+        "wp-abdmalik"
+      ],
+      "sourceIds": [
+        "ws6-islamstates"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-abbasid",
+      "title": "阿拔斯革命与巴格达建城",
+      "start": 750,
+      "end": 762,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "category": "建国与转折",
+      "summary": "阿拔斯推翻倭马亚在东方的统治，随后以巴格达建立新的都城中心。",
+      "importance": "帝国政治重心转向伊拉克，多族群官僚与贸易网络发挥重要作用。",
+      "outcome": "巴格达发展为经济文化中心，政治分权与区域王朝后来逐渐增强。",
+      "personIds": [
+        "wp-almansur"
+      ],
+      "sourceIds": [
+        "ws6-islam"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-translation",
+      "title": "阿拔斯时代的翻译与科学",
+      "start": 800,
+      "end": 1000,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "category": "思想与文化",
+      "summary": "希腊语、波斯语和印度传统中的知识被译介、评论，并产生新的数学与医学成果。",
+      "importance": "学者并非只保存古典知识，也在计算、实验及系统论述中持续创新。",
+      "outcome": "知识经多种语言网络传播，后来参与地中海和欧亚的学术发展。",
+      "personIds": [
+        "wp-khwarizmi",
+        "wp-hunayn"
+      ],
+      "sourceIds": [
+        "ws6-islam"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-ibnsina",
+      "title": "伊本·西那与医学哲学著述",
+      "start": 1010,
+      "end": 1037,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-central-medieval",
+        "w-caliphates"
+      ],
+      "category": "思想与文化",
+      "summary": "伊本·西那在伊朗与中亚学术环境中整理医学、逻辑与哲学体系。",
+      "importance": "系统化著述将观察、论证和前人成果结合，体现区域学术网络活力。",
+      "outcome": "相关著作经阿拉伯语和拉丁语等传播，长期影响医学教育与哲学。",
+      "personIds": [
+        "wp-ibnsina"
+      ],
+      "sourceIds": [
+        "ws6-islam"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-seljuk",
+      "title": "塞尔柱扩展与曼齐刻尔特",
+      "start": 1040,
+      "end": 1071,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-central-medieval"
+      ],
+      "category": "战争与外交",
+      "summary": "塞尔柱在伊朗及西亚崛起，1071年击败拜占庭军队，突厥人进入安纳托利亚。",
+      "importance": "游牧军事集团与既有城市官僚、宗教制度相结合，改写西亚力量关系。",
+      "outcome": "安纳托利亚长期政治与人口变化加快，也构成十字军兴起的背景之一。",
+      "personIds": [
+        "wp-alparslan"
+      ],
+      "sourceIds": [
+        "ws6-seljuk"
+      ],
+      "note": "一次战役不能单独解释之后数世纪全部人口和文化变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-saladin",
+      "title": "萨拉丁与耶路撒冷争夺",
+      "start": 1187,
+      "end": 1192,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-caliphates"
+      ],
+      "category": "战争与外交",
+      "summary": "萨拉丁在哈丁胜利后夺回耶路撒冷，随后与第三次十字军交战并议和。",
+      "importance": "区域整合、宗教动员和外交共同塑造战争结果。",
+      "outcome": "十字军政权与穆斯林势力长期并存竞争，贸易与接触并未停止。",
+      "personIds": [
+        "wp-saladin"
+      ],
+      "sourceIds": [
+        "ws6-crusades"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-baghdad1258",
+      "title": "蒙古攻陷巴格达",
+      "start": 1258,
+      "end": 1258,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-central-medieval",
+        "w-caliphates"
+      ],
+      "category": "战争与外交",
+      "summary": "旭烈兀军队攻陷巴格达，终结当地阿拔斯哈里发统治并造成严重破坏。",
+      "importance": "事件是政治秩序的重要断裂，但不能概括为整个伊斯兰知识文化从此消失。",
+      "outcome": "伊儿汗国等新中心发展，学术与艺术在多地区重新组织。",
+      "personIds": [
+        "wp-hulegu"
+      ],
+      "sourceIds": [
+        "ws6-ottomans"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-timur",
+      "title": "帖木儿征服与撒马尔罕",
+      "start": 1370,
+      "end": 1405,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-central-medieval"
+      ],
+      "category": "建国与转折",
+      "summary": "帖木儿以河中为中心征战西亚、南亚和安纳托利亚，并集中工匠营建都城。",
+      "importance": "征服造成巨大破坏，也使人口、技术和艺术被强制重新配置。",
+      "outcome": "其后继者维持部分区域文化中心，帝国政治则在分裂中变化。",
+      "personIds": [
+        "wp-timur"
+      ],
+      "sourceIds": [
+        "ws6-ottomans"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-ottoman1453",
+      "title": "奥斯曼攻取君士坦丁堡",
+      "start": 1453,
+      "end": 1453,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-ottoman-safavid",
+        "w-byzantium"
+      ],
+      "category": "建国与转折",
+      "summary": "穆罕默德二世率军攻取君士坦丁堡，拜占庭帝国政治中心陷落。",
+      "importance": "奥斯曼由区域强权进一步转为跨欧亚帝国，城市与海峡地位重新塑造。",
+      "outcome": "伊斯坦布尔成为帝国都城，居民、宗教与城市设施在重建中变化。",
+      "personIds": [
+        "wp-mehmed"
+      ],
+      "sourceIds": [
+        "ws6-ottomans"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-suleiman",
+      "title": "苏莱曼时期的扩展与法律",
+      "start": 1520,
+      "end": 1566,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "category": "制度与改革",
+      "summary": "奥斯曼在中欧、地中海和西亚扩张，并整理帝国法律与财政管理。",
+      "importance": "军事、官僚和多宗教社会管理共同支撑帝国，法律实践具有多层次。",
+      "outcome": "帝国影响达到重要高峰，地方协商及后继改革继续塑造统治。",
+      "personIds": [
+        "wp-suleiman"
+      ],
+      "sourceIds": [
+        "ws6-ottoman2"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-safavid",
+      "title": "萨法维建立与伊朗重组",
+      "start": 1501,
+      "end": 1514,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "category": "建国与转折",
+      "summary": "伊斯玛仪建立萨法维统治，推广十二伊玛目什叶派，并与奥斯曼发生大战。",
+      "importance": "宗教与王权结合重塑伊朗国家认同，但宗教转型经历长期过程。",
+      "outcome": "伊朗与周边形成新的政治宗教格局，1514年战败暴露军事压力。",
+      "personIds": [
+        "wp-ismail"
+      ],
+      "sourceIds": [
+        "ws6-safavid"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-abbas",
+      "title": "阿拔斯一世与伊斯法罕",
+      "start": 1587,
+      "end": 1629,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "category": "社会与经济",
+      "summary": "萨法维调整军政、发展丝绸贸易，并把伊斯法罕营建为王室与商业中心。",
+      "importance": "城市空间、少数群体迁徙和商品网络共同体现帝国资源重组。",
+      "outcome": "宫廷艺术与国际贸易繁荣，同时伴随强制迁徙等社会代价。",
+      "personIds": [
+        "wp-abbas"
+      ],
+      "sourceIds": [
+        "ws6-safavid"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-qajar",
+      "title": "卡扎尔王朝与外部压力",
+      "start": 1785,
+      "end": 1905,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-qajar"
+      ],
+      "category": "战争与外交",
+      "summary": "卡扎尔逐步统一伊朗主要地区，随后面对俄国战争、欧洲竞争和特许权压力。",
+      "importance": "王权改革和财政困境与国际力量交织，不能把近代变局只归因于内部衰弱。",
+      "outcome": "领土、税收和外来经济权益引起争议，催生改革与立宪诉求。",
+      "personIds": [
+        "wp-aghakhan"
+      ],
+      "sourceIds": [
+        "wv3-qajar",
+        "ws6-iranconstitution"
+      ],
+      "note": "1785为常用统治起点，1796为正式加冕年，王朝延续到1925。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-tanzimat",
+      "title": "坦志麦特改革与宪政尝试",
+      "start": 1839,
+      "end": 1878,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-ottoman-safavid"
+      ],
+      "category": "制度与改革",
+      "summary": "奥斯曼以诏令、法律、行政和军队改革应对内部与外部危机，1876年颁布宪法。",
+      "importance": "中央集权、平等臣民理念和财政压力并存，改革并非单向复制欧洲。",
+      "outcome": "制度与公共政治改变，议会于1878年被停，宪政后来再次恢复。",
+      "personIds": [
+        "wp-abdulmecid"
+      ],
+      "sourceIds": [
+        "ws6-tanzimat"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-iran1906",
+      "title": "伊朗立宪革命与议会",
+      "start": 1905,
+      "end": 1911,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-qajar"
+      ],
+      "category": "制度与改革",
+      "summary": "商人、宗教人士和改革群体抗议专断与外来控制，推动1906年宪法及议会。",
+      "importance": "不同社会力量尝试以法律限制王权，重写税收、代表和政治责任关系。",
+      "outcome": "政变与内战反复发生，俄英干预削弱自主，议会传统仍留下深远影响。",
+      "personIds": [
+        "wp-sattarkhan"
+      ],
+      "sourceIds": [
+        "ws6-iranconstitution"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-minoan",
+      "title": "克里特宫殿与爱琴海贸易",
+      "start": -2000,
+      "end": -1450,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-aegean-bronze"
+      ],
+      "category": "社会与经济",
+      "summary": "克里特岛形成宫殿、仓储和工艺网络，并与爱琴海及东地中海社会交往。",
+      "importance": "宫殿不仅是建筑，也是观察资源分配、礼仪和海上联系的入口。",
+      "outcome": "不同中心经历毁坏与重建，后来迈锡尼势力及希腊语文书出现。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-minoa"
+      ],
+      "note": "米诺斯是考古命名，不能直接等同一个已知统一民族国家。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前2000年—公元前1450年"
+    },
+    {
+      "id": "we-mycenaean",
+      "title": "迈锡尼宫殿体系与青铜时代转折",
+      "start": -1600,
+      "end": -1100,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-aegean-bronze"
+      ],
+      "category": "建国与转折",
+      "summary": "希腊大陆的宫殿中心用线形文字B记录资源，后在多重危机中逐渐瓦解。",
+      "importance": "文书证明早期希腊语行政传统，宫殿崩溃则显示复杂社会的脆弱性。",
+      "outcome": "政治与聚落格局改变，后续希腊城邦世界经历长时期重组。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-mycenae"
+      ],
+      "note": "崩溃原因涉及多种解释，不以一次特洛伊战争替代考古过程。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前1600年—公元前1100年"
+    },
+    {
+      "id": "we-greek-polis",
+      "title": "希腊城邦、字母与殖民聚落",
+      "start": -800,
+      "end": -500,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-greek-world"
+      ],
+      "category": "社会与经济",
+      "summary": "多个独立城邦在爱琴海兴起，并向地中海和黑海建立聚落、发展贸易。",
+      "importance": "共同语言与祭祀不等于政治统一，制度实验在分散社会中展开。",
+      "outcome": "字母书写、市场和公民组织发展，为古典时期的政治文化提供条件。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前800年—公元前500年"
+    },
+    {
+      "id": "we-athens",
+      "title": "雅典改革与有限公民政治",
+      "start": -594,
+      "end": -461,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-greek-world",
+        "classical"
+      ],
+      "category": "制度与改革",
+      "summary": "梭伦、克里斯提尼等改革债务、部落和议事机构，公民参与逐步扩大。",
+      "importance": "政治资格可以通过制度重构，但当时参与者限于男性公民。",
+      "outcome": "雅典民主发展，妇女、奴隶和外邦居民仍被排除在主要政治权利之外。",
+      "personIds": [
+        "wp-solon",
+        "wp-cleisthenes",
+        "wp-pericles"
+      ],
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-persianwars",
+      "title": "希波战争",
+      "start": -499,
+      "end": -449,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-greek-world",
+        "w-achaemenid"
+      ],
+      "category": "战争与外交",
+      "summary": "希腊城邦与波斯帝国多次交战，马拉松、萨拉米斯等战役改变爱琴海局势。",
+      "importance": "部分城邦通过联盟维持自主，也在战后竞争海上资源与领导权。",
+      "outcome": "雅典同盟势力增强，波斯仍是强国，双方影响并未因一次战败消失。",
+      "personIds": [
+        "wp-themistocles",
+        "wp-darius"
+      ],
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-peloponnesian",
+      "title": "伯罗奔尼撒战争",
+      "start": -431,
+      "end": -404,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-greek-world",
+        "classical"
+      ],
+      "category": "战争与外交",
+      "summary": "雅典与斯巴达联盟长期交战，财政、瘟疫和盟友关系影响战争进程。",
+      "importance": "城邦自治和同盟霸权存在冲突，内战消耗希腊世界的资源。",
+      "outcome": "雅典战败，斯巴达优势也不长久，后续多强竞争持续。",
+      "personIds": [
+        "wp-pericles",
+        "wp-thucydides"
+      ],
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-greek-philosophy",
+      "title": "苏格拉底、柏拉图与亚里士多德",
+      "start": -430,
+      "end": -322,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-greek-world",
+        "classical"
+      ],
+      "category": "思想与文化",
+      "summary": "哲学家通过问答、学园与著述讨论伦理、知识、政治和自然。",
+      "importance": "理性论证进入公共与学术生活，问题和方法比个人结论更具持续影响。",
+      "outcome": "不同学派经希腊化、伊斯兰和拉丁学术网络不断解释与改造。",
+      "personIds": [
+        "wp-socrates",
+        "wp-plato",
+        "wp-aristotle"
+      ],
+      "sourceIds": [
+        "ws6-greece"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-alexander",
+      "title": "亚历山大征服与希腊化诸国",
+      "start": -334,
+      "end": -281,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-greek-world",
+        "hellenism",
+        "w-seleucid-parthia"
+      ],
+      "category": "建国与转折",
+      "summary": "马其顿军队征服波斯后，亚历山大去世，其继承者建立多个相互竞争的王国。",
+      "importance": "大规模人口和权力重组推动文化接触，也伴随战争与强制统治。",
+      "outcome": "希腊语城市、地方传统与新宫廷交错，形成多中心的希腊化世界。",
+      "personIds": [
+        "alexander"
+      ],
+      "sourceIds": [
+        "ws6-persia",
+        "ws6-greece"
+      ],
+      "note": "前334—323为主要远征，前323以后是继业者竞争，不是同一人的活动。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-roman-republic",
+      "title": "罗马共和国与地中海扩张",
+      "start": -509,
+      "end": -146,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "category": "建国与转折",
+      "summary": "罗马从意大利城邦发展为共和国，通过联盟和战争控制意大利及更广地区。",
+      "importance": "军役、公民身份与精英政治相联系，扩张改变财富、奴隶劳动和地方关系。",
+      "outcome": "地中海权力向罗马集中，共和制度也因资源分配和军事竞争承压。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-republic"
+      ],
+      "note": "前509为传统共和国起始年代，早期叙事带有后世重构成分。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-punic",
+      "title": "布匿战争与迦太基覆亡",
+      "start": -264,
+      "end": -146,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "category": "战争与外交",
+      "summary": "罗马与迦太基围绕地中海西部霸权三次交战，汉尼拔曾远征意大利。",
+      "importance": "控制海路、盟友和补给比个别战术胜负更影响长期结果。",
+      "outcome": "罗马取得西地中海优势，迦太基被毁，征服与奴役规模扩大。",
+      "personIds": [
+        "wp-hannibal",
+        "wp-scipio"
+      ],
+      "sourceIds": [
+        "ws6-republic"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-caesar",
+      "title": "罗马内战与恺撒遇刺",
+      "start": -49,
+      "end": -44,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "category": "建国与转折",
+      "summary": "恺撒率军进入意大利，与共和精英及对手交战，取得独裁权后遇刺。",
+      "importance": "个人军队、财富和政治竞争使共和国协调机制失灵。",
+      "outcome": "刺杀未能恢复旧秩序，继承者战争最终为帝制形成铺路。",
+      "personIds": [
+        "wp-caesar"
+      ],
+      "sourceIds": [
+        "ws6-republic"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-augustus",
+      "title": "奥古斯都与元首制",
+      "start": -31,
+      "end": 14,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "category": "制度与改革",
+      "summary": "屋大维在内战中获胜，前27年获奥古斯都称号，在共和名义下集中军政权力。",
+      "importance": "新制度保留传统外观又改变实际权力分配，使长期内战后的统治重新稳定。",
+      "outcome": "罗马帝制形成，行省、城市和交通网络进一步发展。",
+      "personIds": [
+        "wp-augustus"
+      ],
+      "sourceIds": [
+        "ws6-augustus",
+        "wv3-rome"
+      ],
+      "note": "前31为亚克兴胜利，前27为称号和制度转折，14为其去世。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-rome-flourish",
+      "title": "罗马道路、城市与行省社会",
+      "start": 14,
+      "end": 180,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "category": "社会与经济",
+      "summary": "帝国在道路、港口、城市及地方精英合作基础上管理广泛地区。",
+      "importance": "统一政治空间促进商品与人员流动，但各地法律身份和生活差异明显。",
+      "outcome": "城市文化传播，奴役、征税和军费负担也构成帝国社会的一部分。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-augustus",
+        "wv3-rome"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-constantine",
+      "title": "君士坦丁与帝国东移",
+      "start": 313,
+      "end": 330,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman",
+        "w-byzantium"
+      ],
+      "category": "制度与改革",
+      "summary": "基督教获得合法地位，君士坦丁重建拜占庭城为新的帝国中心。",
+      "importance": "宗教与皇权关系改变，东部经济交通优势在政治布局中更突出。",
+      "outcome": "君士坦丁堡长期发展，基督教化仍经历多代政策和社会变化。",
+      "personIds": [
+        "wp-constantine"
+      ],
+      "sourceIds": [
+        "ws6-late-rome"
+      ],
+      "note": "313并非基督教定为国教的年份；330为新都正式启用。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-rome476",
+      "title": "西罗马皇权终结与后罗马诸国",
+      "start": 410,
+      "end": 476,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman",
+        "w-europe-medieval"
+      ],
+      "category": "建国与转折",
+      "summary": "西部帝国在军队、财政与地方权力危机中衰弱，476年末代西部皇帝被废。",
+      "importance": "帝国政治框架断裂不等于罗马社会、法律和城市生活一夜消失。",
+      "outcome": "西欧形成多种后继王国，东部罗马帝国继续延续。",
+      "personIds": [
+        "wp-odoacer"
+      ],
+      "sourceIds": [
+        "ws6-late-rome"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-justinian",
+      "title": "查士丁尼法典与帝国重建",
+      "start": 527,
+      "end": 565,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-byzantium"
+      ],
+      "category": "制度与改革",
+      "summary": "查士丁尼组织法律编纂、营建圣索菲亚大教堂，并发动地中海西部战争。",
+      "importance": "法律整理影响后世法学，重建帝国的战争也消耗财政和人口。",
+      "outcome": "东罗马获得部分旧地，瘟疫、战争和地方治理仍造成持续压力。",
+      "personIds": [
+        "wp-justinian",
+        "wp-theodora"
+      ],
+      "sourceIds": [
+        "ws6-byzpersia"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-charlemagne",
+      "title": "查理曼与加洛林秩序",
+      "start": 768,
+      "end": 814,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "category": "建国与转折",
+      "summary": "法兰克统治者扩张领地，整合教会及地方精英，800年在罗马加冕为皇帝。",
+      "importance": "新帝国观念把王权、拉丁基督教与教育复兴结合。",
+      "outcome": "王朝后分裂，政治、书写与宗教制度的遗产仍长期存在。",
+      "personIds": [
+        "wp-charlemagne"
+      ],
+      "sourceIds": [
+        "ws6-medieval"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-medieval-towns",
+      "title": "中世纪城市、行会与大学",
+      "start": 1000,
+      "end": 1300,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "category": "社会与经济",
+      "summary": "农业和贸易扩展带动城市、行业组织及大学形成，教会与世俗权力相互交涉。",
+      "importance": "中世纪社会不仅是封建庄园，商人、工匠和学者也创造新的组织空间。",
+      "outcome": "法律、教育和市民自治传统发展，但社会等级和排斥并未消失。",
+      "personIds": [
+        "wp-aquinas"
+      ],
+      "sourceIds": [
+        "ws6-medieval"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-crusades",
+      "title": "十字军运动",
+      "start": 1095,
+      "end": 1291,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-medieval",
+        "w-caliphates"
+      ],
+      "category": "战争与外交",
+      "summary": "教皇动员与贵族、民众诉求结合，拉丁基督教军队进入东地中海并建立政权。",
+      "importance": "宗教、土地、政治和商业利益交织，战争也使犹太人与当地居民遭受暴力。",
+      "outcome": "长期冲突与贸易交流并存，1291并不代表所有十字军活动从此结束。",
+      "personIds": [
+        "wp-urban2",
+        "wp-saladin"
+      ],
+      "sourceIds": [
+        "ws6-crusades"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-magna",
+      "title": "大宪章与王权约束",
+      "start": 1215,
+      "end": 1215,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "category": "制度与改革",
+      "summary": "英王约翰在与贵族的冲突中接受宪章，对税收、司法和王权行为作出约束。",
+      "importance": "宪章提出王权须受既有法律约束，最初主要保障特定阶层权益。",
+      "outcome": "文本多次重颁、重释，后来成为议会及法治传统的重要资源。",
+      "personIds": [
+        "wp-john"
+      ],
+      "sourceIds": [
+        "ws6-magna"
+      ],
+      "note": "不把1215年的贵族权利文件直接等同现代普遍民主。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-blackdeath",
+      "title": "黑死病与社会重组",
+      "start": 1347,
+      "end": 1353,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "category": "社会与经济",
+      "summary": "瘟疫沿交通网络进入欧洲多地，造成严重死亡和城市、乡村生活中断。",
+      "importance": "劳动力、土地和权力关系受到冲击，疾病与社会结构密切相连。",
+      "outcome": "工资、租佃和宗教生活改变，各地反应不同，并伴随迫害等暴力。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-plague"
+      ],
+      "note": "欧洲常用1347—1353范围，不等于欧亚全部疫病仅在此期间发生。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-renaissance",
+      "title": "文艺复兴与人文主义",
+      "start": 1350,
+      "end": 1600,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "思想与文化",
+      "summary": "意大利及欧洲多地重新研究古典文本，发展写实艺术、城市赞助与人文教育。",
+      "importance": "知识与艺术在商人、宫廷、教会和工匠之间流动，展现新的观看与表达方式。",
+      "outcome": "文学、绘画和建筑发生深刻变化，各地时间与风格并不一致。",
+      "personIds": [
+        "wp-leonardo",
+        "wp-michelangelo",
+        "wp-erasmus"
+      ],
+      "sourceIds": [
+        "ws6-renaissance",
+        "ws6-renaissanceart"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-printing-europe",
+      "title": "欧洲金属活字印刷扩展",
+      "start": 1450,
+      "end": 1500,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "思想与文化",
+      "summary": "古腾堡等人的金属活字、压印和油墨工艺结合，印本在欧洲城市迅速扩展。",
+      "importance": "复制成本和传播规模改变，为宗教、学术及政治争论提供新的媒介。",
+      "outcome": "书业、读者和文本标准化发展，但手抄本与其他印刷传统仍继续。",
+      "personIds": [
+        "wp-gutenberg"
+      ],
+      "sourceIds": [
+        "ws6-renaissance"
+      ],
+      "note": "仅指欧洲技术发展，不称为世界最早活字；东亚已有更早传统。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-reformation",
+      "title": "宗教改革与教会分裂",
+      "start": 1517,
+      "end": 1555,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "思想与文化",
+      "summary": "路德等人批评教会权威和赎罪券，引发信仰、政治与地方社会的广泛变动。",
+      "importance": "印刷、君主利益与宗教诉求共同推动拉丁基督教世界分裂。",
+      "outcome": "新教教会发展，天主教也展开改革，宗教战争与迫害长期持续。",
+      "personIds": [
+        "wp-luther",
+        "wp-calvin"
+      ],
+      "sourceIds": [
+        "ws6-reformation"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-science",
+      "title": "科学革命与新的自然解释",
+      "start": 1543,
+      "end": 1687,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "思想与文化",
+      "summary": "日心说、望远镜观察、实验及数学理论逐步改变天文和力学研究。",
+      "importance": "观察与计算成为论证核心，知识也依赖仪器、出版与跨地区传统。",
+      "outcome": "牛顿等建立系统理论，旧观念与新方法并非在某一年整齐替换。",
+      "personIds": [
+        "wp-copernicus",
+        "wp-galileo",
+        "wp-newton"
+      ],
+      "sourceIds": [
+        "ws6-astronomy",
+        "ws6-enlighten"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-englishcivil",
+      "title": "英伦内战与共和国实验",
+      "start": 1642,
+      "end": 1660,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "建国与转折",
+      "summary": "君主与议会围绕财政、宗教和权力冲突，查理一世被处决，后经历共和国与护国政体。",
+      "importance": "战争使君权合法性、代表与宗教自由受到激烈争论，也给多地造成暴力。",
+      "outcome": "1660年王政复辟，但旧的绝对王权关系难以简单恢复。",
+      "personIds": [
+        "wp-cromwell"
+      ],
+      "sourceIds": [
+        "ws6-civilwar"
+      ],
+      "note": "三王国冲突开端可追溯到1638；本条以英格兰1642年内战为展示起点。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-westphalia",
+      "title": "三十年战争与威斯特伐利亚和约",
+      "start": 1618,
+      "end": 1648,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "战争与外交",
+      "summary": "中欧宗教与王朝冲突扩大为多国战争，和平谈判重整领地、宗教和外交关系。",
+      "importance": "大规模战争暴露宗教、王朝与国家利益的纠缠，和约依靠长期谈判形成。",
+      "outcome": "神圣罗马帝国内部安排和欧洲均势调整，不能把现代主权国家归于一纸和约。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-reformation",
+        "ws6-nation"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-rights1689",
+      "title": "光荣革命与权利法案",
+      "start": 1688,
+      "end": 1689,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "制度与改革",
+      "summary": "詹姆斯二世被取代，议会以权利法案约束王权、税收及议会事务。",
+      "importance": "统治权须通过法律与议会协商，逐步强化议会地位。",
+      "outcome": "君主立宪继续发展，投票权仍受财产、性别和宗教等限制。",
+      "personIds": [
+        "wp-william3"
+      ],
+      "sourceIds": [
+        "ws6-rights"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-peter",
+      "title": "彼得一世改革与俄国帝国",
+      "start": 1682,
+      "end": 1725,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "制度与改革",
+      "summary": "俄国改革军队、官僚和对外贸易，在北方战争后取得波罗的海重要地位。",
+      "importance": "国家主导改革加深欧洲联系，也扩大赋税、征兵与强制动员。",
+      "outcome": "圣彼得堡成为新都，俄国作为大国进入欧洲均势体系。",
+      "personIds": [
+        "wp-peter"
+      ],
+      "sourceIds": [
+        "ws6-peterrussia",
+        "ws6-peterreforms"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-englightenment",
+      "title": "启蒙运动与公共论辩",
+      "start": 1689,
+      "end": 1789,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern"
+      ],
+      "category": "思想与文化",
+      "summary": "作家和哲学家围绕知识、权力、宗教、经济与权利展开公共讨论。",
+      "importance": "理性批评、出版和社交空间使政治秩序被视为可解释、可改变。",
+      "outcome": "思想影响改革与革命，但不同作者对平等、殖民和女性权利看法不一。",
+      "personIds": [
+        "wp-locke",
+        "wp-montesquieu",
+        "wp-voltaire",
+        "wp-rousseau"
+      ],
+      "sourceIds": [
+        "ws6-enlighten"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-industrial",
+      "title": "第一次工业革命",
+      "start": 1760,
+      "end": 1850,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "社会与经济",
+      "summary": "英国率先将机械、工厂和煤蒸汽动力结合，纺织、矿冶与交通相继变化。",
+      "importance": "生产组织与能源基础改变，工人、资本和全球原料网络重新连接。",
+      "outcome": "城市化与生产力增长加快，也造成劳动、环境和殖民经济的新矛盾。",
+      "personIds": [
+        "wp-watt"
+      ],
+      "sourceIds": [
+        "ws6-industrial1"
+      ],
+      "note": "起止为概括范围，行业和国家进程各异；不以一个发明代表全部工业化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-french-revolution",
+      "title": "法国大革命",
+      "start": 1789,
+      "end": 1799,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-early-modern",
+        "w-europe-industrial"
+      ],
+      "category": "建国与转折",
+      "summary": "财政危机、等级冲突与民众动员引发革命，法国由君主制转为共和国并经历恐怖统治。",
+      "importance": "人民主权、权利和平等法律地位受到广泛讨论，政治参与与暴力同时扩大。",
+      "outcome": "旧特权秩序受重创，革命战争和社会变动为拿破仑崛起提供条件。",
+      "personIds": [
+        "wp-louis16",
+        "wp-robespierre",
+        "wp-degouges"
+      ],
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-napoleon",
+      "title": "拿破仑帝国与欧洲战争",
+      "start": 1799,
+      "end": 1815,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "战争与外交",
+      "summary": "拿破仑夺权、称帝，以战争扩大支配，并推进民法和行政改革。",
+      "importance": "革命部分制度成果与个人专制、征服战争结合，影响超出法国。",
+      "outcome": "帝国因多线战争失败，1815年后欧洲重建均势，许多改革遗产仍在。",
+      "personIds": [
+        "wp-napoleon"
+      ],
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-vienna",
+      "title": "维也纳会议与保守秩序",
+      "start": 1814,
+      "end": 1815,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "制度与改革",
+      "summary": "战胜拿破仑的强国通过谈判重划政治安排，试图恢复王朝合法性与均势。",
+      "importance": "外交协调成为避免全面战争的重要手段，也压制民族和自由主义诉求。",
+      "outcome": "强国合作一度维持秩序，但不能消除社会变动和革命压力。",
+      "personIds": [
+        "wp-metternich"
+      ],
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-revolution1848",
+      "title": "1848年革命与社会主义思想",
+      "start": 1848,
+      "end": 1849,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "建国与转折",
+      "summary": "经济困境与政治不满引发多国革命，《共产党宣言》在同一时期发表。",
+      "importance": "自由主义、民族运动与工人诉求既相互合作又彼此冲突。",
+      "outcome": "多地革命受挫，国家改革、工人组织及新政治理论继续发展。",
+      "personIds": [
+        "wp-marx",
+        "wp-engels"
+      ],
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "note": "同期发表不等于《宣言》直接指挥或引发各地革命。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-italy",
+      "title": "意大利统一",
+      "start": 1859,
+      "end": 1870,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "建国与转折",
+      "summary": "王国外交、志愿军和地方运动共同推动统一，1861年建王国，1870年并入罗马。",
+      "importance": "统一由多方路线妥协形成，共和理想与君主国家建设并不相同。",
+      "outcome": "半岛政治整合推进，区域差异、社会问题与国家认同继续存在。",
+      "personIds": [
+        "wp-cavour",
+        "wp-garibaldi"
+      ],
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-serfs",
+      "title": "俄国废除农奴制",
+      "start": 1861,
+      "end": 1861,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "制度与改革",
+      "summary": "亚历山大二世颁布解放法令，农奴获得人身自由，土地安排伴随赎买和村社约束。",
+      "importance": "改革改变法律身份，却没有自动解决土地贫乏和地方权力差异。",
+      "outcome": "人口流动与经济变化增强，农村矛盾和改革争论仍长期持续。",
+      "personIds": [
+        "wp-alexander2"
+      ],
+      "sourceIds": [
+        "ws6-labor"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-germany",
+      "title": "德意志统一与普鲁士主导",
+      "start": 1864,
+      "end": 1871,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "建国与转折",
+      "summary": "普鲁士通过对丹麦、奥地利、法国的战争与外交整合多数德意志邦国。",
+      "importance": "民族统一由君主、军队和国家利益主导，未按1848年自由主义蓝图完成。",
+      "outcome": "1871年帝国成立，欧洲力量均势改变，议会制度与皇权并存。",
+      "personIds": [
+        "wp-bismarck"
+      ],
+      "sourceIds": [
+        "ws6-nation",
+        "ws6-laborideas"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-paris1871",
+      "title": "巴黎公社",
+      "start": 1871,
+      "end": 1871,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "建国与转折",
+      "summary": "普法战争和政权危机中，巴黎出现自治革命政权，后被法国政府军镇压。",
+      "importance": "围绕城市自治、劳动和共和国性质的冲突集中爆发。",
+      "outcome": "公社短暂存在却深刻影响工人运动及社会主义论辩。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-laborideas"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-industry2",
+      "title": "第二次工业革命与全球竞争",
+      "start": 1870,
+      "end": 1912,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "社会与经济",
+      "summary": "钢铁、电力、化工和内燃机推动产业扩展，通信、交通与企业组织发生变化。",
+      "importance": "工业化从英国向多国扩展，并加深原料、资本和殖民市场联系。",
+      "outcome": "生产与生活改变，强国竞争、社会改革和环境压力同步增强。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-industrial2"
+      ],
+      "note": "过程延续到1912以后，本条止于展示窗口而非工业革命结束。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-russia1905",
+      "title": "俄国1905年革命",
+      "start": 1905,
+      "end": 1907,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-industrial"
+      ],
+      "category": "建国与转折",
+      "summary": "战争失败、工人罢工和农村不满推动革命，沙皇承诺代表机构后又压制改革。",
+      "importance": "专制、工业社会和土地问题的矛盾同时显现。",
+      "outcome": "国家杜马出现，但权力受限，革命与政治冲突没有就此终结。",
+      "personIds": [
+        "wp-nicholas2"
+      ],
+      "sourceIds": [
+        "ws6-russiacontext"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-egyptmiddle",
+      "title": "埃及中王国的重新整合",
+      "start": -2030,
+      "end": -1650,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-egypt-middle"
+      ],
+      "category": "建国与转折",
+      "summary": "底比斯王权重新整合尼罗河国家，发展地方管理、文学和对南方的联系。",
+      "importance": "中央王权与地方资源协调为埃及政治反复重建提供一个重要阶段。",
+      "outcome": "墓葬、文学及行政遗存丰富，王权后又在地区竞争中分散。",
+      "personIds": [
+        "wp-mentuhotep"
+      ],
+      "sourceIds": [
+        "wv3-egypt-middle"
+      ],
+      "note": "前2030等为常用约数，埃及编年有不同体系。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前2030年—公元前1650年"
+    },
+    {
+      "id": "we-egyptnew",
+      "title": "埃及新王国与对外扩张",
+      "start": -1550,
+      "end": -1290,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-egypt-new"
+      ],
+      "category": "建国与转折",
+      "summary": "王朝重新统一后，埃及向努比亚和黎凡特扩张，建立更广的贡赋与外交网络。",
+      "importance": "帝国王权依赖军队、寺庙和跨区域资源，而非仅靠尼罗河农业。",
+      "outcome": "王室工程和城市繁盛，同时对外战争与祭司资源日益影响政治。",
+      "personIds": [
+        "wp-ahmose",
+        "wp-hatshepsut",
+        "wp-thutmose3"
+      ],
+      "sourceIds": [
+        "ws6-egypt"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前1550年—公元前1290年"
+    },
+    {
+      "id": "we-egyptamarna",
+      "title": "阿玛尔纳宗教改革",
+      "start": -1353,
+      "end": -1336,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-egypt-new"
+      ],
+      "category": "思想与文化",
+      "summary": "阿肯那顿突出阿吞崇拜并迁都阿玛尔纳，王室艺术和传统祭祀发生变化。",
+      "importance": "宗教与王权关系被重新安排，后继者对其记忆的删改也成为历史材料。",
+      "outcome": "改革在其死后被逆转，但遗址与外交泥板留下独特时代切片。",
+      "personIds": [
+        "wp-akhenaten"
+      ],
+      "sourceIds": [
+        "ws6-egypt"
+      ],
+      "note": "在位年有前1353或1351等口径，不把其宗教直接等同后世一神教。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元前1353年—公元前1336年"
+    },
+    {
+      "id": "we-kadesh",
+      "title": "卡迭石之战与埃及赫梯条约",
+      "start": -1274,
+      "end": -1259,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-egypt-new"
+      ],
+      "category": "战争与外交",
+      "summary": "拉美西斯二世与赫梯军队交战，后双方以条约处理安全与外交关系。",
+      "importance": "王室战功宣传与实际战局存在差别，条约显示大国竞争也依靠协商。",
+      "outcome": "埃及与赫梯关系缓和，留下重要的古代外交文书。",
+      "personIds": [
+        "wp-ramesses"
+      ],
+      "sourceIds": [
+        "ws6-egypt"
+      ],
+      "note": "战争常用前1274，条约常用前1259／1258，不是最早人类和平条约的无争议结论。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元前1274年—公元前1259年"
+    },
+    {
+      "id": "we-kush",
+      "title": "库施兴起与第二十五王朝",
+      "start": -800,
+      "end": -656,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-kush"
+      ],
+      "category": "建国与转折",
+      "summary": "努比亚王权在纳帕塔地区发展，并一度向北统治埃及。",
+      "importance": "尼罗河文化交流是双向过程，努比亚社会具有自身政治与宗教传统。",
+      "outcome": "亚述压力迫使其退出埃及，库施王国继续在南方发展。",
+      "personIds": [
+        "wp-piye",
+        "wp-taharqa"
+      ],
+      "sourceIds": [
+        "ws6-kush"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元前800年—公元前656年"
+    },
+    {
+      "id": "we-meroe",
+      "title": "麦罗埃、工艺与罗马交涉",
+      "start": -300,
+      "end": 350,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-kush"
+      ],
+      "category": "社会与经济",
+      "summary": "库施的政治经济重心更多转向麦罗埃，发展建筑、书写、冶金与区域交换。",
+      "importance": "撒哈拉以南与尼罗河、红海相连，本地王国并非地中海历史的附属。",
+      "outcome": "与罗马既有战争也有谈判，后期政治转型不能用一个外敌解释。",
+      "personIds": [
+        "wp-amanirenas"
+      ],
+      "sourceIds": [
+        "ws6-kush"
+      ],
+      "note": "麦罗埃文字尚未完全理解，部分社会制度只能谨慎重建。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前300年—公元350年"
+    },
+    {
+      "id": "we-cleopatra",
+      "title": "托勒密埃及与罗马兼并",
+      "start": -51,
+      "end": -30,
+      "regionId": "africa",
+      "worldEntryIds": [],
+      "category": "建国与转折",
+      "summary": "克娄巴特拉七世在罗马内战中争取王朝地位，最终埃及被屋大维纳入统治。",
+      "importance": "埃及王权危机与地中海帝国竞争相连，不能只写成爱情传奇。",
+      "outcome": "托勒密王朝结束，埃及成为罗马的重要粮食、财政与交通地区。",
+      "personIds": [
+        "wp-cleopatra",
+        "wp-augustus"
+      ],
+      "sourceIds": [
+        "ws6-augustus"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-aksum",
+      "title": "阿克苏姆与红海贸易",
+      "start": 100,
+      "end": 600,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-aksum"
+      ],
+      "category": "社会与经济",
+      "summary": "阿克苏姆依托高地资源和红海港口发展，使用钱币并营建纪念性石碑。",
+      "importance": "非洲之角主动参与地中海、阿拉伯和印度洋之间的交换。",
+      "outcome": "王室采纳基督教，本地文字与宗教传统继续延续。",
+      "personIds": [
+        "wp-ezana"
+      ],
+      "sourceIds": [
+        "ws6-aksum"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元100年—公元600年"
+    },
+    {
+      "id": "we-bantu",
+      "title": "班图语人群迁徙与区域社会",
+      "start": -1000,
+      "end": 1500,
+      "regionId": "africa",
+      "worldEntryIds": [],
+      "category": "社会与经济",
+      "summary": "农耕、冶铁与语言传播伴随多波人口移动，并与各地原住社群互动。",
+      "importance": "非洲社会由长期适应、交流和混合形成，不能把语言直接等同一种固定民族。",
+      "outcome": "中部、东部和南部出现多样生产和政治组织，迁徙并非一条直线。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-bantu"
+      ],
+      "note": "宽时段社会过程，各地起点和路径差异很大；不是一场由某人领导的迁徙。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前1000年—公元1500年"
+    },
+    {
+      "id": "we-ghana",
+      "title": "加纳与跨撒哈拉贸易",
+      "start": 700,
+      "end": 1200,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-sahel"
+      ],
+      "category": "社会与经济",
+      "summary": "西非萨赫勒国家连接黄金、盐与商旅通道，地方王权从贸易及农业获取资源。",
+      "importance": "撒哈拉并非绝对屏障，沙漠交通使不同社会长期相连。",
+      "outcome": "城市和伊斯兰知识网络发展，区域权力后逐渐转向马里等中心。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-africamed",
+        "ws6-sahel"
+      ],
+      "note": "古代加纳中心不在现代加纳国境内，两者不可直接等同。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元700年—公元1200年"
+    },
+    {
+      "id": "we-mali",
+      "title": "马里兴起与曼萨·穆萨朝觐",
+      "start": 1235,
+      "end": 1337,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-sahel"
+      ],
+      "category": "建国与转折",
+      "summary": "马里在萨赫勒政治重组中兴起，曼萨·穆萨朝觐展示王室资源和国际联系。",
+      "importance": "黄金贸易、地方农业与跨撒哈拉交通共同支持王权。",
+      "outcome": "廷巴克图等城镇和学术网络发展，朝觐不能代表全区域居民都富裕。",
+      "personIds": [
+        "wp-sundiata",
+        "wp-musa"
+      ],
+      "sourceIds": [
+        "ws6-africamed",
+        "ws6-sahel"
+      ],
+      "note": "基里纳战役约1235，孙迪亚塔事迹兼有口传和后世记述。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-songhai",
+      "title": "桑海扩张与治理",
+      "start": 1464,
+      "end": 1591,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-sahel"
+      ],
+      "category": "制度与改革",
+      "summary": "桑海以高为中心扩张，逊尼·阿里与阿斯基亚诸王整合城市、军队与税收。",
+      "importance": "西非政治兼有河运、贸易、学术和地方农业多种基础。",
+      "outcome": "1591年摩洛哥军队入侵冲击帝国，城市与知识传统仍继续存在。",
+      "personIds": [
+        "wp-sonniali",
+        "wp-askia"
+      ],
+      "sourceIds": [
+        "ws6-songhai"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-swahili",
+      "title": "斯瓦希里港市与印度洋",
+      "start": 900,
+      "end": 1500,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-swahili"
+      ],
+      "category": "社会与经济",
+      "summary": "东非沿海城市经营本地生产与远洋贸易，形成斯瓦希里语言、石屋和伊斯兰文化。",
+      "importance": "港市由非洲本地社会发展并吸收跨海联系，不能简单视为外来殖民城市。",
+      "outcome": "基尔瓦等中心繁荣，后与葡萄牙、阿曼等力量发生新的竞争。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-swahili"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-zimbabwe",
+      "title": "大津巴布韦的城市与石构建筑",
+      "start": 1100,
+      "end": 1450,
+      "regionId": "africa",
+      "worldEntryIds": [],
+      "category": "社会与经济",
+      "summary": "南部非洲形成大型石构建筑和社会中心，并通过贸易联系印度洋世界。",
+      "importance": "遗存显示非洲本地建筑、牧业与政治组织能力，推翻殖民时代外来建造说。",
+      "outcome": "中心后转移，区域国家与社群继续发展，不能理解为居民全部消失。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-zimbabwe"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元1100年—公元1450年"
+    },
+    {
+      "id": "we-lalibela",
+      "title": "埃塞俄比亚岩石教堂与王权",
+      "start": 1180,
+      "end": 1300,
+      "regionId": "africa",
+      "worldEntryIds": [],
+      "category": "思想与文化",
+      "summary": "高地王国营建大型岩石教堂，塑造圣地景观和宗教生活。",
+      "importance": "非洲基督教传统具有自身语言、工艺与政治背景。",
+      "outcome": "拉利贝拉长期保持礼拜和朝圣功能，是历史遗产也是现实宗教场所。",
+      "personIds": [
+        "wp-lalibela"
+      ],
+      "sourceIds": [
+        "ws6-lalibela"
+      ],
+      "note": "工程主要约十二世纪末至十三世纪，具体建造次序和归属有讨论。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元1180年—公元1300年"
+    },
+    {
+      "id": "we-kongo",
+      "title": "刚果王国与大西洋接触",
+      "start": 1483,
+      "end": 1543,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-kongo"
+      ],
+      "category": "战争与外交",
+      "summary": "刚果与葡萄牙接触后发展外交、基督教和贸易，同时卷入扩张中的奴隶贸易。",
+      "importance": "本地统治者主动选择新制度，也面对外来商人及地方竞争带来的失控。",
+      "outcome": "王权尝试限制人口掠卖，国际联系与社会破坏并存。",
+      "personIds": [
+        "wp-afonso"
+      ],
+      "sourceIds": [
+        "ws6-slavery"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-atlantic-africa",
+      "title": "大西洋奴隶贸易与非洲社会",
+      "start": 1500,
+      "end": 1800,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-kongo",
+        "w-sahel-later"
+      ],
+      "category": "社会与经济",
+      "summary": "欧洲与非洲不同力量参与奴役和跨海贩运，大量被奴役者被强迫运往美洲。",
+      "importance": "把人变成商品的暴力体系影响人口、政治、战争和家庭关系。",
+      "outcome": "非洲社群反抗与适应并存，贸易利益也加深地方冲突和全球不平等。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-slavery"
+      ],
+      "note": "长时段过程不代表非洲各地参与方式相同，奴隶贸易与奴隶制度的终止时间也不同。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-benin",
+      "title": "贝宁王权与铸造艺术",
+      "start": 1400,
+      "end": 1700,
+      "regionId": "africa",
+      "worldEntryIds": [],
+      "category": "思想与文化",
+      "summary": "贝宁宫廷组织黄铜、象牙等工艺，用纪念头像和浮雕表达王权、祖先及礼仪。",
+      "importance": "艺术是政治记忆和社会劳动的物质记录，不能只作脱离语境的装饰。",
+      "outcome": "作品经历1897年殖民劫掠而分散，其出处与返还问题成为后世重要议题。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-benin"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-njinga",
+      "title": "恩津加与中西非殖民竞争",
+      "start": 1624,
+      "end": 1663,
+      "regionId": "africa",
+      "worldEntryIds": [],
+      "category": "战争与外交",
+      "summary": "恩津加在恩东戈、马坦巴的竞争中以外交、战争与联盟应对葡萄牙势力。",
+      "importance": "非洲本地统治者具有策略与自主目标，也身处奴役、战争和资源竞争结构中。",
+      "outcome": "抵抗维持了部分自主空间，但未能终结区域殖民扩张或奴隶贸易。",
+      "personIds": [
+        "wp-njinga"
+      ],
+      "sourceIds": [
+        "ws6-njinga"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-zulu",
+      "title": "祖鲁王国与南部非洲重组",
+      "start": 1816,
+      "end": 1828,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "category": "建国与转折",
+      "summary": "沙卡时期祖鲁军事、年龄组织及王权扩展，南部非洲多地经历冲突和迁徙。",
+      "importance": "地方政治、环境与殖民边境共同作用，不能用单个人解释全部地区动荡。",
+      "outcome": "新的国家和联盟形成，后续又遭遇殖民扩张与更广的战争。",
+      "personIds": [
+        "wp-shaka"
+      ],
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-berlin",
+      "title": "柏林会议与瓜分非洲",
+      "start": 1884,
+      "end": 1885,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "category": "战争与外交",
+      "summary": "欧洲列强在柏林协商非洲殖民竞争规则，未让非洲社会平等参与决定自身命运。",
+      "importance": "会议把征服和有效占领包装为国际规则，并非现场一次画完所有边界。",
+      "outcome": "殖民战争与资源控制加速，非洲各地持续以多种方式抵抗。",
+      "personIds": [
+        "wp-bismarck"
+      ],
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-congo-rubber",
+      "title": "刚果自由邦与强迫劳动",
+      "start": 1885,
+      "end": 1908,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "category": "社会与经济",
+      "summary": "利奥波德二世控制的刚果殖民体系以强迫劳动征集橡胶、象牙，造成严重暴力。",
+      "importance": "全球商品需求与殖民国家权力结合，使劳动和人身控制极端化。",
+      "outcome": "抗议和揭露促成比利时政府1908年接管，但殖民剥削未随之终止。",
+      "personIds": [
+        "wp-leopold"
+      ],
+      "sourceIds": [
+        "ws6-colonial",
+        "ws6-resistance"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-adwa",
+      "title": "阿杜瓦战役与埃塞俄比亚自主",
+      "start": 1896,
+      "end": 1896,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "category": "战争与外交",
+      "summary": "埃塞俄比亚军队在孟尼利克二世、泰图及各地将领动员下击败意大利侵略军。",
+      "importance": "非洲国家以联盟、军事和外交挫败殖民征服，体现本地行动者的能力。",
+      "outcome": "意大利承认埃塞俄比亚独立，胜利成为后世反殖民的重要象征。",
+      "personIds": [
+        "wp-menelik",
+        "wp-taytu"
+      ],
+      "sourceIds": [
+        "ws6-adwa"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-benin1897",
+      "title": "英军攻占贝宁与文物劫掠",
+      "start": 1897,
+      "end": 1897,
+      "regionId": "africa",
+      "worldEntryIds": [
+        "w-africa-colonial"
+      ],
+      "category": "战争与外交",
+      "summary": "英国军队攻占贝宁城，宫殿、库房和院落中的大量艺术品被劫掠并外流。",
+      "importance": "殖民侵略同时破坏政治秩序和文化记忆，博物馆藏品并非天然脱离出处。",
+      "outcome": "贝宁被纳入殖民控制，散失器物及返还讨论持续至当代。",
+      "personIds": [
+        "wp-ovonramwen"
+      ],
+      "sourceIds": [
+        "ws6-benin"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-caral",
+      "title": "卡拉尔—苏佩的城市遗产",
+      "start": -2070,
+      "end": -1800,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-caral"
+      ],
+      "category": "考古与文献",
+      "summary": "安第斯沿海谷地以农业、渔业和交换支持广场、台基与大型聚落。",
+      "importance": "美洲城市发展有自身环境与组织道路，不能用旧大陆王朝模式简单套入。",
+      "outcome": "早期中心后来转变，建筑和生活遗存保留了复杂社会组织的线索。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-caral"
+      ],
+      "note": "文明开端早于本窗口，日期仅覆盖其晚段，不代表前2070才起源。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前2070年—公元前1800年"
+    },
+    {
+      "id": "we-olmec",
+      "title": "奥尔梅克中心与巨石头像",
+      "start": -1200,
+      "end": -400,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-olmec"
+      ],
+      "category": "思想与文化",
+      "summary": "墨西哥湾沿岸中心建造台地、仪式空间并雕刻巨石头像，连接广泛交换网络。",
+      "importance": "精英、工艺和宗教图像可由考古重建，但缺少可确证的统治者姓名。",
+      "outcome": "其艺术与礼仪影响其他社群，不能把所有中美洲文化视为单一起源。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-americanearly"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前1200年—公元前400年"
+    },
+    {
+      "id": "we-teotihuacan",
+      "title": "特奥蒂瓦坎城市与区域网络",
+      "start": -100,
+      "end": 550,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-teotihuacan"
+      ],
+      "category": "社会与经济",
+      "summary": "墨西哥高地出现规划宏大的城市、金字塔和多族群居住区，工艺贸易网络广布。",
+      "importance": "城市组织未必依赖后世熟悉的单一王室，政治结构仍有讨论。",
+      "outcome": "内部冲突与中心衰落改变区域秩序，文化记忆持续影响后来社会。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-americanearly"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前100年—公元550年"
+    },
+    {
+      "id": "we-classicmaya",
+      "title": "玛雅城市、文字与王朝政治",
+      "start": 250,
+      "end": 900,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-maya"
+      ],
+      "category": "思想与文化",
+      "summary": "多个玛雅城市发展文字、历法、建筑和王室纪念，通过战争、婚姻与贸易互动。",
+      "importance": "玛雅不是单一统一帝国，碑铭让许多具名人物和事件进入可考历史。",
+      "outcome": "部分南部城市衰落而其他地区持续发展，玛雅人并未消失。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-americanearly"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元250年—公元900年"
+    },
+    {
+      "id": "we-mayatransform",
+      "title": "玛雅古典晚期转型",
+      "start": 750,
+      "end": 1000,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-maya"
+      ],
+      "category": "建国与转折",
+      "summary": "部分低地城市人口与王权活动减少，战事、环境和资源压力相互作用。",
+      "importance": "所谓崩溃因地区而异，不能用神秘消失替代长期社会变化。",
+      "outcome": "居民迁移或重组，北部等地中心继续繁荣，传统延续至后世。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-americanearly"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元750年—公元1000年"
+    },
+    {
+      "id": "we-cahokia",
+      "title": "卡霍基亚与密西西比城市社会",
+      "start": 1050,
+      "end": 1350,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-cahokia"
+      ],
+      "category": "社会与经济",
+      "summary": "北美密西西比河流域形成大型土丘、广场和密集社群，组织农业、礼仪与交换。",
+      "importance": "北美原住民历史包含复杂城市和区域中心，并非只有流动狩猎生活。",
+      "outcome": "城市后渐趋分散，社群和政治传统继续在不同地方延续。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-cahokia"
+      ],
+      "note": "缺少可确认的具体建城者，不能为土丘强加现代式国家身份。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元1050年—公元1350年"
+    },
+    {
+      "id": "we-triplealliance",
+      "title": "墨西加三方同盟",
+      "start": 1428,
+      "end": 1502,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-aztec"
+      ],
+      "category": "建国与转折",
+      "summary": "特诺奇蒂特兰等三城组成同盟，以军事征服与贡赋组织墨西哥中部权力。",
+      "importance": "同盟维持地方差异也制造贡赋负担，被支配社群有自己的利益。",
+      "outcome": "湖上都城与市场繁荣，地方不满后来影响西班牙征服战争的结盟。",
+      "personIds": [
+        "wp-itzcoatl"
+      ],
+      "sourceIds": [
+        "ws6-americanempires"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-inca",
+      "title": "印加扩张与道路、劳役制度",
+      "start": 1438,
+      "end": 1527,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-inca"
+      ],
+      "category": "制度与改革",
+      "summary": "印加王权从库斯科扩展，通过道路、仓储、结绳与劳役协调安第斯各地。",
+      "importance": "帝国整合高地、海岸和多语言社群，既有再分配也有征服与强制迁徙。",
+      "outcome": "广阔交通行政网络形成，后期继承战争与疫病增加政治危机。",
+      "personIds": [
+        "wp-pachacuti"
+      ],
+      "sourceIds": [
+        "ws6-americanempires"
+      ],
+      "note": "1438为传统王朝转折纪年，早期编年依据较晚记载，精度有限。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元1438年—公元1527年"
+    },
+    {
+      "id": "we-contact1492",
+      "title": "1492年跨大西洋接触",
+      "start": 1492,
+      "end": 1492,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-colonial"
+      ],
+      "category": "战争与外交",
+      "summary": "哥伦布船队抵达加勒比海，欧洲与美洲之间开始持续跨洋联系及殖民侵入。",
+      "importance": "美洲原有丰富社会，事件不是无人大陆被发现，而是不同世界的不平等接触。",
+      "outcome": "物种、疾病与人口流动扩大，殖民征服、奴役和土地剥夺接踵而来。",
+      "personIds": [
+        "wp-columbus"
+      ],
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-columbianexchange",
+      "title": "哥伦布大交换",
+      "start": 1492,
+      "end": 1700,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-colonial"
+      ],
+      "category": "社会与经济",
+      "summary": "动植物、病原体与人口在大西洋两岸持续移动，改变饮食、生态和生产。",
+      "importance": "全球联系影响每个地区，但收益与代价极不均等，原住民死亡尤其严重。",
+      "outcome": "玉米、马铃薯等进入旧大陆，美洲经济和人口结构被深刻重组。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "note": "病亡、战争和强迫劳动共同作用，不用单一死亡比例概括整个美洲。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-conquestmexico",
+      "title": "特诺奇蒂特兰陷落",
+      "start": 1519,
+      "end": 1521,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-aztec",
+        "w-americas-colonial"
+      ],
+      "category": "战争与外交",
+      "summary": "科尔特斯联合多个本地反对墨西加的力量，围攻都城，疫情与战争共同影响结局。",
+      "importance": "征服不是少数欧洲人单独击败整块大陆，本地联盟与翻译沟通至关重要。",
+      "outcome": "墨西加政治中心覆亡，新西班牙殖民秩序形成，原住民社会继续抵抗与适应。",
+      "personIds": [
+        "wp-cortes",
+        "wp-moctezuma",
+        "wp-cuauhtemoc"
+      ],
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-conquestinca",
+      "title": "印加内战与西班牙征服",
+      "start": 1532,
+      "end": 1533,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-inca",
+        "w-americas-colonial"
+      ],
+      "category": "战争与外交",
+      "summary": "印加继承战争后，皮萨罗抓获阿塔瓦尔帕，西班牙及其盟友进入库斯科。",
+      "importance": "帝国内部冲突、疫病、联盟和武器共同作用，王室被俘只是关键节点之一。",
+      "outcome": "殖民控制逐步展开，印加及地方抵抗仍持续多年，并非1533全部结束。",
+      "personIds": [
+        "wp-atahualpa",
+        "wp-pizarro"
+      ],
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-coloniallabor",
+      "title": "殖民矿业、庄园与强迫劳动",
+      "start": 1545,
+      "end": 1800,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-colonial"
+      ],
+      "category": "社会与经济",
+      "summary": "波托西等矿区和庄园体系动员原住民及被奴役非洲人劳动，财富流入全球网络。",
+      "importance": "殖民经济依赖强制、法律身份与世界贸易共同运作。",
+      "outcome": "白银、糖等改变全球商品流通，同时造成巨大劳动伤害和社会等级差异。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-colonialamerica"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-americasslavery",
+      "title": "美洲奴隶制与种植园社会",
+      "start": 1600,
+      "end": 1800,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-colonial"
+      ],
+      "category": "社会与经济",
+      "summary": "大西洋贩奴把大量非洲人强迫运至美洲，种植园依靠暴力控制劳动和家庭。",
+      "importance": "种族化奴隶制成为全球商业利润的重要基础，被奴役者也持续反抗。",
+      "outcome": "非洲侨民文化重组美洲社会，逃亡、起义及废奴斗争不断发展。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-slavery"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-american-revolution",
+      "title": "北美独立战争与建国",
+      "start": 1775,
+      "end": 1783,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "category": "建国与转折",
+      "summary": "十三殖民地围绕税收、代表与自治反抗英国，发表独立宣言并赢得战争。",
+      "importance": "自然权利与政治同意成为新国家名分，但奴隶制和原住民土地剥夺并未消失。",
+      "outcome": "美国成立，邦联和财政困境随后推动制定新宪法。",
+      "personIds": [
+        "wp-washington",
+        "wp-jefferson"
+      ],
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-usconstitution",
+      "title": "美国宪法与联邦政府",
+      "start": 1787,
+      "end": 1789,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "category": "制度与改革",
+      "summary": "制宪会议设计联邦、分权和代表制度，新政府于1789年开始运作。",
+      "importance": "制度回应邦联难题，但对奴隶制、代表比例和社会资格作出妥协。",
+      "outcome": "联邦权力增强，权利边界及州与中央关系继续引发争论。",
+      "personIds": [
+        "wp-madison",
+        "wp-washington"
+      ],
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-haiti",
+      "title": "海地革命与废奴独立",
+      "start": 1791,
+      "end": 1804,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics",
+        "w-americas-colonial"
+      ],
+      "category": "建国与转折",
+      "summary": "圣多明各被奴役者与有色人群发动斗争，在多国干涉中争取解放并建立海地。",
+      "importance": "革命把反奴隶制与反殖民结合，比口号更直接挑战种族化财产秩序。",
+      "outcome": "1804年独立后仍受战争破坏、外交孤立及后来的赔款压力。",
+      "personIds": [
+        "wp-toussaint",
+        "wp-dessalines"
+      ],
+      "sourceIds": [
+        "ws6-revolutions"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-mexico-independence",
+      "title": "墨西哥独立运动",
+      "start": 1810,
+      "end": 1821,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "category": "建国与转折",
+      "summary": "伊达尔戈、莫雷洛斯等发动反殖民动员，后不同政治力量重新结盟实现独立。",
+      "importance": "精英自治与底层社会诉求既有重合，也有土地、种族和权利方面的冲突。",
+      "outcome": "1821年脱离西班牙，国家形态和社会平等问题未随独立同时解决。",
+      "personIds": [
+        "wp-hidalgo",
+        "wp-morelos"
+      ],
+      "sourceIds": [
+        "ws6-mexico"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-southamerica-independence",
+      "title": "南美独立战争",
+      "start": 1810,
+      "end": 1825,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "category": "建国与转折",
+      "summary": "玻利瓦尔、圣马丁等组织多地区战争，并依赖地方居民、士兵和跨境支持。",
+      "importance": "帝国危机提供机会，不同社群对独立、奴隶制和政治代表的目标并不一致。",
+      "outcome": "西班牙失去南美主要殖民地，新共和国仍面对分裂、土地和等级问题。",
+      "personIds": [
+        "wp-bolivar",
+        "wp-sanmartin"
+      ],
+      "sourceIds": [
+        "ws6-southamerica"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-brazil-independence",
+      "title": "巴西独立与帝国延续",
+      "start": 1822,
+      "end": 1825,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "category": "建国与转折",
+      "summary": "葡萄牙王室迁居背景下，佩德罗宣布巴西独立，并以帝国形式维持统治。",
+      "importance": "独立并不必然建立共和国，王朝、地方精英与国际谈判共同塑造结果。",
+      "outcome": "巴西获得独立承认，奴隶制与社会等级却继续维持。",
+      "personIds": [
+        "wp-pedro1"
+      ],
+      "sourceIds": [
+        "ws6-brazil"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-us-civilwar",
+      "title": "美国内战、解放与废奴",
+      "start": 1861,
+      "end": 1865,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "category": "建国与转折",
+      "summary": "奴隶制及国家权力冲突引发内战，黑人逃亡、参军与废奴运动推动解放。",
+      "importance": "战争目标由维护联邦扩展到摧毁奴隶制度，解放并非一人赐予。",
+      "outcome": "联邦获胜，第十三修正案废奴，种族暴力和公民权争斗仍长期存在。",
+      "personIds": [
+        "wp-lincoln",
+        "wp-douglass"
+      ],
+      "sourceIds": [
+        "ws6-emancipation",
+        "ws6-douglass"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-brazil-abolition",
+      "title": "巴西废奴与共和国建立",
+      "start": 1888,
+      "end": 1889,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "category": "制度与改革",
+      "summary": "被奴役者抵抗、废奴组织与政治压力共同推动1888年废奴，翌年帝制被推翻。",
+      "importance": "法律解放与国家体制更替相继发生，却不自动改变土地、财富和种族差异。",
+      "outcome": "巴西成为共和国，原被奴役者仍缺少充分资源与平等机会。",
+      "personIds": [
+        "wp-isabel"
+      ],
+      "sourceIds": [
+        "ws6-labor"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-mexican-revolution",
+      "title": "墨西哥革命的开端",
+      "start": 1910,
+      "end": 1912,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-americas-republics"
+      ],
+      "category": "建国与转折",
+      "summary": "反对迪亚斯长期统治的政治运动与农村土地诉求汇合，马德罗上台后冲突仍持续。",
+      "importance": "革命既争取政治代表，也追问土地与地方权力，不是一次简单换届。",
+      "outcome": "萨帕塔等继续斗争，革命后续和1917年宪法超出本版窗口。",
+      "personIds": [
+        "wp-madero",
+        "wp-zapata"
+      ],
+      "sourceIds": [
+        "ws6-mexicorevolution"
+      ],
+      "note": "本条只呈现1910—1912开端，不把1912当作革命结束。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-aboriginal",
+      "title": "澳大利亚原住民的土地与知识传统",
+      "start": -2070,
+      "end": 1788,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-aboriginal-continuity"
+      ],
+      "category": "思想与文化",
+      "summary": "不同原住民社会以亲属、仪式、季节移动和地方生态知识维持生活与土地关系。",
+      "importance": "长期连续并不等于没有变化，也不能用一种生活方式代表整个大陆。",
+      "outcome": "欧洲殖民进入后传统遭受冲击，社群持续抵抗、适应与传承。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-australia"
+      ],
+      "note": "这是窗口内的长时段过程，不是前2070才出现；更早历史未在此完整展开。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前2070年—公元1788年"
+    },
+    {
+      "id": "we-kuk",
+      "title": "新几内亚高地农业景观",
+      "start": -2070,
+      "end": 1000,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-kuk-farming"
+      ],
+      "category": "考古与文献",
+      "summary": "高地社群长期改造湿地、种植作物并形成适应本地环境的农业知识。",
+      "importance": "农业发展有多个独立中心，不必以欧亚谷物或国家王朝衡量。",
+      "outcome": "景观与作物体系持续变化，为地区人口和社会组织提供基础。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-kuk"
+      ],
+      "note": "库克农业遗存更早，范围仅展示其中一段，不能解释为1000年农业结束。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前2070年—公元1000年"
+    },
+    {
+      "id": "we-lapita",
+      "title": "拉皮塔航海与远洋定居",
+      "start": -1600,
+      "end": -500,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-lapita"
+      ],
+      "category": "社会与经济",
+      "summary": "带有拉皮塔陶器传统的社群将航海、种植和生活技术带入远大洋岛屿。",
+      "importance": "跨海移动需要长期积累的导航和造船能力，不是偶然漂流的单一故事。",
+      "outcome": "岛际交换与地区分化发展，为后续波利尼西亚等社会提供背景。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-lapita",
+        "wv3-lapita-art"
+      ],
+      "note": "拉皮塔是考古文化名称，不是已知单一国家或固定民族。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元前1600年—公元前500年"
+    },
+    {
+      "id": "we-polynesian",
+      "title": "波利尼西亚远航与岛屿社会",
+      "start": 1000,
+      "end": 1300,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-polynesian-landscape"
+      ],
+      "category": "社会与经济",
+      "summary": "航海者继续进入东波利尼西亚更远岛屿，发展各自的聚落、生产和礼仪网络。",
+      "importance": "海洋是联系通道，星象、风浪和鸟类等知识支持主动探索。",
+      "outcome": "各岛形成有差异的政治与文化传统，移居年代仍随研究调整。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-nz"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元1000年—公元1300年"
+    },
+    {
+      "id": "we-maori-settle",
+      "title": "毛利先民定居奥特亚罗瓦",
+      "start": 1250,
+      "end": 1300,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-maori"
+      ],
+      "category": "建国与转折",
+      "summary": "东波利尼西亚航海者抵达并定居今日新西兰，适应气候和新的动植物环境。",
+      "importance": "这是远洋导航及环境适应的重要过程，口传谱系与考古证据需分别理解。",
+      "outcome": "地方社群、农业和资源利用变化，逐渐形成毛利文化传统。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-nz"
+      ],
+      "note": "采用约1250—1300范围，传统库佩故事不能直接换算成单一确年。",
+      "coreEntry": true,
+      "kind": "event",
+      "dateLabel": "约公元1250年—公元1300年"
+    },
+    {
+      "id": "we-taputapuatea",
+      "title": "塔普塔普阿泰阿与岛际礼仪",
+      "start": 1400,
+      "end": 1800,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-polynesian-landscape"
+      ],
+      "category": "思想与文化",
+      "summary": "赖阿特阿的祭仪景观连接多个岛屿的航海、宗教和政治网络。",
+      "importance": "历史场所同时保存地方社群与远方联系的记忆。",
+      "outcome": "跨海接触改变其环境，圣地文化与后世保护仍延续。",
+      "personIds": [],
+      "sourceIds": [
+        "wv3-taputapuatea"
+      ],
+      "note": "此条为约略活跃范围，建筑形成和使用存在多个阶段。",
+      "coreEntry": true,
+      "kind": "process",
+      "dateLabel": "约公元1400年—公元1800年"
+    },
+    {
+      "id": "we-tasman",
+      "title": "塔斯曼航行与早期欧洲接触",
+      "start": 1642,
+      "end": 1643,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-oceania-contact",
+        "w-maori"
+      ],
+      "category": "战争与外交",
+      "summary": "荷兰船队记录塔斯马尼亚、新西兰及部分太平洋岛屿，接触中也发生暴力冲突。",
+      "importance": "欧洲地图知识扩展并不等于首次有人抵达这些有人居住的土地。",
+      "outcome": "后续远航与殖民逐步增加，不同社群对来者的应对各不相同。",
+      "personIds": [
+        "wp-tasman"
+      ],
+      "sourceIds": [
+        "wv3-nz"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-cook",
+      "title": "库克、图帕亚与太平洋航行",
+      "start": 1769,
+      "end": 1779,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-oceania-contact",
+        "w-polynesian-landscape"
+      ],
+      "category": "战争与外交",
+      "summary": "库克船队多次航行太平洋，依赖图帕亚等人的本地导航与语言知识。",
+      "importance": "科学观测与帝国考察相伴，航行成果由多种知识系统共同促成。",
+      "outcome": "欧洲记录与领土声索增加，接触也带来疾病、冲突和社会变化。",
+      "personIds": [
+        "wp-cook",
+        "wp-tupaia"
+      ],
+      "sourceIds": [
+        "ws6-tupaia",
+        "wv3-nz"
+      ],
+      "note": "本条从1769年太平洋阶段展示；不称库克发现本已有人居住的岛屿。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-firstfleet",
+      "title": "悉尼殖民地与原住民抵抗",
+      "start": 1788,
+      "end": 1802,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "category": "建国与转折",
+      "summary": "英国第一舰队建立流放殖民地，土地占用和疾病改变悉尼地区原住民生活。",
+      "importance": "殖民建城与土地剥夺同时发生，原住民采取交涉、适应和武装抵抗等行动。",
+      "outcome": "殖民地扩张，佩穆尔维等抵抗者遭镇压，土地权问题长期延续。",
+      "personIds": [
+        "wp-phillip",
+        "wp-pemulwuy"
+      ],
+      "sourceIds": [
+        "ws6-firstfleet",
+        "ws6-pemulwuy"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-hawaiiunification",
+      "title": "夏威夷王国整合",
+      "start": 1795,
+      "end": 1810,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-polynesian-landscape"
+      ],
+      "category": "建国与转折",
+      "summary": "卡美哈梅哈通过战争、联盟和外交逐步整合夏威夷主要岛屿。",
+      "importance": "本地统治者主动运用外来物资及地区关系，形成具有自身目标的王国。",
+      "outcome": "统一王权发展，后在贸易、传教和外来资本影响中继续转型。",
+      "personIds": [
+        "wp-kamehameha"
+      ],
+      "sourceIds": [
+        "ws6-kamehameha"
+      ],
+      "note": "1795控制多数岛屿，1810考艾归附，不能把二者合成一次完成。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-waitangi",
+      "title": "怀唐伊条约与主权争议",
+      "start": 1840,
+      "end": 1840,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-maori",
+        "w-oceania-colonial"
+      ],
+      "category": "制度与改革",
+      "summary": "英国代表与多位毛利首领签署条约，英文与毛利文本对权力含义存在重要差异。",
+      "importance": "签署涉及治理、土地和首领权威，不能把条约视为毫无争议的完全放弃主权。",
+      "outcome": "殖民扩张和土地冲突继续，条约后来成为权利申诉与政治关系的重要依据。",
+      "personIds": [
+        "wp-hobson",
+        "wp-honeheke",
+        "wp-tamati"
+      ],
+      "sourceIds": [
+        "wv3-nz-treaty"
+      ],
+      "note": "并非所有首领都签署，两个文本不能视为意义完全相同。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-nzwars",
+      "title": "新西兰战争与土地争夺",
+      "start": 1845,
+      "end": 1872,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-maori",
+        "w-oceania-colonial"
+      ],
+      "category": "战争与外交",
+      "summary": "毛利社群与殖民政府围绕权威、土地交易和军事扩展发生多轮战争。",
+      "importance": "战争不是不可避免的文明进步，而是存在多方策略与土地权诉求的政治冲突。",
+      "outcome": "没收土地与殖民控制加深，毛利抵抗和权利运动持续发展。",
+      "personIds": [
+        "wp-honeheke",
+        "wp-tamati"
+      ],
+      "sourceIds": [
+        "wv3-nz",
+        "ws6-nene"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-pacific-labor",
+      "title": "太平洋种植园与岛民劳工",
+      "start": 1863,
+      "end": 1904,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "category": "社会与经济",
+      "summary": "殖民种植园从太平洋诸岛招募或强行带走劳工，劳动条件与合同常极不平等。",
+      "importance": "工资劳动、债务和绑架可能交织，不能把所有跨岛移动写成自由迁徙。",
+      "outcome": "岛屿人口和家庭受冲击，反对强迫招工的运动促成部分限制。",
+      "personIds": [],
+      "sourceIds": [
+        "ws6-labor"
+      ],
+      "note": "不同殖民地与雇佣方式差异很大，本范围以昆士兰相关劳工体系为主。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-nzsuffrage",
+      "title": "新西兰妇女争取选举权",
+      "start": 1887,
+      "end": 1893,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "category": "制度与改革",
+      "summary": "凯特·谢泼德等组织请愿和公共倡议，推动1893年女性获得议会选举投票权。",
+      "importance": "公民资格可以经长期组织和政治协商改变，不是自动出现的现代化成果。",
+      "outcome": "新西兰成为首个赋予女性议会投票权的自治国家，参选权则后来才取得。",
+      "personIds": [
+        "wp-sheppard"
+      ],
+      "sourceIds": [
+        "ws6-nzsuffrage"
+      ],
+      "note": "当时为自治殖民地；1893投票权与1919议会参选权须区分。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-hawaii-overthrow",
+      "title": "夏威夷王国被推翻与吞并",
+      "start": 1893,
+      "end": 1898,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "category": "建国与转折",
+      "summary": "当地政商集团在美国军事力量介入背景下推翻女王，1898年美国正式吞并夏威夷。",
+      "importance": "商业、种植园和帝国扩张损害本地政治自主，居民并非一致支持吞并。",
+      "outcome": "王国独立地位终结，反吞并请愿与文化、政治诉求持续存在。",
+      "personIds": [
+        "wp-liliuokalani"
+      ],
+      "sourceIds": [
+        "ws6-hawaii"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-federation",
+      "title": "澳大利亚联邦成立与排斥政策",
+      "start": 1901,
+      "end": 1902,
+      "regionId": "oceania",
+      "worldEntryIds": [
+        "w-oceania-colonial"
+      ],
+      "category": "制度与改革",
+      "summary": "六个殖民地组成联邦，建立共同政府，并以移民及选举法律界定公民资格。",
+      "importance": "联邦形成扩大政治协调，却与白澳政策和对原住民等群体的排斥并行。",
+      "outcome": "国家机构建立，女性联邦投票权扩展仍存在原住民等排除情况。",
+      "personIds": [
+        "wp-barton"
+      ],
+      "sourceIds": [
+        "ws6-federation",
+        "ws6-barton"
+      ],
+      "note": "1901为联邦成立，1902为联邦选举权法；不能称为对所有居民普遍平等。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-roman-frontiers",
+      "title": "图拉真、哈德良与罗马边疆",
+      "start": 98,
+      "end": 180,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "category": "制度与改革",
+      "summary": "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+      "importance": "扩张与防卫需要不同资源安排，所谓盛世也包含被征服者、军人和地方居民的代价。",
+      "outcome": "帝国整合达到重要阶段，马可·奥勒留时期的战争压力预示长期治理难题。",
+      "personIds": [
+        "wp-trajan",
+        "wp-hadrian",
+        "wp-marcus"
+      ],
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-christianity",
+      "title": "早期基督教的形成与传播",
+      "start": 27,
+      "end": 313,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman"
+      ],
+      "category": "思想与文化",
+      "summary": "耶稣在罗马控制下的犹太地区活动，其追随者后来借城市和旅行网络传播信仰。",
+      "importance": "犹太背景、希腊语世界与罗马政治环境共同塑造新宗教共同体。",
+      "outcome": "保罗等推动跨社群传播，宗教实践多样，合法化前后仍经历长期制度变化。",
+      "personIds": [
+        "wp-jesus",
+        "wp-paul"
+      ],
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "note": "27为约略传教起点，耶稣受难常取30或33年；信仰叙述与可考活动分别理解。",
+      "coreEntry": true,
+      "kind": "process"
+    },
+    {
+      "id": "we-diocletian",
+      "title": "戴克里先改革与四帝共治",
+      "start": 284,
+      "end": 305,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-roman",
+        "w-byzantium"
+      ],
+      "category": "制度与改革",
+      "summary": "军事财政危机后，戴克里先调整统治分工，以两位正帝和两位副帝协调边疆与继承。",
+      "importance": "帝国规模和战争动员要求新的行政安排，但共治也依赖个人合作。",
+      "outcome": "改革强化国家动员，退位后继承冲突再起，为君士坦丁重新集中权力提供背景。",
+      "personIds": [
+        "wp-diocletian"
+      ],
+      "sourceIds": [
+        "ws6-romereligion",
+        "ws6-romeregions",
+        "ws6-late-rome"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-shapur",
+      "title": "沙普尔一世与罗马战争",
+      "start": 241,
+      "end": 272,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-sasanian"
+      ],
+      "category": "战争与外交",
+      "summary": "萨珊与罗马争夺西亚边疆，沙普尔一世在260年埃德萨附近俘虏罗马皇帝瓦勒良。",
+      "importance": "战争表明两大帝国相互制约，边疆城市和地方政权也发挥重要作用。",
+      "outcome": "萨珊王权借碑铭与浮雕展示胜利，边境竞争与文化交流仍持续。",
+      "personIds": [
+        "wp-shapur"
+      ],
+      "sourceIds": [
+        "wv3-sasanian"
+      ],
+      "note": "部分编年以240年起算；260年战俘事件与其完整在位时段区分。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-harsha",
+      "title": "戒日王与北印度政治文化",
+      "start": 606,
+      "end": 647,
+      "regionId": "south-asia",
+      "worldEntryIds": [
+        "w-gupta-regions"
+      ],
+      "category": "制度与改革",
+      "summary": "戒日王在北印度整合地区力量，支持宗教集会和学术，玄奘等留下相关见闻。",
+      "importance": "印度史在大帝国间仍有重要区域王国，政治与宗教赞助并行。",
+      "outcome": "其死后统治分散，寺院和知识网络继续存在，旅行记述也需注意观察者立场。",
+      "personIds": [
+        "wp-harsha"
+      ],
+      "sourceIds": [
+        "ws6-indianocean"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-otto",
+      "title": "奥托一世与帝国秩序重建",
+      "start": 936,
+      "end": 973,
+      "regionId": "europe",
+      "worldEntryIds": [
+        "w-europe-medieval"
+      ],
+      "category": "建国与转折",
+      "summary": "德意志王权协调贵族与教会，奥托955年击败马扎尔军队，962年获皇帝加冕。",
+      "importance": "后加洛林欧洲并非只有碎片化，王权仍借军事和宗教联盟重新组织。",
+      "outcome": "新的帝国传统发展，但君主、地方诸侯和教皇间的关系长期充满竞争。",
+      "personIds": [
+        "wp-otto"
+      ],
+      "sourceIds": [
+        "ws6-medieval"
+      ],
+      "note": "936为成为国王，962为皇帝加冕；不能把之后全部神圣罗马制度倒推到此时。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-ibnbattuta",
+      "title": "伊本·白图泰的跨区域旅行",
+      "start": 1325,
+      "end": 1354,
+      "regionId": "central-west-asia",
+      "worldEntryIds": [
+        "w-central-medieval",
+        "w-delhi-regional"
+      ],
+      "category": "社会与经济",
+      "summary": "摩洛哥旅行者穿行北非、西亚、南亚等地，利用宗教、商旅和宫廷网络获得接待。",
+      "importance": "远行展现多中心世界的交通与制度联系，也保留旅行者个人的选择和偏见。",
+      "outcome": "其口述游记成为重要材料，部分行程须与其他证据交叉核查，不能全作逐日实录。",
+      "personIds": [
+        "wp-ibnbattuta"
+      ],
+      "sourceIds": [
+        "ws6-islamconnections"
+      ],
+      "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+      "coreEntry": true,
+      "kind": "event"
+    },
+    {
+      "id": "we-pakal",
+      "title": "帕卡尔与帕伦克王朝",
+      "start": 615,
+      "end": 683,
+      "regionId": "americas",
+      "worldEntryIds": [
+        "w-maya"
+      ],
+      "category": "思想与文化",
+      "summary": "帕卡尔长期统治帕伦克，王室建筑、铭文和墓葬留下具体政治与礼仪信息。",
+      "importance": "玛雅文字与考古材料可以相互对照，让具名人物重新进入美洲古代史。",
+      "outcome": "铭文神庙及陵墓保存王权记忆，建筑也由继任者继续完成和解释。",
+      "personIds": [
+        "wp-pakal"
+      ],
+      "sourceIds": [
+        "ws6-pakal"
+      ],
+      "note": "615—683为其统治时段，铭文神庙工程不全部完成于其生前。",
+      "coreEntry": true,
+      "kind": "event"
+    }
+  ]
+};

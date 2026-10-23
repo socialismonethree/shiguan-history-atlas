@@ -1,0 +1,124 @@
+/* A reading layer: opened folios, marginal notes, and sequences of evidence. */
+body[data-view=library] .epoch-hero{min-height:230px}
+body[data-view=library] .hero-content{padding:28px 40px 65px}
+body[data-view=library] .hero-content h2{font-size:44px}
+body[data-view=library] .hero-content.long-title h2{font-size:34px}
+body[data-view=library] .hero-topics,body[data-view=library] .hero-actions{display:none}
+.book-window{position:relative;display:grid;grid-template-columns:1.1fr 1fr;border:1px solid #bca16a;margin:32px 0 48px;background:linear-gradient(90deg,#fffdf520 49%,#bca57412 50%,#fffdf530 51%);box-shadow:0 8px 25px #3a2c1210}
+.book-window:before,.book-window:after{content:"";position:absolute;left:10px;right:10px;height:4px;border:1px solid #bba47355;pointer-events:none}
+.book-window:before{top:-5px}.book-window:after{bottom:-5px}
+.book-window-intro{padding:38px;position:relative}
+.book-red-seal{display:inline-block;font:11px/1.5 "Songti SC",serif;letter-spacing:3px;border:1px solid var(--accent);color:var(--accent);padding:4px 7px;position:absolute;right:28px;top:29px;writing-mode:vertical-rl}
+.book-window h2{font:30px/1.65 "Songti SC",serif;letter-spacing:2px;margin:16px 38px 17px 0}
+.book-window p,.book-lead{font-size:13px;line-height:2.1;color:#7f6c4a}
+.book-window-actions{display:flex;gap:15px;align-items:center;flex-wrap:wrap;margin-top:22px}
+.book-window-actions button{font-size:11px;background:transparent;border:0;color:var(--accent);padding:9px 0}
+.book-window-actions .primary{background:var(--deep);color:#e6d2a2;border:1px solid var(--deep);padding:12px 18px}
+.book-window-stops{padding:30px 32px;border-left:1px solid #bca57455;display:flex;flex-direction:column;justify-content:center}
+.book-window-stops>button{display:flex;align-items:center;gap:18px;text-align:left;background:transparent;border:0;border-bottom:1px solid #c5af7f55;padding:13px 4px}
+.book-window-stops>button:hover{background:#b9a37415}
+.book-window-stops i{font:26px Georgia,serif;color:#b09a69;font-style:normal}
+.book-window-stops strong{display:block;font:18px/1.8 "Songti SC",serif;color:var(--deep)}
+.book-window-stops small{font-size:9px;line-height:1.8;color:#a08a5f}
+.book-window-stops b{font-size:13px;font-weight:400;margin-left:auto;color:var(--accent)}
+.book-window-stops .book-window-note{padding-top:17px;font-size:9px}
+.book-filter-row{display:flex;align-items:center;gap:20px;justify-content:space-between;flex-wrap:wrap;margin:25px 0 6px}
+.book-filters{margin:0}.book-filters button{font-size:11px;background:transparent;border-color:#bba471;color:var(--accent)}
+.book-filters button.active{background:var(--deep);color:#e8d3a3;border-color:var(--deep)}
+.book-filter-row .tabs{margin:0;flex-shrink:0}.book-filter-row .tabs button{font-size:10px}
+.book-results{font-size:10px;color:#a08a62;margin:16px 0 20px}
+.book-lens{font-size:12px;border-left:2px solid var(--accent);padding:9px 15px;margin:16px 0;background:var(--wash);color:var(--accent)}
+.book-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:23px;margin-bottom:40px}
+.book-card{display:block;text-align:left;border:1px solid #c3ac7e;background:#fffdf530;padding:0;overflow:hidden;transition:transform .3s,border-color .3s}
+.book-card:hover{transform:translateY(-4px);border-color:var(--accent)}
+.book-card.is-current{border-top:3px solid var(--accent)}
+.book-card-art{height:140px;position:relative;overflow:hidden;background:var(--deep)}
+.book-card-art img{width:100%;height:100%;object-fit:cover;object-position:75% center;transition:transform .5s}
+.book-card:hover img{transform:scale(1.05)}
+.book-card-art:after{content:"";position:absolute;inset:0;background:linear-gradient(0deg,#161a17bb,transparent 70%)}
+.book-card-art>span{position:absolute;bottom:14px;left:20px;z-index:1;color:#ebd8af;font:11px "Songti SC",serif;letter-spacing:1px}
+.book-card-copy{padding:23px}.book-card-copy>small{font-size:9px;line-height:1.9;color:#a38b5b;display:block;min-height:17px}
+.book-card h3{font:22px/1.7 "Songti SC",serif;margin:10px 0;letter-spacing:1px;color:var(--deep)}
+.book-card p{font-size:12px;line-height:2;color:#8b7551;margin:0 0 20px;min-height:46px}
+.book-card-foot{font-size:9px;line-height:2.2;color:#a38b5b;display:flex;justify-content:space-between;border-top:1px solid #bda77a55;padding-top:12px;gap:10px}
+.book-card-foot b{font-weight:400;color:var(--accent);white-space:nowrap}
+.book-bibliography{padding:30px;margin:35px 0}.book-bibliography>p{font-size:12px;line-height:2;color:#8a7551}
+.book-shelf{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:25px 0}
+.book-shelf>button{text-align:left;padding:18px 17px;background:#bb9c6710;border:1px solid #bba47477;border-left:5px solid #b49a68}
+.book-shelf>button:hover{background:var(--wash);border-color:var(--accent)}
+.book-shelf small{font:10px Georgia,serif;letter-spacing:2px;color:#a38b5e;display:block}
+.book-shelf strong{display:block;font:17px/1.8 "Songti SC",serif;margin:8px 0;overflow-wrap:anywhere}
+.book-shelf span,.book-shelf i{display:block;font-size:9px;font-style:normal;color:#9d865c;line-height:2}
+.book-editor-note{display:grid;grid-template-columns:1fr 1fr;gap:25px;border-top:1px solid #b8a16e55;padding-top:15px}
+.book-editor-note p{font-size:11px;line-height:2;color:#937c55}.book-editor-note b{font-weight:400;color:var(--accent)}
+#detail.story-dialog{width:min(1080px,calc(100% - 36px));max-width:1080px;padding:0;background:var(--theme-paper);max-height:92dvh}
+.story-dialog .close{position:sticky;top:14px;right:auto;display:block;margin:14px 16px -46px auto;width:32px;height:32px;z-index:20;background:#201c17ed;color:#efd9ac;border-color:#bda06b}
+.book-story-header{position:relative;min-height:235px;overflow:hidden;background:var(--deep);color:#eadab6}
+.book-story-header>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:75% center;opacity:.5}
+.book-story-header:after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,var(--deep) 8%,transparent 100%)}
+.book-story-header>div{position:relative;z-index:1;padding:35px 45px}
+.book-story-header h2{font:36px/1.6 "Songti SC",serif;letter-spacing:3px;color:#f3e4c2;margin:17px 0 10px}
+.book-story-header p{font-size:13px;line-height:2;color:#d3bc8b;margin:0;max-width:72%}
+.book-story-header .overline{font-size:10px;color:#cfb98a;letter-spacing:1px}
+.book-story-header small{display:block;font-size:8px;color:#b9a275;margin-top:22px}
+.book-story-body{padding:28px 45px 40px}
+.book-story-intro{font-size:15px;line-height:2.2!important;color:#796240;border-bottom:1px solid #bfa57366;padding-bottom:25px;margin:0 0 25px}
+.book-section-heading{display:flex;align-items:center;gap:13px;margin:24px 0 18px}
+.book-section-heading>span{border:1px solid #b99c67;width:25px;height:25px;display:grid;place-items:center;color:var(--accent);font:14px "Songti SC",serif;flex-shrink:0}
+.book-section-heading h3{font:23px "Songti SC",serif;letter-spacing:2px;margin:0}
+.book-section-heading small{font-size:9px;color:#a58c60;margin-left:auto;text-align:right}
+.book-scene-index{display:grid;grid-auto-flow:column;grid-auto-columns:1fr;border:1px solid #b9a16d66}
+.book-scene-index>button{display:flex;gap:10px;text-align:left;padding:15px 16px;border:0;border-right:1px solid #baa16e55;background:transparent;color:#9b8459}
+.book-scene-index>button:last-child{border-right:0}
+.book-scene-index>button.active{background:var(--deep);color:#e9d3a3}
+.book-scene-index i{font:21px Georgia,serif;font-style:normal;opacity:.7}
+.book-scene-index span{font-size:9px;line-height:1.7}
+.book-scene-index strong{display:block;font:14px/1.8 "Songti SC",serif;letter-spacing:.5px;margin-top:3px}
+.book-scene{position:relative;display:flex;gap:25px;min-height:200px;padding:27px 25px 24px;background:linear-gradient(90deg,#b79d6817,transparent);border-bottom:1px solid #b99e6d55;animation:book-ink .4s ease-out}
+.book-scene-number{font:60px/1 Georgia,serif;color:#b59b6855;padding-top:7px}
+.book-scene>div{min-width:0;flex:1}.book-scene .overline{font-size:9px;letter-spacing:1px}
+.book-scene h3{font:26px/1.8 "Songti SC",serif;letter-spacing:2px;margin:10px 0}
+.book-scene p{font-size:14px;line-height:2.2;color:#7c6947;margin:0}
+.book-scene-controls{display:flex;justify-content:space-between;align-items:center;gap:12px;padding:15px 0}
+.book-scene-controls button{font-size:11px;background:transparent;border-color:#bda472;color:var(--accent);white-space:nowrap}
+.book-scene-controls button:disabled{opacity:.35;cursor:default}
+.book-scene-controls span{font-size:9px;color:#a38a5b;text-align:center}
+.book-person-tabs{display:flex;border-bottom:1px solid #bba16b77;gap:15px}
+.book-person-tabs>button{display:grid;grid-template-columns:35px 1fr;grid-template-rows:1fr 1fr;text-align:left;gap:0 11px;padding:14px 20px;border:1px solid transparent;border-bottom:0;background:transparent}
+.book-person-tabs>button.active{background:#b99e681a;border-color:#bba16b77}
+.book-person-tabs span{grid-row:1/3;display:grid;place-items:center;border:1px solid #b89c64;border-radius:50%;width:35px;height:35px;font:20px "Songti SC",serif;color:var(--accent)}
+.book-person-tabs b{font:17px "Songti SC",serif;color:var(--deep)}
+.book-person-tabs small{font-size:9px;color:#9a8154;margin-top:4px}
+.book-person-profile{padding:23px 25px;background:#b69c6610}
+.book-person-profile h4{font:22px "Songti SC",serif;margin:0 0 18px}
+.book-person-profile h4 small{font:10px sans-serif;margin-left:10px;color:#9c8355}
+.book-person-profile p{font-size:12px;line-height:2;color:#89704b;margin:12px 0;display:grid;grid-template-columns:83px 1fr;gap:10px}
+.book-person-profile p b{font-weight:400;font-size:11px;color:var(--accent)}
+.book-person-profile>button,.book-link-groups>div>button{font-size:10px;border:0;border-bottom:1px solid #bba16d;background:transparent;color:var(--accent);padding:5px 0}
+.book-link-groups{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.book-link-groups>div{border:1px solid #bba16d55;padding:20px}
+.book-link-groups h4{font:18px "Songti SC",serif;margin:0 0 14px}
+.book-link-groups p{font-size:11px;line-height:2;color:#8b7551;margin:0 0 12px}
+.book-link-groups .chips{margin:0}.book-link-groups .chips button{font-size:10px;line-height:1.8;background:transparent;border-color:#bea47366;color:var(--accent)}
+.book-evidence{border:1px solid #bfa57377;margin-top:30px;background:#b99d6610;padding:0 22px}
+.book-evidence>summary{font:17px/1.9 "Songti SC",serif;cursor:pointer;padding:17px 0;letter-spacing:1px;color:var(--accent)}
+.book-evidence-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:22px;border-top:1px solid #bda37144;padding-top:5px}
+.book-evidence-grid p{font-size:11px;line-height:2;color:#8b7450}
+.book-evidence-grid b{display:block;font-weight:400;color:var(--accent);margin-bottom:7px}
+.book-references>div{border-top:1px solid #bba16d44;padding:13px 0}
+.book-references button{background:transparent;border:0;padding:0;text-align:left;font:15px/1.8 "Songti SC",serif;color:var(--accent)}
+.book-references button span{font:10px sans-serif;color:#9e8659}
+.book-references p{font-size:11px;line-height:2;margin:7px 0;color:#8a704a}
+.book-references small{font-size:9px;color:#a28b60}
+.book-evidence>.caption{font-size:10px;line-height:2;margin:10px 0 20px}
+.book-related{margin:22px 0;padding:20px;background:#b99d6610;border-left:2px solid #b99d6677}
+.book-related>button{display:block;text-align:left;background:transparent;border:0;padding:14px 0 0;width:100%;color:var(--accent)}
+.book-related strong{font:20px/1.8 "Songti SC",serif;display:block}
+.book-related small,.book-related button>span{display:block;font-size:11px;line-height:2;color:#998057}
+.book-related button>span{margin-top:7px;color:var(--accent)}
+.book-volume-entry{display:block;text-align:left;width:100%;padding:17px 0;border:0;border-bottom:1px solid #bba37166;background:transparent;color:var(--accent)}
+.book-volume-entry strong{display:block;font:20px/1.8 "Songti SC",serif}.book-volume-entry small{font-size:11px;line-height:2;color:#9c8359}
+.period-reading-tabs{flex-wrap:wrap}
+@keyframes book-ink{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+@media(max-width:1200px){.book-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.book-shelf{grid-template-columns:repeat(3,minmax(0,1fr))}.book-window-intro{padding:28px}.book-window-stops{padding:25px}.book-window h2{font-size:27px}.book-window-stops strong{font-size:16px}.book-story-body{padding-left:30px;padding-right:30px}.book-story-header>div{padding-left:30px}}
+@media(max-width:760px){body[data-view=library] .hero-content{padding:25px 23px 65px}body[data-view=library] .hero-content h2{font-size:38px}body[data-view=library] .hero-content.long-title h2{font-size:28px}.book-window{grid-template-columns:1fr;margin:24px 0 32px;background:#fffdf520}.book-window-intro{padding:26px}.book-window h2{font-size:26px;letter-spacing:1px}.book-window p{font-size:12px}.book-window-stops{border-left:0;border-top:1px solid #bca57455;padding:23px 26px}.book-window-stops strong{font-size:18px}.book-window-actions{gap:12px}.book-window-actions button{font-size:10px}.book-grid{grid-template-columns:1fr;gap:20px}.book-card-art{height:170px}.book-card h3{font-size:24px}.book-card p{font-size:12px;min-height:0}.book-card-foot{font-size:10px}.book-card-copy>small{font-size:10px}.book-filter-row{gap:13px}.book-filters{gap:7px}.book-filters button{font-size:10px;padding:7px 10px}.book-lead{font-size:12px}.book-bibliography{padding:23px 19px}.book-shelf{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.book-shelf>button{padding:15px 12px}.book-shelf strong{font-size:16px}.book-editor-note{grid-template-columns:1fr;gap:0}#detail.story-dialog{width:calc(100% - 18px);max-height:95dvh}.book-story-header>div{padding:27px 23px}.book-story-header{min-height:225px}.book-story-header h2{font-size:28px;letter-spacing:2px;margin-right:10px}.book-story-header p{max-width:95%;font-size:12px}.book-story-header .overline{font-size:8px;max-width:85%;display:block;line-height:1.9}.book-story-body{padding:23px 20px 28px}.book-story-intro{font-size:13px}.book-section-heading{flex-wrap:wrap;gap:9px}.book-section-heading h3{font-size:20px;letter-spacing:1px}.book-section-heading small{font-size:8px;margin:0 0 0 34px;width:100%;text-align:left}.book-scene-index{grid-auto-flow:row;grid-template-columns:repeat(2,minmax(0,1fr))}.book-scene-index>button{padding:12px 10px;border-bottom:1px solid #baa16e55;gap:8px}.book-scene-index>button:nth-child(even){border-right:0}.book-scene-index i{font-size:17px}.book-scene-index strong{font-size:13px}.book-scene{padding:22px 15px;gap:12px;min-height:225px}.book-scene-number{font-size:34px;padding-top:7px}.book-scene h3{font-size:22px;letter-spacing:1px}.book-scene p{font-size:13px;line-height:2.1}.book-scene .overline{font-size:8px;line-height:1.9}.book-scene-controls{gap:8px}.book-scene-controls button{font-size:10px;padding:8px}.book-scene-controls span{font-size:8px;line-height:1.8}.book-person-tabs{gap:0}.book-person-tabs>button{padding:12px 10px;gap:0 8px;grid-template-columns:30px 1fr;flex:1}.book-person-tabs span{width:30px;height:30px;font-size:18px}.book-person-tabs b{font-size:16px}.book-person-tabs small{font-size:8px;line-height:1.6}.book-person-profile{padding:20px 15px}.book-person-profile h4{font-size:22px}.book-person-profile h4 small{display:block;margin:9px 0 0}.book-person-profile p{grid-template-columns:1fr;gap:3px;font-size:12px}.book-link-groups{grid-template-columns:1fr;gap:13px}.book-evidence{padding:0 15px}.book-evidence>summary{font-size:16px}.book-evidence-grid{grid-template-columns:1fr;gap:0}.book-evidence-grid p{font-size:11px}.book-evidence-grid b{margin-bottom:2px}.book-references button{font-size:15px}.book-references p{font-size:10px}.book-references small{font-size:8px}.period-reading-tabs button{font-size:12px;padding:13px 10px}}
