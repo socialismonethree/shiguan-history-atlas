@@ -8,7 +8,7 @@ const manifest=JSON.parse(fs.readFileSync(path.join(docs,'expanded/manifest.json
 function load(skip){const c={window:{HISTORY_DATA:structuredClone(base)}};vm.createContext(c);for(const s of manifest.scripts)if(s!==skip)vm.runInContext(fs.readFileSync(path.join(docs,s),'utf8'),c);return c.window.HISTORY_DATA;}
 const D=load();assert.equal(D.expansionReady,true);assert.equal(D.events.length,manifest.counts.chinaEvents);assert.equal(D.people.length,manifest.counts.people);
 const failure=load(manifest.scripts.find(s=>s.includes('/events-')));assert.equal(failure.events.length,base.events.length);assert.equal(failure.people.length,base.people.length);assert.equal(failure.expansionLoadError,true);
-const c={D,document:{addEventListener(){}},period:()=>D.periods.find(p=>p.id==='tang'),worldEvents:()=>D.worldEvents,by:(k,id)=>D[k].find(e=>e.id===id)};vm.createContext(c);vm.runInContext(fs.readFileSync(path.join(docs,'annals.js'),'utf8'),c);
+const c={D,narrativeMatches:()=>true,narrativeSearchText:()=>'',document:{addEventListener(){}},period:()=>D.periods.find(p=>p.id==='tang'),worldEvents:()=>D.worldEvents,by:(k,id)=>D[k].find(e=>e.id===id)};vm.createContext(c);vm.runInContext(fs.readFileSync(path.join(docs,'annals.js'),'utf8'),c);
 assert.equal(vm.runInContext('annalsCalendar(annalsOrdinal(-1)+1)',c),1);
 assert.equal(JSON.stringify(vm.runInContext('annalsYear=-1;annalsStep=5;annalsBounds()',c)),JSON.stringify([-1,4]));
 assert.equal(JSON.stringify(vm.runInContext('annalsYear=1912;annalsBounds()',c)),JSON.stringify([1912,1912]));

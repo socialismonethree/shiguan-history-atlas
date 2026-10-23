@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.7.1",
-  "runtimeFiles": 112,
-  "source": "导航织锦暗纹与十九朝代配色优化；历史数据保持0.7.0版",
+  "websiteVersion": "0.8.0",
+  "runtimeFiles": 152,
+  "source": "249篇中外事件与人物叙事详解；正文范围与证据边界见docs/narratives/README.md，原有编年数据与朝代配色保留",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -13,11 +13,11 @@
     },
     {
       "path": "docs/annals.js",
-      "sha256": "f57fd5f8da2f3d6078484c9bcd8dfc6999324705d6d6ae63c7d8b1bd02130688"
+      "sha256": "7396c0bbaf66e352180f7c69966f8ed01c2b3be869881dc1135ea1f68e93aa85"
     },
     {
       "path": "docs/app.js",
-      "sha256": "7dab82c842aa29914a662fd0e74379d1c2658164076458c3f2241bce951a5e42"
+      "sha256": "7cd0cf953774a133ebd84a09f8e8110a54b3fe77a84937811a3665bc865ea212"
     },
     {
       "path": "docs/assets/README.md",
@@ -141,7 +141,7 @@
     },
     {
       "path": "docs/chronicle.js",
-      "sha256": "8bf4ca1aa4d567c82cfa52e1087f91724a65553bf2776f2a1176bd28660779b7"
+      "sha256": "9e098c72b17bc64c65ab049f13448a91853b3b2558c1e9b1d5f46ad1e3498eaf"
     },
     {
       "path": "docs/data.js",
@@ -429,7 +429,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "ff0d92b2a1f536b8345e05ee7626b1dadc0bdced91c2786285565be931a47c66"
+      "sha256": "5e537370d1e34c1dbf1a4926e0d6414017e643cbd45cacb5dd9b248e8c012e00"
     },
     {
       "path": "docs/knowledge.css",
@@ -438,6 +438,166 @@
     {
       "path": "docs/land.js",
       "sha256": "42b122e3b51f2999701824a89d0db2440c10d48901faf57ff54cbc8fa51660ed"
+    },
+    {
+      "path": "docs/narrative.css",
+      "sha256": "91018f3874ac89e8ebb3751dbe186f87bb00b13d366acacefe35d3eb76d05f80"
+    },
+    {
+      "path": "docs/narrative.js",
+      "sha256": "fe390a2d633aa0c0d38161938b79084d46a2a1f46c8604efe0417986b86ee664"
+    },
+    {
+      "path": "docs/narratives/00-stage.js",
+      "sha256": "1cdb3398e271f03098a068d51b5d7afb98c623e6dc49dd425c33cda63d9738bf"
+    },
+    {
+      "path": "docs/narratives/99-commit.js",
+      "sha256": "05d67338fa8e46d562c3c7b991aa7afc2f42984ce85b7fff5528976ac28060fc"
+    },
+    {
+      "path": "docs/narratives/README.md",
+      "sha256": "37599f11ff9cedb842c1199eddd351b80b52d81e3b88ce957d4030b739a9e95b"
+    },
+    {
+      "path": "docs/narratives/entries-01.js",
+      "sha256": "5e30e543072ccab424671802a4c1d8967ed63675d0aeede0bb95e297b84e197f"
+    },
+    {
+      "path": "docs/narratives/entries-02.js",
+      "sha256": "0ea6c355ea73b529d612940687b4c8950e12f0fc84eaba926f1ae022200a2373"
+    },
+    {
+      "path": "docs/narratives/entries-03.js",
+      "sha256": "8c1a45724815ea57ebfda9d0869f8ff3a3adb64f41af0a19d92b9ba69c4df9e3"
+    },
+    {
+      "path": "docs/narratives/entries-04.js",
+      "sha256": "71b88432cc28fda5d0c1fea1100bb23c2e0bfa06cf324e6e9e6b4860daca62cc"
+    },
+    {
+      "path": "docs/narratives/entries-05.js",
+      "sha256": "5e75d946d69efaba9eb0f7ec2390cc64bcccde17c3dda762c78c953be0c2cac2"
+    },
+    {
+      "path": "docs/narratives/entries-06.js",
+      "sha256": "08bd5a3484b1277cad1eef3eeee1af1d9a3e2ebcc612192464f11ef7355211d2"
+    },
+    {
+      "path": "docs/narratives/manifest.json",
+      "sha256": "8d49508ddb741452513c086bd5c3960a803a096a9951ff667a918ebe6a36d9f8"
+    },
+    {
+      "path": "docs/narratives/source/catalog.json",
+      "sha256": "f51cabb841f84b716f2362a052f159512719d8e595b39d0d559689fb6aad74af"
+    },
+    {
+      "path": "docs/narratives/source/early-event-01.json",
+      "sha256": "9fb4cafeadff30691bf47dd498686b6b389b9dedcf973f8ab7de5d702ce7978f"
+    },
+    {
+      "path": "docs/narratives/source/early-event-02.json",
+      "sha256": "4990f126731e3e4f69c7475afb3d0d92d5ff168c832b4a5aa6b4d699bcbf20ec"
+    },
+    {
+      "path": "docs/narratives/source/early-event-03.json",
+      "sha256": "230ab102d5325b2ebe3218e6ff524b2ae11098a429245671204aab7639cfd050"
+    },
+    {
+      "path": "docs/narratives/source/early-event-04.json",
+      "sha256": "3ec771bb2cfaeba6500c82d5ddb8c54bc29d79ca0ccce350bd22eeffcb7eae5a"
+    },
+    {
+      "path": "docs/narratives/source/early-event-05.json",
+      "sha256": "74039337d7bccea6136430501e7beb3ec48f68a571ec05dfbe760120f4626702"
+    },
+    {
+      "path": "docs/narratives/source/early-person-01.json",
+      "sha256": "a88e107b20556a28fcc607006437ea67204d4a3ce329e14f6ce07aae5abe4ddf"
+    },
+    {
+      "path": "docs/narratives/source/early-person-02.json",
+      "sha256": "a57f81ac4c191f055e0f2a73a611b2d636d110ab9be777f9e232fc8a2972ef60"
+    },
+    {
+      "path": "docs/narratives/source/early-person-03.json",
+      "sha256": "eadaca27877223e27b9549e63f89525fb561f2d8c7473f75738bb03357a2751d"
+    },
+    {
+      "path": "docs/narratives/source/early-person-04.json",
+      "sha256": "682fd2574253c87ec256b8be47552aab1c842c0c7ffe3a57db24ae9b663b848e"
+    },
+    {
+      "path": "docs/narratives/source/late-event-01.json",
+      "sha256": "fad257dfa9df432204298dbeafd570504a1bab6db5b9a4dee18eb28e85e0533d"
+    },
+    {
+      "path": "docs/narratives/source/late-event-02.json",
+      "sha256": "478219f3002cb957df26641ae9e388977b3852da6130d729c31a92b37db0fc92"
+    },
+    {
+      "path": "docs/narratives/source/late-event-03.json",
+      "sha256": "1810036d8afed7c3c0302b87a1d966beb32c5d73094b3bcb1b2bc850da874ac8"
+    },
+    {
+      "path": "docs/narratives/source/late-event-04.json",
+      "sha256": "a857d8ed75d8ff7dec5703d0e78de08b261636d6f252f13d92908acc21f32e8a"
+    },
+    {
+      "path": "docs/narratives/source/late-event-05.json",
+      "sha256": "3c8357baa8fcf4ab4eecfb5702ac1115f9ac3f6ae54dfdf5d03ecb67bc35f641"
+    },
+    {
+      "path": "docs/narratives/source/late-person-01.json",
+      "sha256": "da8f31683905e49580a751222fb8a7947e4251e1438e97e243d47d696ca5a2bd"
+    },
+    {
+      "path": "docs/narratives/source/late-person-02.json",
+      "sha256": "e648829086c16d1e4b04ac3aa55dbf35336cc13ec4809920704803b4be969867"
+    },
+    {
+      "path": "docs/narratives/source/late-person-03.json",
+      "sha256": "491dc3294cd264254401337b2a9ee44f0fef74f6ae7acb935662fff97a7bd9ad"
+    },
+    {
+      "path": "docs/narratives/source/late-person-04.json",
+      "sha256": "5c5b1be632a49f58567ce08c98e000e93a4cea044805d57a3527547287edef46"
+    },
+    {
+      "path": "docs/narratives/source/world-event-01.json",
+      "sha256": "23e19d504d48d3697bba1f9d379812b43cecdb8dcae8d33a28fa0fdc149da6ee"
+    },
+    {
+      "path": "docs/narratives/source/world-event-02.json",
+      "sha256": "64b4bb7dd0b9eeedf80bdaae1ec150ae19b25dd15b540b41cdb1993eba590629"
+    },
+    {
+      "path": "docs/narratives/source/world-event-03.json",
+      "sha256": "af1d0b4aaf57ea4dffb6af4f4dfd03988cafac37891f2969ace594071a517923"
+    },
+    {
+      "path": "docs/narratives/source/world-event-04.json",
+      "sha256": "1ddd209a92eaf862af3e559ed4cf859cca0b32743a88a00c516855da3dc3a28b"
+    },
+    {
+      "path": "docs/narratives/source/world-event-05.json",
+      "sha256": "c2b321b67b06e6491ae96178dd8ae005a2737fb80005df76b376060da09aef18"
+    },
+    {
+      "path": "docs/narratives/source/world-person-01.json",
+      "sha256": "4435dbdb057a7a77fa3d88696eedd14e8e994ac7df95ba15d10454739200316c"
+    },
+    {
+      "path": "docs/narratives/source/world-person-02.json",
+      "sha256": "aee06d044f14f4be20726c9ad917e2411eaab7425fd90f3a1cc8e3b59ccb5db3"
+    },
+    {
+      "path": "docs/narratives/source/world-person-03.json",
+      "sha256": "b0442692838faec24491486ef4bb2968b2fc8b749ccb7759d98fb06f6a10352b"
+    },
+    {
+      "path": "docs/narratives/source/world-person-04.json",
+      "sha256": "2c2b559517039e847163ac433c1fb4728849b02c91059357ff395b9523105021"
     },
     {
       "path": "docs/style.css",
@@ -449,7 +609,7 @@
     },
     {
       "path": "docs/world-chronicle.js",
-      "sha256": "75e269732e76623c88fde42d0e06bf1f5ba6de6ecc4cfb72cd34b50d2e9b2d70"
+      "sha256": "8f6ed7052bd1090ca618f7255f2911e29bce707056c0ffdcf717b732776c584f"
     }
   ]
 }

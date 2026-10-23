@@ -1,0 +1,72 @@
+{
+  "version": "0.8.0",
+  "scripts": [
+    "narratives/00-stage.js",
+    "narratives/entries-01.js",
+    "narratives/entries-02.js",
+    "narratives/entries-03.js",
+    "narratives/entries-04.js",
+    "narratives/entries-05.js",
+    "narratives/entries-06.js",
+    "narratives/99-commit.js"
+  ],
+  "counts": {
+    "events": 93,
+    "worldEvents": 50,
+    "people": 106
+  },
+  "sourceCount": 150,
+  "totalCharacters": 111437,
+  "coverage": {
+    "xia": 2,
+    "shang": 1,
+    "zhou": 2,
+    "qin": 4,
+    "han": 7,
+    "xin": 2,
+    "eastern-han": 3,
+    "three-kingdoms": 2,
+    "western-jin": 2,
+    "eastern-jin": 1,
+    "sui": 4,
+    "tang": 7,
+    "five-dynasties": 1,
+    "eastern": 3,
+    "north-south": 2,
+    "song-liao-xia-jin": 13,
+    "yuan": 6,
+    "ming": 13,
+    "qing": 18
+  },
+  "chinaPeopleByPeriod": {
+    "xia": 1,
+    "shang": 1,
+    "zhou": 1,
+    "eastern": 11,
+    "qin": 3,
+    "han": 5,
+    "xin": 2,
+    "eastern-han": 4,
+    "three-kingdoms": 2,
+    "eastern-jin": 2,
+    "north-south": 3,
+    "tang": 6,
+    "sui": 2,
+    "five-dynasties": 2,
+    "western-jin": 1,
+    "song-liao-xia-jin": 12,
+    "yuan": 6,
+    "ming": 12,
+    "qing": 12
+  },
+  "regions": {
+    "central-west-asia": 14,
+    "africa": 9,
+    "europe": 30,
+    "south-asia": 8,
+    "southeast-asia": 7,
+    "americas": 10,
+    "oceania": 6,
+    "east-asia": 7
+  }
+}

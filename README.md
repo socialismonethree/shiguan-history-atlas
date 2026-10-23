@@ -40,3 +40,7 @@ GitHub Pages 提供公开网站；大陆实际可达性应在移动网络和宽�
 编年长卷支持一年/五年窗口、八个世界区域筛选、人物与事件联动、长期背景和覆盖说明。新增知识会接入原有搜索、收藏、札记、时期与世界索引。内容维护与证据边界见 [CONTENT_GUIDE.md](CONTENT_GUIDE.md)。
 
 按 `docs/expanded/data.json` 清单修改 `docs/expanded/source/` 中相应时期、区域或人物文件后运行 `node tools/sync-expanded.mjs`，一起提交生成的数据脚本与HTML索引。新增配色继续在 `docs/era-palettes.js` 维护。
+
+## 0.8 事件与人物叙事详解
+
+249篇分段正文（143事件、106人物）通过稳定ID与既有编年库相连，新增时间地点、生平阶段、过程与影响、代表事迹或作品、段落资料定位。只看详解的筛选、全文检索与段落导航可从事件人物及世界文明进入。详解范围、依据和局限见`docs/narratives/README.md`；维护入口为`docs/narratives/source/catalog.json`及`tools/sync-narratives.mjs`。原有编年条目、配色、锦纹、收藏札记继续使用。
