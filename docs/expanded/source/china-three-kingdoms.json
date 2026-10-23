@@ -1,0 +1,1024 @@
+[
+  {
+    "_order": 344,
+    "id": "ann-ce-0362",
+    "title": "曹丕代汉建魏",
+    "start": 220,
+    "end": 220,
+    "summary": "曹丕迫使汉献帝禅位，建立曹魏，东汉结束，汉末事实分裂转化为新的王朝并立。",
+    "importance": "统一汉朝的政治名义被正式改写。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caopi",
+      "ann-person-a2d8d08d528c"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "220年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 东汉王朝的崩溃",
+        "lineStart": 83314,
+        "lineEnd": 83314
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 345,
+    "id": "ann-ce-0363",
+    "title": "刘备称帝",
+    "start": 221,
+    "end": 221,
+    "summary": "刘备在成都称帝，以继承汉统自居，蜀汉建立，并准备向孙权夺回荆州。",
+    "importance": "政治合法性与地区利益共同推动新一轮战争。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liubei"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "221年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83800,
+        "lineEnd": 83800
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 346,
+    "id": "ann-ce-0364",
+    "title": "夷陵之战",
+    "start": 222,
+    "end": 222,
+    "summary": "陆逊击败刘备大军，蜀汉遭重创，吴国巩固长江中游，三国边界趋于稳定。",
+    "importance": "战争后各国更需在生存与扩张之间重新平衡。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "luxun",
+      "liubei"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "222年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83726,
+        "lineEnd": 83726
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 347,
+    "id": "ann-ce-0365",
+    "title": "白帝托孤",
+    "start": 223,
+    "end": 223,
+    "summary": "刘备去世前委托诸葛亮等辅佐刘禅，蜀汉通过辅政安排维持政权延续和军政整合。",
+    "importance": "强烈个人色彩的创业政权需要制度化的权力交接。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "liubei",
+      "zhugeliang",
+      "ann-person-89b07678cea0"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "223年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 348,
+    "id": "ann-ce-0366",
+    "title": "孙蜀恢复外交",
+    "start": 224,
+    "end": 224,
+    "summary": "蜀汉与孙吴重建合作关系，缓和荆州战争后的敌对，以共同应对北方曹魏。",
+    "importance": "联盟取舍最终服从国家安全与力量对比。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zhugeliang",
+      "ann-person-572c0fb3d992",
+      "sunquan"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "224年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83700,
+        "lineEnd": 83700
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 349,
+    "id": "ann-ce-0367",
+    "title": "诸葛亮南征",
+    "start": 225,
+    "end": 225,
+    "summary": "诸葛亮平定南中反抗并重整地方关系，结合军事与安抚，为北伐稳定后方资源。",
+    "importance": "西南经营关系蜀汉兵源、供给与政权稳定。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zhugeliang",
+      "ann-person-d16f6cafc345"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "225年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83748,
+        "lineEnd": 83748
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 350,
+    "id": "ann-ce-0368",
+    "title": "曹叡继位",
+    "start": 226,
+    "end": 226,
+    "summary": "曹丕去世后曹叡继位，魏国继续应对吴蜀压力，同时建设中央军政与宫廷工程。",
+    "importance": "三国长期对峙要求不断调整财政和军队部署。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-c0e268214ee7"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "226年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 东汉王朝的崩溃",
+        "lineStart": 83302,
+        "lineEnd": 83302
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 351,
+    "id": "ann-ce-0370",
+    "title": "石亭之战",
+    "start": 228,
+    "end": 228,
+    "summary": "陆逊等击败魏军，孙吴在江淮方向保持防御主动，巩固其长江防线。",
+    "importance": "南方政权通过有限反击维护地区生存空间。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "luxun",
+      "ann-person-6b33b8776bbe"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "228年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北魏初期的社会性质",
+        "lineStart": 89384,
+        "lineEnd": 89384
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 352,
+    "id": "ann-ce-0369",
+    "title": "街亭之战",
+    "start": 228,
+    "end": 228,
+    "summary": "诸葛亮首次大规模北伐时，马谡失守街亭使战局逆转，蜀军撤回汉中。",
+    "importance": "通道与后勤控制常决定山地战争能否持续。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zhugeliang",
+      "ann-person-509b1018dfc7",
+      "ann-person-dc74f545a7a7"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "228年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83764,
+        "lineEnd": 83764
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 353,
+    "id": "ann-ce-0372",
+    "title": "孙吴船队赴夷洲",
+    "start": 230,
+    "end": 230,
+    "summary": "史书记载孙吴派船队远航夷洲，具体地理对应及行动性质存在讨论，不能等同现代疆域概念。",
+    "importance": "远航显示江南海上活动增长，也须辨清史料边界。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-72de031e3834",
+      "ann-person-31692ff51fb4"
+    ],
+    "note": "史书记载孙吴派船队远航夷洲，具体地理对应及行动性质存在讨论，不能等同现代疆域概念。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "230年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83856,
+        "lineEnd": 83856
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 354,
+    "id": "ann-ce-0373",
+    "title": "诸葛亮再出祁山",
+    "start": 231,
+    "end": 231,
+    "summary": "蜀军继续北伐并与魏军争夺陇右通道，补给与前线调度问题反复影响战局。",
+    "importance": "持续战争把蜀汉有限经济资源置于长期压力之下。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zhugeliang",
+      "simayi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "231年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83762,
+        "lineEnd": 83762
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 355,
+    "id": "ann-ce-0374",
+    "title": "五丈原对峙与诸葛亮去世",
+    "start": 234,
+    "end": 234,
+    "summary": "蜀魏在五丈原对峙，诸葛亮病逝后蜀军撤回，蒋琬等接续治理。",
+    "importance": "统帅逝世改变进攻节奏，但政权仍依靠行政体系延续。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zhugeliang",
+      "simayi",
+      "ann-person-b4198cd42ddf"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "234年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83846,
+        "lineEnd": 83846
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 356,
+    "id": "ann-ce-0375",
+    "title": "公孙渊在辽东称王",
+    "start": 237,
+    "end": 237,
+    "summary": "公孙渊与魏吴之间反复周旋后自立，辽东成为北方中央与边地势力正面冲突的焦点。",
+    "importance": "边地政权也利用多国竞争争取独立空间。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-f5f1a7a61f31"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "237年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84140,
+        "lineEnd": 84140
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 357,
+    "id": "ann-ce-0376",
+    "title": "司马懿平辽东",
+    "start": 238,
+    "end": 238,
+    "summary": "魏军攻灭公孙渊势力，把辽东重新纳入中央控制，东北亚地区政治关系随之调整。",
+    "importance": "三国战争之外的边地整合仍在持续进行。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "simayi",
+      "ann-person-f5f1a7a61f31"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "238年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 魏晋南北朝与海东各国的经济文化交流",
+        "lineStart": 91606,
+        "lineEnd": 91606
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 358,
+    "id": "ann-ce-0377",
+    "title": "曹芳继位与双重辅政",
+    "start": 239,
+    "end": 239,
+    "summary": "幼帝曹芳即位，由曹爽与司马懿等辅政，宗室与重臣之间的权力竞争渐趋激烈。",
+    "importance": "辅政安排为司马氏夺取国家权力提供政治条件。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-661c869ca8d1",
+      "ann-person-293b1da84330",
+      "simayi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "239年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84144,
+        "lineEnd": 84144
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 359,
+    "id": "ann-ce-0378",
+    "title": "孙吴多路攻魏",
+    "start": 241,
+    "end": 241,
+    "summary": "吴军向淮南等地发动多路进攻，魏国组织防御，双方仍难打破江淮长期对峙。",
+    "importance": "国力消耗与地理障碍使统一进程长期停滞。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "sunquan"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "241年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 曹操的统一北方",
+        "lineStart": 83402,
+        "lineEnd": 83402
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 360,
+    "id": "ann-ce-0379",
+    "title": "曹爽攻蜀失败",
+    "start": 244,
+    "end": 244,
+    "summary": "曹爽大举攻蜀，在山地补给和蜀军防御下退兵，个人政治声望受到打击。",
+    "importance": "不顾地理与供给的扩张可能反噬执政集团。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-293b1da84330",
+      "ann-person-0b1a85896851"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "244年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83784,
+        "lineEnd": 83784
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 361,
+    "id": "ann-ce-0380",
+    "title": "姜维经营西北",
+    "start": 247,
+    "end": 247,
+    "summary": "姜维争取羌胡支持并推进陇西行动，蜀汉继续尝试从西北方向改变与魏的力量差距。",
+    "importance": "北伐同时涉及地方族群关系与区域资源争取。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-82f4046cfd13"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "247年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83786,
+        "lineEnd": 83786
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 362,
+    "id": "ann-ce-0382",
+    "title": "王凌谋变失败",
+    "start": 251,
+    "end": 251,
+    "summary": "王凌试图改变司马氏控制朝政的局面失败，司马懿进一步清除地方军政反对力量。",
+    "importance": "中央夺权后仍需压制掌握外军的竞争集团。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-6ca4c626e16f",
+      "simayi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "251年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 魏晋玄学与反玄学思想",
+        "lineStart": 92217,
+        "lineEnd": 92217
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 363,
+    "id": "ann-ce-0384",
+    "title": "东兴之战",
+    "start": 252,
+    "end": 252,
+    "summary": "吴军击败魏军进攻，诸葛恪威望上升，却未能把军事胜利转化为稳定的国内权力。",
+    "importance": "战役成功与政权内部支持并不必然同步。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-255deac26c34"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "252年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83846,
+        "lineEnd": 83846
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 364,
+    "id": "ann-ce-0383",
+    "title": "孙权去世与吴国辅政",
+    "start": 252,
+    "end": 252,
+    "summary": "孙权去世后幼帝孙亮即位，诸葛恪等执政，孙吴进入持续的继承与辅政危机。",
+    "importance": "创业君主去世使长期积累的宫廷矛盾集中暴露。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "sunquan",
+      "ann-person-47158910d2eb",
+      "ann-person-255deac26c34"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "252年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83882,
+        "lineEnd": 83882
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 365,
+    "id": "ann-ce-0385",
+    "title": "诸葛恪被杀",
+    "start": 253,
+    "end": 253,
+    "summary": "诸葛恪攻魏受挫后遭孙峻杀害，吴国辅政集团继续更替，中央政治内耗加深。",
+    "importance": "长期战争与宫廷清洗削弱国家协调能力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-255deac26c34",
+      "ann-person-3498846b48a6"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "253年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83884,
+        "lineEnd": 83884
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 366,
+    "id": "ann-ce-0386",
+    "title": "司马师废曹芳",
+    "start": 254,
+    "end": 254,
+    "summary": "司马师废黜曹芳改立曹髦，公开展示司马氏对皇位安排的控制。",
+    "importance": "魏帝仍保留名义，皇权实际已被权臣家族掌握。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-adc460fe1e44",
+      "ann-person-661c869ca8d1",
+      "ann-person-03202770a34c"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "254年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84144,
+        "lineEnd": 84144
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 367,
+    "id": "ann-ce-0387",
+    "title": "毌丘俭文钦起兵",
+    "start": 255,
+    "end": 255,
+    "summary": "淮南将领反司马氏失败，司马师病逝后司马昭接掌权力，家族统治继续延续。",
+    "importance": "司马氏夺权通过连续内战和家族继承逐步巩固。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-4c9b9a5f337f",
+      "ann-person-63aeca4b415a",
+      "ann-person-41b28b38dfe0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "255年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84156,
+        "lineEnd": 84156
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 368,
+    "id": "ann-ce-0388",
+    "title": "段谷之战",
+    "start": 256,
+    "end": 256,
+    "summary": "姜维北伐在段谷败退，蜀汉军民负担加深，对持续用兵的批评进一步增加。",
+    "importance": "进攻策略的可持续性受到人口和粮食约束。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-82f4046cfd13",
+      "ann-person-cd97c60ff8bb"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "256年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 369,
+    "id": "ann-ce-0389",
+    "title": "诸葛诞起兵淮南",
+    "start": 257,
+    "end": 257,
+    "summary": "诸葛诞联合孙吴反对司马昭，寿春长期围战后失败，魏国主要军事反对势力被清除。",
+    "importance": "政权替代前，权臣先消灭控制地方兵力的对手。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-6565596a1a93",
+      "ann-person-41b28b38dfe0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "257年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84106,
+        "lineEnd": 84106
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 370,
+    "id": "ann-ce-0390",
+    "title": "孙綝废孙亮",
+    "start": 258,
+    "end": 258,
+    "summary": "孙綝废立吴帝并拥立孙休，旋即又被清除，孙吴在宫廷斗争中继续消耗政治资源。",
+    "importance": "亲属与重臣辅政难以建立稳定的权力边界。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-0173356ad777",
+      "ann-person-47158910d2eb",
+      "ann-person-101731750595"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "258年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 371,
+    "id": "ann-ce-0391",
+    "title": "曹髦讨司马昭失败",
+    "start": 260,
+    "end": 260,
+    "summary": "曹髦试图武力夺回皇权而被杀，司马氏与曹魏皇帝之间的名实关系彻底暴露。",
+    "importance": "王朝禅代之前的皇帝已难控制国家武力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-03202770a34c",
+      "ann-person-41b28b38dfe0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "260年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84156,
+        "lineEnd": 84156
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 372,
+    "id": "ann-ce-0392",
+    "title": "姜维退居沓中",
+    "start": 262,
+    "end": 262,
+    "summary": "姜维在蜀汉内部矛盾和前线失利后屯驻沓中，蜀国防务出现被魏军利用的空隙。",
+    "importance": "军事部署与朝廷人事冲突共同影响国家安全。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-82f4046cfd13",
+      "ann-person-1bdd16db0d8c"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "262年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  },
+  {
+    "_order": 373,
+    "id": "ann-ce-0394",
+    "title": "钟会之乱",
+    "start": 264,
+    "end": 264,
+    "summary": "钟会在蜀地谋反，姜维试图利用局势复国，最终失败，魏晋集团重新控制益州。",
+    "importance": "征服完成后仍可能因将领权力与地方抵抗再生内战。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-69925f3672c3",
+      "ann-person-82f4046cfd13",
+      "ann-person-cd97c60ff8bb"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "264年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 蜀汉的兴起与衰亡",
+        "lineStart": 83788,
+        "lineEnd": 83788
+      }
+    ],
+    "periodId": "three-kingdoms",
+    "lane": "china",
+    "themeId": "three-kingdoms"
+  }
+]

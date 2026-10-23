@@ -1,0 +1,3943 @@
+[
+  {
+    "_order": 840,
+    "id": "ann-person-c3ea20e470b7",
+    "name": "朱祁钰",
+    "role": "编年人物线索",
+    "description": "朱祁钰见于“英宗被迎回北京”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "英宗居南宫，形成潜在的宫廷冲突。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-dpm-jingtai",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1450,
+    "end": 1450,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1450-500"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 841,
+    "id": "ann-person-0c4e009a62fd",
+    "name": "朱见深",
+    "role": "编年人物线索",
+    "description": "朱见深见于“景泰易储”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "皇室两支关系更加紧张。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-dpm-jingtai",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1452,
+    "end": 1452,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1452-502"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 842,
+    "id": "ann-person-06b600b36a95",
+    "name": "朱见济",
+    "role": "编年人物线索",
+    "description": "朱见济见于“景泰易储”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "皇室两支关系更加紧张。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-dpm-jingtai",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1452,
+    "end": 1452,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1452-502"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 843,
+    "id": "ann-person-3ad30f06f331",
+    "name": "石亨",
+    "role": "编年人物线索",
+    "description": "石亨见于“夺门之变”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "于谦被杀。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-dpm-jingtai",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1457,
+    "end": 1457,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1457-503"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 844,
+    "id": "ann-person-cbd7ae1a6e5e",
+    "name": "曹吉祥",
+    "role": "编年人物线索",
+    "description": "曹吉祥见于“夺门之变”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "于谦被杀。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-dpm-jingtai",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1457,
+    "end": 1457,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1457-503"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 845,
+    "id": "ann-person-6fcdfde4f6a6",
+    "name": "黎圣宗",
+    "role": "编年人物线索",
+    "description": "黎圣宗见于“黎圣宗即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "大越强化儒家官僚、法律和军队，土地与地方行政制度进一步系统化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1460,
+    "end": 1460,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-southeast-asia-0816"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1460—1460年"
+  },
+  {
+    "_order": 846,
+    "id": "ann-person-4e469184072a",
+    "name": "曹钦",
+    "role": "编年人物线索",
+    "description": "曹钦见于“曹钦之变”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "夺门功臣集团遭清除。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1461,
+    "end": 1461,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1461-504"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 847,
+    "id": "ann-person-7723af439692",
+    "name": "韩雍",
+    "role": "编年人物线索",
+    "description": "韩雍见于“大藤峡之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "朝廷加强西南军事控制。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1465,
+    "end": 1465,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1465-505"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 848,
+    "id": "ann-person-25cf50a399d0",
+    "name": "刘通",
+    "role": "编年人物线索",
+    "description": "刘通见于“荆襄流民起事”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "山地移民与土地问题成为治理难题。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1467,
+    "end": 1467,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1467-506"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 849,
+    "id": "ann-person-c5c1419b89f6",
+    "name": "桑尼·阿里",
+    "role": "编年人物线索",
+    "description": "桑尼·阿里见于“桑尼·阿里夺取廷巴克图”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "桑海帝国控制重要城市与商路，军事扩张也冲击部分学术和宗教精英。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-africa",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1468,
+    "end": 1468,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-africa-0917"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "africa"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1468—1468年"
+  },
+  {
+    "_order": 850,
+    "id": "ann-person-8b735261398d",
+    "name": "伊莎贝拉一世",
+    "role": "编年人物线索",
+    "description": "伊莎贝拉一世见于“卡斯蒂利亚与阿拉贡王室联姻”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "伊莎贝拉与斐迪南的婚姻推动王朝联合，但两王国制度并未立即合一。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1469,
+    "end": 1469,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0166"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1469—1469年"
+  },
+  {
+    "_order": 851,
+    "id": "ann-person-23155b28a646",
+    "name": "斐迪南二世",
+    "role": "编年人物线索",
+    "description": "斐迪南二世见于“卡斯蒂利亚与阿拉贡王室联姻”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "伊莎贝拉与斐迪南的婚姻推动王朝联合，但两王国制度并未立即合一。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1469,
+    "end": 1469,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0166"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1469—1469年"
+  },
+  {
+    "_order": 852,
+    "id": "ann-person-2609b481f4d5",
+    "name": "古鲁·那纳克",
+    "role": "编年人物线索",
+    "description": "古鲁·那纳克见于“那纳克出生”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "其后教导强调神的唯一、平等和虔敬，锡克宗教共同体逐渐形成。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-harvard",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1469,
+    "end": 1469,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0702"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1469—1469年"
+  },
+  {
+    "_order": 853,
+    "id": "ann-person-0b0eb306e61e",
+    "name": "原杰",
+    "role": "明代地方官员",
+    "description": "处理荆襄流民问题，参与设置郧阳抚治。",
+    "contribution": "其治理从驱逐转向安置编户，反映移民地区行政调整。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1470,
+    "end": 1470,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1470-507"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 854,
+    "id": "ann-person-1c16448a1761",
+    "name": "图帕克·印卡·尤潘基",
+    "role": "编年人物线索",
+    "description": "图帕克·印卡·尤潘基见于“图帕克·印卡·尤潘基继位前后”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "印加继续向南北扩张，地方领袖、迁徙人口和驿站共同构成统治网络。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1471,
+    "end": 1471,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1000"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1471—1471年"
+  },
+  {
+    "_order": 855,
+    "id": "ann-person-5c9690a23bc9",
+    "name": "乌尊哈桑",
+    "role": "编年人物线索",
+    "description": "乌尊哈桑见于“奥斯曼击败白羊王朝”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "乌尊哈桑在奥特卢克贝利战败，奥斯曼在安纳托利亚的优势扩大。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1473,
+    "end": 1473,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-central-west-asia-0432"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1473—1473年"
+  },
+  {
+    "_order": 856,
+    "id": "ann-person-a6ed7fb7a307",
+    "name": "王越",
+    "role": "编年人物线索",
+    "description": "王越见于“红盐池之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "明朝西北边防一度得到改善。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1473,
+    "end": 1473,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1473-508"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 857,
+    "id": "ann-person-0104568500aa",
+    "name": "汪直",
+    "role": "编年人物线索",
+    "description": "汪直见于“西厂设立”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "厂卫政治进一步扩张。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1477,
+    "end": 1559,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1477-509",
+      "ann-cl-ming-1482-510",
+      "ann-cl-ming-1559-543"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 858,
+    "id": "ann-person-511479055e1c",
+    "name": "亨利七世",
+    "role": "编年人物线索",
+    "description": "亨利七世见于“博斯沃思战役与都铎建朝”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "亨利七世战胜理查三世，王朝战争告一段落，新王权寻求财政与贵族控制。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1485,
+    "end": 1485,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0167"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1485—1485年"
+  },
+  {
+    "_order": 859,
+    "id": "ann-person-6d4d41409196",
+    "name": "朱祐樘",
+    "role": "编年人物线索",
+    "description": "朱祐樘见于“孝宗即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "出现相对稳定局面。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1487,
+    "end": 1488,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1487-511",
+      "ann-cl-ming-1488-512"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 860,
+    "id": "ann-person-bcab90e80e1c",
+    "name": "恩津加·恩库武",
+    "role": "编年人物线索",
+    "description": "恩津加·恩库武见于“刚果国王受洗”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "恩津加·恩库武与葡萄牙建立外交宗教联系，本地王权主动选择并改造外来符号。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-africa",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1491,
+    "end": 1491,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-africa-0918"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "africa"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1491—1491年"
+  },
+  {
+    "_order": 861,
+    "id": "ann-person-c211222149dc",
+    "name": "哥伦布",
+    "role": "编年人物线索",
+    "description": "哥伦布见于“哥伦布抵达加勒比海”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "欧洲航海者进入有人居住的群岛，殖民、疫病、奴役与全球物种交换随后改变世界。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1492,
+    "end": 1492,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1001"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1492—1492年"
+  },
+  {
+    "_order": 862,
+    "id": "ann-person-50ab0bf98bb7",
+    "name": "叶淇",
+    "role": "编年人物线索",
+    "description": "叶淇见于“盐法改折银”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "边粮供给与商业资金结构变化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1492,
+    "end": 1492,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1492-513"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 863,
+    "id": "ann-person-1b66bc8a977a",
+    "name": "刘大夏",
+    "role": "编年人物线索",
+    "description": "刘大夏见于“张秋治河”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "保障漕运线路。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1494,
+    "end": 1494,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1494-514"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 864,
+    "id": "ann-person-9ad086cb42de",
+    "name": "李东阳",
+    "role": "编年人物线索",
+    "description": "李东阳见于“大明会典开始纂修”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "汇编明代官署职掌与制度，为后来成书和刊布建立基础。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-dpm-hongzhi",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1497,
+    "end": 1497,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1498-515"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 865,
+    "id": "ann-person-099d48fba5ce",
+    "name": "萨伏那洛拉",
+    "role": "编年人物线索",
+    "description": "萨伏那洛拉见于“萨伏那洛拉被处死”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "佛罗伦萨宗教改革运动遭镇压，城市共和国、教廷和民众动员关系再度调整。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1498,
+    "end": 1498,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0170"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1498—1498年"
+  },
+  {
+    "_order": 866,
+    "id": "ann-person-3b778b6e91b3",
+    "name": "瓦斯科·达·伽马",
+    "role": "编年人物线索",
+    "description": "瓦斯科·达·伽马见于“达·伽马抵达卡利卡特”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "葡萄牙进入既有印度洋商贸网络，武装海权与港口外交逐渐改变区域贸易。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-harvard",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 1498,
+    "end": 1498,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0703"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1498—1498年"
+  },
+  {
+    "_order": 867,
+    "id": "ann-person-2dd0c18560de",
+    "name": "佩德罗·卡布拉尔",
+    "role": "编年人物线索",
+    "description": "佩德罗·卡布拉尔见于“卡布拉尔抵达巴西海岸”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "葡萄牙建立对土地的殖民主张，早期贸易逐渐转为糖业种植和奴隶制。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1500,
+    "end": 1500,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1003"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1500—1500年"
+  },
+  {
+    "_order": 868,
+    "id": "ann-person-26ac076f3533",
+    "name": "伊斯迈尔一世",
+    "role": "编年人物线索",
+    "description": "伊斯迈尔一世见于“萨法维王朝建立”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "伊斯迈尔一世在大不里士称王，并以十二伊玛目什叶派塑造国家身份。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1501,
+    "end": 1501,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-central-west-asia-0433"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1501—1501年"
+  },
+  {
+    "_order": 869,
+    "id": "ann-person-a0f1c92991a9",
+    "name": "朱厚照",
+    "role": "编年人物线索",
+    "description": "朱厚照见于“武宗即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "宦官与近臣势力迅速扩大。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1505,
+    "end": 1505,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1505-517"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 870,
+    "id": "ann-person-dcefc678c583",
+    "name": "刘瑾",
+    "role": "编年人物线索",
+    "description": "刘瑾见于“刘瑾掌权”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "对文官体系发动政治清洗。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1506,
+    "end": 1510,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1506-518",
+      "ann-cl-ming-1510-521"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 871,
+    "id": "ann-person-696052c050e5",
+    "name": "刘六",
+    "role": "编年人物线索",
+    "description": "刘六见于“刘六刘七起义”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "反映征敛及基层失序。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1510,
+    "end": 1510,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1510-522"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 872,
+    "id": "ann-person-2696b5a6906e",
+    "name": "刘七",
+    "role": "编年人物线索",
+    "description": "刘七见于“刘六刘七起义”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "反映征敛及基层失序。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1510,
+    "end": 1510,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1510-522"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 873,
+    "id": "ann-person-b492d251910d",
+    "name": "张永",
+    "role": "编年人物线索",
+    "description": "张永见于“刘瑾被诛”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "武宗清除权势宦官集团。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1510,
+    "end": 1510,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1510-521"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 874,
+    "id": "ann-person-f9a3821f1d9b",
+    "name": "瓦斯科·努涅斯·德·巴尔沃亚",
+    "role": "编年人物线索",
+    "description": "瓦斯科·努涅斯·德·巴尔沃亚见于“巴尔沃亚越过巴拿马地峡”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "西班牙人从美洲大陆看见太平洋，地峡成为后续殖民交通与征服的重要连接。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1513,
+    "end": 1513,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1004"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1513—1513年"
+  },
+  {
+    "_order": 875,
+    "id": "ann-person-5791093ad5c0",
+    "name": "马基雅维利",
+    "role": "编年人物线索",
+    "description": "马基雅维利见于“马基雅维利撰写《君主论》”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "作品从权力竞争和政治实践讨论统治，为近代政治思想提供有争议的经典。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1513,
+    "end": 1513,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0173"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1513—1513年"
+  },
+  {
+    "_order": 876,
+    "id": "ann-person-b9cdbd6eb456",
+    "name": "托马斯·莫尔",
+    "role": "编年人物线索",
+    "description": "托马斯·莫尔见于“托马斯·莫尔出版《乌托邦》”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "虚构社会被用来反观财产、惩罚和欧洲政治，体现人文主义的社会批判。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1516,
+    "end": 1516,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0174"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1516—1516年"
+  },
+  {
+    "_order": 877,
+    "id": "ann-person-bd0188decacf",
+    "name": "朱宸濠",
+    "role": "编年人物线索",
+    "description": "朱宸濠见于“宁王之乱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "王守仁迅速平定。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1519,
+    "end": 1519,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1519-526"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 878,
+    "id": "ann-person-d5465283a210",
+    "name": "查理五世",
+    "role": "编年人物线索",
+    "description": "查理五世见于“查理五世当选皇帝”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "哈布斯堡复合领地与帝位结合，欧洲战争和宗教冲突进入更广阔的政治框架。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1519,
+    "end": 1519,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0176"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1519—1519年"
+  },
+  {
+    "_order": 879,
+    "id": "ann-person-3b5b4f63d344",
+    "name": "朱厚熜",
+    "role": "编年人物线索",
+    "description": "朱厚熜见于“嘉靖即位与大礼议”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "亲生父母名号引发长期政治争论。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1521,
+    "end": 1542,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1521-527",
+      "ann-cl-ming-1524-530",
+      "ann-cl-ming-1542-534"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 880,
+    "id": "ann-person-4cf8c9aaf523",
+    "name": "麦哲伦",
+    "role": "编年人物线索",
+    "description": "麦哲伦见于“麦哲伦抵达菲律宾并战死”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "跨洋远征进入群岛，本地领袖拉普拉普抵抗，接触并不等同立即殖民。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1521,
+    "end": 1521,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-southeast-asia-0819"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1521—1521年"
+  },
+  {
+    "_order": 881,
+    "id": "ann-person-8a6d102500dd",
+    "name": "拉普拉普",
+    "role": "编年人物线索",
+    "description": "拉普拉普见于“麦哲伦抵达菲律宾并战死”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "跨洋远征进入群岛，本地领袖拉普拉普抵抗，接触并不等同立即殖民。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1521,
+    "end": 1521,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-southeast-asia-0819"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1521—1521年"
+  },
+  {
+    "_order": 882,
+    "id": "ann-person-d35933f04bbe",
+    "name": "杨廷和",
+    "role": "编年人物线索",
+    "description": "杨廷和见于“大礼议廷杖”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "皇帝压倒文官抗争。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1524,
+    "end": 1524,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1524-530"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 883,
+    "id": "ann-person-943bd928bd37",
+    "name": "艾哈迈德·格兰",
+    "role": "编年人物线索",
+    "description": "艾哈迈德·格兰见于“阿达尔与埃塞俄比亚战争扩大”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "艾哈迈德·格兰统军进攻高地，火器、贸易和外部援助影响宗教战争。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-africa",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1529,
+    "end": 1529,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-africa-0923"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "africa"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1529—1529年"
+  },
+  {
+    "_order": 884,
+    "id": "ann-person-2d4bcfe73ce1",
+    "name": "亨利八世",
+    "role": "编年人物线索",
+    "description": "亨利八世见于“英格兰《至尊法案》”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "亨利八世确立王室对英格兰教会的最高权威，宗教改革与国家建设结合。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1534,
+    "end": 1534,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0182"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1534—1534年"
+  },
+  {
+    "_order": 885,
+    "id": "ann-person-218f08f48c40",
+    "name": "加尔文",
+    "role": "编年人物线索",
+    "description": "加尔文见于“加尔文《基督教要义》初版”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "改革宗思想形成系统论述，并在日内瓦与跨国宗教社群中传播。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1536,
+    "end": 1536,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0183"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1536—1536年"
+  },
+  {
+    "_order": 886,
+    "id": "ann-person-779bf6eac6a7",
+    "name": "舍尔沙",
+    "role": "苏尔王朝统治者",
+    "description": "1540年击败胡马雍，短暂统治中整顿财政、道路和货币，后来莫卧儿继承部分制度。",
+    "contribution": "展示制度发展并不完全随王朝断裂，解释莫卧儿帝国行政的前史。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-harvard",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1540,
+    "end": 1540,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0707"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1540—1540年"
+  },
+  {
+    "_order": 887,
+    "id": "ann-person-6be9f56f6109",
+    "name": "胡马雍",
+    "role": "编年人物线索",
+    "description": "胡马雍见于“舍尔沙击败胡马雍”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "苏尔王朝短暂取代莫卧儿，土地财政、道路和货币整顿影响后续帝国治理。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-harvard",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1540,
+    "end": 1540,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0707"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1540—1540年"
+  },
+  {
+    "_order": 888,
+    "id": "ann-person-deb359f85cd2",
+    "name": "维萨里",
+    "role": "编年人物线索",
+    "description": "维萨里见于“维萨里《人体构造》出版”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "解剖观察和精细图像重新检验传统医学知识，人体研究的证据标准逐步变化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1543,
+    "end": 1543,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0185"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1543—1543年"
+  },
+  {
+    "_order": 889,
+    "id": "ann-person-5a26cac26eab",
+    "name": "朱纨",
+    "role": "明代海防官员",
+    "description": "嘉靖年间整顿浙闽海上武装和走私贸易。",
+    "contribution": "双屿清剿及其政治结局体现海禁与地方商贸利益冲突。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1547,
+    "end": 1549,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1547-535",
+      "ann-cl-ming-1548-536",
+      "ann-cl-ming-1549-537"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 890,
+    "id": "ann-person-5b4c2a84b22a",
+    "name": "方济各·沙勿略",
+    "role": "编年人物线索",
+    "description": "方济各·沙勿略见于“沙勿略抵达日本”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "天主教传教借助海商和大名保护展开，宗教交流与国际贸易紧密相连。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-japan",
+      "chron-world-korea",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1549,
+    "end": 1549,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-east-asia-0572"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "east-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1549—1549年"
+  },
+  {
+    "_order": 891,
+    "id": "ann-person-8dc012a047b1",
+    "name": "巴托洛梅·德·拉斯·卡萨斯",
+    "role": "编年人物线索",
+    "description": "巴托洛梅·德·拉斯·卡萨斯见于“巴利亚多利德论争”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "拉斯·卡萨斯与塞普尔韦达讨论征服和原住民地位，欧洲论辩并未停止殖民暴力。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1550,
+    "end": 1551,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1013"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1550—1551年"
+  },
+  {
+    "_order": 892,
+    "id": "ann-person-dad021748d99",
+    "name": "俺答汗",
+    "role": "编年人物线索",
+    "description": "俺答汗见于“庚戌之变”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "明朝京畿防御与对蒙古贸易政策受考验。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1550,
+    "end": 1571,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1550-538",
+      "ann-cl-ming-1570-550",
+      "ann-cl-ming-1571-551"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 893,
+    "id": "ann-person-12920bffd093",
+    "name": "伊丽莎白一世",
+    "role": "编年人物线索",
+    "description": "伊丽莎白一世见于“伊丽莎白一世即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "英格兰重建新教国家教会，外交、海上扩张与宗教竞争相互纠缠。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1558,
+    "end": 1558,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0188"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1558—1558年"
+  },
+  {
+    "_order": 894,
+    "id": "ann-person-0685d2f64b4e",
+    "name": "今川义元",
+    "role": "编年人物线索",
+    "description": "今川义元见于“桶狭间战役”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "织田信长击败今川义元，为尾张武将扩张奠定声望和政治条件。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-japan",
+      "chron-world-korea",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1560,
+    "end": 1560,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-east-asia-0573"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "east-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1560—1560年"
+  },
+  {
+    "_order": 895,
+    "id": "ann-person-3b3d238cb92f",
+    "name": "俞大猷",
+    "role": "编年人物线索",
+    "description": "俞大猷见于“平海卫之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "福建海防好转。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1563,
+    "end": 1563,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1563-546"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 896,
+    "id": "ann-person-6df561a1e019",
+    "name": "米格尔·洛佩斯·德·黎牙实比",
+    "role": "编年人物线索",
+    "description": "米格尔·洛佩斯·德·黎牙实比见于“西班牙在宿务建立殖民据点”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "黎牙实比开启持续殖民统治，教会、港口贸易和地方首领逐渐纳入新秩序。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1565,
+    "end": 1565,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-southeast-asia-0822"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1565—1565年"
+  },
+  {
+    "_order": 897,
+    "id": "ann-person-7efe2a6a91f8",
+    "name": "海瑞",
+    "role": "编年人物线索",
+    "description": "海瑞见于“海瑞上治安疏”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "入狱后因皇帝去世获释。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1566,
+    "end": 1587,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1566-548",
+      "ann-cl-ming-1587-560"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 898,
+    "id": "ann-person-389915bc563f",
+    "name": "奥兰治的威廉",
+    "role": "编年人物线索",
+    "description": "奥兰治的威廉见于“尼德兰起义扩大”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "地方特权、宗教冲突和西班牙财政军事政策促成长期独立战争。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1568,
+    "end": 1568,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0190"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1568—1568年"
+  },
+  {
+    "_order": 899,
+    "id": "ann-person-6239bd0e269d",
+    "name": "阿尔瓦罗·德·门达尼亚",
+    "role": "编年人物线索",
+    "description": "阿尔瓦罗·德·门达尼亚见于“门达尼亚抵达所罗门群岛”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "西班牙航海者进入既有岛屿社会，命名与殖民主张并不意味着持续有效统治。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-australia",
+      "chron-world-openstax2",
+      "chron-world-teara"
+    ],
+    "scope": "world",
+    "start": 1568,
+    "end": 1568,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-oceania-1115"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "oceania"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1568—1568年"
+  },
+  {
+    "_order": 900,
+    "id": "ann-person-16d259e12f5c",
+    "name": "王崇古",
+    "role": "明代边疆官员",
+    "description": "隆庆时期推动与俺答汗议和及边境互市。",
+    "contribution": "通过贸易与册封改善北边关系，显示和战政策的转换。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1570,
+    "end": 1571,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1570-550",
+      "ann-cl-ming-1571-551"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 901,
+    "id": "ann-person-ea044d660dde",
+    "name": "图帕克·阿马鲁一世",
+    "role": "编年人物线索",
+    "description": "图帕克·阿马鲁一世见于“印加比尔卡班巴抵抗终结”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "图帕克·阿马鲁一世被处决，独立王室据点消失，但地方文化和反抗继续存在。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1572,
+    "end": 1572,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1015"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1572—1572年"
+  },
+  {
+    "_order": 902,
+    "id": "ann-person-ad8ef621efc4",
+    "name": "明智光秀",
+    "role": "编年人物线索",
+    "description": "明智光秀见于“本能寺之变”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "明智光秀袭击织田信长，丰臣秀吉随后争取继承统一事业的主导地位。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-japan",
+      "chron-world-korea",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1582,
+    "end": 1582,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-east-asia-0577"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "east-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1582—1582年"
+  },
+  {
+    "_order": 903,
+    "id": "ann-person-8e2195367e7c",
+    "name": "利玛窦",
+    "role": "编年人物线索",
+    "description": "利玛窦见于“利玛窦定居肇庆”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "西学传播展开。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1583,
+    "end": 1607,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1583-558",
+      "ann-cl-ming-1601-569",
+      "ann-cl-ming-1607-571"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 904,
+    "id": "ann-person-fc65f62a0671",
+    "name": "纳黎萱",
+    "role": "编年人物线索",
+    "description": "纳黎萱见于“纳黎萱争取暹罗独立”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "阿瑜陀耶摆脱缅甸控制的战争展开，王权和地方军事力量重新整合。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1584,
+    "end": 1584,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-southeast-asia-0825"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1584—1584年"
+  },
+  {
+    "_order": 905,
+    "id": "ann-person-6ba4a27fc7e9",
+    "name": "李如松",
+    "role": "编年人物线索",
+    "description": "李如松见于“宁夏之役”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "投入大量兵力与财政资源。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1592,
+    "end": 1593,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1592-561",
+      "ann-cl-ming-1592-562",
+      "ann-cl-ming-1593-563"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 906,
+    "id": "ann-person-a79d8a979974",
+    "name": "哱拜",
+    "role": "编年人物线索",
+    "description": "哱拜见于“宁夏之役”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "投入大量兵力与财政资源。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1592,
+    "end": 1592,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1592-561"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 907,
+    "id": "ann-person-4b9af96c9902",
+    "name": "丰臣秀吉",
+    "role": "编年人物线索",
+    "description": "丰臣秀吉见于“朝鲜壬辰战争”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "明派军援朝，东亚秩序面临跨国战争冲击。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1592,
+    "end": 1592,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1592-562"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 908,
+    "id": "ann-person-4381ce72460e",
+    "name": "亨利四世（16世纪·europe）",
+    "role": "编年人物线索",
+    "description": "亨利四世（16世纪·europe）见于“南特敕令”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "亨利四世给予法国胡格诺派有限宗教和政治保障，暂时缓和长期内战。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1598,
+    "end": 1598,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0195"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1598—1598年"
+  },
+  {
+    "_order": 909,
+    "id": "ann-person-37de78d64243",
+    "name": "陈璘",
+    "role": "编年人物线索",
+    "description": "陈璘见于“露梁海战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "持续七年的战争结束。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1598,
+    "end": 1598,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1598-567"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 910,
+    "id": "ann-person-181aa83d17dc",
+    "name": "邓子龙",
+    "role": "编年人物线索",
+    "description": "邓子龙见于“露梁海战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "持续七年的战争结束。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1598,
+    "end": 1598,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1598-567"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 911,
+    "id": "ann-person-14b997811b92",
+    "name": "李舜臣",
+    "role": "编年人物线索",
+    "description": "李舜臣见于“露梁海战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "持续七年的战争结束。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1598,
+    "end": 1598,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1598-567"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 912,
+    "id": "ann-person-d849c8690bd9",
+    "name": "额尔德尼",
+    "role": "编年人物线索",
+    "description": "额尔德尼见于“老满文创制”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "用来书写满语。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-book",
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1599,
+    "end": 1599,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1599-603"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 913,
+    "id": "ann-person-ff974ffe0230",
+    "name": "噶盖",
+    "role": "编年人物线索",
+    "description": "噶盖见于“老满文创制”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "用来书写满语。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-book",
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1599,
+    "end": 1599,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1599-603"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 914,
+    "id": "ann-person-ab8bdca724a1",
+    "name": "杨应龙",
+    "role": "编年人物线索",
+    "description": "杨应龙见于“播州之役”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "随后改土归流重组黔北地方行政。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1600,
+    "end": 1600,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1600-568"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 915,
+    "id": "ann-person-717025823ba1",
+    "name": "詹姆斯一世",
+    "role": "编年人物线索",
+    "description": "詹姆斯一世见于“苏格兰与英格兰共戴一君”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "詹姆斯六世兼任英格兰国王，两国王冠联合而议会与法律仍各自存在。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1603,
+    "end": 1603,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0198"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1603—1603年"
+  },
+  {
+    "_order": 916,
+    "id": "ann-person-022373a88493",
+    "name": "顾宪成",
+    "role": "编年人物线索",
+    "description": "顾宪成见于“东林书院重建”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "形成影响朝政的士人舆论网络。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1604,
+    "end": 1604,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1604-570"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 917,
+    "id": "ann-person-2fb004722d14",
+    "name": "高攀龙",
+    "role": "编年人物线索",
+    "description": "高攀龙见于“东林书院重建”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "形成影响朝政的士人舆论网络。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1604,
+    "end": 1604,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1604-570"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 918,
+    "id": "ann-person-8a8772d5e068",
+    "name": "塞万提斯",
+    "role": "编年人物线索",
+    "description": "塞万提斯见于“《堂吉诃德》第一部出版”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "塞万提斯以骑士小说戏仿反思社会与理想，推动欧洲长篇小说的发展。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1605,
+    "end": 1605,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0199"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1605—1605年"
+  },
+  {
+    "_order": 919,
+    "id": "ann-person-8a4308b29f54",
+    "name": "贾汉吉尔",
+    "role": "编年人物线索",
+    "description": "贾汉吉尔见于“贾汉吉尔即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "莫卧儿宫廷绘画、自然观察与王室纪事发展，帝国治理仍依赖贵族联盟。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-harvard",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1605,
+    "end": 1605,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0716"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1605—1605年"
+  },
+  {
+    "_order": 920,
+    "id": "ann-person-a56418fe8990",
+    "name": "路易斯·瓦斯·德·托雷斯",
+    "role": "编年人物线索",
+    "description": "路易斯·瓦斯·德·托雷斯见于“托雷斯穿越澳新间海峡”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "航行提供新几内亚与澳大利亚分离的欧洲记录，当地海上社群早已拥有航路知识。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-australia",
+      "chron-world-openstax2",
+      "chron-world-teara"
+    ],
+    "scope": "world",
+    "start": 1606,
+    "end": 1606,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-oceania-1117"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "oceania"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1606—1606年"
+  },
+  {
+    "_order": 921,
+    "id": "ann-person-f69a816acb1e",
+    "name": "威廉·扬松",
+    "role": "编年人物线索",
+    "description": "威廉·扬松见于“扬松记录澳大利亚北岸”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "荷兰航海者绘制部分海岸，欧洲记录晚于原住民漫长的在地历史。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-australia",
+      "chron-world-openstax2",
+      "chron-world-teara"
+    ],
+    "scope": "world",
+    "start": 1606,
+    "end": 1606,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-oceania-1116"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "oceania"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1606—1606年"
+  },
+  {
+    "_order": 922,
+    "id": "ann-person-7e6cc2e02135",
+    "name": "古鲁·阿尔琼",
+    "role": "锡克宗第五代古鲁",
+    "description": "整理宗教经典并发展共同体，1606年在莫卧儿统治下被处死。",
+    "contribution": "解释锡克共同体从宗教组织逐渐卷入政治与军事冲突的过程。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-harvard",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1606,
+    "end": 1606,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0717"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1606—1606年"
+  },
+  {
+    "_order": 923,
+    "id": "ann-person-d2ad46a4ab0a",
+    "name": "萨缪尔·德·尚普兰",
+    "role": "编年人物线索",
+    "description": "萨缪尔·德·尚普兰见于“魁北克建立法国殖民据点”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "尚普兰推动皮毛贸易和联盟，法国势力依赖与原住民政治网络的合作。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1608,
+    "end": 1608,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1017"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1608—1608年"
+  },
+  {
+    "_order": 924,
+    "id": "ann-person-15da198ce7e6",
+    "name": "开普勒",
+    "role": "编年人物线索",
+    "description": "开普勒见于“开普勒发表行星运动定律”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "行星椭圆轨道与速度关系以数学规律表达，天文学模型更加贴近观测。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1609,
+    "end": 1609,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0200"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1609—1609年"
+  },
+  {
+    "_order": 925,
+    "id": "ann-person-3f3b3d9918d2",
+    "name": "李之藻",
+    "role": "编年人物线索",
+    "description": "李之藻见于“李之藻受洗”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "形成跨文化学术合作网络。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1610,
+    "end": 1610,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1610-572"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 926,
+    "id": "ann-person-11bcce621604",
+    "name": "沈㴶",
+    "role": "编年人物线索",
+    "description": "沈㴶见于“南京教案”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "西学与宗教传播受到政治阻力。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1616,
+    "end": 1616,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1616-574"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 927,
+    "id": "ann-person-e0647795f481",
+    "name": "张燮",
+    "role": "编年人物线索",
+    "description": "张燮见于“张燮东西洋考刊行”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "保存晚明海洋知识。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1617,
+    "end": 1617,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1617-575"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 928,
+    "id": "ann-person-61e806773780",
+    "name": "杨镐",
+    "role": "编年人物线索",
+    "description": "杨镐见于“萨尔浒之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "辽东军事主动权转向后金。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1619,
+    "end": 1619,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1619-576"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 929,
+    "id": "ann-person-21cb1ea1f2a7",
+    "name": "朱常洛",
+    "role": "编年人物线索",
+    "description": "朱常洛见于“红丸案与移宫案”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "泰昌帝骤逝后继位与宫廷居住安排成为政治争议焦点。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1620,
+    "end": 1620,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1620-577"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 930,
+    "id": "ann-person-52353ac67cf8",
+    "name": "朱由校",
+    "role": "编年人物线索",
+    "description": "朱由校见于“红丸案与移宫案”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "泰昌帝骤逝后继位与宫廷居住安排成为政治争议焦点。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1620,
+    "end": 1620,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1620-577"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 931,
+    "id": "ann-person-5235fc23f5bf",
+    "name": "王化贞",
+    "role": "编年人物线索",
+    "description": "王化贞见于“广宁之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "王化贞熊廷弼获罪。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1622,
+    "end": 1622,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1622-579"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 932,
+    "id": "ann-person-b568cffec872",
+    "name": "熊廷弼",
+    "role": "编年人物线索",
+    "description": "熊廷弼见于“广宁之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "王化贞熊廷弼获罪。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1622,
+    "end": 1622,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1622-579"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 933,
+    "id": "ann-person-dc411f1d58f7",
+    "name": "恩津加",
+    "role": "编年人物线索",
+    "description": "恩津加见于“恩津加掌握恩东戈王权”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "女王通过战争、联盟与外交抵抗葡萄牙扩张，后来在马坦巴建立新的政治中心。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-africa",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1624,
+    "end": 1624,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-africa-0928"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "africa"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1624—1624年"
+  },
+  {
+    "_order": 934,
+    "id": "ann-person-b9d1af136ad8",
+    "name": "魏忠贤",
+    "role": "编年人物线索",
+    "description": "魏忠贤见于“魏忠贤党势扩张”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "宦官利用特务与司法机构清洗政敌。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1624,
+    "end": 1627,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1624-580",
+      "ann-cl-ming-1627-584"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 935,
+    "id": "ann-person-a61d356b8148",
+    "name": "黎塞留",
+    "role": "编年人物线索",
+    "description": "黎塞留见于“黎塞留主导法国政务”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "王权整合、对贵族控制和反哈布斯堡外交共同推进法国国家力量。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1624,
+    "end": 1624,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0204"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1624—1624年"
+  },
+  {
+    "_order": 936,
+    "id": "ann-person-00b9d4a6e9d3",
+    "name": "杨涟",
+    "role": "编年人物线索",
+    "description": "杨涟见于“东林党狱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "政治迫害广泛波及士林。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1625,
+    "end": 1625,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1625-581"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 937,
+    "id": "ann-person-38932b0b0713",
+    "name": "左光斗",
+    "role": "编年人物线索",
+    "description": "左光斗见于“东林党狱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "政治迫害广泛波及士林。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1625,
+    "end": 1625,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1625-581"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 938,
+    "id": "ann-person-4488a82e3b40",
+    "name": "王嘉胤",
+    "role": "编年人物线索",
+    "description": "王嘉胤见于“陕北民众起义扩大”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "反明战争蔓延。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1627,
+    "end": 1628,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1627-585"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 939,
+    "id": "ann-person-c6a7140ce5a8",
+    "name": "孔有德",
+    "role": "编年人物线索",
+    "description": "孔有德见于“吴桥兵变”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "后来投向后金。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1631,
+    "end": 1633,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1631-588",
+      "ann-cl-ming-1633-589"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 940,
+    "id": "ann-person-a02190893bcd",
+    "name": "祖大寿",
+    "role": "编年人物线索",
+    "description": "祖大寿见于“大凌河之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "显示火器与围困能力提高。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1631,
+    "end": 1631,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1631-616"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 941,
+    "id": "ann-person-2562aeabdbfd",
+    "name": "法西利德",
+    "role": "编年人物线索",
+    "description": "法西利德见于“埃塞俄比亚恢复本地教会传统”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "法西利德排除耶稣会影响，国家与教会重新确立相对封闭的宗教安排。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-africa",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1632,
+    "end": 1632,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-chron-world-africa-0929"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "africa"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1632—1632年"
+  },
+  {
+    "_order": 942,
+    "id": "ann-person-a1e95b2b9659",
+    "name": "达海",
+    "role": "编年人物线索",
+    "description": "达海见于“新满文改进”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "改善语音区别与文书准确性。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-book",
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1632,
+    "end": 1632,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1632-617"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 943,
+    "id": "ann-person-3392a94f118f",
+    "name": "耿仲明",
+    "role": "编年人物线索",
+    "description": "耿仲明见于“孔有德耿仲明降后金”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "明清战力对比变化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1633,
+    "end": 1633,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1633-589"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 944,
+    "id": "ann-person-f9a60752b493",
+    "name": "林丹汗",
+    "role": "编年人物线索",
+    "description": "林丹汗见于“后金击败察哈尔”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "漠南蒙古各部与后金联系加强。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1634,
+    "end": 1634,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1634-618"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 945,
+    "id": "ann-person-0e3dd2067551",
+    "name": "高迎祥",
+    "role": "编年人物线索",
+    "description": "高迎祥见于“农民军攻凤阳”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "明廷威望受到重大打击。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1635,
+    "end": 1636,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1635-590",
+      "ann-cl-ming-1636-591"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 946,
+    "id": "ann-person-02a5a8323e30",
+    "name": "朝鲜仁祖",
+    "role": "编年人物线索",
+    "description": "朝鲜仁祖见于“丙子之役”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "改变东亚朝贡与军事关系。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1636,
+    "end": 1637,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1636-623"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 947,
+    "id": "ann-person-6fb96d995ec9",
+    "name": "孙传庭",
+    "role": "编年人物线索",
+    "description": "孙传庭见于“高迎祥被俘”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "李自成继承闯王名号。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1636,
+    "end": 1636,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1636-591"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 948,
+    "id": "ann-person-05dc3869db44",
+    "name": "笛卡尔",
+    "role": "编年人物线索",
+    "description": "笛卡尔见于“笛卡尔《方法谈》出版”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "理性方法、怀疑与数学化认识被系统阐发，影响近代哲学和科学。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1637,
+    "end": 1637,
+    "periodIds": [
+      "ming",
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0208"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1637—1637年"
+  },
+  {
+    "_order": 949,
+    "id": "ann-person-8de9ff3fd99e",
+    "name": "陈子龙",
+    "role": "编年人物线索",
+    "description": "陈子龙见于“农政全书刊行”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "汇集农业与水利知识。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1639,
+    "end": 1639,
+    "periodIds": [
+      "ming"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1639-594"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 950,
+    "id": "ann-person-f2e669ef06a2",
+    "name": "张献忠",
+    "role": "编年人物线索",
+    "description": "张献忠见于“张献忠再次起兵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "湖广地区战事加剧。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1639,
+    "end": 1646,
+    "periodIds": [
+      "ming",
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1639-593",
+      "ann-cl-qing-1646-635"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 951,
+    "id": "ann-person-68dd22e4d5c1",
+    "name": "洪承畴",
+    "role": "编年人物线索",
+    "description": "洪承畴见于“松锦决战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "洪承畴降清，辽西局势逆转。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1641,
+    "end": 1642,
+    "periodIds": [
+      "ming",
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1641-625",
+      "ann-cl-ming-1642-596"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 952,
+    "id": "ann-person-f34a7897632a",
+    "name": "福临",
+    "role": "编年人物线索",
+    "description": "福临见于“顺治帝即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "多尔衮与济尔哈朗辅政。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1643,
+    "end": 1653,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1643-627",
+      "ann-cl-qing-1644-629",
+      "ann-cl-qing-1651-640",
+      "ann-cl-qing-1653-642"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 953,
+    "id": "ann-person-4062429efd4b",
+    "name": "朱由崧",
+    "role": "编年人物线索",
+    "description": "朱由崧见于“南京弘光政权建立”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南明继续组织抵抗但内部冲突严重。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1644,
+    "end": 1645,
+    "periodIds": [
+      "ming",
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-ming-1644-600",
+      "ann-cl-qing-1645-631"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 954,
+    "id": "ann-person-90fe0fa75579",
+    "name": "吴三桂",
+    "role": "编年人物线索",
+    "description": "吴三桂见于“山海关之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "清军随后进入北京。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1644,
+    "end": 1678,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1644-628",
+      "ann-cl-qing-1658-646",
+      "ann-cl-qing-1662-653",
+      "ann-cl-qing-1673-660",
+      "ann-cl-qing-1678-664"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 955,
+    "id": "ann-person-3062ff3a8837",
+    "name": "史可法",
+    "role": "编年人物线索",
+    "description": "史可法见于“扬州陷落”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "史可法殉难，随后发生严重屠杀。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1645,
+    "end": 1645,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1645-630"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 956,
+    "id": "ann-person-a797e60fa538",
+    "name": "阎应元",
+    "role": "编年人物线索",
+    "description": "阎应元见于“江阴守城与嘉定抗清”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "城破后遭严重杀戮。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1645,
+    "end": 1645,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1645-633"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 957,
+    "id": "ann-person-a70dc3b9ff44",
+    "name": "朱聿键",
+    "role": "编年人物线索",
+    "description": "朱聿键见于“隆武政权覆亡”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "隆武帝朱聿键被俘杀。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1646,
+    "end": 1646,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1646-634"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 958,
+    "id": "ann-person-b9c6d04fcd4e",
+    "name": "金声桓",
+    "role": "编年人物线索",
+    "description": "金声桓见于“金声桓李成栋反清”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "清军南下统治受到冲击。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1648,
+    "end": 1648,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1648-637"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 959,
+    "id": "ann-person-626d4c13326b",
+    "name": "李成栋",
+    "role": "编年人物线索",
+    "description": "李成栋见于“金声桓李成栋反清”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "清军南下统治受到冲击。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1648,
+    "end": 1648,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1648-637"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 960,
+    "id": "ann-person-8bbf87d19370",
+    "name": "姜瓖",
+    "role": "编年人物线索",
+    "description": "姜瓖见于“姜瓖大同反清失败”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "北方抗清力量受挫。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1649,
+    "end": 1649,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1649-638"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 961,
+    "id": "ann-person-0de23d0ff912",
+    "name": "查理一世",
+    "role": "编年人物线索",
+    "description": "查理一世见于“查理一世被处决”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "英格兰废除君主制并建立共和国，主权、军队和议会关系仍充满冲突。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1649,
+    "end": 1649,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0212"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1649—1649年"
+  },
+  {
+    "_order": 962,
+    "id": "ann-person-a9ebf0009d3f",
+    "name": "霍布斯",
+    "role": "编年人物线索",
+    "description": "霍布斯见于“霍布斯《利维坦》出版”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "以自然状态与契约解释主权，回应内战背景下秩序和服从的难题。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1651,
+    "end": 1651,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0213"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1651—1651年"
+  },
+  {
+    "_order": 963,
+    "id": "ann-person-14ad7b4dc2f6",
+    "name": "李定国",
+    "role": "编年人物线索",
+    "description": "李定国见于“李定国两蹶名王”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "清军孔有德与尼堪败亡。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1652,
+    "end": 1652,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1652-641"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 964,
+    "id": "ann-person-71d5356e0f8f",
+    "name": "五世达赖",
+    "role": "编年人物线索",
+    "description": "五世达赖见于“五世达赖入京”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "西藏宗教领袖与中央关系加强。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1653,
+    "end": 1653,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1653-642"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 965,
+    "id": "ann-person-32654ac6eccc",
+    "name": "科普鲁律·穆罕默德",
+    "role": "编年人物线索",
+    "description": "科普鲁律·穆罕默德见于“科普鲁律改革开始”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "大维齐尔以整顿财政、军队和官僚恢复国家执行力，改革伴随严厉惩罚。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1656,
+    "end": 1656,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-central-west-asia-0445"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1656—1656年"
+  },
+  {
+    "_order": 966,
+    "id": "ann-person-6d695cd6cb12",
+    "name": "奥朗则布",
+    "role": "编年人物线索",
+    "description": "奥朗则布见于“奥朗则布夺位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "继承战争使其掌权，长期德干战争和宗教政策争议加重帝国资源压力。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-harvard",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1658,
+    "end": 1658,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0721"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1658—1658年"
+  },
+  {
+    "_order": 967,
+    "id": "ann-person-43e2c2d63a96",
+    "name": "张煌言",
+    "role": "编年人物线索",
+    "description": "张煌言见于“郑成功北伐南京失败”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "抗清战略重心变化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-book",
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1659,
+    "end": 1659,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1659-647"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 968,
+    "id": "ann-person-6845f78c892e",
+    "name": "鳌拜",
+    "role": "编年人物线索",
+    "description": "鳌拜见于“康熙帝即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "由索尼鳌拜等四辅臣处理政务。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1661,
+    "end": 1669,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1661-649",
+      "ann-cl-qing-1667-656",
+      "ann-cl-qing-1669-658"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 969,
+    "id": "ann-person-52a51ad014d8",
+    "name": "路易十四",
+    "role": "编年人物线索",
+    "description": "路易十四见于“路易十四开始亲政”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "法国强化宫廷、财政和军队控制，绝对王权同时面对长期战争成本。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1661,
+    "end": 1661,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0216"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1661—1661年"
+  },
+  {
+    "_order": 970,
+    "id": "ann-person-f85cb4bb829c",
+    "name": "朱由榔",
+    "role": "编年人物线索",
+    "description": "朱由榔见于“永历帝被杀”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南明皇帝体系走向终结。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1662,
+    "end": 1662,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1662-653"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 971,
+    "id": "ann-person-0fe2306da647",
+    "name": "揆一",
+    "role": "编年人物线索",
+    "description": "揆一见于“荷兰在台湾投降”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "荷兰殖民统治结束。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-book",
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1662,
+    "end": 1662,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1662-652"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 972,
+    "id": "ann-person-888bc341717e",
+    "name": "庄廷鑨",
+    "role": "编年人物线索",
+    "description": "庄廷鑨见于“庄廷鑨明史案”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "政治清查牵连大批士人。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1663,
+    "end": 1663,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1663-654"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 973,
+    "id": "ann-person-0d61b6d0e5cd",
+    "name": "汤若望",
+    "role": "编年人物线索",
+    "description": "汤若望见于“汤若望历狱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "天文机构陷入政治案件。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1664,
+    "end": 1664,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1664-655"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 974,
+    "id": "ann-person-af54a688548b",
+    "name": "杨光先",
+    "role": "编年人物线索",
+    "description": "杨光先见于“汤若望历狱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "天文机构陷入政治案件。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1664,
+    "end": 1664,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1664-655"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 975,
+    "id": "ann-person-a0020c87cea8",
+    "name": "耿精忠",
+    "role": "编年人物线索",
+    "description": "耿精忠见于“耿精忠响应三藩”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "东南地方与郑氏海军关系复杂化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1674,
+    "end": 1676,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1674-661",
+      "ann-cl-qing-1676-663"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 976,
+    "id": "ann-person-f66253282dad",
+    "name": "布尔尼",
+    "role": "编年人物线索",
+    "description": "布尔尼见于“察哈尔布尔尼起兵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "很快被镇压。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "cl-dpm-events",
+      "cl-overview"
+    ],
+    "scope": "china",
+    "start": 1675,
+    "end": 1675,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-cl-qing-1675-662"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 977,
+    "id": "ann-person-825c1a24d1b2",
+    "name": "梅塔科梅特",
+    "role": "万帕诺亚格领袖",
+    "description": "殖民者称其为菲利普王，1675年战争中联合部分原住民抵抗英属新英格兰扩张。",
+    "contribution": "以本地领袖的土地和主权诉求理解定居殖民战争。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1675,
+    "end": 1675,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1023"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1675—1675年"
+  },
+  {
+    "_order": 978,
+    "id": "ann-person-2d5820d44952",
+    "name": "波佩",
+    "role": "普韦布洛宗教与起义领袖",
+    "description": "1680年协调不同普韦布洛社群反抗西班牙宗教、劳动与政治压迫。",
+    "contribution": "原住民能够跨聚落组织行动，并在一段时期内重建自主生活。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1680,
+    "end": 1680,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-americas-1024"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1680—1680年"
+  },
+  {
+    "_order": 979,
+    "id": "ann-person-e40be696d0d4",
+    "name": "井原西鹤",
+    "role": "编年人物线索",
+    "description": "井原西鹤见于“井原西鹤《好色一代男》出版”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "城市出版与商业读者成长，浮世草子展现町人社会的欲望、金钱和日常生活。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-japan",
+      "chron-world-korea",
+      "chron-world-openstax2"
+    ],
+    "scope": "world",
+    "start": 1682,
+    "end": 1682,
+    "periodIds": [
+      "qing"
+    ],
+    "eventIds": [
+      "ann-chron-world-east-asia-0593"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "east-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：1682—1682年"
+  }
+]

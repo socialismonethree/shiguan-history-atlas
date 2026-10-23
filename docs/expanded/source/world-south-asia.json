@@ -1,0 +1,3383 @@
+[
+  {
+    "_order": 4,
+    "id": "ann-chron-world-south-asia-0638",
+    "title": "印度河成熟城市体系转型",
+    "start": -2000,
+    "end": -1900,
+    "summary": "部分城市规模缩小，聚落重心和水文环境变化，各地转型并非同步发生。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前2000年—公元前1900年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 8,
+    "id": "ann-chron-world-south-asia-0639",
+    "title": "晚期哈拉帕地方文化",
+    "start": -1900,
+    "end": -1300,
+    "summary": "大型城市网络解体后，工艺与农业传统仍在不同区域延续，不能视为人口突然消失。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前1900年—公元前1300年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 18,
+    "id": "ann-chron-world-south-asia-0640",
+    "title": "吠陀口传传统发展",
+    "start": -1500,
+    "end": -1000,
+    "summary": "印度雅利安语群体与本地社会互动，祭祀诗歌保存牧业、战争和宗教观念。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前1500年—公元前1000年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 39,
+    "id": "ann-chron-world-south-asia-0641",
+    "title": "恒河流域农业与国家形成",
+    "start": -1000,
+    "end": -600,
+    "summary": "铁器利用、森林开发和定居扩展推动社会分层，王权与祭祀集团共同成长。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前1000年—公元前600年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 49,
+    "id": "ann-chron-world-south-asia-0642",
+    "title": "早期奥义书思想形成",
+    "start": -800,
+    "end": -500,
+    "summary": "思想家讨论自我、宇宙、轮回与解脱，为印度宗教哲学提供长期议题。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前800年—公元前500年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 69,
+    "id": "ann-chron-world-south-asia-0643",
+    "title": "列国时代与城市复兴",
+    "start": -600,
+    "end": -500,
+    "summary": "恒河地区出现多个大国与共和性政治组织，商业、货币和宗教辩论共同兴起。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前600年—公元前500年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 70,
+    "id": "ann-chron-world-south-asia-0644",
+    "title": "大雄出生的传统纪年",
+    "start": -599,
+    "end": -599,
+    "summary": "耆那教传统以这一年纪念大雄，历史年代仍存争论，非暴力与苦行成为重要教义。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-mahavira"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前599年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 74,
+    "id": "ann-chron-world-south-asia-0645",
+    "title": "释迦牟尼出生的传统纪年",
+    "start": -563,
+    "end": -563,
+    "summary": "传统纪年与现代研究有明显差异，佛教兴起应置于前六至前五世纪的社会变迁中。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-buddha"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前563年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 77,
+    "id": "ann-chron-world-south-asia-0646",
+    "title": "频毗娑罗统治摩揭陀前后",
+    "start": -544,
+    "end": -544,
+    "summary": "婚姻联盟与扩张提高摩揭陀地位，王国为沙门宗教和城市生活提供活动空间。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-eed42d2db2db"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前544年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 90,
+    "id": "ann-chron-world-south-asia-0647",
+    "title": "佛陀入灭的不同纪年传统",
+    "start": -480,
+    "end": -480,
+    "summary": "佛陀入灭后的僧团传承形成不同纪年传统；其去世年代缺乏可统一校准的直接证据。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "ann-date-check-4"
+    ],
+    "personIds": [],
+    "note": "此为传统纪年或后世文献记忆，非已确证年份。前480年前后属于传统及旧有校正纪年的一种常见口径；另有前486/483、前5世纪末至前4世纪初等学术推算，不代表历史精确年份。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "传统纪年约公元前480年",
+    "expanded": true,
+    "precision": "traditional",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 100,
+    "id": "ann-chron-world-south-asia-0648",
+    "title": "波你尼语法体系形成",
+    "start": -400,
+    "end": -400,
+    "summary": "高度精密的规则系统整理梵语结构，语言学知识成为宗教与学术教育的基础。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-25e9a57ce0e3"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前400年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 105,
+    "id": "ann-chron-world-south-asia-0649",
+    "title": "难陀王朝崛起",
+    "start": -345,
+    "end": -345,
+    "summary": "摩揭陀通过税收和军队扩张，恒河国家规模继续增大，后来被孔雀王朝取代。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前345年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 113,
+    "id": "ann-chron-world-south-asia-0650",
+    "title": "海达斯佩斯河战役",
+    "start": -326,
+    "end": -326,
+    "summary": "亚历山大与波鲁斯交战，西北南亚与希腊化世界的政治文化接触加强。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-2af6a172ef6f"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前326年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 115,
+    "id": "ann-chron-world-south-asia-0651",
+    "title": "旃陀罗笈多建立孔雀王朝",
+    "start": -321,
+    "end": -321,
+    "summary": "摩揭陀政治整合向广阔地区扩展，军队、官僚和财政共同支撑帝国。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "ann-date-check-6"
+    ],
+    "personIds": [
+      "ann-person-a53fc5669c43"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前321年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 118,
+    "id": "ann-chron-world-south-asia-0652",
+    "title": "孔雀与塞琉古交战议和",
+    "start": -305,
+    "end": -305,
+    "summary": "双方通过领土调整和外交安排稳定边界，跨区域使节与商路联系继续发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前305年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 125,
+    "id": "ann-chron-world-south-asia-0653",
+    "title": "阿育王即位",
+    "start": -268,
+    "end": -268,
+    "summary": "孔雀帝国进入强盛阶段，征服与后来的道德政治宣传共同构成其统治形象。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "ann-date-check-7"
+    ],
+    "personIds": [
+      "wp-ashoka"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。采用约前268年口径；部分著述列约前273年，涉及即位与加冕纪年及学术重建差异。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前268年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 127,
+    "id": "ann-chron-world-south-asia-0654",
+    "title": "羯陵伽战争",
+    "start": -261,
+    "end": -261,
+    "summary": "战争造成巨大伤亡，阿育王敕令随后强调达摩、克制和对臣民的道德责任。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前261年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 128,
+    "id": "ann-chron-world-south-asia-0655",
+    "title": "阿育王敕令广泛刻立",
+    "start": -254,
+    "end": -241,
+    "summary": "多语铭文把国家伦理传播到帝国各地，也为重建早期印度政治提供直接证据。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "ann-date-check-8"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。这是多次刻立敕令的大致阶段，具体岩石与柱铭文应分别考订，不是单一工程或同年一次颁刻。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前254年—公元前241年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 130,
+    "id": "ann-chron-world-south-asia-0656",
+    "title": "佛教传入斯里兰卡的传统年代",
+    "start": -247,
+    "end": -247,
+    "summary": "摩哂陀传教叙事连接孔雀王室与岛屿王权，具体过程需结合本地文献和考古。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-9b1ba74d82a6"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。包含传统纪年或有争议解释，须结合条目中的限定语阅读。本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前247年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 138,
+    "id": "ann-chron-world-south-asia-0657",
+    "title": "孔雀王朝终结",
+    "start": -185,
+    "end": -185,
+    "summary": "巽伽等王朝在北印度接续，区域王国与宗教赞助格局更加多元。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "ann-date-check-9"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前185年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 141,
+    "id": "ann-chron-world-south-asia-0658",
+    "title": "米南德统治印度希腊王国",
+    "start": -165,
+    "end": -165,
+    "summary": "希腊化王权与南亚社会相互融合，佛教文献保存其与僧人的论辩传统。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-50b61d411a75"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前165年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 148,
+    "id": "ann-chron-world-south-asia-0660",
+    "title": "斯里兰卡佛教经典书写传统",
+    "start": -100,
+    "end": -100,
+    "summary": "岛上文献记载口传经典转为书面保存，具体年代依编年传统推定。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。包含传统纪年或有争议解释，须结合条目中的限定语阅读。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前100年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 149,
+    "id": "ann-chron-world-south-asia-0659",
+    "title": "桑奇佛教建筑扩建",
+    "start": -100,
+    "end": 100,
+    "summary": "佛塔围栏、门柱和雕刻表现宗教故事，商人、工匠与信众共同参与赞助。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前100年—100年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 176,
+    "id": "ann-chron-world-south-asia-0661",
+    "title": "塞迦纪元起点",
+    "start": 78,
+    "end": 78,
+    "summary": "这一纪元后来广泛用于南亚历法，但其起源不能直接等同某位君主即位。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "78年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 186,
+    "id": "ann-chron-world-south-asia-0662",
+    "title": "迦腻色迦时代贵霜繁荣",
+    "start": 127,
+    "end": 151,
+    "summary": "帝国连接中亚、恒河与印度洋商路，佛教艺术和多宗教铸币共同发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "chron-world-kanishka",
+      "ann-date-check-5"
+    ],
+    "personIds": [
+      "wp-kanishka"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。此处采用钱币学研究常见的约127/128—150/151年迦腻色迦一世在位口径；贵霜纪年与其统治年代曾有不同重建，不能当作无争议精确年表。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约127年—151年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 188,
+    "id": "ann-chron-world-south-asia-0663",
+    "title": "龙树哲学活动时期",
+    "start": 150,
+    "end": 150,
+    "summary": "中观思想以缘起和空性反思概念执著，具体生平与著作归属仍有学术争论。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-0b6ccdb830b9"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约150年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 191,
+    "id": "ann-chron-world-south-asia-0664",
+    "title": "犍陀罗与秣菟罗佛像传统发展",
+    "start": 200,
+    "end": 200,
+    "summary": "不同地区工匠形成多样的佛陀形象，跨文化视觉语言服务于本地宗教需求。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约200年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 198,
+    "id": "ann-chron-world-south-asia-0665",
+    "title": "萨塔瓦哈纳之后德干区域重组",
+    "start": 250,
+    "end": 300,
+    "summary": "地方王朝接续掌握农业与商路，佛教、婆罗门教和耆那教赞助持续并存。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "250年—300年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 208,
+    "id": "ann-chron-world-south-asia-0666",
+    "title": "笈多王朝兴起",
+    "start": 320,
+    "end": 320,
+    "summary": "恒河地区王权通过联姻、军功与地方联盟整合，古典梵语文化获得新赞助。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "ann-date-check-10"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约320年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 212,
+    "id": "ann-chron-world-south-asia-0667",
+    "title": "沙摩陀罗笈多扩张",
+    "start": 335,
+    "end": 380,
+    "summary": "碑文颂扬征服与属国关系，帝国统治包含直接控制和间接臣属的多重层次。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "ann-date-check-11"
+    ],
+    "personIds": [
+      "wp-samudragupta"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。扩张为在位时期的多次战争与臣属安排，非335年一次事件；此处用约335—380年，其他馆藏目录亦有326—375年等在位重建。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约335年—380年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 217,
+    "id": "ann-chron-world-south-asia-0668",
+    "title": "旃陀罗笈多二世即位",
+    "start": 375,
+    "end": 375,
+    "summary": "笈多向西扩张，商业与宫廷文化发展，为古典时代形象提供重要基础。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard",
+      "ann-date-check-12"
+    ],
+    "personIds": [
+      "ann-person-56495e98e46b"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约375年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 225,
+    "id": "ann-chron-world-south-asia-0669",
+    "title": "法显旅行南亚",
+    "start": 399,
+    "end": 414,
+    "summary": "僧人访问佛教圣地和寺院，记录戒律、社会习俗与跨海归途。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-af4adcf28273"
+    ],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "399年—414年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 227,
+    "id": "ann-chron-world-south-asia-0670",
+    "title": "迦梨陀娑文学活动时期",
+    "start": 400,
+    "end": 400,
+    "summary": "梵语戏剧和抒情诗描绘宫廷、自然与情感，作品成为南亚古典文学的重要范本。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-kalidasa"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约400年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 237,
+    "id": "ann-chron-world-south-asia-0671",
+    "title": "笈多面对北方入侵",
+    "start": 455,
+    "end": 455,
+    "summary": "军事压力与地方权力成长削弱中央财政，帝国随后逐步分裂。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约455年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 243,
+    "id": "ann-chron-world-south-asia-0672",
+    "title": "阿耶波多撰写天文数学著作",
+    "start": 499,
+    "end": 499,
+    "summary": "数学计算与天文模型结合，圆周率、三角函数和历法研究获得系统表达。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-aryabhata"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "499年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 257,
+    "id": "ann-chron-world-south-asia-0673",
+    "title": "遮娄其王朝在瓦塔皮立足",
+    "start": 543,
+    "end": 543,
+    "summary": "德干国家竞争加强，岩窟寺院和石建筑得到多宗教赞助。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "543年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 268,
+    "id": "ann-chron-world-south-asia-0674",
+    "title": "戒日王统治开始",
+    "start": 606,
+    "end": 606,
+    "summary": "北印度再次出现较大政治联盟，王室赞助宗教与学术并与唐朝交往。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-harsha"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "606年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 275,
+    "id": "ann-chron-world-south-asia-0675",
+    "title": "补罗稽舍二世阻挡戒日王",
+    "start": 618,
+    "end": 618,
+    "summary": "德干与北印度之间维持多中心格局，帝国扩张受到区域军事力量限制。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-d4c1894902ee"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约618年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 278,
+    "id": "ann-chron-world-south-asia-0676",
+    "title": "婆罗摩笈多著作成书",
+    "start": 628,
+    "end": 628,
+    "summary": "零、负数和天文计算得到系统讨论，数学传统后来经翻译影响伊斯兰世界。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-brahmagupta"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "628年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 279,
+    "id": "ann-chron-world-south-asia-0677",
+    "title": "玄奘在南亚求法",
+    "start": 629,
+    "end": 645,
+    "summary": "寺院教育、王国外交和地方风俗进入旅行记录，成为研究七世纪南亚的重要材料。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-660cbef5e14a"
+    ],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "629年—645年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 286,
+    "id": "ann-chron-world-south-asia-0678",
+    "title": "帕拉瓦攻陷瓦塔皮",
+    "start": 642,
+    "end": 642,
+    "summary": "南印度王国争夺德干优势，战争与寺院建筑赞助共同塑造区域历史。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "642年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 288,
+    "id": "ann-chron-world-south-asia-0679",
+    "title": "戒日王去世",
+    "start": 647,
+    "end": 647,
+    "summary": "缺乏稳定继承使北印度再度分裂，区域王朝和地方贵族力量扩大。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "647年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 312,
+    "id": "ann-chron-world-south-asia-0680",
+    "title": "阿拉伯军队征服信德",
+    "start": 712,
+    "end": 712,
+    "summary": "伊斯兰政治进入印度河下游，与早已存在的印度洋穆斯林商贸形成不同接触路径。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "712年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 317,
+    "id": "ann-chron-world-south-asia-0681",
+    "title": "波罗王朝建立",
+    "start": 750,
+    "end": 750,
+    "summary": "孟加拉地方领袖推举瞿波罗，王朝随后支持佛教寺院、雕塑和跨喜马拉雅交流。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-e1e42fd5791e"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约750年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 325,
+    "id": "ann-chron-world-south-asia-0682",
+    "title": "凯拉萨神庙开凿",
+    "start": 760,
+    "end": 760,
+    "summary": "罗湿陀罗拘陀王室支持埃洛拉整岩建筑，宗教赞助与高水平石工技术相结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约760年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 330,
+    "id": "ann-chron-world-south-asia-0683",
+    "title": "商羯罗活动的传统纪年",
+    "start": 788,
+    "end": 788,
+    "summary": "不二论哲学系统解释自我与梵，生平年代和寺院建立叙事存在争议。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-c2efc7bd43e9"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约788年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 346,
+    "id": "ann-chron-world-south-asia-0684",
+    "title": "朱罗王权复兴",
+    "start": 850,
+    "end": 850,
+    "summary": "维阇耶拉耶控制坦贾武尔，泰米尔农业、寺院与海上贸易支持新的区域强权。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约850年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 382,
+    "id": "ann-chron-world-south-asia-0685",
+    "title": "罗阇罗阇一世即位",
+    "start": 985,
+    "end": 985,
+    "summary": "朱罗扩张至斯里兰卡等地，土地登记、寺院行政和军事动员紧密结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-rajaraja"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "985年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 392,
+    "id": "ann-chron-world-south-asia-0686",
+    "title": "坦贾武尔大寺建成",
+    "start": 1010,
+    "end": 1010,
+    "summary": "高塔、铭文与供养记录展示朱罗王权、舞蹈、土地和寺院经济的关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1010年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 394,
+    "id": "ann-chron-world-south-asia-0687",
+    "title": "拉金德拉一世继位",
+    "start": 1014,
+    "end": 1014,
+    "summary": "朱罗继续陆海扩张，远征和贸易使南印度更深参与孟加拉湾网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-58f77dd03756"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1014年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 400,
+    "id": "ann-chron-world-south-asia-0688",
+    "title": "朱罗远征室利佛逝",
+    "start": 1025,
+    "end": 1025,
+    "summary": "海上军队袭击港口网络，显示印度洋贸易竞争与南亚国家力量的结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1025年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 401,
+    "id": "ann-chron-world-south-asia-0689",
+    "title": "比鲁尼完成印度研究前后",
+    "start": 1030,
+    "end": 1030,
+    "summary": "通过语言和文献比较描述宗教、科学与习俗，跨文化观察留下重要知识记录。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-64dce4e77851"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。活动或著作形成的约略纪年，不能理解为确定的单一发生年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1030年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 407,
+    "id": "ann-chron-world-south-asia-0690",
+    "title": "罗摩奴阇思想活动展开",
+    "start": 1050,
+    "end": 1050,
+    "summary": "强调虔敬与有属性不二论，神与信徒关系在南印度宗教实践中得到新的阐释。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-e0de10b15c4d"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1050年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 437,
+    "id": "ann-chron-world-south-asia-0691",
+    "title": "婆什迦罗二世数学著作完成",
+    "start": 1150,
+    "end": 1150,
+    "summary": "算术、代数和天文计算继续发展，南亚数学具有延续的教学和研究传统。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-2f996f942307"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1150年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 451,
+    "id": "ann-chron-world-south-asia-0692",
+    "title": "第一次塔兰战役",
+    "start": 1191,
+    "end": 1191,
+    "summary": "普里特维拉杰击退古尔军队，北印度政治竞争尚未形成稳定结局。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1191年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 453,
+    "id": "ann-chron-world-south-asia-0693",
+    "title": "第二次塔兰战役",
+    "start": 1192,
+    "end": 1192,
+    "summary": "古尔军队取得胜利，为德里地区突厥军事政权的发展打开道路。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1192年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 472,
+    "id": "ann-chron-world-south-asia-0695",
+    "title": "拉齐娅成为德里苏丹",
+    "start": 1236,
+    "end": 1236,
+    "summary": "女性君主挑战军事贵族政治，但短暂统治在宫廷与地方反抗中结束。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-a6ab73b1e403"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1236年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 504,
+    "id": "ann-chron-world-south-asia-0696",
+    "title": "阿拉乌丁·卡尔吉掌权",
+    "start": 1296,
+    "end": 1296,
+    "summary": "对外扩张与市场、税收管制并行，国家试图以财政和粮食管理支持常备军。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-7926eb0cea71"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1296年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 515,
+    "id": "ann-chron-world-south-asia-0697",
+    "title": "穆罕默德·图格鲁克即位",
+    "start": 1325,
+    "end": 1325,
+    "summary": "迁都、货币和税制实验体现中央化雄心，也引发逃亡、叛乱与财政危机。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-d52224c7a7b7"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1325年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 521,
+    "id": "ann-chron-world-south-asia-0698",
+    "title": "毗奢耶那伽罗王国建立",
+    "start": 1336,
+    "end": 1336,
+    "summary": "南印度新政权控制农业和商路，寺院城市与多语言宫廷文化继续繁荣。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1336年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 523,
+    "id": "ann-chron-world-south-asia-0699",
+    "title": "巴赫曼尼苏丹国建立",
+    "start": 1347,
+    "end": 1347,
+    "summary": "德干脱离德里控制，波斯文化、本地精英和军事贵族构成新的统治联盟。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1347年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 545,
+    "id": "ann-chron-world-south-asia-0700",
+    "title": "帖木儿洗劫德里",
+    "start": 1398,
+    "end": 1398,
+    "summary": "城市与人口遭严重破坏，德里中央权力进一步削弱，地方王国趁势发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1398年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 572,
+    "id": "ann-chron-world-south-asia-0701",
+    "title": "洛迪王朝建立",
+    "start": 1451,
+    "end": 1451,
+    "summary": "阿富汗贵族掌握德里，部族分权与苏丹中央化之间存在持续张力。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1451年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 581,
+    "id": "ann-chron-world-south-asia-0702",
+    "title": "那纳克出生",
+    "start": 1469,
+    "end": 1469,
+    "summary": "其后教导强调神的唯一、平等和虔敬，锡克宗教共同体逐渐形成。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-2609b481f4d5"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1469年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 594,
+    "id": "ann-chron-world-south-asia-0703",
+    "title": "达·伽马抵达卡利卡特",
+    "start": 1498,
+    "end": 1498,
+    "summary": "葡萄牙进入既有印度洋商贸网络，武装海权与港口外交逐渐改变区域贸易。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-3b778b6e91b3"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1498年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 601,
+    "id": "ann-chron-world-south-asia-0704",
+    "title": "葡萄牙占领果阿",
+    "start": 1510,
+    "end": 1510,
+    "summary": "据点成为葡属亚洲行政、宗教和商业中心，殖民权力与地方社会长期互动。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1510年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 618,
+    "id": "ann-chron-world-south-asia-0705",
+    "title": "第一次帕尼帕特战役",
+    "start": 1526,
+    "end": 1526,
+    "summary": "巴布尔击败洛迪，莫卧儿王朝建立，火器和骑兵组织共同影响军事结果。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-babur"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1526年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 621,
+    "id": "ann-chron-world-south-asia-0706",
+    "title": "汗瓦战役",
+    "start": 1527,
+    "end": 1527,
+    "summary": "巴布尔击败拉杰普特联盟，巩固其在北印度新建立的统治。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1527年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 633,
+    "id": "ann-chron-world-south-asia-0707",
+    "title": "舍尔沙击败胡马雍",
+    "start": 1540,
+    "end": 1540,
+    "summary": "苏尔王朝短暂取代莫卧儿，土地财政、道路和货币整顿影响后续帝国治理。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-779bf6eac6a7",
+      "ann-person-6be9f56f6109"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1540年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 644,
+    "id": "ann-chron-world-south-asia-0708",
+    "title": "胡马雍恢复德里统治",
+    "start": 1555,
+    "end": 1555,
+    "summary": "莫卧儿王朝重建，但君主次年死亡使继承和军事巩固问题再次紧迫。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1555年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 646,
+    "id": "ann-chron-world-south-asia-0709",
+    "title": "阿克巴即位与第二次帕尼帕特战役",
+    "start": 1556,
+    "end": 1556,
+    "summary": "莫卧儿稳定核心地区，随后通过战争、婚姻和官僚制形成广阔帝国。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-akbar"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1556年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 650,
+    "id": "ann-chron-world-south-asia-0710",
+    "title": "阿克巴废除吉兹亚税",
+    "start": 1564,
+    "end": 1564,
+    "summary": "宗教政策寻求吸纳非穆斯林精英，帝国多元治理仍伴随王室权力扩张。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1564年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 651,
+    "id": "ann-chron-world-south-asia-0711",
+    "title": "塔利科塔战役",
+    "start": 1565,
+    "end": 1565,
+    "summary": "德干苏丹联军击败毗奢耶那伽罗，首都遭毁，但南印度政治文化并未随之消失。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1565年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 659,
+    "id": "ann-chron-world-south-asia-0712",
+    "title": "法泰赫普尔西克里营建",
+    "start": 1571,
+    "end": 1571,
+    "summary": "阿克巴新都以宫殿、清真寺和多种工艺表达帝国与宗教赞助。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1571年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 665,
+    "id": "ann-chron-world-south-asia-0713",
+    "title": "哈尔迪加蒂战役",
+    "start": 1576,
+    "end": 1576,
+    "summary": "莫卧儿与梅瓦尔军队作战，拉杰普特与帝国关系包含臣属、协商和持续抵抗。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1576年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 670,
+    "id": "ann-chron-world-south-asia-0714",
+    "title": "阿克巴宗教实践新探索",
+    "start": 1582,
+    "end": 1582,
+    "summary": "宫廷讨论多种信仰并强调君主伦理，不能把人数有限的亲近仪式夸大为全国性新宗教。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1582年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 684,
+    "id": "ann-chron-world-south-asia-0715",
+    "title": "英国东印度公司获特许",
+    "start": 1600,
+    "end": 1600,
+    "summary": "英国商人组织逐渐在南亚设商站，早期商业活动尚依赖本地统治者许可。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1600年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 691,
+    "id": "ann-chron-world-south-asia-0716",
+    "title": "贾汉吉尔即位",
+    "start": 1605,
+    "end": 1605,
+    "summary": "莫卧儿宫廷绘画、自然观察与王室纪事发展，帝国治理仍依赖贵族联盟。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-8a4308b29f54"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1605年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 694,
+    "id": "ann-chron-world-south-asia-0717",
+    "title": "锡克古鲁阿尔琼被处死",
+    "start": 1606,
+    "end": 1606,
+    "summary": "莫卧儿与锡克共同体关系恶化，宗教组织逐步发展新的政治和军事形态。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-7e6cc2e02135"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1606年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 701,
+    "id": "ann-chron-world-south-asia-0718",
+    "title": "英国在苏瓦利海战获胜",
+    "start": 1612,
+    "end": 1612,
+    "summary": "英国商人挑战葡萄牙海上优势，并在莫卧儿许可下扩大苏拉特贸易。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1612年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 713,
+    "id": "ann-chron-world-south-asia-0719",
+    "title": "沙贾汗即位",
+    "start": 1628,
+    "end": 1628,
+    "summary": "王朝以建筑和宫廷礼仪展示繁荣，军事与营建费用也依赖广泛土地税收。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-shahjahan"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1628年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 717,
+    "id": "ann-chron-world-south-asia-0720",
+    "title": "泰姬陵开建",
+    "start": 1632,
+    "end": 1632,
+    "summary": "陵墓以白色大理石、花园和嵌饰工艺体现莫卧儿建筑及跨地区匠作传统。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1632年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 740,
+    "id": "ann-chron-world-south-asia-0721",
+    "title": "奥朗则布夺位",
+    "start": 1658,
+    "end": 1658,
+    "summary": "继承战争使其掌权，长期德干战争和宗教政策争议加重帝国资源压力。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-6d695cd6cb12"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1658年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 748,
+    "id": "ann-chron-world-south-asia-0722",
+    "title": "希瓦吉加冕",
+    "start": 1674,
+    "end": 1674,
+    "summary": "马拉塔王权通过堡垒、地方网络和军队组织挑战德干既有势力。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "wp-shivaji"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1674年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 750,
+    "id": "ann-chron-world-south-asia-0723",
+    "title": "奥朗则布恢复吉兹亚税",
+    "start": 1679,
+    "end": 1679,
+    "summary": "对非穆斯林征税成为宗教政治争议焦点，地方冲突同时具有财政和权力背景。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1679年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 766,
+    "id": "ann-chron-world-south-asia-0724",
+    "title": "锡克卡尔萨共同体建立",
+    "start": 1699,
+    "end": 1699,
+    "summary": "戈宾德·辛格强化入教礼与平等纪律，宗教共同体和武装自卫关系更加紧密。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-0d40407f2dde"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1699年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 776,
+    "id": "ann-chron-world-south-asia-0725",
+    "title": "奥朗则布去世",
+    "start": 1707,
+    "end": 1707,
+    "summary": "继承斗争与区域强权增长削弱中央，莫卧儿名义主权仍延续很久。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1707年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 790,
+    "id": "ann-chron-world-south-asia-0726",
+    "title": "纳迪尔沙攻陷德里",
+    "start": 1739,
+    "end": 1739,
+    "summary": "掠夺和屠杀重创城市与王室威望，南亚区域势力和外来竞争加速重组。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1739年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 802,
+    "id": "ann-chron-world-south-asia-0728",
+    "title": "第三次帕尼帕特战役",
+    "start": 1761,
+    "end": 1761,
+    "summary": "杜兰尼军队击败马拉塔，北印度权力未被单一国家稳定整合。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1761年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 807,
+    "id": "ann-chron-world-south-asia-0729",
+    "title": "布克萨尔战役",
+    "start": 1764,
+    "end": 1764,
+    "summary": "公司军队击败孟加拉、奥德与莫卧儿联军，为取得税收权奠定军事基础。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1764年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 809,
+    "id": "ann-chron-world-south-asia-0730",
+    "title": "公司取得孟加拉迪瓦尼权",
+    "start": 1765,
+    "end": 1765,
+    "summary": "税收权把商业、财政和行政统治结合，公司殖民国家开始形成。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1765年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 814,
+    "id": "ann-chron-world-south-asia-0731",
+    "title": "孟加拉大饥荒",
+    "start": 1770,
+    "end": 1770,
+    "summary": "歉收与殖民征税、贸易和救济失灵交织，人口遭受巨大损失。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1770年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 821,
+    "id": "ann-chron-world-south-asia-0732",
+    "title": "英国《规制法》",
+    "start": 1773,
+    "end": 1773,
+    "summary": "议会加强对公司统治的监督，商业利益与国家殖民治理之间重新分配权力。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1773年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 838,
+    "id": "ann-chron-world-south-asia-0733",
+    "title": "英国《印度法》",
+    "start": 1784,
+    "end": 1784,
+    "summary": "公司事务进一步纳入政府控制，英国国家与公司共同管理印度扩张。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1784年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 853,
+    "id": "ann-chron-world-south-asia-0734",
+    "title": "孟加拉永久地税制",
+    "start": 1793,
+    "end": 1793,
+    "summary": "固定地主地税责任重塑土地关系，农民与地主、殖民财政之间的不平等加深。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1793年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 863,
+    "id": "ann-chron-world-south-asia-0735",
+    "title": "蒂普苏丹战死",
+    "start": 1799,
+    "end": 1799,
+    "summary": "迈索尔首都被英军攻占，南印度重要反殖民军事力量遭到击败。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-da4ef656acce"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1799年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 869,
+    "id": "ann-chron-world-south-asia-0736",
+    "title": "英国公司控制德里",
+    "start": 1803,
+    "end": 1803,
+    "summary": "莫卧儿皇帝逐渐成为殖民保护下的象征，英国在北印度的军事影响扩大。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1803年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 898,
+    "id": "ann-chron-world-south-asia-0737",
+    "title": "英国控制康提王国",
+    "start": 1815,
+    "end": 1815,
+    "summary": "斯里兰卡内陆王权终结，殖民行政逐渐覆盖全岛。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1815年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 902,
+    "id": "ann-chron-world-south-asia-0738",
+    "title": "第三次英国马拉塔战争",
+    "start": 1817,
+    "end": 1818,
+    "summary": "公司击败马拉塔主要势力，印度大部分地区进入直接统治或土邦附属体系。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1817年—1818年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 925,
+    "id": "ann-chron-world-south-asia-0739",
+    "title": "梵社成立",
+    "start": 1828,
+    "end": 1828,
+    "summary": "拉姆莫汉·罗伊推动宗教与社会改革，印度现代公共讨论结合本土思想与全球知识。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-bf825fe5520b"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1828年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 926,
+    "id": "ann-chron-world-south-asia-0740",
+    "title": "孟加拉禁止娑提",
+    "start": 1829,
+    "end": 1829,
+    "summary": "殖民政府在本地改革者支持下禁止寡妇殉夫，宗教、性别与治理权争论持续。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1829年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 943,
+    "id": "ann-chron-world-south-asia-0741",
+    "title": "英国教育政策转向英语",
+    "start": 1835,
+    "end": 1835,
+    "summary": "精英教育资源倾向英语教学，新的知识阶层和语言不平等同时发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1835年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 949,
+    "id": "ann-chron-world-south-asia-0742",
+    "title": "兰季特·辛格去世",
+    "start": 1839,
+    "end": 1839,
+    "summary": "锡克王国陷入继承与军队权力冲突，英国势力乘机向旁遮普推进。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-b8dbab55b757"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1839年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 954,
+    "id": "ann-chron-world-south-asia-0743",
+    "title": "英国吞并信德",
+    "start": 1843,
+    "end": 1843,
+    "summary": "公司以军事征服控制印度河下游，西北边境与商业交通被纳入殖民体系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1843年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 966,
+    "id": "ann-chron-world-south-asia-0744",
+    "title": "英国吞并旁遮普",
+    "start": 1849,
+    "end": 1849,
+    "summary": "第二次英锡战争后锡克王国结束，南亚西北权力格局改变。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1849年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 976,
+    "id": "ann-chron-world-south-asia-0745",
+    "title": "印度第一条客运铁路开通",
+    "start": 1853,
+    "end": 1853,
+    "summary": "孟买至塔那线路开启铁路时代，殖民运输、市场联系与劳工流动共同扩大。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1853年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 986,
+    "id": "ann-chron-world-south-asia-0746",
+    "title": "印度大起义",
+    "start": 1857,
+    "end": 1857,
+    "summary": "军人兵变与农民、地方王权反抗结合，各地诉求多样，并非整齐一致的现代民族运动。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1857年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 992,
+    "id": "ann-chron-world-south-asia-0747",
+    "title": "英国王室直接统治印度",
+    "start": 1858,
+    "end": 1858,
+    "summary": "公司统治终结，殖民行政改组，并通过土邦和社会分层维持帝国秩序。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1858年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 999,
+    "id": "ann-chron-world-south-asia-0748",
+    "title": "印度立法议会制度调整",
+    "start": 1861,
+    "end": 1861,
+    "summary": "殖民政府有限吸纳地方精英，参与空间仍受到总督权力和种族秩序约束。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1861年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1041,
+    "id": "ann-chron-world-south-asia-0749",
+    "title": "阿里格尔教育改革推进",
+    "start": 1875,
+    "end": 1875,
+    "summary": "赛义德·艾哈迈德·汗创办学院，穆斯林现代教育与政治身份讨论逐步发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-a08ceaaf2366"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1875年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1043,
+    "id": "ann-chron-world-south-asia-0750",
+    "title": "南亚大饥荒",
+    "start": 1876,
+    "end": 1878,
+    "summary": "季风异常、市场流通与殖民救济政策共同造成广泛灾难，饥荒治理受到批评。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1876年—1878年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1068,
+    "id": "ann-chron-world-south-asia-0751",
+    "title": "印度国民大会党成立",
+    "start": 1885,
+    "end": 1885,
+    "summary": "受教育精英组织全国性政治平台，早期以请愿和制度改革争取更多参与。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1885年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1090,
+    "id": "ann-chron-world-south-asia-0752",
+    "title": "辨喜在芝加哥发表演说",
+    "start": 1893,
+    "end": 1893,
+    "summary": "印度宗教思想进入国际公共舞台，全球宗教对话与本土文化自信相互关联。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-5564d8961eba"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1893年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1131,
+    "id": "ann-chron-world-south-asia-0754",
+    "title": "全印穆斯林联盟成立",
+    "start": 1906,
+    "end": 1906,
+    "summary": "部分穆斯林精英建立政治组织，代表权与共同体利益成为殖民制度改革焦点。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1906年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1145,
+    "id": "ann-chron-world-south-asia-0755",
+    "title": "明托—莫利改革",
+    "start": 1909,
+    "end": 1909,
+    "summary": "选举参与有限扩大并引入穆斯林单独选举安排，政治代表制度强化社群分类。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1909年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1151,
+    "id": "ann-chron-world-south-asia-0756",
+    "title": "孟加拉分治撤销与迁都德里",
+    "start": 1911,
+    "end": 1911,
+    "summary": "英王宣布政策调整，殖民国家以象征和行政重组回应民族运动压力。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1911年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1157,
+    "id": "ann-chron-world-south-asia-0757",
+    "title": "德里总督遇袭",
+    "start": 1912,
+    "end": 1912,
+    "summary": "激进反殖民者袭击哈定总督，显示民族运动内部存在多种斗争路线。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2",
+      "chron-world-harvard"
+    ],
+    "personIds": [
+      "ann-person-142de242beae"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1912年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "south-asia",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  }
+]

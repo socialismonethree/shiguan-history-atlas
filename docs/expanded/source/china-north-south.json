@@ -1,0 +1,2964 @@
+[
+  {
+    "_order": 456,
+    "id": "ann-ce-0481",
+    "title": "刘裕代晋建宋",
+    "start": 420,
+    "end": 420,
+    "summary": "刘裕迫使晋帝禅位建立刘宋，结束东晋，南方进入宋齐梁陈相继更替的南朝阶段。",
+    "importance": "军人集团取代门阀核心，但士族社会仍持续影响政治。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-e622c7d05680"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "420年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86465,
+        "lineEnd": 86465
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 457,
+    "id": "ann-ce-0482",
+    "title": "刘裕去世与宋初辅政",
+    "start": 422,
+    "end": 422,
+    "summary": "刘裕死后辅政大臣掌握政务，皇位继承与官僚集团冲突使新王朝很快出现权力危机。",
+    "importance": "新政权依旧面对开国君主去世后的稳定难题。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-f6fdec5fb232"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "422年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 宋初内政及北强南弱局势的形成",
+        "lineStart": 87393,
+        "lineEnd": 87393
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 458,
+    "id": "ann-ce-0483",
+    "title": "宋文帝即位",
+    "start": 424,
+    "end": 424,
+    "summary": "辅政集团废少帝而立刘义隆，宋文帝逐步亲政，开始建立较长期稳定的中央统治。",
+    "importance": "皇帝与辅臣关系决定南朝初期政治方向。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9fa0a45e48e0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "424年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 魏晋南北朝与南海各国的经济文化交流",
+        "lineStart": 92090,
+        "lineEnd": 92090
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 459,
+    "id": "ann-ce-0484",
+    "title": "宋文帝清除辅政集团",
+    "start": 426,
+    "end": 426,
+    "summary": "宋文帝诛徐羡之、傅亮并击败谢晦，收回中央与荆州的关键权力。",
+    "importance": "长江中游军镇与建康朝廷的关系继续影响王朝稳定。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9fa0a45e48e0",
+      "ann-person-884310c5c656"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "426年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 北方流民的南下与东晋政府的对策",
+        "lineStart": 87064,
+        "lineEnd": 87064
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 460,
+    "id": "ann-ce-0485",
+    "title": "北魏攻破统万城",
+    "start": 427,
+    "end": 427,
+    "summary": "北魏击败夏国并取得统万，关陇和草原边缘的力量对比发生变化，北方统一加快。",
+    "importance": "拓跋政权通过控制军事与交通节点扩大整合能力。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "tuobatao",
+      "ann-person-184883c7a166"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "427年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86395,
+        "lineEnd": 86395
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 461,
+    "id": "ann-ce-0486",
+    "title": "刘宋第一次元嘉北伐",
+    "start": 430,
+    "end": 430,
+    "summary": "宋军北伐河南一度取得据点，随后在北魏反攻和补给困难下失利。",
+    "importance": "南北政权对峙受到骑兵、河道和持续供给能力制约。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9fa0a45e48e0",
+      "ann-person-cf8398c2cab4"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "430年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 宋齐梁的更替与南朝世族制度的僵化",
+        "lineStart": 87619,
+        "lineEnd": 87619
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 462,
+    "id": "ann-ce-0487",
+    "title": "夏国灭亡",
+    "start": 431,
+    "end": 431,
+    "summary": "夏国在北魏等力量连续打击后消失，北方独立政权数量减少，统一趋势增强。",
+    "importance": "区域国家覆亡常是多方作用而非单次战争的结果。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-6069292b1c4a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "431年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86397,
+        "lineEnd": 86397
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 463,
+    "id": "ann-ce-0488",
+    "title": "北魏灭北燕",
+    "start": 436,
+    "end": 436,
+    "summary": "北魏控制辽西北燕地区，东北与华北联系进一步整合，冯氏政权结束。",
+    "importance": "北方统一在西北与东北多个方向连续推进。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "tuobatao",
+      "ann-person-7f0b14d4eb99"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "436年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86307,
+        "lineEnd": 86307
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 464,
+    "id": "ann-ce-0489",
+    "title": "北魏灭北凉",
+    "start": 439,
+    "end": 439,
+    "summary": "北魏攻占河西北凉，基本统一北方，南北朝对峙的主要格局形成。",
+    "importance": "河西丝路通道和人口资源被纳入更大国家体系。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "tuobatao",
+      "ann-person-2b6d051afea6"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "439年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 西、北各少数民族的内迁",
+        "lineStart": 84858,
+        "lineEnd": 84858
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 465,
+    "id": "ann-ce-0490",
+    "title": "北魏采用道教政治仪式",
+    "start": 440,
+    "end": 440,
+    "summary": "寇谦之等推动道教与北魏皇权结合，宗教、官僚与王朝合法性的联系进一步加强。",
+    "importance": "宗教政策体现国家整合不同政治文化资源的尝试。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-c0773e4b064b",
+      "ann-person-74d9775814af"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "440年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 道教的形成与发展",
+        "lineStart": 92779,
+        "lineEnd": 92779
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 466,
+    "id": "ann-ce-0491",
+    "title": "北魏巡行北方与历史记忆",
+    "start": 443,
+    "end": 443,
+    "summary": "北魏通过巡行、祭祀等活动强化对北方的统治，并塑造拓跋集团共同起源的王朝叙事。",
+    "importance": "国家形成也包含对自身历史和地域认同的重新解释。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "tuobatao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "443年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 东汉王朝的崩溃",
+        "lineStart": 83286,
+        "lineEnd": 83286
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 467,
+    "id": "ann-ce-0492",
+    "title": "北魏太武帝灭佛",
+    "start": 446,
+    "end": 446,
+    "summary": "北魏在战争及宫廷政治背景下严厉打击佛教，寺院、僧侣和经典遭受破坏。",
+    "importance": "宗教政策随国家财政、集团关系和皇帝判断剧烈变化。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "tuobatao",
+      "ann-person-74d9775814af"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "446年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 反佛教的斗争与范缜的无神论思想",
+        "lineStart": 93523,
+        "lineEnd": 93523
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 468,
+    "id": "ann-ce-0493",
+    "title": "宋魏大战",
+    "start": 450,
+    "end": 450,
+    "summary": "刘宋北伐受挫后北魏深入南下，双方沿江淮进行大战，人口和农业遭严重破坏。",
+    "importance": "南北战争的长期成本主要落在沿线地区与居民身上。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9fa0a45e48e0",
+      "tuobatao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "450年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86561,
+        "lineEnd": 86561
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 469,
+    "id": "ann-ce-0494",
+    "title": "崔浩国史案",
+    "start": 450,
+    "end": 450,
+    "summary": "崔浩因国史等问题被杀并牵连多人，反映北魏统治集团内部的政治与文化张力。",
+    "importance": "历史书写触及王朝起源、贵族身份与现实权力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-74d9775814af"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "450年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 北魏孝文帝的均田、迁都与改革",
+        "lineStart": 89592,
+        "lineEnd": 89592
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 470,
+    "id": "ann-ce-0495",
+    "title": "北魏太武帝被杀",
+    "start": 452,
+    "end": 452,
+    "summary": "宫廷政变杀死拓跋焘，继承斗争后文成帝即位，北魏重新调整政治与宗教政策。",
+    "importance": "征服型君主去世后，国家需要恢复稳定的权力交接。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "tuobatao",
+      "ann-person-b08650e33f47"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "452年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 反佛教的斗争与范缜的无神论思想",
+        "lineStart": 93527,
+        "lineEnd": 93527
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 471,
+    "id": "ann-ce-0496",
+    "title": "宋文帝被太子杀害",
+    "start": 453,
+    "end": 453,
+    "summary": "刘劭弑父夺位后被刘骏击败，刘宋发生严重皇室内战，元嘉时期的稳定秩序结束。",
+    "importance": "皇室内部竞争成为南朝政治破坏的重要来源。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-c84c3d4f164c",
+      "ann-person-f427196d5fa1",
+      "ann-person-9fa0a45e48e0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "453年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 宋齐梁的更替与南朝世族制度的僵化",
+        "lineStart": 87455,
+        "lineEnd": 87455
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 472,
+    "id": "ann-ce-0497",
+    "title": "云冈石窟大规模开凿",
+    "start": 460,
+    "end": 460,
+    "summary": "北魏在平城附近组织佛教石窟营造，皇室形象、佛教艺术和不同地区工匠经验相互融合。",
+    "importance": "宗教艺术成为观察王朝政治与跨地域文化交流的窗口。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-ec30a69d9da5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "460年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 北魏末年的各族人民大起义",
+        "lineStart": 90002,
+        "lineEnd": 90002
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 473,
+    "id": "ann-ce-0498",
+    "title": "刘宋前废帝被杀",
+    "start": 465,
+    "end": 465,
+    "summary": "刘宋皇室接连发生暴力政变，明帝掌权后宗室与地方军事势力再度分裂对立。",
+    "importance": "继承不稳使南方国家难以持续经营北方战线。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-3c756eda9a60",
+      "ann-person-a3b46f708334"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "465年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 南朝自耕小农经济的继续衰颓与军事力量的继续衰落",
+        "lineStart": 87893,
+        "lineEnd": 87893
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 474,
+    "id": "ann-ce-0499",
+    "title": "刘宋内战与淮北易手",
+    "start": 466,
+    "end": 466,
+    "summary": "刘宋内部争位引发地方将领转投北魏，淮北大片地区控制权转移，南北力量更趋不利于南朝。",
+    "importance": "内部政治冲突能够直接改变国家疆界和战略纵深。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-3c756eda9a60",
+      "ann-person-59016ef3e610"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "466年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 北方流民的南下与东晋政府的对策",
+        "lineStart": 86926,
+        "lineEnd": 86926
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 475,
+    "id": "ann-ce-0500",
+    "title": "孝文帝即位与冯太后辅政",
+    "start": 471,
+    "end": 471,
+    "summary": "北魏孝文帝幼年即位，冯太后参与掌政，为官僚、赋税及社会制度改革积累条件。",
+    "importance": "北魏制度转型依托长期辅政与政策连续性。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "xiaowen",
+      "ann-person-7c73b37d9aad"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "471年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 476,
+    "id": "ann-ce-0501",
+    "title": "柔然北方活动与北魏防御",
+    "start": 476,
+    "end": 476,
+    "summary": "柔然在草原持续活动，北魏需兼顾北部防线与中原治理，六镇的战略地位由此凸显。",
+    "importance": "迁都和农业化不能消除北方军事体系的资源需求。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "476年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "序言",
+        "lineStart": 83153,
+        "lineEnd": 83153
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 477,
+    "id": "ann-ce-0502",
+    "title": "萧道成代宋建齐",
+    "start": 479,
+    "end": 479,
+    "summary": "萧道成控制刘宋军政后称帝建立南齐，南朝再次以军事强臣禅代完成王朝更替。",
+    "importance": "更换皇室并未彻底改造士族、军镇与地方社会结构。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-80830cde9388"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "479年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 炼钢技术与机械发明",
+        "lineStart": 95905,
+        "lineEnd": 95905
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 478,
+    "id": "ann-ce-0506",
+    "title": "永明文学兴起",
+    "start": 483,
+    "end": 493,
+    "summary": "南齐文学界关注声律、对偶和诗歌审美，沈约等人的活动推动古体向近体诗的发展。",
+    "importance": "社会分裂时期仍发生深刻的文学形式创新。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-86ce85a00504",
+      "ann-person-cb51dcad0c50",
+      "ann-person-a586dd16a138"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "483年—493年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第七节 江南经济的发展",
+        "lineStart": 88529,
+        "lineEnd": 88529
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 479,
+    "id": "ann-ce-0503",
+    "title": "北魏班禄",
+    "start": 484,
+    "end": 484,
+    "summary": "北魏建立较明确的官吏俸禄制度，试图限制官员依赖地方搜括并提高行政控制力。",
+    "importance": "中央财政能力关系官僚秩序能否持续运作。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "xiaowen",
+      "ann-person-7c73b37d9aad"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "484年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 480,
+    "id": "ann-ce-0504",
+    "title": "北魏均田令",
+    "start": 485,
+    "end": 485,
+    "summary": "北魏规定土地授受与承担赋役的制度，国家尝试把流散人口和土地重新纳入统一登记。",
+    "importance": "均田核心在于建立赋役秩序，不能视为完全平均分地。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaowen",
+      "ann-person-7c73b37d9aad",
+      "ann-person-ff0e9548f1f1"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "485年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84371,
+        "lineEnd": 84371
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 481,
+    "id": "ann-ce-0505",
+    "title": "北魏三长制",
+    "start": 486,
+    "end": 486,
+    "summary": "北魏设置邻、里、党等基层组织，取代部分豪强宗主督护关系，提高户口与赋役掌握能力。",
+    "importance": "基层制度改革直接触动大族控制人口的权力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "lichong",
+      "xiaowen"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "486年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84307,
+        "lineEnd": 84307
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 482,
+    "id": "ann-ce-0507",
+    "title": "北魏决定迁都洛阳",
+    "start": 493,
+    "end": 493,
+    "summary": "孝文帝以南下行动推动迁都，试图靠近中原资源与政治文化中心，重构国家统治基础。",
+    "importance": "迁都同时影响贵族生活、边镇关系与战略方向。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaowen"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "493年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 曹操的统一北方",
+        "lineStart": 83436,
+        "lineEnd": 83436
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 483,
+    "id": "ann-ce-0509",
+    "title": "北魏改姓与服制语言改革",
+    "start": 495,
+    "end": 495,
+    "summary": "孝文帝调整上层社会的姓名、服饰、语言和婚姻规范，强调与中原士族秩序接轨。",
+    "importance": "文化政策加强统治整合，也使部分北方军镇感到疏离。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaowen"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "495年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86363,
+        "lineEnd": 86363
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 484,
+    "id": "ann-ce-0510",
+    "title": "北魏废太子",
+    "start": 496,
+    "end": 496,
+    "summary": "太子因反对南迁及相关政治冲突被废，改革在皇室内部同样引发抵抗。",
+    "importance": "国家文化转型并非统一自愿接受的线性过程。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaowen",
+      "ann-person-85146b0f4748"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "496年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 北魏孝文帝的均田、迁都与改革",
+        "lineStart": 89548,
+        "lineEnd": 89548
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 485,
+    "id": "ann-ce-0511",
+    "title": "孝文帝南征",
+    "start": 497,
+    "end": 497,
+    "summary": "北魏继续向南方推进，在汉水等地争取据点，改革与对外战争并行消耗国家资源。",
+    "importance": "制度整合与军事扩张之间仍存在财政和组织张力。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaowen"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "497年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北魏初期的社会性质",
+        "lineStart": 89352,
+        "lineEnd": 89352
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 486,
+    "id": "ann-ce-0512",
+    "title": "孝文帝去世",
+    "start": 499,
+    "end": 499,
+    "summary": "孝文帝在军事行动中去世，其改革继续影响北魏，但贵族、边镇与地方社会矛盾未获根除。",
+    "importance": "改革成果与未解决的结构问题同时留给继承者。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaowen"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "499年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北魏初期的社会性质",
+        "lineStart": 89256,
+        "lineEnd": 89256
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 487,
+    "id": "ann-ce-0513",
+    "title": "南齐东昏侯被杀",
+    "start": 501,
+    "end": 501,
+    "summary": "萧衍起兵进攻建康，齐帝被杀，南齐皇室政治崩溃，军事集团开始准备改朝换代。",
+    "importance": "暴力继承与地方军权相互推动南朝王朝更替。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaoyan",
+      "ann-person-38253dda4ae0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "501年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84331,
+        "lineEnd": 84331
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 488,
+    "id": "ann-ce-0517",
+    "title": "梁朝加强儒学与佛教支持",
+    "start": 502,
+    "end": 520,
+    "summary": "梁武帝同时倡导经学教育和佛教活动，国家礼制、寺院经济及士人文化形成复杂互动。",
+    "importance": "宗教政策不能简单用崇佛一词替代其制度与社会背景。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaoyan"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "502年—520年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 反佛教的斗争与范缜的无神论思想",
+        "lineStart": 93527,
+        "lineEnd": 93527
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 489,
+    "id": "ann-ce-0514",
+    "title": "萧衍建梁",
+    "start": 502,
+    "end": 502,
+    "summary": "萧衍接受禅位建立梁朝，初期整顿政务并吸纳士人，南方出现较长时期的文化与经济发展。",
+    "importance": "新王朝稳定依赖资源恢复和精英合作，而非只靠更换国号。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiaoyan"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "502年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 北方流民的南下与东晋政府的对策",
+        "lineStart": 86960,
+        "lineEnd": 86960
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 490,
+    "id": "ann-ce-0515",
+    "title": "范缜讨论神灭论",
+    "start": 505,
+    "end": 505,
+    "summary": "范缜强调形神关系，批评灵魂独立与佛教相关观念，引发上层社会和学术界广泛争论。",
+    "importance": "南朝思想生活包含宗教繁荣与理性批评的并行发展。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-8f2f957ee873"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "505年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 反佛教的斗争与范缜的无神论思想",
+        "lineStart": 93443,
+        "lineEnd": 93443
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 491,
+    "id": "ann-ce-0516",
+    "title": "钟离之战",
+    "start": 507,
+    "end": 507,
+    "summary": "梁军击败北魏大军，北魏南下受挫，江淮边界暂时稳定，梁朝获得重要军事声望。",
+    "importance": "南北军力并非始终单向变化，水文与组织能力影响胜负。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-7128046a87ec",
+      "ann-person-5bac0f67f503"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "507年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83994,
+        "lineEnd": 83994
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 492,
+    "id": "ann-ce-0518",
+    "title": "北魏延昌时期地方矛盾",
+    "start": 512,
+    "end": 515,
+    "summary": "北魏地方官贪污、赋役及豪族问题持续，中央财政和边镇待遇差异扩大。",
+    "importance": "六镇起义之前已有长期积累的基层与地域矛盾。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "512年—515年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84323,
+        "lineEnd": 84323
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 493,
+    "id": "ann-ce-0519",
+    "title": "胡太后临朝",
+    "start": 515,
+    "end": 515,
+    "summary": "北魏宣武帝去世后胡太后掌政，皇室、外戚与军事官僚竞争加剧，中央治理进一步失衡。",
+    "importance": "宫廷权力结构影响国家对边镇和地方危机的回应。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9243132889e1"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "515年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 北魏末年的各族人民大起义",
+        "lineStart": 89784,
+        "lineEnd": 89784
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 494,
+    "id": "ann-ce-0520",
+    "title": "郦道元撰水经注",
+    "start": 515,
+    "end": 527,
+    "summary": "郦道元综合水道、地理、历史及地方传闻，保存大量区域知识，具体成书时间不宜只取单年。",
+    "importance": "地理著作将空间观察与历史文化记忆联系起来。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-487125495f2b"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "515年—527年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86900,
+        "lineEnd": 86900
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 495,
+    "id": "ann-ce-0521",
+    "title": "宋云惠生西行",
+    "start": 518,
+    "end": 518,
+    "summary": "北魏派宋云、惠生等赴西域求经，记录多个地区政治、交通及佛教情况。",
+    "importance": "中西交流在使节、僧侣和商路互动中持续扩展。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-c3f4b8139391",
+      "ann-person-609afd81e8db"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "518年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 魏晋南北朝与西域及五天竺各国的经济文化交流",
+        "lineStart": 91932,
+        "lineEnd": 91932
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 496,
+    "id": "ann-ce-0522",
+    "title": "元叉政变",
+    "start": 520,
+    "end": 520,
+    "summary": "元叉等幽禁胡太后并控制政务，北魏中央政治更加混乱，地方矛盾缺乏有效处理。",
+    "importance": "宫廷危机削弱国家应对系统性军事与财政问题的能力。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9dc9bc90810e",
+      "ann-person-9243132889e1"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "520年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 北魏末年的各族人民大起义",
+        "lineStart": 89784,
+        "lineEnd": 89784
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 497,
+    "id": "ann-ce-0523",
+    "title": "六镇起义爆发",
+    "start": 523,
+    "end": 523,
+    "summary": "北方镇民因地位下降、灾荒及军政压迫起兵，反抗迅速扩大为冲击北魏统治的战争。",
+    "importance": "北魏迁都后中央与边镇之间的结构裂缝集中爆发。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-8c21eb54c394"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "523年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 西、北各少数民族的内迁",
+        "lineStart": 84832,
+        "lineEnd": 84832
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 498,
+    "id": "ann-ce-0524",
+    "title": "河北关陇起义扩展",
+    "start": 524,
+    "end": 524,
+    "summary": "六镇动荡与河北、关陇多地起兵相互交织，大批流民和军队重新组成军事集团。",
+    "importance": "北魏瓦解同时孕育北齐北周的军事政治力量。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-cbdb763fb14d",
+      "ann-person-90783057ff08"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "524年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 北魏末年的各族人民大起义",
+        "lineStart": 89882,
+        "lineEnd": 89882
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 499,
+    "id": "ann-ce-0525",
+    "title": "梁军攻取彭城",
+    "start": 525,
+    "end": 525,
+    "summary": "梁军利用北魏内乱攻取彭城等地，试图扩大北方控制，但后续维持据点面临困难。",
+    "importance": "外部扩张机会仍取决于后勤、地方支持及敌军恢复能力。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-b78a103b95e5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "525年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 东汉王朝的崩溃",
+        "lineStart": 83302,
+        "lineEnd": 83302
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 500,
+    "id": "ann-ce-0526",
+    "title": "陈庆之参与北进",
+    "start": 527,
+    "end": 527,
+    "summary": "梁朝在北方内乱中展开军事行动，陈庆之等崭露头角，战争与拥立北魏宗室相互结合。",
+    "importance": "南朝借助北朝内部争位谋求战略利益。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-b78a103b95e5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "527年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 宋齐梁的更替与南朝世族制度的僵化",
+        "lineStart": 87619,
+        "lineEnd": 87619
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 501,
+    "id": "ann-ce-0527",
+    "title": "河阴之变",
+    "start": 528,
+    "end": 528,
+    "summary": "尔朱荣进入洛阳，杀害大量北魏官僚与宗室并控制朝廷，中央旧政治集团遭重创。",
+    "importance": "边地军人集团以暴力方式接管北魏国家权力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-51f7ff70c1b1",
+      "ann-person-3f60845fad26"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "528年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 反佛教的斗争与范缜的无神论思想",
+        "lineStart": 93507,
+        "lineEnd": 93507
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 502,
+    "id": "ann-ce-0528",
+    "title": "陈庆之入洛阳",
+    "start": 529,
+    "end": 529,
+    "summary": "陈庆之护送元颢北进并进入洛阳，但随后失败，梁朝支持的北魏政权未能站稳。",
+    "importance": "快速军事突进不能替代当地社会和持续补给基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-b78a103b95e5",
+      "ann-person-c7e644ffd81f"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "529年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 宋齐梁的更替与南朝世族制度的僵化",
+        "lineStart": 87619,
+        "lineEnd": 87619
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 503,
+    "id": "ann-ce-0529",
+    "title": "孝庄帝杀尔朱荣",
+    "start": 530,
+    "end": 530,
+    "summary": "北魏孝庄帝诛杀尔朱荣后遭其家族反攻并被杀，皇帝与军人集团的矛盾无法调和。",
+    "importance": "皇帝个人政变不足以消除已经成形的地方军事网络。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-3f60845fad26",
+      "ann-person-51f7ff70c1b1"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "530年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 东魏与北齐的政治",
+        "lineStart": 90082,
+        "lineEnd": 90082
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 504,
+    "id": "ann-ce-0533",
+    "title": "贾思勰整理齐民要术",
+    "start": 530,
+    "end": 540,
+    "summary": "贾思勰汇集农作、畜牧和食品加工经验，反映北方农业恢复与技术知识的系统积累。",
+    "importance": "经济史既包括战争破坏，也包括基层生产经验传承。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "jiasixie"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "530年—540年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 农学与医药学",
+        "lineStart": 95951,
+        "lineEnd": 95951
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 505,
+    "id": "ann-ce-0530",
+    "title": "高欢起兵反尔朱氏",
+    "start": 531,
+    "end": 531,
+    "summary": "高欢整合六镇流民军和河北地方力量，开始击败尔朱氏集团，成为北方新的政治核心。",
+    "importance": "新国家基础来自流民武装与地方精英的重新联盟。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-731863b9d654"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "531年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 东魏与北齐的政治",
+        "lineStart": 90090,
+        "lineEnd": 90090
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 506,
+    "id": "ann-ce-0531",
+    "title": "韩陵之战",
+    "start": 532,
+    "end": 532,
+    "summary": "高欢击败尔朱氏联军并控制北魏朝廷，北方统治权进一步向新的军事集团集中。",
+    "importance": "六镇动荡形成的军事领导层重塑北朝政治。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-731863b9d654"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "532年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 东魏与北齐的政治",
+        "lineStart": 90098,
+        "lineEnd": 90098
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 507,
+    "id": "ann-ce-0532",
+    "title": "北魏分裂为东西魏",
+    "start": 534,
+    "end": 534,
+    "summary": "孝武帝西走关中，高欢另立皇帝，北魏分为东魏与西魏，分别由高欢和宇文泰掌权。",
+    "importance": "北方对峙由多个军事集团转化为两个持续国家体系。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-731863b9d654",
+      "ann-person-a15c51d8ea27",
+      "ann-person-20b2e27fe6f7"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "534年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 侯景乱梁与南朝的再削弱",
+        "lineStart": 88107,
+        "lineEnd": 88107
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 508,
+    "id": "ann-ce-0539",
+    "title": "苏绰推行治理纲领",
+    "start": 535,
+    "end": 546,
+    "summary": "西魏通过官员考核、户籍和赋役等措施加强治理，强调行政纪律及国家动员能力。",
+    "importance": "制度建设把有限地域资源转化为持续军事竞争力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-079d4e40951d"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "535年—546年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 北魏孝文帝的均田、迁都与改革",
+        "lineStart": 89520,
+        "lineEnd": 89520
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 509,
+    "id": "ann-ce-0534",
+    "title": "西魏整顿关中治理",
+    "start": 535,
+    "end": 557,
+    "summary": "宇文泰等在资源较少的关中重组官僚与军事体系，争取地方豪强和人口支持。",
+    "importance": "弱势政权通过组织改革寻找对抗东魏的道路。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-a15c51d8ea27",
+      "ann-person-079d4e40951d"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "535年—557年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 北魏孝文帝的均田、迁都与改革",
+        "lineStart": 89520,
+        "lineEnd": 89520
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 510,
+    "id": "ann-ce-0535",
+    "title": "沙苑之战",
+    "start": 537,
+    "end": 537,
+    "summary": "西魏击败兵力占优的东魏军，关中政权得以巩固，东西魏形成长期军事均衡。",
+    "importance": "统帅决策、地形运用与军队组织可改变资源差距。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-a15c51d8ea27",
+      "ann-person-731863b9d654"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "537年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 西魏与北周的政治",
+        "lineStart": 90334,
+        "lineEnd": 90334
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 511,
+    "id": "ann-ce-0536",
+    "title": "东西魏河桥之战",
+    "start": 538,
+    "end": 538,
+    "summary": "双方在洛阳附近反复争夺，西魏虽有局部战果，却难稳定控制河南中心区域。",
+    "importance": "北方统一过程仍受交通、资源与地区基础限制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-a15c51d8ea27",
+      "ann-person-731863b9d654"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "538年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 东魏与北齐的政治",
+        "lineStart": 90124,
+        "lineEnd": 90124
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 512,
+    "id": "ann-ce-0537",
+    "title": "西魏府兵体制逐渐发展",
+    "start": 540,
+    "end": 540,
+    "summary": "西魏把军事编制与地方社会资源结合，逐渐形成府兵体制，具体起源应视为发展过程。",
+    "importance": "军制改革成为关陇政权后来统一北方的重要基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-a15c51d8ea27"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "540年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 淝水之战与苻坚的败亡",
+        "lineStart": 86139,
+        "lineEnd": 86139
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 513,
+    "id": "ann-ce-0538",
+    "title": "东西魏邙山之战",
+    "start": 543,
+    "end": 543,
+    "summary": "东魏在邙山击败西魏，双方优势再度变化，但无法迅速消灭对方政权。",
+    "importance": "长期对峙促进军制、赋役和地方组织的持续调整。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-731863b9d654",
+      "ann-person-a15c51d8ea27"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "543年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 东魏与北齐的政治",
+        "lineStart": 90128,
+        "lineEnd": 90128
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 514,
+    "id": "ann-ce-0540",
+    "title": "玉壁之战",
+    "start": 546,
+    "end": 546,
+    "summary": "高欢围攻西魏玉壁受挫，韦孝宽坚守，东魏西进战略受到重大打击。",
+    "importance": "坚城、补给与长期消耗能够抵消进攻方人数优势。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-731863b9d654",
+      "ann-person-3c7dd80b8178"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "546年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 东魏与北齐的政治",
+        "lineStart": 90130,
+        "lineEnd": 90130
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 515,
+    "id": "ann-ce-0541",
+    "title": "高欢去世与高澄继承",
+    "start": 547,
+    "end": 547,
+    "summary": "高欢死后高澄接管东魏实权，继续处理朝廷、军事贵族和地方社会的关系。",
+    "importance": "强人集团的家族继承为正式改朝换代创造条件。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-731863b9d654",
+      "ann-person-0bc263ca3971"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "547年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 侯景乱梁与南朝的再削弱",
+        "lineStart": 88107,
+        "lineEnd": 88107
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 516,
+    "id": "ann-ce-0542",
+    "title": "侯景之乱爆发",
+    "start": 548,
+    "end": 548,
+    "summary": "侯景降梁后又反叛，进攻建康，梁朝统治集团未能有效组织协同救援。",
+    "importance": "吸纳敌国叛将若缺乏控制与政治判断可能引发大灾难。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "houjing",
+      "xiaoyan"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "548年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 侯景乱梁与南朝的再削弱",
+        "lineStart": 88105,
+        "lineEnd": 88105
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 517,
+    "id": "ann-ce-0543",
+    "title": "建康陷落与梁武帝死亡",
+    "start": 549,
+    "end": 549,
+    "summary": "侯景攻破建康，梁武帝不久去世，江南城市、人口与经济遭受严重破坏。",
+    "importance": "南方长期积累被内战重创，地方军政格局重新洗牌。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "houjing",
+      "xiaoyan"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "549年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 魏晋南北朝与海东各国的经济文化交流",
+        "lineStart": 91560,
+        "lineEnd": 91560
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 518,
+    "id": "ann-ce-0544",
+    "title": "北齐建立",
+    "start": 550,
+    "end": 550,
+    "summary": "高洋迫使东魏皇帝禅位建立北齐，继承河北等地的人口、经济与军事实力。",
+    "importance": "北方两个权臣政权逐步以新王朝形式公开并立。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-96735cf0df26"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "550年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84415,
+        "lineEnd": 84415
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 519,
+    "id": "ann-ce-0545",
+    "title": "侯景称帝",
+    "start": 551,
+    "end": 551,
+    "summary": "侯景在控制梁朝皇帝后自立，试图建立新政权，但地方反抗与粮运困境使其无法稳定统治。",
+    "importance": "夺取首都并不意味着能够整合广大地方社会。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "houjing"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "551年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 侯景乱梁与南朝的再削弱",
+        "lineStart": 88127,
+        "lineEnd": 88127
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 520,
+    "id": "ann-ce-0546",
+    "title": "王僧辩陈霸先平侯景",
+    "start": 552,
+    "end": 552,
+    "summary": "王僧辩、陈霸先等击败侯景，萧绎在江陵称帝，梁朝名义恢复而区域分裂持续。",
+    "importance": "平乱将领成为南方下一轮政权重组的核心力量。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-a81ad041e087",
+      "chenbaxian",
+      "ann-person-93b609575bdf"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "552年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 侯景乱梁与南朝的再削弱",
+        "lineStart": 88139,
+        "lineEnd": 88139
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 521,
+    "id": "ann-ce-0547",
+    "title": "西魏攻取蜀地",
+    "start": 553,
+    "end": 553,
+    "summary": "西魏利用梁朝内战攻占成都，控制巴蜀，取得长江上游的经济与战略资源。",
+    "importance": "南北力量对比因西南地区归属变化而明显改观。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-868dcaf1511b"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "553年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 西魏与北周的政治",
+        "lineStart": 90266,
+        "lineEnd": 90266
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 522,
+    "id": "ann-ce-0548",
+    "title": "江陵陷落",
+    "start": 554,
+    "end": 554,
+    "summary": "西魏攻破江陵，梁元帝被杀，大批人口和典籍北迁，南方政治与文化遭再次打击。",
+    "importance": "战争造成的文化损失与人才迁徙影响南北知识流动。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-93b609575bdf",
+      "ann-person-0f5d65a5ee6f"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "554年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 侯景乱梁与南朝的再削弱",
+        "lineStart": 88207,
+        "lineEnd": 88207
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 523,
+    "id": "ann-ce-0549",
+    "title": "陈霸先杀王僧辩",
+    "start": 555,
+    "end": 555,
+    "summary": "陈霸先因拥立皇帝与对北齐关系问题杀王僧辩，控制建康，南方权力进一步集中。",
+    "importance": "外部强国干预与内部军事集团分歧共同推动政变。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "chenbaxian",
+      "ann-person-a81ad041e087"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "555年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 侯景乱梁与南朝的再削弱",
+        "lineStart": 88227,
+        "lineEnd": 88227
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 524,
+    "id": "ann-ce-0550",
+    "title": "北周前夜六官改革",
+    "start": 556,
+    "end": 556,
+    "summary": "西魏末年按照周礼名义调整中央官制，结合关陇现实军政需要建立新的权力结构。",
+    "importance": "托古制度名义可以服务于具体的国家组织创新。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-a15c51d8ea27",
+      "ann-person-079d4e40951d"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "556年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 经学与历史、地理著作",
+        "lineStart": 93626,
+        "lineEnd": 93626
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 525,
+    "id": "ann-ce-0551",
+    "title": "北周建立",
+    "start": 557,
+    "end": 557,
+    "summary": "宇文氏迫使西魏皇帝禅位建立北周，关中政权完成王朝更替，实权一度仍在宇文护。",
+    "importance": "国家制度延续与统治名号变化并行发生。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9e1da0489005",
+      "ann-person-80525173ce3b"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "557年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 西魏与北周的政治",
+        "lineStart": 90284,
+        "lineEnd": 90284
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 526,
+    "id": "ann-ce-0552",
+    "title": "陈朝建立",
+    "start": 557,
+    "end": 557,
+    "summary": "陈霸先代梁称帝建立陈朝，在侯景之乱后的残破江南重新整顿国家与地方秩序。",
+    "importance": "陈朝生存空间较梁缩小，面对更明显的南北资源差距。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "chenbaxian"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "557年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 陈王朝的建立与衰亡",
+        "lineStart": 88255,
+        "lineEnd": 88255
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 527,
+    "id": "ann-ce-0553",
+    "title": "陈蒨继位与政局整合",
+    "start": 559,
+    "end": 559,
+    "summary": "陈霸先去世后陈蒨即位，通过军事与政治安排巩固中央，恢复生产成为国家生存重点。",
+    "importance": "灾后重建需要控制地方军队和稳定人口赋役。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-c1a2494bbd5c"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "559年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84413,
+        "lineEnd": 84413
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 528,
+    "id": "ann-ce-0554",
+    "title": "北周明帝被害",
+    "start": 560,
+    "end": 560,
+    "summary": "宇文护控制朝廷并杀害明帝，拥立宇文邕，北周皇帝与辅政权臣的冲突继续积累。",
+    "importance": "关陇集团内部也存在长期的皇权与家族军权矛盾。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-80525173ce3b",
+      "yuwenyong"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "560年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 西魏与北周的政治",
+        "lineStart": 90276,
+        "lineEnd": 90276
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 529,
+    "id": "ann-ce-0555",
+    "title": "北周陈朝与突厥外交",
+    "start": 562,
+    "end": 562,
+    "summary": "北周争取突厥合作以牵制北齐，北朝战争与草原强国的联盟关系相互影响。",
+    "importance": "北方统一无法脱离欧亚草原的政治格局理解。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-ebb05f8863ad"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "562年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "序言",
+        "lineStart": 83153,
+        "lineEnd": 83153
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 530,
+    "id": "ann-ce-0556",
+    "title": "北周联合突厥攻齐",
+    "start": 564,
+    "end": 564,
+    "summary": "北周与突厥合作进攻北齐未达预期，联盟行动受到季节、补给和利益差异制约。",
+    "importance": "跨政权军事合作并不天然具有稳定协同能力。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-80525173ce3b"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "564年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "序言",
+        "lineStart": 83153,
+        "lineEnd": 83153
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 531,
+    "id": "ann-ce-0557",
+    "title": "陈顼掌握陈朝实权",
+    "start": 568,
+    "end": 568,
+    "summary": "陈朝发生皇位更替，陈顼逐渐控制国家，南方军政整合与恢复仍在继续。",
+    "importance": "相对弱小的陈朝同样需要稳定继承与地方军权配置。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-8bffa3b452ec"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "568年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 西魏与北周的政治",
+        "lineStart": 90382,
+        "lineEnd": 90382
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 532,
+    "id": "ann-ce-0558",
+    "title": "周齐争夺宜阳",
+    "start": 569,
+    "end": 571,
+    "summary": "北周与北齐围绕边境据点反复交战，宇文邕逐渐认识到需要更集中有力的战争指挥。",
+    "importance": "战略调整源自长期对峙与局部战场经验。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuwenyong",
+      "ann-person-8c2ed7610bbe"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "569年—571年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84142,
+        "lineEnd": 84142
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 533,
+    "id": "ann-ce-0559",
+    "title": "周武帝诛宇文护",
+    "start": 572,
+    "end": 572,
+    "summary": "宇文邕清除长期掌权的宇文护，收回皇帝实权，并开始更集中地整顿军政与财政。",
+    "importance": "消除内部权力分裂为后续灭齐行动准备条件。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuwenyong",
+      "ann-person-80525173ce3b"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "572年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 西魏与北周的政治",
+        "lineStart": 90284,
+        "lineEnd": 90284
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 534,
+    "id": "ann-ce-0560",
+    "title": "陈军北进淮南",
+    "start": 573,
+    "end": 573,
+    "summary": "陈朝趁北方两国竞争进攻淮南并取得部分地区，短期扩大疆域，但难改变总体国力差距。",
+    "importance": "弱势政权仍能利用外部矛盾争取有限战略收益。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-4100cca01f51",
+      "ann-person-8bffa3b452ec"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "573年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 陈王朝的建立与衰亡",
+        "lineStart": 88341,
+        "lineEnd": 88341
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 535,
+    "id": "ann-ce-0561",
+    "title": "北周禁断佛道",
+    "start": 574,
+    "end": 574,
+    "summary": "周武帝打击佛教与道教组织，把人口、土地和资源重新纳入国家赋役体系。",
+    "importance": "宗教政策同战争财政和国家控制能力紧密相关。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuwenyong"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "574年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 西魏与北周的政治",
+        "lineStart": 90376,
+        "lineEnd": 90376
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 536,
+    "id": "ann-ce-0562",
+    "title": "周武帝第一次大举攻齐",
+    "start": 575,
+    "end": 575,
+    "summary": "北周进攻北齐重要据点后因皇帝疾病等因素退兵，统一战争仍经历准备、受挫与调整。",
+    "importance": "后来的胜利不能掩盖前期行动的不确定性。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuwenyong"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "575年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 陈王朝的建立与衰亡",
+        "lineStart": 88341,
+        "lineEnd": 88341
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 537,
+    "id": "ann-ce-0563",
+    "title": "北周夺取平阳",
+    "start": 576,
+    "end": 576,
+    "summary": "北周攻取平阳并击退北齐反攻，北齐防御体系出现重大缺口，战争主动权转向北周。",
+    "importance": "关键据点失守会破坏国家整体防线与政治信心。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuwenyong",
+      "ann-person-5d25873606b2"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "576年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83848,
+        "lineEnd": 83848
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 538,
+    "id": "ann-ce-0566",
+    "title": "周武帝去世",
+    "start": 578,
+    "end": 578,
+    "summary": "宇文邕死后继承者未能维持强有力的政治协调，皇室奢侈与宫廷权力斗争重新加剧。",
+    "importance": "军事统一后的稳定仍依赖可持续的政治组织。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuwenyong",
+      "ann-person-4566abe6b381"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "578年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 陈王朝的建立与衰亡",
+        "lineStart": 88341,
+        "lineEnd": 88341
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 539,
+    "id": "ann-ce-0565",
+    "title": "陈军吕梁之败",
+    "start": 578,
+    "end": 578,
+    "summary": "北周击败陈军并俘吴明彻，陈朝北进成果受挫，南北军事力量进一步向北方集中。",
+    "importance": "北方统一后能够把更大资源投入江淮前线。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-4100cca01f51",
+      "ann-person-5118925462fc"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "578年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 陈王朝的建立与衰亡",
+        "lineStart": 88341,
+        "lineEnd": 88341
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 540,
+    "id": "ann-ce-0567",
+    "title": "周宣帝传位幼子",
+    "start": 579,
+    "end": 579,
+    "summary": "宇文赟传位幼年静帝而继续掌权，皇位安排复杂化，外戚与重臣地位上升。",
+    "importance": "不稳定的继承结构为杨坚辅政提供了机会。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-4566abe6b381",
+      "ann-person-59a0829806b3",
+      "yangjian"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "579年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84415,
+        "lineEnd": 84415
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  },
+  {
+    "_order": 541,
+    "id": "ann-ce-0568",
+    "title": "杨坚辅政与三方起兵",
+    "start": 580,
+    "end": 580,
+    "summary": "周宣帝死后杨坚掌政，尉迟迥、王谦、司马消难等反对，中央军先后平定。",
+    "importance": "隋朝建立前先经历控制军队和区域政治的内战。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangjian",
+      "ann-person-868dcaf1511b",
+      "ann-person-3c7dd80b8178"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "580年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 陈王朝的建立与衰亡",
+        "lineStart": 88341,
+        "lineEnd": 88341
+      }
+    ],
+    "periodId": "north-south",
+    "lane": "china",
+    "themeId": "north-south"
+  }
+]

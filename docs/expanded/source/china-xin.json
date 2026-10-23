@@ -1,0 +1,337 @@
+[
+  {
+    "_order": 249,
+    "id": "ann-ce-0260",
+    "title": "王田与私属改革",
+    "start": 9,
+    "end": 9,
+    "summary": "新朝宣布改变土地和奴婢买卖制度，意图限制兼并，但执行与社会现实冲突严重。",
+    "importance": "托古制度理想难以直接替代复杂的产权和交易关系。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "wangmang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "9年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 从反楚联盟的出现到楚汉相峙",
+        "lineStart": 75600,
+        "lineEnd": 75600
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 250,
+    "id": "ann-ce-0261",
+    "title": "五均六筦",
+    "start": 10,
+    "end": 10,
+    "summary": "王莽推行市场、贷款和专卖等经济政策，官吏执行及财政压力使政策效果偏离理想。",
+    "importance": "国家干预的实际后果取决于治理能力和执行结构。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "wangmang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "10年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 五均赊贷和“六筦”",
+        "lineStart": 78967,
+        "lineEnd": 78967
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 251,
+    "id": "ann-ce-0262",
+    "title": "黄河决口与社会动荡",
+    "start": 11,
+    "end": 11,
+    "summary": "黄河水患影响大片地区，人口流散、粮食危机与新朝制度混乱叠加。",
+    "importance": "自然灾害在脆弱的政治经济结构中放大危机。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "wangmang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "11年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 经济状况和财政危机",
+        "lineStart": 76594,
+        "lineEnd": 76594
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 252,
+    "id": "ann-ce-0263",
+    "title": "新朝边疆政策引发冲突",
+    "start": 12,
+    "end": 12,
+    "summary": "王莽调整周边首领名号与关系，激化匈奴和西南等地冲突，增加战争与征发压力。",
+    "importance": "象征性的等级政治也会产生高昂的实际治理成本。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "wangmang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "12年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 咸阳大火和项羽的分封",
+        "lineStart": 75427,
+        "lineEnd": 75427
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 253,
+    "id": "ann-ce-0264",
+    "title": "货币再改革",
+    "start": 14,
+    "end": 14,
+    "summary": "新朝反复调整币制，货币名目、比价与强制兑换扰乱市场，民众交易负担继续加重。",
+    "importance": "货币信用无法仅靠诏令和古制称谓建立。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "wangmang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "14年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 币制的改革",
+        "lineStart": 76628,
+        "lineEnd": 76628
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 254,
+    "id": "ann-ce-0265",
+    "title": "绿林起义",
+    "start": 17,
+    "end": 17,
+    "summary": "湖北一带饥民与流亡人口聚集起兵，逐步形成绿林军，对新朝地方统治造成冲击。",
+    "importance": "生计危机转化为跨地区的军事反抗。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-d308d43a9328",
+      "ann-person-b347c9608cfe"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "17年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 由局部走向全国的农民起义",
+        "lineStart": 79386,
+        "lineEnd": 79386
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 255,
+    "id": "ann-ce-0266",
+    "title": "赤眉起义",
+    "start": 18,
+    "end": 18,
+    "summary": "樊崇等在山东起兵，赤眉军在长期动荡中壮大，成为推翻新朝的重要力量之一。",
+    "importance": "汉末反抗具有不同地域基础和组织路径。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-fanchong"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "18年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 由局部走向全国的农民起义",
+        "lineStart": 79374,
+        "lineEnd": 79374
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 256,
+    "id": "ann-ce-0267",
+    "title": "刘縯刘秀起兵",
+    "start": 22,
+    "end": 22,
+    "summary": "刘氏宗室与地方势力在南阳起兵并同绿林军合作，把复汉号召与地方军事动员结合。",
+    "importance": "反新联盟开始出现新的皇室合法性旗号。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-81c0ab620d9f",
+      "liuxiu"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "22年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 257,
+    "id": "ann-ce-0269",
+    "title": "更始帝建立与王莽败亡",
+    "start": 23,
+    "end": 23,
+    "summary": "绿林阵营拥立刘玄，起义军进入长安杀死王莽，新朝结束但各地割据继续。",
+    "importance": "推翻旧政权并未立即形成新的稳定中央。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-liuxuan",
+      "wangmang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "23年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 “害遍生民，辜及朽骨”的统治",
+        "lineStart": 79347,
+        "lineEnd": 79347
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  },
+  {
+    "_order": 259,
+    "id": "ann-ce-0270",
+    "title": "刘秀经营河北",
+    "start": 24,
+    "end": 24,
+    "summary": "刘秀利用河北的地方支持与军事行动建立独立基础，逐渐摆脱更始政权的约束。",
+    "importance": "新的统一力量依靠地域资源整合而非单纯皇室身份。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuxiu"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "24年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 汉初的“南越国”",
+        "lineStart": 76088,
+        "lineEnd": 76088
+      }
+    ],
+    "periodId": "xin",
+    "lane": "china",
+    "themeId": "xin"
+  }
+]

@@ -1,11 +1,23 @@
 {
-  "websiteVersion": "0.6.1",
-  "runtimeFiles": 40,
-  "source": "19个中国历史时期独立配色；知识数据与既有交互保留",
+  "websiteVersion": "0.7.0",
+  "runtimeFiles": 110,
+  "source": "编年长卷：19个中国时期与8个世界区域扩展，保留原有知识与19组配色；完整性与来源边界见CONTENT_GUIDE.md",
   "files": [
     {
+      "path": "docs/.nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/annals.css",
+      "sha256": "689804e94ae227916a793329e69f78fadc8c73e6977e71406f271f17a0c4ab98"
+    },
+    {
+      "path": "docs/annals.js",
+      "sha256": "f57fd5f8da2f3d6078484c9bcd8dfc6999324705d6d6ae63c7d8b1bd02130688"
+    },
+    {
       "path": "docs/app.js",
-      "sha256": "aed2f091dc990d58a5e304e5080635eeaa89333aa2a94f624c1d847b40798afd"
+      "sha256": "7dab82c842aa29914a662fd0e74379d1c2658164076458c3f2241bce951a5e42"
     },
     {
       "path": "docs/assets/README.md",
@@ -121,15 +133,287 @@
     },
     {
       "path": "docs/chronicle.js",
-      "sha256": "97d5d8998b4ef3f231823ba70617d8ed615ab6144c7dec019d2df301d42c67b3"
+      "sha256": "8bf4ca1aa4d567c82cfa52e1087f91724a65553bf2776f2a1176bd28660779b7"
     },
     {
       "path": "docs/data.js",
       "sha256": "ee602407804b4eb47a51b7b067d46636ca4b8694de4c748e06de4cbfcca8c836"
     },
     {
+      "path": "docs/era-palettes.js",
+      "sha256": "c448272563a8284791f9a4349c228d45e7e1bb8b3a9e9d2ea4da495eb4e48092"
+    },
+    {
       "path": "docs/exhibition.css",
       "sha256": "fe3d39e45385f48eb227aefecaecdb1a986dee4c343df0d6093e0dfbfe8fc4dd"
+    },
+    {
+      "path": "docs/expanded/00-sources.js",
+      "sha256": "370b92b482b4c4859860d93cae9367515fcc024736380b3ab2b42fec1a7dabb2"
+    },
+    {
+      "path": "docs/expanded/99-links.js",
+      "sha256": "c6ae22debfd4c249394fa03b4e185f5ac22d3750d4b3508cc8f48b4e9774acd7"
+    },
+    {
+      "path": "docs/expanded/data.json",
+      "sha256": "40fe7e809738ce594629e6d6467fd8a4d0a1d5df0acf589a1d79280b5b479b45"
+    },
+    {
+      "path": "docs/expanded/events-01.js",
+      "sha256": "6703a97d85cbdd0d1abdd8cf6ad2a947af5e343eb2aeaf38c0cbd709e3ce7f64"
+    },
+    {
+      "path": "docs/expanded/events-02.js",
+      "sha256": "fa2974b9eb2dfb0f526a1ca4da2d74472a346d19f2da64d4baf70d4a8eba52b4"
+    },
+    {
+      "path": "docs/expanded/events-03.js",
+      "sha256": "e5d8d4380ea259953477d7237669d775f681340d08466c7ae39b476e92b5f653"
+    },
+    {
+      "path": "docs/expanded/events-04.js",
+      "sha256": "ae571a735ee62b00fff96b141cd43f1c7d47738894b2dde10d78211fbf484d1f"
+    },
+    {
+      "path": "docs/expanded/events-05.js",
+      "sha256": "d2b786f2c86228080fc076937374ba89d37558643389be7e849c6983d4cd6460"
+    },
+    {
+      "path": "docs/expanded/events-06.js",
+      "sha256": "c5d7440ace6a27c95d95a9a8fded534d453133e151c9a04216114bb3f6da5998"
+    },
+    {
+      "path": "docs/expanded/events-07.js",
+      "sha256": "33bfd4384d9c8e2bb262aec2b4c885da884b9aa62256d64847aa3828ae176815"
+    },
+    {
+      "path": "docs/expanded/events-08.js",
+      "sha256": "414757344c0946c1f241ed94d98a528c0725b3dc6c9c0fc2e3b94a527b131fe6"
+    },
+    {
+      "path": "docs/expanded/events-09.js",
+      "sha256": "afc863cee3d91fe1b38978c820e937de5eeb73fb8bf5e16fccbadd248a280970"
+    },
+    {
+      "path": "docs/expanded/manifest.json",
+      "sha256": "557e441feeff959bf70148b3aeab69e312f10c87337110e4e54396a9848c0bf5"
+    },
+    {
+      "path": "docs/expanded/people-01.js",
+      "sha256": "5316bc9a8050e0b39e9d130dfa42515fed9694444aed7c0792cd7a73787bfac2"
+    },
+    {
+      "path": "docs/expanded/people-02.js",
+      "sha256": "41bd83f0b99aa9a52d2c248d750105a9d272142fd6d380dd4093dc6a5bc3d01a"
+    },
+    {
+      "path": "docs/expanded/people-03.js",
+      "sha256": "08bf16e6c773f8574debd5b3d0647704b67afd1d8be0b37f0afe85575789c8f1"
+    },
+    {
+      "path": "docs/expanded/people-04.js",
+      "sha256": "2ffaa1dac4c7804017d3e8cfdb92a41d3d90103d89086cf234ae082d637abdc0"
+    },
+    {
+      "path": "docs/expanded/people-05.js",
+      "sha256": "00a7df057ef70e682a048f0430a0769752c6c182dc98ad85efcd2ce2423a90b4"
+    },
+    {
+      "path": "docs/expanded/people-06.js",
+      "sha256": "1fe017c43bb3c5553494e22c9fdb88b740a2454476e51462b19a338b32b492c5"
+    },
+    {
+      "path": "docs/expanded/people-07.js",
+      "sha256": "07f19cb24c175c6162f6f6957b53f9cd70ee943ee7fe96b084b3e8106cfa8160"
+    },
+    {
+      "path": "docs/expanded/people-08.js",
+      "sha256": "03b4b34a4aab03688e2d16fcb15155f033226448221650902c1e6baa9abdfdd1"
+    },
+    {
+      "path": "docs/expanded/review-audit.json",
+      "sha256": "55ae06b9b9a13bc46b2ab9afb0838604eed2f011c765427ee53cf114c2d6e940"
+    },
+    {
+      "path": "docs/expanded/source/china-eastern-han.json",
+      "sha256": "1b7b8c94457be9ccf34eb650818b157ffc936a36b9b2cd6b89573e262b2a7ad6"
+    },
+    {
+      "path": "docs/expanded/source/china-eastern-jin.json",
+      "sha256": "667462dc20f87ea8319fd6909017d4fe2484e38c8de9790c33a623caeaec77ce"
+    },
+    {
+      "path": "docs/expanded/source/china-eastern.json",
+      "sha256": "bb62cc4e2f7211127265bd169381e09838ff8d323d79a0527d641db1655535ee"
+    },
+    {
+      "path": "docs/expanded/source/china-five-dynasties.json",
+      "sha256": "3bb9d24ba1f69626119564892906f011d7fd52d942521bc4a84fdfd12d96e321"
+    },
+    {
+      "path": "docs/expanded/source/china-han.json",
+      "sha256": "a36eb70073af3dea312dfc99932060a092b657e94deb3387cc004eda72600581"
+    },
+    {
+      "path": "docs/expanded/source/china-ming.json",
+      "sha256": "6c5110614559e425cdc8ef2778f0bce74c2fc7490d502bffd35aa5361d54a2cd"
+    },
+    {
+      "path": "docs/expanded/source/china-north-south.json",
+      "sha256": "07b46ce0fb7b0dfa010e85e309e873ef1bd4fa1c00418b5c2a685b89cd8c9d86"
+    },
+    {
+      "path": "docs/expanded/source/china-qin.json",
+      "sha256": "cc9c7b650a6756c80de307f056dd55b5ccdc7e6e15aeb3db10da4d1623f8f82f"
+    },
+    {
+      "path": "docs/expanded/source/china-qing.json",
+      "sha256": "db2cb3cac042b17df3566a510caa70debef64bb008191db735e85c1d81a392db"
+    },
+    {
+      "path": "docs/expanded/source/china-shang.json",
+      "sha256": "22e1ece48fe34969fe4c56b7320ff9b2e23f6b06bdf04c20c937480f782cc604"
+    },
+    {
+      "path": "docs/expanded/source/china-song-liao-xia-jin.json",
+      "sha256": "52a61124aff19f1a1e1b91b58a7457bc7f46f1b762c59886cb7bee15b1cc8fa7"
+    },
+    {
+      "path": "docs/expanded/source/china-sui.json",
+      "sha256": "a2ba6cecb0799d4b2dd6a8d58aa4f8e39737237bbfaa4de571211c6c92fdadf3"
+    },
+    {
+      "path": "docs/expanded/source/china-tang.json",
+      "sha256": "a550390e80dd0c3754ae2d5fc0335f1f7e9f21c8fd5ca8c49228ff020b4e5671"
+    },
+    {
+      "path": "docs/expanded/source/china-three-kingdoms.json",
+      "sha256": "1ce04ecec6bb9e3f93e91145bfe68d8bab62ea04f787f7f722856c0885bf9867"
+    },
+    {
+      "path": "docs/expanded/source/china-western-jin.json",
+      "sha256": "efaceab1cb4fa225b45e284a7fa5d0fb949016da7023463ad0f43f5d6f4e1e7f"
+    },
+    {
+      "path": "docs/expanded/source/china-xia.json",
+      "sha256": "921e55199f52f073b694ec1e6190c15f73c6255870c68df1305386abe9ca07ee"
+    },
+    {
+      "path": "docs/expanded/source/china-xin.json",
+      "sha256": "a51efcffc10f94a668753494113fd66aadabf6d398191030ba50dc64f2c7a058"
+    },
+    {
+      "path": "docs/expanded/source/china-yuan.json",
+      "sha256": "628e5ea6d8f2e0454a862c72572d3f49aa3cdbd5a28483c1222d647b7e06eb12"
+    },
+    {
+      "path": "docs/expanded/source/china-zhou.json",
+      "sha256": "2d3c8967aac066988749ea5fba5fe81a997934bd09c4c83cdd16bb7fb71c580a"
+    },
+    {
+      "path": "docs/expanded/source/people-01.json",
+      "sha256": "0fe15bfa307df298f4d8f6404d7a0186410fa36afaa493940a6625a5f0ba6b0c"
+    },
+    {
+      "path": "docs/expanded/source/people-02.json",
+      "sha256": "cebd4fe1dcdf36a385603a957b604186b82c33c654e69e4cf98ed1e9efa479ae"
+    },
+    {
+      "path": "docs/expanded/source/people-03.json",
+      "sha256": "f7b5fcdb09d0ff2f5672e6b13b3a6d943aac0c43c1474a094cf134a17f44042c"
+    },
+    {
+      "path": "docs/expanded/source/people-04.json",
+      "sha256": "8ea68699146533baa8880db56e1ac02f071bec3b0cda9c59e439d3e4f44669de"
+    },
+    {
+      "path": "docs/expanded/source/people-05.json",
+      "sha256": "013be57735c5836b32ee0e93d23e6339c1fe7daca77e2ca4b45a4c2cac52ca70"
+    },
+    {
+      "path": "docs/expanded/source/people-06.json",
+      "sha256": "1c154a8f8b4dceef95ffd4c66a90a78663f696b5ad426eed7d59f37708956ca4"
+    },
+    {
+      "path": "docs/expanded/source/people-07.json",
+      "sha256": "2176f5c19f69a58d201e9e7895ab0f8a3844b4402f1f611f25eabee5773ce0fb"
+    },
+    {
+      "path": "docs/expanded/source/people-08.json",
+      "sha256": "d21afd8cefbad662b8caab1630a3792323d9bfea2378d77102c4114d5a312416"
+    },
+    {
+      "path": "docs/expanded/source/people-09.json",
+      "sha256": "1869a67c0412ca9054b6a69334deadf2a61990c2b0f1378a9b2022da0d8981c6"
+    },
+    {
+      "path": "docs/expanded/source/sources.json",
+      "sha256": "deefcdc49153a075f352b57dc4dd9d9eed3d9c8230affe4470a6484f00c2c2ab"
+    },
+    {
+      "path": "docs/expanded/source/world-africa.json",
+      "sha256": "e550ab537c43525c3a916c784577553810a66c0db50f75c5bffce3716427e662"
+    },
+    {
+      "path": "docs/expanded/source/world-americas.json",
+      "sha256": "779b28076158c1c53d6803c559b7a4e8043f624446e71c1a62ed31c698e3ff1a"
+    },
+    {
+      "path": "docs/expanded/source/world-central-west-asia.json",
+      "sha256": "d0eed4d48be43c10eed396b8e3065854bd9a5322a86e1b4aaf33573cd3fabcab"
+    },
+    {
+      "path": "docs/expanded/source/world-east-asia.json",
+      "sha256": "f60df59e63c82e835edbc59257829fe94fa2e68b3dccba8a7a112276f585f5de"
+    },
+    {
+      "path": "docs/expanded/source/world-europe.json",
+      "sha256": "2eda7a78e3d3cb7b7fd2a0fe423d43b56d1052df1488947734ab6ce2589e902e"
+    },
+    {
+      "path": "docs/expanded/source/world-oceania.json",
+      "sha256": "ff54ae728cd410004f9a38e766e0fcb2317cce798f79b40b404ef9d32be75511"
+    },
+    {
+      "path": "docs/expanded/source/world-south-asia.json",
+      "sha256": "b88d535c0c294d3103ad03151dd0febded8dca3f68bbd133ab6dfe0298476346"
+    },
+    {
+      "path": "docs/expanded/source/world-southeast-asia.json",
+      "sha256": "220b561605e82ffd3eca738f03e2d80db336188af368dede782cc731c5ebd01e"
+    },
+    {
+      "path": "docs/expanded/worldEvents-01.js",
+      "sha256": "d4fba980037366d41695fb7412f50a5084f0668d0b1d6da8866bcd4b4105cf58"
+    },
+    {
+      "path": "docs/expanded/worldEvents-02.js",
+      "sha256": "15029a7a28f169f83f0c8ca5d73848553fbe71c11aaccdf2c35458865e38234b"
+    },
+    {
+      "path": "docs/expanded/worldEvents-03.js",
+      "sha256": "f0764742f62f16f7bbf80fc9f7bb735398f64c1804f840d375fa397b953949e1"
+    },
+    {
+      "path": "docs/expanded/worldEvents-04.js",
+      "sha256": "8c6acbe53e36a8628e7f10be1e082b529b32161c45cc10f94b31189ad50f41f3"
+    },
+    {
+      "path": "docs/expanded/worldEvents-05.js",
+      "sha256": "755cbb31f511411825d1eb74d2a735f873d285422ecafd5c6b756b3f8f92d626"
+    },
+    {
+      "path": "docs/expanded/worldEvents-06.js",
+      "sha256": "a4c3c80f40c4c9aa93f1e29b5a32a728af1a6900747b9787901fdccdbebf179f"
+    },
+    {
+      "path": "docs/expanded/worldEvents-07.js",
+      "sha256": "a9e8521e3691ddecbb42863c950f0e6d129b5c576f561ba0df088bf55ec9db39"
+    },
+    {
+      "path": "docs/expanded/worldEvents-08.js",
+      "sha256": "110eaef8f2ff4f759817469ed975252d995a78b25e9a5995737d24401cdb43e3"
     },
     {
       "path": "docs/history-data.json",
@@ -137,7 +421,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "fe7f8efe62919a08d64579b4a3c072acc9303495ca9b44ba579416f94293052d"
+      "sha256": "77561104d1765a2e99f49ab9d9faf3447e3d6eb57273193758c9e91f6125bfd4"
     },
     {
       "path": "docs/knowledge.css",
@@ -157,11 +441,7 @@
     },
     {
       "path": "docs/world-chronicle.js",
-      "sha256": "72171fbeee69d324b46dcfbb7c6646fa40584a09254bd1dffb6b07ea325f6650"
-    },
-    {
-      "path": "docs/era-palettes.js",
-      "sha256": "c448272563a8284791f9a4349c228d45e7e1bb8b3a9e9d2ea4da495eb4e48092"
+      "sha256": "75e269732e76623c88fde42d0e06bf1f5ba6de6ecc4cfb72cd34b50d2e9b2d70"
     }
   ]
 }

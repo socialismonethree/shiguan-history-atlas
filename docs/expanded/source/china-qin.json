@@ -1,0 +1,491 @@
+[
+  {
+    "_order": 150,
+    "id": "ann-ce-0156",
+    "title": "秦灭齐完成六国统一",
+    "start": -221,
+    "end": -221,
+    "summary": "秦军进入齐国，齐王投降；秦建立皇帝名号并以郡县等制度治理新统一的领土。",
+    "importance": "诸侯竞争转入统一帝国的行政与社会整合。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "qinshi",
+      "v5-lisi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前221年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 封建土地所有制的确立",
+        "lineStart": 73572,
+        "lineEnd": 73572
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 151,
+    "id": "ann-ce-0157",
+    "title": "秦修驰道",
+    "start": -220,
+    "end": -220,
+    "summary": "秦王朝修建以首都为中心的道路网络，加强政令、军队和物资在广大领土上的流动。",
+    "importance": "交通工程为统一行政提供实际连接条件。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "qinshi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前220年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 加强统治的其他措施",
+        "lineStart": 74933,
+        "lineEnd": 74933
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 152,
+    "id": "ann-ce-0158",
+    "title": "秦始皇东巡与封禅",
+    "start": -219,
+    "end": -219,
+    "summary": "秦始皇巡行东方并举行政治仪式，通过刻石和礼仪宣布新秩序并展示皇帝权威。",
+    "importance": "统一需要象征建构，也需要回应不同地域传统。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "qinshi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前219年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 皇权和皇位的确立",
+        "lineStart": 73986,
+        "lineEnd": 73986
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 153,
+    "id": "ann-ce-0159",
+    "title": "博浪沙袭击",
+    "start": -218,
+    "end": -218,
+    "summary": "张良策划对秦始皇巡行队伍的袭击未果，反秦力量在统一后仍以多种方式存在。",
+    "importance": "六国覆亡没有立即消除旧国认同与政治反抗。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-zhangliang",
+      "qinshi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前218年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 五年中的三次出巡",
+        "lineStart": 75063,
+        "lineEnd": 75063
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 154,
+    "id": "ann-ce-0160",
+    "title": "蒙恬北击匈奴",
+    "start": -215,
+    "end": -215,
+    "summary": "秦军向河套推进并建立边防据点，军事扩张与移民、道路和防御工程相互配合。",
+    "importance": "帝国北部边疆治理依赖高成本的常态动员。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-mengtian"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前215年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 秦代统一初期的版图",
+        "lineStart": 74079,
+        "lineEnd": 74079
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 155,
+    "id": "ann-ce-0161",
+    "title": "秦向岭南推进并设郡",
+    "start": -214,
+    "end": -214,
+    "summary": "秦军进入岭南并建立南海等郡，灵渠等运输工程支持南方军事与行政扩展。",
+    "importance": "区域整合扩大，但新统治仍需长期地方经营。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-4fd6616de8e4",
+      "ann-person-59d0f545da4e"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前214年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 “百越”的统一",
+        "lineStart": 74158,
+        "lineEnd": 74158
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 156,
+    "id": "ann-ce-0162",
+    "title": "焚书令",
+    "start": -213,
+    "end": -213,
+    "summary": "秦廷禁止部分私人藏书和以古议政活动，博士官收藏与实用书籍等存在不同处理。",
+    "importance": "知识控制成为皇权塑造统一政治话语的手段。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-lisi",
+      "qinshi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前213年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 暴虐和愚蠢的“焚书坑儒”",
+        "lineStart": 74965,
+        "lineEnd": 74965
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 157,
+    "id": "ann-ce-0164",
+    "title": "修直道与营建阿房宫",
+    "start": -212,
+    "end": -212,
+    "summary": "秦王朝推进北向直道及大型宫殿工程，国家动员规模扩大，徭役和财政压力加深。",
+    "importance": "帝国工程能力与民众负担同时增长。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-mengtian",
+      "qinshi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前212年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 加强统治的其他措施",
+        "lineStart": 74941,
+        "lineEnd": 74941
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 158,
+    "id": "ann-ce-0163",
+    "title": "坑杀方士儒生的记载",
+    "start": -212,
+    "end": -212,
+    "summary": "史书记载秦廷追究方士及相关人士并处死多人，人员身份、规模和细节需区分史料层次。",
+    "importance": "思想控制与皇帝求仙活动的矛盾交织。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "qinshi"
+    ],
+    "note": "史书记载秦廷追究方士及相关人士并处死多人，人员身份、规模和细节需区分史料层次。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前212年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 军事制度和徭役",
+        "lineStart": 74591,
+        "lineEnd": 74591
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 159,
+    "id": "ann-ce-0165",
+    "title": "秦始皇去世与沙丘政变",
+    "start": -210,
+    "end": -210,
+    "summary": "秦始皇巡行中去世，赵高等改变继承安排，胡亥继位并打击宗室与重臣。",
+    "importance": "高度集中的权力缺少稳定交接便可能迅速失控。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "qinshi",
+      "ann-person-269e59ced498",
+      "v5-zhaogao",
+      "v5-lisi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前210年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 第五次巡行和始皇之死",
+        "lineStart": 75092,
+        "lineEnd": 75092
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 160,
+    "id": "ann-ce-0167",
+    "title": "项梁刘邦起兵",
+    "start": -209,
+    "end": -209,
+    "summary": "楚地项梁与沛县刘邦等先后举兵，不同起义力量开始形成各自的军事与地域基础。",
+    "importance": "反秦阵营并非统一组织，而是多股力量逐步竞争。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-f0510374cfae",
+      "v5-xiangyu",
+      "liubang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前209年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 社会阶级构成",
+        "lineStart": 74035,
+        "lineEnd": 74035
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 161,
+    "id": "ann-ce-0168",
+    "title": "章邯反击与陈胜败亡",
+    "start": -208,
+    "end": -208,
+    "summary": "秦军利用刑徒等兵源反击，张楚遭挫，起义力量在重组中形成新的领导中心。",
+    "importance": "反秦战争经历反复，秦朝并非起义后立即崩溃。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-ff153808681c",
+      "v5-chensheng"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前208年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 农民起义军重振军威",
+        "lineStart": 75300,
+        "lineEnd": 75300
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 162,
+    "id": "ann-ce-0169",
+    "title": "项梁战死定陶",
+    "start": -208,
+    "end": -208,
+    "summary": "项梁在与秦军交战中战死，楚军重整权力，项羽逐渐成为主要军事领袖。",
+    "importance": "关键统帅死亡改变反秦联盟的组织格局。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-f0510374cfae",
+      "v5-xiangyu"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前208年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 农民起义军重振军威",
+        "lineStart": 75300,
+        "lineEnd": 75300
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  },
+  {
+    "_order": 163,
+    "id": "ann-ce-0171",
+    "title": "刘邦入关与秦亡",
+    "start": -207,
+    "end": -207,
+    "summary": "刘邦进入关中，秦王子婴投降，短暂的秦王朝终结，统一领土进入新一轮权力竞争。",
+    "importance": "推翻王朝之后仍需解决政权与地区关系重建。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liubang",
+      "ann-person-d89743c83bcd"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前207年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 秦末农民大起义的前奏",
+        "lineStart": 75133,
+        "lineEnd": 75133
+      }
+    ],
+    "periodId": "qin",
+    "lane": "china",
+    "themeId": "qin"
+  }
+]

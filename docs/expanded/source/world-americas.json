@@ -1,0 +1,3700 @@
+[
+  {
+    "_order": 5,
+    "id": "ann-chron-world-americas-0972",
+    "title": "安第斯早期纪念性建筑发展",
+    "start": -2000,
+    "end": -1500,
+    "summary": "海岸与高地社群修建仪式中心，以农业、渔业和交换组织超越单个村落的合作。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前2000年—公元前1500年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 19,
+    "id": "ann-chron-world-americas-0973",
+    "title": "奥尔梅克文化发展",
+    "start": -1500,
+    "end": -400,
+    "summary": "墨西哥湾沿岸中心营建土台、雕塑和巨石头像，权力与仪式通过远距离工艺交流表达。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前1500年—公元前400年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 43,
+    "id": "ann-chron-world-americas-0974",
+    "title": "查文宗教中心繁荣",
+    "start": -900,
+    "end": -200,
+    "summary": "安第斯神庙、石刻和复杂图像联结不同地区，信仰网络推动高地与海岸互动。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前900年—公元前200年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 86,
+    "id": "ann-chron-world-americas-0975",
+    "title": "萨波特克蒙特阿尔班建立",
+    "start": -500,
+    "end": -500,
+    "summary": "瓦哈卡山顶城市发展，文字、历法与公共建筑显示早期国家组织能力。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前500年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 123,
+    "id": "ann-chron-world-americas-0976",
+    "title": "玛雅低地大型中心发展",
+    "start": -300,
+    "end": -300,
+    "summary": "城市、农田与堤道逐渐扩大，玛雅文明存在多个竞争中心，不能视为统一帝国。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前300年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 150,
+    "id": "ann-chron-world-americas-0977",
+    "title": "特奥蒂瓦坎城市扩张",
+    "start": -100,
+    "end": 100,
+    "summary": "太阳金字塔等大型工程和街区规划体现复杂城市治理，居民包含多种地域社群。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前100年—100年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 181,
+    "id": "ann-chron-world-americas-0979",
+    "title": "纳斯卡地画与祭祀实践",
+    "start": 100,
+    "end": 800,
+    "summary": "秘鲁南岸社群创造大型地面图形，与地方仪式、行走和环境知识相联系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "100年—800年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 182,
+    "id": "ann-chron-world-americas-0978",
+    "title": "莫切文化繁荣",
+    "start": 100,
+    "end": 700,
+    "summary": "秘鲁北岸灌溉农业支持礼仪中心，陶器、金属工艺和墓葬呈现权力与社会分层。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "100年—700年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 197,
+    "id": "ann-chron-world-americas-0980",
+    "title": "玛雅古典期开始",
+    "start": 250,
+    "end": 250,
+    "summary": "碑刻、王室谱系与城邦战争记录逐渐丰富，历法成为王权和仪式的重要表达。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约250年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 219,
+    "id": "ann-chron-world-americas-0981",
+    "title": "提卡尔政治变动",
+    "start": 378,
+    "end": 378,
+    "summary": "碑刻记述外来人物到达与王朝转折，特奥蒂瓦坎影响的具体方式仍有争论。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "378年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 231,
+    "id": "ann-chron-world-americas-0982",
+    "title": "科潘王朝建立纪年",
+    "start": 426,
+    "end": 426,
+    "summary": "王室碑文追溯雅什·库克·莫建立统治，迁徙、婚姻和宗教仪式共同支持合法性。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "426年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 245,
+    "id": "ann-chron-world-americas-0983",
+    "title": "蒂瓦纳库区域网络发展",
+    "start": 500,
+    "end": 1000,
+    "summary": "的的喀喀湖流域以高原农业、仪式和殖民聚落连接周边生态区域。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "500年—1000年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 266,
+    "id": "ann-chron-world-americas-0984",
+    "title": "瓦里国家扩张",
+    "start": 600,
+    "end": 1000,
+    "summary": "安第斯城市与行政据点形成道路网络，政治统治与地方社会互动程度各不相同。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "600年—1000年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 274,
+    "id": "ann-chron-world-americas-0985",
+    "title": "帕伦克帕卡尔即位",
+    "start": 615,
+    "end": 615,
+    "summary": "长期统治支持宫殿、碑铭和宗教建筑，王室记忆通过图像与文字被保存。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-58fe8a7ec656"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "615年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 304,
+    "id": "ann-chron-world-americas-0986",
+    "title": "提卡尔击败卡拉克穆尔",
+    "start": 695,
+    "end": 695,
+    "summary": "玛雅主要城邦联盟之间的战争改变低地政治格局，权力仍保持多中心形式。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "695年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 318,
+    "id": "ann-chron-world-americas-0987",
+    "title": "特奥蒂瓦坎主要中心衰落",
+    "start": 750,
+    "end": 750,
+    "summary": "城市权力与人口重新分布，火灾、内部冲突和区域变化的关系仍在研究中。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约750年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 335,
+    "id": "ann-chron-world-americas-0988",
+    "title": "玛雅南部低地城市转型",
+    "start": 800,
+    "end": 950,
+    "summary": "多处王朝和城市衰落，气候、战争和政治压力相互作用，玛雅社群并未消失。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "800年—950年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 359,
+    "id": "ann-chron-world-americas-0989",
+    "title": "托尔特克图拉中心发展",
+    "start": 900,
+    "end": 1150,
+    "summary": "武士雕塑、建筑与工艺交流展现墨西哥中部新政治文化，后世王朝不断追认其传统。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "900年—1150年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 388,
+    "id": "ann-chron-world-americas-0990",
+    "title": "北欧航海者抵达纽芬兰",
+    "start": 1000,
+    "end": 1000,
+    "summary": "兰塞奥兹牧草地遗址证明跨大西洋接触，但定居规模有限且未持续形成殖民网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1000年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 405,
+    "id": "ann-chron-world-americas-0991",
+    "title": "卡霍基亚城市扩张",
+    "start": 1050,
+    "end": 1050,
+    "summary": "密西西比河流域大型土丘和居住区增长，仪式、农业和远距离交换支撑复杂社会。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1050年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 426,
+    "id": "ann-chron-world-americas-0992",
+    "title": "奇米王国扩张",
+    "start": 1100,
+    "end": 1450,
+    "summary": "昌昌以土坯城市、工艺生产和灌溉系统组织秘鲁北岸，后来被印加征服。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1100年—1450年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 456,
+    "id": "ann-chron-world-americas-0993",
+    "title": "玛雅潘成为重要中心",
+    "start": 1200,
+    "end": 1200,
+    "summary": "尤卡坦城邦政治与贸易继续发展，古典期城市衰落并不意味着玛雅历史终结。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1200年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 507,
+    "id": "ann-chron-world-americas-0994",
+    "title": "普韦布洛人口与聚落调整",
+    "start": 1300,
+    "end": 1300,
+    "summary": "美国西南部社群在气候和社会压力下迁徙重组，建筑与农业传统延续。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1300年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 514,
+    "id": "ann-chron-world-americas-0995",
+    "title": "特诺奇蒂特兰建城传统纪年",
+    "start": 1325,
+    "end": 1325,
+    "summary": "墨西加人在湖区建立政治中心，后以堤道、浮田和战争扩大国家力量。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1325年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 563,
+    "id": "ann-chron-world-americas-0996",
+    "title": "阿兹特克三城同盟建立",
+    "start": 1428,
+    "end": 1428,
+    "summary": "特诺奇蒂特兰、特斯科科和特拉科潘结盟，以贡赋和征服构建帝国。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1428年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 568,
+    "id": "ann-chron-world-americas-0997",
+    "title": "帕查库蒂统治的传统起点",
+    "start": 1438,
+    "end": 1438,
+    "summary": "印加王权扩张，库斯科、道路与劳动贡役支撑跨安第斯的国家组织。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-pachacuti"
+    ],
+    "note": "本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1438年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 571,
+    "id": "ann-chron-world-americas-0998",
+    "title": "马丘比丘营建",
+    "start": 1450,
+    "end": 1450,
+    "summary": "山地建筑、梯田和王室庄园体现印加工程与环境适应，具体用途仍有研究讨论。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1450年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 576,
+    "id": "ann-chron-world-americas-0999",
+    "title": "印加征服奇米",
+    "start": 1460,
+    "end": 1460,
+    "summary": "秘鲁北岸纳入印加体系，工匠和行政资源被调动，地方文化继续影响帝国。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1460年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 582,
+    "id": "ann-chron-world-americas-1000",
+    "title": "图帕克·印卡·尤潘基继位前后",
+    "start": 1471,
+    "end": 1471,
+    "summary": "印加继续向南北扩张，地方领袖、迁徙人口和驿站共同构成统治网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-1c16448a1761"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。活动或著作形成的约略纪年，不能理解为确定的单一发生年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1471年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 588,
+    "id": "ann-chron-world-americas-1001",
+    "title": "哥伦布抵达加勒比海",
+    "start": 1492,
+    "end": 1492,
+    "summary": "欧洲航海者进入有人居住的群岛，殖民、疫病、奴役与全球物种交换随后改变世界。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-c211222149dc"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1492年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 591,
+    "id": "ann-chron-world-americas-1002",
+    "title": "《托尔德西里亚斯条约》",
+    "start": 1494,
+    "end": 1494,
+    "summary": "西葡王室在缺乏当地社会同意下划分海外权益，殖民法律宣称与实际控制并不等同。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1494年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 596,
+    "id": "ann-chron-world-americas-1003",
+    "title": "卡布拉尔抵达巴西海岸",
+    "start": 1500,
+    "end": 1500,
+    "summary": "葡萄牙建立对土地的殖民主张，早期贸易逐渐转为糖业种植和奴隶制。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-2dd0c18560de"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1500年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 602,
+    "id": "ann-chron-world-americas-1004",
+    "title": "巴尔沃亚越过巴拿马地峡",
+    "start": 1513,
+    "end": 1513,
+    "summary": "西班牙人从美洲大陆看见太平洋，地峡成为后续殖民交通与征服的重要连接。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-f9a3821f1d9b"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1513年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 609,
+    "id": "ann-chron-world-americas-1005",
+    "title": "科尔特斯进入墨西哥",
+    "start": 1519,
+    "end": 1519,
+    "summary": "西班牙远征借助本地盟友挑战阿兹特克，征服并非单纯由少量欧洲人独自完成。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-cortes"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1519年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 610,
+    "id": "ann-chron-world-americas-1006",
+    "title": "墨西哥天花疫情",
+    "start": 1520,
+    "end": 1520,
+    "summary": "外来疾病在战争中迅速传播，人口死亡和政治动荡共同削弱阿兹特克抵抗。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1520年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 614,
+    "id": "ann-chron-world-americas-1007",
+    "title": "特诺奇蒂特兰陷落",
+    "start": 1521,
+    "end": 1521,
+    "summary": "西班牙与本地盟军围攻取胜，墨西哥逐步形成殖民统治与混合城市社会。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1521年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 626,
+    "id": "ann-chron-world-americas-1008",
+    "title": "卡哈马卡俘获阿塔瓦尔帕",
+    "start": 1532,
+    "end": 1532,
+    "summary": "皮萨罗利用内战背景袭击印加君主，军事、疫病与地方联盟共同推动征服。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-pizarro",
+      "wp-atahualpa"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1532年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 627,
+    "id": "ann-chron-world-americas-1009",
+    "title": "西班牙军进入库斯科",
+    "start": 1533,
+    "end": 1533,
+    "summary": "印加核心地区被占领，但王室残余与地方社群仍长期抵抗殖民统治。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1533年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 630,
+    "id": "ann-chron-world-americas-1010",
+    "title": "新西班牙总督区建立",
+    "start": 1535,
+    "end": 1535,
+    "summary": "殖民行政逐渐整合墨西哥和周边领地，教会、城市和贡赋制度共同支撑统治。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1535年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 634,
+    "id": "ann-chron-world-americas-1011",
+    "title": "秘鲁总督区与《新法》",
+    "start": 1542,
+    "end": 1542,
+    "summary": "西班牙试图调整原住民劳动及征服者权力，法律保护与殖民剥削之间矛盾尖锐。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1542年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 639,
+    "id": "ann-chron-world-americas-1012",
+    "title": "波托西银矿开发",
+    "start": 1545,
+    "end": 1545,
+    "summary": "巨量白银连接全球贸易，矿业依赖原住民强制劳动并造成严重健康与环境代价。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1545年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 642,
+    "id": "ann-chron-world-americas-1013",
+    "title": "巴利亚多利德论争",
+    "start": 1550,
+    "end": 1551,
+    "summary": "拉斯·卡萨斯与塞普尔韦达讨论征服和原住民地位，欧洲论辩并未停止殖民暴力。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-8dc012a047b1"
+    ],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1550年—1551年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 653,
+    "id": "ann-chron-world-americas-1014",
+    "title": "马尼拉大帆船航线建立",
+    "start": 1565,
+    "end": 1565,
+    "summary": "美洲白银经阿卡普尔科流向亚洲，跨太平洋贸易连接殖民社会、东亚商人与全球市场。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1565年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 661,
+    "id": "ann-chron-world-americas-1015",
+    "title": "印加比尔卡班巴抵抗终结",
+    "start": 1572,
+    "end": 1572,
+    "summary": "图帕克·阿马鲁一世被处决，独立王室据点消失，但地方文化和反抗继续存在。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-ea044d660dde"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1572年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 695,
+    "id": "ann-chron-world-americas-1016",
+    "title": "詹姆斯敦殖民地建立",
+    "start": 1607,
+    "end": 1607,
+    "summary": "英国在北美形成持续据点，土地扩张、烟草经济与原住民冲突逐渐加深。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1607年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 697,
+    "id": "ann-chron-world-americas-1017",
+    "title": "魁北克建立法国殖民据点",
+    "start": 1608,
+    "end": 1608,
+    "summary": "尚普兰推动皮毛贸易和联盟，法国势力依赖与原住民政治网络的合作。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-d2ad46a4ab0a"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1608年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 705,
+    "id": "ann-chron-world-americas-1018",
+    "title": "非洲人被带到英属弗吉尼亚",
+    "start": 1619,
+    "end": 1619,
+    "summary": "早期强制劳动逐渐转化为种族化世袭奴隶制，殖民农业与大西洋贩运紧密结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1619年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 706,
+    "id": "ann-chron-world-americas-1019",
+    "title": "五月花号移民抵达新英格兰",
+    "start": 1620,
+    "end": 1620,
+    "summary": "清教移民建立聚落并以契约安排部分政治生活，扩张同时侵夺原住民土地。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1620年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 721,
+    "id": "ann-chron-world-americas-1020",
+    "title": "佩科特战争",
+    "start": 1637,
+    "end": 1637,
+    "summary": "英殖民军与盟友摧毁佩科特社群，战争展示北美定居殖民的土地与暴力逻辑。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1637年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 733,
+    "id": "ann-chron-world-americas-1021",
+    "title": "巴西瓜拉拉佩斯战役",
+    "start": 1648,
+    "end": 1648,
+    "summary": "葡萄牙殖民力量与多族群军队对抗荷兰，糖业殖民地控制权重新争夺。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1648年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 738,
+    "id": "ann-chron-world-americas-1022",
+    "title": "荷兰退出巴西东北部",
+    "start": 1654,
+    "end": 1654,
+    "summary": "葡萄牙恢复主要糖业区统治，大西洋资本与奴隶种植园继续扩张。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1654年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 749,
+    "id": "ann-chron-world-americas-1023",
+    "title": "菲利普王战争",
+    "start": 1675,
+    "end": 1675,
+    "summary": "新英格兰原住民联盟与殖民者全面交战，大量社群死亡、流亡或被奴役。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-825c1a24d1b2"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1675年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 751,
+    "id": "ann-chron-world-americas-1024",
+    "title": "普韦布洛起义",
+    "start": 1680,
+    "end": 1680,
+    "summary": "波佩等组织原住民反抗宗教压迫和殖民劳动，西班牙被逐出新墨西哥十余年。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-2d5820d44952"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1680年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 761,
+    "id": "ann-chron-world-americas-1025",
+    "title": "塞勒姆审巫",
+    "start": 1692,
+    "end": 1692,
+    "summary": "马萨诸塞宗教、司法和地方社会恐惧造成冤案，显示殖民社会内部的权威冲突。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1692年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 762,
+    "id": "ann-chron-world-americas-1026",
+    "title": "帕尔马雷斯被攻破",
+    "start": 1694,
+    "end": 1694,
+    "summary": "巴西逃奴社群长期抵抗后遭殖民军镇压，自由共同体的记忆持续影响反奴隶制历史。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-88495443d110"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1694年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 769,
+    "id": "ann-chron-world-americas-1027",
+    "title": "蒙特利尔大和平",
+    "start": 1701,
+    "end": 1701,
+    "summary": "法国与多个原住民国家协商和平，北美外交仍包含强大的本地政治行动者。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1701年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 788,
+    "id": "ann-chron-world-americas-1028",
+    "title": "斯托诺奴隶起义",
+    "start": 1739,
+    "end": 1739,
+    "summary": "南卡罗来纳被奴役者反抗并寻求自由，镇压后殖民政府强化奴隶控制法律。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1739年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 797,
+    "id": "ann-chron-world-americas-1029",
+    "title": "法印战争爆发",
+    "start": 1754,
+    "end": 1754,
+    "summary": "英法及原住民联盟争夺北美领地，地方战争逐渐并入全球七年战争。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1754年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 805,
+    "id": "ann-chron-world-americas-1030",
+    "title": "巴黎条约重分北美殖民地",
+    "start": 1763,
+    "end": 1763,
+    "summary": "法国退出大部分大陆领土，英国胜利却扩大财政与边境治理压力。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1763年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 806,
+    "id": "ann-chron-world-americas-1031",
+    "title": "庞蒂亚克反抗与王室公告",
+    "start": 1763,
+    "end": 1763,
+    "summary": "原住民抵抗殖民扩张，英国试图限制越山定居，但殖民者继续争夺土地。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-03cb23d14d53"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1763年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 810,
+    "id": "ann-chron-world-americas-1032",
+    "title": "印花税危机",
+    "start": 1765,
+    "end": 1765,
+    "summary": "英国向殖民地征税引发抵制，代表权与帝国主权争执逐步升级。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1765年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 816,
+    "id": "ann-chron-world-americas-1033",
+    "title": "波士顿惨案",
+    "start": 1770,
+    "end": 1770,
+    "summary": "驻军射杀抗议者，殖民地宣传把事件转化为反对英国统治的动员资源。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1770年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 820,
+    "id": "ann-chron-world-americas-1034",
+    "title": "波士顿倾茶事件",
+    "start": 1773,
+    "end": 1773,
+    "summary": "反对茶税与公司特权的抗议促使英国加强惩罚，帝国危机接近战争。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1773年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 825,
+    "id": "ann-chron-world-americas-1035",
+    "title": "第一届大陆会议",
+    "start": 1774,
+    "end": 1774,
+    "summary": "殖民地代表协商抵制和权利主张，跨殖民地政治协调能力显著增强。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1774年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 826,
+    "id": "ann-chron-world-americas-1036",
+    "title": "莱克星顿与康科德交火",
+    "start": 1775,
+    "end": 1775,
+    "summary": "殖民民兵与英军冲突，独立战争从政治争议转为全面军事对抗。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1775年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 829,
+    "id": "ann-chron-world-americas-1037",
+    "title": "美国《独立宣言》",
+    "start": 1776,
+    "end": 1776,
+    "summary": "大陆会议宣布脱离英国，平等语言与奴隶制、原住民排斥之间存在尖锐矛盾。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-jefferson"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1776年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 830,
+    "id": "ann-chron-world-americas-1038",
+    "title": "萨拉托加战役",
+    "start": 1777,
+    "end": 1777,
+    "summary": "大陆军取胜推动法国公开结盟，独立战争成为跨大西洋国际战争。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1777年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 833,
+    "id": "ann-chron-world-americas-1039",
+    "title": "图帕克·阿马鲁二世起义",
+    "start": 1780,
+    "end": 1780,
+    "summary": "安第斯反抗殖民税役与地方压迫，运动扩大后遭残酷镇压。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-42c3f9d0eeed"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1780年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 835,
+    "id": "ann-chron-world-americas-1040",
+    "title": "约克镇战役",
+    "start": 1781,
+    "end": 1781,
+    "summary": "美法联军迫使英军投降，战争主要军事阶段结束，谈判随后确认独立。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1781年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 837,
+    "id": "ann-chron-world-americas-1041",
+    "title": "英国承认美国独立",
+    "start": 1783,
+    "end": 1783,
+    "summary": "巴黎和约重新划定北美权利，但原住民国家未获平等谈判地位。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1783年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 840,
+    "id": "ann-chron-world-americas-1042",
+    "title": "美国制宪会议",
+    "start": 1787,
+    "end": 1787,
+    "summary": "联邦政府结构与权力制衡被确立，奴隶制妥协和政治资格限制同时写入秩序。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-madison"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1787年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 842,
+    "id": "ann-chron-world-americas-1043",
+    "title": "华盛顿就任总统",
+    "start": 1789,
+    "end": 1789,
+    "summary": "新联邦制度进入实践，行政、国会与司法关系逐渐形成政治惯例。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-washington"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1789年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 848,
+    "id": "ann-chron-world-americas-1045",
+    "title": "圣多明各奴隶起义",
+    "start": 1791,
+    "end": 1791,
+    "summary": "被奴役者争取自由的革命扩大，法国革命、种植园经济与殖民战争交织。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-toussaint"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1791年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 850,
+    "id": "ann-chron-world-americas-1044",
+    "title": "美国《权利法案》生效",
+    "start": 1791,
+    "end": 1791,
+    "summary": "宪法修正案列举基本自由和程序保障，但其实际覆盖范围仍受种族和身份限制。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1791年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 855,
+    "id": "ann-chron-world-americas-1046",
+    "title": "法国废除殖民地奴隶制",
+    "start": 1794,
+    "end": 1794,
+    "summary": "革命政府在战争和奴隶反抗推动下采取废奴措施，拿破仑后来在部分地区恢复奴隶制。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1794年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 868,
+    "id": "ann-chron-world-americas-1047",
+    "title": "美国购买路易斯安那",
+    "start": 1803,
+    "end": 1803,
+    "summary": "法国向美国转让殖民主张，美国西向扩张加速侵占原住民土地。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1803年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 873,
+    "id": "ann-chron-world-americas-1048",
+    "title": "海地独立",
+    "start": 1804,
+    "end": 1804,
+    "summary": "德萨林宣布新国家成立，奴隶革命取得独立成果，但国际孤立和赔款压力随后长期存在。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-dessalines"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1804年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 879,
+    "id": "ann-chron-world-americas-1049",
+    "title": "美国禁止输入奴隶立法",
+    "start": 1807,
+    "end": 1807,
+    "summary": "法律次年生效，海外输入受限而国内奴隶买卖和种植园奴役仍继续扩大。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1807年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 884,
+    "id": "ann-chron-world-americas-1050",
+    "title": "墨西哥独立战争开始",
+    "start": 1810,
+    "end": 1810,
+    "summary": "伊达尔戈号召反抗，农民动员、族群等级与殖民王权危机相互交织。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-hidalgo"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1810年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 886,
+    "id": "ann-chron-world-americas-1051",
+    "title": "布宜诺斯艾利斯五月革命",
+    "start": 1810,
+    "end": 1810,
+    "summary": "地方政治集团建立委员会，拉普拉塔地区走向独立与后续国家组织斗争。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1810年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 887,
+    "id": "ann-chron-world-americas-1052",
+    "title": "委内瑞拉宣布独立",
+    "start": 1811,
+    "end": 1811,
+    "summary": "共和国尝试面临王党反攻和社会分裂，独立进程经历长期战争。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-bolivar"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1811年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 891,
+    "id": "ann-chron-world-americas-1053",
+    "title": "美英战争爆发",
+    "start": 1812,
+    "end": 1812,
+    "summary": "贸易、航海权和边境扩张引发战争，原住民联盟在冲突中遭到严重打击。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1812年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 897,
+    "id": "ann-chron-world-americas-1054",
+    "title": "玻利瓦尔发表《牙买加信》",
+    "start": 1815,
+    "end": 1815,
+    "summary": "流亡中的政治领袖思考拉美独立与联合，理想受到地方和社会分裂限制。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-bolivar"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1815年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 899,
+    "id": "ann-chron-world-americas-1055",
+    "title": "拉普拉塔联合省宣布独立",
+    "start": 1816,
+    "end": 1816,
+    "summary": "图库曼会议推动脱离西班牙，但中央与地方政治组织争执长期持续。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1816年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 901,
+    "id": "ann-chron-world-americas-1056",
+    "title": "圣马丁越过安第斯山",
+    "start": 1817,
+    "end": 1817,
+    "summary": "解放军进入智利，与本地力量合作打破西班牙统治。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-sanmartin"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1817年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 903,
+    "id": "ann-chron-world-americas-1057",
+    "title": "智利宣布独立",
+    "start": 1818,
+    "end": 1818,
+    "summary": "奥希金斯与圣马丁的军事政治合作巩固独立，国家治理仍面对地方与社会矛盾。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-8bef3a3c29ac"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1818年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 904,
+    "id": "ann-chron-world-americas-1058",
+    "title": "博亚卡战役",
+    "start": 1819,
+    "end": 1819,
+    "summary": "玻利瓦尔军队击败王党，推动新格拉纳达解放与大哥伦比亚建立。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1819年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 910,
+    "id": "ann-chron-world-americas-1059",
+    "title": "墨西哥独立与秘鲁宣布独立",
+    "start": 1821,
+    "end": 1821,
+    "summary": "殖民精英妥协与解放军行动分别推动国家形成，政治制度仍未稳定。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1821年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 912,
+    "id": "ann-chron-world-americas-1060",
+    "title": "巴西宣布独立",
+    "start": 1822,
+    "end": 1822,
+    "summary": "佩德罗建立君主制国家，独立并未立即废除奴隶制或打破大土地占有。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-pedro1"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1822年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 913,
+    "id": "ann-chron-world-americas-1061",
+    "title": "门罗主义提出",
+    "start": 1823,
+    "end": 1823,
+    "summary": "美国宣称反对欧洲进一步殖民，美洲主权语言后来也被用于扩大自身影响。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-86dcf101a820"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1823年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 916,
+    "id": "ann-chron-world-americas-1062",
+    "title": "阿亚库乔战役",
+    "start": 1824,
+    "end": 1824,
+    "summary": "苏克雷军队击败西班牙主力，南美大陆独立战争取得决定性胜利。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-2ebb901cba13"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1824年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 921,
+    "id": "ann-chron-world-americas-1063",
+    "title": "玻利维亚建立",
+    "start": 1825,
+    "end": 1825,
+    "summary": "上秘鲁独立形成新国家，矿业、原住民贡赋和地方权力关系仍延续殖民遗产。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1825年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 929,
+    "id": "ann-chron-world-americas-1064",
+    "title": "大哥伦比亚解体",
+    "start": 1830,
+    "end": 1830,
+    "summary": "委内瑞拉、厄瓜多尔等分离，区域精英和地方利益压倒跨国联合理想。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1830年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 933,
+    "id": "ann-chron-world-americas-1065",
+    "title": "美国《印第安人迁移法》",
+    "start": 1830,
+    "end": 1830,
+    "summary": "联邦推动原住民被迫西迁，所谓土地交易在武力、法律不平等和定居扩张中进行。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1830年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 935,
+    "id": "ann-chron-world-americas-1066",
+    "title": "纳特·特纳起义",
+    "start": 1831,
+    "end": 1831,
+    "summary": "弗吉尼亚奴隶反抗造成恐慌，南方进一步限制黑人教育、集会和宗教活动。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-ae84b7e693f3"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1831年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 944,
+    "id": "ann-chron-world-americas-1067",
+    "title": "得克萨斯脱离墨西哥",
+    "start": 1836,
+    "end": 1836,
+    "summary": "移民、奴隶制与中央地方冲突导致战争，新共和国成立后寻求加入美国。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1836年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 946,
+    "id": "ann-chron-world-americas-1068",
+    "title": "切罗基血泪之路",
+    "start": 1838,
+    "end": 1839,
+    "summary": "原住民被迫迁往西部，疾病、饥寒与行军造成大量死亡。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1838年—1839年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 957,
+    "id": "ann-chron-world-americas-1069",
+    "title": "美墨战争爆发",
+    "start": 1846,
+    "end": 1846,
+    "summary": "美国领土扩张与边界争议引发战争，军事优势迫使墨西哥接受割地。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1846年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 960,
+    "id": "ann-chron-world-americas-1070",
+    "title": "《瓜达卢佩—伊达尔戈条约》",
+    "start": 1848,
+    "end": 1848,
+    "summary": "墨西哥割让大片北部领土，居民公民权、土地和族群地位问题长期延续。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1848年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 961,
+    "id": "ann-chron-world-americas-1071",
+    "title": "加利福尼亚淘金潮",
+    "start": 1848,
+    "end": 1848,
+    "summary": "移民迅速涌入，贸易和城市发展伴随对原住民的驱逐、屠杀与劳工歧视。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1848年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 962,
+    "id": "ann-chron-world-americas-1072",
+    "title": "塞尼卡福尔斯妇女权利大会",
+    "start": 1848,
+    "end": 1848,
+    "summary": "改革者提出女性社会与政治权利，妇女参政运动逐渐形成全国组织。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1848年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 968,
+    "id": "ann-chron-world-americas-1073",
+    "title": "巴西禁止跨大西洋奴隶输入",
+    "start": 1850,
+    "end": 1850,
+    "summary": "国际和国内压力促成法律改变，但国内奴隶贸易与种植园劳动仍继续。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1850年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 972,
+    "id": "ann-chron-world-americas-1074",
+    "title": "《汤姆叔叔的小屋》出版",
+    "start": 1852,
+    "end": 1852,
+    "summary": "斯托夫人小说扩大反奴隶制舆论，也反映当时种族表达的局限。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-3aca9f193d41"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1852年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 980,
+    "id": "ann-chron-world-americas-1075",
+    "title": "美国《堪萨斯—内布拉斯加法》",
+    "start": 1854,
+    "end": 1854,
+    "summary": "奴隶制扩展问题交由地方决定引发暴力，既有政治妥协加速瓦解。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1854年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 987,
+    "id": "ann-chron-world-americas-1077",
+    "title": "墨西哥自由主义宪法",
+    "start": 1857,
+    "end": 1857,
+    "summary": "胡亚雷斯等改革者限制教会与军队特权，引发保守派反抗和改革战争。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-320f544ec1f9"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1857年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 988,
+    "id": "ann-chron-world-americas-1076",
+    "title": "德雷德·斯科特判决",
+    "start": 1857,
+    "end": 1857,
+    "summary": "最高法院否认黑人公民资格并限制国会反奴隶制权力，南北政治危机进一步加深。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1857年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 996,
+    "id": "ann-chron-world-americas-1078",
+    "title": "林肯当选美国总统",
+    "start": 1860,
+    "end": 1860,
+    "summary": "共和党胜选触发南方州分离，奴隶制与联邦存续危机转为内战。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-lincoln"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1860年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1002,
+    "id": "ann-chron-world-americas-1079",
+    "title": "美国内战爆发",
+    "start": 1861,
+    "end": 1861,
+    "summary": "北方联邦与南方邦联交战，战争目标逐渐把维护联邦与废除奴隶制结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1861年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1005,
+    "id": "ann-chron-world-americas-1080",
+    "title": "《解放奴隶宣言》",
+    "start": 1863,
+    "end": 1863,
+    "summary": "林肯宣布叛乱地区奴隶自由，黑人参军和自我解放推动战争性质变化。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1863年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1009,
+    "id": "ann-chron-world-americas-1081",
+    "title": "巴拉圭战争爆发",
+    "start": 1864,
+    "end": 1864,
+    "summary": "巴拉圭与巴西、阿根廷、乌拉圭联盟交战，长期战争对巴拉圭造成灾难性损失。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1864年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1011,
+    "id": "ann-chron-world-americas-1082",
+    "title": "美国内战结束与第十三修正案",
+    "start": 1865,
+    "end": 1865,
+    "summary": "邦联失败，奴隶制在法律上废除，但土地、劳动和公民权斗争仍持续。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1865年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1016,
+    "id": "ann-chron-world-americas-1083",
+    "title": "加拿大联邦成立",
+    "start": 1867,
+    "end": 1867,
+    "summary": "英属北美部分殖民地形成自治领，联邦扩张同时继续侵占原住民土地。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1867年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1018,
+    "id": "ann-chron-world-americas-1084",
+    "title": "墨西哥共和国恢复",
+    "start": 1867,
+    "end": 1867,
+    "summary": "法国支持的帝制垮台，胡亚雷斯政府恢复共和宪政，地方与社会改革仍待推进。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1867年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1022,
+    "id": "ann-chron-world-americas-1085",
+    "title": "古巴十年战争开始",
+    "start": 1868,
+    "end": 1868,
+    "summary": "种植园社会与西班牙统治冲突扩大，独立和废奴诉求相互联系。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-80b8f35547bf"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1868年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1026,
+    "id": "ann-chron-world-americas-1086",
+    "title": "美国第十四修正案",
+    "start": 1868,
+    "end": 1868,
+    "summary": "出生公民权与平等保护获得宪法表达，其实际执行遭种族暴力和法律限制。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1868年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1029,
+    "id": "ann-chron-world-americas-1087",
+    "title": "美国第十五修正案",
+    "start": 1870,
+    "end": 1870,
+    "summary": "禁止因种族等理由剥夺男性选举权，南方随后以各种制度阻碍黑人投票。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1870年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1045,
+    "id": "ann-chron-world-americas-1089",
+    "title": "小大角河战役",
+    "start": 1876,
+    "end": 1876,
+    "summary": "拉科塔、北夏延等联军击败美军，胜利未能阻止此后更大规模的殖民军事压迫。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-b580f87a9a52",
+      "ann-person-0645ae3efad4"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1876年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1047,
+    "id": "ann-chron-world-americas-1088",
+    "title": "波菲里奥·迪亚斯掌权",
+    "start": 1876,
+    "end": 1876,
+    "summary": "墨西哥以投资、铁路和强势行政推动增长，土地兼并与政治压制同时加深。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-88a2d8b0c163"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1876年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1048,
+    "id": "ann-chron-world-americas-1090",
+    "title": "美国重建时代结束",
+    "start": 1877,
+    "end": 1877,
+    "summary": "联邦军撤离南方后黑人政治权利受到系统压缩，种族隔离逐步制度化。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1877年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1054,
+    "id": "ann-chron-world-americas-1091",
+    "title": "太平洋战争爆发",
+    "start": 1879,
+    "end": 1879,
+    "summary": "智利与秘鲁、玻利维亚争夺硝石资源和边境，战争重塑南美太平洋沿岸格局。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1879年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1073,
+    "id": "ann-chron-world-americas-1093",
+    "title": "古巴废除奴隶制",
+    "start": 1886,
+    "end": 1886,
+    "summary": "长期渐进立法和奴隶反抗共同终结法律奴役，种植园不平等仍延续。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1886年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1075,
+    "id": "ann-chron-world-americas-1092",
+    "title": "芝加哥干草市场事件",
+    "start": 1886,
+    "end": 1886,
+    "summary": "八小时工作制运动遭暴力与审判，劳工权利和国家镇压成为国际工人记忆。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1886年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1078,
+    "id": "ann-chron-world-americas-1094",
+    "title": "巴西《黄金法》",
+    "start": 1888,
+    "end": 1888,
+    "summary": "美洲最后一个仍合法维持奴隶制的国家废奴，获释者未普遍获得土地与社会保障。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1888年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1081,
+    "id": "ann-chron-world-americas-1095",
+    "title": "巴西共和国建立",
+    "start": 1889,
+    "end": 1889,
+    "summary": "军人和精英推翻帝制，政治制度改变并未根本打破种植园寡头结构。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1889年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1084,
+    "id": "ann-chron-world-americas-1096",
+    "title": "伤膝河屠杀",
+    "start": 1890,
+    "end": 1890,
+    "summary": "美军杀害大量拉科塔人，显示原住民宗教复兴与殖民军事管制间的残酷冲突。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1890年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1098,
+    "id": "ann-chron-world-americas-1097",
+    "title": "古巴独立战争再起",
+    "start": 1895,
+    "end": 1895,
+    "summary": "何塞·马蒂等组织反西班牙斗争，战争后来引来美国军事介入。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-7d6d94007ca3"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1895年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1099,
+    "id": "ann-chron-world-americas-1098",
+    "title": "普莱西诉弗格森判决",
+    "start": 1896,
+    "end": 1896,
+    "summary": "美国最高法院认可隔离制度，平等保护原则被“隔离但平等”解释严重削弱。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1896年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1107,
+    "id": "ann-chron-world-americas-1099",
+    "title": "美西战争",
+    "start": 1898,
+    "end": 1898,
+    "summary": "美国击败西班牙并取得海外领地，古巴独立受到限制，新的帝国扩张取代旧殖民控制。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1898年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1115,
+    "id": "ann-chron-world-americas-1100",
+    "title": "普拉特修正案",
+    "start": 1901,
+    "end": 1901,
+    "summary": "美国为撤军附加干预古巴的权利，古巴主权在独立形式下受到强烈限制。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1901年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1120,
+    "id": "ann-chron-world-americas-1101",
+    "title": "巴拿马脱离哥伦比亚",
+    "start": 1903,
+    "end": 1903,
+    "summary": "美国支持分离并取得运河区权益，地峡主权与全球航运战略深度纠缠。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1903年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1132,
+    "id": "ann-chron-world-americas-1102",
+    "title": "旧金山地震与火灾",
+    "start": 1906,
+    "end": 1906,
+    "summary": "城市基础设施与住宅遭毁，重建同时暴露移民歧视、保险和公共安全问题。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1906年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1148,
+    "id": "ann-chron-world-americas-1103",
+    "title": "墨西哥革命爆发",
+    "start": 1910,
+    "end": 1910,
+    "summary": "反对迪亚斯连任的运动扩大，土地、农民权利与国家制度变革诉求共同涌现。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-madero"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1910年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1155,
+    "id": "ann-chron-world-americas-1104",
+    "title": "萨帕塔提出《阿亚拉计划》",
+    "start": 1911,
+    "end": 1911,
+    "summary": "墨西哥农民革命要求土地归还，革命内部的社会改革目标产生公开分歧。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-zapata"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1911年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1162,
+    "id": "ann-chron-world-americas-1105",
+    "title": "美国海军陆战队干涉尼加拉瓜",
+    "start": 1912,
+    "end": 1912,
+    "summary": "军事介入支持亲美政权，债务与战略利益推动美国在中美洲扩大控制。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1912年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "americas",
+    "regionIds": [
+      "americas"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  }
+]

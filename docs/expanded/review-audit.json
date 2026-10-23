@@ -1,0 +1,177 @@
+{
+  "scope": "专项检查部分年代；非全库逐条审定",
+  "checks": [
+    {
+      "eventId": "chron-world-africa-0889",
+      "title": "阿玛尼雷纳斯抵抗罗马",
+      "result": "correction",
+      "url": "https://www.metmuseum.org/es/essays/nubia",
+      "note": "已打开并阅读Met馆方文章第38—40行：库施进军与彼得罗尼乌斯反攻系24 BCE，萨摩斯和约为20 BCE；原数据+24为纪元方向错误。",
+      "patch": {
+        "start": -24,
+        "end": -20,
+        "precision": "range",
+        "summary": "阿玛尼雷纳斯统治时期库施与罗马在尼罗河边境交战，随后通过和约维持努比亚大部分地区自主。",
+        "uncertainty": "采用Met馆方叙述的前24年战事至前20年和约；其他研究对起始进攻亦有前25年口径。"
+      }
+    },
+    {
+      "eventId": "chron-world-africa-0926",
+      "title": "葡萄牙建立罗安达",
+      "result": "correction",
+      "url": "https://luanda.gov.ao/web/noticias/448-anos-da-cidade-de-luanda",
+      "note": "已打开罗安达省政府纪念文章，正文明确1576年1月25日建城。1575可写诺瓦伊斯抵达，不能直接当作正式建城纪年。",
+      "patch": {
+        "start": 1576,
+        "end": 1576,
+        "precision": "year",
+        "summary": "保罗·迪亚士·德·诺瓦伊斯建立罗安达据点，该港后来成为葡萄牙殖民统治与大西洋奴隶贸易的重要基地。",
+        "uncertainty": "1576为安哥拉官方采用的建城纪年；须与1575年葡方抵达或登陆区分。"
+      }
+    },
+    {
+      "eventId": "chron-world-africa-0879",
+      "title": "迦太基建城传统纪年",
+      "result": "correction",
+      "url": "https://whc.unesco.org/en/list/37/",
+      "note": "已打开UNESCO遗址页，支持前9世纪腓尼基建城的宽口径，不能证明814为精确考古纪年。原标题已说传统纪年，precision必须匹配。",
+      "patch": {
+        "start": -814,
+        "end": -814,
+        "precision": "traditional",
+        "uncertainty": "前814年为古代文献传统的建城年；UNESCO遗址说明采用前9世纪，考古与传统精确年份应分开呈现。"
+      }
+    },
+    {
+      "eventId": "chron-world-south-asia-0647",
+      "title": "佛陀入灭的不同纪年传统",
+      "result": "uncertain",
+      "url": "https://www.open.edu/openlearn/history-the-arts/culture/religious-studies/the-dates-the-buddha",
+      "note": "已打开并阅读开放大学讨论：传统长短纪年不同，-480不能作为公认约年。保留该定位只能显示为传统纪年，并明确现代研究没有唯一结论。",
+      "patch": {
+        "start": -480,
+        "end": -480,
+        "precision": "traditional",
+        "summary": "佛陀入灭后的僧团传承形成不同纪年传统；其去世年代缺乏可统一校准的直接证据。",
+        "uncertainty": "前480年前后属于传统及旧有校正纪年的一种常见口径；另有前486/483、前5世纪末至前4世纪初等学术推算，不代表历史精确年份。"
+      }
+    },
+    {
+      "eventId": "chron-world-south-asia-0662",
+      "title": "迦腻色迦时代贵霜繁荣",
+      "result": "correction",
+      "url": "https://ikmk.smb.museum/object?id=18206899",
+      "note": "已打开柏林国家博物馆钱币藏品记录：采用约127/128—150/151年，同时明确列出其他学者不同年代。原100—200过宽可细化，但须保留争议。",
+      "patch": {
+        "start": 127,
+        "end": 151,
+        "precision": "circa",
+        "uncertainty": "此处采用钱币学研究常见的约127/128—150/151年迦腻色迦一世在位口径；贵霜纪年与其统治年代曾有不同重建，不能当作无争议精确年表。"
+      }
+    },
+    {
+      "eventId": "chron-world-south-asia-0651",
+      "title": "旃陀罗笈多建立孔雀王朝",
+      "result": "supported",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/mauryan-empire-321-%E2%80%93-181-bce",
+      "note": "已打开哈佛南亚时间线第85行，将旃陀罗笈多在位起点列为约前321年；保留circa。"
+    },
+    {
+      "eventId": "chron-world-south-asia-0653",
+      "title": "阿育王即位",
+      "result": "supported",
+      "url": "https://timelinesouthasianhistory.hsites.harvard.edu/mauryan-empire-321-%E2%80%93-181-bce",
+      "note": "已打开哈佛时间线第87行，采用约前268年在位起点。Met旧文使用约前273年，提示即位、加冕和不同学术重建不宜混成唯一精确年份。",
+      "patch": {
+        "uncertainty": "采用约前268年口径；部分著述列约前273年，涉及即位与加冕纪年及学术重建差异。"
+      }
+    },
+    {
+      "eventId": "chron-world-south-asia-0655",
+      "title": "阿育王敕令广泛刻立",
+      "result": "supported",
+      "url": "https://www.metmuseum.org/es/essays/mauryan-empire-ca-323-185-b-c",
+      "note": "已打开并阅读Met正文：前254年起立岩石敕令，约十三年后又有柱敕令。前250年作为约年阶段定位可用，不能表示全部敕令同年完成。",
+      "patch": {
+        "start": -254,
+        "end": -241,
+        "precision": "circa",
+        "uncertainty": "这是多次刻立敕令的大致阶段，具体岩石与柱铭文应分别考订，不是单一工程或同年一次颁刻。"
+      }
+    },
+    {
+      "eventId": "chron-world-south-asia-0657",
+      "title": "孔雀王朝终结",
+      "result": "supported",
+      "url": "https://www.metmuseum.org/es/essays/mauryan-empire-ca-323-185-b-c",
+      "note": "已打开Met馆方专题，孔雀王朝分期约前321—185年，支持当前前185约年。哈佛时间线的晚期统治者表有不同重建，保留约年。"
+    },
+    {
+      "eventId": "chron-world-south-asia-0666",
+      "title": "笈多王朝兴起",
+      "result": "supported",
+      "url": "https://www.metmuseum.org/es/toah/ht/05/ssa",
+      "note": "已打开Met南亚时间线第68行，以约321年为笈多在北印度广泛控制的起点；当前320作为约年可保留，不能与最早笈多家族活动混同。"
+    },
+    {
+      "eventId": "chron-world-south-asia-0667",
+      "title": "沙摩陀罗笈多扩张",
+      "result": "uncertain",
+      "url": "https://www.chennaimuseum.org/draft/gallery/04/01/coin3.htm",
+      "note": "已打开钦奈政府博物馆钱币页，采用326—375年在位口径；剑桥藏品检索记录采用335—380。这不是可以机械压到335单年的扩张事件，建议改为在位时期范围，承认年代重建差异。",
+      "patch": {
+        "start": 335,
+        "end": 380,
+        "precision": "circa",
+        "uncertainty": "扩张为在位时期的多次战争与臣属安排，非335年一次事件；此处用约335—380年，其他馆藏目录亦有326—375年等在位重建。"
+      }
+    },
+    {
+      "eventId": "chron-world-south-asia-0668",
+      "title": "旃陀罗笈多二世即位",
+      "result": "supported",
+      "url": "https://www.chennaimuseum.org/draft/gallery/04/01/coin3.htm",
+      "note": "已打开钦奈政府博物馆钱币页，第28行标375—413年；375作为约年即位可保留，其继位叙述和终年仍有不同研究口径。"
+    },
+    {
+      "eventId": "chron-world-africa-0908",
+      "title": "大津巴布韦石城发展",
+      "result": "supported",
+      "url": "https://whc.unesco.org/en/list/364",
+      "note": "已打开UNESCO遗产说明，明确石城建设约1100—1450年；现有范围及circa标注恰当，不应拆成逐个精确年份。"
+    },
+    {
+      "eventId": "chron-world-africa-0911",
+      "title": "马里帝国形成",
+      "result": "supported",
+      "url": "https://sahistory.org.za/article/empire-mali-1230-1600",
+      "note": "已打开南非历史在线文章第63—66行，将松迪亚塔胜利与建国联系于1235年；当前circa恰当，应保留口述史和后出阿拉伯记载的来源边界。"
+    },
+    {
+      "eventId": "chron-world-africa-0914",
+      "title": "曼萨·穆萨朝觐",
+      "result": "supported",
+      "url": "https://education.nationalgeographic.org/resource/mali-empire/",
+      "note": "已打开国家地理教育文章第40行，明确1324年开始朝觐。1324作为出发节点可保留；整个旅程延及次年，若标题覆盖全程宜展示1324—1325范围。",
+      "patch": {
+        "start": 1324,
+        "end": 1325,
+        "precision": "range",
+        "uncertainty": "1324是通行的出发及抵达开罗年份，1324—1325表示朝觐旅程范围，不应将全部活动压在同一天或同一年。"
+      }
+    },
+    {
+      "eventId": "ce-0002",
+      "title": "二里头都邑与礼器网络",
+      "result": "correction",
+      "url": "https://www.cass.cn/xueshuchengguo/xscg_lsyjy/202207/t20220707_5415948.shtml",
+      "note": "已读取中国社会科学院2022年文章，遗址约前1750至前1530。统一本站同一遗址的显示口径，不能把该遗址起讫等同夏王朝。",
+      "patch": {
+        "start": -1750,
+        "end": -1530,
+        "precision": "circa",
+        "uncertainty": "采用本站既有二里头遗址约前1750—前1530的测年口径，非夏王朝的起讫年表；其他研究的分期与上下界仍有差异。"
+      }
+    }
+  ]
+}

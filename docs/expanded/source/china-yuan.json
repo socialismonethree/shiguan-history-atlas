@@ -1,0 +1,2401 @@
+[
+  {
+    "_order": 869,
+    "id": "ann-cl-yuan-1201-338",
+    "title": "铁木真击败札木合联盟",
+    "start": 1201,
+    "end": 1201,
+    "summary": "蒙古草原联盟战争加剧。",
+    "importance": "铁木真逐步压倒主要竞争者。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "temujin",
+      "ann-person-8415ceb70a8a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1201年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 870,
+    "id": "ann-cl-yuan-1203-339",
+    "title": "克烈部败亡",
+    "start": 1203,
+    "end": 1203,
+    "summary": "铁木真击败王罕集团。",
+    "importance": "重组草原人口与军事资源。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "temujin",
+      "ann-person-858ba6eee785"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1203年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 871,
+    "id": "ann-cl-yuan-1204-340",
+    "title": "蒙古灭乃蛮",
+    "start": 1204,
+    "end": 1204,
+    "summary": "铁木真击溃乃蛮。",
+    "importance": "蒙古高原统一进入最后阶段。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "temujin",
+      "ann-person-94a935046cd0"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1204年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 872,
+    "id": "ann-cl-yuan-1206-341",
+    "title": "大蒙古国建立",
+    "start": 1206,
+    "end": 1206,
+    "summary": "铁木真在斡难河大会受号成吉思汗。",
+    "importance": "实行千户组织。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-0bc32a286c74"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1206年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 874,
+    "id": "ann-cl-yuan-1207-342",
+    "title": "术赤征林中百姓",
+    "start": 1207,
+    "end": 1207,
+    "summary": "蒙古将北方森林部落纳入统治。",
+    "importance": "草原与林区联系加强。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1bd51886fccc"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1207年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 877,
+    "id": "ann-cl-yuan-1209-344",
+    "title": "蒙古进攻西夏",
+    "start": 1209,
+    "end": 1209,
+    "summary": "蒙古围攻中兴府。",
+    "importance": "迫使西夏臣服但未彻底吞并。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-0bc32a286c74"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1209年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 878,
+    "id": "ann-cl-yuan-1209-343",
+    "title": "高昌回鹘归附蒙古",
+    "start": 1209,
+    "end": 1209,
+    "summary": "亦都护与成吉思汗结盟。",
+    "importance": "回鹘行政文化影响蒙古。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-b3e5ffa774b7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1209年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 879,
+    "id": "ann-cl-yuan-1211-345",
+    "title": "野狐岭之战",
+    "start": 1211,
+    "end": 1211,
+    "summary": "蒙古击败金军主力。",
+    "importance": "打开进入华北的道路。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-b3112d5d2520"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1211年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 882,
+    "id": "ann-cl-yuan-1214-346",
+    "title": "蒙金和议",
+    "start": 1214,
+    "end": 1214,
+    "summary": "金以大量财物与和亲换取退兵。",
+    "importance": "随后迁都引发新攻势。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1214年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 885,
+    "id": "ann-cl-yuan-1215-347",
+    "title": "蒙古攻克中都",
+    "start": 1215,
+    "end": 1215,
+    "summary": "围攻与饥荒后金中都失守。",
+    "importance": "北方城市遭到严重破坏。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1215年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 886,
+    "id": "ann-cl-yuan-1217-348",
+    "title": "木华黎经略华北",
+    "start": 1217,
+    "end": 1217,
+    "summary": "成吉思汗任木华黎统率对金战争。",
+    "importance": "蒙古分工治理扩大。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-b3112d5d2520"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1217年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 888,
+    "id": "ann-cl-yuan-1218-349",
+    "title": "蒙古灭西辽",
+    "start": 1218,
+    "end": 1218,
+    "summary": "哲别击败屈出律。",
+    "importance": "蒙古势力到达中亚绿洲。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-dad49e0cf0a8",
+      "ann-person-b632f2a32d92"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1218年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 889,
+    "id": "ann-cl-yuan-1219-350",
+    "title": "蒙古西征花剌子模",
+    "start": 1219,
+    "end": 1219,
+    "summary": "商队冲突与外交破裂后成吉思汗发动大规模西征。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-0bc32a286c74"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1219年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 890,
+    "id": "ann-cl-yuan-1220-351",
+    "title": "布哈拉与撒马尔罕陷落",
+    "start": 1220,
+    "end": 1220,
+    "summary": "蒙古攻取中亚核心城市。",
+    "importance": "地区人口与经济遭受重创。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1220年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 892,
+    "id": "ann-cl-yuan-1221-352",
+    "title": "丘处机赴西域",
+    "start": 1221,
+    "end": 1221,
+    "summary": "全真道领袖远赴成吉思汗营地。",
+    "importance": "宗教与帝国政治发生联系。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-9834a01f41b4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1221年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 893,
+    "id": "ann-cl-yuan-1222-353",
+    "title": "丘处机会成吉思汗",
+    "start": 1222,
+    "end": 1222,
+    "summary": "双方讨论养生与止杀。",
+    "importance": "蒙古借宗教领袖拓展政治网络。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-9834a01f41b4",
+      "ann-person-0bc32a286c74"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1222年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 894,
+    "id": "ann-cl-yuan-1223-354",
+    "title": "迦勒迦河之战",
+    "start": 1223,
+    "end": 1223,
+    "summary": "哲别速不台击败罗斯与钦察联军。",
+    "importance": "蒙古侦察西向道路。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-dad49e0cf0a8",
+      "ann-person-10b151e001b5"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1223年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 896,
+    "id": "ann-cl-yuan-1225-355",
+    "title": "成吉思汗西征归来",
+    "start": 1225,
+    "end": 1225,
+    "summary": "西征主力回到蒙古。",
+    "importance": "重心再次转向西夏与金。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-0bc32a286c74"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1225年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 897,
+    "id": "ann-cl-yuan-1227-356",
+    "title": "成吉思汗去世",
+    "start": 1227,
+    "end": 1227,
+    "summary": "成吉思汗在征西夏期间死去。",
+    "importance": "拖雷监国等待选汗。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-0bc32a286c74",
+      "ann-person-6077240c32fb"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1227年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 899,
+    "id": "ann-cl-yuan-1229-357",
+    "title": "窝阔台即位",
+    "start": 1229,
+    "end": 1229,
+    "summary": "诸王大会推举窝阔台为大汗。",
+    "importance": "帝国继承制度开始运转。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c9c0ddec0fa4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1229年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 900,
+    "id": "ann-cl-yuan-1230-358",
+    "title": "耶律楚材整顿赋税",
+    "start": 1230,
+    "end": 1230,
+    "summary": "蒙古在华北逐渐建立常赋体系。",
+    "importance": "削弱随意掠夺的治理方式。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-73a0e3cc5587"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1230年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 901,
+    "id": "ann-cl-yuan-1231-359",
+    "title": "蒙古首次大举攻高丽",
+    "start": 1231,
+    "end": 1231,
+    "summary": "蒙古军迫使高丽议和。",
+    "importance": "随后长期战争不断反复。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1231年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 906,
+    "id": "ann-cl-yuan-1234-360",
+    "title": "蒙古与宋联军灭金",
+    "start": 1234,
+    "end": 1234,
+    "summary": "蔡州陷落后华北政权重组。",
+    "importance": "蒙古与南宋接壤。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1234年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 907,
+    "id": "ann-cl-yuan-1235-361",
+    "title": "哈剌和林营建",
+    "start": 1235,
+    "end": 1235,
+    "summary": "窝阔台建设帝国都城。",
+    "importance": "草原政治中心吸纳多地工匠。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c9c0ddec0fa4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1235年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 908,
+    "id": "ann-cl-yuan-1235-362",
+    "title": "拔都西征启动",
+    "start": 1235,
+    "end": 1235,
+    "summary": "诸王组织第二次大规模西征。",
+    "importance": "帝国军事重心继续外扩。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1c8c432ade05"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1235年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 910,
+    "id": "ann-cl-yuan-1236-363",
+    "title": "蒙古攻破伏尔加保加尔",
+    "start": 1236,
+    "end": 1236,
+    "summary": "西征军进入东欧交通网络。",
+    "importance": "区域政治秩序遭到冲击。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1c8c432ade05"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1236年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 911,
+    "id": "ann-cl-yuan-1237-364",
+    "title": "蒙古攻入罗斯诸公国",
+    "start": 1237,
+    "end": 1237,
+    "summary": "梁赞等城陷落。",
+    "importance": "罗斯公国逐渐受蒙古统辖。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1c8c432ade05"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1237年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 913,
+    "id": "ann-cl-yuan-1240-366",
+    "title": "基辅陷落",
+    "start": 1240,
+    "end": 1240,
+    "summary": "蒙古军攻占基辅。",
+    "importance": "罗斯地区的政治经济中心受到重创。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1c8c432ade05"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1240年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 914,
+    "id": "ann-cl-yuan-1240-365",
+    "title": "蒙古军进入西藏",
+    "start": 1240,
+    "end": 1240,
+    "summary": "蒙古军队进入西藏地区。",
+    "importance": "军事接触推动当地僧俗首领与蒙古宗王建立后续政治联系。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1240年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 915,
+    "id": "ann-cl-yuan-1241-367",
+    "title": "列格尼卡与莫希之战",
+    "start": 1241,
+    "end": 1241,
+    "summary": "蒙古军在波兰与匈牙利击败联军。",
+    "importance": "深入欧洲中部。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-10b151e001b5"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1241年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 916,
+    "id": "ann-cl-yuan-1241-368",
+    "title": "窝阔台去世",
+    "start": 1241,
+    "end": 1241,
+    "summary": "大汗去世引发继承安排。",
+    "importance": "帝国各宗王关系重新组合。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c9c0ddec0fa4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1241年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 918,
+    "id": "ann-cl-yuan-1246-369",
+    "title": "贵由即位",
+    "start": 1246,
+    "end": 1246,
+    "summary": "乃马真后称制后贵由成为大汗。",
+    "importance": "与拔都矛盾加深。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-3f2f4df0af7e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1246年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 920,
+    "id": "ann-cl-yuan-1248-370",
+    "title": "贵由去世",
+    "start": 1248,
+    "end": 1248,
+    "summary": "贵由西行途中死去。",
+    "importance": "汗位竞争转向拖雷家族。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-3f2f4df0af7e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1248年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 921,
+    "id": "ann-cl-yuan-1251-371",
+    "title": "蒙哥即位",
+    "start": 1251,
+    "end": 1251,
+    "summary": "拖雷系取得汗位。",
+    "importance": "清洗反对宗王并重整财政军政。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-bf1e653db7fa"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1251年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 922,
+    "id": "ann-cl-yuan-1253-372",
+    "title": "忽必烈灭大理",
+    "start": 1253,
+    "end": 1253,
+    "summary": "蒙古军进入云南。",
+    "importance": "大理段氏继续作为地方势力存在。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "khubilai",
+      "ann-person-8011f9b8e7dd"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1253年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 923,
+    "id": "ann-cl-yuan-1253-373",
+    "title": "旭烈兀西征",
+    "start": 1253,
+    "end": 1253,
+    "summary": "蒙哥命旭烈兀经营西亚。",
+    "importance": "帝国向波斯两河地区扩张。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-5e41b4d87ae3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1253年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 924,
+    "id": "ann-cl-yuan-1256-374",
+    "title": "蒙古灭阿萨辛堡垒",
+    "start": 1256,
+    "end": 1256,
+    "summary": "旭烈兀军攻破阿拉穆特等据点。",
+    "importance": "伊朗政治力量重组。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-5e41b4d87ae3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1256年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 925,
+    "id": "ann-cl-yuan-1258-375",
+    "title": "蒙古攻陷巴格达",
+    "start": 1258,
+    "end": 1258,
+    "summary": "阿拔斯哈里发在巴格达的统治终结。",
+    "importance": "城市遭严重破坏。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-5e41b4d87ae3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1258年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 929,
+    "id": "ann-cl-yuan-1260-377",
+    "title": "中统钞发行",
+    "start": 1260,
+    "end": 1260,
+    "summary": "忽必烈政府发行纸币。",
+    "importance": "尝试统一北方货币与财政。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "khubilai"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1260年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 930,
+    "id": "ann-cl-yuan-1260-376",
+    "title": "忽必烈与阿里不哥争位",
+    "start": 1260,
+    "end": 1260,
+    "summary": "两方分别召开大会称汗。",
+    "importance": "帝国爆发大规模内战。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "khubilai",
+      "ann-person-e9410b0921f6"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1260年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 931,
+    "id": "ann-cl-yuan-1260-378",
+    "title": "艾因贾鲁特之战",
+    "start": 1260,
+    "end": 1260,
+    "summary": "马穆鲁克击败蒙古驻叙利亚军队。",
+    "importance": "西亚扩张遭遏制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-bf6d9d599fda"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1260年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 932,
+    "id": "ann-cl-yuan-1262-379",
+    "title": "李璮之乱",
+    "start": 1262,
+    "end": 1262,
+    "summary": "山东军阀反叛被平定。",
+    "importance": "忽必烈加强对汉军世侯的控制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-3ae97c03b04a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1262年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 933,
+    "id": "ann-cl-yuan-1263-380",
+    "title": "开平升上都",
+    "start": 1263,
+    "end": 1263,
+    "summary": "开平成为上都。",
+    "importance": "与后来的大都形成两都政治结构。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "khubilai"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1263年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 934,
+    "id": "ann-cl-yuan-1264-382",
+    "title": "总制院设立",
+    "start": 1264,
+    "end": 1264,
+    "summary": "元廷设机构管理佛教及吐蕃事务。",
+    "importance": "强化跨区域治理。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1264年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 936,
+    "id": "ann-cl-yuan-1264-381",
+    "title": "阿里不哥投降",
+    "start": 1264,
+    "end": 1264,
+    "summary": "忽必烈赢得核心汗位战争。",
+    "importance": "但帝国诸汗国分立趋于固定。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-e9410b0921f6",
+      "khubilai"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1264年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 937,
+    "id": "ann-cl-yuan-1267-383",
+    "title": "大都开始营建",
+    "start": 1267,
+    "end": 1267,
+    "summary": "刘秉忠等规划新都。",
+    "importance": "政治中心逐步移至今北京。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-liubingzhong"
+    ],
+    "personIds": [
+      "ann-person-62b2a65eb762"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1267年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 939,
+    "id": "ann-cl-yuan-1269-384",
+    "title": "八思巴字颁行",
+    "start": 1269,
+    "end": 1269,
+    "summary": "元廷推广新蒙古文字。",
+    "importance": "试图建立跨族群官方书写制度。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-d82571dad729"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1269年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 940,
+    "id": "ann-cl-yuan-1272-386",
+    "title": "中都改称大都",
+    "start": 1272,
+    "end": 1272,
+    "summary": "元廷正式更定都城名称。",
+    "importance": "两都巡幸制度逐渐定型。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1272年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 943,
+    "id": "ann-cl-yuan-1274-387",
+    "title": "元首次征日本",
+    "start": 1274,
+    "end": 1274,
+    "summary": "元与高丽联合舰队进攻日本。",
+    "importance": "战事与风暴后撤退。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1274年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 946,
+    "id": "ann-cl-yuan-1276-388",
+    "title": "元设江南行省",
+    "start": 1276,
+    "end": 1276,
+    "summary": "南宋中心地区归元后。",
+    "importance": "元朝以行省等机构重组地方统治。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1276年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 948,
+    "id": "ann-cl-yuan-1279-389",
+    "title": "郭守敬主持全国测量",
+    "start": 1276,
+    "end": 1279,
+    "summary": "元廷进行天文测量。",
+    "importance": "为历法改革提供观测资料。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "guoshoujing"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1276年—1279年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 952,
+    "id": "ann-cl-yuan-1280-390",
+    "title": "授时历制定",
+    "start": 1280,
+    "end": 1280,
+    "summary": "郭守敬王恂等完成历法。",
+    "importance": "推算回归年长度达到较高精度。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "guoshoujing",
+      "ann-person-fdd9686717f5"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1280年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 953,
+    "id": "ann-cl-yuan-1281-391",
+    "title": "元第二次征日本",
+    "start": 1281,
+    "end": 1281,
+    "summary": "两路舰队攻日失败。",
+    "importance": "大规模海战与风暴造成巨大损失。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1281年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 954,
+    "id": "ann-cl-yuan-1282-392",
+    "title": "阿合马被杀",
+    "start": 1282,
+    "end": 1282,
+    "summary": "长期掌握财政的权臣遇刺。",
+    "importance": "元廷整顿财政集团。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2048468efb32"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1282年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 955,
+    "id": "ann-cl-yuan-1283-393",
+    "title": "文天祥就义",
+    "start": 1283,
+    "end": 1283,
+    "summary": "文天祥在大都拒降后被杀。",
+    "importance": "成为宋元之际忠义记忆核心。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wentianxiang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1283年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 956,
+    "id": "ann-cl-yuan-1285-394",
+    "title": "元军征占城与安南受挫",
+    "start": 1285,
+    "end": 1285,
+    "summary": "军队在东南亚受到补给和地理条件制约。",
+    "importance": "多次败退。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1285年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 957,
+    "id": "ann-cl-yuan-1287-395",
+    "title": "乃颜之乱",
+    "start": 1287,
+    "end": 1287,
+    "summary": "忽必烈镇压东北宗王反叛。",
+    "importance": "维护东部诸王区控制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-725ab1d24926",
+      "khubilai"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1287年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 958,
+    "id": "ann-cl-yuan-1288-396",
+    "title": "宣政院改名设立",
+    "start": 1288,
+    "end": 1288,
+    "summary": "总制院改为宣政院。",
+    "importance": "继续管理佛教及吐蕃地方事务。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1288年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 959,
+    "id": "ann-cl-yuan-1289-397",
+    "title": "尚书省再设",
+    "start": 1289,
+    "end": 1289,
+    "summary": "元廷加强财政集中。",
+    "importance": "桑哥集团的整顿引发政治冲突。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c0daf5d02bf9"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1289年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 960,
+    "id": "ann-cl-yuan-1291-398",
+    "title": "桑哥被诛",
+    "start": 1291,
+    "end": 1291,
+    "summary": "财政改革与权力斗争交织。",
+    "importance": "尚书省随后被撤销。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c0daf5d02bf9"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1291年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 961,
+    "id": "ann-cl-yuan-1292-399",
+    "title": "通惠河开凿",
+    "start": 1292,
+    "end": 1292,
+    "summary": "郭守敬主持水利工程。",
+    "importance": "沟通大都与北方漕运体系。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "guoshoujing"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1292年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 962,
+    "id": "ann-cl-yuan-1293-400",
+    "title": "元军征爪哇失败",
+    "start": 1293,
+    "end": 1293,
+    "summary": "远征舰队卷入当地政争后撤离。",
+    "importance": "显示远洋征服的局限。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1293年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 963,
+    "id": "ann-cl-yuan-1294-401",
+    "title": "元成宗继位",
+    "start": 1294,
+    "end": 1294,
+    "summary": "忽必烈去世后铁穆耳即位。",
+    "importance": "调整大规模对外战争政策。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-bc60edf7673e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1294年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 964,
+    "id": "ann-cl-yuan-1295-402",
+    "title": "元停征日本安南",
+    "start": 1295,
+    "end": 1295,
+    "summary": "成宗停止部分远征计划。",
+    "importance": "减轻军事消耗与沿海动员。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1295年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 965,
+    "id": "ann-cl-yuan-1304-403",
+    "title": "蒙古诸汗国议和",
+    "start": 1304,
+    "end": 1304,
+    "summary": "长期宗王战争暂歇。",
+    "importance": "欧亚驿传和贸易获得较有利条件。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1304年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 966,
+    "id": "ann-cl-yuan-1307-404",
+    "title": "元武宗夺位",
+    "start": 1307,
+    "end": 1307,
+    "summary": "海山与爱育黎拔力八达控制政局。",
+    "importance": "宫廷继承矛盾突出。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-5947913d350d",
+      "ann-person-e0c89a59d2a3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1307年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 967,
+    "id": "ann-cl-yuan-1309-405",
+    "title": "至大银钞发行",
+    "start": 1309,
+    "end": 1309,
+    "summary": "武宗推行币制改革。",
+    "importance": "引发旧钞与新钞折换问题。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-5947913d350d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1309年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 968,
+    "id": "ann-cl-yuan-1311-406",
+    "title": "仁宗即位撤尚书省",
+    "start": 1311,
+    "end": 1311,
+    "summary": "爱育黎拔力八达调整财政政策。",
+    "importance": "恢复部分中书省权力。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-e0c89a59d2a3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1311年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 969,
+    "id": "ann-cl-yuan-1313-407",
+    "title": "元廷宣布恢复科举",
+    "start": 1313,
+    "end": 1313,
+    "summary": "仁宗下诏取士。",
+    "importance": "规定不同身份群体的名额与考试内容。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1313年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 970,
+    "id": "ann-cl-yuan-1315-408",
+    "title": "元代首次科举",
+    "start": 1315,
+    "end": 1315,
+    "summary": "延祐科举开考。",
+    "importance": "程朱学说成为重要考试依据。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1315年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 971,
+    "id": "ann-cl-yuan-1320-409",
+    "title": "英宗即位",
+    "start": 1320,
+    "end": 1320,
+    "summary": "硕德八剌继承皇位。",
+    "importance": "推动吏治与法制整顿。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-4687e82e790a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1320年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 972,
+    "id": "ann-cl-yuan-1323-410",
+    "title": "南坡之变",
+    "start": 1323,
+    "end": 1323,
+    "summary": "英宗与拜住被杀。",
+    "importance": "晋王也孙铁木儿即位。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-4687e82e790a",
+      "ann-person-ec2c08ec6c56"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1323年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 973,
+    "id": "ann-cl-yuan-1323-411",
+    "title": "大元通制颁行",
+    "start": 1323,
+    "end": 1323,
+    "summary": "元廷整理历代条格与断例。",
+    "importance": "国家法律体系趋于汇编化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1323年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 974,
+    "id": "ann-cl-yuan-1328-412",
+    "title": "两都之战",
+    "start": 1328,
+    "end": 1328,
+    "summary": "上都与大都两派争位。",
+    "importance": "元朝宫廷与军队陷入内战。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-13370f36f72a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1328年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 975,
+    "id": "ann-cl-yuan-1329-413",
+    "title": "天历之变",
+    "start": 1329,
+    "end": 1329,
+    "summary": "明宗和世㻋死于南返途中。",
+    "importance": "文宗复位，皇位斗争继续。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-df4ed05c5556",
+      "ann-person-13370f36f72a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1329年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 976,
+    "id": "ann-cl-yuan-1329-414",
+    "title": "奎章阁兴起",
+    "start": 1329,
+    "end": 1329,
+    "summary": "元文宗召集文臣整理典籍。",
+    "importance": "宫廷汉文化活动繁盛。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-272cb1330f88"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1329年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 977,
+    "id": "ann-cl-yuan-1331-415",
+    "title": "经世大典编成",
+    "start": 1331,
+    "end": 1331,
+    "summary": "元廷整理制度档案。",
+    "importance": "为研究元代行政留下重要材料。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-35ad5c96abeb",
+      "ann-person-272cb1330f88"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1331年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 978,
+    "id": "ann-cl-yuan-1333-416",
+    "title": "元顺帝即位",
+    "start": 1333,
+    "end": 1333,
+    "summary": "妥懽帖睦尔继承皇位。",
+    "importance": "权臣与皇权关系继续紧张。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-faf664f64156"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1333年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 979,
+    "id": "ann-cl-yuan-1335-417",
+    "title": "伯颜废科举",
+    "start": 1335,
+    "end": 1335,
+    "summary": "权臣打击汉式取士。",
+    "importance": "科举制度因宫廷政争中断。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "bayan"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1335年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 980,
+    "id": "ann-cl-yuan-1340-418",
+    "title": "脱脱倒伯颜",
+    "start": 1340,
+    "end": 1340,
+    "summary": "顺帝联合脱脱清除伯颜。",
+    "importance": "重新调整中央权力结构。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "tuotuo",
+      "bayan"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1340年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 981,
+    "id": "ann-cl-yuan-1341-419",
+    "title": "元恢复科举",
+    "start": 1341,
+    "end": 1341,
+    "summary": "脱脱执政后恢复取士。",
+    "importance": "缓和官僚群体的不满。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "tuotuo"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1341年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 982,
+    "id": "ann-cl-yuan-1343-420",
+    "title": "辽宋金三史编修",
+    "start": 1343,
+    "end": 1345,
+    "summary": "元廷组织修撰三部正史。",
+    "importance": "并处理并立政权的正统叙事。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "tuotuo"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1343年—1345年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 983,
+    "id": "ann-cl-yuan-1344-421",
+    "title": "黄河大决口",
+    "start": 1344,
+    "end": 1344,
+    "summary": "河患破坏运河与农业。",
+    "importance": "元廷财政和救灾压力急升。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1344年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 984,
+    "id": "ann-cl-yuan-1351-422",
+    "title": "贾鲁治河",
+    "start": 1351,
+    "end": 1351,
+    "summary": "元廷征调大批民夫整治黄河。",
+    "importance": "工程与劳役引发社会矛盾。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "jialu"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1351年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 985,
+    "id": "ann-cl-yuan-1352-424",
+    "title": "朱元璋参加起义军",
+    "start": 1352,
+    "end": 1352,
+    "summary": "朱元璋投郭子兴部。",
+    "importance": "逐步建立自身军事班底。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhuyuanzhang",
+      "ann-person-b5047b4057a3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1352年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 986,
+    "id": "ann-cl-yuan-1354-425",
+    "title": "脱脱攻高邮被罢",
+    "start": 1354,
+    "end": 1354,
+    "summary": "元军围攻张士诚将胜时脱脱遭免职。",
+    "importance": "军队随之涣散。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "tuotuo",
+      "ann-person-4b33e022d659"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1354年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 987,
+    "id": "ann-cl-yuan-1355-426",
+    "title": "韩林儿建立韩宋",
+    "start": 1355,
+    "end": 1355,
+    "summary": "刘福通拥韩林儿称帝。",
+    "importance": "红巾军建立统一政治号召。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-58af4d3a8345",
+      "liufutong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1355年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 988,
+    "id": "ann-cl-yuan-1356-427",
+    "title": "朱元璋攻取集庆",
+    "start": 1356,
+    "end": 1356,
+    "summary": "朱元璋以应天为根据地。",
+    "importance": "形成控制江南的战略基础。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhuyuanzhang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1356年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 989,
+    "id": "ann-cl-yuan-1359-428",
+    "title": "红巾军攻入上都",
+    "start": 1359,
+    "end": 1359,
+    "summary": "北伐军破坏元上都。",
+    "importance": "元朝核心地区受到直接冲击。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1359年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 990,
+    "id": "ann-cl-yuan-1360-429",
+    "title": "陈友谅建立汉政权",
+    "start": 1360,
+    "end": 1360,
+    "summary": "陈友谅夺徐寿辉地位。",
+    "importance": "长江中游形成强大竞争集团。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-52101368acc2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1360年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 991,
+    "id": "ann-cl-yuan-1363-430",
+    "title": "鄱阳湖之战",
+    "start": 1363,
+    "end": 1363,
+    "summary": "朱元璋击败陈友谅。",
+    "importance": "取得长江中下游争霸决定性优势。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhuyuanzhang",
+      "ann-person-52101368acc2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1363年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 992,
+    "id": "ann-cl-yuan-1364-431",
+    "title": "朱元璋称吴王",
+    "start": 1364,
+    "end": 1364,
+    "summary": "朱元璋完善行政财政组织。",
+    "importance": "准备继续统一战争。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhuyuanzhang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1364年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  },
+  {
+    "_order": 993,
+    "id": "ann-cl-yuan-1367-432",
+    "title": "朱元璋灭张士诚",
+    "start": 1367,
+    "end": 1367,
+    "summary": "平江陷落。",
+    "importance": "江南主要竞争势力消失，明朝建国条件成熟。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-4b33e022d659",
+      "zhuyuanzhang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1367年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "yuan",
+    "lane": "china",
+    "themeId": "yuan"
+  }
+]

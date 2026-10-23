@@ -1,0 +1,70 @@
+[
+  {
+    "_order": 0,
+    "id": "ann-ce-0001",
+    "title": "夏代早期国家传统",
+    "start": -2070,
+    "end": -1600,
+    "summary": "夏代记忆围绕禹、启与王位继承展开，考古遗址与文献王朝的对应仍需审慎辨析。",
+    "importance": "早期国家形成不能用传说年代替代考古证据。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yu",
+      "qi"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。夏代记忆围绕禹、启与王位继承展开，考古遗址与文献王朝的对应仍需审慎辨析。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前2070年—公元前1600年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 1,
+        "chapter": "一、尧、舜、禹的生活",
+        "lineStart": 2466,
+        "lineEnd": 2466
+      }
+    ],
+    "periodId": "xia",
+    "lane": "china",
+    "themeId": "xia"
+  },
+  {
+    "_order": 1,
+    "id": "ann-ce-0002",
+    "title": "二里头都邑与礼器网络",
+    "start": -1750,
+    "end": -1530,
+    "summary": "二里头出现宫殿区、道路及青铜礼器作坊，显示中原地区政治组织与工艺分工加深。",
+    "importance": "从聚落、生产和礼仪观察早期国家。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book",
+      "ann-date-check-16"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。采用本站既有二里头遗址约前1750—前1530的测年口径，非夏王朝的起讫年表；其他研究的分期与上下界仍有差异。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。 另对本条部分年代或事实作专项来源核对，不等于所有解释均由同一来源直接证明。",
+    "dateLabel": "约公元前1750年—公元前1530年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "direct-date-reference",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 1,
+        "chapter": "第三节 考古发掘与夏文化",
+        "lineStart": 2766,
+        "lineEnd": 2766
+      }
+    ],
+    "periodId": "xia",
+    "lane": "china",
+    "themeId": "xia"
+  }
+]

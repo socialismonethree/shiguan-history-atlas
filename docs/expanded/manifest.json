@@ -1,0 +1,38 @@
+{
+  "version": "0.7.0",
+  "scripts": [
+    "expanded/00-sources.js",
+    "expanded/events-01.js",
+    "expanded/events-02.js",
+    "expanded/events-03.js",
+    "expanded/events-04.js",
+    "expanded/events-05.js",
+    "expanded/events-06.js",
+    "expanded/events-07.js",
+    "expanded/events-08.js",
+    "expanded/events-09.js",
+    "expanded/worldEvents-01.js",
+    "expanded/worldEvents-02.js",
+    "expanded/worldEvents-03.js",
+    "expanded/worldEvents-04.js",
+    "expanded/worldEvents-05.js",
+    "expanded/worldEvents-06.js",
+    "expanded/worldEvents-07.js",
+    "expanded/worldEvents-08.js",
+    "expanded/people-01.js",
+    "expanded/people-02.js",
+    "expanded/people-03.js",
+    "expanded/people-04.js",
+    "expanded/people-05.js",
+    "expanded/people-06.js",
+    "expanded/people-07.js",
+    "expanded/people-08.js",
+    "expanded/99-links.js"
+  ],
+  "counts": {
+    "chinaEvents": 1606,
+    "worldEvents": 1361,
+    "people": 1606,
+    "sources": 249
+  }
+}

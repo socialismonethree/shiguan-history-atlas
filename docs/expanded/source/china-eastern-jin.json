@@ -1,0 +1,1871 @@
+[
+  {
+    "_order": 402,
+    "id": "ann-ce-0426",
+    "title": "东晋建立",
+    "start": 317,
+    "end": 317,
+    "summary": "司马睿在建康建立东晋，借助侨姓与吴姓士族合作维持政权，北伐与内部平衡并行。",
+    "importance": "中国政治中心之一长期转入长江下游。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-5da0a58319d5",
+      "wangdao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "317年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五章 东晋王朝的建立及其政治",
+        "lineStart": 86576,
+        "lineEnd": 86576
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 403,
+    "id": "ann-ce-0427",
+    "title": "前赵政治中心调整",
+    "start": 318,
+    "end": 318,
+    "summary": "刘聪死后汉国内乱，刘曜掌权并迁都长安，北方政权竞争出现新的格局。",
+    "importance": "征服联盟内部也存在地域和军事集团之间的分裂。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-fc54dddc3b0a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "318年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 胡羯的建国",
+        "lineStart": 85481,
+        "lineEnd": 85481
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 404,
+    "id": "ann-ce-0428",
+    "title": "石勒建立后赵",
+    "start": 319,
+    "end": 319,
+    "summary": "石勒在河北建立赵国，与刘曜政权相争，依靠军队、地方士人和农业组织扩张。",
+    "importance": "北方整合通过多种族军事联盟与汉地治理制度结合进行。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-254336b4a5e3",
+      "ann-person-d3401c8c81ae"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "319年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 胡羯的建国",
+        "lineStart": 85503,
+        "lineEnd": 85503
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 405,
+    "id": "ann-ce-0429",
+    "title": "张氏经营河西",
+    "start": 320,
+    "end": 320,
+    "summary": "张茂等在河西维持地方政权与晋朝名义联系，河西成为战争中相对重要的人口和文化保存地区。",
+    "importance": "分裂时代也有持续农业、贸易与文化积累的区域。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-22fa830385dd"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "320年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 前燕与前秦的对立及苻坚的统一北方",
+        "lineStart": 85945,
+        "lineEnd": 85945
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 406,
+    "id": "ann-ce-0430",
+    "title": "祖逖去世",
+    "start": 321,
+    "end": 321,
+    "summary": "祖逖去世后河南恢复事业受挫，东晋内部对军权与北伐的疑惧影响前线持续经营。",
+    "importance": "国家战略受朝廷权力平衡而不只受外敌力量制约。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zuti"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "321年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 胡羯的建国",
+        "lineStart": 85503,
+        "lineEnd": 85503
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 407,
+    "id": "ann-ce-0431",
+    "title": "王敦第一次起兵",
+    "start": 322,
+    "end": 322,
+    "summary": "王敦借清君侧之名进攻建康，东晋皇权受到强大门阀军事集团的直接威胁。",
+    "importance": "南渡政权的合作基础同时包含中央与士族军权的冲突。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-0d000c197c87",
+      "ann-person-5da0a58319d5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "322年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86720,
+        "lineEnd": 86720
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 408,
+    "id": "ann-ce-0432",
+    "title": "平定王敦之乱",
+    "start": 324,
+    "end": 324,
+    "summary": "王敦再次进攻后失败，东晋朝廷重整权力，但仍须依靠其他强大士族力量维持。",
+    "importance": "平定叛乱并未彻底改变门阀共治的政治结构。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-094cb18db792",
+      "wangdao",
+      "ann-person-79370bbba525"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "324年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86734,
+        "lineEnd": 86734
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 409,
+    "id": "ann-ce-0433",
+    "title": "苏峻之乱爆发",
+    "start": 327,
+    "end": 327,
+    "summary": "苏峻因朝廷试图调整其军权而起兵，进攻建康，造成严重政治破坏和人口损失。",
+    "importance": "地方军人集团与士族朝廷的矛盾反复引发内战。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-27553216aa33",
+      "ann-person-f0f6d897381a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "327年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86732,
+        "lineEnd": 86732
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 410,
+    "id": "ann-ce-0434",
+    "title": "东晋平定苏峻",
+    "start": 329,
+    "end": 329,
+    "summary": "陶侃、温峤等联合平定苏峻，朝廷恢复，但地方军镇在国家政治中的地位进一步增强。",
+    "importance": "维持中央秩序越来越需要跨地区军事联盟。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-c4a4d7c05928",
+      "ann-person-79370bbba525"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "329年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86734,
+        "lineEnd": 86734
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 411,
+    "id": "ann-ce-0435",
+    "title": "后赵灭前赵",
+    "start": 329,
+    "end": 329,
+    "summary": "石勒击败并消灭刘曜政权，后赵成为北方主要强权，北方政治整合暂时取得进展。",
+    "importance": "北方统一仍由区域资源与军事组织的竞争决定。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-254336b4a5e3",
+      "ann-person-fc54dddc3b0a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "329年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 西、北各少数民族的内迁",
+        "lineStart": 84856,
+        "lineEnd": 84856
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 412,
+    "id": "ann-ce-0436",
+    "title": "石勒去世与石虎掌权",
+    "start": 333,
+    "end": 333,
+    "summary": "石勒死后继承争斗扩大，石虎逐步控制后赵，对内征发与大型工程加重社会压力。",
+    "importance": "新兴政权稳定性受到继承制度和统治成本双重制约。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-254336b4a5e3",
+      "ann-person-846d24e9d0c5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "333年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 胡羯的建国",
+        "lineStart": 85531,
+        "lineEnd": 85531
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 413,
+    "id": "ann-ce-0437",
+    "title": "慕容皝建立前燕",
+    "start": 337,
+    "end": 337,
+    "summary": "慕容氏在辽西整合鲜卑与汉人资源建立燕国，依靠农业、军队和地方士人逐步发展。",
+    "importance": "东北边地成为北方国家形成的重要政治中心。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-4dea73d5ae03"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "337年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 东北各族",
+        "lineStart": 90819,
+        "lineEnd": 90819
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 414,
+    "id": "ann-ce-0438",
+    "title": "后赵徙民与营建",
+    "start": 340,
+    "end": 340,
+    "summary": "石虎组织大规模人口迁徙和宫殿工程，军需与徭役加剧社会矛盾，统治基础逐渐受损。",
+    "importance": "国家动员能力若缺乏限制，也可能破坏自身生产基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-846d24e9d0c5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "340年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "序言",
+        "lineStart": 83149,
+        "lineEnd": 83149
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 415,
+    "id": "ann-ce-0439",
+    "title": "桓温灭成汉",
+    "start": 347,
+    "end": 347,
+    "summary": "桓温率军入蜀灭成汉，东晋重新控制巴蜀，军事成功显著提高桓温政治地位。",
+    "importance": "外部胜利为强将干预中央政治提供资源与声望。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "huanwen",
+      "ann-person-6bd9c068bc5d"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "347年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 人民的流徙与流民起义",
+        "lineStart": 85394,
+        "lineEnd": 85394
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 416,
+    "id": "ann-ce-0440",
+    "title": "后赵继承内乱",
+    "start": 349,
+    "end": 349,
+    "summary": "石虎去世后宗室及军事集团激烈争权，后赵迅速瓦解，北方再度进入战争与人口迁徙。",
+    "importance": "依赖个人控制的庞大军事国家容易在继承时崩溃。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-846d24e9d0c5",
+      "ann-person-f19cd74e68f9"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "349年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 胡羯的建国",
+        "lineStart": 85557,
+        "lineEnd": 85557
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 417,
+    "id": "ann-ce-0441",
+    "title": "冉魏建立与族群杀戮",
+    "start": 350,
+    "end": 350,
+    "summary": "冉闵控制邺城并建魏，战争中发生大规模针对群体的杀戮，族群关系被急剧激化。",
+    "importance": "史料数字需慎用，不能把政治屠杀美化为民族叙事。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-33a4e328982e"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "350年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86748,
+        "lineEnd": 86748
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 418,
+    "id": "ann-ce-0442",
+    "title": "苻健建立前秦",
+    "start": 351,
+    "end": 351,
+    "summary": "苻健在关中建立秦国，结合氐人军事力量与当地行政资源，成为北方新的竞争政权。",
+    "importance": "区域国家形成依靠人口、土地与政治联盟共同支持。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-65e8ec2fe067"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "351年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 前燕与前秦的对立及苻坚的统一北方",
+        "lineStart": 85887,
+        "lineEnd": 85887
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 419,
+    "id": "ann-ce-0443",
+    "title": "前燕灭冉魏",
+    "start": 352,
+    "end": 352,
+    "summary": "慕容氏攻灭冉魏并控制河北，战争与人口争夺继续改变北方地区的力量格局。",
+    "importance": "北方政治整合经历反复的征服与政权重组。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-1e87bc43a10a",
+      "ann-person-33a4e328982e"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "352年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 胡羯的建国",
+        "lineStart": 85569,
+        "lineEnd": 85569
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 420,
+    "id": "ann-ce-0444",
+    "title": "桓温第一次北伐",
+    "start": 354,
+    "end": 354,
+    "summary": "桓温进攻关中逼近长安，但因补给与敌军抵抗撤退，未能建立稳定的北方控制。",
+    "importance": "山川、粮运与地方支持制约东晋北伐成效。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "huanwen",
+      "ann-person-65e8ec2fe067"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "354年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 前燕与前秦的对立及苻坚的统一北方",
+        "lineStart": 85901,
+        "lineEnd": 85901
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 421,
+    "id": "ann-ce-0445",
+    "title": "桓温收复洛阳",
+    "start": 356,
+    "end": 356,
+    "summary": "东晋军夺回洛阳，桓温提出迁都等方案，但朝廷与士族顾虑使北方经营缺乏持续支持。",
+    "importance": "军事占领与稳定恢复行政控制是不同层面的任务。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "huanwen"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "356年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86760,
+        "lineEnd": 86760
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 422,
+    "id": "ann-ce-0446",
+    "title": "苻坚掌握前秦",
+    "start": 357,
+    "end": 357,
+    "summary": "苻坚取代苻生后重用王猛等人整顿政治，逐渐建立北方较强的中央统治与动员能力。",
+    "importance": "用人和行政调整成为前秦崛起的重要条件。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "fujian",
+      "ann-person-673133145edd"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "357年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 前燕与前秦的对立及苻坚的统一北方",
+        "lineStart": 85853,
+        "lineEnd": 85853
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 423,
+    "id": "ann-ce-0447",
+    "title": "谢安开始参与政务",
+    "start": 359,
+    "end": 359,
+    "summary": "谢安进入东晋政治核心，依靠家族与声望协调朝廷关系，成为此后稳定政局的重要人物。",
+    "importance": "门阀政治也通过社会声望和家族网络维持协商。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiean"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "359年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86764,
+        "lineEnd": 86764
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 424,
+    "id": "ann-ce-0448",
+    "title": "洛阳再度失守",
+    "start": 364,
+    "end": 364,
+    "summary": "东晋在洛阳的据点再次陷落，北方恢复事业受挫，南北政治与军事边界继续变化。",
+    "importance": "短期北伐成果若无持续资源支持便难以巩固。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "huanwen"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "364年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 东汉王朝的崩溃",
+        "lineStart": 83178,
+        "lineEnd": 83178
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 425,
+    "id": "ann-ce-0449",
+    "title": "敦煌早期佛教洞窟传统",
+    "start": 366,
+    "end": 366,
+    "summary": "莫高窟开凿起源的传统记载以乐僔等僧人联系河西佛教传播，具体早期遗迹须结合考古判断。",
+    "importance": "丝路宗教艺术逐步形成跨区域文化景观。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-7e6ce5de5545"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "366年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 艺术",
+        "lineStart": 95226,
+        "lineEnd": 95226
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 426,
+    "id": "ann-ce-0450",
+    "title": "桓温枋头之败",
+    "start": 369,
+    "end": 369,
+    "summary": "桓温北伐前燕，在枋头因补给困难及慕容垂反击失利，政治威望受到打击。",
+    "importance": "前线挫败促使强将转而在朝廷内争取权力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "huanwen",
+      "ann-person-7f0fc970160a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "369年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 前燕与前秦的对立及苻坚的统一北方",
+        "lineStart": 85813,
+        "lineEnd": 85813
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 427,
+    "id": "ann-ce-0451",
+    "title": "前秦灭前燕",
+    "start": 370,
+    "end": 370,
+    "summary": "王猛率军攻灭前燕，前秦控制河北，向统一北方迈出决定性一步。",
+    "importance": "关中与河北资源整合使前秦具备更大扩张能力。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-673133145edd",
+      "fujian"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "370年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 前燕与前秦的对立及苻坚的统一北方",
+        "lineStart": 85853,
+        "lineEnd": 85853
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 428,
+    "id": "ann-ce-0452",
+    "title": "桓温废立晋帝",
+    "start": 371,
+    "end": 371,
+    "summary": "桓温以废立皇帝展示政治控制力，朝廷在军事强臣与皇权名义之间继续周旋。",
+    "importance": "北伐声望和军队控制可能转化为篡夺政治的工具。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "huanwen",
+      "ann-person-08a68717c291"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "371年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86774,
+        "lineEnd": 86774
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 429,
+    "id": "ann-ce-0453",
+    "title": "桓温去世与谢安掌政",
+    "start": 373,
+    "end": 373,
+    "summary": "桓温死后谢安等调整权力关系，朝廷暂时摆脱一位强臣的直接威胁并重建平衡。",
+    "importance": "政治稳定依赖对多个士族与军镇关系的协调。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "xiean",
+      "huanwen"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "373年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84411,
+        "lineEnd": 84411
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 430,
+    "id": "ann-ce-0454",
+    "title": "前秦灭前凉与代",
+    "start": 376,
+    "end": 376,
+    "summary": "前秦先后吞并河西前凉和代国，基本整合北方主要地区，苻坚开始谋求南下统一。",
+    "importance": "军事统一速度快于对新附人口和贵族的政治整合。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "fujian",
+      "ann-person-f5c74e96f788"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "376年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 前燕与前秦的对立及苻坚的统一北方",
+        "lineStart": 85933,
+        "lineEnd": 85933
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 431,
+    "id": "ann-ce-0455",
+    "title": "谢玄组建北府军",
+    "start": 377,
+    "end": 377,
+    "summary": "谢玄在江北组织军队，吸收流民等兵源，形成东晋对抗北方强国的重要军事力量。",
+    "importance": "流亡人口也能通过组织转化为政权防御支柱。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-1d5d4fe8e0d9"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "377年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 孙恩卢循的起义与东晋王朝的崩溃",
+        "lineStart": 87082,
+        "lineEnd": 87082
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 432,
+    "id": "ann-ce-0456",
+    "title": "前秦攻陷襄阳",
+    "start": 379,
+    "end": 379,
+    "summary": "秦军攻克襄阳，取得长江中游的重要军事据点，加大对东晋的战略压力。",
+    "importance": "南北对抗围绕水陆交通枢纽持续展开。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-863b840dd7b8",
+      "ann-person-60b4b2c9690a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "379年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 佛教的传播与发展",
+        "lineStart": 93007,
+        "lineEnd": 93007
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 433,
+    "id": "ann-ce-0458",
+    "title": "后燕与后秦兴起",
+    "start": 384,
+    "end": 384,
+    "summary": "慕容垂与姚苌在前秦衰乱中各自建立政权，北方恢复为多个国家相互竞争的局面。",
+    "importance": "征服并未消除旧有区域精英和军事集团的独立资源。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-7f0fc970160a",
+      "ann-person-d539de674bb0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "384年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86233,
+        "lineEnd": 86233
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 434,
+    "id": "ann-ce-0459",
+    "title": "苻坚被杀",
+    "start": 385,
+    "end": 385,
+    "summary": "苻坚在前秦崩解中被姚苌杀害，短期统一北方的尝试结束，关中继续遭战争破坏。",
+    "importance": "前秦失败与制度整合、精英关系及战略决策共同相关。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "fujian",
+      "ann-person-d539de674bb0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "385年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 淝水之战与苻坚的败亡",
+        "lineStart": 86195,
+        "lineEnd": 86195
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 435,
+    "id": "ann-ce-0462",
+    "title": "北魏扩展草原控制",
+    "start": 386,
+    "end": 395,
+    "summary": "拓跋珪整合周边部落并发展军队，为向河北和中原扩张积累兵源及政治支持。",
+    "importance": "草原整合与中原征服是北魏发展相互衔接的阶段。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-e0607f507fe0"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "386年—395年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86361,
+        "lineEnd": 86361
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 436,
+    "id": "ann-ce-0460",
+    "title": "拓跋珪重建代国并改魏",
+    "start": 386,
+    "end": 386,
+    "summary": "拓跋珪在北方重建政权并改国号魏，逐步结合草原军事组织与中原行政方式。",
+    "importance": "新的北方统一力量在草原与农耕交界成长。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-e0607f507fe0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "386年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86279,
+        "lineEnd": 86279
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 437,
+    "id": "ann-ce-0461",
+    "title": "吕光控制河西",
+    "start": 389,
+    "end": 389,
+    "summary": "吕光在河西建立独立统治，丝路通道与绿洲农业成为地方国家的重要资源。",
+    "importance": "河西政权在东西交通和宗教传播中发挥枢纽作用。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-ae8ed8870bb1"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "389年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86417,
+        "lineEnd": 86417
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 438,
+    "id": "ann-ce-0463",
+    "title": "参合陂之战",
+    "start": 395,
+    "end": 395,
+    "summary": "北魏击败后燕军，双方实力对比发生重大变化，为北魏进入河北创造条件。",
+    "importance": "边地新兴政权在关键战役后取代旧有地区强国。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-e0607f507fe0",
+      "ann-person-7832b2f9ea4a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "395年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 淝水之战与苻坚的败亡",
+        "lineStart": 86183,
+        "lineEnd": 86183
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 439,
+    "id": "ann-ce-0464",
+    "title": "北魏攻取中山",
+    "start": 397,
+    "end": 397,
+    "summary": "北魏攻取后燕重要都城与地区，河北大量人口土地纳入其统治，国家结构随之改变。",
+    "importance": "征服中原迫使草原政权建立更复杂的税政与行政。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-e0607f507fe0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "397年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86291,
+        "lineEnd": 86291
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 440,
+    "id": "ann-ce-0465",
+    "title": "北魏迁都平城",
+    "start": 398,
+    "end": 398,
+    "summary": "北魏以平城为都并称帝，组织农业、官署和人口安置，王朝制度进一步成形。",
+    "importance": "政治中心连接草原军事基础与华北农业资源。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-e0607f507fe0"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "398年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 西晋的黑暗统治与“八王之乱”",
+        "lineStart": 85282,
+        "lineEnd": 85282
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 441,
+    "id": "ann-ce-0466",
+    "title": "孙恩起义",
+    "start": 399,
+    "end": 399,
+    "summary": "孙恩在东南起兵，利用宗教与地方社会网络反抗东晋，江南经济核心区受到严重冲击。",
+    "importance": "南方内部社会矛盾与北方军事压力同时制约东晋。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-007e90520c42"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "399年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 孙恩卢循的起义与东晋王朝的崩溃",
+        "lineStart": 87116,
+        "lineEnd": 87116
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 442,
+    "id": "ann-ce-0467",
+    "title": "鸠摩罗什到长安",
+    "start": 401,
+    "end": 401,
+    "summary": "鸠摩罗什进入后秦统治下的长安，组织大规模佛典翻译，促进佛教义理与汉语思想交流。",
+    "importance": "宗教文化繁荣能够跨越政治分裂与战争边界。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-78f24a324425",
+      "ann-person-00c23efbb914"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "401年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 佛教的传播与发展",
+        "lineStart": 93127,
+        "lineEnd": 93127
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 443,
+    "id": "ann-ce-0468",
+    "title": "刘裕抗击孙恩势力",
+    "start": 402,
+    "end": 402,
+    "summary": "刘裕在镇压孙恩及后续武装过程中获得军事实力与声望，逐步进入东晋权力核心。",
+    "importance": "平定内乱的军人集团成为下一轮政权更替的基础。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "402年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "序言",
+        "lineStart": 83149,
+        "lineEnd": 83149
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 444,
+    "id": "ann-ce-0469",
+    "title": "桓玄篡晋",
+    "start": 403,
+    "end": 403,
+    "summary": "桓玄控制建康后称帝，东晋皇室失去名义地位，激起北府军将领等力量反抗。",
+    "importance": "军事强臣称帝仍需处理既有官僚与军队的承认。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-cd1889399c32"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "403年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 孙恩卢循的起义与东晋王朝的崩溃",
+        "lineStart": 87142,
+        "lineEnd": 87142
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 445,
+    "id": "ann-ce-0470",
+    "title": "刘裕起兵复晋",
+    "start": 404,
+    "end": 404,
+    "summary": "刘裕等击败桓玄并恢复晋朝名义，实际掌握国家军政，为后来的宋朝建立准备基础。",
+    "importance": "恢复旧朝可成为新兴军人获得合法性的政治路径。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-1aa60f8030a9"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "404年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 孙恩卢循的起义与东晋王朝的崩溃",
+        "lineStart": 87158,
+        "lineEnd": 87158
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 446,
+    "id": "ann-ce-0471",
+    "title": "谯纵在蜀建立政权",
+    "start": 405,
+    "end": 405,
+    "summary": "益州军人拥立谯纵割据巴蜀，东晋西部再失控制，显示边远地区军政整合仍不稳定。",
+    "importance": "国家重建面临来自不同区域的同时性挑战。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-c2ada44e1f1b"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "405年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 孙恩卢循的起义与东晋王朝的崩溃",
+        "lineStart": 87084,
+        "lineEnd": 87084
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 447,
+    "id": "ann-ce-0472",
+    "title": "赫连勃勃建立夏国",
+    "start": 407,
+    "end": 407,
+    "summary": "赫连勃勃在统万一带建立夏国，利用边地军力与地理位置介入关陇争夺。",
+    "importance": "北方分裂政权依靠多种军事联盟而非固定族群边界。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-b9025d95bfcb"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "407年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 西、北各少数民族的内迁",
+        "lineStart": 84856,
+        "lineEnd": 84856
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 448,
+    "id": "ann-ce-0473",
+    "title": "刘裕北伐南燕",
+    "start": 409,
+    "end": 409,
+    "summary": "刘裕进攻南燕并围广固，试图扩大北方控制，东晋军队重新获得跨区域行动能力。",
+    "importance": "南方政权也能在北方分裂时取得战略进展。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-f982b516de50"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "409年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 西、北各少数民族的内迁",
+        "lineStart": 84914,
+        "lineEnd": 84914
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 449,
+    "id": "ann-ce-0474",
+    "title": "刘裕灭南燕与卢循进攻",
+    "start": 410,
+    "end": 410,
+    "summary": "南燕灭亡后，刘裕回师应对卢循进攻建康，统一北方的行动被内部危机牵制。",
+    "importance": "南北战争与东南社会反抗共同影响国家战略节奏。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-b8b611606092"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "410年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 孙恩卢循的起义与东晋王朝的崩溃",
+        "lineStart": 87174,
+        "lineEnd": 87174
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 450,
+    "id": "ann-ce-0475",
+    "title": "刘裕平定卢循",
+    "start": 411,
+    "end": 411,
+    "summary": "刘裕击败卢循主力，进一步控制东晋军政，南方主要武装竞争力量陆续退场。",
+    "importance": "内部军事整合为政权替代与再次北伐创造条件。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-b8b611606092"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "411年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 孙恩卢循的起义与东晋王朝的崩溃",
+        "lineStart": 87186,
+        "lineEnd": 87186
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 451,
+    "id": "ann-ce-0476",
+    "title": "东晋收复蜀地",
+    "start": 413,
+    "end": 413,
+    "summary": "朱龄石受刘裕派遣攻灭谯纵政权，巴蜀重新纳入东晋，南方地域整合进一步完成。",
+    "importance": "西南资源与长江上游通道是南朝国家的重要部分。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9fba65812987",
+      "ann-person-c2ada44e1f1b"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "413年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 宋初内政及北强南弱局势的形成",
+        "lineStart": 87343,
+        "lineEnd": 87343
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 452,
+    "id": "ann-ce-0477",
+    "title": "刘裕平司马休之",
+    "start": 415,
+    "end": 415,
+    "summary": "刘裕击败荆州的宗室与地方军事集团，统一中央与长江中游的军政支配。",
+    "importance": "消除内部军权竞争是刘裕代晋前的重要步骤。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-39a43cb7c69a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "415年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 宋初内政及北强南弱局势的形成",
+        "lineStart": 87345,
+        "lineEnd": 87345
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 453,
+    "id": "ann-ce-0478",
+    "title": "刘裕北伐后秦",
+    "start": 416,
+    "end": 416,
+    "summary": "刘裕乘后秦内部继承冲突北伐，攻入河南并推进关中，取得显著军事成果。",
+    "importance": "北伐成功与对手内部失衡和多战区协同密切相关。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-ae3df6bf84ab"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "416年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 淝水战后北方的再分裂",
+        "lineStart": 86355,
+        "lineEnd": 86355
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 454,
+    "id": "ann-ce-0479",
+    "title": "刘裕灭后秦",
+    "start": 417,
+    "end": 417,
+    "summary": "东晋军进入长安灭后秦，但刘裕不久南归，关中留守力量难以稳定控制新领土。",
+    "importance": "攻取旧都与长久经营北方需要不同资源和政治条件。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyu",
+      "ann-person-00ce89602682"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "417年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 宋初内政及北强南弱局势的形成",
+        "lineStart": 87363,
+        "lineEnd": 87363
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  },
+  {
+    "_order": 455,
+    "id": "ann-ce-0480",
+    "title": "关中再失",
+    "start": 418,
+    "end": 418,
+    "summary": "留守晋军内部不和，夏国攻占长安，南方短暂恢复关中的成果迅速丧失。",
+    "importance": "军队内部分裂和后勤薄弱会使征服成果难以维持。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-b9025d95bfcb",
+      "ann-person-09f6edd6fa5a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "418年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 宋初内政及北强南弱局势的形成",
+        "lineStart": 87387,
+        "lineEnd": 87387
+      }
+    ],
+    "periodId": "eastern-jin",
+    "lane": "china",
+    "themeId": "eastern-jin"
+  }
+]

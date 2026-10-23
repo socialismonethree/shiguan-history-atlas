@@ -1,0 +1,3633 @@
+[
+  {
+    "_order": 280,
+    "id": "ann-person-572c0fb3d992",
+    "name": "邓芝",
+    "role": "编年人物线索",
+    "description": "邓芝见于“孙蜀恢复外交”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "联盟取舍最终服从国家安全与力量对比。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 224,
+    "end": 224,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0366"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 281,
+    "id": "ann-person-d16f6cafc345",
+    "name": "孟获",
+    "role": "编年人物线索",
+    "description": "孟获见于“诸葛亮南征”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "西南经营关系蜀汉兵源、供给与政权稳定。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 225,
+    "end": 225,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0367"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 282,
+    "id": "ann-person-c0e268214ee7",
+    "name": "曹叡",
+    "role": "编年人物线索",
+    "description": "曹叡见于“曹叡继位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "三国长期对峙要求不断调整财政和军队部署。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 226,
+    "end": 226,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0368"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 283,
+    "id": "ann-person-6b33b8776bbe",
+    "name": "曹休",
+    "role": "编年人物线索",
+    "description": "曹休见于“石亭之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南方政权通过有限反击维护地区生存空间。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 228,
+    "end": 228,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0370"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 284,
+    "id": "ann-person-509b1018dfc7",
+    "name": "马谡",
+    "role": "编年人物线索",
+    "description": "马谡见于“街亭之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "通道与后勤控制常决定山地战争能否持续。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 228,
+    "end": 228,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0369"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 285,
+    "id": "ann-person-dc74f545a7a7",
+    "name": "张郃",
+    "role": "编年人物线索",
+    "description": "张郃见于“街亭之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "通道与后勤控制常决定山地战争能否持续。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 228,
+    "end": 228,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0369"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 286,
+    "id": "ann-person-72de031e3834",
+    "name": "卫温",
+    "role": "编年人物线索",
+    "description": "卫温见于“孙吴船队赴夷洲”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "远航显示江南海上活动增长，也须辨清史料边界。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 230,
+    "end": 230,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0372"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 287,
+    "id": "ann-person-31692ff51fb4",
+    "name": "诸葛直",
+    "role": "编年人物线索",
+    "description": "诸葛直见于“孙吴船队赴夷洲”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "远航显示江南海上活动增长，也须辨清史料边界。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 230,
+    "end": 230,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0372"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 288,
+    "id": "ann-person-b4198cd42ddf",
+    "name": "蒋琬",
+    "role": "编年人物线索",
+    "description": "蒋琬见于“五丈原对峙与诸葛亮去世”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "统帅逝世改变进攻节奏，但政权仍依靠行政体系延续。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 234,
+    "end": 234,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0374"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 289,
+    "id": "ann-person-f5f1a7a61f31",
+    "name": "公孙渊",
+    "role": "编年人物线索",
+    "description": "公孙渊见于“公孙渊在辽东称王”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "边地政权也利用多国竞争争取独立空间。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 237,
+    "end": 238,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0375",
+      "ann-ce-0376"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 290,
+    "id": "ann-person-dd6a74b22fa0",
+    "name": "卑弥呼",
+    "role": "编年人物线索",
+    "description": "卑弥呼见于“卑弥呼遣使曹魏”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "邪马台国女王通过外交获得称号和礼物，列岛诸国参与东亚政治交往。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-japan",
+      "chron-world-korea",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 239,
+    "end": 239,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-chron-world-east-asia-0486"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "east-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：239—239年"
+  },
+  {
+    "_order": 291,
+    "id": "ann-person-661c869ca8d1",
+    "name": "曹芳",
+    "role": "编年人物线索",
+    "description": "曹芳见于“曹芳继位与双重辅政”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "辅政安排为司马氏夺取国家权力提供政治条件。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 239,
+    "end": 254,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0377",
+      "ann-ce-0386"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 292,
+    "id": "ann-person-293b1da84330",
+    "name": "曹爽",
+    "role": "编年人物线索",
+    "description": "曹爽见于“曹芳继位与双重辅政”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "辅政安排为司马氏夺取国家权力提供政治条件。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 239,
+    "end": 244,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0377",
+      "ann-ce-0379"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 293,
+    "id": "ann-person-0b1a85896851",
+    "name": "王平",
+    "role": "编年人物线索",
+    "description": "王平见于“曹爽攻蜀失败”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "不顾地理与供给的扩张可能反噬执政集团。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 244,
+    "end": 244,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0379"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 294,
+    "id": "ann-person-82f4046cfd13",
+    "name": "姜维",
+    "role": "蜀汉后期统帅",
+    "description": "继诸葛亮之后多次北伐，试图争取陇右与羌胡支持，蜀亡后复国谋划失败。",
+    "contribution": "其生涯集中反映弱势政权持续进攻的战略收益与资源压力。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book",
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 247,
+    "end": 264,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0380",
+      "ann-ce-0388",
+      "ann-ce-0392",
+      "ann-ce-0394"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 295,
+    "id": "ann-person-6ca4c626e16f",
+    "name": "王凌",
+    "role": "编年人物线索",
+    "description": "王凌见于“王凌谋变失败”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "中央夺权后仍需压制掌握外军的竞争集团。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 251,
+    "end": 251,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0382"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 296,
+    "id": "ann-person-255deac26c34",
+    "name": "诸葛恪",
+    "role": "编年人物线索",
+    "description": "诸葛恪见于“东兴之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "战役成功与政权内部支持并不必然同步。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 252,
+    "end": 253,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0384",
+      "ann-ce-0383",
+      "ann-ce-0385"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 297,
+    "id": "ann-person-47158910d2eb",
+    "name": "孙亮",
+    "role": "编年人物线索",
+    "description": "孙亮见于“孙权去世与吴国辅政”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "创业君主去世使长期积累的宫廷矛盾集中暴露。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book",
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 252,
+    "end": 258,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0383",
+      "ann-ce-0390"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 298,
+    "id": "ann-person-3498846b48a6",
+    "name": "孙峻",
+    "role": "编年人物线索",
+    "description": "孙峻见于“诸葛恪被杀”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "长期战争与宫廷清洗削弱国家协调能力。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 253,
+    "end": 253,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0385"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 299,
+    "id": "ann-person-adc460fe1e44",
+    "name": "司马师",
+    "role": "编年人物线索",
+    "description": "司马师见于“司马师废曹芳”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "魏帝仍保留名义，皇权实际已被权臣家族掌握。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 254,
+    "end": 254,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0386"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 300,
+    "id": "ann-person-03202770a34c",
+    "name": "曹髦",
+    "role": "曹魏皇帝",
+    "description": "在司马昭控制朝政的局势下尝试夺回皇权，亲自率众行动而被杀。",
+    "contribution": "其失败揭示曹魏皇室名义权威与实际军事资源的脱节。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 254,
+    "end": 260,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0386",
+      "ann-ce-0391"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 301,
+    "id": "ann-person-4c9b9a5f337f",
+    "name": "毌丘俭",
+    "role": "编年人物线索",
+    "description": "毌丘俭见于“毌丘俭文钦起兵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "司马氏夺权通过连续内战和家族继承逐步巩固。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 255,
+    "end": 255,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0387"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 302,
+    "id": "ann-person-63aeca4b415a",
+    "name": "文钦",
+    "role": "编年人物线索",
+    "description": "文钦见于“毌丘俭文钦起兵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "司马氏夺权通过连续内战和家族继承逐步巩固。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 255,
+    "end": 255,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0387"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 303,
+    "id": "ann-person-41b28b38dfe0",
+    "name": "司马昭",
+    "role": "曹魏后期执政者",
+    "description": "承继司马师权力，平定淮南反对势力并主持灭蜀，为司马炎代魏建晋准备条件。",
+    "contribution": "家族控制军政机构的累积过程最终转化为王朝更替。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 255,
+    "end": 260,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0387",
+      "ann-ce-0389",
+      "ann-ce-0391"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 304,
+    "id": "ann-person-cd97c60ff8bb",
+    "name": "邓艾",
+    "role": "曹魏灭蜀将领",
+    "description": "参与西部屯田与军事防御，灭蜀时出奇兵越山直逼成都，随后卷入将领政治冲突被杀。",
+    "contribution": "战场成功不能自动保障将领在政权内部的安全。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book",
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 256,
+    "end": 264,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0388",
+      "ann-ce-0394"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 305,
+    "id": "ann-person-6565596a1a93",
+    "name": "诸葛诞",
+    "role": "编年人物线索",
+    "description": "诸葛诞见于“诸葛诞起兵淮南”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "政权替代前，权臣先消灭控制地方兵力的对手。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 257,
+    "end": 257,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0389"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 306,
+    "id": "ann-person-0173356ad777",
+    "name": "孙綝",
+    "role": "编年人物线索",
+    "description": "孙綝见于“孙綝废孙亮”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "亲属与重臣辅政难以建立稳定的权力边界。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 258,
+    "end": 258,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0390"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 307,
+    "id": "ann-person-101731750595",
+    "name": "孙休",
+    "role": "编年人物线索",
+    "description": "孙休见于“孙綝废孙亮”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "亲属与重臣辅政难以建立稳定的权力边界。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 258,
+    "end": 258,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0390"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 308,
+    "id": "ann-person-dfd64e3d614f",
+    "name": "瓦勒良",
+    "role": "编年人物线索",
+    "description": "瓦勒良见于“沙普尔俘获罗马皇帝”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "瓦勒良战败被俘，萨珊王权以浮雕和铭文展示对罗马的军事胜利。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 260,
+    "end": 260,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-chron-world-central-west-asia-0361"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：260—260年"
+  },
+  {
+    "_order": 309,
+    "id": "ann-person-1bdd16db0d8c",
+    "name": "黄皓",
+    "role": "编年人物线索",
+    "description": "黄皓见于“姜维退居沓中”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "军事部署与朝廷人事冲突共同影响国家安全。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 262,
+    "end": 262,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0392"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 310,
+    "id": "ann-person-69925f3672c3",
+    "name": "钟会",
+    "role": "编年人物线索",
+    "description": "钟会见于“钟会之乱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "征服完成后仍可能因将领权力与地方抵抗再生内战。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 264,
+    "end": 264,
+    "periodIds": [
+      "three-kingdoms"
+    ],
+    "eventIds": [
+      "ann-ce-0394"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 311,
+    "id": "ann-person-9baae746e1d2",
+    "name": "曹奂",
+    "role": "编年人物线索",
+    "description": "曹奂见于“司马炎代魏建晋”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "政权替代后仍需处理统一战争与地方权力配置。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 265,
+    "end": 265,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0395"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 312,
+    "id": "ann-person-7efec55e1896",
+    "name": "胡烈",
+    "role": "编年人物线索",
+    "description": "胡烈见于“晋初平定西北叛乱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "全国统一前后仍存在多条互相牵制的军事战线。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 269,
+    "end": 269,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0398"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 313,
+    "id": "ann-person-48c18b49aa7e",
+    "name": "羊祜",
+    "role": "编年人物线索",
+    "description": "羊祜见于“羊祜都督荆州”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "统一战争依靠军事准备与社会争取共同推进。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 269,
+    "end": 269,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0397"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 314,
+    "id": "ann-person-1a79b629c090",
+    "name": "秃发树机能",
+    "role": "编年人物线索",
+    "description": "秃发树机能见于“秃发树机能起兵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "行政控制不能只靠军事征服和地方官吏征敛。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 270,
+    "end": 270,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0399"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 315,
+    "id": "ann-person-2e3a50b078ce",
+    "name": "步阐",
+    "role": "编年人物线索",
+    "description": "步阐见于“步阐叛吴降晋”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "地方将领的选择可能引发国家级战局变化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 272,
+    "end": 272,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0400"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 316,
+    "id": "ann-person-c0219a0e560e",
+    "name": "陆抗",
+    "role": "孙吴后期统帅",
+    "description": "承担长江上游防御，在西陵击败晋军与降晋力量，是孙吴后期重要的军事支柱。",
+    "contribution": "其活动显示吴国长期生存依赖水路节点与防区协同。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 272,
+    "end": 274,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0400",
+      "ann-ce-0401"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 317,
+    "id": "ann-person-3f86661d8431",
+    "name": "摩尼",
+    "role": "编年人物线索",
+    "description": "摩尼见于“摩尼被处死”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "摩尼教在萨珊政治宗教压力下受挫，但其教义继续沿商路向东西传播。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 276,
+    "end": 276,
+    "periodIds": [
+      "three-kingdoms",
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-chron-world-central-west-asia-0362"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：276—276年"
+  },
+  {
+    "_order": 318,
+    "id": "ann-person-158140e85fd6",
+    "name": "陆机",
+    "role": "编年人物线索",
+    "description": "陆机见于“吴地士人进入晋廷”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "政治统一并不立即消除地域精英之间的不平等。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 280,
+    "end": 300,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0405"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 319,
+    "id": "ann-person-7cae98534f96",
+    "name": "陆云",
+    "role": "编年人物线索",
+    "description": "陆云见于“吴地士人进入晋廷”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "政治统一并不立即消除地域精英之间的不平等。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 280,
+    "end": 300,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0405"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 320,
+    "id": "ann-person-9bac041d8eb4",
+    "name": "石崇",
+    "role": "编年人物线索",
+    "description": "石崇见于“王恺石崇斗富的时代背景”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "贵族生活可帮助理解统一初期的社会分化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 280,
+    "end": 300,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0406"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 321,
+    "id": "ann-person-c6664101fd70",
+    "name": "王恺",
+    "role": "编年人物线索",
+    "description": "王恺见于“王恺石崇斗富的时代背景”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "贵族生活可帮助理解统一初期的社会分化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 280,
+    "end": 300,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0406"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 322,
+    "id": "ann-person-35360e8b6a05",
+    "name": "孙皓",
+    "role": "编年人物线索",
+    "description": "孙皓见于“西晋灭吴统一”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "统一带来制度整合机会，也暴露区域治理与权力配置问题。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 280,
+    "end": 280,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0403"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 323,
+    "id": "ann-person-2bad2e14b96f",
+    "name": "晋惠帝",
+    "role": "编年人物线索",
+    "description": "晋惠帝见于“晋武帝去世与惠帝继位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "统一政权的脆弱性在继承危机中集中暴露。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 290,
+    "end": 290,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0407"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 324,
+    "id": "ann-person-ef0fe4e66ab4",
+    "name": "杨骏",
+    "role": "编年人物线索",
+    "description": "杨骏见于“晋武帝去世与惠帝继位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "统一政权的脆弱性在继承危机中集中暴露。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 290,
+    "end": 290,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0407"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 325,
+    "id": "ann-person-0be25b225933",
+    "name": "齐万年",
+    "role": "编年人物线索",
+    "description": "齐万年见于“齐万年起兵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "内战之外的边地治理危机加速西晋社会瓦解。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 296,
+    "end": 296,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0409"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 326,
+    "id": "ann-person-9316d56faf59",
+    "name": "江统",
+    "role": "编年人物线索",
+    "description": "江统见于“江统讨论内徙问题”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "这类主张含时代偏见，不能直接视为解决问题的中性方案。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 297,
+    "end": 297,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0410"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 327,
+    "id": "ann-person-f2d77c5c20d3",
+    "name": "司马遹",
+    "role": "编年人物线索",
+    "description": "司马遹见于“贾后废太子”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "继承危机为宗室以护君名义夺权创造条件。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 299,
+    "end": 299,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0411"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 328,
+    "id": "ann-person-0f0944f22647",
+    "name": "司马伦",
+    "role": "编年人物线索",
+    "description": "司马伦见于“赵王伦诛贾后”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "八王之乱逐步突破宫廷政变而变为跨地区战争。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 300,
+    "end": 301,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0412",
+      "ann-ce-0413"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 329,
+    "id": "ann-person-ca5328043afa",
+    "name": "司马冏",
+    "role": "编年人物线索",
+    "description": "司马冏见于“司马伦称帝与诸王反攻”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "恢复旧帝未能恢复统一的军事与政治指挥。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book",
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 301,
+    "end": 302,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0413",
+      "ann-ce-0414"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 330,
+    "id": "ann-person-d4222477f327",
+    "name": "司马乂",
+    "role": "编年人物线索",
+    "description": "司马乂见于“齐王冏败亡”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "军队成为处理宗室政治分歧的常态工具。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 302,
+    "end": 302,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0414"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 331,
+    "id": "ann-person-587ba3c4c170",
+    "name": "李特",
+    "role": "编年人物线索",
+    "description": "李特见于“李特流民起兵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "人口流徙与地方治理失败催生新的区域政权。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 303,
+    "end": 303,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0415"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 332,
+    "id": "ann-person-7ac0cc997a66",
+    "name": "李雄",
+    "role": "编年人物线索",
+    "description": "李雄见于“李雄建立成国”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "西晋瓦解过程中，西南地区形成不同于北方的政治路径。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 304,
+    "end": 304,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0417"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 333,
+    "id": "ann-person-5606b8fea601",
+    "name": "司马越",
+    "role": "编年人物线索",
+    "description": "司马越见于“东海王越控制朝廷”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "内战胜者未必具备重建国家的能力。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 306,
+    "end": 306,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0418"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 334,
+    "id": "ann-person-6231e16bc6ed",
+    "name": "刘聪",
+    "role": "编年人物线索",
+    "description": "刘聪见于“刘聪等扩大北方攻势”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "中央内战为新兴政权扩大军事活动打开空间。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 308,
+    "end": 311,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0420",
+      "ann-ce-0421",
+      "ann-ce-0422"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 335,
+    "id": "ann-person-254336b4a5e3",
+    "name": "石勒",
+    "role": "后赵建立者",
+    "description": "从北方战争与军事集团竞争中崛起，吸纳张宾等士人，依靠河北资源建立后赵并灭前赵。",
+    "contribution": "其国家形成结合多种族军事联盟与汉地行政经营。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 308,
+    "end": 333,
+    "periodIds": [
+      "eastern-jin",
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0420",
+      "ann-ce-0422",
+      "ann-ce-0428",
+      "ann-ce-0435",
+      "ann-ce-0436"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 336,
+    "id": "ann-person-d33743bf31e4",
+    "name": "晋怀帝",
+    "role": "编年人物线索",
+    "description": "晋怀帝见于“永嘉之乱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "国家分裂与人口迁移共同改变此后南北社会。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 311,
+    "end": 311,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0422"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 337,
+    "id": "ann-person-32518a3f6a58",
+    "name": "晋愍帝",
+    "role": "编年人物线索",
+    "description": "晋愍帝见于“晋愍帝在长安即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "王朝名义延续无法弥补资源与组织的实际崩溃。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 313,
+    "end": 313,
+    "periodIds": [
+      "western-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0424"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 338,
+    "id": "ann-person-5da0a58319d5",
+    "name": "晋元帝",
+    "role": "编年人物线索",
+    "description": "晋元帝见于“东晋建立”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "中国政治中心之一长期转入长江下游。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 317,
+    "end": 322,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0426",
+      "ann-ce-0431"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 339,
+    "id": "ann-person-fc54dddc3b0a",
+    "name": "刘曜",
+    "role": "编年人物线索",
+    "description": "刘曜见于“前赵政治中心调整”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "征服联盟内部也存在地域和军事集团之间的分裂。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 318,
+    "end": 329,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0427",
+      "ann-ce-0435"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 340,
+    "id": "ann-person-d3401c8c81ae",
+    "name": "张宾",
+    "role": "编年人物线索",
+    "description": "张宾见于“石勒建立后赵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "北方整合通过多种族军事联盟与汉地治理制度结合进行。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 319,
+    "end": 319,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0428"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 341,
+    "id": "ann-person-22fa830385dd",
+    "name": "张茂",
+    "role": "编年人物线索",
+    "description": "张茂见于“张氏经营河西”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "分裂时代也有持续农业、贸易与文化积累的区域。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 320,
+    "end": 320,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0429"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 342,
+    "id": "ann-person-0d000c197c87",
+    "name": "王敦",
+    "role": "编年人物线索",
+    "description": "王敦见于“王敦第一次起兵”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南渡政权的合作基础同时包含中央与士族军权的冲突。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 322,
+    "end": 322,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0431"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 343,
+    "id": "ann-person-094cb18db792",
+    "name": "晋明帝",
+    "role": "编年人物线索",
+    "description": "晋明帝见于“平定王敦之乱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "平定叛乱并未彻底改变门阀共治的政治结构。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 324,
+    "end": 324,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0432"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 344,
+    "id": "ann-person-79370bbba525",
+    "name": "温峤",
+    "role": "编年人物线索",
+    "description": "温峤见于“平定王敦之乱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "平定叛乱并未彻底改变门阀共治的政治结构。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 324,
+    "end": 329,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0432",
+      "ann-ce-0434"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 345,
+    "id": "ann-person-27553216aa33",
+    "name": "苏峻",
+    "role": "编年人物线索",
+    "description": "苏峻见于“苏峻之乱爆发”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "地方军人集团与士族朝廷的矛盾反复引发内战。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 327,
+    "end": 327,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0433"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 346,
+    "id": "ann-person-f0f6d897381a",
+    "name": "庾亮",
+    "role": "编年人物线索",
+    "description": "庾亮见于“苏峻之乱爆发”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "地方军人集团与士族朝廷的矛盾反复引发内战。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 327,
+    "end": 327,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0433"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 347,
+    "id": "ann-person-c4a4d7c05928",
+    "name": "陶侃",
+    "role": "编年人物线索",
+    "description": "陶侃见于“东晋平定苏峻”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "维持中央秩序越来越需要跨地区军事联盟。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 329,
+    "end": 329,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0434"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 348,
+    "id": "ann-person-846d24e9d0c5",
+    "name": "石虎",
+    "role": "后赵统治者",
+    "description": "在石勒死后争夺并掌握权力，推动大规模征伐、迁徙与营建，加重社会负担。",
+    "contribution": "后赵的强大动员能力与统治基础破坏同时存在。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 333,
+    "end": 349,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0436",
+      "ann-ce-0438",
+      "ann-ce-0440"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 349,
+    "id": "ann-person-4dea73d5ae03",
+    "name": "慕容皝",
+    "role": "编年人物线索",
+    "description": "慕容皝见于“慕容皝建立前燕”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "东北边地成为北方国家形成的重要政治中心。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 337,
+    "end": 337,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0437"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 350,
+    "id": "ann-person-5c4e074ce915",
+    "name": "近肖古王",
+    "role": "百济国王",
+    "description": "4世纪扩展百济势力并发展对外联系，汉江流域与海上网络共同支撑王权。",
+    "contribution": "把半岛历史放入连接辽东、中国和列岛的区域互动。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-japan",
+      "chron-world-korea",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 346,
+    "end": 346,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-chron-world-east-asia-0489"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "east-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：346—346年"
+  },
+  {
+    "_order": 351,
+    "id": "ann-person-6bd9c068bc5d",
+    "name": "李势",
+    "role": "编年人物线索",
+    "description": "李势见于“桓温灭成汉”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "外部胜利为强将干预中央政治提供资源与声望。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 347,
+    "end": 347,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0439"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 352,
+    "id": "ann-person-f19cd74e68f9",
+    "name": "石闵",
+    "role": "编年人物线索",
+    "description": "石闵见于“后赵继承内乱”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "依赖个人控制的庞大军事国家容易在继承时崩溃。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 349,
+    "end": 349,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0440"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 353,
+    "id": "ann-person-33a4e328982e",
+    "name": "冉闵",
+    "role": "编年人物线索",
+    "description": "冉闵见于“冉魏建立与族群杀戮”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "史料数字需慎用，不能把政治屠杀美化为民族叙事。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 350,
+    "end": 352,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0441",
+      "ann-ce-0443"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 354,
+    "id": "ann-person-65e8ec2fe067",
+    "name": "苻健",
+    "role": "编年人物线索",
+    "description": "苻健见于“苻健建立前秦”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "区域国家形成依靠人口、土地与政治联盟共同支持。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 351,
+    "end": 354,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0442",
+      "ann-ce-0444"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 355,
+    "id": "ann-person-1e87bc43a10a",
+    "name": "慕容儁",
+    "role": "编年人物线索",
+    "description": "慕容儁见于“前燕灭冉魏”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "北方政治整合经历反复的征服与政权重组。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 352,
+    "end": 352,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0443"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 356,
+    "id": "ann-person-673133145edd",
+    "name": "王猛",
+    "role": "前秦政治家与统帅",
+    "description": "受苻坚重用，参与整顿吏治、财政和军事，主持灭前燕，是前秦统一北方的重要人物。",
+    "contribution": "行政整合与军事成功共同支撑前秦短期崛起。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 357,
+    "end": 370,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0446",
+      "ann-ce-0451"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 357,
+    "id": "ann-person-7e6ce5de5545",
+    "name": "乐僔",
+    "role": "编年人物线索",
+    "description": "乐僔见于“敦煌早期佛教洞窟传统”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "丝路宗教艺术逐步形成跨区域文化景观。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 366,
+    "end": 366,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0449"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 358,
+    "id": "ann-person-7f0fc970160a",
+    "name": "慕容垂",
+    "role": "后燕建立者",
+    "description": "曾为前燕重要统帅，转入前秦后又利用其崩溃重建燕国，长期参与河北与北方争夺。",
+    "contribution": "其经历体现政权变动中的军事人才及区域支持网络延续。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 369,
+    "end": 384,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0450",
+      "ann-ce-0458"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 359,
+    "id": "ann-person-08a68717c291",
+    "name": "晋简文帝",
+    "role": "编年人物线索",
+    "description": "晋简文帝见于“桓温废立晋帝”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "北伐声望和军队控制可能转化为篡夺政治的工具。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 371,
+    "end": 371,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0452"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 360,
+    "id": "ann-person-56495e98e46b",
+    "name": "旃陀罗笈多二世",
+    "role": "编年人物线索",
+    "description": "旃陀罗笈多二世见于“旃陀罗笈多二世即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "笈多向西扩张，商业与宫廷文化发展，为古典时代形象提供重要基础。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ann-date-check-12",
+      "chron-world-harvard",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 375,
+    "end": 375,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0668"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：375—375年"
+  },
+  {
+    "_order": 361,
+    "id": "ann-person-f5c74e96f788",
+    "name": "张天锡",
+    "role": "编年人物线索",
+    "description": "张天锡见于“前秦灭前凉与代”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "军事统一速度快于对新附人口和贵族的政治整合。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 376,
+    "end": 376,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0454"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 362,
+    "id": "ann-person-1d5d4fe8e0d9",
+    "name": "谢玄",
+    "role": "东晋军事将领",
+    "description": "在江北组织北府军，吸收流民兵源，在淝水之战中参与指挥并推进后续北方行动。",
+    "contribution": "军队组织与区域社会资源结合维护了东晋的生存。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 377,
+    "end": 377,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0455"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 363,
+    "id": "ann-person-863b840dd7b8",
+    "name": "苻丕",
+    "role": "编年人物线索",
+    "description": "苻丕见于“前秦攻陷襄阳”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南北对抗围绕水陆交通枢纽持续展开。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 379,
+    "end": 379,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0456"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 364,
+    "id": "ann-person-60b4b2c9690a",
+    "name": "朱序",
+    "role": "编年人物线索",
+    "description": "朱序见于“前秦攻陷襄阳”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南北对抗围绕水陆交通枢纽持续展开。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 379,
+    "end": 379,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0456"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 365,
+    "id": "ann-person-21c33fa1c9ec",
+    "name": "狄奥多西一世",
+    "role": "编年人物线索",
+    "description": "狄奥多西一世见于“基督教尼西亚派获帝国支持”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "狄奥多西一世以敕令确立宗教正统方向，异教与教派关系进一步政治化。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 380,
+    "end": 380,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0083"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：380—380年"
+  },
+  {
+    "_order": 366,
+    "id": "ann-person-d539de674bb0",
+    "name": "姚苌",
+    "role": "编年人物线索",
+    "description": "姚苌见于“后燕与后秦兴起”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "征服并未消除旧有区域精英和军事集团的独立资源。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 384,
+    "end": 385,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0458",
+      "ann-ce-0459"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 367,
+    "id": "ann-person-e0607f507fe0",
+    "name": "拓跋珪",
+    "role": "编年人物线索",
+    "description": "拓跋珪见于“北魏扩展草原控制”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "草原整合与中原征服是北魏发展相互衔接的阶段。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 386,
+    "end": 398,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0462",
+      "ann-ce-0460",
+      "ann-ce-0463",
+      "ann-ce-0464",
+      "ann-ce-0465"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 368,
+    "id": "ann-person-ae8ed8870bb1",
+    "name": "吕光",
+    "role": "编年人物线索",
+    "description": "吕光见于“吕光控制河西”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "河西政权在东西交通和宗教传播中发挥枢纽作用。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 389,
+    "end": 389,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0461"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 369,
+    "id": "ann-person-3bb54a38aaf7",
+    "name": "广开土王",
+    "role": "编年人物线索",
+    "description": "广开土王见于“广开土王即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "高句丽大规模扩张，碑刻把战争胜利与王室祖先崇拜结合。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-japan",
+      "chron-world-korea",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 391,
+    "end": 391,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-chron-world-east-asia-0492"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "east-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：391—391年"
+  },
+  {
+    "_order": 370,
+    "id": "ann-person-7832b2f9ea4a",
+    "name": "慕容宝",
+    "role": "编年人物线索",
+    "description": "慕容宝见于“参合陂之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "边地新兴政权在关键战役后取代旧有地区强国。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 395,
+    "end": 395,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0463"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 371,
+    "id": "ann-person-007e90520c42",
+    "name": "孙恩",
+    "role": "编年人物线索",
+    "description": "孙恩见于“孙恩起义”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南方内部社会矛盾与北方军事压力同时制约东晋。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 399,
+    "end": 399,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0466"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 372,
+    "id": "ann-person-af4adcf28273",
+    "name": "法显",
+    "role": "编年人物线索",
+    "description": "法显见于“法显旅行南亚”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "僧人访问佛教圣地和寺院，记录戒律、社会习俗与跨海归途。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-harvard",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 399,
+    "end": 414,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-chron-world-south-asia-0669"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "south-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：399—414年"
+  },
+  {
+    "_order": 373,
+    "id": "ann-person-78f24a324425",
+    "name": "鸠摩罗什",
+    "role": "编年人物线索",
+    "description": "鸠摩罗什见于“鸠摩罗什到长安”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "宗教文化繁荣能够跨越政治分裂与战争边界。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 401,
+    "end": 401,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0467"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 374,
+    "id": "ann-person-00c23efbb914",
+    "name": "姚兴",
+    "role": "编年人物线索",
+    "description": "姚兴见于“鸠摩罗什到长安”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "宗教文化繁荣能够跨越政治分裂与战争边界。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 401,
+    "end": 401,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0467"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 375,
+    "id": "ann-person-cd1889399c32",
+    "name": "桓玄",
+    "role": "编年人物线索",
+    "description": "桓玄见于“桓玄篡晋”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "军事强臣称帝仍需处理既有官僚与军队的承认。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 403,
+    "end": 403,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0469"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 376,
+    "id": "ann-person-1aa60f8030a9",
+    "name": "刘毅",
+    "role": "编年人物线索",
+    "description": "刘毅见于“刘裕起兵复晋”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "恢复旧朝可成为新兴军人获得合法性的政治路径。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 404,
+    "end": 404,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0470"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 377,
+    "id": "ann-person-c2ada44e1f1b",
+    "name": "谯纵",
+    "role": "编年人物线索",
+    "description": "谯纵见于“谯纵在蜀建立政权”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "国家重建面临来自不同区域的同时性挑战。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 405,
+    "end": 413,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0471",
+      "ann-ce-0476"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 378,
+    "id": "ann-person-b9025d95bfcb",
+    "name": "赫连勃勃",
+    "role": "十六国夏国建立者",
+    "description": "在北方边地建立军事政权，营建统万城，并利用晋军内部冲突攻取长安。",
+    "contribution": "边地政治力量通过地理通道与机会性战争进入中原竞争。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 407,
+    "end": 418,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0472",
+      "ann-ce-0480"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 379,
+    "id": "ann-person-f982b516de50",
+    "name": "慕容超",
+    "role": "编年人物线索",
+    "description": "慕容超见于“刘裕北伐南燕”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南方政权也能在北方分裂时取得战略进展。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 409,
+    "end": 409,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0473"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 380,
+    "id": "ann-person-b8b611606092",
+    "name": "卢循",
+    "role": "编年人物线索",
+    "description": "卢循见于“刘裕灭南燕与卢循进攻”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南北战争与东南社会反抗共同影响国家战略节奏。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 410,
+    "end": 411,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0474",
+      "ann-ce-0475"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 381,
+    "id": "ann-person-9c5c0caeba6f",
+    "name": "阿拉里克",
+    "role": "编年人物线索",
+    "description": "阿拉里克见于“西哥特军队攻入罗马”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "阿拉里克部队洗劫罗马，城市象征的失守冲击帝国和基督教社会。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 410,
+    "end": 410,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0085"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：410—410年"
+  },
+  {
+    "_order": 382,
+    "id": "ann-person-9fba65812987",
+    "name": "朱龄石",
+    "role": "编年人物线索",
+    "description": "朱龄石见于“东晋收复蜀地”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "西南资源与长江上游通道是南朝国家的重要部分。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 413,
+    "end": 413,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0476"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 383,
+    "id": "ann-person-85c514294699",
+    "name": "长寿王",
+    "role": "高句丽国王",
+    "description": "427年迁都平壤并扩大南方势力，为广开土王立碑以维系王朝记忆。",
+    "contribution": "城市迁移、领土扩展和碑刻宣传共同体现高句丽国家建设。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-japan",
+      "chron-world-korea",
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 414,
+    "end": 414,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-chron-world-east-asia-0493"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "east-asia"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：414—414年"
+  },
+  {
+    "_order": 384,
+    "id": "ann-person-39a43cb7c69a",
+    "name": "司马休之",
+    "role": "编年人物线索",
+    "description": "司马休之见于“刘裕平司马休之”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "消除内部军权竞争是刘裕代晋前的重要步骤。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 415,
+    "end": 415,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0477"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 385,
+    "id": "ann-person-ae3df6bf84ab",
+    "name": "姚泓",
+    "role": "编年人物线索",
+    "description": "姚泓见于“刘裕北伐后秦”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "北伐成功与对手内部失衡和多战区协同密切相关。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 416,
+    "end": 416,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0478"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 386,
+    "id": "ann-person-00ce89602682",
+    "name": "王镇恶",
+    "role": "编年人物线索",
+    "description": "王镇恶见于“刘裕灭后秦”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "攻取旧都与长久经营北方需要不同资源和政治条件。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 417,
+    "end": 417,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0479"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 387,
+    "id": "ann-person-09f6edd6fa5a",
+    "name": "刘义真",
+    "role": "编年人物线索",
+    "description": "刘义真见于“关中再失”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "军队内部分裂和后勤薄弱会使征服成果难以维持。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 418,
+    "end": 418,
+    "periodIds": [
+      "eastern-jin"
+    ],
+    "eventIds": [
+      "ann-ce-0480"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 388,
+    "id": "ann-person-e622c7d05680",
+    "name": "晋恭帝",
+    "role": "编年人物线索",
+    "description": "晋恭帝见于“刘裕代晋建宋”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "军人集团取代门阀核心，但士族社会仍持续影响政治。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 420,
+    "end": 420,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0481"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 389,
+    "id": "ann-person-f6fdec5fb232",
+    "name": "徐羡之",
+    "role": "编年人物线索",
+    "description": "徐羡之见于“刘裕去世与宋初辅政”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "新政权依旧面对开国君主去世后的稳定难题。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 422,
+    "end": 422,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0482"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 390,
+    "id": "ann-person-9fa0a45e48e0",
+    "name": "宋文帝",
+    "role": "编年人物线索",
+    "description": "宋文帝见于“宋文帝即位”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "皇帝与辅臣关系决定南朝初期政治方向。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 424,
+    "end": 453,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0483",
+      "ann-ce-0484",
+      "ann-ce-0486",
+      "ann-ce-0493",
+      "ann-ce-0496"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 391,
+    "id": "ann-person-884310c5c656",
+    "name": "谢晦",
+    "role": "编年人物线索",
+    "description": "谢晦见于“宋文帝清除辅政集团”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "长江中游军镇与建康朝廷的关系继续影响王朝稳定。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 426,
+    "end": 426,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0484"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 392,
+    "id": "ann-person-184883c7a166",
+    "name": "赫连昌",
+    "role": "编年人物线索",
+    "description": "赫连昌见于“北魏攻破统万城”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "拓跋政权通过控制军事与交通节点扩大整合能力。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 427,
+    "end": 427,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0485"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 393,
+    "id": "ann-person-cf8398c2cab4",
+    "name": "到彦之",
+    "role": "编年人物线索",
+    "description": "到彦之见于“刘宋第一次元嘉北伐”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南北政权对峙受到骑兵、河道和持续供给能力制约。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 430,
+    "end": 430,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0486"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 394,
+    "id": "ann-person-6069292b1c4a",
+    "name": "赫连定",
+    "role": "编年人物线索",
+    "description": "赫连定见于“夏国灭亡”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "区域国家覆亡常是多方作用而非单次战争的结果。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 431,
+    "end": 431,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0487"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 395,
+    "id": "ann-person-7f0b14d4eb99",
+    "name": "冯弘",
+    "role": "编年人物线索",
+    "description": "冯弘见于“北魏灭北燕”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "北方统一在西北与东北多个方向连续推进。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 436,
+    "end": 436,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0488"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 396,
+    "id": "ann-person-2b6d051afea6",
+    "name": "沮渠牧犍",
+    "role": "编年人物线索",
+    "description": "沮渠牧犍见于“北魏灭北凉”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "河西丝路通道和人口资源被纳入更大国家体系。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 439,
+    "end": 439,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0489"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 397,
+    "id": "ann-person-c0773e4b064b",
+    "name": "寇谦之",
+    "role": "编年人物线索",
+    "description": "寇谦之见于“北魏采用道教政治仪式”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "宗教政策体现国家整合不同政治文化资源的尝试。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 440,
+    "end": 440,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0490"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 398,
+    "id": "ann-person-74d9775814af",
+    "name": "崔浩",
+    "role": "北魏政治家与史家",
+    "description": "参与军事和行政决策，支持部分宗教政策，因国史等政治问题被杀并牵连广泛。",
+    "contribution": "国家历史书写与统治集团身份、权力边界直接相关。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 440,
+    "end": 450,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0490",
+      "ann-ce-0492",
+      "ann-ce-0494"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 399,
+    "id": "ann-person-079e81a7e349",
+    "name": "阿提拉",
+    "role": "编年人物线索",
+    "description": "阿提拉见于“沙隆会战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "罗马与盟军阻挡阿提拉，匈人势力和西部军事联盟共同改变欧洲权力布局。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 451,
+    "end": 451,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0086"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：451—451年"
+  },
+  {
+    "_order": 400,
+    "id": "ann-person-b08650e33f47",
+    "name": "宗爱",
+    "role": "编年人物线索",
+    "description": "宗爱见于“北魏太武帝被杀”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "征服型君主去世后，国家需要恢复稳定的权力交接。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 452,
+    "end": 452,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0495"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 401,
+    "id": "ann-person-c84c3d4f164c",
+    "name": "刘劭",
+    "role": "编年人物线索",
+    "description": "刘劭见于“宋文帝被太子杀害”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "皇室内部竞争成为南朝政治破坏的重要来源。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 453,
+    "end": 453,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0496"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 402,
+    "id": "ann-person-f427196d5fa1",
+    "name": "刘骏",
+    "role": "编年人物线索",
+    "description": "刘骏见于“宋文帝被太子杀害”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "皇室内部竞争成为南朝政治破坏的重要来源。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 453,
+    "end": 453,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0496"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 403,
+    "id": "ann-person-ec30a69d9da5",
+    "name": "昙曜",
+    "role": "编年人物线索",
+    "description": "昙曜见于“云冈石窟大规模开凿”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "宗教艺术成为观察王朝政治与跨地域文化交流的窗口。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 460,
+    "end": 460,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0497"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 404,
+    "id": "ann-person-3c756eda9a60",
+    "name": "刘彧",
+    "role": "编年人物线索",
+    "description": "刘彧见于“刘宋前废帝被杀”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "继承不稳使南方国家难以持续经营北方战线。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 465,
+    "end": 466,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0498",
+      "ann-ce-0499"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 405,
+    "id": "ann-person-a3b46f708334",
+    "name": "刘子业",
+    "role": "编年人物线索",
+    "description": "刘子业见于“刘宋前废帝被杀”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "继承不稳使南方国家难以持续经营北方战线。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 465,
+    "end": 465,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0498"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 406,
+    "id": "ann-person-59016ef3e610",
+    "name": "刘子勋",
+    "role": "编年人物线索",
+    "description": "刘子勋见于“刘宋内战与淮北易手”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "内部政治冲突能够直接改变国家疆界和战略纵深。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 466,
+    "end": 466,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0499"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 407,
+    "id": "ann-person-7c73b37d9aad",
+    "name": "冯太后",
+    "role": "北魏文明太后",
+    "description": "在孝文帝早期参与执政，支持俸禄、均田及基层组织改革，对北魏制度转型影响深远。",
+    "contribution": "改革连续性不能只归因于单个皇帝，也依托辅政网络。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book",
+      "ce-framework"
+    ],
+    "scope": "china",
+    "start": 471,
+    "end": 485,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0500",
+      "ann-ce-0503",
+      "ann-ce-0504"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "profile",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 408,
+    "id": "ann-person-80830cde9388",
+    "name": "萧道成",
+    "role": "编年人物线索",
+    "description": "萧道成见于“萧道成代宋建齐”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "更换皇室并未彻底改造士族、军镇与地方社会结构。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 479,
+    "end": 479,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0502"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 409,
+    "id": "ann-person-f891133e415d",
+    "name": "克洛维",
+    "role": "编年人物线索",
+    "description": "克洛维见于“克洛维统治法兰克人”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "法兰克王权在高卢扩张，逐渐整合罗马行政遗产与日耳曼军事传统。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 481,
+    "end": 481,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0088"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：481—481年"
+  },
+  {
+    "_order": 410,
+    "id": "ann-person-86ce85a00504",
+    "name": "沈约",
+    "role": "编年人物线索",
+    "description": "沈约见于“永明文学兴起”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "社会分裂时期仍发生深刻的文学形式创新。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 483,
+    "end": 493,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0506"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 411,
+    "id": "ann-person-cb51dcad0c50",
+    "name": "谢朓",
+    "role": "编年人物线索",
+    "description": "谢朓见于“永明文学兴起”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "社会分裂时期仍发生深刻的文学形式创新。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 483,
+    "end": 493,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0506"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 412,
+    "id": "ann-person-a586dd16a138",
+    "name": "王融",
+    "role": "编年人物线索",
+    "description": "王融见于“永明文学兴起”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "社会分裂时期仍发生深刻的文学形式创新。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 483,
+    "end": 493,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0506"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 413,
+    "id": "ann-person-ff0e9548f1f1",
+    "name": "李安世",
+    "role": "编年人物线索",
+    "description": "李安世见于“北魏均田令”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "均田核心在于建立赋役秩序，不能视为完全平均分地。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 485,
+    "end": 485,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0504"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 414,
+    "id": "ann-person-fe4ad89b997a",
+    "name": "狄奥多里克",
+    "role": "编年人物线索",
+    "description": "狄奥多里克见于“狄奥多里克统治意大利”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "东哥特王国保留大量罗马行政安排，宗教差异与帝国关系仍造成紧张。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "scope": "world",
+    "start": 493,
+    "end": 493,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-chron-world-europe-0089"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+    "regionIds": [
+      "europe"
+    ],
+    "worldEntryIds": [],
+    "dateLabel": "已录关联史事：493—493年"
+  },
+  {
+    "_order": 415,
+    "id": "ann-person-85146b0f4748",
+    "name": "元恂",
+    "role": "编年人物线索",
+    "description": "元恂见于“北魏废太子”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "国家文化转型并非统一自愿接受的线性过程。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 496,
+    "end": 496,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0510"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 416,
+    "id": "ann-person-38253dda4ae0",
+    "name": "萧宝卷",
+    "role": "编年人物线索",
+    "description": "萧宝卷见于“南齐东昏侯被杀”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "暴力继承与地方军权相互推动南朝王朝更替。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 501,
+    "end": 501,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0513"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 417,
+    "id": "ann-person-8f2f957ee873",
+    "name": "范缜",
+    "role": "编年人物线索",
+    "description": "范缜见于“范缜讨论神灭论”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南朝思想生活包含宗教繁荣与理性批评的并行发展。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 505,
+    "end": 505,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0515"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 418,
+    "id": "ann-person-7128046a87ec",
+    "name": "韦睿",
+    "role": "编年人物线索",
+    "description": "韦睿见于“钟离之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南北军力并非始终单向变化，水文与组织能力影响胜负。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 507,
+    "end": 507,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0516"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  },
+  {
+    "_order": 419,
+    "id": "ann-person-5bac0f67f503",
+    "name": "曹景宗",
+    "role": "编年人物线索",
+    "description": "曹景宗见于“钟离之战”等已录史事。下方按年代列出其相关活动与历史联系。",
+    "contribution": "南北军力并非始终单向变化，水文与组织能力影响胜负。",
+    "context": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "scope": "china",
+    "start": 507,
+    "end": 507,
+    "periodIds": [
+      "north-south"
+    ],
+    "eventIds": [
+      "ann-ce-0516"
+    ],
+    "coreEntry": true,
+    "expanded": true,
+    "entryKind": "person-thread",
+    "note": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。"
+  }
+]

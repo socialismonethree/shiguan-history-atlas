@@ -1,0 +1,413 @@
+[
+  {
+    "_order": 8,
+    "id": "ann-ce-0010",
+    "title": "牧野之战与商周更替",
+    "start": -1046,
+    "end": -1046,
+    "summary": "周武王率联军进攻商都，商王朝覆亡；前1046年为当前通行年代框架之一。",
+    "importance": "周人建立新王朝，但具体年代仍属研究问题。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "wuwang",
+      "v5-dixin"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1046年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "（二）儒家对西周政治文化的推崇",
+        "lineStart": 44883,
+        "lineEnd": 44883
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 9,
+    "id": "ann-ce-0011",
+    "title": "三监之乱与周公东征",
+    "start": -1042,
+    "end": -1040,
+    "summary": "商遗民反抗与周宗室冲突交织，周公东征压制反对力量并重新安排东方政治秩序。",
+    "importance": "周王朝从军事胜利转向持续治理东方。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-zhougong",
+      "ann-person-d4d43a93714a"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1042年—公元前1040年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "（一）武王分封的异姓诸侯",
+        "lineStart": 46917,
+        "lineEnd": 46917
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 10,
+    "id": "ann-ce-0013",
+    "title": "西周分封与宗族网络",
+    "start": -1040,
+    "end": -1000,
+    "summary": "周王把宗室及功臣配置到不同地区，封国借宗法、婚姻和礼仪维系等级关系。",
+    "importance": "王朝治理依靠多层次政治网络展开。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-zhougong",
+      "ann-person-f6abdad958b8"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1040年—公元前1000年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "前言",
+        "lineStart": 44848,
+        "lineEnd": 44848
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 11,
+    "id": "ann-ce-0012",
+    "title": "营建成周",
+    "start": -1038,
+    "end": -1035,
+    "summary": "周人在洛阳地区营建成周，强化对东方的统治，并形成西土与东都相互支撑的格局。",
+    "importance": "都邑布局与人口迁徙共同巩固早周秩序。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-zhougong",
+      "v5-chengwang"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1038年—公元前1035年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "（二）公刘迁都到豳",
+        "lineStart": 45151,
+        "lineEnd": 45151
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 12,
+    "id": "ann-ce-0014",
+    "title": "成康时期的王朝整合",
+    "start": -1000,
+    "end": -950,
+    "summary": "周初政治安排继续发展，青铜铭文反映册命、赏赐和贵族服务王室的关系。",
+    "importance": "西周制度通过具体仪式与地方经营逐渐定型。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-chengwang",
+      "ann-person-cf869c4f0a77"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1000年—公元前950年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "（二）西周诸王的在位年数",
+        "lineStart": 44949,
+        "lineEnd": 44949
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 13,
+    "id": "ann-ce-0015",
+    "title": "周昭王南征",
+    "start": -980,
+    "end": -950,
+    "summary": "周王朝向汉水、长江流域扩张，昭王南征失利成为王室对外经营的重要转折。",
+    "importance": "南方政治力量始终具有自主性与复杂地域联系。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-1a95dab4b637"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前980年—公元前950年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "（一）武王克商年代",
+        "lineStart": 44941,
+        "lineEnd": 44941
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 14,
+    "id": "ann-ce-0016",
+    "title": "周穆王时期的王朝活动",
+    "start": -950,
+    "end": -900,
+    "summary": "文献与金文保存王室巡行、征伐及法制传统，后世又加入西行等富于想象的叙事。",
+    "importance": "区分同时代铭文与后起传说的证据层次。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-f17dca6912ec"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前950年—公元前900年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "前言",
+        "lineStart": 44850,
+        "lineEnd": 44850
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 15,
+    "id": "ann-ce-0017",
+    "title": "西周土地关系变动",
+    "start": -900,
+    "end": -850,
+    "summary": "部分青铜铭文记载土地交换和赔偿，反映贵族地产关系与王室资源配置出现变化。",
+    "importance": "制度史不能只用静态的井田模式概括。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前900年—公元前850年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "前言",
+        "lineStart": 44846,
+        "lineEnd": 44846
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 16,
+    "id": "ann-ce-0018",
+    "title": "国人暴动与共和行政",
+    "start": -841,
+    "end": -841,
+    "summary": "周厉王被逐后出现共和行政，中国传统编年自此进入较有连续性的纪年阶段。",
+    "importance": "王权受到王畿政治力量制约。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-liwang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前841年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "三 西周的年代问题",
+        "lineStart": 44937,
+        "lineEnd": 44937
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 17,
+    "id": "ann-ce-0019",
+    "title": "宣王时期恢复王室活动",
+    "start": -827,
+    "end": -827,
+    "summary": "周宣王时期对外征伐与王室经营重新活跃，但资源和诸侯关系的结构问题仍在。",
+    "importance": "所谓中兴没有根除西周后期危机。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-xuanwang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前827年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "前言",
+        "lineStart": 44846,
+        "lineEnd": 44846
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 18,
+    "id": "ann-ce-0020",
+    "title": "千亩之战",
+    "start": -789,
+    "end": -789,
+    "summary": "周宣王对姜戎的军事行动失败，王室在西部的兵力与号召力遭受进一步损耗。",
+    "importance": "显示西周晚期对边地控制的困难。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-xuanwang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前789年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "前言",
+        "lineStart": 44846,
+        "lineEnd": 44846
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  },
+  {
+    "_order": 19,
+    "id": "ann-ce-0021",
+    "title": "犬戎攻破镐京",
+    "start": -771,
+    "end": -771,
+    "summary": "申侯等与犬戎联合进攻，周幽王被杀，西周王室失去原有都邑和政治基础。",
+    "importance": "王朝中心被迫东移，诸侯势力进一步抬升。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-youwang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "公元前771年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 3,
+        "chapter": "前言",
+        "lineStart": 44826,
+        "lineEnd": 44826
+      }
+    ],
+    "periodId": "zhou",
+    "lane": "china",
+    "themeId": "zhou"
+  }
+]

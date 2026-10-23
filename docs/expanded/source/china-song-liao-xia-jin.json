@@ -1,0 +1,3971 @@
+[
+  {
+    "_order": 748,
+    "id": "ann-cl-song-liao-xia-jin-960-181",
+    "title": "宋平李筠之乱",
+    "start": 960,
+    "end": 960,
+    "summary": "李筠起兵反宋。",
+    "importance": "赵匡胤亲征平定，巩固开国政权。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhaokuangyin",
+      "ann-person-4dbe42510b79"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "960年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 749,
+    "id": "ann-cl-song-liao-xia-jin-960-182",
+    "title": "李重进反宋失败",
+    "start": 960,
+    "end": 960,
+    "summary": "扬州守将李重进反叛被平定。",
+    "importance": "宋控制淮南军镇。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-40e0322c2813"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "960年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 750,
+    "id": "ann-cl-song-liao-xia-jin-961-183",
+    "title": "杯酒释兵权传统叙述",
+    "start": 961,
+    "end": 961,
+    "summary": "宋廷逐步解除宿将禁军兵权。",
+    "importance": "宴饮细节主要出自后出记载。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhaokuangyin",
+      "ann-person-6406696521f2"
+    ],
+    "note": "此为传统纪年或后世文献记忆，非已确证年份。宋廷收束兵权有史实依据；宴饮劝退的具体过程见后出笔记，存在史料争议。",
+    "dateLabel": "传统纪年约961年",
+    "expanded": true,
+    "precision": "traditional",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 751,
+    "id": "ann-cl-song-liao-xia-jin-963-184",
+    "title": "宋吞并荆南与湖南",
+    "start": 963,
+    "end": 963,
+    "summary": "宋军借道南征夺取荆湖。",
+    "importance": "建立继续南下的通道。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-f1d5ae58f3c7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "963年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 752,
+    "id": "ann-cl-song-liao-xia-jin-965-185",
+    "title": "宋灭后蜀",
+    "start": 965,
+    "end": 965,
+    "summary": "宋军攻入成都。",
+    "importance": "孟昶投降，四川纳入宋朝统治。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-e2b3a75a06e2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "965年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 753,
+    "id": "ann-cl-song-liao-xia-jin-966-186",
+    "title": "全师雄起义被镇压",
+    "start": 966,
+    "end": 966,
+    "summary": "宋平蜀后的军民反抗遭到镇压。",
+    "importance": "蜀地统治仍须调整。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-9f6ea525ff03"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "966年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 754,
+    "id": "ann-cl-song-liao-xia-jin-968-187",
+    "title": "宋设置封桩库",
+    "start": 968,
+    "end": 968,
+    "summary": "朝廷储蓄财物作为军国储备。",
+    "importance": "强化中央财政调度。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhaokuangyin"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "968年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 755,
+    "id": "ann-cl-song-liao-xia-jin-969-188",
+    "title": "宋太祖围攻太原",
+    "start": 969,
+    "end": 969,
+    "summary": "宋军攻北汉未克。",
+    "importance": "北方统一战争遭到挫折。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhaokuangyin"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "969年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 756,
+    "id": "ann-cl-song-liao-xia-jin-971-189",
+    "title": "宋灭南汉",
+    "start": 971,
+    "end": 971,
+    "summary": "潘美率军攻取广州。",
+    "importance": "岭南纳入宋朝版图。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-41c558150d80",
+      "ann-person-5e0ab96dc656"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "971年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 757,
+    "id": "ann-cl-song-liao-xia-jin-972-190",
+    "title": "开宝藏雕印启动",
+    "start": 972,
+    "end": 972,
+    "summary": "宋廷在成都开雕大藏经。",
+    "importance": "国家支持大型佛典印刷工程。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "972年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 758,
+    "id": "ann-cl-song-liao-xia-jin-974-191",
+    "title": "宋军进攻南唐",
+    "start": 974,
+    "end": 974,
+    "summary": "宋廷发动灭南唐战争。",
+    "importance": "围攻长江防线及金陵。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-748ee28ab688"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "974年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 759,
+    "id": "ann-cl-song-liao-xia-jin-975-192",
+    "title": "宋灭南唐",
+    "start": 975,
+    "end": 975,
+    "summary": "李煜出降。",
+    "importance": "江南最重要的割据政权终结。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liyu",
+      "ann-person-748ee28ab688"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "975年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 760,
+    "id": "ann-cl-song-liao-xia-jin-976-193",
+    "title": "宋太宗即位",
+    "start": 976,
+    "end": 976,
+    "summary": "赵光义继承皇位。",
+    "importance": "继位过程留下烛影斧声等后世疑案。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhaoguangyi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "976年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 761,
+    "id": "ann-cl-song-liao-xia-jin-978-194",
+    "title": "吴越纳土归宋",
+    "start": 978,
+    "end": 978,
+    "summary": "钱俶献出两浙。",
+    "importance": "宋以较少战争代价完成东南整合。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-9179764d9042"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "978年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 762,
+    "id": "ann-cl-song-liao-xia-jin-979-196",
+    "title": "高梁河之战",
+    "start": 979,
+    "end": 979,
+    "summary": "宋军攻燕京遭辽军反击败退。",
+    "importance": "收复燕云计划受挫。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-288d6f0b5175"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "979年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 763,
+    "id": "ann-cl-song-liao-xia-jin-980-197",
+    "title": "雁门之战",
+    "start": 980,
+    "end": 980,
+    "summary": "杨业在雁门地区击败辽军。",
+    "importance": "成为北宋边防名将。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-ef507ed59b95"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "980年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 764,
+    "id": "ann-cl-song-liao-xia-jin-982-198",
+    "title": "李继迁起兵",
+    "start": 982,
+    "end": 982,
+    "summary": "党项首领反对宋直接接管夏州。",
+    "importance": "西北形成持续战争。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-be642ca939a3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "982年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 765,
+    "id": "ann-cl-song-liao-xia-jin-983-199",
+    "title": "契丹恢复旧国号",
+    "start": 983,
+    "end": 983,
+    "summary": "辽圣宗时期暂复契丹国号。",
+    "importance": "南北面官制度持续运行。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-cd6162d4fe30"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "983年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 766,
+    "id": "ann-cl-song-liao-xia-jin-986-200",
+    "title": "雍熙北伐失败",
+    "start": 986,
+    "end": 986,
+    "summary": "宋军三路攻辽失利。",
+    "importance": "杨业被俘绝食而死。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-ef507ed59b95",
+      "ann-person-748ee28ab688"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "986年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 767,
+    "id": "ann-cl-song-liao-xia-jin-993-201",
+    "title": "王小波李顺起义",
+    "start": 993,
+    "end": 993,
+    "summary": "四川茶商与农民起兵。",
+    "importance": "提出均贫富等诉求。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2ef3836687ff",
+      "ann-person-677729076949"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "993年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 768,
+    "id": "ann-cl-song-liao-xia-jin-994-202",
+    "title": "李顺建立大蜀政权",
+    "start": 994,
+    "end": 994,
+    "summary": "起义军占成都称王。",
+    "importance": "宋朝随后重兵镇压。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-677729076949"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "994年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 769,
+    "id": "ann-cl-song-liao-xia-jin-997-203",
+    "title": "宋设置十五路",
+    "start": 997,
+    "end": 997,
+    "summary": "全国路级区划调整。",
+    "importance": "中央监察和财政管理趋于制度化。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "997年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 770,
+    "id": "ann-cl-song-liao-xia-jin-1000-204",
+    "title": "王均兵变",
+    "start": 1000,
+    "end": 1000,
+    "summary": "宋军在成都发生兵变。",
+    "importance": "反映蜀地军事财政积弊。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c543e3ee1dff"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1000年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 771,
+    "id": "ann-cl-song-liao-xia-jin-1002-205",
+    "title": "李继迁攻取灵州",
+    "start": 1002,
+    "end": 1002,
+    "summary": "党项势力夺取西北重要城镇。",
+    "importance": "宋在河套的控制削弱。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-be642ca939a3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1002年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 772,
+    "id": "ann-cl-song-liao-xia-jin-1008-207",
+    "title": "宋真宗封禅",
+    "start": 1008,
+    "end": 1008,
+    "summary": "真宗借天书与泰山封禅强化政治威望。",
+    "importance": "耗费大量财政。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "songzhenzong",
+      "ann-person-1a19bfa550df"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1008年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 773,
+    "id": "ann-cl-song-liao-xia-jin-1009-208",
+    "title": "李德明营建兴州",
+    "start": 1009,
+    "end": 1009,
+    "summary": "党项统治中心向兴州转移。",
+    "importance": "为西夏建国奠定基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-da6827d6e525"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1009年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 774,
+    "id": "ann-cl-song-liao-xia-jin-1012-209",
+    "title": "推广占城稻",
+    "start": 1012,
+    "end": 1012,
+    "summary": "宋廷将早熟稻种推广至江淮南方部分地区。",
+    "importance": "改善作物安排。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1012年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 775,
+    "id": "ann-cl-song-liao-xia-jin-1023-211",
+    "title": "益州交子务设立",
+    "start": 1023,
+    "end": 1023,
+    "summary": "官府接管交子发行。",
+    "importance": "纸币由民间信用转向国家管理。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1023年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 776,
+    "id": "ann-cl-song-liao-xia-jin-1028-212",
+    "title": "元昊攻回鹘占甘州",
+    "start": 1028,
+    "end": 1028,
+    "summary": "党项扩大河西势力。",
+    "importance": "丝路绿洲政治控制发生变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liyuanhao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1028年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 777,
+    "id": "ann-cl-song-liao-xia-jin-1032-213",
+    "title": "元昊继承党项统治",
+    "start": 1032,
+    "end": 1032,
+    "summary": "李元昊承袭父位。",
+    "importance": "着手强化独立国家的制度与身份。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liyuanhao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1032年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 778,
+    "id": "ann-cl-song-liao-xia-jin-1036-214",
+    "title": "党项取得凉州",
+    "start": 1036,
+    "end": 1036,
+    "summary": "党项控制更多河西通道。",
+    "importance": "与吐蕃及宋的边境关系变化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liyuanhao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1036年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 779,
+    "id": "ann-cl-song-liao-xia-jin-1036-215",
+    "title": "西夏文字颁行",
+    "start": 1036,
+    "end": 1036,
+    "summary": "李元昊命制文字。",
+    "importance": "强化本族政治文化认同。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liyuanhao",
+      "ann-person-c90a409ce166"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1036年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 780,
+    "id": "ann-cl-song-liao-xia-jin-1038-216",
+    "title": "西夏建国",
+    "start": 1038,
+    "end": 1038,
+    "summary": "李元昊称帝建大夏。",
+    "importance": "宋夏关系转入战争阶段。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liyuanhao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1038年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 781,
+    "id": "ann-cl-song-liao-xia-jin-1040-217",
+    "title": "三川口之战",
+    "start": 1040,
+    "end": 1040,
+    "summary": "西夏击败宋军。",
+    "importance": "宋朝西北军事组织的弱点暴露。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-7fd416f74b80"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1040年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 782,
+    "id": "ann-cl-song-liao-xia-jin-1041-218",
+    "title": "好水川之战",
+    "start": 1041,
+    "end": 1041,
+    "summary": "任福所部中伏失败。",
+    "importance": "宋军损失惨重，边防震动。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-6dcff08aa4ff"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1041年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 783,
+    "id": "ann-cl-song-liao-xia-jin-1042-220",
+    "title": "定川寨之战",
+    "start": 1042,
+    "end": 1042,
+    "summary": "西夏击败葛怀敏所部。",
+    "importance": "西北战局迫使宋调整战略。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-20eef3750266"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1042年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 784,
+    "id": "ann-cl-song-liao-xia-jin-1042-219",
+    "title": "庆历增币",
+    "start": 1042,
+    "end": 1042,
+    "summary": "宋在辽军事压力下增加岁币。",
+    "importance": "维持宋辽和平格局。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2ffa9cf85d1f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1042年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 785,
+    "id": "ann-cl-song-liao-xia-jin-1044-222",
+    "title": "宋夏和议",
+    "start": 1044,
+    "end": 1044,
+    "summary": "西夏对宋称臣。",
+    "importance": "宋给予岁赐，战争暂时停止。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liyuanhao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1044年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 786,
+    "id": "ann-cl-song-liao-xia-jin-1044-223",
+    "title": "武经总要编成",
+    "start": 1044,
+    "end": 1044,
+    "summary": "官方军事百科整理兵制、器械及火药配方。",
+    "importance": "保存技术知识。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2daf6d196864"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1044年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 787,
+    "id": "ann-cl-song-liao-xia-jin-1044-210",
+    "title": "辽设上京国子监",
+    "start": 1044,
+    "end": 1044,
+    "summary": "契丹王朝发展儒学教育。",
+    "importance": "以多套制度统治不同人群。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1044年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 788,
+    "id": "ann-cl-song-liao-xia-jin-1045-224",
+    "title": "庆历新政受挫",
+    "start": 1045,
+    "end": 1045,
+    "summary": "改革派陆续离开中央。",
+    "importance": "新政多项措施被撤销。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "fanzhongyan"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1045年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 789,
+    "id": "ann-cl-song-liao-xia-jin-1048-226",
+    "title": "西夏元昊被杀",
+    "start": 1048,
+    "end": 1048,
+    "summary": "宫廷冲突导致建国君主死亡。",
+    "importance": "后党与皇室争权延续。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liyuanhao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1048年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 790,
+    "id": "ann-cl-song-liao-xia-jin-1048-225",
+    "title": "黄河商胡埽决口",
+    "start": 1048,
+    "end": 1048,
+    "summary": "黄河北流改变河道。",
+    "importance": "河北地方承担长期水患压力。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1048年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 791,
+    "id": "ann-cl-song-liao-xia-jin-1052-227",
+    "title": "侬智高起兵",
+    "start": 1052,
+    "end": 1052,
+    "summary": "岭南反宋势力攻至广州。",
+    "importance": "宋组织跨地区军事镇压。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2e1a7b91cf35"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1052年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 792,
+    "id": "ann-cl-song-liao-xia-jin-1053-228",
+    "title": "狄青平侬智高",
+    "start": 1053,
+    "end": 1053,
+    "summary": "宋军在归仁铺击败起义军。",
+    "importance": "恢复对岭南州县的控制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c42b3709b9d5",
+      "ann-person-2e1a7b91cf35"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1053年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 793,
+    "id": "ann-cl-song-liao-xia-jin-1057-229",
+    "title": "苏轼苏辙进士及第",
+    "start": 1057,
+    "end": 1057,
+    "summary": "兄弟进入士大夫政治文化网络。",
+    "importance": "后来深度参与北宋政争。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "sushi",
+      "ann-person-25cb49b7ab5d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1057年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 794,
+    "id": "ann-cl-song-liao-xia-jin-1058-230",
+    "title": "王安石上万言书",
+    "start": 1058,
+    "end": 1058,
+    "summary": "王安石系统批评财政与用人问题。",
+    "importance": "提出国家改革思路。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanganshi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1058年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 795,
+    "id": "ann-cl-song-liao-xia-jin-1063-231",
+    "title": "英宗继位与濮议前奏",
+    "start": 1063,
+    "end": 1063,
+    "summary": "皇位由旁支继承。",
+    "importance": "生父尊号问题引发政治礼制争论。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-04f558784f7d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1063年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 796,
+    "id": "ann-cl-song-liao-xia-jin-1065-232",
+    "title": "濮议激化",
+    "start": 1065,
+    "end": 1065,
+    "summary": "朝臣围绕英宗生父的尊称激烈争论。",
+    "importance": "礼制关联皇权边界。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-934156366967",
+      "simaguang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1065年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 797,
+    "id": "ann-cl-song-liao-xia-jin-1066-233",
+    "title": "契丹再改国号辽",
+    "start": 1066,
+    "end": 1066,
+    "summary": "辽道宗时期恢复大辽国号。",
+    "importance": "王朝政治文化表达继续变化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2896625e45e4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1066年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 798,
+    "id": "ann-cl-song-liao-xia-jin-1067-234",
+    "title": "宋神宗即位",
+    "start": 1067,
+    "end": 1067,
+    "summary": "新帝支持富国强兵。",
+    "importance": "王安石改革获得皇权推动。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1c6085042bf2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1067年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 799,
+    "id": "ann-cl-song-liao-xia-jin-1069-235",
+    "title": "王安石变法开始",
+    "start": 1069,
+    "end": 1069,
+    "summary": "制置三司条例司成立。",
+    "importance": "青苗等新法陆续推行。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanganshi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1069年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 800,
+    "id": "ann-cl-song-liao-xia-jin-1069-236",
+    "title": "青苗法实施",
+    "start": 1069,
+    "end": 1069,
+    "summary": "政府向农户放贷收息。",
+    "importance": "意在抑制兼并并增加财政收入。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanganshi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1069年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 801,
+    "id": "ann-cl-song-liao-xia-jin-1070-238",
+    "title": "保甲法实施",
+    "start": 1070,
+    "end": 1070,
+    "summary": "乡村居民编组训练。",
+    "importance": "国家试图加强治安与后备兵力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1070年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 802,
+    "id": "ann-cl-song-liao-xia-jin-1070-237",
+    "title": "农田水利法推行",
+    "start": 1070,
+    "end": 1070,
+    "summary": "朝廷鼓励地方兴修水利。",
+    "importance": "并建立组织与筹资办法。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanganshi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1070年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 803,
+    "id": "ann-cl-song-liao-xia-jin-1071-239",
+    "title": "免役法推行",
+    "start": 1071,
+    "end": 1071,
+    "summary": "部分差役改为纳钱雇役。",
+    "importance": "改变户等与徭役负担关系。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1071年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 804,
+    "id": "ann-cl-song-liao-xia-jin-1072-240",
+    "title": "市易法实施",
+    "start": 1072,
+    "end": 1072,
+    "summary": "国家向商人提供资金并干预市场。",
+    "importance": "商业与官营边界引发争议。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1072年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 805,
+    "id": "ann-cl-song-liao-xia-jin-1072-241",
+    "title": "熙河开边",
+    "start": 1072,
+    "end": 1072,
+    "summary": "王韶经营河湟。",
+    "importance": "宋取得西北新据点但增加军费压力。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-7c125d185452"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1072年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 806,
+    "id": "ann-cl-song-liao-xia-jin-1073-242",
+    "title": "熙宁科举改革",
+    "start": 1073,
+    "end": 1073,
+    "summary": "王安石主张经义与策论。",
+    "importance": "调整以诗赋为主的取士结构。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanganshi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1073年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 807,
+    "id": "ann-cl-song-liao-xia-jin-1074-243",
+    "title": "王安石首次罢相",
+    "start": 1074,
+    "end": 1074,
+    "summary": "旱灾与新法争论交织。",
+    "importance": "围绕新法的反对及执行问题使改革中枢发生变动；王安石次年复相。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanganshi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1074年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 808,
+    "id": "ann-cl-song-liao-xia-jin-1075-244",
+    "title": "宋越边境战争爆发",
+    "start": 1075,
+    "end": 1075,
+    "summary": "李朝军队攻宋南方州县。",
+    "importance": "宋组织反攻。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1075年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 809,
+    "id": "ann-cl-song-liao-xia-jin-1076-245",
+    "title": "王安石第二次罢相",
+    "start": 1076,
+    "end": 1076,
+    "summary": "改革派内部矛盾与皇帝疑虑叠加。",
+    "importance": "王安石离开政务中枢。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanganshi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1076年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 810,
+    "id": "ann-cl-song-liao-xia-jin-1077-246",
+    "title": "宋越停战",
+    "start": 1077,
+    "end": 1077,
+    "summary": "宋军推进至富良江后撤。",
+    "importance": "双方开始恢复边境秩序。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-ce24c2dd780a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1077年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 811,
+    "id": "ann-cl-song-liao-xia-jin-1081-247",
+    "title": "五路伐夏",
+    "start": 1081,
+    "end": 1081,
+    "summary": "宋军大举攻夏失利。",
+    "importance": "补给与多路协同问题突出。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1081年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 812,
+    "id": "ann-cl-song-liao-xia-jin-1082-248",
+    "title": "永乐城之战",
+    "start": 1082,
+    "end": 1082,
+    "summary": "宋军新筑永乐城被夏军攻破。",
+    "importance": "西北扩张受严重打击。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-ea1b5ce57339"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1082年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 813,
+    "id": "ann-cl-song-liao-xia-jin-1084-249",
+    "title": "资治通鉴成书",
+    "start": 1084,
+    "end": 1084,
+    "summary": "司马光完成编年通史。",
+    "importance": "以政治兴衰为主要叙事线索。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "simaguang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1084年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 814,
+    "id": "ann-cl-song-liao-xia-jin-1085-250",
+    "title": "元祐更化开始",
+    "start": 1085,
+    "end": 1085,
+    "summary": "哲宗年幼由太皇太后听政。",
+    "importance": "司马光等陆续废改新法。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "simaguang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1085年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 815,
+    "id": "ann-cl-song-liao-xia-jin-1088-251",
+    "title": "梦溪笔谈成书前后",
+    "start": 1088,
+    "end": 1088,
+    "summary": "沈括整理科学技术与社会见闻。",
+    "importance": "保存活字印刷等记载。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "shenkuo"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。成书非单一时点，以1088年前后作约年展示。",
+    "dateLabel": "约1088年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 816,
+    "id": "ann-cl-song-liao-xia-jin-1093-252",
+    "title": "哲宗亲政",
+    "start": 1093,
+    "end": 1093,
+    "summary": "高太后去世后哲宗重新起用新党。",
+    "importance": "新旧党争再次翻转。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2465f9bce8b3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1093年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 817,
+    "id": "ann-cl-song-liao-xia-jin-1094-253",
+    "title": "绍圣绍述",
+    "start": 1094,
+    "end": 1094,
+    "summary": "朝廷恢复部分熙宁元丰新法。",
+    "importance": "并贬逐元祐大臣。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-d728743d9dff"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1094年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 818,
+    "id": "ann-cl-song-liao-xia-jin-1097-254",
+    "title": "苏轼贬海南",
+    "start": 1097,
+    "end": 1097,
+    "summary": "苏轼被贬儋州。",
+    "importance": "其晚年写作与地方文化交流成为重要遗产。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "sushi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1097年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 819,
+    "id": "ann-cl-song-liao-xia-jin-1099-255",
+    "title": "宋取得青唐",
+    "start": 1099,
+    "end": 1099,
+    "summary": "宋军一度控制青唐。",
+    "importance": "随后因经营困难撤退。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1099年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 820,
+    "id": "ann-cl-song-liao-xia-jin-1100-256",
+    "title": "徽宗即位",
+    "start": 1100,
+    "end": 1100,
+    "summary": "赵佶继位。",
+    "importance": "宫廷艺术发展与财政政治危机并行。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-53979fc27bb2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1100年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 821,
+    "id": "ann-cl-song-liao-xia-jin-1102-257",
+    "title": "崇宁党禁",
+    "start": 1102,
+    "end": 1102,
+    "summary": "蔡京主持禁锢元祐党人。",
+    "importance": "政治派系清洗制度化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-4c2c200ba7b2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1102年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 822,
+    "id": "ann-cl-song-liao-xia-jin-1103-258",
+    "title": "营造法式刊行",
+    "start": 1103,
+    "end": 1103,
+    "summary": "李诫总结官式建筑制度。",
+    "importance": "提供材料、工限与构造规范。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-0f0ca9ddeb56"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1103年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 823,
+    "id": "ann-cl-song-liao-xia-jin-1104-259",
+    "title": "宋重新占领青唐",
+    "start": 1104,
+    "end": 1104,
+    "summary": "宋军再度经营河湟。",
+    "importance": "西北国防线与财政支出扩大。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1104年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 824,
+    "id": "ann-cl-song-liao-xia-jin-1114-260",
+    "title": "阿骨打起兵反辽",
+    "start": 1114,
+    "end": 1114,
+    "summary": "女真在东北击败辽军。",
+    "importance": "辽朝统治遭遇根本挑战。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanyanguda"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1114年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 825,
+    "id": "ann-cl-song-liao-xia-jin-1115-262",
+    "title": "护步答冈之战",
+    "start": 1115,
+    "end": 1115,
+    "summary": "金军击败辽帝亲征大军。",
+    "importance": "战争主动权进一步转移。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanyanguda"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1115年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 826,
+    "id": "ann-cl-song-liao-xia-jin-1115-261",
+    "title": "金朝建立",
+    "start": 1115,
+    "end": 1115,
+    "summary": "阿骨打称帝建金。",
+    "importance": "东北出现迅速扩张的新政权。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanyanguda"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1115年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 827,
+    "id": "ann-cl-song-liao-xia-jin-1119-263",
+    "title": "女真大字颁行",
+    "start": 1119,
+    "end": 1119,
+    "summary": "金朝创制女真文字。",
+    "importance": "建立独立的行政文化表达。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-09b3f84d2651"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1119年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 828,
+    "id": "ann-cl-song-liao-xia-jin-1120-265",
+    "title": "方腊起义",
+    "start": 1120,
+    "end": 1120,
+    "summary": "两浙民众起兵。",
+    "importance": "东南财政与社会矛盾集中爆发。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-b6b360856604"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1120年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 829,
+    "id": "ann-cl-song-liao-xia-jin-1120-264",
+    "title": "海上之盟",
+    "start": 1120,
+    "end": 1120,
+    "summary": "宋与金约定夹攻辽朝。",
+    "importance": "宋试图借此收回燕云地区。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-333ea4b4fdbb"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1120年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 830,
+    "id": "ann-cl-song-liao-xia-jin-1121-266",
+    "title": "方腊起义失败",
+    "start": 1121,
+    "end": 1121,
+    "summary": "宋军平定东南起义。",
+    "importance": "战争与征敛加重地方社会负担。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-b6b360856604"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1121年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 831,
+    "id": "ann-cl-song-liao-xia-jin-1122-267",
+    "title": "宋军攻辽受挫",
+    "start": 1122,
+    "end": 1122,
+    "summary": "童贯等进攻燕京失败。",
+    "importance": "暴露宋军战力与外交筹码不足。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-95794a9d4790"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1122年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 832,
+    "id": "ann-cl-song-liao-xia-jin-1123-268",
+    "title": "宋金交割燕京",
+    "start": 1123,
+    "end": 1123,
+    "summary": "宋付出额外代价接收部分空城。",
+    "importance": "未能实现完整收复燕云。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1123年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 833,
+    "id": "ann-cl-song-liao-xia-jin-1124-269",
+    "title": "耶律大石西走",
+    "start": 1124,
+    "end": 1124,
+    "summary": "辽贵族率部向西发展。",
+    "importance": "为西辽建立奠定基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "yelvdashi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1124年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 834,
+    "id": "ann-cl-song-liao-xia-jin-1125-270",
+    "title": "辽朝灭亡",
+    "start": 1125,
+    "end": 1125,
+    "summary": "天祚帝被金俘获。",
+    "importance": "辽在东北与华北的统治终结。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-23cb433f949f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1125年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 835,
+    "id": "ann-cl-song-liao-xia-jin-1125-271",
+    "title": "金军两路攻宋",
+    "start": 1125,
+    "end": 1125,
+    "summary": "金在灭辽后南下。",
+    "importance": "宋金联盟迅速转为全面战争。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1434e64328d1",
+      "ann-person-33fc300249b1"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1125年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 836,
+    "id": "ann-cl-song-liao-xia-jin-1126-272",
+    "title": "东京保卫战",
+    "start": 1126,
+    "end": 1126,
+    "summary": "李纲组织守城。",
+    "importance": "金军首次围汴后退兵但危机未解。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-06542d600c90"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1126年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 837,
+    "id": "ann-cl-song-liao-xia-jin-1127-274",
+    "title": "南宋建立",
+    "start": 1127,
+    "end": 1127,
+    "summary": "赵构在应天府即位。",
+    "importance": "宋朝统治中心逐渐南移。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhaogou"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1127年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 838,
+    "id": "ann-cl-song-liao-xia-jin-1127-273",
+    "title": "靖康之变",
+    "start": 1127,
+    "end": 1127,
+    "summary": "金军攻破开封。",
+    "importance": "俘徽钦二帝，北宋中央政权覆亡。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-53979fc27bb2",
+      "ann-person-bc06a5ea7671"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1127年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 839,
+    "id": "ann-cl-song-liao-xia-jin-1128-275",
+    "title": "杜充决黄河",
+    "start": 1128,
+    "end": 1128,
+    "summary": "宋将决河阻金。",
+    "importance": "造成黄河改道及长期区域生态灾难。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-153332bcc8bd"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1128年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 840,
+    "id": "ann-cl-song-liao-xia-jin-1129-276",
+    "title": "苗刘兵变",
+    "start": 1129,
+    "end": 1129,
+    "summary": "临安发生兵变迫赵构退位。",
+    "importance": "勤王军平乱后其复位。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-b4cb76393b77",
+      "ann-person-5433e6c17647"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1129年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 841,
+    "id": "ann-cl-song-liao-xia-jin-1130-278",
+    "title": "金立伪齐",
+    "start": 1130,
+    "end": 1130,
+    "summary": "刘豫被金立为齐帝。",
+    "importance": "以代理政权控制中原。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-615db7a81ebf"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1130年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 842,
+    "id": "ann-cl-song-liao-xia-jin-1130-277",
+    "title": "黄天荡之战",
+    "start": 1130,
+    "end": 1130,
+    "summary": "韩世忠阻击金军渡江。",
+    "importance": "金军随后脱困北返。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-d5cef8d12f77"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1130年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 843,
+    "id": "ann-cl-song-liao-xia-jin-1131-279",
+    "title": "和尚原之战",
+    "start": 1131,
+    "end": 1131,
+    "summary": "吴玠吴璘在川陕击败金军。",
+    "importance": "巩固入蜀屏障。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-bdc34c7f18f3",
+      "ann-person-ced4ce85759b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1131年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 9,
+        "chapter": "宋史·南宋初年川陕抗金",
+        "lineStart": 125692,
+        "lineEnd": 125692
+      }
+    ],
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 844,
+    "id": "ann-cl-song-liao-xia-jin-1134-281",
+    "title": "仙人关之战",
+    "start": 1134,
+    "end": 1134,
+    "summary": "吴玠吴璘击退金军。",
+    "importance": "稳定川陕防线。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-bdc34c7f18f3",
+      "ann-person-ced4ce85759b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1134年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 845,
+    "id": "ann-cl-song-liao-xia-jin-1134-280",
+    "title": "岳飞收复襄阳六郡",
+    "start": 1134,
+    "end": 1134,
+    "summary": "宋军夺回汉水重要防区。",
+    "importance": "形成鄂州方向军事基础。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "yuefei"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1134年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 846,
+    "id": "ann-cl-song-liao-xia-jin-1135-282",
+    "title": "金熙宗即位",
+    "start": 1135,
+    "end": 1135,
+    "summary": "金朝推进汉式官制与集权。",
+    "importance": "旧部族权力结构逐渐调整。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-6a8603f145a8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1135年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 847,
+    "id": "ann-cl-song-liao-xia-jin-1137-283",
+    "title": "金废伪齐",
+    "start": 1137,
+    "end": 1137,
+    "summary": "刘豫政权被撤销。",
+    "importance": "金直接统治中原，宋金议和条件变化。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-615db7a81ebf"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1137年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 848,
+    "id": "ann-cl-song-liao-xia-jin-1138-284",
+    "title": "宋定都临安",
+    "start": 1138,
+    "end": 1138,
+    "summary": "赵构将临安作为政治中心。",
+    "importance": "南宋南移格局趋于稳定。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhaogou"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1138年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 849,
+    "id": "ann-cl-song-liao-xia-jin-1139-285",
+    "title": "第一次宋金和议",
+    "start": 1139,
+    "end": 1139,
+    "summary": "宋接受金方条件并接收部分土地。",
+    "importance": "和议随金内争而破裂。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1139年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 850,
+    "id": "ann-cl-song-liao-xia-jin-1140-287",
+    "title": "郾城颍昌之战",
+    "start": 1140,
+    "end": 1140,
+    "summary": "岳飞部接连击败金军。",
+    "importance": "随后受命撤退。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "yuefei"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1140年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 851,
+    "id": "ann-cl-song-liao-xia-jin-1140-286",
+    "title": "顺昌之战",
+    "start": 1140,
+    "end": 1140,
+    "summary": "刘锜在顺昌击败金军。",
+    "importance": "证明南宋防御有组织反击能力。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-5ed3230235be"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1140年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 852,
+    "id": "ann-cl-song-liao-xia-jin-1141-288",
+    "title": "绍兴和议",
+    "start": 1141,
+    "end": 1141,
+    "summary": "宋金划界并确立不平等名分。",
+    "importance": "南北对峙长期化。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c0c7cc15153d",
+      "zhaogou"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1141年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 853,
+    "id": "ann-cl-song-liao-xia-jin-1142-289",
+    "title": "岳飞被杀",
+    "start": 1142,
+    "end": 1142,
+    "summary": "岳飞在和议后的政治清洗中遇害。",
+    "importance": "抗战派受到压制。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "yuefei",
+      "ann-person-c0c7cc15153d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1142年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 854,
+    "id": "ann-cl-song-liao-xia-jin-1149-291",
+    "title": "海陵王政变",
+    "start": 1149,
+    "end": 1149,
+    "summary": "完颜亮杀熙宗夺位。",
+    "importance": "开始更激进的集权与南征准备。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-21fa9b4e30ca"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1149年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 855,
+    "id": "ann-cl-song-liao-xia-jin-1153-292",
+    "title": "金迁都燕京",
+    "start": 1153,
+    "end": 1153,
+    "summary": "海陵王迁都中都。",
+    "importance": "统治重心进一步向华北移动。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-21fa9b4e30ca"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1153年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 856,
+    "id": "ann-cl-song-liao-xia-jin-1155-293",
+    "title": "秦桧去世",
+    "start": 1155,
+    "end": 1155,
+    "summary": "长期控制南宋朝政的权臣去世。",
+    "importance": "政治空间有所变化。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c0c7cc15153d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1155年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 857,
+    "id": "ann-cl-song-liao-xia-jin-1161-294",
+    "title": "海陵王南征",
+    "start": 1161,
+    "end": 1161,
+    "summary": "金大举攻宋。",
+    "importance": "采石等地受挫后海陵王在军变中被杀。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-21fa9b4e30ca",
+      "ann-person-434e28b2c8f8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1161年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 858,
+    "id": "ann-cl-song-liao-xia-jin-1161-295",
+    "title": "金世宗即位",
+    "start": 1161,
+    "end": 1161,
+    "summary": "完颜雍在辽阳称帝。",
+    "importance": "随后恢复金国内部秩序。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wanyanyong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1161年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 859,
+    "id": "ann-cl-song-liao-xia-jin-1162-296",
+    "title": "宋孝宗即位并为岳飞平反",
+    "start": 1162,
+    "end": 1162,
+    "summary": "孝宗接受内禅。",
+    "importance": "调整对金政策并恢复岳飞名誉。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-729120b3f1a4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1162年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 860,
+    "id": "ann-cl-song-liao-xia-jin-1163-297",
+    "title": "隆兴北伐",
+    "start": 1163,
+    "end": 1163,
+    "summary": "张浚主持北伐。",
+    "importance": "宋军先胜后在符离失败。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-173bf055f47e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1163年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 861,
+    "id": "ann-cl-song-liao-xia-jin-1164-298",
+    "title": "隆兴和议",
+    "start": 1164,
+    "end": 1164,
+    "summary": "宋金改变名分并调整岁币。",
+    "importance": "边境转入较长期稳定。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1164年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 862,
+    "id": "ann-cl-song-liao-xia-jin-1175-299",
+    "title": "鹅湖之会",
+    "start": 1175,
+    "end": 1175,
+    "summary": "朱熹与陆九渊讨论为学路径。",
+    "importance": "体现理学内部差异。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhuxi",
+      "ann-person-5a0d4a499eed"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1175年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 863,
+    "id": "ann-cl-song-liao-xia-jin-1180-301",
+    "title": "辛弃疾创建飞虎军",
+    "start": 1178,
+    "end": 1180,
+    "summary": "辛弃疾在湖南整顿地方军事。",
+    "importance": "体现士大夫的经世实践。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "xinqiji"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1178年—1180年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 864,
+    "id": "ann-cl-song-liao-xia-jin-1179-300",
+    "title": "朱熹重建白鹿洞书院",
+    "start": 1179,
+    "end": 1179,
+    "summary": "书院讲学与学规传播。",
+    "importance": "成为士人教育的重要范式。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhuxi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1179年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 865,
+    "id": "ann-cl-song-liao-xia-jin-1189-302",
+    "title": "金章宗即位",
+    "start": 1189,
+    "end": 1189,
+    "summary": "金朝文化与制度继续发展。",
+    "importance": "同时边防与财政问题累积。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-75b9daaf8567"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1189年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 866,
+    "id": "ann-cl-song-liao-xia-jin-1194-303",
+    "title": "绍熙内禅",
+    "start": 1194,
+    "end": 1194,
+    "summary": "赵汝愚等拥立宁宗。",
+    "importance": "韩侂胄在宫廷政局中崛起。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c5993e822fd9",
+      "ann-person-e9f7b50bb94f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1194年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 867,
+    "id": "ann-cl-song-liao-xia-jin-1194-304",
+    "title": "黄河阳武决口",
+    "start": 1194,
+    "end": 1194,
+    "summary": "河流南夺淮道的格局进一步形成。",
+    "importance": "淮河流域长期受灾。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1194年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 868,
+    "id": "ann-cl-song-liao-xia-jin-1196-305",
+    "title": "庆元党禁",
+    "start": 1196,
+    "end": 1196,
+    "summary": "韩侂胄打击理学与政敌。",
+    "importance": "朱熹等被列入伪学党籍。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-e9f7b50bb94f",
+      "zhuxi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1196年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 873,
+    "id": "ann-cl-song-liao-xia-jin-1206-306",
+    "title": "开禧北伐",
+    "start": 1206,
+    "end": 1206,
+    "summary": "韩侂胄发动对金战争。",
+    "importance": "缺乏协调而迅速陷入困境。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-e9f7b50bb94f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1206年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 875,
+    "id": "ann-cl-song-liao-xia-jin-1207-307",
+    "title": "韩侂胄被杀",
+    "start": 1207,
+    "end": 1207,
+    "summary": "史弥远等杀韩侂胄求和。",
+    "importance": "南宋权力中心转移。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-e9f7b50bb94f",
+      "ann-person-28cc5c744413"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1207年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 876,
+    "id": "ann-cl-song-liao-xia-jin-1208-308",
+    "title": "嘉定和议",
+    "start": 1208,
+    "end": 1208,
+    "summary": "宋金议和并增加岁币。",
+    "importance": "开禧北伐以政治与财政代价结束。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1208年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 880,
+    "id": "ann-cl-song-liao-xia-jin-1211-309",
+    "title": "金遭蒙古大举进攻",
+    "start": 1211,
+    "end": 1211,
+    "summary": "蒙古在野狐岭击败金军。",
+    "importance": "华北军事优势发生转移。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-06ecdf8ce27b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1211年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 881,
+    "id": "ann-cl-song-liao-xia-jin-1213-310",
+    "title": "金朝宫廷政变",
+    "start": 1213,
+    "end": 1213,
+    "summary": "胡沙虎杀金卫绍王。",
+    "importance": "金宣宗即位，战时政治继续动荡。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-208b0709a043"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1213年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 883,
+    "id": "ann-cl-song-liao-xia-jin-1214-311",
+    "title": "金迁都南京开封",
+    "start": 1214,
+    "end": 1214,
+    "summary": "金宣宗由中都南迁。",
+    "importance": "华北腹地的统治遭受重创。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-5a1771598e79"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1214年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 884,
+    "id": "ann-cl-song-liao-xia-jin-1215-312",
+    "title": "中都陷落",
+    "start": 1215,
+    "end": 1215,
+    "summary": "蒙古攻占金中都。",
+    "importance": "华北地方武装与人口流动加剧。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1215年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 887,
+    "id": "ann-cl-song-liao-xia-jin-1217-313",
+    "title": "金向南宋开战",
+    "start": 1217,
+    "end": 1217,
+    "summary": "金在蒙古压力下进攻宋境。",
+    "importance": "形成腹背受敌的战略困局。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1217年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 891,
+    "id": "ann-cl-song-liao-xia-jin-1220-314",
+    "title": "金兴定封九公",
+    "start": 1220,
+    "end": 1220,
+    "summary": "金分封河北地方武装首领。",
+    "importance": "中央依赖地方自保力量。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1220年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 895,
+    "id": "ann-cl-song-liao-xia-jin-1224-315",
+    "title": "理宗继位与济王事件",
+    "start": 1224,
+    "end": 1225,
+    "summary": "史弥远改立理宗。",
+    "importance": "赵竑后来被迫卷入起兵并死去。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-28cc5c744413",
+      "ann-person-6b8d3015e19e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1224年—1225年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 898,
+    "id": "ann-cl-song-liao-xia-jin-1227-316",
+    "title": "西夏灭亡",
+    "start": 1227,
+    "end": 1227,
+    "summary": "蒙古持续进攻后中兴府陷落。",
+    "importance": "西夏政权终结。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1227年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 902,
+    "id": "ann-cl-song-liao-xia-jin-1232-317",
+    "title": "三峰山之战",
+    "start": 1232,
+    "end": 1232,
+    "summary": "拖雷击溃金主力。",
+    "importance": "金朝已难守河南腹地。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-6077240c32fb"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1232年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 903,
+    "id": "ann-cl-song-liao-xia-jin-1233-318",
+    "title": "金哀宗离开开封",
+    "start": 1233,
+    "end": 1233,
+    "summary": "金廷退往蔡州。",
+    "importance": "开封失守，王朝进入最后阶段。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-66061b8965e9"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1233年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 904,
+    "id": "ann-cl-song-liao-xia-jin-1234-319",
+    "title": "宋蒙灭金",
+    "start": 1234,
+    "end": 1234,
+    "summary": "宋蒙联军攻破蔡州。",
+    "importance": "金亡，宋蒙直接对峙。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-dcc556b5e32a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1234年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 905,
+    "id": "ann-cl-song-liao-xia-jin-1234-320",
+    "title": "端平入洛",
+    "start": 1234,
+    "end": 1234,
+    "summary": "宋试图收复三京却受补给与蒙古反击挫败。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-f8e20706bf01"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1234年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 909,
+    "id": "ann-cl-song-liao-xia-jin-1235-321",
+    "title": "蒙古全面攻宋开始",
+    "start": 1235,
+    "end": 1235,
+    "summary": "蒙古向川陕、荆襄及淮河多线进攻。",
+    "importance": "战争长期化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1235年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 912,
+    "id": "ann-cl-song-liao-xia-jin-1239-322",
+    "title": "彭大雅筑重庆城",
+    "start": 1239,
+    "end": 1240,
+    "summary": "重庆城防得到系统加强。",
+    "importance": "川蜀抗蒙形成重要支点。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-8e85604903fe"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1239年—1240年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 917,
+    "id": "ann-cl-song-liao-xia-jin-1252-324",
+    "title": "余玠营建山城防御",
+    "start": 1243,
+    "end": 1253,
+    "summary": "南宋在四川构筑山城群。",
+    "importance": "以地形应对蒙古军机动优势。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-99135498013a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1243年—1253年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 919,
+    "id": "ann-cl-song-liao-xia-jin-1247-323",
+    "title": "凉州会谈",
+    "start": 1247,
+    "end": 1247,
+    "summary": "萨迦班智达与阔端会见。",
+    "importance": "西藏地方与蒙古政治联系加强。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-b4a324f0d1ab",
+      "ann-person-3feb3a7fdba9"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1247年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 926,
+    "id": "ann-cl-song-liao-xia-jin-1258-325",
+    "title": "蒙哥大举攻宋",
+    "start": 1258,
+    "end": 1258,
+    "summary": "蒙古主力由多路进攻宋境。",
+    "importance": "四川成为关键战场。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-bf1e653db7fa"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1258年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 927,
+    "id": "ann-cl-song-liao-xia-jin-1259-327",
+    "title": "鄂州之战",
+    "start": 1259,
+    "end": 1259,
+    "summary": "忽必烈进攻鄂州后北返争位。",
+    "importance": "宋蒙战争暂现间歇。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "khubilai"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1259年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 928,
+    "id": "ann-cl-song-liao-xia-jin-1259-326",
+    "title": "钓鱼城之战",
+    "start": 1259,
+    "end": 1259,
+    "summary": "宋军坚守合州钓鱼城。",
+    "importance": "蒙哥在围城期间去世。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-57be88e0cc10",
+      "ann-person-bf1e653db7fa"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1259年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 935,
+    "id": "ann-cl-song-liao-xia-jin-1264-328",
+    "title": "贾似道推公田法",
+    "start": 1264,
+    "end": 1264,
+    "summary": "南宋收购部分官户土地。",
+    "importance": "试图解决军费与粮食问题。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-9cde47cdaee3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1264年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 938,
+    "id": "ann-cl-song-liao-xia-jin-1268-329",
+    "title": "襄樊长期围困",
+    "start": 1268,
+    "end": 1268,
+    "summary": "元军建立围城封锁。",
+    "importance": "宋军多次救援难以突破。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1268年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 941,
+    "id": "ann-cl-song-liao-xia-jin-1272-330",
+    "title": "张顺张贵救援襄阳",
+    "start": 1272,
+    "end": 1272,
+    "summary": "宋军敢死水师强渡汉水。",
+    "importance": "突围行动未能根本解除封锁。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-8a3be45ff902",
+      "ann-person-cdbdc74edcdf"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1272年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 942,
+    "id": "ann-cl-song-liao-xia-jin-1273-331",
+    "title": "襄阳樊城失守",
+    "start": 1273,
+    "end": 1273,
+    "summary": "樊城陷落后吕文焕投降。",
+    "importance": "元军获得南下关键通道。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-6ab82d6d6fa8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1273年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 944,
+    "id": "ann-cl-song-liao-xia-jin-1275-332",
+    "title": "丁家洲之战",
+    "start": 1275,
+    "end": 1275,
+    "summary": "贾似道指挥宋军大败。",
+    "importance": "长江防线迅速崩溃。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-9cde47cdaee3",
+      "bayan"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1275年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 945,
+    "id": "ann-cl-song-liao-xia-jin-1276-333",
+    "title": "临安陷落",
+    "start": 1276,
+    "end": 1276,
+    "summary": "宋恭帝及太后出降。",
+    "importance": "南宋中央政权瓦解。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-4670f30ff6e1",
+      "ann-person-43d7b46361d7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1276年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 947,
+    "id": "ann-cl-song-liao-xia-jin-1276-334",
+    "title": "文天祥组织抗元",
+    "start": 1276,
+    "end": 1276,
+    "summary": "文天祥脱离元军控制后在东南继续组织抵抗。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wentianxiang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1276年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 949,
+    "id": "ann-cl-song-liao-xia-jin-1277-335",
+    "title": "宋端宗流亡海上",
+    "start": 1277,
+    "end": 1277,
+    "summary": "南宋残余朝廷在东南沿海迁徙。",
+    "importance": "依靠海上交通维持。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1ee49e4dc7e4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1277年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 950,
+    "id": "ann-cl-song-liao-xia-jin-1278-336",
+    "title": "文天祥被俘",
+    "start": 1278,
+    "end": 1278,
+    "summary": "文天祥在广东兵败被俘。",
+    "importance": "仍拒绝为元廷效力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "wentianxiang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1278年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  },
+  {
+    "_order": 951,
+    "id": "ann-cl-song-liao-xia-jin-1279-337",
+    "title": "崖山之战",
+    "start": 1279,
+    "end": 1279,
+    "summary": "元军击败宋末海上军队。",
+    "importance": "陆秀夫背少帝入海，南宋结束。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-6e768bb5514a",
+      "ann-person-7a0e06b43d0c"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1279年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "song-liao-xia-jin",
+    "lane": "china",
+    "themeId": "song-liao-xia-jin"
+  }
+]

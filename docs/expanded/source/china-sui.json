@@ -1,0 +1,1051 @@
+[
+  {
+    "_order": 542,
+    "id": "ann-ce-0571",
+    "title": "隋反击突厥",
+    "start": 583,
+    "end": 583,
+    "summary": "隋军反击突厥并配合分化外交，试图降低北方军事压力，为南下统一创造条件。",
+    "importance": "南北统一需要同时经营草原边疆与江南战场。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-5dd436372372"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "583年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第二节 隋代各族间经济文化联系的加强以及隋与亚洲各国的经济文化交流",
+        "lineStart": 96891,
+        "lineEnd": 96891
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 543,
+    "id": "ann-ce-0572",
+    "title": "隋整顿户籍",
+    "start": 583,
+    "end": 583,
+    "summary": "隋廷核查户口并推进输籍定样等安排，争取豪强控制的人口，提高税役登记与财政能力。",
+    "importance": "国家财政恢复依赖把隐匿人口重新纳入行政系统。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-ed8c32d2f808"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "583年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96603,
+        "lineEnd": 96603
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 544,
+    "id": "ann-ce-0574",
+    "title": "开广通渠",
+    "start": 584,
+    "end": 584,
+    "summary": "隋开通连接关中与关东水运的广通渠，缓解都城粮运压力，强化区域物资调配。",
+    "importance": "交通工程服务于首都供应和统一国家的财政运作。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuwenkai"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "584年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第三节 隋炀帝大兴土木与开凿运河",
+        "lineStart": 97075,
+        "lineEnd": 97075
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 545,
+    "id": "ann-ce-0573",
+    "title": "开皇律修订",
+    "start": 584,
+    "end": 584,
+    "summary": "隋朝继续修订法律，调整刑罚与条文，形成影响后世唐律的重要制度基础。",
+    "importance": "统一法制是在北朝法律积累上不断整合和简化的结果。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "yangjian"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "584年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 546,
+    "id": "ann-ce-0575",
+    "title": "隋调整地方行政",
+    "start": 585,
+    "end": 585,
+    "summary": "隋撤并多余州郡并调整地方层级，削减冗官，强化中央对地方任官与财政的掌握。",
+    "importance": "行政简化帮助统一前后建立较一致的治理网络。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangjian"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "585年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96559,
+        "lineEnd": 96559
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 547,
+    "id": "ann-ce-0576",
+    "title": "隋废后梁",
+    "start": 587,
+    "end": 587,
+    "summary": "隋朝吞并江陵后梁政权，进一步控制长江中游，陈朝的战略处境更加孤立。",
+    "importance": "灭陈前已完成对重要缓冲政权与交通节点的整合。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-cdc71f1174cc"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "587年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96495,
+        "lineEnd": 96495
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 548,
+    "id": "ann-ce-0577",
+    "title": "隋分路伐陈",
+    "start": 588,
+    "end": 588,
+    "summary": "隋组织多路水陆大军进攻陈朝，统筹长江上下游战场，运用长期积累的军事资源。",
+    "importance": "全国统一依靠跨地区协同与南方情报准备。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang",
+      "ann-person-94ecbae238f1",
+      "ann-person-38b0c3712c36"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "588年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96501,
+        "lineEnd": 96501
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 549,
+    "id": "ann-ce-0578",
+    "title": "隋灭陈统一南北",
+    "start": 589,
+    "end": 589,
+    "summary": "隋军攻入建康，陈后主被俘，南北长期分裂基本结束，隋开始整合江南地区。",
+    "importance": "政治统一后仍需调整税役、文化习惯与地方关系。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang",
+      "ann-person-96b9f06049bd"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "589年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96607,
+        "lineEnd": 96607
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 550,
+    "id": "ann-ce-0579",
+    "title": "江南反隋起事",
+    "start": 590,
+    "end": 590,
+    "summary": "隋统一后在江南的政策与地方社会发生冲突，多地起事，朝廷以军事与安抚重新整合。",
+    "importance": "王朝统一不代表基层社会立即接受同一行政节奏。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangsu"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "590年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第三节 隋炀帝大兴土木与开凿运河",
+        "lineStart": 97039,
+        "lineEnd": 97039
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 551,
+    "id": "ann-ce-0580",
+    "title": "隋仁寿宫营建",
+    "start": 593,
+    "end": 595,
+    "summary": "隋朝兴建宫室和相关道路，工程能力与徭役负担同时增长，朝廷内部亦有节俭与营建的张力。",
+    "importance": "大型工程应同时呈现技术、资源与社会成本。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "yangsu",
+      "yangjian"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "593年—595年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 552,
+    "id": "ann-ce-0581",
+    "title": "隋首次攻高句丽",
+    "start": 598,
+    "end": 598,
+    "summary": "隋军对高句丽用兵，受天气、疾病和后勤困难影响而退，未能取得预期成果。",
+    "importance": "远程战争需要超出军队人数之外的运输与环境条件。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-a60f72d40019"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "598年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 553,
+    "id": "ann-ce-0582",
+    "title": "隋扶持启民可汗",
+    "start": 599,
+    "end": 599,
+    "summary": "隋通过安置与支持启民可汗等安排介入突厥内部竞争，建立相对有利的北方外交格局。",
+    "importance": "帝国与草原政治保持深度互动而非简单单向臣服。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-31c8ba2ee8ab",
+      "ann-person-5dd436372372"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "599年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第二节 隋代各族间经济文化联系的加强以及隋与亚洲各国的经济文化交流",
+        "lineStart": 96921,
+        "lineEnd": 96921
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 554,
+    "id": "ann-ce-0583",
+    "title": "废太子杨勇立杨广",
+    "start": 600,
+    "end": 600,
+    "summary": "隋文帝废杨勇而立杨广，皇位继承争斗与宫廷人际网络共同影响隋朝后期政治。",
+    "importance": "制度建设较强的王朝仍难避免皇室继承中的不确定性。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-02e184732185",
+      "yangguang",
+      "ann-person-ebc2c8c396c8"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "600年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第三节 隋炀帝大兴土木与开凿运河",
+        "lineStart": 97023,
+        "lineEnd": 97023
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 555,
+    "id": "ann-ce-0584",
+    "title": "仁寿舍利塔工程",
+    "start": 601,
+    "end": 601,
+    "summary": "隋文帝在多地建舍利塔，通过佛教仪式表达王朝护持与天下统一，宗教传播结合国家动员。",
+    "importance": "统一认同既依靠行政，也借助跨地域宗教象征。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "yangjian"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "601年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 556,
+    "id": "ann-ce-0585",
+    "title": "隋炀帝即位",
+    "start": 604,
+    "end": 604,
+    "summary": "隋文帝去世后杨广即位，新朝廷转向更积极的营建、交通与对外军事行动。",
+    "importance": "长期积累的财政资源被迅速投入高强度国家工程。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "604年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第三节 隋炀帝大兴土木与开凿运河",
+        "lineStart": 97021,
+        "lineEnd": 97021
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 557,
+    "id": "ann-ce-0587",
+    "title": "开通济渠",
+    "start": 605,
+    "end": 605,
+    "summary": "隋组织开凿连接黄河与淮河的水道，完善南北粮运与巡行交通，沿线民众承担大量劳役。",
+    "importance": "大运河兼有长期交通收益与当时巨大社会成本。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "605年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第三节 隋炀帝大兴土木与开凿运河",
+        "lineStart": 97079,
+        "lineEnd": 97079
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 558,
+    "id": "ann-ce-0586",
+    "title": "营建东都洛阳",
+    "start": 605,
+    "end": 605,
+    "summary": "隋炀帝大规模营建洛阳宫城与城市设施，政治重心更加接近关东人口、粮食和交通网络。",
+    "importance": "双都格局服务于国家控制，也加重集中徭役负担。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuwenkai",
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "605年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第三节 隋炀帝大兴土木与开凿运河",
+        "lineStart": 97079,
+        "lineEnd": 97079
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 559,
+    "id": "ann-ce-0588",
+    "title": "进士科起源的传统说法",
+    "start": 606,
+    "end": 606,
+    "summary": "后世制度史通常把隋炀帝时期同进士科起源联系，但具体始置年份与制度形态仍有讨论。",
+    "importance": "科举形成应视为察举、考试和中央选官长期转型。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "后世制度史通常把隋炀帝时期同进士科起源联系，但具体始置年份与制度形态仍有讨论。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "606年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96567,
+        "lineEnd": 96567
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 560,
+    "id": "ann-ce-0589",
+    "title": "隋改州为郡与巡边",
+    "start": 607,
+    "end": 607,
+    "summary": "隋继续调整地方制度并巡视北方，以行政变更与对外展示强化皇权及统一国家意识。",
+    "importance": "制度和巡行均服务中央集权，同时需要大量资源支持。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "607年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96561,
+        "lineEnd": 96561
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 561,
+    "id": "ann-ce-0590",
+    "title": "开永济渠",
+    "start": 608,
+    "end": 608,
+    "summary": "隋开通连接黄河与河北北部的永济渠，支持北方交通与后来的高句丽战争运输。",
+    "importance": "运输网络扩展与军事战略形成直接联系。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "608年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96613,
+        "lineEnd": 96613
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 562,
+    "id": "ann-ce-0592",
+    "title": "隋击吐谷浑",
+    "start": 609,
+    "end": 609,
+    "summary": "隋军进攻吐谷浑并设置郡县，扩大对青海及西域交通的控制，但直接治理难以长期稳定。",
+    "importance": "边疆扩张需要考量地理、地方支持与国家资源限度。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "609年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第四节 隋末农民大起义与隋王朝的倾覆",
+        "lineStart": 97193,
+        "lineEnd": 97193
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 563,
+    "id": "ann-ce-0591",
+    "title": "隋炀帝西巡",
+    "start": 609,
+    "end": 609,
+    "summary": "隋炀帝西行河西，接触西域诸国使者并展示国力，贸易、外交和军事扩张相互交织。",
+    "importance": "丝路经营不仅是商品交流，也是国家威望与资源竞争。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-b755ecde1d66",
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "609年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96693,
+        "lineEnd": 96693
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 564,
+    "id": "ann-ce-0593",
+    "title": "开江南河",
+    "start": 610,
+    "end": 610,
+    "summary": "隋继续整治江南水道，形成更完整的南北交通联系，工程与巡幸推动资源集中调运。",
+    "importance": "河道网络的长远价值与建造时的劳役压力应同时呈现。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "610年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第三节 隋炀帝大兴土木与开凿运河",
+        "lineStart": 97083,
+        "lineEnd": 97083
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 565,
+    "id": "ann-ce-0594",
+    "title": "山东王薄起兵",
+    "start": 611,
+    "end": 611,
+    "summary": "山东等地灾荒与征发加重，王薄等发动反抗，隋末起义由地方生计危机迅速扩展。",
+    "importance": "高强度国家动员削弱基层社会的承受能力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-36511cb684bb"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "611年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第四节 隋末农民大起义与隋王朝的倾覆",
+        "lineStart": 97199,
+        "lineEnd": 97199
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 566,
+    "id": "ann-ce-0595",
+    "title": "第一次大规模征高句丽",
+    "start": 612,
+    "end": 612,
+    "summary": "隋军以庞大军队和运输队伍进攻高句丽，补给与指挥失误导致惨败，国家实力严重损耗。",
+    "importance": "军队数量无法弥补战略、环境和组织问题。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "yangguang",
+      "ann-person-5e46fe3af3ac",
+      "ann-person-b241d75b08d4"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "612年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 567,
+    "id": "ann-ce-0596",
+    "title": "杨玄感起兵",
+    "start": 613,
+    "end": 613,
+    "summary": "隋炀帝再次出征时杨玄感在后方反叛，虽被镇压，已显示官僚贵族内部支持动摇。",
+    "importance": "社会起义之外，统治集团自身也开始瓦解。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-0b43f2792fe9",
+      "limi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "613年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第四节 隋末农民大起义与隋王朝的倾覆",
+        "lineStart": 97187,
+        "lineEnd": 97187
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 568,
+    "id": "ann-ce-0597",
+    "title": "隋第三次攻高句丽",
+    "start": 614,
+    "end": 614,
+    "summary": "隋再度出兵后因国内危机等因素议和撤军，连续战争未能建立稳定的战略成果。",
+    "importance": "反复失败使王朝财政、兵源与政治威信同时衰弱。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "614年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 569,
+    "id": "ann-ce-0598",
+    "title": "雁门之围",
+    "start": 615,
+    "end": 615,
+    "summary": "突厥始毕可汗围困隋炀帝，隋廷仓促调兵解围，北方外交优势转为严重安全危机。",
+    "importance": "对外强势形象在内外压力叠加时迅速崩解。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang",
+      "ann-person-de20aff6f7ca"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "615年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第二节 隋代各族间经济文化联系的加强以及隋与亚洲各国的经济文化交流",
+        "lineStart": 96929,
+        "lineEnd": 96929
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 570,
+    "id": "ann-ce-0599",
+    "title": "隋炀帝赴江都",
+    "start": 616,
+    "end": 616,
+    "summary": "隋炀帝离开北方政治中心前往江都，地方武装继续扩张，中央对全国局势控制更弱。",
+    "importance": "都城、军队与皇帝位置的分离加重国家指挥失灵。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yangguang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "616年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96687,
+        "lineEnd": 96687
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 571,
+    "id": "ann-ce-0601",
+    "title": "李渊太原起兵",
+    "start": 617,
+    "end": 617,
+    "summary": "李渊利用太原军政资源起兵，进入关中并拥立隋室皇帝，逐步建立独立政治基础。",
+    "importance": "唐朝兴起是隋末多方军事竞争中的一条发展路径。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liyuan",
+      "tang-taizong"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "617年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第一节 隋前期的政治与经济",
+        "lineStart": 96463,
+        "lineEnd": 96463
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 572,
+    "id": "ann-ce-0600",
+    "title": "瓦岗军发展与李密掌权",
+    "start": 617,
+    "end": 617,
+    "summary": "瓦岗军攻取重要粮仓并扩大群众基础，李密成为主要领袖，隋末形成多支竞争政权。",
+    "importance": "粮食和地方组织决定起义军能否发展为国家力量。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-7e980102fda6",
+      "limi"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "617年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "第四节 隋末农民大起义与隋王朝的倾覆",
+        "lineStart": 97329,
+        "lineEnd": 97329
+      }
+    ],
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  },
+  {
+    "_order": 574,
+    "id": "ann-ce-0602",
+    "title": "江都兵变与隋朝覆亡",
+    "start": 618,
+    "end": 618,
+    "summary": "宇文化及等发动兵变杀死隋炀帝，隋朝中央统治结束，各地战争仍持续，唐朝开始建立。",
+    "importance": "王朝结束与全国重新统一并非同一时间节点。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "yangguang",
+      "ann-person-c16ddeab0f09",
+      "liyuan"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "618年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "sui",
+    "lane": "china",
+    "themeId": "sui"
+  }
+]

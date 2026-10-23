@@ -1,0 +1,2972 @@
+[
+  {
+    "_order": 2,
+    "id": "ann-chron-world-southeast-asia-0758",
+    "title": "东南亚稻作与青铜工艺扩展",
+    "start": -2000,
+    "end": -1000,
+    "summary": "农业聚落、金属生产和区域交换逐渐发展，各地时间与技术路线存在差异。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前2000年—公元前1000年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 68,
+    "id": "ann-chron-world-southeast-asia-0759",
+    "title": "东山铜鼓传统发展",
+    "start": -600,
+    "end": 200,
+    "summary": "越南北部及周边铜鼓表现船、武士与仪式，礼器流通连接多个地方社会。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前600年—200年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 84,
+    "id": "ann-chron-world-southeast-asia-0760",
+    "title": "沙黄文化墓葬与海贸",
+    "start": -500,
+    "end": 200,
+    "summary": "越南中部瓮棺和饰品显示区域航海联系，不能直接等同后来的单一族群国家。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前500年—200年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 169,
+    "id": "ann-chron-world-southeast-asia-0761",
+    "title": "征氏姐妹反抗被镇压",
+    "start": 43,
+    "end": 43,
+    "summary": "交趾地方起事失败，反抗记忆后来成为越南历史与性别文化的重要象征。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-65ad94aeabd3",
+      "ann-person-6b1faf834c93"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "43年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 180,
+    "id": "ann-chron-world-southeast-asia-0762",
+    "title": "扶南港市网络形成",
+    "start": 100,
+    "end": 300,
+    "summary": "湄公河下游城镇连接印度洋和南海，贸易、宗教与地方首领共同推动国家发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "100年—300年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 190,
+    "id": "ann-chron-world-southeast-asia-0763",
+    "title": "林邑建立传统纪年",
+    "start": 192,
+    "end": 192,
+    "summary": "汉文记载地方首领起事建国，早期林邑与后来占婆之间关系仍需谨慎区分。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "192年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 203,
+    "id": "ann-chron-world-southeast-asia-0764",
+    "title": "东加里曼丹库台铭文",
+    "start": 300,
+    "end": 300,
+    "summary": "梵语祭祀碑文反映地方王权与婆罗门宗教结合，具体年代依据古文字推定。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约300年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 226,
+    "id": "ann-chron-world-southeast-asia-0765",
+    "title": "爪哇达鲁马王国铭文",
+    "start": 400,
+    "end": 400,
+    "summary": "王室以梵语和宗教象征记录功绩，灌溉与农业整合成为政治表达的一部分。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约400年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 244,
+    "id": "ann-chron-world-southeast-asia-0766",
+    "title": "真腊地方势力增长",
+    "start": 500,
+    "end": 500,
+    "summary": "湄公河流域多个权力中心相互竞争，国家形成与印度文化本地化同步展开。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约500年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 258,
+    "id": "ann-chron-world-southeast-asia-0767",
+    "title": "骠国城市网络发展",
+    "start": 550,
+    "end": 650,
+    "summary": "缅甸中部城镇通过城墙、寺院和铭文构建地方政治及佛教生活。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "550年—650年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 265,
+    "id": "ann-chron-world-southeast-asia-0768",
+    "title": "堕罗钵底文化发展",
+    "start": 600,
+    "end": 600,
+    "summary": "湄南河流域孟语社会形成佛教造像与城镇传统，诸中心并非统一王朝。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约600年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 272,
+    "id": "ann-chron-world-southeast-asia-0769",
+    "title": "真腊伊奢那跋摩一世统治前后",
+    "start": 612,
+    "end": 612,
+    "summary": "桑波坡雷古城寺庙群体现早期高棉王权、城市与宗教建筑的结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。活动或著作形成的约略纪年，不能理解为确定的单一发生年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约612年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 289,
+    "id": "ann-chron-world-southeast-asia-0770",
+    "title": "室利佛逝海上势力兴起",
+    "start": 650,
+    "end": 650,
+    "summary": "苏门答腊港口统治者连接马六甲海峡商路，佛教僧侣和海商共同构成跨海网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约650年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 298,
+    "id": "ann-chron-world-southeast-asia-0771",
+    "title": "义净抵达室利佛逝",
+    "start": 671,
+    "end": 671,
+    "summary": "求法僧在港口学习梵语与佛教，为研究南海航路和寺院教育留下记录。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-4e381f3f5bac"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "671年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 315,
+    "id": "ann-chron-world-southeast-asia-0772",
+    "title": "爪哇章加尔碑立成",
+    "start": 732,
+    "end": 732,
+    "summary": "桑阇耶王权以梵语宗教铭文宣示统治，爪哇中部政治和寺院文化逐渐繁荣。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "732年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 316,
+    "id": "ann-chron-world-southeast-asia-0773",
+    "title": "婆罗浮屠逐步建成",
+    "start": 750,
+    "end": 850,
+    "summary": "石刻长廊与佛教宇宙观相结合，宏大工程依赖地方农业与工匠组织。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "750年—850年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 337,
+    "id": "ann-chron-world-southeast-asia-0774",
+    "title": "吴哥王权形成标志",
+    "start": 802,
+    "end": 802,
+    "summary": "阇耶跋摩二世的王室仪式成为后世建国记忆，实际政治整合持续更长时间。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-jayavarman2"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "802年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 345,
+    "id": "ann-chron-world-southeast-asia-0775",
+    "title": "普兰巴南寺庙群营建",
+    "start": 850,
+    "end": 850,
+    "summary": "湿婆神庙和叙事浮雕展现爪哇王室赞助，印度教与佛教文化并存。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约850年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 353,
+    "id": "ann-chron-world-southeast-asia-0776",
+    "title": "因陀罗跋摩一世即位",
+    "start": 877,
+    "end": 877,
+    "summary": "高棉水利与寺庙建设推进，王室通过工程、祭祀和祖先崇拜整合地方资源。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "877年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 355,
+    "id": "ann-chron-world-southeast-asia-0777",
+    "title": "耶输跋摩一世即位",
+    "start": 889,
+    "end": 889,
+    "summary": "吴哥地区新都与水库建设展开，城市空间和宗教山岳象征相互结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "889年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 360,
+    "id": "ann-chron-world-southeast-asia-0778",
+    "title": "拉古纳铜板铭文",
+    "start": 900,
+    "end": 900,
+    "summary": "菲律宾出土法律文书反映债务、身份与海上语言网络，是区域早期文字史的重要材料。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "900年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 361,
+    "id": "ann-chron-world-southeast-asia-0779",
+    "title": "巴厘岛布兰琼碑",
+    "start": 907,
+    "end": 907,
+    "summary": "王室铭文以多种书写传统表达权威，岛屿社会与爪哇及印度洋文化保持联系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "907年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 369,
+    "id": "ann-chron-world-southeast-asia-0780",
+    "title": "吴权获白藤江胜利后称王",
+    "start": 939,
+    "end": 939,
+    "summary": "越南地方政权巩固自主，南汉军事干预失败推动北部王权整合。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-ngoquyen"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "939年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 377,
+    "id": "ann-chron-world-southeast-asia-0781",
+    "title": "丁部领建立大瞿越",
+    "start": 968,
+    "end": 968,
+    "summary": "地方割据被整合，华闾成为政治中心，独立王权开始构建新的外交和行政秩序。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-5294ca0b132b"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "968年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 381,
+    "id": "ann-chron-world-southeast-asia-0782",
+    "title": "黎桓抵抗宋军",
+    "start": 981,
+    "end": 981,
+    "summary": "大瞿越维持自主统治，战争与此后的朝贡外交共同塑造中越关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-739817e3b2e9"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "981年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 391,
+    "id": "ann-chron-world-southeast-asia-0783",
+    "title": "越南李朝建立",
+    "start": 1009,
+    "end": 1009,
+    "summary": "李公蕴取得王位，佛教、官僚与王室礼制共同支撑新的统治秩序。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-6ccae276dc9d"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1009年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 397,
+    "id": "ann-chron-world-southeast-asia-0785",
+    "title": "爱尔朗加在爪哇掌权",
+    "start": 1019,
+    "end": 1019,
+    "summary": "王国在战争后恢复，农业、水利和宗教赞助支持东爪哇政治重建。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-9da90bfe5a23"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1019年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 399,
+    "id": "ann-chron-world-southeast-asia-0786",
+    "title": "朱罗袭击室利佛逝",
+    "start": 1025,
+    "end": 1025,
+    "summary": "南印度海军远征港口，冲击海峡权力但未永久终止既有贸易网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1025年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 404,
+    "id": "ann-chron-world-southeast-asia-0787",
+    "title": "阿奴律陀成为蒲甘国王",
+    "start": 1044,
+    "end": 1044,
+    "summary": "王权扩张与上座部佛教传播相互结合，缅甸中部寺塔和农业体系发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-eb22c6cce236"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1044年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 410,
+    "id": "ann-chron-world-southeast-asia-0788",
+    "title": "蒲甘攻陷直通的传统叙事",
+    "start": 1057,
+    "end": 1057,
+    "summary": "后世史书将佛典、僧侣和工匠转移系于征服，具体史实与年代仍有争论。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1057年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 416,
+    "id": "ann-chron-world-southeast-asia-0789",
+    "title": "李朝进攻宋境",
+    "start": 1075,
+    "end": 1075,
+    "summary": "边境争执升级为战争，次年宋军反攻后双方通过谈判重新稳定关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-2e6c29fb4e44"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1075年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 429,
+    "id": "ann-chron-world-southeast-asia-0791",
+    "title": "吴哥窟主要工程建设",
+    "start": 1113,
+    "end": 1150,
+    "summary": "护城河、中央高塔与史诗浮雕组织宗教空间，显示高棉工程和艺术能力。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1113年—1150年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 430,
+    "id": "ann-chron-world-southeast-asia-0790",
+    "title": "苏利耶跋摩二世即位",
+    "start": 1113,
+    "end": 1113,
+    "summary": "吴哥王权重新整合，吴哥窟营建以建筑与浮雕表达毗湿奴信仰和王权。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "wp-suryavarman2"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1113年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 445,
+    "id": "ann-chron-world-southeast-asia-0792",
+    "title": "占婆军队攻入吴哥",
+    "start": 1177,
+    "end": 1177,
+    "summary": "高棉王都遭重创，阇耶跋摩七世随后以军事与宗教重建整合国家。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1177年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 447,
+    "id": "ann-chron-world-southeast-asia-0793",
+    "title": "阇耶跋摩七世即位",
+    "start": 1181,
+    "end": 1181,
+    "summary": "大乘佛教、医院、道路和吴哥通王城建设成为其王权的重要表达。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "wp-jayavarman7"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1181年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 467,
+    "id": "ann-chron-world-southeast-asia-0794",
+    "title": "新柯沙里建立",
+    "start": 1222,
+    "end": 1222,
+    "summary": "肯·阿洛克在东爪哇掌权，区域竞争和海上交往持续塑造岛屿政治。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1222年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 468,
+    "id": "ann-chron-world-southeast-asia-0795",
+    "title": "越南陈朝建立",
+    "start": 1225,
+    "end": 1225,
+    "summary": "陈氏通过婚姻与宫廷权力更替接掌国家，强化农业、军事和宗族组织。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1225年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 475,
+    "id": "ann-chron-world-southeast-asia-0796",
+    "title": "素可泰王权形成",
+    "start": 1238,
+    "end": 1238,
+    "summary": "泰语统治集团逐步独立于高棉势力，具体建国纪年带有后世整理性质。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1238年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 482,
+    "id": "ann-chron-world-southeast-asia-0797",
+    "title": "蒙古首次进攻大越",
+    "start": 1258,
+    "end": 1258,
+    "summary": "陈朝军队与元蒙交战后采取战斗与外交并行策略，维持实际自主。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1258年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 491,
+    "id": "ann-chron-world-southeast-asia-0798",
+    "title": "新柯沙里派兵远征苏门答腊",
+    "start": 1275,
+    "end": 1275,
+    "summary": "爪哇王权试图扩大海上影响，港口联盟和陆海竞争相互交织。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1275年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 494,
+    "id": "ann-chron-world-southeast-asia-0799",
+    "title": "兰甘亨碑传统纪年",
+    "start": 1283,
+    "end": 1283,
+    "summary": "碑文描述素可泰社会与文字，真实性和叙述解释存在学术争论。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "wp-ramkhamhaeng"
+    ],
+    "note": "本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1283年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 496,
+    "id": "ann-chron-world-southeast-asia-0800",
+    "title": "元军再次入侵大越",
+    "start": 1285,
+    "end": 1285,
+    "summary": "陈朝以机动和补给战抵抗，大规模战争凸显地形与地方动员的作用。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-2d47b842c63b"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1285年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 497,
+    "id": "ann-chron-world-southeast-asia-0801",
+    "title": "蒲甘王权衰落",
+    "start": 1287,
+    "end": 1287,
+    "summary": "蒙古压力与内部财政政治矛盾交织，寺院土地和地方势力改变王权基础。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1287年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 498,
+    "id": "ann-chron-world-southeast-asia-0802",
+    "title": "白藤江战役",
+    "start": 1288,
+    "end": 1288,
+    "summary": "陈朝利用潮汐与河道伏击元军舰队，战争后以外交安排维持国家自主。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-2d47b842c63b"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1288年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 500,
+    "id": "ann-chron-world-southeast-asia-0803",
+    "title": "满者伯夷建立",
+    "start": 1293,
+    "end": 1293,
+    "summary": "罗登·韦查耶利用元军介入与地方联盟建国，东爪哇成为新的政治中心。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1293年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 503,
+    "id": "ann-chron-world-southeast-asia-0804",
+    "title": "周达观到达真腊",
+    "start": 1296,
+    "end": 1296,
+    "summary": "旅行记录描绘吴哥城市、风俗和市场，提供宫殿碑文之外的社会观察。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-acb94dc77616"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1296年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 505,
+    "id": "ann-chron-world-southeast-asia-0805",
+    "title": "马立克·萨利赫墓碑纪年",
+    "start": 1297,
+    "end": 1297,
+    "summary": "苏门答腊巴赛的伊斯兰王权获得实物证据，宗教传播与海商网络相互结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1297年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 517,
+    "id": "ann-chron-world-southeast-asia-0806",
+    "title": "加查·马达掌握满者伯夷政务",
+    "start": 1331,
+    "end": 1331,
+    "summary": "首相通过征服和联盟扩大影响，群岛统一形象需与实际控制层次区分。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "wp-gajahmada"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1331年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 526,
+    "id": "ann-chron-world-southeast-asia-0807",
+    "title": "阿瑜陀耶王国建立",
+    "start": 1351,
+    "end": 1351,
+    "summary": "湄南河下游新都连接农业与国际贸易，逐渐成为大陆东南亚主要强权。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1351年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 527,
+    "id": "ann-chron-world-southeast-asia-0808",
+    "title": "澜沧王国建立",
+    "start": 1353,
+    "end": 1353,
+    "summary": "法昂整合湄公河流域势力，佛教、婚姻联盟与地方首领关系支持新王权。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-9e9c8e0e6e7c"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1353年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 532,
+    "id": "ann-chron-world-southeast-asia-0809",
+    "title": "《爪哇史颂》写成",
+    "start": 1365,
+    "end": 1365,
+    "summary": "普拉班扎歌颂满者伯夷宫廷、领地与仪式，文本反映政治理想而非现代国界。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1",
+      "chron-world-met-sea"
+    ],
+    "personIds": [
+      "ann-person-93771c165950"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1365年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 547,
+    "id": "ann-chron-world-southeast-asia-0811",
+    "title": "越南胡朝建立",
+    "start": 1400,
+    "end": 1400,
+    "summary": "胡季犛推行财政、教育和货币改革，王朝更替与明朝干预随后引发战争。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-a873125f293a"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1400年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 548,
+    "id": "ann-chron-world-southeast-asia-0810",
+    "title": "马六甲崛起",
+    "start": 1400,
+    "end": 1400,
+    "summary": "海峡港口吸纳商人和移民，王室逐步接受伊斯兰并借外交维持贸易地位。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1400年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 553,
+    "id": "ann-chron-world-southeast-asia-0812",
+    "title": "明朝占领大越",
+    "start": 1407,
+    "end": 1407,
+    "summary": "胡朝战败，直接统治引发持续反抗，行政与文化政策成为冲突焦点。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1407年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 560,
+    "id": "ann-chron-world-southeast-asia-0813",
+    "title": "蓝山起义开始",
+    "start": 1418,
+    "end": 1418,
+    "summary": "黎利组织反明力量，以地方联盟和军事行动逐步扩大抗争。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-3a41a188fcb2",
+      "ann-person-8a6f28c54ddf"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1418年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 562,
+    "id": "ann-chron-world-southeast-asia-0814",
+    "title": "后黎朝建立",
+    "start": 1428,
+    "end": 1428,
+    "summary": "明军撤出后黎利称帝，国家恢复自主并重建行政、土地与外交秩序。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1428年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 565,
+    "id": "ann-chron-world-southeast-asia-0815",
+    "title": "吴哥受阿瑜陀耶攻击",
+    "start": 1431,
+    "end": 1431,
+    "summary": "王室中心逐渐向南迁移，城市转型涉及战争、贸易与环境变化等多重因素。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1431年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 577,
+    "id": "ann-chron-world-southeast-asia-0816",
+    "title": "黎圣宗即位",
+    "start": 1460,
+    "end": 1460,
+    "summary": "大越强化儒家官僚、法律和军队，土地与地方行政制度进一步系统化。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-6fcdfde4f6a6"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1460年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 583,
+    "id": "ann-chron-world-southeast-asia-0817",
+    "title": "大越攻占占婆都城",
+    "start": 1471,
+    "end": 1471,
+    "summary": "越南势力向南扩张，占婆国家缩小但其社群和文化仍继续存在。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1471年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 615,
+    "id": "ann-chron-world-southeast-asia-0819",
+    "title": "麦哲伦抵达菲律宾并战死",
+    "start": 1521,
+    "end": 1521,
+    "summary": "跨洋远征进入群岛，本地领袖拉普拉普抵抗，接触并不等同立即殖民。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-4cf8c9aaf523",
+      "ann-person-8a6d102500dd"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1521年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 620,
+    "id": "ann-chron-world-southeast-asia-0820",
+    "title": "德马克控制巽他格拉巴",
+    "start": 1527,
+    "end": 1527,
+    "summary": "爪哇北岸伊斯兰港口势力扩大，内陆王权和海上贸易关系继续变化。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1527年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 625,
+    "id": "ann-chron-world-southeast-asia-0821",
+    "title": "东吁王朝开始扩张",
+    "start": 1531,
+    "end": 1531,
+    "summary": "缅甸王权重新整合中部和沿海地区，军事与贸易资源共同支持复兴。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1531年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 652,
+    "id": "ann-chron-world-southeast-asia-0822",
+    "title": "西班牙在宿务建立殖民据点",
+    "start": 1565,
+    "end": 1565,
+    "summary": "黎牙实比开启持续殖民统治，教会、港口贸易和地方首领逐渐纳入新秩序。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-6df561a1e019"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1565年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 657,
+    "id": "ann-chron-world-southeast-asia-0823",
+    "title": "缅甸攻占阿瑜陀耶",
+    "start": 1569,
+    "end": 1569,
+    "summary": "东吁军事优势迫使暹罗臣服，但地方王权随后寻求恢复独立。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1569年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 660,
+    "id": "ann-chron-world-southeast-asia-0824",
+    "title": "西班牙建立马尼拉殖民中心",
+    "start": 1571,
+    "end": 1571,
+    "summary": "城市连接美洲白银、东亚商品与菲律宾社会，大帆船贸易形成跨太平洋网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1571年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 671,
+    "id": "ann-chron-world-southeast-asia-0825",
+    "title": "纳黎萱争取暹罗独立",
+    "start": 1584,
+    "end": 1584,
+    "summary": "阿瑜陀耶摆脱缅甸控制的战争展开，王权和地方军事力量重新整合。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-fc65f62a0671"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1584年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 678,
+    "id": "ann-chron-world-southeast-asia-0826",
+    "title": "纳黎萱取得重要军事胜利",
+    "start": 1593,
+    "end": 1593,
+    "summary": "暹罗与缅甸长期交战，王室英雄叙事与具体战场细节应谨慎区分。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1593年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 686,
+    "id": "ann-chron-world-southeast-asia-0827",
+    "title": "荷兰东印度公司进入亚洲竞争",
+    "start": 1602,
+    "end": 1602,
+    "summary": "公司以股份资本和武装商站介入群岛，垄断贸易与殖民统治逐步扩张。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1602年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 704,
+    "id": "ann-chron-world-southeast-asia-0828",
+    "title": "荷兰建立巴达维亚",
+    "start": 1619,
+    "end": 1619,
+    "summary": "占领雅加达后建设公司总部，城市依靠移民、强制劳动和海上贸易发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1619年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 708,
+    "id": "ann-chron-world-southeast-asia-0829",
+    "title": "班达群岛殖民暴力",
+    "start": 1621,
+    "end": 1621,
+    "summary": "荷兰为控制肉豆蔻贸易实施屠杀、驱逐和奴役，香料垄断建立在强制之上。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1621年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 712,
+    "id": "ann-chron-world-southeast-asia-0830",
+    "title": "郑阮战争爆发",
+    "start": 1627,
+    "end": 1627,
+    "summary": "越南北部郑氏与南部阮氏争夺，长期分裂改变军事、土地开发和区域文化。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1627年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 728,
+    "id": "ann-chron-world-southeast-asia-0831",
+    "title": "荷兰攻占马六甲",
+    "start": 1641,
+    "end": 1641,
+    "summary": "葡萄牙据点易手，但海峡贸易继续由多个港口竞争和分流。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1641年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 746,
+    "id": "ann-chron-world-southeast-asia-0832",
+    "title": "《蓬加亚条约》",
+    "start": 1667,
+    "end": 1667,
+    "summary": "荷兰击败望加锡，限制其自由贸易，群岛商业自主空间受到公司垄断挤压。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1667年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 756,
+    "id": "ann-chron-world-southeast-asia-0833",
+    "title": "暹罗宫廷政变",
+    "start": 1688,
+    "end": 1688,
+    "summary": "那莱王去世前后权力更替，法国军事影响被排除，对外贸易并未完全中断。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1688年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 792,
+    "id": "ann-chron-world-southeast-asia-0834",
+    "title": "巴达维亚华人大屠杀",
+    "start": 1740,
+    "end": 1740,
+    "summary": "殖民经济危机和族群管制引发暴力，华人居民遭大规模杀害与迁移。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1740年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 798,
+    "id": "ann-chron-world-southeast-asia-0835",
+    "title": "《吉安蒂条约》",
+    "start": 1755,
+    "end": 1755,
+    "summary": "爪哇马打蓝分裂为不同王室领地，荷兰通过地方竞争扩大控制。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1755年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 801,
+    "id": "ann-chron-world-southeast-asia-0836",
+    "title": "贡榜征服勃固",
+    "start": 1757,
+    "end": 1757,
+    "summary": "雍籍牙统一缅甸主要地区，战争重塑孟族地区与王权的关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-33b229c41b3b"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1757年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 812,
+    "id": "ann-chron-world-southeast-asia-0837",
+    "title": "阿瑜陀耶被缅军攻陷",
+    "start": 1767,
+    "end": 1767,
+    "summary": "首都毁灭后暹罗进入短暂分裂，郑信整合力量建立吞武里王朝。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-6575f5ac5195"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1767年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 817,
+    "id": "ann-chron-world-southeast-asia-0838",
+    "title": "西山起义开始",
+    "start": 1771,
+    "end": 1771,
+    "summary": "越南中部社会反抗扩大，农民动员、地方权贵冲突和南北统一相互交织。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-2ce66541cbbd",
+      "ann-person-89f32373ad9b",
+      "ann-person-78e7952a0e3e"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1771年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 836,
+    "id": "ann-chron-world-southeast-asia-0839",
+    "title": "曼谷王朝建立",
+    "start": 1782,
+    "end": 1782,
+    "summary": "拉玛一世迁都曼谷，重建王室、佛教经典和法律秩序。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-63e1847ca274"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1782年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 847,
+    "id": "ann-chron-world-southeast-asia-0840",
+    "title": "阮惠击退清军",
+    "start": 1789,
+    "end": 1789,
+    "summary": "西山军取得玉洄、栋多胜利，随后恢复对清外交以稳定外部关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-89f32373ad9b"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1789年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 867,
+    "id": "ann-chron-world-southeast-asia-0841",
+    "title": "越南阮朝建立",
+    "start": 1802,
+    "end": 1802,
+    "summary": "阮福映战胜西山势力，以顺化为都整合南北领土和官僚制度。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-7e60efa85141"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1802年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 889,
+    "id": "ann-chron-world-southeast-asia-0842",
+    "title": "英国短暂占领爪哇",
+    "start": 1811,
+    "end": 1811,
+    "summary": "拿破仑战争扩展到群岛，莱佛士推行部分行政和土地政策调整。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-200a68a11321"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1811年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 907,
+    "id": "ann-chron-world-southeast-asia-0843",
+    "title": "英国建立新加坡据点",
+    "start": 1819,
+    "end": 1819,
+    "summary": "莱佛士与地方统治者达成协议，自由港吸引多族群移民并改变海峡贸易。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1819年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 914,
+    "id": "ann-chron-world-southeast-asia-0845",
+    "title": "第一次英缅战争",
+    "start": 1824,
+    "end": 1826,
+    "summary": "缅甸战败割地赔款，殖民军事优势与财政压力削弱王朝。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1824年—1826年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 915,
+    "id": "ann-chron-world-southeast-asia-0844",
+    "title": "英荷条约划分势力范围",
+    "start": 1824,
+    "end": 1824,
+    "summary": "殖民列强安排马来半岛与群岛权益，跨海社群被新的帝国边界分割。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1824年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 920,
+    "id": "ann-chron-world-southeast-asia-0846",
+    "title": "爪哇战争",
+    "start": 1825,
+    "end": 1830,
+    "summary": "蒂博尼哥罗领导反荷战争，土地、税收、宗教与王室矛盾共同推动反抗。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-b6ef7a7b1189"
+    ],
+    "note": "约年或阶段范围，不能理解为已知的单一发生年份。阶段范围用于表达持续过程，边界可能为约年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1825年—1830年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 934,
+    "id": "ann-chron-world-southeast-asia-0847",
+    "title": "荷属爪哇强制种植制",
+    "start": 1830,
+    "end": 1830,
+    "summary": "农民被迫生产出口作物，殖民财政获利与地方贫困、饥荒风险相互联系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1830年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 973,
+    "id": "ann-chron-world-southeast-asia-0848",
+    "title": "第二次英缅战争",
+    "start": 1852,
+    "end": 1852,
+    "summary": "英国夺取下缅甸沿海，港口和稻米出口逐渐被纳入殖民经济。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1852年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 981,
+    "id": "ann-chron-world-southeast-asia-0849",
+    "title": "暹罗《鲍林条约》",
+    "start": 1855,
+    "end": 1855,
+    "summary": "商业开放和领事裁判权限制王室经济控制，暹罗以外交调整应对殖民压力。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1855年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 991,
+    "id": "ann-chron-world-southeast-asia-0850",
+    "title": "法国进攻岘港",
+    "start": 1858,
+    "end": 1858,
+    "summary": "法西联军开启侵越战争，随后法国逐步控制南部和印度支那其他地区。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1858年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1007,
+    "id": "ann-chron-world-southeast-asia-0851",
+    "title": "柬埔寨成为法国保护国",
+    "start": 1863,
+    "end": 1863,
+    "summary": "王室以保护条约应对邻国压力，但外交与行政自主逐渐受到殖民限制。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1863年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1025,
+    "id": "ann-chron-world-southeast-asia-0852",
+    "title": "朱拉隆功即位",
+    "start": 1868,
+    "end": 1868,
+    "summary": "暹罗推动行政、税制与身份改革，以中央集权和外交在殖民竞争中维持国家。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-5368c4d658d7"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1868年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1035,
+    "id": "ann-chron-world-southeast-asia-0853",
+    "title": "亚齐战争开始",
+    "start": 1873,
+    "end": 1873,
+    "summary": "荷兰试图控制苏门答腊北端，长期抵抗显示宗教、港口与地方自主的力量。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1873年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1071,
+    "id": "ann-chron-world-southeast-asia-0854",
+    "title": "英国吞并上缅甸",
+    "start": 1885,
+    "end": 1885,
+    "summary": "贡榜王朝终结，缅甸纳入英属印度，王室、僧团和农村社会关系遭重组。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1885年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1072,
+    "id": "ann-chron-world-southeast-asia-0855",
+    "title": "越南勤王运动展开",
+    "start": 1885,
+    "end": 1885,
+    "summary": "以咸宜帝名义反抗法国，士绅和地方武装形成分散但持续的抵抗。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-e3c7f2e1b0c6"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1885年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1077,
+    "id": "ann-chron-world-southeast-asia-0856",
+    "title": "法属印度支那联邦建立",
+    "start": 1887,
+    "end": 1887,
+    "summary": "越南和柬埔寨相关领地整合为殖民行政体系，后来扩展至老挝。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1887年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1089,
+    "id": "ann-chron-world-southeast-asia-0857",
+    "title": "法暹危机",
+    "start": 1893,
+    "end": 1893,
+    "summary": "法国军事施压迫使暹罗割让湄公河以东权益，老挝地区进入法属印度支那。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1893年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1101,
+    "id": "ann-chron-world-southeast-asia-0858",
+    "title": "菲律宾革命爆发",
+    "start": 1896,
+    "end": 1896,
+    "summary": "卡蒂普南组织发动反西班牙斗争，黎刹被处死进一步激发民族政治。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-6edd8366fa95",
+      "wp-rizal"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1896年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1108,
+    "id": "ann-chron-world-southeast-asia-0859",
+    "title": "菲律宾宣布独立",
+    "start": 1898,
+    "end": 1898,
+    "summary": "阿奎纳多领导革命政府，但美西战争后美国接管殖民主张，独立未获实现。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-aguinaldo"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1898年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1110,
+    "id": "ann-chron-world-southeast-asia-0860",
+    "title": "菲美战争开始",
+    "start": 1899,
+    "end": 1899,
+    "summary": "菲律宾共和国抵抗美国占领，战争、疫病和镇压造成严重社会损失。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1899年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1116,
+    "id": "ann-chron-world-southeast-asia-0861",
+    "title": "荷兰宣布伦理政策",
+    "start": 1901,
+    "end": 1901,
+    "summary": "殖民政府以教育、灌溉和移民名义改革，实际机会有限却促进新知识阶层成长。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1901年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1126,
+    "id": "ann-chron-world-southeast-asia-0862",
+    "title": "暹罗废奴改革完成关键步骤",
+    "start": 1905,
+    "end": 1905,
+    "summary": "长期分阶段改革结束多数法定奴役关系，身份、劳动和王权行政逐渐改变。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1905年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1142,
+    "id": "ann-chron-world-southeast-asia-0863",
+    "title": "至善社成立",
+    "start": 1908,
+    "end": 1908,
+    "summary": "爪哇知识青年组织推进教育和文化改革，成为印度尼西亚民族运动的早期节点。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1908年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1153,
+    "id": "ann-chron-world-southeast-asia-0864",
+    "title": "拉玛六世组织野虎团",
+    "start": 1911,
+    "end": 1911,
+    "summary": "暹罗王权以军事和忠君教育塑造国家认同，也引起部分军人不满。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-56b2606fe7ab"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1911年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1156,
+    "id": "ann-chron-world-southeast-asia-0865",
+    "title": "伊斯兰联盟发展",
+    "start": 1912,
+    "end": 1912,
+    "summary": "爪哇商人和宗教社群扩大组织，经济抵制与群众民族政治逐渐结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1912年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "southeast-asia",
+    "regionIds": [
+      "southeast-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  }
+]

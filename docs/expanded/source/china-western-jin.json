@@ -1,0 +1,964 @@
+[
+  {
+    "_order": 374,
+    "id": "ann-ce-0395",
+    "title": "司马炎代魏建晋",
+    "start": 265,
+    "end": 265,
+    "summary": "司马炎迫使曹奂禅位，建立西晋，司马氏长期控制曹魏的过程完成制度性转换。",
+    "importance": "政权替代后仍需处理统一战争与地方权力配置。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "simayan",
+      "ann-person-9baae746e1d2"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "265年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84158,
+        "lineEnd": 84158
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 375,
+    "id": "ann-ce-0396",
+    "title": "晋初重整封国",
+    "start": 266,
+    "end": 266,
+    "summary": "西晋分封宗室诸王并配置一定军政资源，试图用皇族维系国家，改变魏末宗室弱势的教训。",
+    "importance": "强化宗室的安排后来也为诸王内战提供了条件。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "simayan"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "266年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 东魏与北齐的政治",
+        "lineStart": 90230,
+        "lineEnd": 90230
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 376,
+    "id": "ann-ce-0398",
+    "title": "晋初平定西北叛乱",
+    "start": 269,
+    "end": 269,
+    "summary": "晋军应对西北地方反抗，中央需在准备灭吴的同时处理边疆军政失衡。",
+    "importance": "全国统一前后仍存在多条互相牵制的军事战线。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-7efec55e1896"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "269年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 人民的流徙与流民起义",
+        "lineStart": 85308,
+        "lineEnd": 85308
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 377,
+    "id": "ann-ce-0397",
+    "title": "羊祜都督荆州",
+    "start": 269,
+    "end": 269,
+    "summary": "羊祜在荆州整军、屯田并经营与吴人的关系，为晋灭吴积累物质和地方政治条件。",
+    "importance": "统一战争依靠军事准备与社会争取共同推进。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-48c18b49aa7e"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "269年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84148,
+        "lineEnd": 84148
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 378,
+    "id": "ann-ce-0399",
+    "title": "秃发树机能起兵",
+    "start": 270,
+    "end": 270,
+    "summary": "西北鲜卑等力量反抗晋朝，晋军多次受挫，边疆治理与族群关系问题进一步暴露。",
+    "importance": "行政控制不能只靠军事征服和地方官吏征敛。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-1a79b629c090"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "270年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 人民的流徙与流民起义",
+        "lineStart": 85308,
+        "lineEnd": 85308
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 379,
+    "id": "ann-ce-0400",
+    "title": "步阐叛吴降晋",
+    "start": 272,
+    "end": 272,
+    "summary": "吴国西陵守将步阐投晋，晋吴争夺该战略据点，陆抗反击守住长江防线。",
+    "importance": "地方将领的选择可能引发国家级战局变化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-2e3a50b078ce",
+      "ann-person-c0219a0e560e"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "272年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 魏晋玄学与反玄学思想",
+        "lineStart": 92355,
+        "lineEnd": 92355
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 380,
+    "id": "ann-ce-0401",
+    "title": "陆抗去世",
+    "start": 274,
+    "end": 274,
+    "summary": "孙吴重要统帅陆抗去世后，长江防御协调能力下降，晋国准备统一的时机逐渐成熟。",
+    "importance": "国家防御也受关键军事人才和组织传承影响。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-c0219a0e560e"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "274年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83872,
+        "lineEnd": 83872
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 381,
+    "id": "ann-ce-0402",
+    "title": "西晋分路攻吴",
+    "start": 279,
+    "end": 279,
+    "summary": "晋军沿长江和淮河多线进攻，水军自巴蜀顺流而下，孙吴防线难以相互支援。",
+    "importance": "跨区域协同和水军建设决定最后统一战争的效率。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "duyu",
+      "wangjun-jin"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "279年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83904,
+        "lineEnd": 83904
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 382,
+    "id": "ann-ce-0404",
+    "title": "占田课田制度",
+    "start": 280,
+    "end": 280,
+    "summary": "晋廷规定不同身份的占田与课田额度，试图组织赋税及户籍，但豪强荫附依然广泛存在。",
+    "importance": "法律上的土地额度与实际土地控制须分别考察。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "simayan"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "280年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84120,
+        "lineEnd": 84120
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 383,
+    "id": "ann-ce-0405",
+    "title": "吴地士人进入晋廷",
+    "start": 280,
+    "end": 300,
+    "summary": "统一后南方士人逐步进入中央政治，但北方门第优势与地域隔阂仍影响任官及社会评价。",
+    "importance": "政治统一并不立即消除地域精英之间的不平等。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-158140e85fd6",
+      "ann-person-7cae98534f96"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "280年—300年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83910,
+        "lineEnd": 83910
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 384,
+    "id": "ann-ce-0406",
+    "title": "王恺石崇斗富的时代背景",
+    "start": 280,
+    "end": 300,
+    "summary": "晋初贵族积聚大量财富并竞逐奢侈，社会资源分配与权力特权结合，史书记述含道德批评。",
+    "importance": "贵族生活可帮助理解统一初期的社会分化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9bac041d8eb4",
+      "ann-person-c6664101fd70"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "280年—300年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 世家大族经济势力的发展与部曲佃客制度的形成",
+        "lineStart": 84387,
+        "lineEnd": 84387
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 385,
+    "id": "ann-ce-0403",
+    "title": "西晋灭吴统一",
+    "start": 280,
+    "end": 280,
+    "summary": "晋军进入建业，孙皓投降，三国长期分立结束，晋朝成为重新统一南北的王朝。",
+    "importance": "统一带来制度整合机会，也暴露区域治理与权力配置问题。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "simayan",
+      "ann-person-35360e8b6a05",
+      "wangjun-jin"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "280年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第五节 曹魏的经济与政治",
+        "lineStart": 84126,
+        "lineEnd": 84126
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 386,
+    "id": "ann-ce-0407",
+    "title": "晋武帝去世与惠帝继位",
+    "start": 290,
+    "end": 290,
+    "summary": "司马炎去世后惠帝继位，杨氏外戚与贾氏及宗室争权，中央政治迅速失去平衡。",
+    "importance": "统一政权的脆弱性在继承危机中集中暴露。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-2bad2e14b96f",
+      "ann-person-ef0fe4e66ab4",
+      "jiananfeng"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "290年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 西晋的黑暗统治与“八王之乱”",
+        "lineStart": 85192,
+        "lineEnd": 85192
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 387,
+    "id": "ann-ce-0409",
+    "title": "齐万年起兵",
+    "start": 296,
+    "end": 296,
+    "summary": "关中族群矛盾与灾荒等因素交织，齐万年领导反抗，晋廷长期用兵并引发大批流民。",
+    "importance": "内战之外的边地治理危机加速西晋社会瓦解。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-0be25b225933"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "296年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 人民的流徙与流民起义",
+        "lineStart": 85324,
+        "lineEnd": 85324
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 388,
+    "id": "ann-ce-0410",
+    "title": "江统讨论内徙问题",
+    "start": 297,
+    "end": 297,
+    "summary": "江统等针对关中局势提出处理内迁人口的主张，反映国家对族群、土地与治安关系的焦虑。",
+    "importance": "这类主张含时代偏见，不能直接视为解决问题的中性方案。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9316d56faf59"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "297年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 西、北各少数民族的内迁",
+        "lineStart": 84926,
+        "lineEnd": 84926
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 389,
+    "id": "ann-ce-0411",
+    "title": "贾后废太子",
+    "start": 299,
+    "end": 299,
+    "summary": "太子司马遹被废并被害，引发赵王司马伦等借机发动政变，皇位继承秩序遭进一步破坏。",
+    "importance": "继承危机为宗室以护君名义夺权创造条件。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "jiananfeng",
+      "ann-person-f2d77c5c20d3"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "299年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第四节 吴在东南的开发",
+        "lineStart": 83868,
+        "lineEnd": 83868
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 390,
+    "id": "ann-ce-0412",
+    "title": "赵王伦诛贾后",
+    "start": 300,
+    "end": 300,
+    "summary": "司马伦推翻贾后并控制朝政，宗室斗争由清除外戚转为直接争夺帝位。",
+    "importance": "八王之乱逐步突破宫廷政变而变为跨地区战争。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-0f0944f22647",
+      "jiananfeng"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "300年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 西晋的黑暗统治与“八王之乱”",
+        "lineStart": 85200,
+        "lineEnd": 85200
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 391,
+    "id": "ann-ce-0413",
+    "title": "司马伦称帝与诸王反攻",
+    "start": 301,
+    "end": 301,
+    "summary": "司马伦篡位后遭诸王联合推翻，惠帝复位但权力仍在宗室军事集团之间反复转移。",
+    "importance": "恢复旧帝未能恢复统一的军事与政治指挥。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-0f0944f22647",
+      "ann-person-ca5328043afa"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "301年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 西晋的黑暗统治与“八王之乱”",
+        "lineStart": 85214,
+        "lineEnd": 85214
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 392,
+    "id": "ann-ce-0414",
+    "title": "齐王冏败亡",
+    "start": 302,
+    "end": 302,
+    "summary": "司马冏执政引起其他宗室反对，长沙王等进军洛阳，中央再度陷入武装权力更替。",
+    "importance": "军队成为处理宗室政治分歧的常态工具。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-ca5328043afa",
+      "ann-person-d4222477f327"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "302年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 393,
+    "id": "ann-ce-0415",
+    "title": "李特流民起兵",
+    "start": 303,
+    "end": 303,
+    "summary": "进入蜀地的流民同当地官府冲突，李特领导起兵，西南地区逐渐脱离晋廷控制。",
+    "importance": "人口流徙与地方治理失败催生新的区域政权。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-587ba3c4c170"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "303年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 西、北各少数民族的内迁",
+        "lineStart": 85072,
+        "lineEnd": 85072
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 394,
+    "id": "ann-ce-0417",
+    "title": "李雄建立成国",
+    "start": 304,
+    "end": 304,
+    "summary": "李雄在成都建立政权，利用流民军事力量和地方支持经营巴蜀，形成独立统治中心。",
+    "importance": "西晋瓦解过程中，西南地区形成不同于北方的政治路径。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-7ac0cc997a66"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "304年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 人民的流徙与流民起义",
+        "lineStart": 85368,
+        "lineEnd": 85368
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 395,
+    "id": "ann-ce-0418",
+    "title": "东海王越控制朝廷",
+    "start": 306,
+    "end": 306,
+    "summary": "司马越在宗室内战中取得优势，但中央资源和军队体系已被严重破坏，难以恢复稳定统治。",
+    "importance": "内战胜者未必具备重建国家的能力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-5606b8fea601"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "306年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 西晋的黑暗统治与“八王之乱”",
+        "lineStart": 85252,
+        "lineEnd": 85252
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 396,
+    "id": "ann-ce-0419",
+    "title": "司马睿镇建邺",
+    "start": 307,
+    "end": 307,
+    "summary": "司马睿在王导等帮助下经营江南，争取当地士族，为后来东晋建立形成政治基础。",
+    "importance": "南渡政权依赖北方流亡精英与江南地方社会合作。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "sima-rui",
+      "wangdao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "307年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86646,
+        "lineEnd": 86646
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 397,
+    "id": "ann-ce-0420",
+    "title": "刘聪等扩大北方攻势",
+    "start": 308,
+    "end": 308,
+    "summary": "汉国军队持续向洛阳周边推进，晋朝内部无法形成统一防御，北方州郡控制不断崩解。",
+    "importance": "中央内战为新兴政权扩大军事活动打开空间。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-6231e16bc6ed",
+      "ann-person-254336b4a5e3"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "308年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第二节 西晋的黑暗统治与“八王之乱”",
+        "lineStart": 85282,
+        "lineEnd": 85282
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 398,
+    "id": "ann-ce-0421",
+    "title": "刘渊去世与汉国继承",
+    "start": 310,
+    "end": 310,
+    "summary": "刘渊死后刘聪夺取权力，汉国继续进攻晋朝，政治继承并未停止对外扩张。",
+    "importance": "北方新政权同样需要处理家族继承与军事集团关系。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuyuan",
+      "ann-person-6231e16bc6ed"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "310年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86616,
+        "lineEnd": 86616
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 399,
+    "id": "ann-ce-0422",
+    "title": "永嘉之乱",
+    "start": 311,
+    "end": 311,
+    "summary": "汉国军队攻陷洛阳并俘虏晋怀帝，大量人口南迁，西晋中央秩序遭毁灭性打击。",
+    "importance": "国家分裂与人口迁移共同改变此后南北社会。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-d33743bf31e4",
+      "ann-person-6231e16bc6ed",
+      "ann-person-254336b4a5e3"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "311年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第三节 人民的流徙与流民起义",
+        "lineStart": 85404,
+        "lineEnd": 85404
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 400,
+    "id": "ann-ce-0424",
+    "title": "晋愍帝在长安即位",
+    "start": 313,
+    "end": 313,
+    "summary": "晋朝残余力量在关中拥立愍帝，试图延续王朝，但军事与经济基础已极为薄弱。",
+    "importance": "王朝名义延续无法弥补资源与组织的实际崩溃。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-32518a3f6a58"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "313年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86670,
+        "lineEnd": 86670
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  },
+  {
+    "_order": 401,
+    "id": "ann-ce-0423",
+    "title": "祖逖组织北伐",
+    "start": 313,
+    "end": 313,
+    "summary": "南渡士人祖逖争取朝廷支持并经营河南，以军事与地方合作尝试恢复北方据点。",
+    "importance": "南北对峙中始终存在收复失地与地方自保的多重动力。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zuti"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "313年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 7,
+        "chapter": "第一节 北方世家大族的南渡与东晋王朝的建立",
+        "lineStart": 86670,
+        "lineEnd": 86670
+      }
+    ],
+    "periodId": "western-jin",
+    "lane": "china",
+    "themeId": "western-jin"
+  }
+]

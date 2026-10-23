@@ -1,0 +1,202 @@
+[
+  {
+    "_order": 2,
+    "id": "ann-ce-0003",
+    "title": "商汤灭夏的历史记忆",
+    "start": -1600,
+    "end": -1500,
+    "summary": "传世文献把商的兴起叙述为汤讨伐夏桀，具体战役细节与绝对年代难作同等确认。",
+    "importance": "商代建立需结合早商城址与后世记述。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-tang",
+      "v5-xiajie"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1600年—公元前1500年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 1,
+        "chapter": "第一节 商汤的灭夏",
+        "lineStart": 3635,
+        "lineEnd": 3635
+      }
+    ],
+    "periodId": "shang",
+    "lane": "china",
+    "themeId": "shang"
+  },
+  {
+    "_order": 3,
+    "id": "ann-ce-0004",
+    "title": "早商城邑与青铜生产",
+    "start": -1500,
+    "end": -1400,
+    "summary": "郑州等早商城址展现大型城垣与手工业作坊，青铜礼器将资源调配与贵族权力联系起来。",
+    "importance": "城邑与区域网络比单纯帝王谱系更能显示政治规模。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1500年—公元前1400年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 1,
+        "chapter": "第三节 从田野考古上看商代前期的文化（一）",
+        "lineStart": 3845,
+        "lineEnd": 3845
+      }
+    ],
+    "periodId": "shang",
+    "lane": "china",
+    "themeId": "shang"
+  },
+  {
+    "_order": 4,
+    "id": "ann-ce-0006",
+    "title": "武丁时期的商王朝",
+    "start": -1250,
+    "end": -1190,
+    "summary": "武丁时期的占卜、征战和祭祀记载较丰富，妇好等人物参与战争及王室礼仪。",
+    "importance": "甲骨文字把晚商人物与活动带入可直接考察的范围。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-wuding",
+      "fuhao"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1250年—公元前1190年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 1,
+        "chapter": "一、商汤和伊尹",
+        "lineStart": 3747,
+        "lineEnd": 3747
+      }
+    ],
+    "periodId": "shang",
+    "lane": "china",
+    "themeId": "shang"
+  },
+  {
+    "_order": 5,
+    "id": "ann-ce-0007",
+    "title": "殷墟甲骨记录王室事务",
+    "start": -1250,
+    "end": -1046,
+    "summary": "甲骨卜辞记录祭祀、征伐、田猎、农业与疾病，显示成熟文字系统及王室决策活动。",
+    "importance": "留下中国早期连续文字史料的重要组成。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1250年—公元前1046年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 1,
+        "chapter": "第三节 从田野考古上看商代前期的文化（一）",
+        "lineStart": 3845,
+        "lineEnd": 3845
+      }
+    ],
+    "periodId": "shang",
+    "lane": "china",
+    "themeId": "shang"
+  },
+  {
+    "_order": 6,
+    "id": "ann-ce-0008",
+    "title": "晚商青铜礼器体系",
+    "start": -1200,
+    "end": -1100,
+    "summary": "大型礼器的铸造依赖复杂分工和资源组织，器物纹饰与祭祖活动共同表达贵族身份。",
+    "importance": "理解青铜时代的技术成就与权力结构。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1200年—公元前1100年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 2,
+        "chapter": "第四章 殷商方国",
+        "lineStart": 19423,
+        "lineEnd": 19423
+      }
+    ],
+    "periodId": "shang",
+    "lane": "china",
+    "themeId": "shang"
+  },
+  {
+    "_order": 7,
+    "id": "ann-ce-0009",
+    "title": "周人在西部兴起",
+    "start": -1100,
+    "end": -1050,
+    "summary": "周人在关中积累政治与军事力量，并逐步吸纳盟友，形成与商对抗的区域联盟。",
+    "importance": "商周更替是长期区域关系变化的结果。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "v5-wenwang"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "约公元前1100年—公元前1050年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 1,
+        "chapter": "四、“众人”的政治待遇",
+        "lineStart": 5763,
+        "lineEnd": 5763
+      }
+    ],
+    "periodId": "shang",
+    "lane": "china",
+    "themeId": "shang"
+  }
+]

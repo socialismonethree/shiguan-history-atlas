@@ -1,0 +1,2869 @@
+[
+  {
+    "_order": 258,
+    "id": "ann-ce-0272",
+    "title": "刘秀平定铜马等部",
+    "start": 24,
+    "end": 24,
+    "summary": "刘秀在河北整合或击败多股武装，把归附力量纳入军政体系，扩大统一战争基础。",
+    "importance": "战争兼有消灭对手和重组军队人口的双重作用。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuxiu"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "24年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 文物、考古资料",
+        "lineStart": 73817,
+        "lineEnd": 73817
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 260,
+    "id": "ann-ce-0271",
+    "title": "东汉建立",
+    "start": 25,
+    "end": 25,
+    "summary": "刘秀称帝，以洛阳为政治中心逐步统一割据地区，更始与赤眉政权继续争夺关中。",
+    "importance": "汉朝名号恢复与新政治集团形成同步发生。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuxiu",
+      "v5-liuxuan"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "25年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 决定性的胜利——昆阳大捷",
+        "lineStart": 79692,
+        "lineEnd": 79692
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 261,
+    "id": "ann-ce-0273",
+    "title": "赤眉军投降",
+    "start": 27,
+    "end": 27,
+    "summary": "赤眉军在关中困境后向刘秀投降，关中主要竞争力量消失，东汉统一进程加快。",
+    "importance": "政治整合取决于军队供给、民众支持与地区控制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuxiu",
+      "v5-fanchong"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "27年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 消灭农民军，抢夺胜利果实",
+        "lineStart": 79939,
+        "lineEnd": 79939
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 262,
+    "id": "ann-ce-0274",
+    "title": "东汉控制齐鲁",
+    "start": 29,
+    "end": 29,
+    "summary": "东汉陆续平定东方割据力量，齐鲁地区回到统一政权之下，东方资源得到整合。",
+    "importance": "全国统一是多个地区先后归附与征服的过程。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuxiu",
+      "ann-person-b95ab7280700"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "29年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 消灭农民军，抢夺胜利果实",
+        "lineStart": 79955,
+        "lineEnd": 79955
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 263,
+    "id": "ann-ce-0275",
+    "title": "东汉整顿军政",
+    "start": 30,
+    "end": 36,
+    "summary": "刘秀一面推进统一，一面压缩临时军事机构，尝试把战争动员转为常态官僚治理。",
+    "importance": "统一完成需要从功臣军事网络过渡到行政秩序。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuxiu"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "30年—36年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 皇室内部的残杀",
+        "lineStart": 77386,
+        "lineEnd": 77386
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 264,
+    "id": "ann-ce-0276",
+    "title": "隗嚣集团败亡",
+    "start": 32,
+    "end": 34,
+    "summary": "东汉在陇右击败隗嚣势力，关中西部的战略威胁减少，为统一西南创造条件。",
+    "importance": "山川通道与地方豪强决定统一战争的具体路径。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-1e1e14b2aea9",
+      "liuxiu"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "32年—34年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 “新”莽王朝的覆亡",
+        "lineStart": 79744,
+        "lineEnd": 79744
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 265,
+    "id": "ann-ce-0277",
+    "title": "东汉灭公孙述",
+    "start": 36,
+    "end": 36,
+    "summary": "汉军攻入成都，公孙述政权灭亡，东汉完成对主要割据势力的统一。",
+    "importance": "战争结束后国家重点转向恢复人口与生产秩序。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-6dc4ef810ce2",
+      "ann-person-04887ea12eea",
+      "ann-person-b1d870859e99"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "36年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 削平地方割据武装",
+        "lineStart": 80052,
+        "lineEnd": 80052
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 266,
+    "id": "ann-ce-0278",
+    "title": "度田与豪强抵制",
+    "start": 39,
+    "end": 39,
+    "summary": "东汉核查土地和户口，以恢复赋税及行政依据，遭地方豪强与官吏抵制并引起冲突。",
+    "importance": "国家获取基础数据本身就是权力与利益之争。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuxiu"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "39年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 精兵简政和度田",
+        "lineStart": 80294,
+        "lineEnd": 80294
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 267,
+    "id": "ann-ce-0279",
+    "title": "交趾征氏起兵",
+    "start": 40,
+    "end": 40,
+    "summary": "征侧、征贰在交趾发动反抗，东汉随后出兵镇压，南方统治与地方社会关系紧张。",
+    "importance": "边疆纳入行政并不意味着地方政治认同立即统一。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-e39aed4f364c",
+      "ann-person-c102d980afa5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "40年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "六 羌族、蛮族和夷族",
+        "lineStart": 80617,
+        "lineEnd": 80617
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 268,
+    "id": "ann-ce-0280",
+    "title": "马援平交趾",
+    "start": 43,
+    "end": 43,
+    "summary": "马援镇压征氏起兵后加强道路、行政与驻军安排，南方交通及治理联系进一步扩展。",
+    "importance": "军事行动之后仍需长时期的制度与社会整合。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-ea4ba6e2d8e9"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "43年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 西方的动乱",
+        "lineStart": 79240,
+        "lineEnd": 79240
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 269,
+    "id": "ann-ce-0281",
+    "title": "匈奴分为南北两部",
+    "start": 48,
+    "end": 48,
+    "summary": "匈奴内部矛盾导致南北分立，南匈奴与汉建立更密切关系，北方边疆格局改变。",
+    "importance": "草原内部政治分化重塑帝国的防御和联盟选择。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-231b6f5cfc36"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "48年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 匈奴的分裂",
+        "lineStart": 80478,
+        "lineEnd": 80478
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 270,
+    "id": "ann-ce-0282",
+    "title": "南匈奴内附安置",
+    "start": 49,
+    "end": 49,
+    "summary": "东汉安排南匈奴在边地居住并承担一定军事职责，形成合作与依赖并存的边疆秩序。",
+    "importance": "人口迁入与部族组织保留影响此后数百年政治。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "49年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 军队实力的加强",
+        "lineStart": 76373,
+        "lineEnd": 76373
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 271,
+    "id": "ann-ce-0283",
+    "title": "光武帝举行封禅",
+    "start": 56,
+    "end": 56,
+    "summary": "东汉在统一与恢复后举行封禅，通过礼仪宣示王朝承续和统治正当性。",
+    "importance": "政治重建同时需要制度运行与象征秩序。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liuxiu"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "56年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 皇权和皇位的确立",
+        "lineStart": 73986,
+        "lineEnd": 73986
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 272,
+    "id": "ann-ce-0284",
+    "title": "明帝即位与中央制度延续",
+    "start": 57,
+    "end": 57,
+    "summary": "汉明帝承接光武时期的治理方向，强化官僚纪律与礼制，东汉进入相对稳定发展期。",
+    "importance": "王朝初创后的政策延续有助恢复国家运行能力。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-cab714ae3df9"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "57年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "第十四章 东汉王朝的出现",
+        "lineStart": 79767,
+        "lineEnd": 79767
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 273,
+    "id": "ann-ce-0285",
+    "title": "南宫云台功臣像",
+    "start": 60,
+    "end": 60,
+    "summary": "朝廷以图像纪念开国功臣，把军事联盟的历史转化为王朝叙事和政治伦理资源。",
+    "importance": "历史记忆通过宫廷图像塑造共同政治身份。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-cab714ae3df9"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "60年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 东汉王朝的阶级基础",
+        "lineStart": 80086,
+        "lineEnd": 80086
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 274,
+    "id": "ann-ce-0286",
+    "title": "楚王刘英奉佛的记载",
+    "start": 65,
+    "end": 65,
+    "summary": "史书保存刘英奉佛等活动的线索，显示佛教与黄老信仰在东汉上层社会已有交汇。",
+    "importance": "外来宗教传播是渐进而多途径的过程。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-11e351544863"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "65年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 对诸侯王及皇室贵族的控制",
+        "lineStart": 80346,
+        "lineEnd": 80346
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 275,
+    "id": "ann-ce-0287",
+    "title": "哀牢地区设郡",
+    "start": 69,
+    "end": 69,
+    "summary": "东汉在哀牢等西南地区设置郡县，借助地方首领归附拓展交通和政治联系。",
+    "importance": "西南治理依托朝廷与地方首领之间的合作。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "69年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "六 羌族、蛮族和夷族",
+        "lineStart": 80621,
+        "lineEnd": 80621
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 276,
+    "id": "ann-ce-0288",
+    "title": "王景治河",
+    "start": 69,
+    "end": 70,
+    "summary": "东汉组织治理黄河与汴渠，调整河道及水运，缓解长期水患与区域交通障碍。",
+    "importance": "大型公共工程联系农业恢复与国家运输体系。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-40b009c0563a"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "69年—70年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 水利事业的成就",
+        "lineStart": 80730,
+        "lineEnd": 80730
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 277,
+    "id": "ann-ce-0290",
+    "title": "班超出使西域",
+    "start": 73,
+    "end": 73,
+    "summary": "班超以使者身份进入西域，通过外交与有限军事行动争取诸国，重建汉朝影响。",
+    "importance": "边疆经营不只依靠大规模远征，也依赖地方交涉。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "banchao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "73年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 班超出使西域",
+        "lineStart": 80506,
+        "lineEnd": 80506
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 278,
+    "id": "ann-ce-0289",
+    "title": "窦固出击匈奴",
+    "start": 73,
+    "end": 73,
+    "summary": "东汉军队向西北推进并取得战果，汉廷重新加强与西域的政治军事联系。",
+    "importance": "北方安全与河西、西域通道的稳定彼此关联。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-90fae6eaecf8"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "73年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 匈奴的分裂",
+        "lineStart": 80494,
+        "lineEnd": 80494
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 279,
+    "id": "ann-ce-0291",
+    "title": "恢复西域都护",
+    "start": 74,
+    "end": 74,
+    "summary": "东汉一度恢复西域都护等机构，尝试把新建立的政治联系制度化，但局势仍反复。",
+    "importance": "行政设置的存续取决于交通、供给与地区支持。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-93439722713b"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "74年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 匈奴的分裂",
+        "lineStart": 80496,
+        "lineEnd": 80496
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 280,
+    "id": "ann-ce-0292",
+    "title": "耿恭疏勒守城",
+    "start": 75,
+    "end": 75,
+    "summary": "汉军在西域孤立据点遭围困，耿恭坚持守御后获救，反映远方驻军的补给风险。",
+    "importance": "边疆扩展的实际成本体现在具体驻点与士兵生存。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-2f52b4d8af49"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "75年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 汉、匈在西域的争夺",
+        "lineStart": 80522,
+        "lineEnd": 80522
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 281,
+    "id": "ann-ce-0293",
+    "title": "章帝即位与政策调整",
+    "start": 76,
+    "end": 76,
+    "summary": "章帝在稳定秩序中调整刑政及经济政策，继续经营边疆，同时重视经学礼制建设。",
+    "importance": "王朝稳定依靠对既有政策的持续修正。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-4d16208c7ac8"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "76年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "第十四章 东汉王朝的出现",
+        "lineStart": 79767,
+        "lineEnd": 79767
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 282,
+    "id": "ann-ce-0294",
+    "title": "白虎观会议",
+    "start": 79,
+    "end": 79,
+    "summary": "章帝召集学者讨论五经异同，经学解释与国家礼制进一步结合，并留下白虎通等成果。",
+    "importance": "知识统一通过官学讨论而非仅凭禁止异说推进。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "bangu",
+      "ann-person-4d16208c7ac8"
+    ],
+    "note": "章帝召集学者讨论五经异同，经学解释与国家礼制进一步结合，并留下白虎通等成果。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "79年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 谶纬之学盛行和反谶纬的思想",
+        "lineStart": 82521,
+        "lineEnd": 82521
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 283,
+    "id": "ann-ce-0295",
+    "title": "班超巩固西域据点",
+    "start": 83,
+    "end": 83,
+    "summary": "班超在疏勒等地处理联盟和反复冲突，逐渐把有限人力转化为区域性外交网络。",
+    "importance": "西域经营依靠对诸国利益和地理条件的具体判断。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "banchao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "83年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 汉、匈在西域的争夺",
+        "lineStart": 80540,
+        "lineEnd": 80540
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 284,
+    "id": "ann-ce-0296",
+    "title": "北匈奴受多方打击",
+    "start": 87,
+    "end": 87,
+    "summary": "鲜卑、南匈奴与汉朝等力量共同影响草原局势，北匈奴承受军事及人口危机。",
+    "importance": "草原政治演变不能只从汉匈两方对抗解释。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "87年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 东汉王朝对匈奴和在西域取得的胜利",
+        "lineStart": 80552,
+        "lineEnd": 80552
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 285,
+    "id": "ann-ce-0297",
+    "title": "燕然之战",
+    "start": 89,
+    "end": 89,
+    "summary": "窦宪率军大破北匈奴并刻石记功，东汉在北方取得显著军事优势。",
+    "importance": "军事胜利与功臣权力上升同时改变中央政治。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "douxian"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "89年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 东汉王朝对匈奴和在西域取得的胜利",
+        "lineStart": 80554,
+        "lineEnd": 80554
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 286,
+    "id": "ann-ce-0298",
+    "title": "北匈奴主力西迁",
+    "start": 91,
+    "end": 91,
+    "summary": "汉军追击与草原竞争促使北匈奴主力向西移动，鲜卑等力量逐步占据原有空间。",
+    "importance": "草原人口与政权迁动引发更广泛的区域重组。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-0425369a9b33"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "91年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 东汉王朝对匈奴和在西域取得的胜利",
+        "lineStart": 80558,
+        "lineEnd": 80558
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 287,
+    "id": "ann-ce-0299",
+    "title": "和帝清除窦氏",
+    "start": 92,
+    "end": 92,
+    "summary": "汉和帝借助宦官等力量清除窦宪集团，皇帝从强大外戚手中收回控制权。",
+    "importance": "宦官因参与皇权斗争而获得更大政治影响。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-e0796a944697",
+      "douxian",
+      "ann-person-39046573da0c"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "92年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 继续防范外戚专权",
+        "lineStart": 80382,
+        "lineEnd": 80382
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 288,
+    "id": "ann-ce-0300",
+    "title": "甘英出使大秦方向",
+    "start": 97,
+    "end": 97,
+    "summary": "班超派甘英西行，虽未抵达罗马，却获得西亚海陆交通与远方国家的信息。",
+    "importance": "跨洲知识往往经由多重中介逐渐累积。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-65e5bfc659e0",
+      "banchao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "97年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 东汉王朝对匈奴和在西域取得的胜利",
+        "lineStart": 80573,
+        "lineEnd": 80573
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 289,
+    "id": "ann-ce-0301",
+    "title": "许慎编纂说文解字",
+    "start": 100,
+    "end": 121,
+    "summary": "许慎系统整理文字形体与训释，建立以部首统摄字形的框架，保存大量古文字知识。",
+    "importance": "汉代学术为后世文字研究提供基础工具。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-7c7805f6d136"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "100年—121年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 经学和史学",
+        "lineStart": 82600,
+        "lineEnd": 82600
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 290,
+    "id": "ann-ce-0302",
+    "title": "班超回朝",
+    "start": 102,
+    "end": 102,
+    "summary": "长期经营西域的班超回朝，个人经验与国家制度之间的交接问题在边疆治理中凸显。",
+    "importance": "长期外交网络需要稳定传承与后续支持。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "banchao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "102年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 东汉王朝对匈奴和在西域取得的胜利",
+        "lineStart": 80575,
+        "lineEnd": 80575
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 291,
+    "id": "ann-ce-0304",
+    "title": "邓太后临朝",
+    "start": 106,
+    "end": 106,
+    "summary": "幼帝时期邓氏外戚参与政务，宫廷继承与灾荒救济交织，外戚辅政再次成为政治核心。",
+    "importance": "皇帝幼年与亲属政治形成长期制度性循环。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-68b271f6a132"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "106年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 从邓氏专权到阎后临朝",
+        "lineStart": 81097,
+        "lineEnd": 81097
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 292,
+    "id": "ann-ce-0314",
+    "title": "汉安帝以后羌战持续",
+    "start": 107,
+    "end": 144,
+    "summary": "羌乱与汉军征讨长期反复，边地将领和地方军事力量的地位不断上升。",
+    "importance": "中央对边疆的治理成本推动区域军权成长。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "107年—144年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 293,
+    "id": "ann-ce-0305",
+    "title": "羌乱扩大",
+    "start": 107,
+    "end": 107,
+    "summary": "西北羌人反抗扩大，东汉调兵和迁徙人口，战争使关中与边郡经济遭受长期损耗。",
+    "importance": "边疆政策失衡可能反过来削弱帝国内地财政和人口。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "107年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 西方的动乱",
+        "lineStart": 79240,
+        "lineEnd": 79240
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 294,
+    "id": "ann-ce-0306",
+    "title": "撤并西北郡县",
+    "start": 111,
+    "end": 111,
+    "summary": "持续羌战与地方治理困难导致部分郡县迁治或撤并，国家在西北的控制出现收缩。",
+    "importance": "帝国边界与行政网络会随资源能力变化而调整。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "111年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 西方的动乱",
+        "lineStart": 79240,
+        "lineEnd": 79240
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 295,
+    "id": "ann-ce-0307",
+    "title": "张衡研制天文仪器",
+    "start": 117,
+    "end": 132,
+    "summary": "张衡研究天体运行并改进观测装置，把数学、机械和天文学结合起来。",
+    "importance": "汉代技术创新形成跨知识领域的综合实践。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zhangheng"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "117年—132年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 混乱的币制改革",
+        "lineStart": 79027,
+        "lineEnd": 79027
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 296,
+    "id": "ann-ce-0308",
+    "title": "安帝亲政清除邓氏",
+    "start": 121,
+    "end": 121,
+    "summary": "邓太后去世后安帝清算邓氏家族，宫廷权力重新分配，却未停止外戚宦官交替掌权。",
+    "importance": "辅政家族的起落难以消除继承制度的不稳定因素。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-7c2c18b07196",
+      "ann-person-68b271f6a132"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "121年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 从邓氏专权到阎后临朝",
+        "lineStart": 81109,
+        "lineEnd": 81109
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 297,
+    "id": "ann-ce-0309",
+    "title": "班勇经营西域",
+    "start": 123,
+    "end": 123,
+    "summary": "班勇主持西域事务，通过军事与外交重建联系，河西与西域局势再次趋向稳定。",
+    "importance": "汉朝对西域的影响经历撤退、恢复与调整的循环。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-3771b6cb33dd"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "123年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 社会风气",
+        "lineStart": 82364,
+        "lineEnd": 82364
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 298,
+    "id": "ann-ce-0310",
+    "title": "宦官拥立顺帝",
+    "start": 125,
+    "end": 125,
+    "summary": "宦官参与政变拥立顺帝，宫廷近侍在帝位继承中获得更大作用及政治回报。",
+    "importance": "君主依靠私人近侍可强化一时控制，也会制造新权力集团。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-bd9ae02c54ec",
+      "ann-person-775b55265b45"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "125年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 顺帝到桓帝时的宦官和外戚",
+        "lineStart": 81141,
+        "lineEnd": 81141
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 299,
+    "id": "ann-ce-0311",
+    "title": "张衡地动仪",
+    "start": 132,
+    "end": 132,
+    "summary": "文献记载张衡制作候风地动仪，以机械结构反映地震方向，具体复原方案仍有争议。",
+    "importance": "古代科学成就与现代复原推测应明确区分。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "zhangheng"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "132年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 物理、化学和地理学的成就",
+        "lineStart": 82415,
+        "lineEnd": 82415
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 300,
+    "id": "ann-ce-0313",
+    "title": "顺帝时期太学扩建",
+    "start": 132,
+    "end": 144,
+    "summary": "东汉扩大太学教育规模，士人群体在政治评论和社会声望网络中的影响继续成长。",
+    "importance": "官学发展为后来的清议与政治结社提供社会基础。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-bd9ae02c54ec"
+    ],
+    "note": "所列为活动或制度发展的时段，并非断言这一过程在起始年一次完成。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "132年—144年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 提倡儒学",
+        "lineStart": 76156,
+        "lineEnd": 76156
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 301,
+    "id": "ann-ce-0312",
+    "title": "阳嘉改察举",
+    "start": 134,
+    "end": 134,
+    "summary": "东汉对部分察举对象增加考试和资历要求，尝试提高选官质量并约束地方举荐。",
+    "importance": "选官不断在德行声誉、地方关系与实际能力之间调节。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-dfd68ad2d085"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "134年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 顺帝到桓帝时的宦官和外戚",
+        "lineStart": 81151,
+        "lineEnd": 81151
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 302,
+    "id": "ann-ce-0315",
+    "title": "梁冀控制立帝",
+    "start": 146,
+    "end": 146,
+    "summary": "梁冀在质帝死后操纵皇位继承并拥立桓帝，外戚势力达到控制国家中枢的程度。",
+    "importance": "皇室继承被权臣集团操纵时，帝国政治信任持续流失。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-eda2eb5fc595",
+      "ann-person-1b1b9acde094"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "146年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 顺帝到桓帝时的宦官和外戚",
+        "lineStart": 81177,
+        "lineEnd": 81177
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 303,
+    "id": "ann-ce-0316",
+    "title": "安世高来华译经",
+    "start": 148,
+    "end": 148,
+    "summary": "安世高等外来僧人译介佛典，佛教知识通过洛阳等中心逐渐扩展到汉语文化环境。",
+    "importance": "宗教传播需要翻译、交往和本地理解的共同作用。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "anshigao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "148年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 迷信和宗教",
+        "lineStart": 82577,
+        "lineEnd": 82577
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 304,
+    "id": "ann-ce-0317",
+    "title": "檀石槐整合鲜卑",
+    "start": 156,
+    "end": 156,
+    "summary": "鲜卑在檀石槐领导下整合草原力量，成为汉朝北部新的重要政治军事对手。",
+    "importance": "北方政治中心随人口与联盟重组不断变化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-e22fc32fb781"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "156年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 305,
+    "id": "ann-ce-0318",
+    "title": "桓帝诛梁冀",
+    "start": 159,
+    "end": 159,
+    "summary": "桓帝联合宦官打击梁冀，外戚集团败亡，参与行动的宦官获得爵位和更广泛权力。",
+    "importance": "皇权恢复再次以另一种私人政治集团膨胀为代价。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-1b1b9acde094",
+      "ann-person-eda2eb5fc595"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "159年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 顺帝到桓帝时的宦官和外戚",
+        "lineStart": 81195,
+        "lineEnd": 81195
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 306,
+    "id": "ann-ce-0320",
+    "title": "大秦使者来汉记载",
+    "start": 166,
+    "end": 166,
+    "summary": "史书记录来自大秦方向的来人抵达南方，身份是否正式使节仍需结合贸易背景辨析。",
+    "importance": "远程交流记录包含政治名义与商人活动的交叠。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "166年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 东汉王朝对匈奴和在西域取得的胜利",
+        "lineStart": 80573,
+        "lineEnd": 80573
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 307,
+    "id": "ann-ce-0321",
+    "title": "窦武陈蕃政变失败",
+    "start": 168,
+    "end": 168,
+    "summary": "窦武、陈蕃试图清除宦官，却被反制并杀害，宫廷近侍进一步掌握军政关键环节。",
+    "importance": "控制禁军、信息与皇帝身边空间决定宫廷斗争结果。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-325706b829a3",
+      "ann-person-01dbf416afe7"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "168年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 桓帝以后宫廷内的风云",
+        "lineStart": 81225,
+        "lineEnd": 81225
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 308,
+    "id": "ann-ce-0322",
+    "title": "第二次党锢之祸",
+    "start": 169,
+    "end": 169,
+    "summary": "宦官集团扩大清洗士人及相关网络，大批人遭处死、监禁或长期禁止任官。",
+    "importance": "政治压制损伤中央与地方士人精英的合作关系。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-50b968677e78"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "169年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 延续十余载的“党锢之祸”",
+        "lineStart": 81380,
+        "lineEnd": 81380
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 309,
+    "id": "ann-ce-0323",
+    "title": "熹平石经开始刊刻",
+    "start": 175,
+    "end": 183,
+    "summary": "朝廷在太学刻立儒家经文，尝试用统一文本校正传抄差异并展示经典权威。",
+    "importance": "国家教育、文字规范与公共知识传播相互结合。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book",
+      "ce-xiping"
+    ],
+    "personIds": [
+      "ann-person-25298525b571"
+    ],
+    "note": "国家博物馆藏品说明核对：175年奉诏正定，至183年陆续刊成。",
+    "dateLabel": "175年—183年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 桓帝以后的农民起义",
+        "lineStart": 81499,
+        "lineEnd": 81499
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 310,
+    "id": "ann-ce-0324",
+    "title": "东汉出击鲜卑失败",
+    "start": 177,
+    "end": 177,
+    "summary": "汉军对鲜卑的大规模行动失利，显示北方草原新力量已难以由旧有军事方式压制。",
+    "importance": "边疆战略必须适应对手组织和地理环境变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-63485895973d"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "177年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 桓帝以后的农民起义",
+        "lineStart": 81499,
+        "lineEnd": 81499
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 311,
+    "id": "ann-ce-0325",
+    "title": "灵帝卖官扩大",
+    "start": 178,
+    "end": 178,
+    "summary": "中央通过出售官职筹款，财政危机与任官利益结合，官僚公信力和地方治理进一步受损。",
+    "importance": "财政补救可能反过来加深腐败和社会征敛。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-47de4bf04326"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "178年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 桓帝以后宫廷内的风云",
+        "lineStart": 81256,
+        "lineEnd": 81256
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 312,
+    "id": "ann-ce-0327",
+    "title": "凉州起兵",
+    "start": 184,
+    "end": 184,
+    "summary": "凉州多股地方势力起兵，朝廷长期用兵难以平定，西北军人集团逐步进入全国政治。",
+    "importance": "边疆反抗成为东汉末军事割据的重要来源。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-962bc6707dd5",
+      "ann-person-8ac3e4ca091a"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "184年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 “八州并发，烟炎绛天”——黄巾起义的爆发",
+        "lineStart": 81571,
+        "lineEnd": 81571
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 313,
+    "id": "ann-ce-0328",
+    "title": "州牧制度强化",
+    "start": 188,
+    "end": 188,
+    "summary": "东汉提高州级长官权力，企图加强地方统治，实际上也为区域军政集团提供制度基础。",
+    "importance": "应急集权到地方可能促成更长期的中央瓦解。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-6d4139146360"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "188年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 统治阶级内部的混战，东汉王朝的灭亡",
+        "lineStart": 81682,
+        "lineEnd": 81682
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 314,
+    "id": "ann-ce-0329",
+    "title": "何进被杀与宦官覆灭",
+    "start": 189,
+    "end": 189,
+    "summary": "何进谋诛宦官未成反遭杀害，袁绍等随后清洗宦官，董卓趁机入京控制朝廷。",
+    "importance": "中央各集团互相摧毁，使外部军事力量接管政治。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-cc93a3d2af88",
+      "yuanshao",
+      "ann-person-591526437df3"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "189年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 统治阶级内部的混战，东汉王朝的灭亡",
+        "lineStart": 81684,
+        "lineEnd": 81684
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 315,
+    "id": "ann-ce-0330",
+    "title": "关东联军讨董卓",
+    "start": 190,
+    "end": 190,
+    "summary": "关东州郡组成讨董联盟，董卓迁都长安，联盟很快因各自利益分化而走向割据。",
+    "importance": "共同敌人消失不了地方势力之间的权力竞争。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuanshao",
+      "caocao",
+      "ann-person-591526437df3"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "190年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 货币和物价",
+        "lineStart": 80978,
+        "lineEnd": 80978
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 316,
+    "id": "ann-ce-0331",
+    "title": "孙坚进入洛阳",
+    "start": 191,
+    "end": 191,
+    "summary": "孙坚军进入被破坏的洛阳地区，东汉都城的毁损象征中央统治与都市社会的深刻危机。",
+    "importance": "战争不仅改换统治者，也摧毁人口和经济网络。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-88c23e332523"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "191年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 桓帝以后的农民起义",
+        "lineStart": 81487,
+        "lineEnd": 81487
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 317,
+    "id": "ann-ce-0333",
+    "title": "曹操收编青州兵",
+    "start": 192,
+    "end": 192,
+    "summary": "曹操利用兖州基础收编部分黄巾部众，形成较稳定兵源，为北方扩张提供军事支柱。",
+    "importance": "流民武装转化为新政权军队是乱世整合的重要机制。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "192年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 坚持战斗的起义军",
+        "lineStart": 81605,
+        "lineEnd": 81605
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 318,
+    "id": "ann-ce-0332",
+    "title": "王允吕布杀董卓",
+    "start": 192,
+    "end": 192,
+    "summary": "王允与吕布诛杀董卓，但未能安置其部众，李傕等反攻长安后再次控制朝廷。",
+    "importance": "政变成功需要后续政治整合，否则难以恢复秩序。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-f6281aead0b5",
+      "ann-person-b035ebd6b0f5",
+      "ann-person-4ec7976f1d09"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "192年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 统治阶级内部的混战，东汉王朝的灭亡",
+        "lineStart": 81692,
+        "lineEnd": 81692
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 319,
+    "id": "ann-ce-0334",
+    "title": "曹操攻徐州",
+    "start": 193,
+    "end": 193,
+    "summary": "曹操与陶谦围绕徐州交战，造成严重人口与聚落损失，地方势力关系进一步复杂化。",
+    "importance": "军阀竞争的社会成本应同战役胜负一并呈现。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-91babc2c46df"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "193年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 五年中的三次出巡",
+        "lineStart": 75057,
+        "lineEnd": 75057
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 320,
+    "id": "ann-ce-0335",
+    "title": "吕布夺兖州",
+    "start": 194,
+    "end": 194,
+    "summary": "曹操远征时吕布与地方集团夺取兖州，曹操被迫回师争夺根据地，扩张一度受阻。",
+    "importance": "控制后方与协调地方士族是军事实力的基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-b035ebd6b0f5",
+      "ann-person-d7ff11404add"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "194年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 迷信和宗教",
+        "lineStart": 82573,
+        "lineEnd": 82573
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 321,
+    "id": "ann-ce-0336",
+    "title": "孙策经营江东",
+    "start": 195,
+    "end": 195,
+    "summary": "孙策渡江展开兼并，通过战争与地方豪族协商建立江东基础，孙氏政权逐步兴起。",
+    "importance": "南方政权成长依赖军事动员与地方社会合作。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-9f7342368303"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "195年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 统治阶级内部的混战，东汉王朝的灭亡",
+        "lineStart": 81720,
+        "lineEnd": 81720
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 322,
+    "id": "ann-ce-0337",
+    "title": "曹操迎汉献帝都许",
+    "start": 196,
+    "end": 196,
+    "summary": "曹操把汉献帝迎到许县，利用中央名义组织官僚及号令诸侯，获得重要政治优势。",
+    "importance": "皇帝虽失去实权，王朝合法性仍有强大动员价值。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-a2d8d08d528c"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "196年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 同异姓诸侯王的斗争",
+        "lineStart": 75783,
+        "lineEnd": 75783
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 323,
+    "id": "ann-ce-0339",
+    "title": "袁术称帝",
+    "start": 197,
+    "end": 197,
+    "summary": "袁术在淮南称帝，引起周边势力共同反对并迅速衰落，显示政治名义也需实力支撑。",
+    "importance": "过早僭号可能破坏原有联盟与地方支持。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "ann-person-abd7640c3953"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "197年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 纺织业",
+        "lineStart": 80856,
+        "lineEnd": 80856
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 324,
+    "id": "ann-ce-0340",
+    "title": "下邳之战吕布败亡",
+    "start": 198,
+    "end": 198,
+    "summary": "曹操围攻下邳，吕布投降后被杀，徐州力量重新整合，曹操东方后患减少。",
+    "importance": "消灭竞争者为争夺北方主导地位创造条件。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-b035ebd6b0f5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "198年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 耕地面积的扩大和南方地区的开发",
+        "lineStart": 80746,
+        "lineEnd": 80746
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 325,
+    "id": "ann-ce-0341",
+    "title": "袁绍击灭公孙瓒",
+    "start": 199,
+    "end": 199,
+    "summary": "袁绍攻灭公孙瓒，控制河北广大地区，形成与曹操在北方争雄的主要力量。",
+    "importance": "区域整合完成后，地方战争上升为跨区域决战。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "yuanshao",
+      "ann-person-8ed29d3d0e87"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "199年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 货币和物价",
+        "lineStart": 81054,
+        "lineEnd": 81054
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 326,
+    "id": "ann-ce-0343",
+    "title": "孙权接掌江东",
+    "start": 200,
+    "end": 200,
+    "summary": "孙策遇刺身亡后孙权继位，依靠张昭、周瑜等维系政权，江东政治逐步稳定。",
+    "importance": "继承安排与地方支持决定新兴政权能否持续。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "sunquan",
+      "ann-person-9f7342368303",
+      "ann-person-99f76d028a70"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "200年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "四 其他各种手工业",
+        "lineStart": 80882,
+        "lineEnd": 80882
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 327,
+    "id": "ann-ce-0344",
+    "title": "袁绍死后诸子争位",
+    "start": 202,
+    "end": 202,
+    "summary": "袁绍去世后袁谭、袁尚发生冲突，曹操利用分裂逐步扩大河北控制。",
+    "importance": "内部继承危机使强大集团失去协同行动能力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-abdb9cda8003",
+      "ann-person-f9de63834f8b",
+      "caocao"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "202年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 328,
+    "id": "ann-ce-0345",
+    "title": "曹操攻取邺城",
+    "start": 204,
+    "end": 204,
+    "summary": "曹操攻下邺城，获得河北重要人口与经济中心，北方政权的行政基础显著扩大。",
+    "importance": "统一优势通过控制地方精英与生产资源得到巩固。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-364f443103dd"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "204年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 风雨飘摇中的西汉王朝",
+        "lineStart": 78471,
+        "lineEnd": 78471
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 329,
+    "id": "ann-ce-0347",
+    "title": "刘备访诸葛亮",
+    "start": 207,
+    "end": 207,
+    "summary": "刘备延揽诸葛亮，围绕荆益地区形成长期发展构想，尝试摆脱在强者间流动的困境。",
+    "importance": "战略规划需要与可以实际控制的地理资源结合。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liubei",
+      "zhugeliang"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "207年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 纺织业",
+        "lineStart": 80846,
+        "lineEnd": 80846
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 330,
+    "id": "ann-ce-0346",
+    "title": "曹操北征乌桓",
+    "start": 207,
+    "end": 207,
+    "summary": "曹操击败乌桓及袁氏残余，基本解除东北方向的军事威胁，开始转向南方战略。",
+    "importance": "北方统一经历对边地联盟和残余军队的连续处理。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-fb0f8e4a3f07"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "207年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 汉王朝反击匈奴的准备阶段（前140年至前134年）",
+        "lineStart": 76734,
+        "lineEnd": 76734
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 331,
+    "id": "ann-ce-0348",
+    "title": "曹操南下与荆州易手",
+    "start": 208,
+    "end": 208,
+    "summary": "刘表去世后刘琮投降，曹操取得荆州主要地区，刘备被迫南撤并寻求孙权合作。",
+    "importance": "继承危机迅速改变长江中游的势力分布。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-362647d57128",
+      "liubei"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "208年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 统治阶级内部的混战，东汉王朝的灭亡",
+        "lineStart": 81732,
+        "lineEnd": 81732
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 332,
+    "id": "ann-ce-0350",
+    "title": "孙刘争取荆州诸郡",
+    "start": 209,
+    "end": 209,
+    "summary": "赤壁战后孙刘双方分取荆州要地，合作抗曹与争夺地盘并行，联盟内部矛盾逐渐累积。",
+    "importance": "地理利益的冲突埋下后来荆州争夺的伏笔。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liubei",
+      "zhouyu"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "209年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 由局部走向全国的农民起义",
+        "lineStart": 79386,
+        "lineEnd": 79386
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 333,
+    "id": "ann-ce-0351",
+    "title": "潼关之战",
+    "start": 211,
+    "end": 211,
+    "summary": "曹操击败马超、韩遂等关中联军，扩大对西部军事走廊的控制，为争取汉中提供条件。",
+    "importance": "北方统一还需处理边地军阀及关陇力量。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-308d15c2aea5",
+      "ann-person-962bc6707dd5"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "211年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 水利工程的兴建",
+        "lineStart": 78048,
+        "lineEnd": 78048
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 334,
+    "id": "ann-ce-0352",
+    "title": "刘备转攻刘璋",
+    "start": 212,
+    "end": 212,
+    "summary": "刘备进入益州后与刘璋决裂，依靠部分地方与外来人才展开对成都政权的兼并。",
+    "importance": "新政权形成往往建立在地方统治集团内部重组之上。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liubei",
+      "ann-person-0500dac46778",
+      "ann-person-cb35b6a44abd"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "212年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "二 统治阶级内部的混战，东汉王朝的灭亡",
+        "lineStart": 81720,
+        "lineEnd": 81720
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 335,
+    "id": "ann-ce-0353",
+    "title": "曹操受封魏公",
+    "start": 213,
+    "end": 213,
+    "summary": "曹操在汉朝名义下建立魏国封域与官署，权力形态由辅政大臣向独立政治中心演变。",
+    "importance": "政权替代常以制度化的封国和礼遇逐步推进。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "caocao"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "213年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 336,
+    "id": "ann-ce-0354",
+    "title": "刘备取得益州",
+    "start": 214,
+    "end": 214,
+    "summary": "刘璋投降，刘备控制成都与益州大部，获得可以长期与曹孙抗衡的战略根据地。",
+    "importance": "四川盆地资源支撑三国时期西南政权的持续存在。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "liubei",
+      "ann-person-0500dac46778"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "214年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "三 秦代统一初期的版图",
+        "lineStart": 74087,
+        "lineEnd": 74087
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 337,
+    "id": "ann-ce-0356",
+    "title": "孙刘分荆州",
+    "start": 215,
+    "end": 215,
+    "summary": "孙刘通过交涉和军事施压划分荆州地盘，暂时维持联盟，却未解决边界和安全矛盾。",
+    "importance": "联盟可以延续，但双方仍追求各自战略完整性。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "sunquan",
+      "liubei",
+      "ann-person-a67ccc8ef53d"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "215年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 “百越”的统一",
+        "lineStart": 74139,
+        "lineEnd": 74139
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 338,
+    "id": "ann-ce-0355",
+    "title": "曹操取汉中",
+    "start": 215,
+    "end": 215,
+    "summary": "张鲁向曹操投降，汉中成为连接关中与巴蜀的军事前沿，引发魏蜀长期争夺。",
+    "importance": "山地通道决定三国战争的方向与补给难度。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao",
+      "ann-person-4b3c5a7d22f7"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "215年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 封建土地所有制的确立",
+        "lineStart": 73583,
+        "lineEnd": 73583
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 339,
+    "id": "ann-ce-0357",
+    "title": "曹操进封魏王",
+    "start": 216,
+    "end": 216,
+    "summary": "曹操获得魏王地位，其政治组织与皇帝朝廷并存，汉魏权力转移接近最后阶段。",
+    "importance": "王号与独立官署为继承者改朝换代准备制度条件。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-book"
+    ],
+    "personIds": [
+      "caocao"
+    ],
+    "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+    "dateLabel": "216年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 6,
+        "chapter": "一 向秦王朝统治中心进攻",
+        "lineStart": 75211,
+        "lineEnd": 75211
+      }
+    ],
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 340,
+    "id": "ann-ce-0358",
+    "title": "濡须之战",
+    "start": 217,
+    "end": 217,
+    "summary": "曹操与孙权在长江前线交战，双方均难以突破对方核心区域，江淮防线继续固化。",
+    "importance": "水军、地理和补给限制北方军队向江南推进。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "caocao",
+      "sunquan"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "217年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 341,
+    "id": "ann-ce-0360",
+    "title": "关羽攻襄樊",
+    "start": 219,
+    "end": 219,
+    "summary": "关羽北攻襄樊并水淹部分魏军，一度震动北方，但孙刘矛盾同时达到危险程度。",
+    "importance": "多线军事行动可能暴露联盟后方的安全弱点。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "guanyu",
+      "ann-person-3fed064afc95",
+      "ann-person-173f85e27437"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "219年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 342,
+    "id": "ann-ce-0359",
+    "title": "刘备夺取汉中",
+    "start": 219,
+    "end": 219,
+    "summary": "刘备集团击败夏侯渊并控制汉中，构建益州北方屏障，刘备随后称汉中王。",
+    "importance": "西南政权获得相对完整的山地防御体系。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "liubei",
+      "ann-person-69fdd0ed2574",
+      "ann-person-a8f4e105d0bc"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "219年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  },
+  {
+    "_order": 343,
+    "id": "ann-ce-0361",
+    "title": "吕蒙袭荆州",
+    "start": 219,
+    "end": 219,
+    "summary": "孙权命吕蒙袭取荆州，关羽败亡，孙刘联盟破裂，三方的战略均衡重新调整。",
+    "importance": "荆州归属改变蜀汉资源和进攻路线的选择。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "ce-framework"
+    ],
+    "personIds": [
+      "ann-person-695aad159478",
+      "guanyu",
+      "sunquan"
+    ],
+    "note": "通史框架整理，尚待逐条补充原始文献及专业研究依据。",
+    "dateLabel": "219年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "eastern-han",
+    "lane": "china",
+    "themeId": "eastern-han"
+  }
+]

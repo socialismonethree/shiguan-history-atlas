@@ -1,0 +1,4509 @@
+[
+  {
+    "_order": 994,
+    "id": "ann-cl-ming-1368-434",
+    "title": "明朝建立",
+    "start": 1368,
+    "end": 1368,
+    "summary": "朱元璋在应天称帝，定国号明，建元洪武。",
+    "importance": "以南京为政治中心，整合江南资源并继续北伐和统一战争。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "zhuyuanzhang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1368年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168895,
+        "lineEnd": 168901
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 995,
+    "id": "ann-cl-ming-1369-435",
+    "title": "明廷编修元史",
+    "start": 1369,
+    "end": 1369,
+    "summary": "宋濂等奉命修史。",
+    "importance": "以前代兴亡为新王朝确立历史叙事。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-9e33d38aa5f0"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1369年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168903,
+        "lineEnd": 168905
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 996,
+    "id": "ann-cl-ming-1370-437",
+    "title": "明军攻克应昌",
+    "start": 1370,
+    "end": 1370,
+    "summary": "李文忠攻入北元政治中心。",
+    "importance": "北元继续在草原维持政权。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-b3d8318eceef"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1370年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 997,
+    "id": "ann-cl-ming-1370-436",
+    "title": "明封皇子为王",
+    "start": 1370,
+    "end": 1370,
+    "summary": "朱元璋分封诸子。",
+    "importance": "宗室藩王兼具地方屏障与潜在政治力量。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "zhuyuanzhang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1370年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168903,
+        "lineEnd": 168907
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 998,
+    "id": "ann-cl-ming-1371-438",
+    "title": "明军平夏",
+    "start": 1371,
+    "end": 1371,
+    "summary": "汤和傅友德等攻取四川。",
+    "importance": "明夏政权终结。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-19e4c72a495f",
+      "ann-person-49263aaafcf6"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1371年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 999,
+    "id": "ann-cl-ming-1372-439",
+    "title": "明军三路北伐受挫",
+    "start": 1372,
+    "end": 1372,
+    "summary": "徐达等深入草原未获决定胜利。",
+    "importance": "明北元战争仍长期持续。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-840398c68c6b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1372年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1000,
+    "id": "ann-cl-ming-1372-440",
+    "title": "明初释放部分奴隶",
+    "start": 1372,
+    "end": 1372,
+    "summary": "朝廷允许战乱中沦为奴婢者恢复民籍。",
+    "importance": "促进流民复业。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1372年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168925,
+        "lineEnd": 168929
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1001,
+    "id": "ann-cl-ming-1373-441",
+    "title": "明初停科举",
+    "start": 1373,
+    "end": 1373,
+    "summary": "朱元璋认为科举人才难任实务。",
+    "importance": "暂转向荐举取士。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhuyuanzhang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1373年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1002,
+    "id": "ann-cl-ming-1375-442",
+    "title": "大明宝钞发行",
+    "start": 1375,
+    "end": 1375,
+    "summary": "明廷推行纸币并限制金银交易。",
+    "importance": "试图集中货币控制。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1375年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168939,
+        "lineEnd": 168941
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1003,
+    "id": "ann-cl-ming-1376-443",
+    "title": "废行省设布政使司",
+    "start": 1376,
+    "end": 1376,
+    "summary": "地方权力分为民政军事监察。",
+    "importance": "防止形成单一地方中枢。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1376年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168943,
+        "lineEnd": 168945
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1004,
+    "id": "ann-cl-ming-1377-444",
+    "title": "空印案",
+    "start": 1376,
+    "end": 1382,
+    "summary": "官府预盖空白文书的惯例遭严惩。",
+    "importance": "案件时间与规模存在讨论。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。通行叙述多系于洪武九年至十五年间，具体发案年代存在学术争论，不作精确到月日的定位。",
+    "dateLabel": "约1376年—1382年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1005,
+    "id": "ann-cl-ming-1380-445",
+    "title": "胡惟庸案与废丞相",
+    "start": 1380,
+    "end": 1380,
+    "summary": "朱元璋诛胡惟庸并罢中书省。",
+    "importance": "六部直接对皇帝负责。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "zhuyuanzhang",
+      "ann-person-f2b932f64c5a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1380年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168951,
+        "lineEnd": 168955
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1006,
+    "id": "ann-cl-ming-1381-447",
+    "title": "明军平定云南",
+    "start": 1381,
+    "end": 1382,
+    "summary": "傅友德蓝玉沐英攻入云南。",
+    "importance": "元梁王势力终结。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-49263aaafcf6",
+      "ann-person-3e2e368b4dcc"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1381年—1382年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1007,
+    "id": "ann-cl-ming-1381-446",
+    "title": "黄册里甲制度确立",
+    "start": 1381,
+    "end": 1381,
+    "summary": "朝廷编造户籍赋役册。",
+    "importance": "并通过里甲组织分配基层差役。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1381年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168957,
+        "lineEnd": 168959
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1008,
+    "id": "ann-cl-ming-1382-449",
+    "title": "殿阁大学士设置",
+    "start": 1382,
+    "end": 1382,
+    "summary": "皇帝设置顾问性质大学士。",
+    "importance": "为后来内阁发展提供制度起点。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1382年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168961,
+        "lineEnd": 168969
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1009,
+    "id": "ann-cl-ming-1382-448",
+    "title": "锦衣卫设置",
+    "start": 1382,
+    "end": 1382,
+    "summary": "明廷以亲军机构承担侦缉等职。",
+    "importance": "皇权获得直接监控工具。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1382年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168961,
+        "lineEnd": 168963
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1010,
+    "id": "ann-cl-ming-1383-450",
+    "title": "沐英镇守云南",
+    "start": 1383,
+    "end": 1383,
+    "summary": "沐氏此后长期承担云南军事职能。",
+    "importance": "边疆治理形成特殊结构。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-3e2e368b4dcc"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1383年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168971,
+        "lineEnd": 168973
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1011,
+    "id": "ann-cl-ming-1384-451",
+    "title": "明恢复科举",
+    "start": 1384,
+    "end": 1384,
+    "summary": "朝廷重新以科举取士。",
+    "importance": "并逐步规范考试程序与文体。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1384年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168975,
+        "lineEnd": 168979
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1012,
+    "id": "ann-cl-ming-1385-453",
+    "title": "御制大诰颁布",
+    "start": 1385,
+    "end": 1385,
+    "summary": "朱元璋公布重刑案例及训诫。",
+    "importance": "将皇帝意志带入基层治理。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "zhuyuanzhang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1385年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168981,
+        "lineEnd": 168985
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1013,
+    "id": "ann-cl-ming-1385-452",
+    "title": "郭桓案",
+    "start": 1385,
+    "end": 1385,
+    "summary": "户部官员因侵盗官粮被惩。",
+    "importance": "案件扩大为全国性政治清查。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-a42046699502"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1385年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168981,
+        "lineEnd": 168983
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1014,
+    "id": "ann-cl-ming-1386-454",
+    "title": "明定工匠轮班制度",
+    "start": 1386,
+    "end": 1386,
+    "summary": "工匠按籍承担官府劳役。",
+    "importance": "国家以身份编制组织手工业生产。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1386年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168987,
+        "lineEnd": 168989
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1015,
+    "id": "ann-cl-ming-1387-455",
+    "title": "纳哈出降明",
+    "start": 1387,
+    "end": 1387,
+    "summary": "明军经营辽东迫使纳哈出投降。",
+    "importance": "东北军事局势变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-c539f1905456",
+      "ann-person-f4eb51663851"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1387年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1016,
+    "id": "ann-cl-ming-1387-456",
+    "title": "鱼鳞图册推广",
+    "start": 1387,
+    "end": 1387,
+    "summary": "明廷丈量土地并编册登记。",
+    "importance": "强化田赋征收的基础资料。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1387年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 168991,
+        "lineEnd": 168993
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1017,
+    "id": "ann-cl-ming-1388-457",
+    "title": "捕鱼儿海之战",
+    "start": 1388,
+    "end": 1388,
+    "summary": "蓝玉击败北元军并俘获大量人口。",
+    "importance": "北元中央权威受重创。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-1146907c67bb"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1388年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1018,
+    "id": "ann-cl-ming-1389-458",
+    "title": "兀良哈三卫设置",
+    "start": 1389,
+    "end": 1389,
+    "summary": "明廷在东北蒙古诸部设置卫所。",
+    "importance": "形成羁縻关系。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1389年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1019,
+    "id": "ann-cl-ming-1392-459",
+    "title": "皇太子朱标去世",
+    "start": 1392,
+    "end": 1392,
+    "summary": "朱元璋随后立朱允炆为皇太孙。",
+    "importance": "皇位继承越过在世诸王。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-8874d72490f7",
+      "zhuyunwen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1392年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 169009,
+        "lineEnd": 169013
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1020,
+    "id": "ann-cl-ming-1393-460",
+    "title": "蓝玉案",
+    "start": 1393,
+    "end": 1393,
+    "summary": "开国大将蓝玉被诛并牵连众多军官。",
+    "importance": "军功集团受重创。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-1146907c67bb"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1393年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 169015,
+        "lineEnd": 169017
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1021,
+    "id": "ann-cl-ming-1394-461",
+    "title": "国子监生参与水利",
+    "start": 1394,
+    "end": 1394,
+    "summary": "朝廷派监生巡行地方督修水利。",
+    "importance": "将学校人才用于行政实践。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1394年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 169021,
+        "lineEnd": 169023
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1022,
+    "id": "ann-cl-ming-1397-463",
+    "title": "南北榜案",
+    "start": 1397,
+    "end": 1397,
+    "summary": "科举录取地域失衡引发政治案件。",
+    "importance": "考试公平与皇权干预交织。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1397年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1023,
+    "id": "ann-cl-ming-1397-462",
+    "title": "大明律定本完成",
+    "start": 1397,
+    "end": 1397,
+    "summary": "明律多次修改后形成重要定本。",
+    "importance": "影响明清法律制度。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1397年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1024,
+    "id": "ann-cl-ming-1398-464",
+    "title": "建文帝即位并削藩",
+    "start": 1398,
+    "end": 1398,
+    "summary": "朱允炆继位后削减宗室王权。",
+    "importance": "与燕王矛盾迅速上升。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "zhuyunwen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1398年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 169033,
+        "lineEnd": 169037
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1025,
+    "id": "ann-cl-ming-1399-465",
+    "title": "靖难之役爆发",
+    "start": 1399,
+    "end": 1399,
+    "summary": "朱棣从北平起兵。",
+    "importance": "公开以清君侧为名争夺最高权力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "zhudi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1399年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 169039,
+        "lineEnd": 169041
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1026,
+    "id": "ann-cl-ming-1400-466",
+    "title": "济南保卫战",
+    "start": 1400,
+    "end": 1400,
+    "summary": "铁铉盛庸抵抗燕军。",
+    "importance": "朱棣未能迅速南下取胜。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-010c68392444",
+      "ann-person-ca02872f7b09"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1400年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 12,
+        "chapter": "明史·附录 明史大事年表",
+        "lineStart": 169043,
+        "lineEnd": 169045
+      }
+    ],
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1027,
+    "id": "ann-cl-ming-1402-467",
+    "title": "朱棣攻入南京",
+    "start": 1402,
+    "end": 1402,
+    "summary": "建文政权终结。",
+    "importance": "朱棣夺位，建文帝下落留下争论。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhudi",
+      "zhuyunwen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1402年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1028,
+    "id": "ann-cl-ming-1403-468",
+    "title": "北京命名与北平升格",
+    "start": 1403,
+    "end": 1403,
+    "summary": "朱棣改北平为北京。",
+    "importance": "为迁都与经营北方建立政治基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhudi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1403年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1029,
+    "id": "ann-cl-ming-1405-469",
+    "title": "郑和首次下西洋",
+    "start": 1405,
+    "end": 1405,
+    "summary": "大型船队由南京出发。",
+    "importance": "连接东南亚与印度洋诸港。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhenghe"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1405年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1030,
+    "id": "ann-cl-ming-1406-470",
+    "title": "北京宫城营建启动",
+    "start": 1406,
+    "end": 1406,
+    "summary": "明廷征调人员与木石建设新都。",
+    "importance": "国家资源向北方集中。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1406年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1031,
+    "id": "ann-cl-ming-1407-471",
+    "title": "明军攻占安南",
+    "start": 1407,
+    "end": 1407,
+    "summary": "胡氏政权被推翻。",
+    "importance": "明在交趾设置直接统治机构。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1407年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1032,
+    "id": "ann-cl-ming-1407-472",
+    "title": "永乐大典初步编成",
+    "start": 1407,
+    "end": 1408,
+    "summary": "解缙等完成大型类书编纂。",
+    "importance": "汇集此前大量典籍。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-ed4cfa2091a4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1407年—1408年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1033,
+    "id": "ann-cl-ming-1409-473",
+    "title": "奴儿干都司设立",
+    "start": 1409,
+    "end": 1409,
+    "summary": "明在黑龙江流域设军政机构。",
+    "importance": "以朝贡与地方首领网络运作。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1409年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1034,
+    "id": "ann-cl-ming-1409-474",
+    "title": "明十三陵选址营建",
+    "start": 1409,
+    "end": 1409,
+    "summary": "长陵开始营造。",
+    "importance": "皇室陵寝与北京政治中心相互配合。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1409年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1035,
+    "id": "ann-cl-ming-1410-475",
+    "title": "永乐首次亲征蒙古",
+    "start": 1410,
+    "end": 1410,
+    "summary": "朱棣率军深入草原。",
+    "importance": "试图恢复对北部边疆的主动权。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhudi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1410年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1036,
+    "id": "ann-cl-ming-1411-476",
+    "title": "会通河疏浚",
+    "start": 1411,
+    "end": 1411,
+    "summary": "宋礼等整治运河。",
+    "importance": "改善南粮北运与北京物资供给。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-b729f95bf2f3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1411年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1037,
+    "id": "ann-cl-ming-1413-477",
+    "title": "贵州布政使司设立",
+    "start": 1413,
+    "end": 1413,
+    "summary": "平定思州思南土司后设省。",
+    "importance": "西南治理结构进一步变化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1413年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1038,
+    "id": "ann-cl-ming-1414-478",
+    "title": "永乐第二次北征",
+    "start": 1414,
+    "end": 1414,
+    "summary": "明军与瓦剌在漠北交战。",
+    "importance": "草原军事平衡继续变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhudi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1414年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1039,
+    "id": "ann-cl-ming-1415-479",
+    "title": "海运转向漕运",
+    "start": 1415,
+    "end": 1415,
+    "summary": "会通河贯通后大规模南粮北运更多依靠内河系统。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1415年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1040,
+    "id": "ann-cl-ming-1418-480",
+    "title": "郑和船队抵达东非沿海",
+    "start": 1418,
+    "end": 1418,
+    "summary": "远航联系东非港口。",
+    "importance": "朝贡交流与地方贸易相互交织。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhenghe"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1418年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1041,
+    "id": "ann-cl-ming-1420-481",
+    "title": "东厂设立",
+    "start": 1420,
+    "end": 1420,
+    "summary": "宦官主持的侦缉机构形成。",
+    "importance": "与锦衣卫共同强化皇帝监控。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1420年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1042,
+    "id": "ann-cl-ming-1420-482",
+    "title": "北京宫城基本建成",
+    "start": 1420,
+    "end": 1420,
+    "summary": "紫禁城主要建筑告成。",
+    "importance": "新都的礼制与行政空间形成。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1420年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1043,
+    "id": "ann-cl-ming-1421-484",
+    "title": "北京宫殿遭雷火",
+    "start": 1421,
+    "end": 1421,
+    "summary": "新建宫殿发生火灾。",
+    "importance": "皇帝下诏求言，迁都政策引发议论。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1421年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1044,
+    "id": "ann-cl-ming-1421-483",
+    "title": "明正式迁都北京",
+    "start": 1421,
+    "end": 1421,
+    "summary": "北京成为京师。",
+    "importance": "南京保留留都机构与部分中央官署。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1421年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1045,
+    "id": "ann-cl-ming-1422-485",
+    "title": "永乐第三次北征",
+    "start": 1422,
+    "end": 1422,
+    "summary": "明军追击阿鲁台。",
+    "importance": "军事远征消耗持续扩大。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhudi",
+      "ann-person-c76386ea1d82"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1422年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1046,
+    "id": "ann-cl-ming-1423-486",
+    "title": "永乐第四次北征",
+    "start": 1423,
+    "end": 1423,
+    "summary": "明军再出塞但未获决定性战果。",
+    "importance": "补给负担更加突出。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhudi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1423年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1047,
+    "id": "ann-cl-ming-1424-487",
+    "title": "朱棣北征途中去世",
+    "start": 1424,
+    "end": 1424,
+    "summary": "永乐帝死于榆木川。",
+    "importance": "仁宗继位后调整远征政策。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhudi",
+      "ann-person-9551532cda60"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1424年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1048,
+    "id": "ann-cl-ming-1425-488",
+    "title": "宣宗继位",
+    "start": 1425,
+    "end": 1425,
+    "summary": "仁宗短暂在位后去世。",
+    "importance": "宣宗延续政治与财政调整。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-39cc2668db7b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1425年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1049,
+    "id": "ann-cl-ming-1426-489",
+    "title": "汉王朱高煦叛乱",
+    "start": 1426,
+    "end": 1426,
+    "summary": "朱高煦在乐安起兵。",
+    "importance": "宣宗亲征迅速平定。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-58793bc0c57a",
+      "ann-person-39cc2668db7b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1426年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1050,
+    "id": "ann-cl-ming-1427-490",
+    "title": "明军退出安南",
+    "start": 1427,
+    "end": 1427,
+    "summary": "战争与地方抵抗使明放弃直接统治。",
+    "importance": "黎利政权兴起。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-f7f791ee2486"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1427年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1051,
+    "id": "ann-cl-ming-1430-496",
+    "title": "于谦巡抚河南山西",
+    "start": 1430,
+    "end": 1430,
+    "summary": "于谦参与地方赈济与防务。",
+    "importance": "形成后来主持京防的行政经验。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "yuqian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1430年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1052,
+    "id": "ann-cl-ming-1431-492",
+    "title": "郑和第七次远航",
+    "start": 1431,
+    "end": 1433,
+    "summary": "最后一次大型官办远航重访印度洋。",
+    "importance": "随后官方航海收缩。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhenghe"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1431年—1433年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1053,
+    "id": "ann-cl-ming-1435-493",
+    "title": "英宗幼年即位",
+    "start": 1435,
+    "end": 1435,
+    "summary": "张太后与内阁大臣辅政。",
+    "importance": "宫廷与文官共同维持政务。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhuqizhen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1435年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1054,
+    "id": "ann-cl-ming-1436-494",
+    "title": "江南部分赋粮折银",
+    "start": 1436,
+    "end": 1436,
+    "summary": "金花银制度逐渐形成。",
+    "importance": "赋税货币化出现重要发展。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1436年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1055,
+    "id": "ann-cl-ming-1441-495",
+    "title": "麓川战争扩大",
+    "start": 1441,
+    "end": 1441,
+    "summary": "明军深入滇西与缅甸交界。",
+    "importance": "长期军事动员影响西南社会。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-fc4750b7fc9e",
+      "ann-person-a8f91aff642d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1441年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1056,
+    "id": "ann-cl-ming-1448-497",
+    "title": "邓茂七起义",
+    "start": 1448,
+    "end": 1448,
+    "summary": "福建佃农等反抗征敛。",
+    "importance": "民众战争震动东南地区。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-e4da6a200b09"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1448年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1057,
+    "id": "ann-cl-ming-1450-500",
+    "title": "英宗被迎回北京",
+    "start": 1450,
+    "end": 1450,
+    "summary": "景帝维持皇位。",
+    "importance": "英宗居南宫，形成潜在的宫廷冲突。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-dpm-jingtai"
+    ],
+    "personIds": [
+      "zhuqizhen",
+      "ann-person-c3ea20e470b7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1450年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1058,
+    "id": "ann-cl-ming-1452-502",
+    "title": "景泰易储",
+    "start": 1452,
+    "end": 1452,
+    "summary": "景帝废朱见深改立朱见济。",
+    "importance": "皇室两支关系更加紧张。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-dpm-jingtai"
+    ],
+    "personIds": [
+      "ann-person-0c4e009a62fd",
+      "ann-person-06b600b36a95"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1452年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1059,
+    "id": "ann-cl-ming-1457-503",
+    "title": "夺门之变",
+    "start": 1457,
+    "end": 1457,
+    "summary": "石亨曹吉祥等拥英宗复位。",
+    "importance": "于谦被杀。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-dpm-jingtai"
+    ],
+    "personIds": [
+      "ann-person-3ad30f06f331",
+      "ann-person-cbd7ae1a6e5e",
+      "yuqian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1457年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1060,
+    "id": "ann-cl-ming-1461-504",
+    "title": "曹钦之变",
+    "start": 1461,
+    "end": 1461,
+    "summary": "曹钦在北京发动兵变失败。",
+    "importance": "夺门功臣集团遭清除。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-4e469184072a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1461年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1061,
+    "id": "ann-cl-ming-1465-505",
+    "title": "大藤峡之战",
+    "start": 1465,
+    "end": 1465,
+    "summary": "韩雍等镇压广西地区反抗。",
+    "importance": "朝廷加强西南军事控制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-7723af439692"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1465年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1062,
+    "id": "ann-cl-ming-1467-506",
+    "title": "荆襄流民起事",
+    "start": 1467,
+    "end": 1467,
+    "summary": "刘通等领导流民反抗。",
+    "importance": "山地移民与土地问题成为治理难题。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-25cf50a399d0"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1467年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1063,
+    "id": "ann-cl-ming-1470-507",
+    "title": "明设郧阳抚治",
+    "start": 1470,
+    "end": 1470,
+    "summary": "朝廷承认部分流民定居。",
+    "importance": "加强荆襄山地行政管理。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-0b0eb306e61e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1470年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1064,
+    "id": "ann-cl-ming-1473-508",
+    "title": "红盐池之战",
+    "start": 1473,
+    "end": 1473,
+    "summary": "王越奇袭蒙古驻地获胜。",
+    "importance": "明朝西北边防一度得到改善。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-a6ed7fb7a307"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1473年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1065,
+    "id": "ann-cl-ming-1477-509",
+    "title": "西厂设立",
+    "start": 1477,
+    "end": 1477,
+    "summary": "汪直主持新侦缉机构。",
+    "importance": "厂卫政治进一步扩张。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-0104568500aa"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1477年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1066,
+    "id": "ann-cl-ming-1482-510",
+    "title": "西厂第一次制度终结",
+    "start": 1482,
+    "end": 1482,
+    "summary": "朝廷罢汪直及西厂。",
+    "importance": "文官对侦缉权力的抵制取得结果。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-0104568500aa"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1482年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1067,
+    "id": "ann-cl-ming-1487-511",
+    "title": "孝宗即位",
+    "start": 1487,
+    "end": 1487,
+    "summary": "弘治朝减免部分赋役并整顿官吏。",
+    "importance": "出现相对稳定局面。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-6d4d41409196"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1487年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1068,
+    "id": "ann-cl-ming-1488-512",
+    "title": "弘治新政",
+    "start": 1488,
+    "end": 1488,
+    "summary": "明廷罢黜部分佞幸。",
+    "importance": "调整财政与地方灾荒救济。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-6d4d41409196"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1488年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1069,
+    "id": "ann-cl-ming-1492-513",
+    "title": "盐法改折银",
+    "start": 1492,
+    "end": 1492,
+    "summary": "叶淇改革盐商输粮开中办法。",
+    "importance": "边粮供给与商业资金结构变化。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-50ab0bf98bb7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1492年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1070,
+    "id": "ann-cl-ming-1494-514",
+    "title": "张秋治河",
+    "start": 1494,
+    "end": 1494,
+    "summary": "刘大夏整治黄河与运河交汇水患。",
+    "importance": "保障漕运线路。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-1b66bc8a977a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1494年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1071,
+    "id": "ann-cl-ming-1498-515",
+    "title": "大明会典开始纂修",
+    "start": 1497,
+    "end": 1497,
+    "summary": "弘治帝命大学士徐溥等纂修《大明会典》。",
+    "importance": "汇编明代官署职掌与制度，为后来成书和刊布建立基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-dpm-hongzhi"
+    ],
+    "personIds": [
+      "ann-person-9ad086cb42de"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1497年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1072,
+    "id": "ann-cl-ming-1500-516",
+    "title": "弘治大明会典修成",
+    "start": 1502,
+    "end": 1502,
+    "summary": "1502年弘治《大明会典》修成，但当时没有刊布。",
+    "importance": "正德朝参校后于1511年刊行，须区别编成、参校与印行三个时间。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-dpm-hongzhi",
+      "cl-dpm-huidian"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1502年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1073,
+    "id": "ann-cl-ming-1505-517",
+    "title": "武宗即位",
+    "start": 1505,
+    "end": 1505,
+    "summary": "朱厚照继位。",
+    "importance": "宦官与近臣势力迅速扩大。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-a0f1c92991a9"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1505年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1074,
+    "id": "ann-cl-ming-1506-518",
+    "title": "刘瑾掌权",
+    "start": 1506,
+    "end": 1506,
+    "summary": "八虎集团操纵朝政。",
+    "importance": "对文官体系发动政治清洗。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-dcefc678c583"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1506年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1075,
+    "id": "ann-cl-ming-1506-519",
+    "title": "王阳明被贬龙场",
+    "start": 1506,
+    "end": 1506,
+    "summary": "王守仁因反对宦官获罪。",
+    "importance": "谪居经历促使其思想转折。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "wangshouren"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1506年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1076,
+    "id": "ann-cl-ming-1508-520",
+    "title": "龙场悟道",
+    "start": 1508,
+    "end": 1508,
+    "summary": "王守仁在贵州形成心学的重要认识。",
+    "importance": "后开展讲学传播。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "wangshouren"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1508年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1077,
+    "id": "ann-cl-ming-1510-522",
+    "title": "刘六刘七起义",
+    "start": 1510,
+    "end": 1510,
+    "summary": "民众起事波及北直隶与山东等地。",
+    "importance": "反映征敛及基层失序。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-696052c050e5",
+      "ann-person-2696b5a6906e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1510年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1078,
+    "id": "ann-cl-ming-1510-521",
+    "title": "刘瑾被诛",
+    "start": 1510,
+    "end": 1510,
+    "summary": "张永等揭发刘瑾。",
+    "importance": "武宗清除权势宦官集团。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-dcefc678c583",
+      "ann-person-b492d251910d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1510年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1079,
+    "id": "ann-cl-ming-1511-523",
+    "title": "葡萄牙占领马六甲",
+    "start": 1511,
+    "end": 1511,
+    "summary": "海上贸易格局改变。",
+    "importance": "葡人随后寻求与明朝直接通商。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1511年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1080,
+    "id": "ann-cl-ming-1513-524",
+    "title": "葡萄牙人抵中国沿海",
+    "start": 1513,
+    "end": 1513,
+    "summary": "欧洲商人进入华南贸易网络。",
+    "importance": "海上交往出现新的参与者。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1513年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1081,
+    "id": "ann-cl-ming-1517-525",
+    "title": "王阳明平定南赣起事",
+    "start": 1517,
+    "end": 1517,
+    "summary": "王守仁组织保甲与军队治理山区。",
+    "importance": "将政治实践与心学相结合。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "wangshouren"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1517年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1082,
+    "id": "ann-cl-ming-1519-526",
+    "title": "宁王之乱",
+    "start": 1519,
+    "end": 1519,
+    "summary": "朱宸濠在南昌起兵。",
+    "importance": "王守仁迅速平定。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-bd0188decacf",
+      "wangshouren"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1519年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1083,
+    "id": "ann-cl-ming-1521-527",
+    "title": "嘉靖即位与大礼议",
+    "start": 1521,
+    "end": 1521,
+    "summary": "朱厚熜以藩王继统。",
+    "importance": "亲生父母名号引发长期政治争论。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-3b5b4f63d344"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1521年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1084,
+    "id": "ann-cl-ming-1521-528",
+    "title": "屯门海战",
+    "start": 1521,
+    "end": 1521,
+    "summary": "明军与葡萄牙武装在广东海域交战。",
+    "importance": "争议转为军事冲突。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1521年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1085,
+    "id": "ann-cl-ming-1522-529",
+    "title": "西草湾海战",
+    "start": 1522,
+    "end": 1522,
+    "summary": "明军再次击退葡萄牙舰队。",
+    "importance": "华南通商关系尚未稳定。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1522年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1086,
+    "id": "ann-cl-ming-1524-530",
+    "title": "大礼议廷杖",
+    "start": 1524,
+    "end": 1524,
+    "summary": "反对礼制更改的大臣被大规模惩处。",
+    "importance": "皇帝压倒文官抗争。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-3b5b4f63d344",
+      "ann-person-d35933f04bbe"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1524年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1087,
+    "id": "ann-cl-ming-1527-531",
+    "title": "思田之役",
+    "start": 1527,
+    "end": 1527,
+    "summary": "王守仁处理广西土司与地方起事。",
+    "importance": "西南治理强调招抚与军事并用。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "wangshouren"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1527年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1088,
+    "id": "ann-cl-ming-1529-532",
+    "title": "王守仁去世",
+    "start": 1529,
+    "end": 1529,
+    "summary": "其门人继续传播心学。",
+    "importance": "明代士人思想与讲学活动深受影响。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "wangshouren"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1529年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1089,
+    "id": "ann-cl-ming-1530-533",
+    "title": "嘉靖重整郊祀礼制",
+    "start": 1530,
+    "end": 1530,
+    "summary": "皇帝调整天地祭祀安排。",
+    "importance": "北京礼制建筑格局随之改变。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1530年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1090,
+    "id": "ann-cl-ming-1542-534",
+    "title": "壬寅宫变",
+    "start": 1542,
+    "end": 1542,
+    "summary": "宫女谋刺嘉靖帝失败。",
+    "importance": "宫廷内部压迫与恐惧暴露。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-3b5b4f63d344"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1542年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1091,
+    "id": "ann-cl-ming-1547-535",
+    "title": "朱纨巡抚浙闽",
+    "start": 1547,
+    "end": 1547,
+    "summary": "朝廷试图整顿走私和海防。",
+    "importance": "打击海商引起地方利益冲突。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-5a26cac26eab"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1547年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1092,
+    "id": "ann-cl-ming-1548-536",
+    "title": "双屿港被毁",
+    "start": 1548,
+    "end": 1548,
+    "summary": "明军摧毁大型海上贸易据点。",
+    "importance": "海商活动分散并转向武装化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-5a26cac26eab"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1548年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1093,
+    "id": "ann-cl-ming-1549-537",
+    "title": "朱纨被劾自杀",
+    "start": 1549,
+    "end": 1549,
+    "summary": "海禁治理遭地方官绅与朝廷政治阻力。",
+    "importance": "沿海危机继续发展。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-5a26cac26eab"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1549年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1094,
+    "id": "ann-cl-ming-1550-538",
+    "title": "庚戌之变",
+    "start": 1550,
+    "end": 1550,
+    "summary": "俺答汗军逼北京。",
+    "importance": "明朝京畿防御与对蒙古贸易政策受考验。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-dad021748d99"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1550年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1095,
+    "id": "ann-cl-ming-1553-539",
+    "title": "北京外城修筑",
+    "start": 1553,
+    "end": 1553,
+    "summary": "明廷加强南郊城防。",
+    "importance": "京师城市格局进一步定型。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1553年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1096,
+    "id": "ann-cl-ming-1556-541",
+    "title": "华县大地震",
+    "start": 1556,
+    "end": 1556,
+    "summary": "关中及邻近地区遭强震。",
+    "importance": "大量人口与城镇受到毁灭性打击。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1556年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1097,
+    "id": "ann-cl-ming-1557-542",
+    "title": "葡萄牙人居留澳门",
+    "start": 1557,
+    "end": 1557,
+    "summary": "葡人获准在澳门居留贸易。",
+    "importance": "形成长期中外商贸接点。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1557年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1098,
+    "id": "ann-cl-ming-1559-543",
+    "title": "汪直被处死",
+    "start": 1559,
+    "end": 1559,
+    "summary": "海商首领被杀。",
+    "importance": "招抚与严禁之争未能迅速结束倭患。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-0104568500aa"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1559年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1099,
+    "id": "ann-cl-ming-1561-544",
+    "title": "台州抗倭九战",
+    "start": 1561,
+    "end": 1561,
+    "summary": "戚继光所部以训练和战术优势连续获胜。",
+    "importance": "江浙倭势减弱。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "qijiguang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1561年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1100,
+    "id": "ann-cl-ming-1562-545",
+    "title": "横屿之战",
+    "start": 1562,
+    "end": 1562,
+    "summary": "戚继光入闽作战。",
+    "importance": "击破海岛倭寇据点。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "qijiguang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1562年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1101,
+    "id": "ann-cl-ming-1563-546",
+    "title": "平海卫之战",
+    "start": 1563,
+    "end": 1563,
+    "summary": "戚继光俞大猷等协同攻克倭寇据点。",
+    "importance": "福建海防好转。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "qijiguang",
+      "ann-person-3b3d238cb92f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1563年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1102,
+    "id": "ann-cl-ming-1565-547",
+    "title": "李时珍修撰本草纲目",
+    "start": 1565,
+    "end": 1565,
+    "summary": "李时珍长期考察药物并整理典籍。",
+    "importance": "药学知识体系得到重编。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "lishizhen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1565年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1103,
+    "id": "ann-cl-ming-1566-548",
+    "title": "海瑞上治安疏",
+    "start": 1566,
+    "end": 1566,
+    "summary": "海瑞直言批评嘉靖政治。",
+    "importance": "入狱后因皇帝去世获释。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-7efe2a6a91f8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1566年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1104,
+    "id": "ann-cl-ming-1567-549",
+    "title": "隆庆开关",
+    "start": 1567,
+    "end": 1567,
+    "summary": "明准许民间从月港等处出海贸易。",
+    "importance": "海禁政策出现重要松动。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events",
+      "cl-moonport"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1567年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1105,
+    "id": "ann-cl-ming-1570-550",
+    "title": "俺答封贡谈判",
+    "start": 1570,
+    "end": 1570,
+    "summary": "俺答家族成员归明促成谈判。",
+    "importance": "边贸与军事关系出现转折。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-dad021748d99",
+      "ann-person-16d259e12f5c"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1570年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1106,
+    "id": "ann-cl-ming-1571-551",
+    "title": "隆庆和议",
+    "start": 1571,
+    "end": 1571,
+    "summary": "明封俺答为顺义王并开放互市。",
+    "importance": "北部边境进入相对和平。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-dad021748d99",
+      "ann-person-16d259e12f5c"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1571年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1107,
+    "id": "ann-cl-ming-1572-552",
+    "title": "张居正执政",
+    "start": 1572,
+    "end": 1572,
+    "summary": "万历帝幼年即位。",
+    "importance": "首辅张居正主导财政与吏治整顿。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhangjuzheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1572年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1108,
+    "id": "ann-cl-ming-1573-553",
+    "title": "考成法推行",
+    "start": 1573,
+    "end": 1573,
+    "summary": "张居正用期限与考核督促官员办理政务。",
+    "importance": "加强中枢执行力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhangjuzheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1573年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1109,
+    "id": "ann-cl-ming-1577-554",
+    "title": "张居正夺情之争",
+    "start": 1577,
+    "end": 1577,
+    "summary": "张居正父死仍留任。",
+    "importance": "礼制与改革权力引发文官强烈争论。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhangjuzheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1577年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1110,
+    "id": "ann-cl-ming-1578-555",
+    "title": "本草纲目初稿完成",
+    "start": 1578,
+    "end": 1578,
+    "summary": "李时珍结束长期编撰。",
+    "importance": "后来继续修订并等待刊刻。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "lishizhen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1578年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1111,
+    "id": "ann-cl-ming-1581-556",
+    "title": "全国推行一条鞭法",
+    "start": 1581,
+    "end": 1581,
+    "summary": "赋役合并折银趋于普遍。",
+    "importance": "财政征收与白银流通联系更紧密。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhangjuzheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1581年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1112,
+    "id": "ann-cl-ming-1582-557",
+    "title": "张居正去世",
+    "start": 1582,
+    "end": 1582,
+    "summary": "改革主导者死后受清算。",
+    "importance": "部分整顿措施和财政成果仍延续。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhangjuzheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1582年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1113,
+    "id": "ann-cl-ming-1583-558",
+    "title": "利玛窦定居肇庆",
+    "start": 1583,
+    "end": 1583,
+    "summary": "耶稣会士在华建立稳定活动据点。",
+    "importance": "西学传播展开。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-8e2195367e7c"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1583年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1115,
+    "id": "ann-cl-ming-1585-559",
+    "title": "戚继光被罢",
+    "start": 1585,
+    "end": 1585,
+    "summary": "长期经营蓟镇防务的将领退出军职。",
+    "importance": "边防人事发生变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "qijiguang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1585年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1116,
+    "id": "ann-cl-ming-1587-560",
+    "title": "海瑞去世",
+    "start": 1587,
+    "end": 1587,
+    "summary": "海瑞清廉与执法事迹成为后世政治道德的重要象征。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-7efe2a6a91f8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1587年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1117,
+    "id": "ann-cl-ming-1592-561",
+    "title": "宁夏之役",
+    "start": 1592,
+    "end": 1592,
+    "summary": "明军平定哱拜叛乱。",
+    "importance": "投入大量兵力与财政资源。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-6ba4a27fc7e9",
+      "ann-person-a79d8a979974"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1592年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1118,
+    "id": "ann-cl-ming-1592-562",
+    "title": "朝鲜壬辰战争",
+    "start": 1592,
+    "end": 1592,
+    "summary": "日本侵朝。",
+    "importance": "明派军援朝，东亚秩序面临跨国战争冲击。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-4b9af96c9902",
+      "ann-person-6ba4a27fc7e9"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1592年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1120,
+    "id": "ann-cl-ming-1593-563",
+    "title": "平壤之战",
+    "start": 1593,
+    "end": 1593,
+    "summary": "明朝援军收复平壤。",
+    "importance": "迫使日军调整进攻部署。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-6ba4a27fc7e9"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1593年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1121,
+    "id": "ann-cl-ming-1596-565",
+    "title": "本草纲目初刊",
+    "start": 1596,
+    "end": 1596,
+    "summary": "金陵胡承龙刊印药学巨著。",
+    "importance": "长期整理成果得以流传。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "lishizhen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1596年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1122,
+    "id": "ann-cl-ming-1596-564",
+    "title": "矿税宦官外派",
+    "start": 1596,
+    "end": 1596,
+    "summary": "万历朝派宦官征矿税商税。",
+    "importance": "激化地方民众与朝廷矛盾。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1596年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1123,
+    "id": "ann-cl-ming-1597-566",
+    "title": "日本再度侵朝",
+    "start": 1597,
+    "end": 1597,
+    "summary": "和谈失败后战争恢复。",
+    "importance": "明与朝鲜继续联合抵抗。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1597年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1124,
+    "id": "ann-cl-ming-1598-567",
+    "title": "露梁海战",
+    "start": 1598,
+    "end": 1598,
+    "summary": "中朝水军阻击日军撤退。",
+    "importance": "持续七年的战争结束。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-37de78d64243",
+      "ann-person-181aa83d17dc",
+      "ann-person-14b997811b92"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1598年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1126,
+    "id": "ann-cl-ming-1600-568",
+    "title": "播州之役",
+    "start": 1600,
+    "end": 1600,
+    "summary": "明平定杨应龙。",
+    "importance": "随后改土归流重组黔北地方行政。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-ab8bdca724a1"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1600年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1127,
+    "id": "ann-cl-ming-1601-569",
+    "title": "利玛窦进入北京",
+    "start": 1601,
+    "end": 1601,
+    "summary": "传教士通过宫廷与士人网络传播钟表、数学和地理知识。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-8e2195367e7c"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1601年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1129,
+    "id": "ann-cl-ming-1604-570",
+    "title": "东林书院重建",
+    "start": 1604,
+    "end": 1604,
+    "summary": "顾宪成等恢复讲学。",
+    "importance": "形成影响朝政的士人舆论网络。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-022373a88493",
+      "ann-person-2fb004722d14"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1604年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1130,
+    "id": "ann-cl-ming-1607-571",
+    "title": "几何原本前六卷中译",
+    "start": 1607,
+    "end": 1607,
+    "summary": "徐光启利玛窦合作译书。",
+    "importance": "将欧几里得证明体系引入中文。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "xuguangqi",
+      "ann-person-8e2195367e7c"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1607年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1131,
+    "id": "ann-cl-ming-1610-572",
+    "title": "李之藻受洗",
+    "start": 1610,
+    "end": 1610,
+    "summary": "士大夫基督徒推动西学译介。",
+    "importance": "形成跨文化学术合作网络。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-3f3b3d9918d2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1610年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1133,
+    "id": "ann-cl-ming-1615-573",
+    "title": "梃击案",
+    "start": 1615,
+    "end": 1615,
+    "summary": "男子持梃闯太子宫。",
+    "importance": "引发围绕储位与党争的调查冲突。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1615年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1134,
+    "id": "ann-cl-ming-1616-574",
+    "title": "南京教案",
+    "start": 1616,
+    "end": 1616,
+    "summary": "朝廷限制部分传教活动。",
+    "importance": "西学与宗教传播受到政治阻力。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-11bcce621604"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1616年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1136,
+    "id": "ann-cl-ming-1617-575",
+    "title": "张燮东西洋考刊行",
+    "start": 1617,
+    "end": 1617,
+    "summary": "作品整理海上航路、商贸与沿海制度。",
+    "importance": "保存晚明海洋知识。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-e0647795f481"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1617年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1140,
+    "id": "ann-cl-ming-1619-576",
+    "title": "萨尔浒之战",
+    "start": 1619,
+    "end": 1619,
+    "summary": "明军多路进攻后金惨败。",
+    "importance": "辽东军事主动权转向后金。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-61e806773780",
+      "nurhaci"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1619年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1141,
+    "id": "ann-cl-ming-1620-577",
+    "title": "红丸案与移宫案",
+    "start": 1620,
+    "end": 1620,
+    "summary": "泰昌帝骤逝后继位与宫廷居住安排成为政治争议焦点。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-21cb1ea1f2a7",
+      "ann-person-52353ac67cf8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1620年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1143,
+    "id": "ann-cl-ming-1621-578",
+    "title": "辽沈失守",
+    "start": 1621,
+    "end": 1621,
+    "summary": "后金攻占辽阳沈阳。",
+    "importance": "明在辽东的主要统治基础崩溃。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1621年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1144,
+    "id": "ann-cl-ming-1622-579",
+    "title": "广宁之战",
+    "start": 1622,
+    "end": 1622,
+    "summary": "明军失败并撤出辽西大片区域。",
+    "importance": "王化贞熊廷弼获罪。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-5235fc23f5bf",
+      "ann-person-b568cffec872"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1622年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1145,
+    "id": "ann-cl-ming-1624-580",
+    "title": "魏忠贤党势扩张",
+    "start": 1624,
+    "end": 1624,
+    "summary": "东林官员遭排斥。",
+    "importance": "宦官利用特务与司法机构清洗政敌。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-b9d1af136ad8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1624年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1146,
+    "id": "ann-cl-ming-1625-581",
+    "title": "东林党狱",
+    "start": 1625,
+    "end": 1625,
+    "summary": "杨涟左光斗等被捕并死于狱中。",
+    "importance": "政治迫害广泛波及士林。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-00b9d4a6e9d3",
+      "ann-person-38932b0b0713"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1625年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1148,
+    "id": "ann-cl-ming-1626-582",
+    "title": "宁远之战",
+    "start": 1626,
+    "end": 1626,
+    "summary": "袁崇焕守城击退后金。",
+    "importance": "火炮与城防发挥关键作用。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "yuanchonghuan"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1626年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1149,
+    "id": "ann-cl-ming-1626-583",
+    "title": "王恭厂大爆炸",
+    "start": 1626,
+    "end": 1626,
+    "summary": "北京军火工场周边发生惨烈灾害。",
+    "importance": "事故原因与损失有争议。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "灾害存在记载，事故原因、死亡人数及部分奇异描述仍有争议。",
+    "dateLabel": "1626年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1152,
+    "id": "ann-cl-ming-1627-584",
+    "title": "崇祯即位清除魏忠贤",
+    "start": 1627,
+    "end": 1627,
+    "summary": "新帝迅速倒阉。",
+    "importance": "部分受迫害官员得到平反。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "zhuyoujian",
+      "ann-person-b9d1af136ad8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1627年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1153,
+    "id": "ann-cl-ming-1627-585",
+    "title": "陕北民众起义扩大",
+    "start": 1627,
+    "end": 1628,
+    "summary": "灾荒、赋役及驿站裁撤等因素交织。",
+    "importance": "反明战争蔓延。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-4488a82e3b40"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1627年—1628年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1155,
+    "id": "ann-cl-ming-1629-586",
+    "title": "己巳之变",
+    "start": 1629,
+    "end": 1629,
+    "summary": "后金绕过宁锦防线逼北京。",
+    "importance": "明辽东防御体系遭战略迂回。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "huangtaiji"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1629年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1156,
+    "id": "ann-cl-ming-1630-587",
+    "title": "袁崇焕被杀",
+    "start": 1630,
+    "end": 1630,
+    "summary": "崇祯因战局与猜疑处死袁崇焕。",
+    "importance": "边防指挥体系遭受震荡。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "yuanchonghuan"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1630年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1158,
+    "id": "ann-cl-ming-1631-588",
+    "title": "吴桥兵变",
+    "start": 1631,
+    "end": 1631,
+    "summary": "孔有德所部因供给和军纪问题哗变。",
+    "importance": "后来投向后金。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-c6a7140ce5a8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1631年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1161,
+    "id": "ann-cl-ming-1633-589",
+    "title": "孔有德耿仲明降后金",
+    "start": 1633,
+    "end": 1633,
+    "summary": "军事人员与火器技术转入后金。",
+    "importance": "明清战力对比变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-c6a7140ce5a8",
+      "ann-person-3392a94f118f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1633年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1163,
+    "id": "ann-cl-ming-1635-590",
+    "title": "农民军攻凤阳",
+    "start": 1635,
+    "end": 1635,
+    "summary": "高迎祥等部攻破明皇陵地区。",
+    "importance": "明廷威望受到重大打击。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-0e3dd2067551"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1635年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1168,
+    "id": "ann-cl-ming-1636-591",
+    "title": "高迎祥被俘",
+    "start": 1636,
+    "end": 1636,
+    "summary": "孙传庭击败闯王高迎祥。",
+    "importance": "李自成继承闯王名号。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-6fb96d995ec9",
+      "ann-person-0e3dd2067551",
+      "lizicheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1636年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1169,
+    "id": "ann-cl-ming-1637-592",
+    "title": "天工开物刊行",
+    "start": 1637,
+    "end": 1637,
+    "summary": "宋应星系统总结农业与手工业技术。",
+    "importance": "保存生产工艺知识。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "songyingxing"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1637年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1170,
+    "id": "ann-cl-ming-1639-594",
+    "title": "农政全书刊行",
+    "start": 1639,
+    "end": 1639,
+    "summary": "徐光启遗稿经陈子龙等整理刊印。",
+    "importance": "汇集农业与水利知识。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "xuguangqi",
+      "ann-person-8de9ff3fd99e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1639年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1171,
+    "id": "ann-cl-ming-1639-593",
+    "title": "张献忠再次起兵",
+    "start": 1639,
+    "end": 1639,
+    "summary": "谷城受抚失败后重启战争。",
+    "importance": "湖广地区战事加剧。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-f2e669ef06a2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1639年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1173,
+    "id": "ann-cl-ming-1641-595",
+    "title": "李自成攻克洛阳",
+    "start": 1641,
+    "end": 1641,
+    "summary": "福王朱常洵被杀。",
+    "importance": "起义军在河南迅速扩大影响。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "lizicheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1641年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1175,
+    "id": "ann-cl-ming-1642-597",
+    "title": "开封水灾",
+    "start": 1642,
+    "end": 1642,
+    "summary": "围城中黄河决堤淹城。",
+    "importance": "平民遭巨大灾难，决口责任有争论。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [],
+    "note": "1642年黄河决口淹城确有其事；不同史料对主动决河者有冲突记述。",
+    "dateLabel": "1642年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1176,
+    "id": "ann-cl-ming-1642-596",
+    "title": "松锦之战结束",
+    "start": 1642,
+    "end": 1642,
+    "summary": "洪承畴被俘降清。",
+    "importance": "明在关外的主要野战力量遭重创。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-68dd22e4d5c1"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1642年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1178,
+    "id": "ann-cl-ming-1643-598",
+    "title": "李自成建立大顺基础",
+    "start": 1643,
+    "end": 1643,
+    "summary": "起义军攻入襄阳西安。",
+    "importance": "形成争夺全国政权的根据地。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "lizicheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1643年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  },
+  {
+    "_order": 1180,
+    "id": "ann-cl-ming-1644-600",
+    "title": "南京弘光政权建立",
+    "start": 1644,
+    "end": 1644,
+    "summary": "朱由崧在南京即位。",
+    "importance": "南明继续组织抵抗但内部冲突严重。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-dpm-events"
+    ],
+    "personIds": [
+      "ann-person-4062429efd4b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "1644年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "ming",
+    "lane": "china",
+    "themeId": "ming"
+  }
+]

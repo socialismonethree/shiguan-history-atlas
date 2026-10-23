@@ -1,0 +1,3535 @@
+[
+  {
+    "_order": 573,
+    "id": "ann-cl-tang-618-2",
+    "title": "唐军平定薛仁杲",
+    "start": 618,
+    "end": 618,
+    "summary": "李世民击败陇西割据势力。",
+    "importance": "稳定关中西侧。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years",
+      "cl-qianshui"
+    ],
+    "personIds": [
+      "tang-taizong",
+      "ann-person-e92f63177feb"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "618年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 575,
+    "id": "ann-cl-tang-620-3",
+    "title": "唐军围攻洛阳",
+    "start": 620,
+    "end": 620,
+    "summary": "李世民进攻王世充。",
+    "importance": "为夺取中原展开长期围城。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "tang-taizong",
+      "ann-person-2331d1cb9b9c"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "620年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 576,
+    "id": "ann-cl-tang-621-4",
+    "title": "虎牢之战",
+    "start": 621,
+    "end": 621,
+    "summary": "唐军击败援洛的窦建德。",
+    "importance": "王世充随后投降。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "tang-taizong",
+      "doujiande",
+      "ann-person-2331d1cb9b9c"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "621年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 577,
+    "id": "ann-cl-tang-622-5",
+    "title": "平定刘黑闼第一阶段",
+    "start": 622,
+    "end": 622,
+    "summary": "唐军在河北击败刘黑闼。",
+    "importance": "隋末战争仍未完全结束。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-a6865d3623e4",
+      "tang-taizong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "622年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 578,
+    "id": "ann-cl-tang-623-6",
+    "title": "李建成平刘黑闼",
+    "start": 623,
+    "end": 623,
+    "summary": "刘黑闼兵败被杀。",
+    "importance": "唐朝重新控制河北主要地区。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-c1642ca56330",
+      "ann-person-a6865d3623e4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "623年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 579,
+    "id": "ann-cl-tang-624-7",
+    "title": "唐初均田与租庸调定制",
+    "start": 624,
+    "end": 624,
+    "summary": "国家按户口授田并征收租庸调。",
+    "importance": "以恢复农业和财政。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "624年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 580,
+    "id": "ann-cl-tang-624-9",
+    "title": "唐平辅公祏",
+    "start": 624,
+    "end": 624,
+    "summary": "江南反唐力量被镇压。",
+    "importance": "东南地区逐渐纳入统一统治。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-e1b1dd28ef86"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "624年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 581,
+    "id": "ann-cl-tang-624-8",
+    "title": "武德律颁行",
+    "start": 624,
+    "end": 624,
+    "summary": "唐朝在隋律基础上修订法律。",
+    "importance": "构建新王朝司法秩序。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "624年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 582,
+    "id": "ann-cl-tang-626-11",
+    "title": "渭水之盟",
+    "start": 626,
+    "end": 626,
+    "summary": "突厥军逼近长安。",
+    "importance": "唐与突厥暂时议和争取恢复时间。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-d3cfabf5da47",
+      "tang-taizong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "626年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 583,
+    "id": "ann-cl-tang-627-12",
+    "title": "贞观之治开始",
+    "start": 627,
+    "end": 627,
+    "summary": "唐太宗调整政治并重视纳谏。",
+    "importance": "推行休养生息政策。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "tang-taizong",
+      "weizheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "627年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 584,
+    "id": "ann-cl-tang-629-13",
+    "title": "玄奘西行求法",
+    "start": 629,
+    "end": 629,
+    "summary": "玄奘离开唐境。",
+    "importance": "跨越中亚前往印度学习佛教。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "xuanzang"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。通行叙述系629年，亦有627等说；此处采用629年前后，不按单一确日定位。",
+    "dateLabel": "约629年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 585,
+    "id": "ann-cl-tang-630-14",
+    "title": "唐破东突厥",
+    "start": 630,
+    "end": 630,
+    "summary": "李靖率军击败颉利可汗。",
+    "importance": "唐朝北部力量对比改变。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-0c76dd76ecb4",
+      "ann-person-d3cfabf5da47"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "630年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 586,
+    "id": "ann-cl-tang-632-15",
+    "title": "魏征劝止封禅",
+    "start": 632,
+    "end": 632,
+    "summary": "朝廷在灾荒与民力不足之际放弃举行封禅大典。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "weizheng"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "632年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 587,
+    "id": "ann-cl-tang-635-16",
+    "title": "唐军击败吐谷浑",
+    "start": 635,
+    "end": 635,
+    "summary": "李靖率军远征青海地区。",
+    "importance": "吐谷浑政治格局发生变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-0c76dd76ecb4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "635年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 588,
+    "id": "ann-cl-tang-638-17",
+    "title": "吐蕃进攻松州",
+    "start": 638,
+    "end": 638,
+    "summary": "唐蕃在松州发生战争。",
+    "importance": "随后转入和亲谈判。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-a100cf805a1a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "638年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 589,
+    "id": "ann-cl-tang-638-18",
+    "title": "氏族志编成",
+    "start": 638,
+    "end": 638,
+    "summary": "唐廷评定士族等级。",
+    "importance": "试图调整旧门阀与皇权的关系。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "638年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 590,
+    "id": "ann-cl-tang-640-19",
+    "title": "平高昌与安西都护府",
+    "start": 640,
+    "end": 640,
+    "summary": "唐灭高昌麴氏政权。",
+    "importance": "设置安西都护府管理西域事务。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-42a42fbd4874"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "640年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 591,
+    "id": "ann-cl-tang-643-21",
+    "title": "凌烟阁绘功臣像",
+    "start": 643,
+    "end": 643,
+    "summary": "唐太宗表彰开国功臣。",
+    "importance": "塑造王朝政治记忆。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-4c379f4077c2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "643年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 592,
+    "id": "ann-cl-tang-643-22",
+    "title": "太子李承乾被废",
+    "start": 643,
+    "end": 643,
+    "summary": "谋变案导致皇储更替。",
+    "importance": "李治被立为太子。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-f6e11e8c2d10",
+      "ann-person-2a384ea4cef7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "643年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 593,
+    "id": "ann-cl-tang-645-24",
+    "title": "唐太宗征高句丽",
+    "start": 645,
+    "end": 645,
+    "summary": "唐军未能攻下安市城。",
+    "importance": "撤军后战争仍在继续。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "tang-taizong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "645年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 594,
+    "id": "ann-cl-tang-645-23",
+    "title": "玄奘返回长安",
+    "start": 645,
+    "end": 645,
+    "summary": "玄奘携佛教典籍归国。",
+    "importance": "开始长期翻译和整理工作。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "xuanzang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "645年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 595,
+    "id": "ann-cl-tang-646-25",
+    "title": "唐灭薛延陀",
+    "start": 646,
+    "end": 646,
+    "summary": "唐与铁勒诸部联合击败薛延陀。",
+    "importance": "重组漠北政治关系。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "646年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 596,
+    "id": "ann-cl-tang-648-26",
+    "title": "唐平龟兹",
+    "start": 648,
+    "end": 648,
+    "summary": "唐军攻取龟兹。",
+    "importance": "强化对西域交通节点的控制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-a97483dc7d5d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "648年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 597,
+    "id": "ann-cl-tang-649-27",
+    "title": "唐高宗即位",
+    "start": 649,
+    "end": 649,
+    "summary": "李治继承皇位。",
+    "importance": "贞观政治班底与皇室权力开始调整。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-2a384ea4cef7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "649年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 598,
+    "id": "ann-cl-tang-651-28",
+    "title": "阿拉伯使者来唐",
+    "start": 651,
+    "end": 651,
+    "summary": "大食遣使进入唐朝记录。",
+    "importance": "欧亚政治联系增加。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "651年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 599,
+    "id": "ann-cl-tang-652-29",
+    "title": "大雁塔初建",
+    "start": 652,
+    "end": 652,
+    "summary": "玄奘主持建塔保存佛经。",
+    "importance": "长安佛教空间进一步发展。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "xuanzang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "652年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 600,
+    "id": "ann-cl-tang-653-30",
+    "title": "唐律疏议完成",
+    "start": 653,
+    "end": 653,
+    "summary": "律文与解释合编。",
+    "importance": "成为后世东亚法制的重要参照。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-9bfdd7c62674"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "653年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 601,
+    "id": "ann-cl-tang-655-31",
+    "title": "武则天被立为皇后",
+    "start": 655,
+    "end": 655,
+    "summary": "高宗废王皇后改立武氏。",
+    "importance": "宫廷政治力量重新组合。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "wuzetian",
+      "ann-person-2a384ea4cef7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "655年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 602,
+    "id": "ann-cl-tang-657-32",
+    "title": "唐平西突厥",
+    "start": 657,
+    "end": 657,
+    "summary": "苏定方击败阿史那贺鲁。",
+    "importance": "唐朝在西域增设军政机构。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-f384d413bbc2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "657年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 603,
+    "id": "ann-cl-tang-659-33",
+    "title": "长孙无忌被贬",
+    "start": 659,
+    "end": 659,
+    "summary": "旧辅政大臣退出权力中心。",
+    "importance": "武后与高宗权威加强。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-9bfdd7c62674",
+      "wuzetian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "659年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 604,
+    "id": "ann-cl-tang-660-34",
+    "title": "唐新罗联军灭百济",
+    "start": 660,
+    "end": 660,
+    "summary": "百济王都陷落。",
+    "importance": "朝鲜半岛三国格局发生转折。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-f384d413bbc2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "660年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 605,
+    "id": "ann-cl-tang-663-36",
+    "title": "吐谷浑政权衰亡",
+    "start": 663,
+    "end": 663,
+    "summary": "吐蕃占领吐谷浑核心地区。",
+    "importance": "唐蕃边疆竞争加剧。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "663年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 606,
+    "id": "ann-cl-tang-663-35",
+    "title": "白江口之战",
+    "start": 663,
+    "end": 663,
+    "summary": "唐与新罗联军击败百济复国军及倭国援军。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-360a2177927d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "663年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 607,
+    "id": "ann-cl-tang-665-37",
+    "title": "高宗武后封禅泰山",
+    "start": 665,
+    "end": 665,
+    "summary": "皇帝与皇后共同参与大典。",
+    "importance": "武后政治地位进一步提高。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-2a384ea4cef7",
+      "wuzetian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "665年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 608,
+    "id": "ann-cl-tang-668-38",
+    "title": "唐与新罗灭高句丽",
+    "start": 668,
+    "end": 668,
+    "summary": "平壤陷落。",
+    "importance": "高句丽政权终结，安东都护府设立。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-c9f0623cd581"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "668年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 609,
+    "id": "ann-cl-tang-670-39",
+    "title": "大非川之战",
+    "start": 670,
+    "end": 670,
+    "summary": "唐军败于吐蕃。",
+    "importance": "唐在青海与西域的部署遭受冲击。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-3c929cc7f5b2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "670年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 610,
+    "id": "ann-cl-tang-674-40",
+    "title": "天皇天后称号确立",
+    "start": 674,
+    "end": 674,
+    "summary": "高宗与武后使用新尊号。",
+    "importance": "二圣共治的象征更突出。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-2a384ea4cef7",
+      "wuzetian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "674年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 611,
+    "id": "ann-cl-tang-676-41",
+    "title": "唐罗战争阶段结束",
+    "start": 676,
+    "end": 676,
+    "summary": "唐军退出半岛南部。",
+    "importance": "新罗统一战争形成新边界。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "676年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 612,
+    "id": "ann-cl-tang-683-42",
+    "title": "高宗去世与武后临朝",
+    "start": 683,
+    "end": 683,
+    "summary": "唐高宗去世。",
+    "importance": "武后在继位安排中掌握朝政。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-2a384ea4cef7",
+      "wuzetian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "683年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 613,
+    "id": "ann-cl-tang-684-43",
+    "title": "徐敬业起兵",
+    "start": 684,
+    "end": 684,
+    "summary": "徐敬业在扬州反对武后。",
+    "importance": "起兵很快被镇压。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-e59a010d1565",
+      "ann-person-b41f7d48d23b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "684年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 614,
+    "id": "ann-cl-tang-690-45",
+    "title": "武周举行殿试",
+    "start": 690,
+    "end": 690,
+    "summary": "武则天亲策贡士。",
+    "importance": "进一步扩大科举在选官中的作用。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "wuzetian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "690年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 615,
+    "id": "ann-cl-tang-690-44",
+    "title": "武周建立",
+    "start": 690,
+    "end": 690,
+    "summary": "武则天改唐为周并称帝。",
+    "importance": "改变唐室皇权传承。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "wuzetian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "690年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 616,
+    "id": "ann-cl-tang-692-46",
+    "title": "收复安西四镇",
+    "start": 692,
+    "end": 692,
+    "summary": "王孝杰等收复西域四镇。",
+    "importance": "唐周恢复重要驻防节点。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-e839f09116c5"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "692年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 617,
+    "id": "ann-cl-tang-695-47",
+    "title": "洛阳天枢建成",
+    "start": 695,
+    "end": 695,
+    "summary": "朝廷借大型纪念建筑显示政治权威与多族群朝贡关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "wuzetian"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "695年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 618,
+    "id": "ann-cl-tang-696-48",
+    "title": "契丹李尽忠起兵",
+    "start": 696,
+    "end": 696,
+    "summary": "契丹反抗地方统治。",
+    "importance": "河北及东北局势骤然紧张。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-8ba460fc8979",
+      "ann-person-6101243cbbb5"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "696年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 619,
+    "id": "ann-cl-tang-698-49",
+    "title": "大祚荣建立渤海前身政权",
+    "start": 698,
+    "end": 698,
+    "summary": "粟末靺鞨与高句丽遗民在东北建立震国。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-998510f23ed4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "698年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 620,
+    "id": "ann-cl-tang-702-50",
+    "title": "北庭都护府设立",
+    "start": 702,
+    "end": 702,
+    "summary": "庭州成为天山以北军政重镇。",
+    "importance": "与安西形成分工。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "702年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 621,
+    "id": "ann-cl-tang-705-51",
+    "title": "神龙政变",
+    "start": 705,
+    "end": 705,
+    "summary": "张柬之等迫使武则天退位。",
+    "importance": "唐中宗复位恢复唐号。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-ccf69ece8877",
+      "wuzetian",
+      "ann-person-a2f76eb683b7"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "705年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 622,
+    "id": "ann-cl-tang-707-52",
+    "title": "李重俊兵变",
+    "start": 707,
+    "end": 707,
+    "summary": "太子反对韦后及武三思集团。",
+    "importance": "失败后宫廷冲突加深。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-352b47068e31",
+      "ann-person-6823acb0e893"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "707年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 623,
+    "id": "ann-cl-tang-710-53",
+    "title": "唐隆政变",
+    "start": 710,
+    "end": 710,
+    "summary": "李隆基与太平公主联合诛韦后。",
+    "importance": "拥立睿宗。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "xuanzong",
+      "ann-person-eddbdfb78214"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "710年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 624,
+    "id": "ann-cl-tang-710-54",
+    "title": "金城公主入藏",
+    "start": 710,
+    "end": 710,
+    "summary": "唐蕃再次和亲。",
+    "importance": "政治交往与边境竞争并行。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-9915094e11f6"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "710年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 625,
+    "id": "ann-cl-tang-711-55",
+    "title": "节度使制度发展",
+    "start": 711,
+    "end": 711,
+    "summary": "河西节度使设置。",
+    "importance": "边疆军队指挥逐渐趋向集中。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "711年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 626,
+    "id": "ann-cl-tang-712-56",
+    "title": "玄宗即位",
+    "start": 712,
+    "end": 712,
+    "summary": "李隆基继位。",
+    "importance": "唐朝进入开元政治调整的前夜。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "xuanzong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "712年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 627,
+    "id": "ann-cl-tang-713-57",
+    "title": "先天政变",
+    "start": 713,
+    "end": 713,
+    "summary": "玄宗铲除太平公主集团。",
+    "importance": "结束宫廷权力争夺。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "xuanzong",
+      "ann-person-eddbdfb78214"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "713年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 628,
+    "id": "ann-cl-tang-713-59",
+    "title": "册封渤海郡王",
+    "start": 713,
+    "end": 713,
+    "summary": "唐册封大祚荣为渤海郡王。",
+    "importance": "东北政权关系制度化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-998510f23ed4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "713年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 629,
+    "id": "ann-cl-tang-713-58",
+    "title": "开元新政启动",
+    "start": 713,
+    "end": 713,
+    "summary": "玄宗任用姚崇等整顿吏治、财政与行政运作。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-cbb6d7c63b50",
+      "xuanzong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "713年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 630,
+    "id": "ann-cl-tang-723-60",
+    "title": "募兵长从宿卫",
+    "start": 723,
+    "end": 723,
+    "summary": "唐扩大职业宿卫兵。",
+    "importance": "府兵制度向募兵转化的趋势加快。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "723年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 631,
+    "id": "ann-cl-tang-725-61",
+    "title": "玄宗封禅泰山",
+    "start": 725,
+    "end": 725,
+    "summary": "盛大典礼展示开元政治自信。",
+    "importance": "也增加地方供给负担。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "xuanzong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "725年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 632,
+    "id": "ann-cl-tang-727-62",
+    "title": "吐蕃攻瓜州",
+    "start": 727,
+    "end": 727,
+    "summary": "唐蕃争夺河西交通要道。",
+    "importance": "边镇军事地位不断提高。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "727年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 633,
+    "id": "ann-cl-tang-731-64",
+    "title": "突厥阙特勤去世建碑",
+    "start": 731,
+    "end": 731,
+    "summary": "草原碑铭保存突厥政治记忆。",
+    "importance": "并体现唐突厥交往。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-ef6338db1562"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "731年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 634,
+    "id": "ann-cl-tang-732-63",
+    "title": "开元礼修订推进",
+    "start": 732,
+    "end": 732,
+    "summary": "朝廷整理礼仪制度。",
+    "importance": "国家礼制进一步系统化。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-25552b32fc75"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "732年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 635,
+    "id": "ann-cl-tang-733-65",
+    "title": "全国分十五道",
+    "start": 733,
+    "end": 733,
+    "summary": "唐廷调整监察区划。",
+    "importance": "道逐渐兼具行政与财政功能。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "733年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 636,
+    "id": "ann-cl-tang-733-66",
+    "title": "张九龄入相",
+    "start": 733,
+    "end": 733,
+    "summary": "张九龄参与开元后期政治。",
+    "importance": "反对权臣专断的矛盾显现。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-89fb4a44798d"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "733年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 637,
+    "id": "ann-cl-tang-738-68",
+    "title": "南诏统一六诏",
+    "start": 738,
+    "end": 738,
+    "summary": "皮逻阁获唐支持完成区域整合。",
+    "importance": "西南新势力兴起。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-68d90d6a7b95"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "738年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 638,
+    "id": "ann-cl-tang-742-69",
+    "title": "李白入长安供奉翰林",
+    "start": 742,
+    "end": 742,
+    "summary": "李白进入宫廷文学圈。",
+    "importance": "盛唐诗歌与皇权发生直接联系。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "libai"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "742年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 639,
+    "id": "ann-cl-tang-744-70",
+    "title": "唐与回纥联合灭后突厥",
+    "start": 744,
+    "end": 745,
+    "summary": "草原力量重新组合。",
+    "importance": "回纥汗国兴起。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "744年—745年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 640,
+    "id": "ann-cl-tang-747-71",
+    "title": "高仙芝攻小勃律",
+    "start": 747,
+    "end": 747,
+    "summary": "唐军经营帕米尔周边通道。",
+    "importance": "参与中亚交通争夺。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-7fc0d8dc51af"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "747年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 641,
+    "id": "ann-cl-tang-749-72",
+    "title": "哥舒翰攻石堡城",
+    "start": 749,
+    "end": 749,
+    "summary": "唐军以较大伤亡夺城。",
+    "importance": "显示唐蕃战争的高昂成本。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-1ba3b529e679"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "749年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 642,
+    "id": "ann-cl-tang-750-73",
+    "title": "唐军攻石国",
+    "start": 750,
+    "end": 750,
+    "summary": "高仙芝攻灭石国。",
+    "importance": "引发中亚地方势力的反弹。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-7fc0d8dc51af"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "750年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 643,
+    "id": "ann-cl-tang-751-74",
+    "title": "怛罗斯之战",
+    "start": 751,
+    "end": 751,
+    "summary": "唐军与阿拔斯军队交战失利。",
+    "importance": "中亚力量关系变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-7fc0d8dc51af"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "751年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 644,
+    "id": "ann-cl-tang-751-75",
+    "title": "鲜于仲通征南诏失败",
+    "start": 751,
+    "end": 751,
+    "summary": "唐军在洱海地区战败。",
+    "importance": "唐与南诏关系全面恶化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-cdb5e50983aa"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "751年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 645,
+    "id": "ann-cl-tang-752-76",
+    "title": "杨国忠掌权",
+    "start": 752,
+    "end": 752,
+    "summary": "李林甫去世后杨国忠主政。",
+    "importance": "与边将冲突加剧。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-4df2584cad98"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "752年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 646,
+    "id": "ann-cl-tang-754-78",
+    "title": "李宓征南诏失败",
+    "start": 754,
+    "end": 754,
+    "summary": "唐军再次败于南诏。",
+    "importance": "西南军政压力持续增加。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-e40da4cd98a3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "754年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 647,
+    "id": "ann-cl-tang-754-77",
+    "title": "鉴真抵达日本",
+    "start": 754,
+    "end": 754,
+    "summary": "鉴真第六次东渡成功。",
+    "importance": "传播戒律、医药与工艺知识。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "jianzhen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "754年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 648,
+    "id": "ann-cl-tang-756-81",
+    "title": "肃宗灵武即位",
+    "start": 756,
+    "end": 756,
+    "summary": "李亨在战乱中称帝。",
+    "importance": "唐朝形成新的指挥中心。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-34b609a59d75"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "756年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 649,
+    "id": "ann-cl-tang-756-80",
+    "title": "马嵬驿之变",
+    "start": 756,
+    "end": 756,
+    "summary": "西逃途中禁军哗变。",
+    "importance": "杨国忠与杨贵妃被杀。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-4df2584cad98",
+      "ann-person-c9c32196a7f3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "756年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 650,
+    "id": "ann-cl-tang-757-82",
+    "title": "唐军收复两京",
+    "start": 757,
+    "end": 757,
+    "summary": "郭子仪等与回纥军协同。",
+    "importance": "收复长安和洛阳。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "guoziyi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "757年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 651,
+    "id": "ann-cl-tang-758-83",
+    "title": "盐铁转运使职权加强",
+    "start": 758,
+    "end": 758,
+    "summary": "朝廷依靠盐利与漕运筹措军费。",
+    "importance": "财政结构开始重组。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-ec7135eca978"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "758年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 652,
+    "id": "ann-cl-tang-759-84",
+    "title": "邺城之战唐军溃败",
+    "start": 759,
+    "end": 759,
+    "summary": "九节度使围城失败。",
+    "importance": "安史战争继续延长。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "guoziyi",
+      "ann-person-b4e991333ab5"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "759年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 653,
+    "id": "ann-cl-tang-761-85",
+    "title": "史思明被史朝义所杀",
+    "start": 761,
+    "end": 761,
+    "summary": "叛军内部发生权力更替。",
+    "importance": "战争并未随之立即停止。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-b4e991333ab5",
+      "ann-person-f861e08fe73f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "761年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 654,
+    "id": "ann-cl-tang-762-86",
+    "title": "代宗即位与宦官拥立",
+    "start": 762,
+    "end": 762,
+    "summary": "李辅国参与皇位交接。",
+    "importance": "宫廷宦官势力明显上升。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-9262c8f0249f",
+      "ann-person-0b2984388fc3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "762年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 655,
+    "id": "ann-cl-tang-763-90",
+    "title": "刘晏整顿漕运",
+    "start": 763,
+    "end": 780,
+    "summary": "朝廷改进分段运输和仓储。",
+    "importance": "使江淮财赋更有效北运。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-c64118983897"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "763年—780年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 656,
+    "id": "ann-cl-tang-763-88",
+    "title": "吐蕃攻入长安",
+    "start": 763,
+    "end": 763,
+    "summary": "唐廷短暂失去京城。",
+    "importance": "西北边防的严重危机暴露。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "763年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 657,
+    "id": "ann-cl-tang-763-87",
+    "title": "安史之乱结束",
+    "start": 763,
+    "end": 763,
+    "summary": "史朝义败亡。",
+    "importance": "唐接受部分降将继续控制河北藩镇。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-f861e08fe73f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "763年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 658,
+    "id": "ann-cl-tang-765-89",
+    "title": "泾阳退兵",
+    "start": 765,
+    "end": 765,
+    "summary": "郭子仪与回纥交涉瓦解联军。",
+    "importance": "解除对关中的威胁。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "guoziyi"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "765年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 659,
+    "id": "ann-cl-tang-779-91",
+    "title": "德宗即位",
+    "start": 779,
+    "end": 779,
+    "summary": "新帝试图整顿财政并控制藩镇。",
+    "importance": "中央与地方矛盾趋紧。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-5ecafa6d716f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "779年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 660,
+    "id": "ann-cl-tang-780-92",
+    "title": "两税法推行",
+    "start": 780,
+    "end": 780,
+    "summary": "杨炎主张按资产与土地征税。",
+    "importance": "夏秋两征替代租庸调。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years",
+      "cl-book"
+    ],
+    "personIds": [
+      "yangyan"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "780年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "隋唐五代史·第二章第三节 德宗的统治",
+        "lineStart": 98412,
+        "lineEnd": 98412
+      }
+    ],
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 661,
+    "id": "ann-cl-tang-781-93",
+    "title": "四镇之乱",
+    "start": 781,
+    "end": 781,
+    "summary": "河北及邻近藩镇因继承问题反唐。",
+    "importance": "削藩战争扩大。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "781年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 662,
+    "id": "ann-cl-tang-783-94",
+    "title": "泾原兵变",
+    "start": 783,
+    "end": 783,
+    "summary": "军队哗变拥立朱泚。",
+    "importance": "德宗逃往奉天。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-9046b3acbd6b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "783年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 663,
+    "id": "ann-cl-tang-784-95",
+    "title": "奉天危机解除",
+    "start": 784,
+    "end": 784,
+    "summary": "李晟收复长安。",
+    "importance": "德宗调整对藩镇政策。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-09e60d54c337"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "784年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 664,
+    "id": "ann-cl-tang-787-96",
+    "title": "平凉劫盟",
+    "start": 787,
+    "end": 787,
+    "summary": "唐蕃会盟时唐使受袭。",
+    "importance": "两国边境互信进一步崩坏。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "787年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 665,
+    "id": "ann-cl-tang-794-97",
+    "title": "唐与南诏恢复关系",
+    "start": 794,
+    "end": 794,
+    "summary": "南诏转而联唐。",
+    "importance": "改变唐蕃南诏三方力量格局。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-d2d830974f94"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "794年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 666,
+    "id": "ann-cl-tang-801-98",
+    "title": "南诏助唐攻吐蕃",
+    "start": 801,
+    "end": 801,
+    "summary": "唐与南诏在西南协同作战。",
+    "importance": "边境压力得到部分缓解。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-fbaf3ae2f26e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "801年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 667,
+    "id": "ann-cl-tang-805-99",
+    "title": "永贞革新",
+    "start": 805,
+    "end": 805,
+    "summary": "王叔文等试图调整弊政。",
+    "importance": "数月后因权力斗争失败。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-1f23d31019df",
+      "ann-person-e44378fe5e35",
+      "ann-person-d138cb5d52f3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "805年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 668,
+    "id": "ann-cl-tang-806-100",
+    "title": "宪宗推行削藩",
+    "start": 806,
+    "end": 806,
+    "summary": "元和朝利用藩镇矛盾恢复中央号令。",
+    "importance": "展开多次战争。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-29ae6e74a5eb"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "806年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 669,
+    "id": "ann-cl-tang-807-101",
+    "title": "唐平镇海李锜",
+    "start": 807,
+    "end": 807,
+    "summary": "朝廷迅速镇压江南反叛。",
+    "importance": "保住重要财赋地区。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-10070441ddc2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "807年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 670,
+    "id": "ann-cl-tang-815-102",
+    "title": "武元衡遇刺",
+    "start": 815,
+    "end": 815,
+    "summary": "宰相在长安遇刺。",
+    "importance": "暴露削藩战争与京城安全危机。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-d3b639a60689"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "815年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 671,
+    "id": "ann-cl-tang-817-103",
+    "title": "李愬雪夜入蔡州",
+    "start": 817,
+    "end": 817,
+    "summary": "唐军攻入蔡州擒吴元济。",
+    "importance": "平定淮西成为削藩转折。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-a820a36cf3b7",
+      "ann-person-7254c3dfbf2a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "817年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 672,
+    "id": "ann-cl-tang-819-104",
+    "title": "韩愈谏迎佛骨",
+    "start": 819,
+    "end": 819,
+    "summary": "韩愈上表反对迎佛骨。",
+    "importance": "获罪贬潮州，引发儒佛政治争论。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-2f92be0976bf"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "819年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 673,
+    "id": "ann-cl-tang-820-105",
+    "title": "宪宗去世",
+    "start": 820,
+    "end": 820,
+    "summary": "宫廷权力斗争中宪宗死去。",
+    "importance": "元和削藩成果受到挑战。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-29ae6e74a5eb"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "820年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 674,
+    "id": "ann-cl-tang-821-107",
+    "title": "唐蕃长庆会盟",
+    "start": 821,
+    "end": 823,
+    "summary": "双方议定和平边界。",
+    "importance": "拉萨会盟碑保存盟约文本。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "821年—823年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 675,
+    "id": "ann-cl-tang-821-106",
+    "title": "河北三镇再叛",
+    "start": 821,
+    "end": 821,
+    "summary": "成德、魏博、卢龙相继恢复较强自主性。",
+    "importance": "中央控制受挫。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "821年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 676,
+    "id": "ann-cl-tang-826-108",
+    "title": "敬宗被宦官杀害",
+    "start": 826,
+    "end": 826,
+    "summary": "宫廷宿卫与宦官左右皇位更替。",
+    "importance": "文宗继位。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-5b923159053c",
+      "ann-person-4794446d9116"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "826年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 677,
+    "id": "ann-cl-tang-829-109",
+    "title": "南诏攻成都",
+    "start": 829,
+    "end": 829,
+    "summary": "南诏军进入成都外城。",
+    "importance": "掠走人口与工匠，西南再受冲击。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "829年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 678,
+    "id": "ann-cl-tang-835-110",
+    "title": "甘露之变",
+    "start": 835,
+    "end": 835,
+    "summary": "文宗诛宦官计划失败。",
+    "importance": "宦官反杀朝臣并强化禁军控制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-4794446d9116",
+      "ann-person-7cff1e0ed217"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "835年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 679,
+    "id": "ann-cl-tang-840-111",
+    "title": "回鹘汗国瓦解",
+    "start": 840,
+    "end": 840,
+    "summary": "黠戛斯攻破漠北回鹘中心。",
+    "importance": "回鹘诸部陆续西迁。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "840年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 680,
+    "id": "ann-cl-tang-844-112",
+    "title": "昭义镇平定",
+    "start": 844,
+    "end": 844,
+    "summary": "李德裕主持平定泽潞。",
+    "importance": "晚唐中央一度加强对藩镇控制。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-364a00b565b4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "844年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "隋唐五代史·第二章第四节 会昌政治",
+        "lineStart": 99390,
+        "lineEnd": 99398
+      }
+    ],
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 681,
+    "id": "ann-cl-tang-845-113",
+    "title": "会昌灭佛",
+    "start": 845,
+    "end": 845,
+    "summary": "武宗限制寺院并强令大量僧尼还俗。",
+    "importance": "重分寺院土地财产。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-b6afdc84c4c9"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "845年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 682,
+    "id": "ann-cl-tang-846-114",
+    "title": "宣宗即位恢复部分佛教活动",
+    "start": 846,
+    "end": 846,
+    "summary": "武宗死后政策改变。",
+    "importance": "李德裕政治集团失势。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-292d9ff73225",
+      "ann-person-364a00b565b4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "846年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 683,
+    "id": "ann-cl-tang-848-115",
+    "title": "张议潮起兵归唐",
+    "start": 848,
+    "end": 848,
+    "summary": "沙州摆脱吐蕃统治。",
+    "importance": "河西部分地区重新奉唐正朔。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-9030c8edbac4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "848年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 684,
+    "id": "ann-cl-tang-851-116",
+    "title": "归义军设立",
+    "start": 851,
+    "end": 851,
+    "summary": "唐廷承认张议潮在河西的军政地位。",
+    "importance": "形成地方新格局。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-9030c8edbac4"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "851年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 685,
+    "id": "ann-cl-tang-859-117",
+    "title": "浙东裘甫起义",
+    "start": 859,
+    "end": 859,
+    "summary": "浙东民众起兵。",
+    "importance": "反映晚唐地方财政与社会矛盾。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-512dc877de97"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "859年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 686,
+    "id": "ann-cl-tang-863-118",
+    "title": "南诏攻陷交趾",
+    "start": 863,
+    "end": 863,
+    "summary": "安南都护府受挫。",
+    "importance": "唐军随后组织反击。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "863年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 687,
+    "id": "ann-cl-tang-868-119",
+    "title": "庞勋起义",
+    "start": 868,
+    "end": 868,
+    "summary": "桂林戍卒归途中兵变。",
+    "importance": "扩展为徐泗地区大规模战乱。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-01f8b6d81206"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "868年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 688,
+    "id": "ann-cl-tang-874-120",
+    "title": "王仙芝起兵",
+    "start": 874,
+    "end": 874,
+    "summary": "濮州起义扩大。",
+    "importance": "晚唐跨地区民众战争揭幕。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-457191cb60c3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "874年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 689,
+    "id": "ann-cl-tang-875-121",
+    "title": "黄巢起兵",
+    "start": 875,
+    "end": 875,
+    "summary": "黄巢加入反唐战争。",
+    "importance": "流动作战波及多个地区。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "huangchao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "875年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 690,
+    "id": "ann-cl-tang-878-122",
+    "title": "王仙芝败亡",
+    "start": 878,
+    "end": 878,
+    "summary": "黄梅战败后王仙芝被杀。",
+    "importance": "黄巢成为主要起义领袖。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-457191cb60c3",
+      "huangchao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "878年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 691,
+    "id": "ann-cl-tang-879-123",
+    "title": "黄巢军攻入广州",
+    "start": 879,
+    "end": 879,
+    "summary": "起义军南下岭南。",
+    "importance": "随后北返，战争影响海贸城市。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "huangchao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "879年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 692,
+    "id": "ann-cl-tang-880-124",
+    "title": "黄巢攻入长安",
+    "start": 880,
+    "end": 880,
+    "summary": "唐僖宗出逃。",
+    "importance": "黄巢建大齐政权，唐廷失去京师。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "huangchao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "880年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 693,
+    "id": "ann-cl-tang-883-125",
+    "title": "唐军收复长安",
+    "start": 883,
+    "end": 883,
+    "summary": "李克用等击败黄巢军。",
+    "importance": "唐朝依赖地方武装恢复京城。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-afd4d64409d5"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "883年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 694,
+    "id": "ann-cl-tang-884-126",
+    "title": "黄巢兵败身亡",
+    "start": 884,
+    "end": 884,
+    "summary": "主要起义军瓦解。",
+    "importance": "地方军阀在战争中进一步壮大。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "huangchao"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "884年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 695,
+    "id": "ann-cl-tang-885-127",
+    "title": "田令孜与藩镇冲突",
+    "start": 885,
+    "end": 885,
+    "summary": "盐池控制权引发军阀战争。",
+    "importance": "皇帝再次离开长安。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-7737860b8b36"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "885年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 696,
+    "id": "ann-cl-tang-892-128",
+    "title": "杨行密控制扬州",
+    "start": 892,
+    "end": 892,
+    "summary": "江淮地方集团壮大。",
+    "importance": "奠定后来吴政权的基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years",
+      "cl-book"
+    ],
+    "personIds": [
+      "ann-person-2067aaadf9d8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "892年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "book-topic-located",
+    "coreEntry": true,
+    "bookRefs": [
+      {
+        "volume": 8,
+        "chapter": "隋唐五代史·五代十国政治",
+        "lineStart": 109854,
+        "lineEnd": 109854
+      }
+    ],
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 697,
+    "id": "ann-cl-tang-896-129",
+    "title": "钱镠控制两浙",
+    "start": 896,
+    "end": 896,
+    "summary": "钱镠击败董昌。",
+    "importance": "逐步建立吴越的区域统治基础。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "qianliu",
+      "ann-person-c66625682286"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "896年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 698,
+    "id": "ann-cl-tang-900-130",
+    "title": "宦官短暂废昭宗",
+    "start": 900,
+    "end": 900,
+    "summary": "宫廷政变废立皇帝。",
+    "importance": "地方军阀介入朝廷的程度加深。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "ann-person-021db810dc6b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "900年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 699,
+    "id": "ann-cl-tang-901-131",
+    "title": "朱温围凤翔",
+    "start": 901,
+    "end": 901,
+    "summary": "朱温与李茂贞争夺皇帝控制权。",
+    "importance": "关中陷入围城战争。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "zhuwen",
+      "ann-person-927b22f7e619"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "901年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 700,
+    "id": "ann-cl-tang-903-132",
+    "title": "朱温诛杀宦官",
+    "start": 903,
+    "end": 903,
+    "summary": "朱温控制昭宗后大规模清除宦官。",
+    "importance": "神策军体系瓦解。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "zhuwen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "903年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 701,
+    "id": "ann-cl-tang-904-133",
+    "title": "唐廷被迫迁洛阳",
+    "start": 904,
+    "end": 904,
+    "summary": "朱温强迫迁都并杀昭宗。",
+    "importance": "唐室已受其直接支配。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "zhuwen",
+      "ann-person-021db810dc6b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "904年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 702,
+    "id": "ann-cl-tang-905-134",
+    "title": "白马驿之祸",
+    "start": 905,
+    "end": 905,
+    "summary": "朱温集团杀害大批朝官。",
+    "importance": "唐末政治清洗加剧。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "zhuwen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "905年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  },
+  {
+    "_order": 705,
+    "id": "ann-cl-tang-907-135",
+    "title": "朱温代唐建后梁",
+    "start": 907,
+    "end": 907,
+    "summary": "唐哀帝被迫禅位。",
+    "importance": "唐朝结束，进入五代十国格局。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview",
+      "cl-tang-years"
+    ],
+    "personIds": [
+      "zhuwen"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "907年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "tang",
+    "lane": "china",
+    "themeId": "tang"
+  }
+]

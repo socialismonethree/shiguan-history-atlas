@@ -1,0 +1,4509 @@
+[
+  {
+    "_order": 1,
+    "id": "ann-chron-world-central-west-asia-0313",
+    "title": "乌尔第三王朝覆亡",
+    "start": -2004,
+    "end": -2004,
+    "summary": "埃兰等势力攻入乌尔，两河城市政治进入多王国竞争的新阶段。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前2004年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 7,
+    "id": "ann-chron-world-central-west-asia-0314",
+    "title": "亚述商人在安纳托利亚经营商站",
+    "start": -1900,
+    "end": -1900,
+    "summary": "契约、书信和账目记录锡与纺织品贸易，展现家庭商业与跨区域信用网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1900年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 10,
+    "id": "ann-chron-world-central-west-asia-0315",
+    "title": "汉谟拉比即位",
+    "start": -1792,
+    "end": -1792,
+    "summary": "巴比伦通过战争、联盟和水利治理扩张，逐渐建立对两河多座城市的统治。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-hammurabi"
+    ],
+    "note": "古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前1792年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 11,
+    "id": "ann-chron-world-central-west-asia-0316",
+    "title": "汉谟拉比法典碑刻",
+    "start": -1750,
+    "end": -1750,
+    "summary": "王权以法律与公正形象自我表达，不同身份和性别在条文中受到差别对待。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-hammurabi"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1750年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 14,
+    "id": "ann-chron-world-central-west-asia-0317",
+    "title": "赫梯早期王国形成",
+    "start": -1650,
+    "end": -1650,
+    "summary": "安纳托利亚以哈图沙为中心建立王权，楔形文字和条约反映复杂外交关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1650年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 16,
+    "id": "ann-chron-world-central-west-asia-0318",
+    "title": "赫梯军队攻陷巴比伦",
+    "start": -1595,
+    "end": -1595,
+    "summary": "古巴比伦王朝终结，两河地区随后进入加喜特等力量重新整合的时期。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前1595年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 22,
+    "id": "ann-chron-world-central-west-asia-0319",
+    "title": "米坦尼在北部两河兴起",
+    "start": -1500,
+    "end": -1500,
+    "summary": "胡里特政治集团控制重要商路，在埃及、赫梯和亚述间参与国际竞争。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1500年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 26,
+    "id": "ann-chron-world-central-west-asia-0320",
+    "title": "乌加里特港市繁荣",
+    "start": -1400,
+    "end": -1400,
+    "summary": "海港连接黎凡特与地中海贸易，字母楔形文字记录宗教、行政和文学传统。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1400年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 28,
+    "id": "ann-chron-world-central-west-asia-0321",
+    "title": "阿玛尔纳书信外交网络",
+    "start": -1350,
+    "end": -1350,
+    "summary": "西亚诸王与埃及王室交换书信和婚姻，楔形文字成为跨王国外交媒介。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1350年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 31,
+    "id": "ann-chron-world-central-west-asia-0322",
+    "title": "卡迭石战役",
+    "start": -1274,
+    "end": -1274,
+    "summary": "赫梯与埃及在叙利亚交战，双方宣传与后来的条约共同呈现古代外交和战争。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前1274年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 32,
+    "id": "ann-chron-world-central-west-asia-0323",
+    "title": "埃及赫梯和平条约",
+    "start": -1259,
+    "end": -1259,
+    "summary": "拉美西斯二世与哈图西里三世达成协议，以互不侵犯和援助维持大国关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-80986e8561f0"
+    ],
+    "note": "古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前1259年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 34,
+    "id": "ann-chron-world-central-west-asia-0324",
+    "title": "赫梯帝国解体",
+    "start": -1200,
+    "end": -1200,
+    "summary": "安纳托利亚中心王权瓦解，地方城邦和新兴群体在青铜时代危机后重组。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1200年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 36,
+    "id": "ann-chron-world-central-west-asia-0325",
+    "title": "腓尼基海上网络发展",
+    "start": -1100,
+    "end": -1100,
+    "summary": "黎凡特城市通过港口与殖民据点扩展贸易，字母书写随航海网络传播。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1100年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 38,
+    "id": "ann-chron-world-central-west-asia-0326",
+    "title": "以色列与犹大早期国家形成",
+    "start": -1000,
+    "end": -1000,
+    "summary": "高地聚落与地方王权逐步发展，圣经叙事和考古解释之间仍存在重要争议。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。包含传统纪年或有争议解释，须结合条目中的限定语阅读。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前1000年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 41,
+    "id": "ann-chron-world-central-west-asia-0327",
+    "title": "新亚述帝国扩张阶段开始",
+    "start": -911,
+    "end": -911,
+    "summary": "王室年表所见军事动员加强，贡赋、行省和人口迁移逐步支撑大帝国。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前911年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 44,
+    "id": "ann-chron-world-central-west-asia-0328",
+    "title": "亚述纳西尔帕二世即位",
+    "start": -883,
+    "end": -883,
+    "summary": "王权营建宫殿并以浮雕展示征服与祭祀，暴力威慑成为帝国宣传手段。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-cf9f9dddb14c"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前883年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 45,
+    "id": "ann-chron-world-central-west-asia-0329",
+    "title": "沙尔马那塞尔三世即位",
+    "start": -859,
+    "end": -859,
+    "summary": "亚述持续向叙利亚扩张，地中海东岸诸王国以联盟和朝贡应对帝国压力。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前859年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 46,
+    "id": "ann-chron-world-central-west-asia-0330",
+    "title": "夸夸尔战役",
+    "start": -853,
+    "end": -853,
+    "summary": "叙利亚地区联盟阻挡亚述军队，显示小王国借集体行动维持独立的尝试。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前853年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 54,
+    "id": "ann-chron-world-central-west-asia-0331",
+    "title": "提格拉特帕拉沙尔三世即位",
+    "start": -745,
+    "end": -745,
+    "summary": "帝国强化行省与军队组织，以征服、迁徙和税赋整合更广阔领土。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-6ca9f3737a8f"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前745年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 57,
+    "id": "ann-chron-world-central-west-asia-0332",
+    "title": "撒马利亚陷落",
+    "start": -722,
+    "end": -722,
+    "summary": "北方以色列王国灭亡，居民迁徙和行省重组成为亚述帝国治理的一部分。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前722年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 58,
+    "id": "ann-chron-world-central-west-asia-0333",
+    "title": "辛那赫里布即位",
+    "start": -705,
+    "end": -705,
+    "summary": "亚述扩大尼尼微建设，水利、宫殿与城市空间共同展示帝国资源。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-4660ff5cec4d"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前705年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 59,
+    "id": "ann-chron-world-central-west-asia-0334",
+    "title": "亚述围攻犹大诸城",
+    "start": -701,
+    "end": -701,
+    "summary": "拉吉等地战争留下宫殿浮雕与考古遗迹，王室叙述与其他史料需要对读。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前701年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 62,
+    "id": "ann-chron-world-central-west-asia-0335",
+    "title": "亚述巴尼拔即位",
+    "start": -669,
+    "end": -669,
+    "summary": "军事扩张之外，尼尼微宫廷收集文献，保存大量宗教、知识和文学泥版。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-ashurbanipal"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前669年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 64,
+    "id": "ann-chron-world-central-west-asia-0336",
+    "title": "新巴比伦王国兴起",
+    "start": -626,
+    "end": -626,
+    "summary": "那波帕拉萨尔反抗亚述，巴比伦重新成为两河政治竞争的重要中心。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-7c43dec49b5d"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前626年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 66,
+    "id": "ann-chron-world-central-west-asia-0337",
+    "title": "尼尼微陷落",
+    "start": -612,
+    "end": -612,
+    "summary": "巴比伦与米底联军摧毁亚述首都，新亚述的核心统治结构崩溃。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前612年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 67,
+    "id": "ann-chron-world-central-west-asia-0338",
+    "title": "卡尔凯米什战役",
+    "start": -605,
+    "end": -605,
+    "summary": "尼布甲尼撒击败埃及军队，新巴比伦取得对叙利亚和黎凡特的优势。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-nebuchadnezzar"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前605年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 72,
+    "id": "ann-chron-world-central-west-asia-0339",
+    "title": "耶路撒冷陷落与巴比伦之囚",
+    "start": -586,
+    "end": -586,
+    "summary": "犹大王国灭亡，精英与居民被迁走，流亡经验深刻影响犹太宗教和共同体记忆。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前586年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 75,
+    "id": "ann-chron-world-central-west-asia-0340",
+    "title": "居鲁士击败米底",
+    "start": -550,
+    "end": -550,
+    "summary": "波斯王权崛起，随后通过征服与地方精英合作建立跨区域帝国。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "cyrus"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前550年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 78,
+    "id": "ann-chron-world-central-west-asia-0341",
+    "title": "波斯进入巴比伦",
+    "start": -539,
+    "end": -539,
+    "summary": "居鲁士以尊重城市神庙等方式宣示统治，阿契美尼德帝国整合两河核心地区。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前539年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 80,
+    "id": "ann-chron-world-central-west-asia-0342",
+    "title": "大流士一世夺取王位",
+    "start": -522,
+    "end": -522,
+    "summary": "通过军事平乱和王室宣传巩固统治，帝国进一步组织行省、道路与税赋。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-darius"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前522年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 81,
+    "id": "ann-chron-world-central-west-asia-0343",
+    "title": "贝希斯敦铭文刻立",
+    "start": -520,
+    "end": -520,
+    "summary": "多语铭文叙述大流士的胜利与合法性，成为理解帝国宣传及破解楔形文字的重要材料。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前520年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 82,
+    "id": "ann-chron-world-central-west-asia-0344",
+    "title": "波斯波利斯建设展开",
+    "start": -518,
+    "end": -518,
+    "summary": "宫殿、浮雕和礼仪空间呈现帝国统治者与不同地区贡使的秩序。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前518年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 85,
+    "id": "ann-chron-world-central-west-asia-0345",
+    "title": "波斯御道体系发挥作用",
+    "start": -500,
+    "end": -500,
+    "summary": "道路、驿站和行政交通连接帝国多地，商贸、征税和军事信息传播加快。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前500年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 89,
+    "id": "ann-chron-world-central-west-asia-0346",
+    "title": "薛西斯一世继位",
+    "start": -486,
+    "end": -486,
+    "summary": "王朝继续应对帝国内部反抗，并对希腊发动大规模远征。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-ddf6779850ed"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前486年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 109,
+    "id": "ann-chron-world-central-west-asia-0347",
+    "title": "亚历山大进攻波斯帝国",
+    "start": -334,
+    "end": -334,
+    "summary": "马其顿军队由小亚细亚推进，西亚原有行省和王室体系逐步被取代。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前334年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 112,
+    "id": "ann-chron-world-central-west-asia-0348",
+    "title": "阿契美尼德帝国终结",
+    "start": -330,
+    "end": -330,
+    "summary": "大流士三世遇害，亚历山大接管多处王室中心，同时吸纳部分波斯统治传统。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前330年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 116,
+    "id": "ann-chron-world-central-west-asia-0349",
+    "title": "塞琉古王朝纪年起点",
+    "start": -312,
+    "end": -312,
+    "summary": "继业者竞争形成以西亚为重心的希腊化国家，城市建设和地方传统并行。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "本条须区分传统纪年、后世叙事和可直接验证的史实。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前312年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 121,
+    "id": "ann-chron-world-central-west-asia-0350",
+    "title": "塞琉西亚等新城发展",
+    "start": -300,
+    "end": -300,
+    "summary": "希腊化王室以城市组织人口、商业和行政，多语言社会在新旧城市中并存。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约公元前300年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 131,
+    "id": "ann-chron-world-central-west-asia-0351",
+    "title": "安息王权兴起",
+    "start": -247,
+    "end": -247,
+    "summary": "阿尔萨息家族在伊朗东北建立势力，逐渐挑战塞琉古并发展帝国。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前247年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 140,
+    "id": "ann-chron-world-central-west-asia-0352",
+    "title": "马加比起义爆发",
+    "start": -167,
+    "end": -167,
+    "summary": "犹太社群反抗塞琉古宗教与政治干预，宗教自主和王朝建国诉求相互交织。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前167年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 143,
+    "id": "ann-chron-world-central-west-asia-0353",
+    "title": "安息控制巴比伦地区",
+    "start": -141,
+    "end": -141,
+    "summary": "米特里达梯一世扩大西部统治，伊朗高原与两河重新整合于同一王权。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-f7695605418f"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前141年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 157,
+    "id": "ann-chron-world-central-west-asia-0354",
+    "title": "卡莱战役",
+    "start": -53,
+    "end": -53,
+    "summary": "安息骑兵击败罗马克拉苏军队，罗马与伊朗强权长期对峙的边界得到体现。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-f0745c758d80",
+      "ann-person-87a84627bafd"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前53年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 160,
+    "id": "ann-chron-world-central-west-asia-0355",
+    "title": "希律成为犹太地区国王",
+    "start": -37,
+    "end": -37,
+    "summary": "罗马支持下的地方王权通过建筑与政治联盟维系统治，也引发宗教和社会矛盾。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-761c945c2d33"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "公元前37年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 168,
+    "id": "ann-chron-world-central-west-asia-0356",
+    "title": "耶稣被钉十字架",
+    "start": 30,
+    "end": 30,
+    "summary": "罗马统治下的犹太地区出现宗教运动，耶稣死亡及其信徒记忆成为基督教形成核心。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-jesus"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约30年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 173,
+    "id": "ann-chron-world-central-west-asia-0357",
+    "title": "第一次犹太战争开始",
+    "start": 66,
+    "end": 66,
+    "summary": "反罗马起义扩大为战争，帝国军事镇压改变犹太地区社会与宗教空间。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "66年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 175,
+    "id": "ann-chron-world-central-west-asia-0358",
+    "title": "耶路撒冷第二圣殿被毁",
+    "start": 70,
+    "end": 70,
+    "summary": "罗马攻城终结主要抵抗，圣殿制度的丧失推动犹太宗教生活长期重组。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "70年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 187,
+    "id": "ann-chron-world-central-west-asia-0359",
+    "title": "巴尔·科赫巴起义",
+    "start": 132,
+    "end": 132,
+    "summary": "犹太反抗罗马再起并遭镇压，人口流动与帝国行政安排发生深刻改变。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-b087f126c1e0"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "132年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 193,
+    "id": "ann-chron-world-central-west-asia-0360",
+    "title": "萨珊王朝建立",
+    "start": 224,
+    "end": 224,
+    "summary": "阿尔达希尔击败安息王权，波斯君主制、贵族和祆教制度进入新的组合。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-ardashir"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "224年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 199,
+    "id": "ann-chron-world-central-west-asia-0361",
+    "title": "沙普尔俘获罗马皇帝",
+    "start": 260,
+    "end": 260,
+    "summary": "瓦勒良战败被俘，萨珊王权以浮雕和铭文展示对罗马的军事胜利。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-shapur",
+      "ann-person-dfd64e3d614f"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "260年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 200,
+    "id": "ann-chron-world-central-west-asia-0362",
+    "title": "摩尼被处死",
+    "start": 276,
+    "end": 276,
+    "summary": "摩尼教在萨珊政治宗教压力下受挫，但其教义继续沿商路向东西传播。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-3f86661d8431"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约276年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 215,
+    "id": "ann-chron-world-central-west-asia-0363",
+    "title": "罗马波斯议和",
+    "start": 363,
+    "end": 363,
+    "summary": "尤利安远征失败后罗马让出部分领地，边境城市与军防秩序再次调整。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "363年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 228,
+    "id": "ann-chron-world-central-west-asia-0364",
+    "title": "塞琉西亚教会会议",
+    "start": 410,
+    "end": 410,
+    "summary": "伊朗基督教社群强化组织结构，逐渐形成区别于罗马教会的东方教会传统。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "410年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 233,
+    "id": "ann-chron-world-central-west-asia-0365",
+    "title": "亚美尼亚阿尔沙克王朝结束",
+    "start": 428,
+    "end": 428,
+    "summary": "萨珊对亚美尼亚的直接治理加强，贵族和教会继续维护地方身份与权利。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "428年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 236,
+    "id": "ann-chron-world-central-west-asia-0366",
+    "title": "阿瓦拉尔战役",
+    "start": 451,
+    "end": 451,
+    "summary": "亚美尼亚贵族反抗萨珊宗教压力，失败之后的记忆成为地方教会传统的重要内容。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "451年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 241,
+    "id": "ann-chron-world-central-west-asia-0367",
+    "title": "萨珊败于嚈哒",
+    "start": 484,
+    "end": 484,
+    "summary": "佩罗兹一世阵亡，萨珊财政与边境承受重压，中亚力量影响伊朗政治。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "484年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 249,
+    "id": "ann-chron-world-central-west-asia-0368",
+    "title": "霍斯劳一世即位",
+    "start": 531,
+    "end": 531,
+    "summary": "财政、军事和行政调整提升王权能力，宫廷学术与跨文化知识交流发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-1d16300017ed"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "531年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 261,
+    "id": "ann-chron-world-central-west-asia-0369",
+    "title": "穆罕默德出生",
+    "start": 570,
+    "end": 570,
+    "summary": "出生于麦加商贸社会，具体出生年份依传统推定，后来的宗教使命改变阿拉伯半岛格局。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-muhammad"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。包含传统纪年或有争议解释，须结合条目中的限定语阅读。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约570年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 271,
+    "id": "ann-chron-world-central-west-asia-0370",
+    "title": "穆罕默德开始传教",
+    "start": 610,
+    "end": 610,
+    "summary": "伊斯兰传统认为启示由此开始，一神信仰、社会责任与共同体伦理逐步形成。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约610年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 276,
+    "id": "ann-chron-world-central-west-asia-0371",
+    "title": "希吉拉迁徙",
+    "start": 622,
+    "end": 622,
+    "summary": "穆罕默德与追随者从麦加迁往麦地那，宗教共同体获得新的政治组织基础。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "622年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 277,
+    "id": "ann-chron-world-central-west-asia-0372",
+    "title": "白德尔战役",
+    "start": 624,
+    "end": 624,
+    "summary": "麦地那穆斯林取得重要胜利，宗教共同体的政治与军事地位提高。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "624年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 280,
+    "id": "ann-chron-world-central-west-asia-0373",
+    "title": "穆斯林控制麦加",
+    "start": 630,
+    "end": 630,
+    "summary": "麦加纳入穆罕默德领导的共同体，克尔白的宗教地位被重新界定。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "630年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 281,
+    "id": "ann-chron-world-central-west-asia-0374",
+    "title": "穆罕默德去世",
+    "start": 632,
+    "end": 632,
+    "summary": "继承和共同体领导问题浮现，哈里发制度在征服与内部讨论中逐步形成。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "632年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 282,
+    "id": "ann-chron-world-central-west-asia-0375",
+    "title": "雅尔穆克战役",
+    "start": 636,
+    "end": 636,
+    "summary": "阿拉伯穆斯林军队击败东罗马，叙利亚地区控制权发生重大转移。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "636年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 283,
+    "id": "ann-chron-world-central-west-asia-0376",
+    "title": "卡迪西亚战役",
+    "start": 637,
+    "end": 637,
+    "summary": "萨珊军队遭重创，穆斯林征服伊拉克并继续向伊朗高原推进。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "637年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 285,
+    "id": "ann-chron-world-central-west-asia-0377",
+    "title": "尼哈万德战役",
+    "start": 642,
+    "end": 642,
+    "summary": "萨珊军事抵抗进一步瓦解，但伊朗各地并非在同一时间完成政治和宗教转型。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "642年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 290,
+    "id": "ann-chron-world-central-west-asia-0378",
+    "title": "萨珊末帝遇害",
+    "start": 651,
+    "end": 651,
+    "summary": "伊嗣俟三世死亡标志王朝终结，伊朗传统此后在伊斯兰世界继续转化。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-d90c959226e5"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "651年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 292,
+    "id": "ann-chron-world-central-west-asia-0379",
+    "title": "第一次伊斯兰内战开始",
+    "start": 656,
+    "end": 656,
+    "summary": "奥斯曼遇刺与阿里继任引发领导权争执，政治冲突逐渐形成宗派历史记忆。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-ali",
+      "ann-person-89d0ab23380e"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "656年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 294,
+    "id": "ann-chron-world-central-west-asia-0380",
+    "title": "倭马亚王朝建立",
+    "start": 661,
+    "end": 661,
+    "summary": "穆阿维叶以大马士革为中心确立世袭统治，帝国治理与宗教共同体关系改变。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-07a15d67496f"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "661年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 301,
+    "id": "ann-chron-world-central-west-asia-0381",
+    "title": "卡尔巴拉事件",
+    "start": 680,
+    "end": 680,
+    "summary": "侯赛因及追随者被杀，殉难记忆成为什叶派宗教认同的重要基础。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-8cf7b2d0d8c4"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "680年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 302,
+    "id": "ann-chron-world-central-west-asia-0382",
+    "title": "岩石圆顶寺建成",
+    "start": 691,
+    "end": 691,
+    "summary": "耶路撒冷圣地建筑结合拜占庭工艺与伊斯兰铭文，展示新王朝的宗教政治语言。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "691年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 305,
+    "id": "ann-chron-world-central-west-asia-0383",
+    "title": "倭马亚货币改革",
+    "start": 697,
+    "end": 697,
+    "summary": "阿拉伯铭文铸币逐渐替代早期仿制币，帝国财政和宗教身份获得统一表达。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-46d00cbe860f"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约697年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 320,
+    "id": "ann-chron-world-central-west-asia-0385",
+    "title": "怛罗斯战役",
+    "start": 751,
+    "end": 751,
+    "summary": "阿拔斯军队与唐军在中亚交战，区域力量竞争复杂，不能简化为单场战役造成文明断裂。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "751年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 326,
+    "id": "ann-chron-world-central-west-asia-0386",
+    "title": "巴格达建城",
+    "start": 762,
+    "end": 762,
+    "summary": "曼苏尔营建新都，伊拉克逐渐成为行政、贸易和知识交流的世界性中心。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-almansur"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "762年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 329,
+    "id": "ann-chron-world-central-west-asia-0387",
+    "title": "哈伦·拉希德即位",
+    "start": 786,
+    "end": 786,
+    "summary": "阿拔斯宫廷与城市经济繁荣，后世文学塑造的黄金时代形象仍需与史实区分。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-0bbad699468c"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "786年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 340,
+    "id": "ann-chron-world-central-west-asia-0388",
+    "title": "马蒙夺取哈里发位",
+    "start": 813,
+    "end": 813,
+    "summary": "阿拔斯内战后新统治重视学术和翻译，政治竞争与知识赞助相互联系。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-84486889714d"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "813年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 341,
+    "id": "ann-chron-world-central-west-asia-0389",
+    "title": "花拉子米代数学著作形成",
+    "start": 820,
+    "end": 820,
+    "summary": "数学系统讨论方程和计算，印度、希腊与伊斯兰学术传统在巴格达汇合。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-khwarizmi"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约820年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 343,
+    "id": "ann-chron-world-central-west-asia-0390",
+    "title": "萨迈拉成为阿拔斯都城",
+    "start": 836,
+    "end": 836,
+    "summary": "新城安置军队并扩建宫廷，突厥军事集团在帝国政治中的影响日益增强。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "836年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 350,
+    "id": "ann-chron-world-central-west-asia-0391",
+    "title": "图伦王朝控制埃及",
+    "start": 868,
+    "end": 868,
+    "summary": "地方军事统治逐渐脱离巴格达直接控制，哈里发宗教名义与实际权力分离。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "868年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 352,
+    "id": "ann-chron-world-central-west-asia-0392",
+    "title": "萨曼王朝势力确立",
+    "start": 875,
+    "end": 875,
+    "summary": "中亚伊朗语文化与伊斯兰学术繁荣，布哈拉等城市连接草原和农耕商路。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "875年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 370,
+    "id": "ann-chron-world-central-west-asia-0393",
+    "title": "白益王朝控制巴格达",
+    "start": 945,
+    "end": 945,
+    "summary": "伊朗军事家族掌握实际权力，阿拔斯哈里发保留宗教与象征地位。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "945年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 374,
+    "id": "ann-chron-world-central-west-asia-0394",
+    "title": "伽色尼政权兴起",
+    "start": 962,
+    "end": 962,
+    "summary": "突厥军人王朝在阿富汗地区立足，伊朗文化、伊斯兰政治和南亚远征相结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "962年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 380,
+    "id": "ann-chron-world-central-west-asia-0395",
+    "title": "萨布克特勤掌权",
+    "start": 977,
+    "end": 977,
+    "summary": "伽色尼王朝巩固阿富汗势力，为马哈茂德后续跨兴都库什山扩张奠定基础。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-bb515c61ad73"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "977年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 385,
+    "id": "ann-chron-world-central-west-asia-0396",
+    "title": "伽色尼的马哈茂德即位",
+    "start": 998,
+    "end": 998,
+    "summary": "王朝以南亚远征积累财富，宫廷亦支持波斯语文学与学术。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-e20537316d31"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "998年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 393,
+    "id": "ann-chron-world-central-west-asia-0397",
+    "title": "菲尔多西完成《列王纪》",
+    "start": 1010,
+    "end": 1010,
+    "summary": "波斯语史诗重述伊朗王者传统，伊斯兰时代的伊朗文化记忆获得新的文学形式。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-6277172bb412"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1010年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 398,
+    "id": "ann-chron-world-central-west-asia-0398",
+    "title": "伊本·西那《医典》形成前后",
+    "start": 1025,
+    "end": 1025,
+    "summary": "医学、哲学和临床知识被系统整理，后经翻译长期影响欧亚医学教育。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-ibnsina"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。活动或著作形成的约略纪年，不能理解为确定的单一发生年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1025年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 402,
+    "id": "ann-chron-world-central-west-asia-0399",
+    "title": "比鲁尼撰成《印度志》",
+    "start": 1030,
+    "end": 1030,
+    "summary": "以语言、宗教和知识比较研究印度，体现跨文化观察而非单纯征服叙事。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-64dce4e77851"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1030年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 403,
+    "id": "ann-chron-world-central-west-asia-0400",
+    "title": "丹丹坎战役",
+    "start": 1040,
+    "end": 1040,
+    "summary": "塞尔柱击败伽色尼，突厥军事势力接管呼罗珊并向伊朗和伊拉克扩张。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1040年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 409,
+    "id": "ann-chron-world-central-west-asia-0401",
+    "title": "塞尔柱进入巴格达",
+    "start": 1055,
+    "end": 1055,
+    "summary": "图格里勒获得哈里发认可，苏丹军事权与哈里发宗教权形成新的合作模式。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-d902a8dd58d7"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1055年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 412,
+    "id": "ann-chron-world-central-west-asia-0402",
+    "title": "巴格达尼扎姆学院建立",
+    "start": 1067,
+    "end": 1067,
+    "summary": "维齐尔尼扎姆·穆尔克支持法学教育，逊尼学术与国家治理人才培养相互促进。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-c8b01b3c8c43"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1067年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 414,
+    "id": "ann-chron-world-central-west-asia-0403",
+    "title": "塞尔柱击败东罗马",
+    "start": 1071,
+    "end": 1071,
+    "summary": "曼齐刻尔特胜利扩大突厥人在安纳托利亚活动空间，迁徙与地方权力重组随后展开。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-alparslan"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1071年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 421,
+    "id": "ann-chron-world-central-west-asia-0404",
+    "title": "阿拉穆特成为尼扎里派据点",
+    "start": 1090,
+    "end": 1090,
+    "summary": "哈桑·萨巴建立山地政治网络，宗派冲突与塞尔柱权力分裂相互交织。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-eea083a4672a"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1090年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 422,
+    "id": "ann-chron-world-central-west-asia-0405",
+    "title": "尼扎姆·穆尔克与马立克沙去世",
+    "start": 1092,
+    "end": 1092,
+    "summary": "苏丹国继承和派系斗争加剧，塞尔柱统一权力逐渐分散。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1092年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 428,
+    "id": "ann-chron-world-central-west-asia-0406",
+    "title": "安萨里去世",
+    "start": 1111,
+    "end": 1111,
+    "summary": "其著作综合宗教法学与苏菲修持，对伊斯兰教育和伦理产生深远影响。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-0bfda43c4e27"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1111年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 434,
+    "id": "ann-chron-world-central-west-asia-0407",
+    "title": "卡特万战役",
+    "start": 1141,
+    "end": 1141,
+    "summary": "西辽击败塞尔柱及盟军，中亚草原与绿洲间权力结构重新调整。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1141年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 444,
+    "id": "ann-chron-world-central-west-asia-0408",
+    "title": "萨拉丁控制叙利亚",
+    "start": 1174,
+    "end": 1174,
+    "summary": "埃及与叙利亚逐步在其势力下整合，为同十字军的战争提供更强资源。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-saladin"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1174年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 449,
+    "id": "ann-chron-world-central-west-asia-0409",
+    "title": "哈丁战役与耶路撒冷易手",
+    "start": 1187,
+    "end": 1187,
+    "summary": "萨拉丁击败十字军并收复耶路撒冷，推动欧洲第三次十字军动员。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1187年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 459,
+    "id": "ann-chron-world-central-west-asia-0410",
+    "title": "蒙古诸部推举成吉思汗",
+    "start": 1206,
+    "end": 1206,
+    "summary": "草原政治军事统一完成关键一步，随后征服将欧亚多个区域纳入同一网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-ed82f1eef2d2"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1206年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 463,
+    "id": "ann-chron-world-central-west-asia-0411",
+    "title": "讹答剌事件",
+    "start": 1218,
+    "end": 1218,
+    "summary": "商队及使者遭杀害加剧蒙古与花剌子模冲突，战争改变中亚城市和人口格局。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1218年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 464,
+    "id": "ann-chron-world-central-west-asia-0412",
+    "title": "蒙古入侵花剌子模",
+    "start": 1219,
+    "end": 1219,
+    "summary": "战争摧毁多座城市，原有绿洲政治秩序遭重创，跨洲权力网络逐渐建立。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1219年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 465,
+    "id": "ann-chron-world-central-west-asia-0413",
+    "title": "撒马尔罕与布哈拉被攻占",
+    "start": 1220,
+    "end": 1220,
+    "summary": "中亚城市的军事抵抗失败，居民迁移、破坏与后续恢复构成长时段变化。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1220年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 480,
+    "id": "ann-chron-world-central-west-asia-0414",
+    "title": "伊儿汗国形成",
+    "start": 1256,
+    "end": 1256,
+    "summary": "旭烈兀在伊朗建立蒙古王朝，地方行政传统与蒙古军事统治逐渐结合。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-hulegu"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1256年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 484,
+    "id": "ann-chron-world-central-west-asia-0416",
+    "title": "艾因贾鲁战役",
+    "start": 1260,
+    "end": 1260,
+    "summary": "马穆鲁克击败蒙古军队，阻止其向埃及扩张，叙利亚成为长期争夺地区。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1260年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 501,
+    "id": "ann-chron-world-central-west-asia-0417",
+    "title": "合赞汗改宗伊斯兰",
+    "start": 1295,
+    "end": 1295,
+    "summary": "伊儿汗王朝与伊斯兰政治文化更紧密结合，财政和行政改革随后推进。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-20e1131027ef"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1295年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 506,
+    "id": "ann-chron-world-central-west-asia-0418",
+    "title": "奥斯曼早期国家形成",
+    "start": 1299,
+    "end": 1299,
+    "summary": "安纳托利亚边境的突厥首领网络逐渐发展，建国具体起点带有后世纪年约定。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-726c31d8fb59"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。包含传统纪年或有争议解释，须结合条目中的限定语阅读。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1299年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 510,
+    "id": "ann-chron-world-central-west-asia-0419",
+    "title": "拉施特编纂《史集》前后",
+    "start": 1307,
+    "end": 1307,
+    "summary": "伊儿汗宫廷收集蒙古和多民族历史资料，跨文化世界史写作获得代表性成果。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-a70537d34419"
+    ],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。活动或著作形成的约略纪年，不能理解为确定的单一发生年。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1307年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 516,
+    "id": "ann-chron-world-central-west-asia-0420",
+    "title": "奥斯曼占领布尔萨",
+    "start": 1326,
+    "end": 1326,
+    "summary": "城市成为早期王朝中心，征服者逐渐发展税收、建筑与地方治理制度。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1326年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 519,
+    "id": "ann-chron-world-central-west-asia-0421",
+    "title": "伊儿汗统一统治瓦解",
+    "start": 1335,
+    "end": 1335,
+    "summary": "阿不赛因去世后各地势力割据，伊朗和两河进入新的地方王朝竞争。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1335年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 528,
+    "id": "ann-chron-world-central-west-asia-0422",
+    "title": "奥斯曼在加里波利立足",
+    "start": 1354,
+    "end": 1354,
+    "summary": "控制海峡据点便利向巴尔干扩张，帝国开始形成跨欧亚的领土结构。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1354年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 533,
+    "id": "ann-chron-world-central-west-asia-0423",
+    "title": "帖木儿取得河中统治权",
+    "start": 1370,
+    "end": 1370,
+    "summary": "以撒马尔罕为中心建立征服政权，军事远征与城市文化赞助并行。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "wp-timur"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1370年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 536,
+    "id": "ann-chron-world-central-west-asia-0424",
+    "title": "撒马尔罕大型建筑扩建",
+    "start": 1380,
+    "end": 1380,
+    "summary": "帖木儿将工匠和财富集中于首都，城市成为帝国权力展示与艺术交流中心。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1380年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 544,
+    "id": "ann-chron-world-central-west-asia-0425",
+    "title": "帖木儿攻陷德里",
+    "start": 1398,
+    "end": 1398,
+    "summary": "远征造成严重破坏，战利品和工匠被转移，中亚与南亚关系带有征服的强制性。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1398年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 550,
+    "id": "ann-chron-world-central-west-asia-0426",
+    "title": "安卡拉战役",
+    "start": 1402,
+    "end": 1402,
+    "summary": "帖木儿击败奥斯曼巴耶济德一世，奥斯曼陷入继承内战。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-9b29663ce853"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1402年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 552,
+    "id": "ann-chron-world-central-west-asia-0427",
+    "title": "帖木儿去世",
+    "start": 1405,
+    "end": 1405,
+    "summary": "庞大征服帝国由后裔分掌，赫拉特等城市随后成为帖木儿文化的重要中心。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1405年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 554,
+    "id": "ann-chron-world-central-west-asia-0428",
+    "title": "奥斯曼继承内战结束",
+    "start": 1413,
+    "end": 1413,
+    "summary": "穆罕默德一世重新整合核心领土，王朝继续在安纳托利亚与巴尔干扩张。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1413年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 561,
+    "id": "ann-chron-world-central-west-asia-0429",
+    "title": "兀鲁伯经学院建成",
+    "start": 1420,
+    "end": 1420,
+    "summary": "撒马尔罕教育与天文学研究相结合，宫廷赞助推动数学和观测工作。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-8e5a22890fd8"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1420年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 567,
+    "id": "ann-chron-world-central-west-asia-0430",
+    "title": "兀鲁伯星表编成",
+    "start": 1437,
+    "end": 1437,
+    "summary": "以观测为基础整理恒星位置和天文参数，显示中亚天文学的高度发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [],
+    "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "约1437年",
+    "expanded": true,
+    "precision": "circa",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "process"
+  },
+  {
+    "_order": 584,
+    "id": "ann-chron-world-central-west-asia-0432",
+    "title": "奥斯曼击败白羊王朝",
+    "start": 1473,
+    "end": 1473,
+    "summary": "乌尊哈桑在奥特卢克贝利战败，奥斯曼在安纳托利亚的优势扩大。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax1"
+    ],
+    "personIds": [
+      "ann-person-5c9690a23bc9"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1473年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 597,
+    "id": "ann-chron-world-central-west-asia-0433",
+    "title": "萨法维王朝建立",
+    "start": 1501,
+    "end": 1501,
+    "summary": "伊斯迈尔一世在大不里士称王，并以十二伊玛目什叶派塑造国家身份。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-26ac076f3533"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1501年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 604,
+    "id": "ann-chron-world-central-west-asia-0434",
+    "title": "查尔迪兰战役",
+    "start": 1514,
+    "end": 1514,
+    "summary": "奥斯曼击败萨法维，火器、军队组织和宗派竞争共同影响西亚边界。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1514年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 605,
+    "id": "ann-chron-world-central-west-asia-0435",
+    "title": "奥斯曼征服叙利亚",
+    "start": 1516,
+    "end": 1516,
+    "summary": "马穆鲁克军队战败，奥斯曼控制东地中海贸易与交通的重要区域。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1516年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 611,
+    "id": "ann-chron-world-central-west-asia-0436",
+    "title": "苏莱曼一世即位",
+    "start": 1520,
+    "end": 1520,
+    "summary": "法律、建筑、军事远征与官僚治理共同塑造奥斯曼盛期的帝国形象。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-suleiman"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1520年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 628,
+    "id": "ann-chron-world-central-west-asia-0437",
+    "title": "奥斯曼控制巴格达",
+    "start": 1534,
+    "end": 1534,
+    "summary": "两河地区纳入奥斯曼统治，与萨法维的宗派和领土竞争长期持续。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1534年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 632,
+    "id": "ann-chron-world-central-west-asia-0438",
+    "title": "普雷韦扎海战",
+    "start": 1538,
+    "end": 1538,
+    "summary": "奥斯曼舰队取得胜利，东地中海海上力量与北非、意大利港口关系重新安排。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1538年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 645,
+    "id": "ann-chron-world-central-west-asia-0439",
+    "title": "阿马西亚和约",
+    "start": 1555,
+    "end": 1555,
+    "summary": "奥斯曼与萨法维首次达成正式和平安排，双方分配部分边境与势力范围。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1555年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 674,
+    "id": "ann-chron-world-central-west-asia-0440",
+    "title": "阿拔斯一世即位",
+    "start": 1588,
+    "end": 1588,
+    "summary": "萨法维改革军事和王室经济，重建中央权力并推动贸易与城市艺术。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "wp-abbas"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1588年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 681,
+    "id": "ann-chron-world-central-west-asia-0441",
+    "title": "萨法维迁都伊斯法罕",
+    "start": 1598,
+    "end": 1598,
+    "summary": "新首都以广场、清真寺、市场和宫殿连接商业、礼仪与王权空间。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1598年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 689,
+    "id": "ann-chron-world-central-west-asia-0442",
+    "title": "亚美尼亚商人迁往伊朗内地",
+    "start": 1604,
+    "end": 1604,
+    "summary": "萨法维战争中的强制迁徙造成巨大痛苦，新朱尔法商人后来连接全球丝绸贸易。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1604年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 725,
+    "id": "ann-chron-world-central-west-asia-0443",
+    "title": "祖哈布条约",
+    "start": 1639,
+    "end": 1639,
+    "summary": "奥斯曼与萨法维确认部分边界，伊拉克和伊朗之间的政治分界趋于稳定。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1639年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 731,
+    "id": "ann-chron-world-central-west-asia-0444",
+    "title": "奥斯曼宫廷政变",
+    "start": 1648,
+    "end": 1648,
+    "summary": "易卜拉欣被废，军队、宫廷和宗教精英之间的权力协商继续影响帝国治理。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1648年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 739,
+    "id": "ann-chron-world-central-west-asia-0445",
+    "title": "科普鲁律改革开始",
+    "start": 1656,
+    "end": 1656,
+    "summary": "大维齐尔以整顿财政、军队和官僚恢复国家执行力，改革伴随严厉惩罚。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-32654ac6eccc"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1656年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 765,
+    "id": "ann-chron-world-central-west-asia-0446",
+    "title": "卡尔洛维茨条约",
+    "start": 1699,
+    "end": 1699,
+    "summary": "奥斯曼向哈布斯堡等割让大片领土，欧洲边界与外交地位发生重大改变。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1699年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 774,
+    "id": "ann-chron-world-central-west-asia-0447",
+    "title": "艾哈迈德三世即位",
+    "start": 1703,
+    "end": 1703,
+    "summary": "帝国在战争与城市文化发展之间寻求调整，宫廷赞助与消费生活日益多样。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-c080a6663ab6"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1703年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 781,
+    "id": "ann-chron-world-central-west-asia-0448",
+    "title": "帕萨罗维茨条约与郁金香时代",
+    "start": 1718,
+    "end": 1718,
+    "summary": "奥斯曼和平外交和城市文化活动加强，同时社会差距与宫廷消费引发不满。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1718年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 784,
+    "id": "ann-chron-world-central-west-asia-0449",
+    "title": "阿富汗军队攻陷伊斯法罕",
+    "start": 1722,
+    "end": 1722,
+    "summary": "萨法维王权崩溃，伊朗进入战争和地方势力争夺的时期。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1722年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 786,
+    "id": "ann-chron-world-central-west-asia-0450",
+    "title": "穆特费里卡印刷获准",
+    "start": 1727,
+    "end": 1727,
+    "summary": "奥斯曼穆斯林经营的活字印刷逐步发展，知识出版仍受宗教、市场和读者条件限制。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-370c411e60ca"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1727年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 787,
+    "id": "ann-chron-world-central-west-asia-0451",
+    "title": "纳迪尔沙称王",
+    "start": 1736,
+    "end": 1736,
+    "summary": "军事统一重建伊朗政治力量，对外远征扩张却不断加重财政与社会负担。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-99730028446b"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1736年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 789,
+    "id": "ann-chron-world-central-west-asia-0452",
+    "title": "纳迪尔沙入侵德里",
+    "start": 1739,
+    "end": 1739,
+    "summary": "伊朗军队掠夺莫卧儿首都，显示莫卧儿中央衰弱与区域军事竞争加剧。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1739年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 793,
+    "id": "ann-chron-world-central-west-asia-0453",
+    "title": "杜兰尼王朝建立",
+    "start": 1747,
+    "end": 1747,
+    "summary": "艾哈迈德·沙在阿富汗整合部族势力，新的国家结构连接伊朗、中亚和南亚。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-3bf11e82b487"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1747年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 824,
+    "id": "ann-chron-world-central-west-asia-0454",
+    "title": "库楚克开纳吉条约",
+    "start": 1774,
+    "end": 1774,
+    "summary": "俄土战争结束，俄国扩大黑海影响，奥斯曼的军事和外交困境日益明显。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1774年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 843,
+    "id": "ann-chron-world-central-west-asia-0455",
+    "title": "塞利姆三世即位",
+    "start": 1789,
+    "end": 1789,
+    "summary": "新秩序改革试图改组军队和财政，旧军事集团与宫廷利益对改革形成阻力。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-80e137111cd2"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1789年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 859,
+    "id": "ann-chron-world-central-west-asia-0456",
+    "title": "卡扎尔王朝确立",
+    "start": 1796,
+    "end": 1796,
+    "summary": "阿迦·穆罕默德汗加冕，德黑兰成为伊朗权力中心，地方势力被重新整合。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1796年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 893,
+    "id": "ann-chron-world-central-west-asia-0457",
+    "title": "古利斯坦条约",
+    "start": 1813,
+    "end": 1813,
+    "summary": "伊朗在对俄战争中失利，部分高加索领土被割让，边界与区域社群命运改变。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1813年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 922,
+    "id": "ann-chron-world-central-west-asia-0458",
+    "title": "奥斯曼废除禁卫军",
+    "start": 1826,
+    "end": 1826,
+    "summary": "马哈茂德二世以武力摧毁旧军队集团，为新军和中央集权改革扫除障碍。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-155343ccf965"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1826年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 923,
+    "id": "ann-chron-world-central-west-asia-0459",
+    "title": "土库曼恰伊条约",
+    "start": 1828,
+    "end": 1828,
+    "summary": "俄伊战争后伊朗再次割地赔款，高加索格局与俄国影响进一步扩大。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1828年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 950,
+    "id": "ann-chron-world-central-west-asia-0460",
+    "title": "坦齐马特改革启动",
+    "start": 1839,
+    "end": 1839,
+    "summary": "古尔哈内敕令提出生命财产保障和税兵制度调整，奥斯曼尝试重塑臣民与国家关系。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1839年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 964,
+    "id": "ann-chron-world-central-west-asia-0461",
+    "title": "巴布运动冲突升级",
+    "start": 1848,
+    "end": 1848,
+    "summary": "伊朗新宗教运动挑战既有宗教社会秩序，支持者与国家发生武装冲突。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-523a3340786a"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1848年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 967,
+    "id": "ann-chron-world-central-west-asia-0462",
+    "title": "巴布被处决",
+    "start": 1850,
+    "end": 1850,
+    "summary": "新宗教运动遭镇压，其追随者后来分化并形成持续传播的宗教网络。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1850年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 969,
+    "id": "ann-chron-world-central-west-asia-0463",
+    "title": "伊朗达尔丰农学院开办",
+    "start": 1851,
+    "end": 1851,
+    "summary": "阿米尔·卡比尔推动技术与军事教育，国家改革逐渐引入新的专业知识体系。",
+    "importance": "",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-c0ebfd3f6bb2"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1851年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 983,
+    "id": "ann-chron-world-central-west-asia-0464",
+    "title": "奥斯曼改革敕令",
+    "start": 1856,
+    "end": 1856,
+    "summary": "帝国承诺进一步保障不同宗教臣民权利，法律平等与地方实践之间仍有明显距离。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1856年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 995,
+    "id": "ann-chron-world-central-west-asia-0465",
+    "title": "叙利亚与黎巴嫩宗派暴力",
+    "start": 1860,
+    "end": 1860,
+    "summary": "宗教社群冲突造成大量伤亡，欧洲干涉和奥斯曼行政重组随后展开。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1860年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1015,
+    "id": "ann-chron-world-central-west-asia-0466",
+    "title": "俄国建立突厥斯坦总督区",
+    "start": 1867,
+    "end": 1867,
+    "summary": "中亚军事征服转为殖民行政，土地、棉花种植和地方权力关系发生改变。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1867年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1044,
+    "id": "ann-chron-world-central-west-asia-0467",
+    "title": "奥斯曼首部宪法颁布",
+    "start": 1876,
+    "end": 1876,
+    "summary": "议会和宪法尝试在帝国危机中出现，但君主很快限制其实际运行。",
+    "importance": "",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-5b8554ea0861"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1876年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1050,
+    "id": "ann-chron-world-central-west-asia-0468",
+    "title": "俄土战争后奥斯曼收缩",
+    "start": 1878,
+    "end": 1878,
+    "summary": "柏林会议调整巴尔干安排，难民流动和帝国认同问题进一步尖锐。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1878年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1057,
+    "id": "ann-chron-world-central-west-asia-0469",
+    "title": "奥斯曼公共债务管理局设立",
+    "start": 1881,
+    "end": 1881,
+    "summary": "外国债权人参与控制部分财政收入，帝国主权与国际金融深度纠缠。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1881年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1083,
+    "id": "ann-chron-world-central-west-asia-0470",
+    "title": "伊朗烟草特许权争议",
+    "start": 1890,
+    "end": 1890,
+    "summary": "向外国授予经营特权引发商人、宗教人士和社会抗议，经济主权成为公共议题。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1890年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1087,
+    "id": "ann-chron-world-central-west-asia-0471",
+    "title": "伊朗烟草抗议扩大",
+    "start": 1891,
+    "end": 1891,
+    "summary": "抵制运动迫使王室取消特许，跨阶层政治动员为宪政运动积累经验。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1891年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1100,
+    "id": "ann-chron-world-central-west-asia-0472",
+    "title": "纳赛尔丁沙遇刺",
+    "start": 1896,
+    "end": 1896,
+    "summary": "长期统治者遭暗杀，国家债务、外国特权与王权改革争论并未因此解决。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [
+      "ann-person-9b8a352be11e"
+    ],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1896年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1130,
+    "id": "ann-chron-world-central-west-asia-0473",
+    "title": "伊朗宪政革命",
+    "start": 1906,
+    "end": 1906,
+    "summary": "抗议促成宪法与议会建立，王权、宗教和社会力量围绕政治参与展开斗争。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1906年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1138,
+    "id": "ann-chron-world-central-west-asia-0475",
+    "title": "伊朗发现商业石油",
+    "start": 1908,
+    "end": 1908,
+    "summary": "马斯吉德苏莱曼油田开发把伊朗纳入现代石油经济，外国资本与主权问题加深。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1908年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1143,
+    "id": "ann-chron-world-central-west-asia-0474",
+    "title": "青年土耳其革命",
+    "start": 1908,
+    "end": 1908,
+    "summary": "军官和改革派迫使恢复宪法，帝国政治开放同时伴随民族和中央集权矛盾。",
+    "importance": "",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1908年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1146,
+    "id": "ann-chron-world-central-west-asia-0476",
+    "title": "英波石油公司成立",
+    "start": 1909,
+    "end": 1909,
+    "summary": "石油开采形成跨国资本组织，伊朗资源收益和外国控制之间的争议持续发展。",
+    "importance": "",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1909年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  },
+  {
+    "_order": 1152,
+    "id": "ann-chron-world-central-west-asia-0477",
+    "title": "意土战争",
+    "start": 1911,
+    "end": 1911,
+    "summary": "意大利进攻奥斯曼属利比亚，帝国军事危机与北非殖民扩张相互牵连。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "chron-world-openstax2"
+    ],
+    "personIds": [],
+    "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+    "dateLabel": "1911年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "regionId": "central-west-asia",
+    "regionIds": [
+      "central-west-asia"
+    ],
+    "worldEntryIds": [],
+    "kind": "event"
+  }
+]

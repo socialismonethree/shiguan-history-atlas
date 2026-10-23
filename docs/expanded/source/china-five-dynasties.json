@@ -1,0 +1,1156 @@
+[
+  {
+    "_order": 703,
+    "id": "ann-cl-five-dynasties-907-137",
+    "title": "前蜀建立",
+    "start": 907,
+    "end": 907,
+    "summary": "王建在成都称帝。",
+    "importance": "四川成为独立政治与文化中心。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-97436503e4de"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "907年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 704,
+    "id": "ann-cl-five-dynasties-907-136",
+    "title": "吴越建国",
+    "start": 907,
+    "end": 907,
+    "summary": "钱镠受封吴越王。",
+    "importance": "在两浙建立长期地方统治。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "qianliu"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "907年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 706,
+    "id": "ann-cl-five-dynasties-909-138",
+    "title": "闽政权确立",
+    "start": 909,
+    "end": 909,
+    "summary": "王审知受封闽王。",
+    "importance": "福建地方统治得到朝廷名义承认。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-fc2de8d8f123"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "909年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 707,
+    "id": "ann-cl-five-dynasties-910-139",
+    "title": "吴政权内斗后重组",
+    "start": 910,
+    "end": 910,
+    "summary": "徐温控制吴国朝政。",
+    "importance": "杨氏君主实际权力受到限制。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-23a8269648e2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "910年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 708,
+    "id": "ann-cl-five-dynasties-911-140",
+    "title": "柏乡之战",
+    "start": 911,
+    "end": 911,
+    "summary": "李存勖击败后梁军。",
+    "importance": "晋梁争霸力量对比发生变化。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "licunxu"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "911年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 709,
+    "id": "ann-cl-five-dynasties-912-141",
+    "title": "朱友珪弑父夺位",
+    "start": 912,
+    "end": 912,
+    "summary": "后梁皇室发生政变。",
+    "importance": "朱温遇害，统治稳定性受损。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "zhuwen",
+      "ann-person-41d4e1f871ca"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "912年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 710,
+    "id": "ann-cl-five-dynasties-913-142",
+    "title": "朱友贞夺取后梁皇位",
+    "start": 913,
+    "end": 913,
+    "summary": "朱友珪被推翻。",
+    "importance": "后梁继续与晋军争夺华北。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-5d52c0d22eca"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "913年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 711,
+    "id": "ann-cl-five-dynasties-914-143",
+    "title": "刘守光燕政权覆灭",
+    "start": 914,
+    "end": 914,
+    "summary": "晋军攻下幽州。",
+    "importance": "李存勖取得河北北部重要据点。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "licunxu",
+      "ann-person-c032dae32d80"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "914年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 712,
+    "id": "ann-cl-five-dynasties-915-144",
+    "title": "契丹攻晋北边境",
+    "start": 915,
+    "end": 915,
+    "summary": "晋与契丹的竞争上升。",
+    "importance": "中原争战与草原政治相互交织。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "yelv-abaoji"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "915年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 713,
+    "id": "ann-cl-five-dynasties-916-145",
+    "title": "耶律阿保机称帝",
+    "start": 916,
+    "end": 916,
+    "summary": "契丹君主建元称帝。",
+    "importance": "形成稳定的北方帝国政治结构。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "yelv-abaoji"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "916年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 714,
+    "id": "ann-cl-five-dynasties-917-146",
+    "title": "南汉建立",
+    "start": 917,
+    "end": 917,
+    "summary": "刘䶮在广州称帝。",
+    "importance": "岭南政权经营南海贸易。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-397e2a9bb8e2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "917年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 715,
+    "id": "ann-cl-five-dynasties-918-147",
+    "title": "胡柳陂之战",
+    "start": 918,
+    "end": 918,
+    "summary": "晋梁主力激战。",
+    "importance": "胜负变化造成双方大量伤亡。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "licunxu"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "918年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 716,
+    "id": "ann-cl-five-dynasties-919-148",
+    "title": "狼山江水战",
+    "start": 919,
+    "end": 919,
+    "summary": "吴越与吴国水军交战。",
+    "importance": "江南政权争夺江海交通。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c2c908bb0b94",
+      "ann-person-fa787f4b4a08"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "919年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 717,
+    "id": "ann-cl-five-dynasties-922-150",
+    "title": "杨溥成为吴王",
+    "start": 920,
+    "end": 920,
+    "summary": "徐氏继续控制政务。",
+    "importance": "吴政权的君臣权力分离加深。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2f3bbe5bfb77",
+      "ann-person-23a8269648e2"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "920年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 718,
+    "id": "ann-cl-five-dynasties-921-149",
+    "title": "镇州之乱",
+    "start": 921,
+    "end": 921,
+    "summary": "王镕被杀。",
+    "importance": "晋军介入并夺取镇州，河北格局改变。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-0e74eaaad7ef",
+      "licunxu"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "921年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 719,
+    "id": "ann-cl-five-dynasties-923-151",
+    "title": "后唐灭后梁",
+    "start": 923,
+    "end": 923,
+    "summary": "李存勖建立后唐并攻入汴州。",
+    "importance": "后梁政权灭亡。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "licunxu"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "923年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 720,
+    "id": "ann-cl-five-dynasties-924-152",
+    "title": "南平政权形成",
+    "start": 924,
+    "end": 924,
+    "summary": "高季兴受封南平王。",
+    "importance": "荆南成为诸政权间交通枢纽。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-7486edcbbcd0"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "924年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 721,
+    "id": "ann-cl-five-dynasties-925-153",
+    "title": "后唐灭前蜀",
+    "start": 925,
+    "end": 925,
+    "summary": "后唐军进入成都。",
+    "importance": "王衍投降，前蜀结束。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-738d35dbb987"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "925年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 722,
+    "id": "ann-cl-five-dynasties-926-154",
+    "title": "兴教门之变",
+    "start": 926,
+    "end": 926,
+    "summary": "后唐军变中李存勖被杀。",
+    "importance": "李嗣源入洛即位。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "licunxu",
+      "ann-person-54dc77ea166e"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "926年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 723,
+    "id": "ann-cl-five-dynasties-927-155",
+    "title": "吴国改称皇帝",
+    "start": 927,
+    "end": 927,
+    "summary": "杨溥称帝。",
+    "importance": "江淮政权与中原王朝形式上分庭抗礼。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-2f3bbe5bfb77"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "927年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 724,
+    "id": "ann-cl-five-dynasties-932-156",
+    "title": "吴越王钱镠去世",
+    "start": 932,
+    "end": 932,
+    "summary": "钱氏政权完成继承。",
+    "importance": "保境与海贸政策继续延续。",
+    "outcome": "",
+    "category": "社会与经济",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "qianliu",
+      "ann-person-053b28026771"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "932年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 725,
+    "id": "ann-cl-five-dynasties-932-157",
+    "title": "国子监刻九经启动",
+    "start": 932,
+    "end": 932,
+    "summary": "后唐开始官方大规模雕印儒家经典。",
+    "importance": "后经数朝完成。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-67129dc4dd48"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "932年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 726,
+    "id": "ann-cl-five-dynasties-933-158",
+    "title": "闽王称帝",
+    "start": 933,
+    "end": 933,
+    "summary": "王延钧称帝。",
+    "importance": "闽国内部宗室斗争随后加剧。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-bd76e53dd79b"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "933年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 727,
+    "id": "ann-cl-five-dynasties-934-160",
+    "title": "后唐潞王夺位",
+    "start": 934,
+    "end": 934,
+    "summary": "李从珂推翻李从厚。",
+    "importance": "军人拥立继续左右中原皇位。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-119715ed7fd6",
+      "ann-person-ab6453b8eb15"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "934年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 728,
+    "id": "ann-cl-five-dynasties-934-159",
+    "title": "后蜀建立",
+    "start": 934,
+    "end": 934,
+    "summary": "孟知祥在成都称帝。",
+    "importance": "四川再次出现独立政权。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-e1d2b095e2a3"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "934年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 729,
+    "id": "ann-cl-five-dynasties-936-161",
+    "title": "石敬瑭借契丹建后晋",
+    "start": 936,
+    "end": 936,
+    "summary": "后晋以称臣和割让燕云诸州换取契丹军援。",
+    "importance": "",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "shijingtang"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "936年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 730,
+    "id": "ann-cl-five-dynasties-937-162",
+    "title": "南唐取代吴国",
+    "start": 937,
+    "end": 937,
+    "summary": "李昪接受杨溥禅让。",
+    "importance": "在江淮建立南唐。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-7760fd1061c1",
+      "ann-person-2f3bbe5bfb77"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "937年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 731,
+    "id": "ann-cl-five-dynasties-939-163",
+    "title": "交趾吴权建立自主统治",
+    "start": 939,
+    "end": 939,
+    "summary": "白藤江击败南汉后。",
+    "importance": "吴权称王，越南区域政治转变。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-1cba1fb4c78a"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "939年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 732,
+    "id": "ann-cl-five-dynasties-942-164",
+    "title": "石重贵即位后晋",
+    "start": 942,
+    "end": 942,
+    "summary": "新帝对契丹由称臣转向称孙不称臣。",
+    "importance": "战争风险上升。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-c47285509a2f"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "942年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 733,
+    "id": "ann-cl-five-dynasties-943-165",
+    "title": "闽国分裂殷国",
+    "start": 943,
+    "end": 943,
+    "summary": "王延政在建州另立政权。",
+    "importance": "福建内战更加激烈。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-69444aada3e8"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "943年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 734,
+    "id": "ann-cl-five-dynasties-945-166",
+    "title": "南唐灭闽",
+    "start": 945,
+    "end": 945,
+    "summary": "南唐占领建州。",
+    "importance": "福建其他地区仍由地方势力控制。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-f6ea8475cf40"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "945年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 735,
+    "id": "ann-cl-five-dynasties-946-167",
+    "title": "契丹攻灭后晋",
+    "start": 946,
+    "end": 946,
+    "summary": "契丹军南下攻入开封。",
+    "importance": "后晋中央政权瓦解。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-ad5051e39024"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "946年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 736,
+    "id": "ann-cl-five-dynasties-947-169",
+    "title": "后汉建立",
+    "start": 947,
+    "end": 947,
+    "summary": "刘知远在太原称帝并进入开封。",
+    "importance": "接续中原统治。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "liuzhiyuan"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "947年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 737,
+    "id": "ann-cl-five-dynasties-947-168",
+    "title": "契丹改国号辽",
+    "start": 947,
+    "end": 947,
+    "summary": "耶律德光在开封改号大辽。",
+    "importance": "随后北撤途中去世。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-ad5051e39024"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "947年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 738,
+    "id": "ann-cl-five-dynasties-948-170",
+    "title": "后汉三镇叛乱",
+    "start": 948,
+    "end": 948,
+    "summary": "河中等地节度使起兵。",
+    "importance": "郭威平定反叛并壮大军权。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "guowei"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "948年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 739,
+    "id": "ann-cl-five-dynasties-950-171",
+    "title": "郭威起兵",
+    "start": 950,
+    "end": 950,
+    "summary": "后汉朝廷诛杀大臣及郭威家属。",
+    "importance": "郭威率军攻入开封。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "guowei"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "950年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 740,
+    "id": "ann-cl-five-dynasties-951-173",
+    "title": "北汉建立",
+    "start": 951,
+    "end": 951,
+    "summary": "刘旻据太原建立北汉并依靠辽。",
+    "importance": "延续汉室政权。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-fc4bdf57ab98"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "951年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 741,
+    "id": "ann-cl-five-dynasties-951-172",
+    "title": "后周建立",
+    "start": 951,
+    "end": 951,
+    "summary": "郭威接受拥立称帝。",
+    "importance": "后汉在中原的统治结束。",
+    "outcome": "",
+    "category": "建国与转折",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "guowei"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "951年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 742,
+    "id": "ann-cl-five-dynasties-951-174",
+    "title": "楚国分裂",
+    "start": 951,
+    "end": 951,
+    "summary": "马氏兄弟争位导致楚国瓦解。",
+    "importance": "南唐一度占领湖南。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-0d597c00e952"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "951年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 743,
+    "id": "ann-cl-five-dynasties-954-175",
+    "title": "高平之战",
+    "start": 954,
+    "end": 954,
+    "summary": "柴荣击败北汉与辽的联军。",
+    "importance": "巩固新继位的后周政权。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "chairong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "954年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 744,
+    "id": "ann-cl-five-dynasties-955-177",
+    "title": "后周攻南唐",
+    "start": 955,
+    "end": 958,
+    "summary": "后周多次进军淮南。",
+    "importance": "南唐最终割让江北土地。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "chairong",
+      "ann-person-f6ea8475cf40"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "955年—958年",
+    "expanded": true,
+    "precision": "range",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 745,
+    "id": "ann-cl-five-dynasties-955-176",
+    "title": "后周限制佛教",
+    "start": 955,
+    "end": 955,
+    "summary": "柴荣下令废并大量寺院并清理僧籍。",
+    "importance": "筹集金属铸钱。",
+    "outcome": "",
+    "category": "思想与文化",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "chairong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "955年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 746,
+    "id": "ann-cl-five-dynasties-958-178",
+    "title": "南唐奉后周正朔",
+    "start": 958,
+    "end": 958,
+    "summary": "南唐去帝号称国主。",
+    "importance": "江淮政治力量对比明显改变。",
+    "outcome": "",
+    "category": "制度与改革",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "ann-person-f6ea8475cf40"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "958年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  },
+  {
+    "_order": 747,
+    "id": "ann-cl-five-dynasties-959-179",
+    "title": "柴荣北伐",
+    "start": 959,
+    "end": 959,
+    "summary": "后周收复瀛莫等州。",
+    "importance": "未及继续推进柴荣即病逝。",
+    "outcome": "",
+    "category": "战争与外交",
+    "sourceIds": [
+      "cl-overview"
+    ],
+    "personIds": [
+      "chairong"
+    ],
+    "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+    "dateLabel": "959年",
+    "expanded": true,
+    "precision": "year",
+    "reviewLevel": "reference",
+    "coreEntry": true,
+    "periodId": "five-dynasties",
+    "lane": "china",
+    "themeId": "five-dynasties"
+  }
+]
