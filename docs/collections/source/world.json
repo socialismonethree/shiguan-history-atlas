@@ -1,0 +1,872 @@
+[
+  {
+    "id": "treasure-w-great-wave",
+    "scope": "world",
+    "regionId": "east-asia",
+    "title": "葛饰北斋《神奈川冲浪里》",
+    "dateLabel": "约1830—1832年",
+    "start": 1830,
+    "end": 1832,
+    "material": "纸本多色木版画",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "JP1847",
+    "provenance": "哈夫迈耶收藏，路易辛·哈夫迈耶夫人遗赠，1929年入藏。",
+    "description": "巨浪在前景向内卷起，三艘船与伏身的舟人被压缩在波谷，远处富士山却小得像一枚三角形。北斋通过大小悬殊与视角转换，让自然力量和人的活动同时进入画面。这是《富岳三十六景》系列中的一幅；蓝色既有靛蓝传统，也关联当时输入日本的普鲁士蓝，连接江户出版业与跨海贸易。",
+    "significance": "理解浮世绘如何通过可复制的版画，将名山、劳动与新颜料变成城市大众视觉文化。",
+    "lookingPoints": [
+      "比较巨浪弧线与远山三角，观察尺度如何被倒转。",
+      "寻找三艘船中伏身的人物，体会人在海面上的位置。",
+      "看浪花爪状尖端及深浅蓝色层次，辨认线与色版的协作。"
+    ],
+    "note": "中文标题为便于阅读的译名；年代采用馆方公开编目口径，不以风格推断具体制作年份。",
+    "sourceIds": [
+      "oa-w-great-wave"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-great-wave",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://images.metmuseum.org/CRDImages/as/web-large/DP130155.jpg",
+      "credit": "The Metropolitan Museum of Art, JP1847",
+      "license": "CC0 / Public Domain（Met 官方 API isPublicDomain=true）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45434",
+      "localUrl": "assets/collections/treasure-w-great-wave.jpg"
+    },
+    "category": "书画版刻"
+  },
+  {
+    "id": "treasure-w-moon-jar",
+    "scope": "world",
+    "regionId": "east-asia",
+    "title": "朝鲜王朝白瓷月壶",
+    "dateLabel": "18世纪后半叶",
+    "start": 1750,
+    "end": 1799,
+    "material": "白瓷",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "1979.413.1",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "近圆的器腹、略显不对称的轮廓和温润釉色，是月壶最容易辨认的特征。这类大罐以两个半球形坯体接合，烧成时的变形使每件作品各有不同。馆方指出，它们在朝鲜王朝曾是实用的大罐，二十世纪重新受到欣赏后才以月亮般的外形获得今天熟悉的名称；不能把现代的审美称谓直接当成古代用途。",
+    "significance": "从制作痕迹理解东亚陶瓷审美，也观察日用品如何在后世成为文化象征。",
+    "lookingPoints": [
+      "沿左右外轮廓比较，留意接合和烧成造成的轻微偏差。",
+      "比较口沿与圈足的大小，感受器腹的扩张。",
+      "观察白釉中的暖色变化，避免把釉色想成完全均匀的纯白。"
+    ],
+    "note": "中文标题为便于阅读的译名；年代采用馆方公开编目口径，不以风格推断具体制作年份。",
+    "sourceIds": [
+      "oa-w-moon-jar"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-moon-jar",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/45432/176317/main-image",
+      "credit": "The Metropolitan Museum of Art, 1979.413.1",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/45432",
+      "localUrl": "assets/collections/treasure-w-moon-jar.jpg"
+    },
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-w-keiko-haniwa",
+    "scope": "world",
+    "regionId": "east-asia",
+    "title": "挂甲武人埴轮",
+    "dateLabel": "古坟时代，6世纪",
+    "start": 500,
+    "end": 599,
+    "material": "陶质埴轮",
+    "museum": "东京国立博物馆",
+    "inventory": "J-36697",
+    "provenance": "出土地：群马县太田市饭塚町；馆方编号 J-36697。",
+    "description": "这件高约130.4厘米的武人埴轮来自日本群马县太田市饭塚町，以立体陶塑表现全副武装的人物。头盔、甲衣和肢体的分区使武装结构清晰可辨，人物却仍保留埴轮以简练形体塑造表情的特点。埴轮与古坟外部的丧葬空间相连，观看时应同时思考军事装备、身份展示和墓葬仪式，而不只把它当作士兵写生。",
+    "significance": "让日本早期国家形成与贵族墓葬获得可观察的物质证据。",
+    "lookingPoints": [
+      "从头盔到甲裙逐段观看，辨认防护覆盖的部位。",
+      "比较脸部孔洞与身体细部，观察简化和写实如何并置。",
+      "注意站姿及双臂位置，思考武装人物怎样表现威严。"
+    ],
+    "note": "本件为馆藏 J-36697；不要与馆内其他同名挂甲武人埴轮混同。国宝身份采用该件官方条目，避免沿用旧页“唯一”等时效性描述。",
+    "sourceIds": [
+      "oa-w-keiko-haniwa"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-keiko-haniwa",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-w-nataraja",
+    "scope": "world",
+    "regionId": "south-asia",
+    "title": "湿婆舞王像",
+    "dateLabel": "约11世纪晚期，朱罗时期",
+    "start": 1075,
+    "end": 1100,
+    "material": "铜合金",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "1987.80.1",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "湿婆在火焰圆环中起舞，四臂分别持鼓、举火或作出手势，一脚踏住象征迷妄的小人，另一脚抬起。动态身体和稳定面容并置，将创造、保存与毁灭纳入同一个形象。朱罗时期的工匠把复杂的宗教思想转为平衡而富弹性的金属造型；鼓、火、手势和脚下人物都有特定语义，不能只把它理解为一般舞者。",
+    "significance": "通过宗教图像认识南印度朱罗艺术与循环时间观。",
+    "lookingPoints": [
+      "依次找到鼓、火、无畏手势与抬起的左脚。",
+      "比较飘散的头发与安静的面容，观察动静关系。",
+      "从外圈火焰转向脚下小人，追踪图像构成的宇宙秩序。"
+    ],
+    "note": "中文标题为便于阅读的译名；年代采用馆方公开编目口径，不以风格推断具体制作年份。",
+    "sourceIds": [
+      "oa-w-nataraja"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-nataraja",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/39328/154124/main-image",
+      "credit": "The Metropolitan Museum of Art, 1987.80.1",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/39328",
+      "localUrl": "assets/collections/treasure-w-nataraja.jpg"
+    },
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-w-mathura-buddha",
+    "scope": "world",
+    "regionId": "south-asia",
+    "title": "秣菟罗施无畏印佛立像",
+    "dateLabel": "5世纪晚期，笈多时期",
+    "start": 475,
+    "end": 499,
+    "material": "红砂岩",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "1979.6",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "佛像以沉静的正面姿态站立，贴身僧衣的细密褶纹和身体轮廓相互呼应，头后残存的大光背强调超越日常的身份。如今缺失的右手原应作施无畏印，用以传达安抚和护佑。馆方将它视为笈多时期佛像发展的重要代表；欣赏残件时，应分清现存实物与根据同类图像所作的姿态复原说明。",
+    "significance": "展示北印度佛教造像如何形成影响亚洲多地的视觉范式。",
+    "lookingPoints": [
+      "观察衣褶的连续弧线怎样包裹身体。",
+      "看面部垂眼与微弧嘴角，体会内在平静的表达。",
+      "辨认残损的光背与右臂，区分原物和解释性复原。"
+    ],
+    "note": "中文标题为便于阅读的译名；年代采用馆方公开编目口径，不以风格推断具体制作年份。",
+    "sourceIds": [
+      "oa-w-mathura-buddha"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-mathura-buddha",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/38198/149115/main-image",
+      "credit": "The Metropolitan Museum of Art, 1979.6",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/38198",
+      "localUrl": "assets/collections/treasure-w-mathura-buddha.jpg"
+    },
+    "category": "雕塑造像"
+  },
+  {
+    "id": "treasure-w-shah-jahan",
+    "scope": "world",
+    "regionId": "south-asia",
+    "title": "奇塔尔曼《露台上的沙贾汗》",
+    "dateLabel": "画面1627—1628年；背面约1530—1550年",
+    "start": 1627,
+    "end": 1628,
+    "material": "纸本墨、水粉及金",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "55.121.10.24",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "沙贾汗站在露台上，手持镶嵌自己肖像的挂饰，衣服、珠宝和头后光环共同凸显帝王身份。画面上方飞翔的天使借用了欧洲艺术的视觉语言，整体仍受莫卧儿宫廷细密画传统组织。作品绘于他即位前后，是奇塔尔曼较早有明确纪年的画作，也把织造、珠宝、建筑等宫廷工艺浓缩在一页图像中。",
+    "significance": "把莫卧儿皇权、宫廷手工艺和跨文化绘画交流联系起来。",
+    "lookingPoints": [
+      "细看他手中的小肖像，理解画中画的自我呈现。",
+      "比较光环和天使，寻找多种视觉传统的结合。",
+      "观察衣纹、珠宝及建筑栏杆，体会细密画的尺度。"
+    ],
+    "note": "本条主时间对应正面绘画；背面年代另列，画册页不能被当作全部制作于同一年。",
+    "sourceIds": [
+      "oa-w-shah-jahan"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-shah-jahan",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://images.metmuseum.org/CRDImages/is/web-large/DP246547.jpg",
+      "credit": "The Metropolitan Museum of Art, 55.121.10.24",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/451270",
+      "localUrl": "assets/collections/treasure-w-shah-jahan.jpg"
+    },
+    "category": "书画版刻"
+  },
+  {
+    "id": "treasure-w-dongson-drum",
+    "scope": "world",
+    "regionId": "southeast-asia",
+    "title": "东山文化铜鼓（诺顿·西蒙藏）",
+    "dateLabel": "前300年至公元50年",
+    "start": -300,
+    "end": 50,
+    "material": "青铜",
+    "museum": "诺顿·西蒙博物馆",
+    "inventory": "M.2010.1.210.S",
+    "provenance": "诺顿·西蒙艺术基金会藏，来自 Jennifer Jones Simon 遗产。",
+    "description": "鼓面、鼓身的纹样及鼓面立体蛙饰，把声音、铸造技术和仪式观念结合起来。这件越南东山文化铜鼓高约50.8厘米、直径约73.7厘米，体量本身即可显示复杂的金属加工能力。馆方推测它可能用于祭祖或祈雨等活动；类似铜鼓广布东南亚，也提示跨区域交流，但单件的具体使用场合仍不能视为已有定论。",
+    "significance": "以乐器连接早期东南亚冶金、仪式生活和区域交通。",
+    "lookingPoints": [
+      "先看鼓面圆心到外缘的纹带排列。",
+      "寻找蛙形立体装饰，区分铸塑与平面纹样。",
+      "比较鼓面与鼓身的比例，想象敲击位置和共鸣空间。"
+    ],
+    "note": "祭祖、祈雨等用途依馆方使用“可能”表述；本件不是越南国家历史博物馆的玉缕铜鼓。图像版权未获开放许可，保留官方链接。",
+    "sourceIds": [
+      "oa-w-dongson-drum"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-dongson-drum",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-w-harihara",
+    "scope": "world",
+    "regionId": "southeast-asia",
+    "title": "诃利诃罗合体神像",
+    "dateLabel": "约675—700年，前吴哥时期",
+    "start": 675,
+    "end": 700,
+    "material": "石",
+    "museum": "金贝尔艺术博物馆",
+    "inventory": "AP 1988.01",
+    "provenance": "馆方列 Douglas A. J. Latchford 1968年起收藏；L & R Entwistle 1987年；金贝尔艺术基金会1988年购藏。",
+    "description": "诃利诃罗把毗湿奴与湿婆结合在一具身体中，左右头饰因此采用不同形式，细长躯干和简朴腰布使身体的起伏成为观看重点。这件柬埔寨前吴哥石像显示，南亚宗教并非原样移植，而是在本地政治和雕塑传统中被重新塑造。馆方还讨论它可能带有王室赞助者面貌的解释，这属于学术推测，不宜当成确证肖像。",
+    "significance": "呈现东南亚对印度教图像的本地化转换及王权表达。",
+    "lookingPoints": [
+      "对照左右头饰：一侧髻发，一侧高冠。",
+      "观察腰布与躯干之间的留白和转折。",
+      "比较平静面容与有重量的站姿，体会前吴哥造型。"
+    ],
+    "note": "来源链涉及 Douglas Latchford。页面公开记录1968年以来收藏路径，不能据此推定出土、出口及此前流转全部合法；应持续跟进馆方来源研究。",
+    "sourceIds": [
+      "oa-w-harihara"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-harihara",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": null,
+    "category": "雕塑造像"
+  },
+  {
+    "id": "treasure-w-java-headcloth",
+    "scope": "world",
+    "regionId": "southeast-asia",
+    "title": "中爪哇蜡染头巾",
+    "dateLabel": "19世纪晚期",
+    "start": 1875,
+    "end": 1899,
+    "material": "棉布、蜡染",
+    "museum": "克利夫兰艺术博物馆",
+    "inventory": "1925.486",
+    "provenance": "馆方来源栏列 A. K. Coomaraswamy；1925年以 J. H. Wade 基金购藏。",
+    "description": "这件约104厘米见方的棉质头巾，以深色和褐红色形成密集、对称的纹样，细小白点把大片深色拆解为富有节奏的表面。它来自十九世纪晚期的中爪哇，采用蜡染技法，让染液不能进入的部位保留浅色。观看时可以把整体构图与极细小的局部纹点交替对照，从中体会佩戴织物同样需要复杂的设计和手工劳动。",
+    "significance": "以纺织补充东南亚艺术史，避免只由寺庙和王室石雕代表整个区域。",
+    "lookingPoints": [
+      "比较四边框线与中央纹样，寻找构图方向。",
+      "近看密集小白点，理解防染如何留下纹理。",
+      "观察翼形和花卉式单元如何反复组合。"
+    ],
+    "note": "馆方题名为 Head Cloth；不把尚未核实的纹样名称、宗教寓意或佩戴等级写成定论。",
+    "sourceIds": [
+      "oa-w-java-headcloth"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-java-headcloth",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": null,
+    "category": "织绣服饰"
+  },
+  {
+    "id": "treasure-w-lamassu",
+    "scope": "world",
+    "regionId": "central-west-asia",
+    "title": "尼姆鲁德人首翼牛门卫像",
+    "dateLabel": "约前883—前859年",
+    "start": -883,
+    "end": -859,
+    "material": "石膏质雪花石",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "32.143.1",
+    "provenance": "出自尼姆鲁德古代卡尔胡；John D. Rockefeller Jr. 1932年赠予博物馆，详见馆方来源记录。",
+    "description": "庞大的人首翼牛曾守护亚述王宫的重要入口。带角的头冠、人面、牛身和翅膀把多种能力集中为超自然守卫；最特别的是五条腿，正面看仿佛稳稳站立，侧面看又像向前行走。它来自亚述纳西尔帕二世时期的尼姆鲁德，把城市建设、王权铭文和宫殿空间联为一体，原来的建筑位置也是理解雕像意义的重要部分。",
+    "significance": "把古代两河流域王权从抽象年表转为具有空间震撼力的视觉经验。",
+    "lookingPoints": [
+      "分别想象正面与侧面视角，数出五条腿。",
+      "观察角冠、翅膀和卷曲胡须的分层。",
+      "寻找表面铭文，理解文字与巨大兽身如何共同传达权威。"
+    ],
+    "note": "中文标题为便于阅读的译名；年代采用馆方公开编目口径，不以风格推断具体制作年份。",
+    "sourceIds": [
+      "oa-w-lamassu"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-lamassu",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/322608/1629446/main-image",
+      "credit": "The Metropolitan Museum of Art, 32.143.1",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/322608",
+      "localUrl": "assets/collections/treasure-w-lamassu.jpg"
+    },
+    "category": "雕塑造像"
+  },
+  {
+    "id": "treasure-w-iran-animal-carpet",
+    "scope": "world",
+    "regionId": "central-west-asia",
+    "title": "阿尔达比勒圣祠旧藏动物纹地毯",
+    "dateLabel": "16世纪，伊朗",
+    "start": 1500,
+    "end": 1599,
+    "material": "丝经纬、羊毛绒，非对称结",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "10.61.2",
+    "provenance": "馆方记录来自阿尔达比勒谢赫萨菲圣祠；1910年以 Frederick C. Hewitt 基金购藏。",
+    "description": "蔓草和花枝之间穿插狮、鹿、虎、野兔等动物，追逐搏斗使铺展开的地毯形成连续的运动场景。馆方将它与阿尔达比勒的谢赫萨菲圣祠联系起来，并因动物图像推测它可能铺在膳堂或宿舍等空间，而非礼拜区域。现存作品经历折损、补片和黏合物处理，今天的整齐外观也包含现代保护工作的结果。",
+    "significance": "从纺织设计和修复史认识萨法维伊朗的宫廷赞助与宗教机构。",
+    "lookingPoints": [
+      "沿蔓草寻找几组互相追逐的动物。",
+      "比较中心纹样与边框的节奏变化。",
+      "留意断裂、缺失和补配位置，思考修复怎样影响观看。"
+    ],
+    "note": "这是馆藏10.61.2动物纹地毯，不是维多利亚与艾尔伯特博物馆1539—1540年纪年的著名阿尔达比勒大地毯；两者不可混称。",
+    "sourceIds": [
+      "oa-w-iran-animal-carpet"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-iran-animal-carpet",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://images.metmuseum.org/CRDImages/is/web-large/SC152659.jpg",
+      "credit": "The Metropolitan Museum of Art, 10.61.2",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/445995",
+      "localUrl": "assets/collections/treasure-w-iran-animal-carpet.jpg"
+    },
+    "category": "其他工艺"
+  },
+  {
+    "id": "treasure-w-yemen-astrolabe",
+    "scope": "world",
+    "regionId": "central-west-asia",
+    "title": "欧麦尔·伊本·优素福星盘",
+    "dateLabel": "伊斯兰历690年／1291年",
+    "start": 1291,
+    "end": 1291,
+    "material": "黄铜、镶银，铸造、锤揲、镂刻",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "91.1.535a–h",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "星盘把天体位置和地平坐标压缩为可以转动、测读的平面结构。这件也门仪器的铭文把制作与拉苏里王朝王子欧麦尔·伊本·优素福联系起来，时间早于他即位。馆方指出，他的科学著作中还有对这件仪器的说明和教师对其制作能力的认证，使实物、文字和制作者之间形成罕见而具体的证据链。",
+    "significance": "显示中世纪伊斯兰世界科学仪器、金工与王室学术活动的结合。",
+    "lookingPoints": [
+      "看镂空星网与下方刻度，区分转动层和底层。",
+      "沿圆周观察数字及阿拉伯文铭刻的布置。",
+      "比较精细刻线与厚实外框，理解精密测读和携带需求。"
+    ],
+    "note": "中文标题为便于阅读的译名；年代采用馆方公开编目口径，不以风格推断具体制作年份。",
+    "sourceIds": [
+      "oa-w-yemen-astrolabe"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-yemen-astrolabe",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/444408/898284/main-image",
+      "credit": "The Metropolitan Museum of Art, 91.1.535a–h",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/444408",
+      "localUrl": "assets/collections/treasure-w-yemen-astrolabe.jpg"
+    },
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-w-hirschfeld-krater",
+    "scope": "world",
+    "regionId": "europe",
+    "title": "希尔施费尔德作坊陶制克拉特尔",
+    "dateLabel": "约前750—前735年",
+    "start": -750,
+    "end": -735,
+    "material": "陶",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "14.130.14",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "这件高逾一米的阿提卡大陶器曾具有墓标功能，器腹最宽处描绘停尸、亲属和哀悼者，下方则是战车与步行人物的行列。为使场景清楚，画师把覆盖死者的裹布展开成格纹矩形。人物被处理成几何形体，哀悼的动作仍然鲜明；战车场景可能唤起祖先荣耀，不宜直接当成墓主真实经历的纪录。",
+    "significance": "让几何时代希腊的丧葬仪式、祖先观念与图像叙事同时可见。",
+    "lookingPoints": [
+      "寻找停尸床上方被展开的格纹裹布。",
+      "比较哀悼者的举臂动作与几何化躯干。",
+      "沿下层战车队列观看，辨认分层叙事。"
+    ],
+    "note": "作坊归属采用馆方“Attributed to”；不是已知署名画家的确证作品。",
+    "sourceIds": [
+      "oa-w-hirschfeld-krater"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-hirschfeld-krater",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/248904/2460321/main-image",
+      "credit": "The Metropolitan Museum of Art, 14.130.14",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/248904",
+      "localUrl": "assets/collections/treasure-w-hirschfeld-krater.jpg"
+    },
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-w-rembrandt-aristotle",
+    "scope": "world",
+    "regionId": "europe",
+    "title": "伦勃朗《亚里士多德凝视荷马胸像》",
+    "dateLabel": "1653年",
+    "start": 1653,
+    "end": 1653,
+    "material": "布面油画",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "61.198",
+    "provenance": "1961年以博物馆友人捐赠及遗赠基金购藏；早期为西西里收藏家 Antonio Ruffo 订制。",
+    "description": "身着华服的哲学家一手轻触荷马胸像，金链和暗处的亚历山大肖像饰章把世俗成功引入画面。伦勃朗用深色背景、富有厚度的颜料和局部照明，使思索而非行动成为中心。作品为西西里赞助者绘制；它表现的是十七世纪画家对古代思想和名望的想象，服装与场景不能用来复原古希腊日常。",
+    "significance": "连接荷兰绘画、跨欧洲收藏赞助与古典文化的再解释。",
+    "lookingPoints": [
+      "从触碰胸像的手移动到人物目光，追踪思考的方向。",
+      "比较金链的厚重笔触与胸像的冷光。",
+      "寻找暗处的亚历山大饰章，理解三位古人如何同框。"
+    ],
+    "note": "中文标题为便于阅读的译名；年代采用馆方公开编目口径，不以风格推断具体制作年份。",
+    "sourceIds": [
+      "oa-w-rembrandt-aristotle"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-rembrandt-aristotle",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://images.metmuseum.org/CRDImages/ep/web-large/DP-30758-001.jpg",
+      "credit": "The Metropolitan Museum of Art, 61.198",
+      "license": "CC0 / Public Domain（Met 官方 API isPublicDomain=true）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/437394",
+      "localUrl": "assets/collections/treasure-w-rembrandt-aristotle.jpg"
+    },
+    "category": "其他工艺"
+  },
+  {
+    "id": "treasure-w-canova-perseus",
+    "scope": "world",
+    "regionId": "europe",
+    "title": "卡诺瓦《手持美杜莎头颅的珀尔修斯》",
+    "dateLabel": "1804—1806年",
+    "start": 1804,
+    "end": 1806,
+    "material": "大理石",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "67.110.1",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "珀尔修斯举起美杜莎头颅，身体的舒展姿势和垂落衣褶组成清晰的轮廓。这件大理石雕像是卡诺瓦为塔尔诺夫斯基伯爵夫妇制作的版本，与梵蒂冈较早的作品存在细部差异。它借鉴古代名作的姿态，却是拿破仑时代欧洲新古典主义的创作；对古典的“回归”，本身也参与了当时艺术声望和文化身份的竞争。",
+    "significance": "区分古代神话题材与近代艺术年代，理解新古典主义的历史意识。",
+    "lookingPoints": [
+      "从头部、胸腹到支撑腿看身体重心。",
+      "观察披布外摆怎样框出人物轮廓。",
+      "比较英雄面容与美杜莎头颅的姿态，体会胜利之后的静止。"
+    ],
+    "note": "本件为1804—1806年塔尔诺夫斯基版本，不是梵蒂冈1797—1801年的早期版本。",
+    "sourceIds": [
+      "oa-w-canova-perseus"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-canova-perseus",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/204758/486446/main-image",
+      "credit": "The Metropolitan Museum of Art, 67.110.1",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/204758",
+      "localUrl": "assets/collections/treasure-w-canova-perseus.jpg"
+    },
+    "category": "雕塑造像"
+  },
+  {
+    "id": "treasure-w-william-hippo",
+    "scope": "world",
+    "regionId": "africa",
+    "title": "蓝釉河马“威廉”",
+    "dateLabel": "约前1961—前1878年，埃及中王国",
+    "start": -1961,
+    "end": -1878,
+    "material": "埃及费昂斯（石英质釉陶）",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "17.9.1",
+    "provenance": "1910年 Khashaba 发掘；1917年 Edward S. Harkness 赠予博物馆。",
+    "description": "蓝色河马身上绘着莲花等水生植物，既指向尼罗河湿地，也关联再生观念。它出自迈尔森比二世墓礼拜堂相关墓井，是随葬组合的一部分。可爱的外观不应遮蔽古埃及人对河马危险力量的认识：馆方认为三条腿可能曾被有意打断，以防伤害死者，今天所见已包含修复。昵称“威廉”则出现于二十世纪。",
+    "significance": "通过小型随葬品理解埃及人对环境、危险和来世的多重态度。",
+    "lookingPoints": [
+      "寻找身体上的莲花与水草图样。",
+      "比较蓝釉表面与深色绘线的关系。",
+      "观察四肢并阅读修复说明，区分古代残损和现代补全。"
+    ],
+    "note": "“威廉”为现代昵称；三腿原始断损的仪式解释保留馆方“可能”语气。",
+    "sourceIds": [
+      "oa-w-william-hippo"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-william-hippo",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/544227/1216904/main-image",
+      "credit": "The Metropolitan Museum of Art, 17.9.1",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/544227",
+      "localUrl": "assets/collections/treasure-w-william-hippo.jpg"
+    },
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-w-idia-mask",
+    "scope": "world",
+    "regionId": "africa",
+    "title": "贝宁王母伊迪娅象牙垂饰面具",
+    "dateLabel": "16世纪",
+    "start": 1500,
+    "end": 1599,
+    "material": "象牙、铁、黄铜、煤及氧化铁痕迹",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "1978.412.323",
+    "provenance": "馆方来源史记录出自贝宁宫廷，1897年被英军入侵后移走；经 Moor、Seligman、Rockefeller 等收藏流转，1978年进入现馆藏体系。",
+    "description": "柔和面容、额上的金属嵌饰以及头冠边缘细密的小人头像，使这件象牙垂饰同时具有肖像与权力标识的性质。馆方认为它与贝宁国王埃西吉纪念母亲伊迪娅有关；葡萄牙商人面孔和泥鱼纹样把跨海贸易与王权象征编织在一起。它也经历1897年英国入侵后的掠夺和流散，鉴赏不能抹去这段来源历史。",
+    "significance": "呈现埃多宫廷工艺、王母政治地位及贝宁与大西洋贸易的联系。",
+    "lookingPoints": [
+      "看额部嵌入金属的痕迹与面部疤痕纹。",
+      "在冠饰中寻找有胡须的葡萄牙人物小头像。",
+      "比较象牙的浅色、细雕和镂空结构。"
+    ],
+    "note": "人物身份与原始佩戴仪式依馆方解释保留推测；与大英博物馆相近作品为不同实物。",
+    "sourceIds": [
+      "oa-w-idia-mask"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-idia-mask",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP231460.jpg",
+      "credit": "The Metropolitan Museum of Art, 1978.412.323",
+      "license": "CC0 / Public Domain（Met 官方 API isPublicDomain=true）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/318622",
+      "localUrl": "assets/collections/treasure-w-idia-mask.jpg"
+    },
+    "category": "玉石宝饰"
+  },
+  {
+    "id": "treasure-w-ethiopia-gospels",
+    "scope": "world",
+    "regionId": "africa",
+    "title": "埃塞俄比亚彩绘《四福音书》",
+    "dateLabel": "14世纪晚期至15世纪早期",
+    "start": 1375,
+    "end": 1425,
+    "material": "羊皮纸、金合欢木、蛋彩及墨",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "1998.66",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "以吉兹文抄写的经文与二十四幅整页图像共同构成这部书，包括基督生平场景和四位福音书作者。红、黄、绿、蓝等鲜明色面和有力轮廓，使人物动作在礼仪观看中清晰可辨。作品产生于埃塞俄比亚北部修道院文化，借鉴拜占庭图式而形成自身语言，显示非洲书籍艺术与红海、地中海世界的长期联系。",
+    "significance": "用手稿补充非洲艺术的文字、绘画和宗教史，突破只有面具与雕刻的单一印象。",
+    "lookingPoints": [
+      "对照正面头部和侧面身体的组合方式。",
+      "看色块、衣纹条带与黑红轮廓怎样组织人物。",
+      "把图像与吉兹文字并看，理解书籍作为礼仪对象。"
+    ],
+    "note": "馆方最新条目认为有两位不同画师参与；不沿用旧资料将全书归于单一画家的说法。具体赞助人与制作修道院仍属研究推测。",
+    "sourceIds": [
+      "oa-w-ethiopia-gospels"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-ethiopia-gospels",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DP109439.jpg",
+      "credit": "The Metropolitan Museum of Art, 1998.66",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/317618",
+      "localUrl": "assets/collections/treasure-w-ethiopia-gospels.jpg"
+    },
+    "category": "书画版刻"
+  },
+  {
+    "id": "treasure-w-maya-maize",
+    "scope": "world",
+    "regionId": "americas",
+    "title": "玛雅玉米神贝雕耳饰一对",
+    "dateLabel": "400—700年",
+    "start": 400,
+    "end": 700,
+    "material": "贝壳",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "1995.489a, b",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "两枚贝雕表现玉米神头部，可能原本安装在耳珰正面。流动的发束、倾斜额头和闭合眼睛，让成熟玉米的形态与神灵面容相连。虽然成对设计，细看却能发现一件线条平缓疏朗，另一件起伏更深、刻线更厚，馆方据此讨论不同工匠的手笔。贝壳在玛雅精英生活中具有价值，佩饰也关联农业和生命循环。",
+    "significance": "以微小工艺品认识玛雅玉米观念、身份与个体工匠差异。",
+    "lookingPoints": [
+      "把两件正面并排比较，观察浮雕深浅。",
+      "寻找卷曲玉米须般的发束和闭眼曲线。",
+      "留意薄贝片上的镂刻，思考材料对线条的限制。"
+    ],
+    "note": "具体出土地未确定，馆方列南墨西哥、危地马拉、洪都拉斯或伯利兹；耳珰安装方式采用“可能”。",
+    "sourceIds": [
+      "oa-w-maya-maize"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-maya-maize",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/317760/2165250/main-image",
+      "credit": "The Metropolitan Museum of Art, 1995.489a, b",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/317760",
+      "localUrl": "assets/collections/treasure-w-maya-maize.jpg"
+    },
+    "category": "其他工艺"
+  },
+  {
+    "id": "treasure-w-inca-tunic",
+    "scope": "world",
+    "regionId": "americas",
+    "title": "印加黑白棋盘格短衣",
+    "dateLabel": "1400—1535年",
+    "start": 1400,
+    "end": 1535,
+    "material": "骆驼科动物纤维、缂织",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "2017.674",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "黑白棋盘格与红色V形肩区使这件短衣具有很强的身份识别力，正反面及内外的纹样处理都十分精细。馆方将同类服装与印加军队、统治者的赠礼及国家对织物生产的控制联系起来。它不只是保暖衣物：优质织物参与外交、奖赏和祭祀。接缝与边缘的细密刺绣则提示，整齐的大色块之下有极耗工的制作过程。",
+    "significance": "让安第斯文明中织物的政治价值，与更熟悉的金器并列被理解。",
+    "lookingPoints": [
+      "比较前后和内外棋盘格的对应。",
+      "看红色V形与黑白格如何区分肩部和主体。",
+      "放大衣边的刺绣及底部锯齿纹，观察整饰工序。"
+    ],
+    "note": "馆方不能确定具体来自今阿根廷、玻利维亚、智利还是秘鲁；底部锯齿纹确切意义尚不明确。",
+    "sourceIds": [
+      "oa-w-inca-tunic"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-inca-tunic",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/751901/1741040/main-image",
+      "credit": "The Metropolitan Museum of Art, 2017.674",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/751901",
+      "localUrl": "assets/collections/treasure-w-inca-tunic.jpg"
+    },
+    "category": "织绣服饰"
+  },
+  {
+    "id": "treasure-w-panama-double-eagle",
+    "scope": "world",
+    "regionId": "americas",
+    "title": "巴拿马双鹰金饰",
+    "dateLabel": "1—500年，初始风格",
+    "start": 1,
+    "end": 500,
+    "material": "金",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "1979.206.538",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "两只抽象猛禽并置，展开的翅膀、向前突出的喙和敞开的尾部，使小型金饰具有鲜明的轮廓。中美洲鸟形佩饰常悬挂于颈部，尺寸和细节多样；双鸟构图在常见单鸟之外显得格外醒目。馆方把这类形象理解为风格化猛禽，并认为可能有护佑作用，但鸟的具体种类和每一细部的含义不能任意落实。",
+    "significance": "通过佩饰认识前哥伦布中美洲金工传统和区域性的视觉语汇。",
+    "lookingPoints": [
+      "分别追踪两只鸟的喙、翼和尾部。",
+      "看正面轮廓与侧面突出部位怎样协作。",
+      "比较左右对应中的细微差异，体会手工造型。"
+    ],
+    "note": "采用馆方“巴拿马／初始风格”的年代与地域，不将其误标为秘鲁印加金器；护佑功能属于推测。",
+    "sourceIds": [
+      "oa-w-panama-double-eagle"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-panama-double-eagle",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": {
+      "url": "https://images.metmuseum.org/CRDImages/ao/web-large/DT1259.jpg",
+      "credit": "The Metropolitan Museum of Art, 1979.206.538",
+      "license": "Public Domain / Met Open Access CC0（官方藏品页标注）",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/312747",
+      "localUrl": "assets/collections/treasure-w-panama-double-eagle.jpg"
+    },
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-w-rebbilib",
+    "scope": "world",
+    "regionId": "oceania",
+    "title": "马绍尔群岛 Rebbilib 航海枝条图",
+    "dateLabel": "19世纪至20世纪早期",
+    "start": 1800,
+    "end": 1920,
+    "material": "椰子叶中肋、纤维",
+    "museum": "纽约大都会艺术博物馆",
+    "inventory": "1978.412.826",
+    "provenance": "具体入藏与流传信息以馆方 Provenance 栏持续更新为准。",
+    "description": "七根纵条与四根横条扎成框架，弯曲和斜出的枝条使航海知识转为可以讨论、记忆的结构。这件图不按现代海图比例描绘海岸，而是联系岛屿位置与海浪形态。馆方指出弯条和交点的具体对应仍有不确定之处；本件也没有某些同类图用来标岛的贝壳。应把它与航海者长期观察海况的知识共同理解。",
+    "significance": "将大洋洲原住民的海洋知识作为技术与思想成果呈现，而非装饰品。",
+    "lookingPoints": [
+      "先数纵横骨架，再找横跨其间的弯条。",
+      "观察四角斜向交叉，思考不同信息如何共存。",
+      "注意没有贝壳标记，避免把其他枝条图的说明直接套用。"
+    ],
+    "note": "馆方年代跨至20世纪早期，范围如实保留，不人为压到1912年；海浪及岛屿对应采用“可能”。该件图片未标开放下载，image留空。",
+    "sourceIds": [
+      "oa-w-rebbilib"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-rebbilib",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": null,
+    "category": "其他工艺"
+  },
+  {
+    "id": "treasure-w-hei-tiki",
+    "scope": "world",
+    "regionId": "oceania",
+    "title": "毛利 Pounamu 人形垂饰 Hei-tiki",
+    "dateLabel": "19世纪",
+    "start": 1800,
+    "end": 1899,
+    "material": "软玉（pounamu）、红色封蜡",
+    "museum": "大英博物馆",
+    "inventory": "Oc1906,0416.1",
+    "provenance": "馆方记录购自 Fenton and Son，1906年入藏；记录关联 Rotorua 及 Wiari 家族。",
+    "description": "中绿软玉雕成弯曲的人形，眼部加入红色封蜡，正背两面的造型并非同时完成。馆方登记资料记录它与一个家族及失去这件垂饰的歌谣有关，因此不能只按材质和造型评价。Hei-tiki 可作为传承的 taonga 与祖辈记忆联系；本件经过后期再雕，也让我们看到珍贵物件会在流转中继续变化。",
+    "significance": "尊重物件与毛利家族、语言和传承的联系，避免把原住民艺术泛化为匿名异域装饰。",
+    "lookingPoints": [
+      "比较两面的雕刻深浅与完成方式。",
+      "看悬挂孔的偏置，理解馆方如何判断原来的正面。",
+      "观察红眼、弯头与屈肢的关系，不把符号强解成单一寓意。"
+    ],
+    "note": "具体家族名称采用馆方历史登记，可能存在转写问题；不把所有 Hei-tiki 一概解释为生殖符号。图片许可未核验，留空。",
+    "sourceIds": [
+      "oa-w-hei-tiki"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-hei-tiki",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": null,
+    "category": "玉石宝饰"
+  },
+  {
+    "id": "treasure-w-malagan",
+    "scope": "world",
+    "regionId": "oceania",
+    "title": "新爱尔兰马拉甘男性木雕",
+    "dateLabel": "19世纪",
+    "start": 1800,
+    "end": 1899,
+    "material": "木、贝壳及颜料",
+    "museum": "大英博物馆",
+    "inventory": "Oc1884,0728.49",
+    "provenance": "Hugh Hastings Romilly 采集；1884年由第九代贝德福德公爵 Francis Russell 捐赠，早期采集语境需结合殖民史阅读。",
+    "description": "红、黑、白彩绘组织起男性人物与鱼形构件：底部张口的鱼头向上延伸，复杂结构把人物与周围生命形象穿插起来。它来自巴布亚新几内亚新爱尔兰岛的马拉甘传统，这类雕刻与纪念逝者的仪式相连。观看时既可欣赏镂空雕刻和装饰节奏，也应承认具体形象的知识与当地社群及传承权利相关，外部资料不能解释全部意义。",
+    "significance": "让纪念仪式、亲属关系与造型艺术共同进入大洋洲历史。",
+    "lookingPoints": [
+      "从底部鱼口向上追踪交织的形体。",
+      "比较红黑白色块，观察哪些构件被强调。",
+      "看贝壳、木刺和耳旁羽状构件的材质差异。"
+    ],
+    "note": "本件为 Oc1884,0728.49，不与常见教材1882—1883年另一件马拉甘混同；不臆测每个图像属于何种家族图腾。",
+    "sourceIds": [
+      "oa-w-malagan"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-w-malagan",
+        "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
+      }
+    ],
+    "image": null,
+    "category": "雕塑造像"
+  }
+]

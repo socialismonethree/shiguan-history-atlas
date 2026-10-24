@@ -1,0 +1,230 @@
+[
+  {
+    "id": "treasure-open-shang",
+    "scope": "china",
+    "periodId": "shang",
+    "title": "青铜爵",
+    "dateLabel": "约公元前1200年",
+    "start": -1210,
+    "end": -1190,
+    "material": "青铜",
+    "category": "青铜金属",
+    "museum": "克利夫兰艺术博物馆",
+    "inventory": "1960.78",
+    "provenance": "",
+    "description": "这件爵属于商代晚期的青铜酒器。前伸的流、后部的尾和三足，使容器具有鲜明的方向和支撑结构；器身与鋬部则把实用轮廓和铸造纹饰结合起来。馆方把它放在祭祀祖先、陈设酒食的礼仪背景中理解，而不是仅作日常饮酒杯。由这件相对小型的器物，可以进入商代礼仪器物的分类世界。",
+    "significance": "它让“青铜时代”从笼统名称变成可观察的器形与礼仪。爵、斝、觚等酒器的差异，有助于认识当时铸铜技术与祭祀活动的联系。",
+    "lookingPoints": [
+      "沿流、尾、足观察器物重心与方向，不把它当作现代杯形。",
+      "比较器身纹饰与鋬部，辨认结构连接怎样融入装饰。",
+      "与方鼎、方尊对看，注意不同礼器形制和用途的差别。"
+    ],
+    "note": "约前1200年是馆方断代，不是铭文中的精确制作纪年；无可据的原始墓葬地点，不能由器形猜定其墓主。",
+    "sourceIds": [
+      "oa-open-shang"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-open-shang",
+        "locator": "具体藏品页基本信息与说明；官方API /api/artworks/1960.78 的culture、creation_date、technique与images字段"
+      }
+    ],
+    "image": {
+      "url": "https://openaccess-cdn.clevelandart.org/1960.78/1960.78_web.jpg",
+      "credit": "Cleveland Museum of Art, 1960.78",
+      "license": "CC0",
+      "sourceUrl": "https://www.clevelandart.org/art/1960.78",
+      "localUrl": "assets/collections/treasure-open-shang.jpg"
+    }
+  },
+  {
+    "id": "treasure-open-han",
+    "scope": "china",
+    "periodId": "han",
+    "title": "鎏金铜熊形席镇",
+    "dateLabel": "西汉（馆方范围：前202—公元9年）",
+    "start": -202,
+    "end": 9,
+    "material": "鎏金青铜",
+    "category": "青铜金属",
+    "museum": "克利夫兰艺术博物馆",
+    "inventory": "1994.203",
+    "provenance": "",
+    "description": "小熊以蹲坐的姿态形成紧凑而有分量的体块，头部、肢体和腹部集中在很小的空间里。鎏金表面使这种动物造型同时具有装饰意味。馆方推测它可能用于压住席子边缘；相似的蹲熊形象也能作为器足。观看时既可欣赏造型的活泼，又要保留对具体用途的谨慎判断。",
+    "significance": "席地生活、金属工艺和动物意象在这里相遇。它补充了帝王礼器之外的物质生活角度，也显示汉代熊形装饰的流行。",
+    "lookingPoints": [
+      "观察蹲坐姿态怎样形成稳定底部与集中重量。",
+      "留意鎏金色泽与磨损处，而不把所有暗色都解释为原始设计。",
+      "与其他动物俑比较：小型镇物的紧凑造型有怎样的功能意味。"
+    ],
+    "note": "馆方对席镇功能使用“可能”的表述；本展签保留这一限制，不把推测写成已证实用途。公历范围沿用馆方API，非单件铸造年份。",
+    "sourceIds": [
+      "oa-open-han"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-open-han",
+        "locator": "具体藏品页基本信息与说明；官方API /api/artworks/1994.203 的culture、creation_date、technique与images字段"
+      }
+    ],
+    "image": {
+      "url": "https://openaccess-cdn.clevelandart.org/1994.203/1994.203_web.jpg",
+      "credit": "Cleveland Museum of Art, 1994.203",
+      "license": "CC0",
+      "sourceUrl": "https://www.clevelandart.org/art/1994.203",
+      "localUrl": "assets/collections/treasure-open-han.jpg"
+    }
+  },
+  {
+    "id": "treasure-open-sui",
+    "scope": "china",
+    "periodId": "sui",
+    "title": "隋代鎏金铜立菩萨像",
+    "dateLabel": "6世纪末，隋（约581—599年）",
+    "start": 581,
+    "end": 599,
+    "material": "鎏金青铜",
+    "category": "雕塑造像",
+    "museum": "克利夫兰艺术博物馆",
+    "inventory": "1979.20",
+    "provenance": "",
+    "description": "这尊小型立菩萨像以头冠、璎珞与绕臂而下的长帛表现华丽装束，右手抬近肩部，左手下垂。细长身躯与层层饰物被组织在不大的铜像上，脚下设有底座。金层磨损后露出较深的金属色，使表面的起伏和线条更容易辨认。它展示的不是宫廷人物肖像，而是佛教造像中的菩萨形象。",
+    "significance": "它为隋代赏鉴补入小型金铜造像，连接南北朝以来的宗教艺术与隋唐审美变化。小像上的装束、姿态和制作细节，比笼统的“盛世风格”更可观察。",
+    "lookingPoints": [
+      "从头冠向下追踪璎珞、长帛与衣纹，观察装饰的层次。",
+      "比较抬起与下垂的两手，留意静立姿态中的不对称。",
+      "看金层保存与磨损部位；表面现状不能直接代表新铸成时的色彩。"
+    ],
+    "note": "馆方定为6世纪末、隋；数值581—599仅沿用馆方检索区间。具体菩萨身份与出土地不作无据推定。",
+    "sourceIds": [
+      "oa-open-sui"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-open-sui",
+        "locator": "具体藏品页基本信息与说明；官方API /api/artworks/1979.20 的culture、creation_date、technique与images字段"
+      }
+    ],
+    "image": {
+      "url": "https://openaccess-cdn.clevelandart.org/1979.20/1979.20_web.jpg",
+      "credit": "Cleveland Museum of Art, 1979.20",
+      "license": "CC0",
+      "sourceUrl": "https://www.clevelandart.org/art/1979.20",
+      "localUrl": "assets/collections/treasure-open-sui.jpg"
+    }
+  },
+  {
+    "id": "treasure-open-tang",
+    "scope": "china",
+    "periodId": "tang",
+    "title": "唐代弹竖琴女乐俑",
+    "dateLabel": "8世纪中叶（约740—760年）",
+    "start": 740,
+    "end": 760,
+    "material": "施釉陶",
+    "category": "陶瓷",
+    "museum": "克利夫兰艺术博物馆",
+    "inventory": "1931.450",
+    "provenance": "",
+    "description": "女乐俑坐在圆形台座上，把竖琴支在右腿附近，手部围绕乐器展开。圆润面庞、额前盘起的发髻、高腰长袍和翘头鞋，共同构成馆方所说的盛唐人物风貌。墓葬陶俑把音乐活动变成可以随葬的形象，因此既提供服饰与乐器的线索，也包含生者对身后世界的想象。",
+    "significance": "它把唐代音乐从文字中的“胡乐”或“宫廷乐舞”化为具体的人物与器物形态。与载乐骆驼对看，可比较不同随葬场景对乐人的塑造。",
+    "lookingPoints": [
+      "顺着琴框、双手和膝部的关系，理解演奏动作怎样被压缩进塑像。",
+      "观察发髻、高腰长袍与鞋尖，分开辨认头部和衣装细节。",
+      "注意台座与身体的连接，理解陶塑如何维持坐姿的稳定。"
+    ],
+    "note": "馆方英题为Harpist；此处译作弹竖琴女乐俑，不凭陶俑推定曲目、族属或完整乐器结构。具体出土墓葬未据馆方记录确认。",
+    "sourceIds": [
+      "oa-open-tang"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-open-tang",
+        "locator": "具体藏品页基本信息与说明；官方API /api/artworks/1931.450 的culture、creation_date、technique与images字段"
+      }
+    ],
+    "image": {
+      "url": "https://openaccess-cdn.clevelandart.org/1931.450/1931.450_web.jpg",
+      "credit": "Cleveland Museum of Art, 1931.450",
+      "license": "CC0",
+      "sourceUrl": "https://www.clevelandart.org/art/1931.450",
+      "localUrl": "assets/collections/treasure-open-tang.jpg"
+    }
+  },
+  {
+    "id": "treasure-open-ming",
+    "scope": "china",
+    "periodId": "ming",
+    "title": "明代竹雕花鸟纹毛笔及笔帽",
+    "dateLabel": "明万历款及本朝（馆方：1573—1619年）",
+    "start": 1573,
+    "end": 1619,
+    "material": "竹雕，动物毛笔毫",
+    "category": "木竹漆艺",
+    "museum": "克利夫兰艺术博物馆",
+    "inventory": "1967.194",
+    "provenance": "",
+    "description": "这支毛笔连同笔帽，把书写工具转化为可把玩的工艺品。竹质笔管与帽上以浅浮雕刻出枝叶、花鸟，细密图案沿细长器形延伸；笔端使用白色动物毛。它仍以书写为基本功能，又被精心装饰以适应文房陈设与收藏趣味，体现日常用具和艺术品之间的连续关系。",
+    "significance": "文房不只有名画与名帖，也包括长期陪伴书写的器具。这件作品适合从小处理解明代文人生活中的工艺消费与审美趣味。",
+    "lookingPoints": [
+      "沿圆柱形笔管转动视线，想象枝叶怎样围绕器身延续。",
+      "比较笔帽和笔管上的雕饰，观察它们是否形成一组视觉关系。",
+      "区分竹雕装饰、笔毫和连接结构，理解观看与使用两种尺度。"
+    ],
+    "note": "年代沿用馆方1573—1619年著录；不将其作为明万历年号终止年的改定。图片与编号对应整组毛笔及帽，不与分件编号混用。",
+    "sourceIds": [
+      "oa-open-ming"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-open-ming",
+        "locator": "具体藏品页基本信息与说明；官方API /api/artworks/1967.194 的culture、creation_date、technique与images字段"
+      }
+    ],
+    "image": {
+      "url": "https://openaccess-cdn.clevelandart.org/1967.194/1967.194_web.jpg",
+      "credit": "Cleveland Museum of Art, 1967.194",
+      "license": "CC0",
+      "sourceUrl": "https://www.clevelandart.org/art/1967.194",
+      "localUrl": "assets/collections/treasure-open-ming.jpg"
+    }
+  },
+  {
+    "id": "treasure-open-qing",
+    "scope": "china",
+    "periodId": "qing",
+    "title": "梅清《九龙潭图》轴",
+    "dateLabel": "清，1690年代（馆方范围1690—1697年）",
+    "start": 1690,
+    "end": 1697,
+    "material": "纸本水墨淡设色",
+    "category": "书画版刻",
+    "museum": "克利夫兰艺术博物馆",
+    "inventory": "1979.50",
+    "provenance": "",
+    "description": "画面以黄山九龙潭的瀑布与岩壁为中心，把曲折水势组织在纵向展开的山体之间。馆方认为梅清可能在1690年再游黄山时曾为这一景物写生；画成的山水又经过笔墨和构图的提炼，并非景点摄影。流水、山石与树木在墨色疏密之间互相衬托，让自然见闻进入清初山水画的个人表达。",
+    "significance": "梅清的黄山经验为清代山水增加了具体的旅行与观看角度。它可与石涛山水对看，但不应仅因题材相近就判定直接借鉴。",
+    "lookingPoints": [
+      "追踪瀑布的曲折走势，观察纵向画幅怎样积聚水势。",
+      "比较山石的深浅墨色与留白，理解“水”如何由周围笔墨显现。",
+      "留意树木与岩壁的比例，以及它们怎样提示山体的高远。"
+    ],
+    "note": "画作断代为1690年代；1690年的写生仅为馆方推测，不等于此卷必在当年完成。画名是景观题材，不表示精确测绘。",
+    "sourceIds": [
+      "oa-open-qing"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-open-qing",
+        "locator": "具体藏品页基本信息与说明；官方API /api/artworks/1979.50 的culture、creation_date、technique与images字段"
+      }
+    ],
+    "image": {
+      "url": "https://openaccess-cdn.clevelandart.org/1979.50/1979.50_web.jpg",
+      "credit": "Cleveland Museum of Art, 1979.50",
+      "license": "CC0",
+      "sourceUrl": "https://www.clevelandart.org/art/1979.50",
+      "localUrl": "assets/collections/treasure-open-qing.jpg"
+    }
+  }
+]

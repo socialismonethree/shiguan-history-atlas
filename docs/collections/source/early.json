@@ -1,0 +1,972 @@
+[
+  {
+    "id": "treasure-ce-erlitou-jue",
+    "scope": "china",
+    "periodId": "xia",
+    "title": "乳钉纹铜爵",
+    "dateLabel": "二里头文化；具体铸造年份未定",
+    "start": -1750,
+    "end": -1530,
+    "material": "青铜",
+    "museum": "二里头夏都遗址博物馆",
+    "inventory": "",
+    "provenance": "1975年河南偃师二里头遗址出土",
+    "description": "这件铜爵以狭长的流与尖尾向两端伸展，束腰、平底，下承三条细长锥足，腹部以凸线和乳钉构成简练装饰。它的体量不靠厚重堆积，而靠修长的比例与均衡支撑形成礼器的仪式感。馆方记录高26.5厘米、总长31.5厘米。",
+    "significance": "它可以帮助理解早期青铜容器如何从技术产品转化为礼仪用器，也可与商代更繁密的青铜装饰对读。",
+    "lookingPoints": [
+      "看长流和尖尾形成的水平张力。",
+      "看三足如何承托收束的腹部。",
+      "看腹部乳钉与凸线组成的简洁装饰。"
+    ],
+    "note": "馆方沿用“夏代”标签；本站按二里头文化展示，不以单件器物证明其对应夏王朝。数值年代为文化时段检索范围。",
+    "sourceIds": [
+      "oa-ce-erlitou-jue"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-erlitou-jue",
+        "locator": "藏品名称、时代、出土地点与形制说明"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-erlitou-plaque",
+    "scope": "china",
+    "periodId": "xia",
+    "title": "嵌绿松石兽面铜牌饰",
+    "dateLabel": "二里头文化；具体制作年份未定",
+    "start": -1750,
+    "end": -1530,
+    "material": "青铜、绿松石",
+    "museum": "二里头夏都遗址博物馆",
+    "inventory": "",
+    "provenance": "河南偃师二里头遗址出土",
+    "description": "青铜框架与细小绿松石片结合，构成带有兽面意象的牌饰。河南博物院展览说明记录其高16.5厘米、宽11厘米，并指出同类器多在贵族墓主胸前或腕部附近发现。观看时应先辨认金属边框，再观察石片怎样顺应图像转折拼接。",
+    "significance": "器物把冶金、磨制和镶嵌汇集在一起，是理解二里头工艺分工与仪式视觉的重要实物。",
+    "lookingPoints": [
+      "看绿松石小片怎样组成兽面。",
+      "看青铜边框与石片的接合。",
+      "看两侧用于系缀的穿孔位置。"
+    ],
+    "note": "功用存在臂饰、权杖饰、礼仪器或神像等不同解释，不能确定为现代意义的首饰。文化与王朝对应另有讨论。",
+    "sourceIds": [
+      "oa-ce-erlitou-plaque"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-erlitou-plaque",
+        "locator": "尺寸、出土与收藏、功能讨论"
+      }
+    ],
+    "image": null,
+    "category": "玉石宝饰"
+  },
+  {
+    "id": "treasure-ce-houmuwu",
+    "scope": "china",
+    "periodId": "shang",
+    "title": "“后母戊”青铜方鼎",
+    "dateLabel": "商代晚期",
+    "start": -1300,
+    "end": -1046,
+    "material": "青铜",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "考古发掘品；本次读取页面未详列出土记录",
+    "description": "方形器腹由四根柱足承托，口沿上立双耳，转角与纹饰分区以扉棱加强。器表兽面纹与细密云雷纹相互叠置，腹内“后母戊”铭文则把器物与祭祀对象联系起来。国博公布重量为832.84千克，显示其制作需要大规模金属原料和严密协作。",
+    "significance": "重点不只在“大”，还在整体铸身与后铸鼎耳的工艺组织，以及文字、祭祀、权力之间的关系。",
+    "lookingPoints": [
+      "看器腹四角和足上的扉棱。",
+      "比较粗壮柱足与宽阔器腹的比例。",
+      "查看内壁铭文与外部纹饰的不同作用。"
+    ],
+    "note": "曾称“司母戊鼎”；按国博现行名称与重量记录。晚商范围用于检索，并非精确铸年。",
+    "sourceIds": [
+      "oa-ce-houmuwu"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-houmuwu",
+        "locator": "馆藏精品：纹饰、铭文、重量、铸造工艺"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-four-rams",
+    "scope": "china",
+    "periodId": "shang",
+    "title": "四羊方尊",
+    "dateLabel": "商代",
+    "start": -1600,
+    "end": -1046,
+    "material": "青铜",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "国博馆藏；本次专题重点为形制与工艺",
+    "description": "方尊四角伸出卷角羊头，羊的身体和腿部融入器腹与圈足，动物雕塑与盛酒器结构相互嵌合。宽大的方口与密集纹饰强化了庄严感，而羊颈、鳞纹、凤纹和夔纹使细节充满变化。它不是四只羊简单贴上容器，而是一套连续设计的立体构图。",
+    "significance": "可以从平面纹样、浮雕和圆雕三个层次理解商代礼器的综合造型能力。",
+    "lookingPoints": [
+      "沿四角追踪羊头、羊身到羊腿的连续关系。",
+      "看方口、肩部与圈足的比例变化。",
+      "辨认扉棱怎样组织纹饰并处理铸接痕迹。"
+    ],
+    "note": "具体年代沿用商代编目；不把宗教寓意的推测写成确定结论。",
+    "sourceIds": [
+      "oa-ce-four-rams"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-four-rams",
+        "locator": "造型、纹饰及接铸说明"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-li-gui",
+    "scope": "china",
+    "periodId": "zhou",
+    "title": "利簋",
+    "dateLabel": "西周早期；铭文涉及克商",
+    "start": -1046,
+    "end": -1000,
+    "material": "青铜",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "国博馆藏",
+    "description": "利簋上部为圆形盛食器，两侧有兽首耳，下部增加方形座，圆与方形成鲜明对比。腹部及方座布置兽面和云雷纹，圈足还有连续夔龙纹。器物既可作为礼器造型观看，也能作为带有铭文的历史材料阅读，两种观看方式相互补充。",
+    "significance": "它是连接西周青铜礼制与克商历史记忆的重要器物；铭文可与传世叙事相互参照，不能把现代公历换算视为器物自带信息。",
+    "lookingPoints": [
+      "看方座怎样改变圆腹簋的视觉重心。",
+      "比较腹部和底座的兽面纹。",
+      "对照铭文与器物名称所指向的作器者。"
+    ],
+    "note": "不同历法重建涉及克商年份争议，本站不由此宣称某一精确公历日已无争议。",
+    "sourceIds": [
+      "oa-ce-li-gui"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-li-gui",
+        "locator": "圆腹方座、纹饰及“克商”专题说明"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-dayu-ding",
+    "scope": "china",
+    "periodId": "zhou",
+    "title": "大盂鼎",
+    "dateLabel": "西周早期，周康王时期",
+    "start": -1020,
+    "end": -950,
+    "material": "青铜",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "清代出土，地点和早期流传有不同说法；1951年潘达于捐献，1959年调拨中国历史博物馆",
+    "description": "大盂鼎以厚重的形体和长篇铭文著称，作器者盂是周康王时期的重要臣属。除观看早周青铜礼器外，还可以沿收藏经历进入近代文物史：潘氏家族战乱中藏护二鼎，最终捐献公有。器物本体与后世护藏共同构成它的历史。",
+    "significance": "把“大盂”理解为字较大的盂鼎更准确；同出小盂鼎早已失传，大小并不简单等于器形尺寸。",
+    "lookingPoints": [
+      "看鼎身与粗壮支足营造的体量。",
+      "把铭文当作有版面与字形的视觉材料。",
+      "沿馆方流传记录辨认出土、收藏、捐赠的不同环节。"
+    ],
+    "note": "不采用旧宣传页直接换算的“前1003年”；以康王时期为稳妥断代，数值范围仅服务检索。",
+    "sourceIds": [
+      "oa-ce-dayu-ding"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-dayu-ding",
+        "locator": "《中国国家博物馆展品中的100个故事》：断代、命名与流传"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-goujian-sword",
+    "scope": "china",
+    "periodId": "eastern",
+    "title": "越王勾践剑",
+    "dateLabel": "春秋晚期，越王勾践时期",
+    "start": -496,
+    "end": -465,
+    "material": "青铜、琉璃、绿松石",
+    "museum": "湖北省博物馆",
+    "inventory": "",
+    "provenance": "1965年12月湖北江陵望山一号楚墓出土",
+    "description": "剑身满布黑色菱形纹，近剑格处的鸟篆铭文写明越王与自作用剑。剑格两面分别用蓝色琉璃和绿松石装饰，剑首内部还有细密同心圆。它同时具有武器的结构、王者身份的文字标记和贵重工艺品的装饰，不能只用“锋利”概括。",
+    "significance": "越地制作而随葬于楚墓，为讨论诸国间器物流动提供线索；流转的具体原因仍需结合研究。",
+    "lookingPoints": [
+      "辨认近剑格处的两行鸟篆。",
+      "看菱形暗纹与平整剑面的对比。",
+      "观察剑首同心圆和剑格镶嵌。"
+    ],
+    "note": "不把“千年不锈”当作严格科学结论；制作年份不详，使用越王时期范围。",
+    "sourceIds": [
+      "oa-ce-goujian-sword"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-goujian-sword",
+        "locator": "器形、铭文、出土记录"
+      }
+    ],
+    "image": null,
+    "category": "玉石宝饰"
+  },
+  {
+    "id": "treasure-ce-zeng-bells",
+    "scope": "china",
+    "periodId": "eastern",
+    "title": "曾侯乙编钟",
+    "dateLabel": "战国早期，约公元前433年入葬",
+    "start": -433,
+    "end": -433,
+    "material": "青铜；铜木结构钟架",
+    "museum": "湖北省博物馆",
+    "inventory": "",
+    "provenance": "曾侯乙墓出土；本次依据湖北省文旅厅器物说明",
+    "description": "六十五件钟分为三层八组，悬于曲尺形铜木钟架，既是可发声的乐器组合，也是具有空间秩序的大型礼仪装置。钟的正面与侧面敲击能够发出不同音高，钟体和相关构件还留下大量乐律铭文，记录音名及不同地区的对应关系。",
+    "significance": "它让乐律知识、铸造能力与诸侯礼制同时变得可见；其中楚惠王赠钟应与其他钟的制作批次区分。",
+    "lookingPoints": [
+      "比较三层钟的大小与悬挂方向。",
+      "看钟体扁圆截面与两个击奏部位。",
+      "寻找铭文中的音名与赠器记录。"
+    ],
+    "note": "前433年对应赠钟铭文和墓葬时代，不表示全套钟均于该年同时铸造。",
+    "sourceIds": [
+      "oa-ce-zeng-bells"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-zeng-bells",
+        "locator": "65件、三层八组、一钟双音、赠钟纪年"
+      }
+    ],
+    "image": null,
+    "category": "木竹漆艺"
+  },
+  {
+    "id": "treasure-ce-qin-chariots",
+    "scope": "china",
+    "periodId": "qin",
+    "title": "秦陵彩绘铜车马",
+    "dateLabel": "秦代，秦始皇陵营建时期",
+    "start": -221,
+    "end": -210,
+    "material": "青铜、金、银及彩绘",
+    "museum": "秦始皇帝陵博物院",
+    "inventory": "",
+    "provenance": "1980年秦始皇陵封土西侧陪葬坑出土",
+    "description": "两乘车均以约真实属车二分之一的比例制作，一前一后置于木椁，车轮、伞盖、车舆和四马系驾共同组成复杂系统。金银附件与彩绘体现等级，服马和骖马的缰绳、胁驱等部件则展示实际车辆技术。观看时可从整体队列逐步走近连接构件。",
+    "significance": "为复原秦代高等级车驾结构及冶金装配工艺提供具体依据；它们是陪葬模型，不是真人使用的原尺寸车辆。",
+    "lookingPoints": [
+      "比较一号车和二号车的车舆与顶盖。",
+      "区分中间服马与两侧骖马。",
+      "追踪细小马具怎样限制四马的位置。"
+    ],
+    "note": "入葬前已制作完成，具体开工铸造年份未明；出土后经长期修复。",
+    "sourceIds": [
+      "oa-ce-qin-chariots"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-qin-chariots",
+        "locator": "简介与发现历史"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-liye-table",
+    "scope": "china",
+    "periodId": "qin",
+    "title": "里耶秦简“九九表”木牍",
+    "dateLabel": "秦代；里耶简牍总体纪年约前222—前208年",
+    "start": -222,
+    "end": -208,
+    "material": "木",
+    "museum": "龙山县里耶古城（秦简）博物馆",
+    "inventory": "",
+    "provenance": "2002年湖南龙山里耶古城一号井发现简牍，后举办国博专题展",
+    "description": "“九九表”把熟悉的乘法口诀带回秦代县政的书写世界。它与官吏考核、物价和文书往来的简牍共同出现，说明统一国家的日常运转离不开计算与文字训练。木面上的行列不是现代印刷表格，读它时需要留意书写顺序、字形和载体保存。",
+    "significance": "能以日常知识连接宏大的秦帝国叙事，使行政技术成为可观看、可比较的实物线索。",
+    "lookingPoints": [
+      "看口诀排列与今天背诵顺序的异同。",
+      "观察木牍行列怎样容纳文字。",
+      "把计算表与同期行政文书并置理解。"
+    ],
+    "note": "纪年范围来自里耶简牍总体，不能视为此件的精确书写年代；收藏单位依据湖北日报展览作品图注，登记号待补。",
+    "sourceIds": [
+      "oa-ce-liye-table",
+      "oa-ce-liye-collection"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-liye-table",
+        "locator": "展览供件机构、总体纪年及“九九表”图注"
+      },
+      {
+        "sourceId": "oa-ce-liye-collection",
+        "locator": "里耶秦简《九九表》木牍图片所附收藏图注"
+      }
+    ],
+    "image": null,
+    "category": "木竹漆艺"
+  },
+  {
+    "id": "treasure-ce-changxin-lamp",
+    "scope": "china",
+    "periodId": "han",
+    "title": "长信宫灯",
+    "dateLabel": "西汉",
+    "start": -206,
+    "end": 9,
+    "material": "铜鎏金",
+    "museum": "河北博物院",
+    "inventory": "",
+    "provenance": "河北满城窦绾墓出土",
+    "description": "跪坐宫女持灯，人物的右袖同时构成烟道，头、臂、身躯与灯具部件可以分别铸造后组装。两片弧形灯罩能够调节照射方向，灯盘也可转动。铭文还记录重量、容量与所属者，因此它既是雕塑，也是照明装置与财产管理的实物档案。",
+    "significance": "其价值在于把人物姿态与使用功能合为一体，避免只把它当作静态的“宫女像”。",
+    "lookingPoints": [
+      "顺着袖口辨认烟道走向。",
+      "观察两片弧形灯罩的开合结构。",
+      "查找“长信”与其他铭文位置。"
+    ],
+    "note": "原主与流转细节存在研究讨论；本站不采用缺乏统一依据的精确制作年份。",
+    "sourceIds": [
+      "oa-ce-changxin-lamp"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-changxin-lamp",
+        "locator": "展品信息、结构及铭文说明"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-liang-jade-suit",
+    "scope": "china",
+    "periodId": "han",
+    "title": "永城僖山一号墓金缕玉衣",
+    "dateLabel": "西汉晚期",
+    "start": -100,
+    "end": 9,
+    "material": "玉、金丝",
+    "museum": "河南博物院",
+    "inventory": "",
+    "provenance": "1985年河南永城僖山一号汉墓出土，后复原",
+    "description": "这套玉衣由两千零八片玉片组成，以金丝连接，复原出头罩、躯干、裤筒、手和鞋等部分。玉片的颜色和形状各有变化，个别还保留由旧玉器改制的纹样。它不是供生者穿着的服装，而是围绕护尸观念和王室身份制作的殓服。",
+    "significance": "从局部孔眼、磨光和缀接可理解宏大礼葬背后的手工劳动，也可讨论西汉玉衣使用制度仍有不明之处。",
+    "lookingPoints": [
+      "比较不同身体部位玉片的形状。",
+      "看边角孔眼与金丝的缀接方式。",
+      "寻找旧玉器改制留下的残余纹样。"
+    ],
+    "note": "馆方仅确定西汉晚期某位梁王，不强配具体墓主。出土曾被盗，现状含修复与复原。",
+    "sourceIds": [
+      "oa-ce-liang-jade-suit"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-liang-jade-suit",
+        "locator": "文物名片、深度品鉴、比较研究"
+      }
+    ],
+    "image": null,
+    "category": "玉石宝饰"
+  },
+  {
+    "id": "treasure-ce-huobu",
+    "scope": "china",
+    "periodId": "xin",
+    "title": "新莽货布",
+    "dateLabel": "新朝，公元14年后发行",
+    "start": 14,
+    "end": 23,
+    "material": "青铜",
+    "museum": "宝鸡青铜器博物院",
+    "inventory": "",
+    "provenance": "宝鸡青铜器博物院藏；具体出土信息未列",
+    "description": "货布保留平首、方足、肩部展开的铲形轮廓，顶部圆穿与表面边郭把形体组织得十分清楚。左右“货布”二字笔画细长，下垂收锋，是观看悬针篆的好材料。形制借用古钱意象，实际发行却置于新朝不断变动的货币政策之中。",
+    "significance": "它能把文字艺术与经济史相连：制作精整不意味着币制运行顺畅，钱面之美与政策效果应分别理解。",
+    "lookingPoints": [
+      "看首部圆孔与长方形币身的比例。",
+      "沿篆书笔画观察尖锐收锋。",
+      "辨认外郭和中央纵线的分区作用。"
+    ],
+    "note": "依据国博币制说明确定发行于14年后；单件铸造年不详。",
+    "sourceIds": [
+      "oa-ce-huobu",
+      "oa-ce-xiaoquan"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-huobu",
+        "locator": "“新莽货布 宝鸡青铜器博物院藏”图注与形制说明"
+      },
+      {
+        "sourceId": "oa-ce-xiaoquan",
+        "locator": "公元14年改用货泉、货布的币制说明"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-xiaoquan",
+    "scope": "china",
+    "periodId": "xin",
+    "title": "小泉直一（王莽钱币组）",
+    "dateLabel": "新朝，公元9年始增发",
+    "start": 9,
+    "end": 23,
+    "material": "青铜",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "国博“王莽钱币”馆藏组",
+    "description": "小泉直一以钱文直接标出面值，是新朝建立后增发的币种。将它与同组大泉五十和不同面额的泉货并读，可以直观看到王莽试图建立的分级货币体系。鉴赏这类钱币不宜只看包浆，还应辨认篆书钱文、方孔、边郭以及大小面额之间的差别。",
+    "significance": "它把频繁改币造成的流通困难压缩在一枚小钱中，是从器物进入制度史的入口。",
+    "lookingPoints": [
+      "逐字辨认“小泉直一”的篆书。",
+      "比较方孔、外郭和字面占位。",
+      "与货布的铲形轮廓并看两种货币形式。"
+    ],
+    "note": "此条对应馆方钱币组中的一种，不杜撰单件尺寸或出土地点；发行始年不等于馆藏单件铸年。",
+    "sourceIds": [
+      "oa-ce-xiaoquan"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-xiaoquan",
+        "locator": "公元9年增发小泉直一及后续币制说明"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-storyteller",
+    "scope": "china",
+    "periodId": "eastern-han",
+    "title": "击鼓说唱俑",
+    "dateLabel": "东汉",
+    "start": 25,
+    "end": 220,
+    "material": "陶",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "国博考古发掘品馆藏；本次页面未详列出土信息",
+    "description": "陶俑袒胸露腹、着裤赤足，一臂抱鼓，另一手举槌，笑口和耸肩让静止的陶塑仿佛正处在表演高潮。夸张身体并不是制作粗疏，而是抓住俳优调谑说唱的动作特点。与肃穆墓俑相比，这件作品保留了鲜明的世俗娱乐气息。",
+    "significance": "它可与汉画像中的乐舞百戏相互参照，帮助理解豪富家庭蓄养表演者的社会背景。",
+    "lookingPoints": [
+      "看笑口与抬肩怎样共同表现喜剧感。",
+      "看鼓与举槌形成的动作方向。",
+      "比较松弛腹部和紧张手臂的塑造。"
+    ],
+    "note": "动作表现不能直接当作完整演出程序复原，人物真实姓名不详。",
+    "sourceIds": [
+      "oa-ce-storyteller"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-storyteller",
+        "locator": "形态及俳优社会背景"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-galloping-horse",
+    "scope": "china",
+    "periodId": "eastern-han",
+    "title": "铜奔马",
+    "dateLabel": "馆方通常归东汉；墓主及部分断代仍有讨论",
+    "start": 25,
+    "end": 220,
+    "material": "青铜；腿内铁芯",
+    "museum": "甘肃省博物馆",
+    "inventory": "",
+    "provenance": "1969年甘肃武威雷台汉墓出土",
+    "description": "奔马三足腾空，一足落在回首飞鸟之上，轻盈的视觉效果建立在精确支撑和复杂铸接之上。现代检测发现腿内铁芯，也识别出头、躯体和腿等分铸连接的工艺。它适合同时从雕塑的动势与结构的承重两条线索观看。",
+    "significance": "作品是汉代造型艺术与金属技术结合的著名实例；现代无损检测仍在修正我们对其制作过程的理解。",
+    "lookingPoints": [
+      "看四足在空间中的错落。",
+      "看飞鸟回首怎样增强速度感。",
+      "比较单足支撑与身体重心的关系。"
+    ],
+    "note": "“马踏飞燕”是通行别称，飞鸟种属、墓主及断代讨论不能由别称定论。",
+    "sourceIds": [
+      "oa-ce-galloping-horse"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-galloping-horse",
+        "locator": "出土、收藏、无损检测及争议说明"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-wu-lamp",
+    "scope": "china",
+    "periodId": "three-kingdoms",
+    "title": "青釉堆塑灯",
+    "dateLabel": "三国",
+    "start": 220,
+    "end": 280,
+    "material": "青釉瓷",
+    "museum": "上海博物馆",
+    "inventory": "",
+    "provenance": "馆藏；本次页面未公布出土记录",
+    "description": "灯整体呈喇叭形，由底座、灯柱和上端灯盏构成，青黄釉色包裹细小塑像。口沿压印斜方格纹，灯柱与底座之间分布飞鸟、奏乐人物和龟等形象。实用结构与热闹的堆塑装饰结合，使照明器也成为小型场景。",
+    "significance": "它与同期谷仓罐的堆塑风格形成联系，显示同一陶瓷技术如何用于不同器类。",
+    "lookingPoints": [
+      "看上端网格纹与下部塑像的疏密。",
+      "逐个寻找人物、鸟和龟。",
+      "观察喇叭形基座怎样保持稳定。"
+    ],
+    "note": "馆方记为三国，不进一步擅定具体吴主或某一年。",
+    "sourceIds": [
+      "oa-ce-wu-lamp"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-wu-lamp",
+        "locator": "尺寸、工艺、主题及简介"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-yongan-granary",
+    "scope": "china",
+    "periodId": "three-kingdoms",
+    "title": "“永安三年”青瓷谷仓罐",
+    "dateLabel": "三国吴永安三年，公元260年",
+    "start": 260,
+    "end": 260,
+    "material": "青釉瓷",
+    "museum": "故宫博物院",
+    "inventory": "",
+    "provenance": "20世纪30年代浙江绍兴三国墓出土",
+    "description": "谷仓罐上部以楼阁、阙、飞鸟、乐俑构成繁密场景，下部则承以广腹容器。肩部龟驮碑写有“永安三年”及祈愿子孙、官位、长寿的文字，因此它不只是供后人想象的建筑模型，也保留了当时丧葬愿望的直接证据。",
+    "significance": "纪年铭文帮助同类器断代，亦让“魂瓶”与谷仓、招魂、丰足愿望等解释有了具体讨论对象。",
+    "lookingPoints": [
+      "找龟驮碑及“永安三年”铭文。",
+      "从檐上飞鸟向檐下乐俑分层观看。",
+      "比较建筑堆塑与下部容器的体量。"
+    ],
+    "note": "参考河南博物院对故宫藏此件的专题说明；同类器的功能与命名有多说，不视为真实建筑的等比例复制。",
+    "sourceIds": [
+      "oa-ce-yongan-granary"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-yongan-granary",
+        "locator": "“文化解读”段故宫藏永安三年罐及图2"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-jin-granary",
+    "scope": "china",
+    "periodId": "western-jin",
+    "title": "青釉堆塑谷仓罐",
+    "dateLabel": "西晋",
+    "start": 265,
+    "end": 316,
+    "material": "青釉瓷",
+    "museum": "故宫博物院",
+    "inventory": "新00044491",
+    "provenance": "传世馆藏；页面未列出土记录",
+    "description": "上半部由两层楼阁和四角阙构成，跪俑分布在建筑之间；下半部为罐，腹部又附骑兽人与舞俑。通体青釉把建筑、人物和容器统一起来。与三国纪年罐比较，可观察同类随葬明器在西晋如何继续经营层次和秩序。",
+    "significance": "这类器物让丧葬愿望与豪门生活图景进入陶瓷造型，但不能把每个场景都看作写实城市档案。",
+    "lookingPoints": [
+      "看上下层楼阁的重叠方式。",
+      "分别辨认跪俑、舞俑与骑兽人。",
+      "看青釉如何在转折和凹处聚积。"
+    ],
+    "note": "此件明确为西晋，不能因谷仓罐在三国已流行就改归孙吴。",
+    "sourceIds": [
+      "oa-ce-jin-granary"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-jin-granary",
+        "locator": "登记号、断代、尺寸与上下两部结构"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-jin-chicken-pot",
+    "scope": "china",
+    "periodId": "western-jin",
+    "title": "青釉鸡头壶",
+    "dateLabel": "西晋",
+    "start": 265,
+    "end": 316,
+    "material": "青釉瓷",
+    "museum": "故宫博物院",
+    "inventory": "新00124710",
+    "provenance": "馆藏；本次页面未公布出土记录",
+    "description": "这件壶肩上有短小的鸡首和相对的鸡尾，二者之间安置横系与铺首，圆腹、短颈和低重心保持了早期器形的敦实。值得特别留意的是鸡首实心，并不与器腹相通，所以它首先是装饰，而非真正能倒水的壶嘴。",
+    "significance": "与东晋、南朝更修长且功能变化的鸡头壶比较，可以看到器形演变并不是装饰越来越多的单向过程。",
+    "lookingPoints": [
+      "看实心鸡首与器腹之间的关系。",
+      "数一数肩部横系与铺首的位置。",
+      "比较短直颈和鼓腹的比例。"
+    ],
+    "note": "采用馆方西晋编目；“鸡头壶”这一名称不保证每件鸡头都具有出水功能。",
+    "sourceIds": [
+      "oa-ce-jin-chicken-pot"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-jin-chicken-pot",
+        "locator": "断代与鸡首实心不通腹的说明"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-sheep-pot",
+    "scope": "china",
+    "periodId": "eastern-jin",
+    "title": "青釉褐斑羊头壶",
+    "dateLabel": "东晋",
+    "start": 317,
+    "end": 420,
+    "material": "青釉瓷、铁质褐彩",
+    "museum": "故宫博物院",
+    "inventory": "新00020403",
+    "provenance": "馆藏；本次页面未公布出土记录",
+    "description": "浅盘口、细颈与球形腹构成简洁轮廓，肩部的羊头与相对曲柄形成操作方向，两侧另有横系。羊的双角后弯，眼部点褐彩，褐斑也出现在口沿等部位。这种少量彩点让温润青釉中的动物表情格外清楚。",
+    "significance": "可从它理解东晋青瓷趋向简素却仍以动物造型和褐彩取得变化的特点。",
+    "lookingPoints": [
+      "看羊角、胡须和微张的羊口。",
+      "比较眼睛、口沿和系上的褐色点彩。",
+      "看曲柄与羊头的相对位置。"
+    ],
+    "note": "据馆方正文讨论归东晋；不将六朝动物壶统一归西晋。",
+    "sourceIds": [
+      "oa-ce-sheep-pot"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-sheep-pot",
+        "locator": "登记号、器形、褐斑装饰与东晋特征"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-deqing-black",
+    "scope": "china",
+    "periodId": "eastern-jin",
+    "title": "德清窑黑釉四系壶",
+    "dateLabel": "东晋",
+    "start": 317,
+    "end": 420,
+    "material": "黑釉瓷",
+    "museum": "上海博物馆",
+    "inventory": "",
+    "provenance": "德清窑产品；页面未列出土记录",
+    "description": "这件四系壶提供了东晋青瓷之外的另一种陶瓷色彩。馆方明确编为德清窑、黑釉日用瓷，高24.9厘米。观看时先把深色釉面视作整体，再留意口、颈、腹的比例与四系的安排；深釉不等于纹饰匮乏，器形和光泽本身就是审美内容。",
+    "significance": "它有助于打破六朝瓷器一概“青色”的印象，也能与同时期青釉褐彩作品比较。",
+    "lookingPoints": [
+      "看黑釉在曲面反光中的层次。",
+      "看四系相对于肩部和器腹的位置。",
+      "比较颈口与宽腹的比例。"
+    ],
+    "note": "器名沿用上博现行“黑釉四系壶”；不填未经页面证实的出土地点。",
+    "sourceIds": [
+      "oa-ce-deqing-black"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-deqing-black",
+        "locator": "详细年代、尺寸、产地与工艺"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-sima-screen",
+    "scope": "china",
+    "periodId": "north-south",
+    "title": "司马金龙墓彩绘人物故事漆屏风",
+    "dateLabel": "北魏，司马金龙墓时代（484年）",
+    "start": 484,
+    "end": 484,
+    "material": "木胎、漆和彩绘",
+    "museum": "山西博物院（所据展览借展件）",
+    "inventory": "",
+    "provenance": "山西大同司马金龙墓出土；良渚博物院借展页面记山西博物院藏",
+    "description": "朱色底上以黑线勾出人物、衣纹和器物，故事分段展开，并附榜题文字。画面选择列女、先贤等题材，着装与细长飘带又反映南北文化交汇。应逐段阅读人物关系，避免把相隔千年的故事人物误认成同一时代的生活合影。",
+    "significance": "它兼具绘画、书法和漆工价值，是理解北魏贵族如何借古人故事表达伦理观念的重要材料。",
+    "lookingPoints": [
+      "按榜题分辨每一段故事。",
+      "看中心人物与陪衬人物的大小关系。",
+      "看朱底黑线与衣纹色彩的配合。"
+    ],
+    "note": "484为墓主卒葬时代，非屏板上精确制作纪年；分藏与借展件应以各馆登记为准。",
+    "sourceIds": [
+      "oa-ce-sima-screen"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-sima-screen",
+        "locator": "藏品图注、题材与技法介绍"
+      }
+    ],
+    "image": null,
+    "category": "木竹漆艺"
+  },
+  {
+    "id": "treasure-ce-qingzhou-buddha",
+    "scope": "china",
+    "periodId": "north-south",
+    "title": "青州龙兴寺窖藏佛立像（高122厘米）",
+    "dateLabel": "北齐，公元550—577年",
+    "start": 550,
+    "end": 577,
+    "material": "石、彩绘",
+    "museum": "青州市博物馆",
+    "inventory": "",
+    "provenance": "1996年山东青州龙兴寺窖藏出土",
+    "description": "这尊立佛体态修长，低平肉髻与螺发、下视双目和丰满面庞形成安静神情。双领下垂式袈裟以双阴线表现衣褶，衣料显得贴体轻薄。现存彩绘虽多已剥落，仍提醒我们古代石像并不必然是今天所见的素白或灰色。",
+    "significance": "它展示北齐佛教造像对身体与衣纹的新处理，可与北魏较繁密的衣纹比较，但不把风格变化简化成唯一发展方向。",
+    "lookingPoints": [
+      "看袈裟双阴线衣纹与躯干的关系。",
+      "看面庞、眼睑和低平肉髻。",
+      "寻找残留彩绘并辨认双手缺损。"
+    ],
+    "note": "这是馆方专题明确列出的122厘米佛立像，勿与同窖藏115厘米菩萨立像混为一件。",
+    "sourceIds": [
+      "oa-ce-qingzhou-buddha"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-qingzhou-buddha",
+        "locator": "“佛立像 北齐 通高122厘米”段及图录引文"
+      }
+    ],
+    "image": null,
+    "category": "其他工艺"
+  },
+  {
+    "id": "treasure-ce-li-necklace",
+    "scope": "china",
+    "periodId": "sui",
+    "title": "李静训墓嵌珍珠宝石金项链",
+    "dateLabel": "隋代，608年入葬",
+    "start": 581,
+    "end": 608,
+    "material": "金、珍珠、宝石",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "1957年陕西西安李静训墓出土",
+    "description": "金质球形链珠以细小金环焊接，并嵌珍珠；项链下端组合圆形金饰与坠饰，红蓝宝石、白色珍珠和黄金形成层次。与一整块金器不同，它的华美来自大量微小构件的接合。观看时可由对称布局走向每颗链珠的结构。",
+    "significance": "它是观察隋代上层生活、金工技术及欧亚装饰交流的重要线索，不能仅凭异域风格就确定所有零件的产地。",
+    "lookingPoints": [
+      "看链珠由小金环形成的镂空结构。",
+      "看中心圆饰和心形坠饰的组合。",
+      "观察不同材质怎样组织红、蓝、白、金四色。"
+    ],
+    "note": "608为墓葬年代；具体制作年代与产地不作无依据的精确判定。",
+    "sourceIds": [
+      "oa-ce-li-necklace"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-li-necklace",
+        "locator": "项链图注与金环、珍珠、坠饰说明"
+      }
+    ],
+    "image": null,
+    "category": "玉石宝饰"
+  },
+  {
+    "id": "treasure-ce-sui-double-vase",
+    "scope": "china",
+    "periodId": "sui",
+    "title": "白釉龙柄联腹传瓶",
+    "dateLabel": "隋代",
+    "start": 581,
+    "end": 618,
+    "material": "白釉瓷",
+    "museum": "天津博物馆",
+    "inventory": "",
+    "provenance": "天津博物馆藏；页面未列具体出土信息",
+    "description": "盘口、单颈下连接两腹，双腹之间安置环形系，龙形柄把两侧结构联系起来。与普通单腹瓶相比，器物的趣味在对称与联接；白釉又使整体轮廓和浮起的塑形格外醒目。天津博物馆记录高18.5厘米，可与李静训墓另一件同类瓶区分。",
+    "significance": "它可作为北朝到隋代白瓷进步的入口，观看纯净釉色如何与复杂器形并存。",
+    "lookingPoints": [
+      "看双腹在颈下相连的转折。",
+      "沿龙柄观察器物左右的联系。",
+      "比较白釉厚薄处的色调变化。"
+    ],
+    "note": "此条为天津博物馆藏件，不冒用国博李静训墓同类瓶的出土信息。",
+    "sourceIds": [
+      "oa-ce-sui-double-vase"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-sui-double-vase",
+        "locator": "断代、尺寸、双腹与环系说明"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-silver-incense",
+    "scope": "china",
+    "periodId": "tang",
+    "title": "沙坡村出土鎏金银香囊",
+    "dateLabel": "唐代",
+    "start": 618,
+    "end": 907,
+    "material": "银鎏金",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "1963年陕西西安沙坡村出土",
+    "description": "两个镂空半球扣合成香囊，内部藏有两个同心机环及盛香的小盂。外壳滚动时，机环与重力配合，使香盂尽可能保持水平；花纹的镂空也让香气散出。金属香囊兼具装饰、悬挂与熏香功能，观看重点应由外壁转向内部机关。",
+    "significance": "可用来理解唐代日常工艺中的机械巧思；它不等于现代飞行仪器，也无需借“穿越”传说解释。",
+    "lookingPoints": [
+      "看上下半球的扣合口。",
+      "看两重机环与香盂的悬置关系。",
+      "看镂空花纹怎样兼顾通气与装饰。"
+    ],
+    "note": "与何家村香囊为不同出土件；本条采用沙坡村1963年记录。",
+    "sourceIds": [
+      "oa-ce-silver-incense"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-silver-incense",
+        "locator": "藏品图注及机环结构说明"
+      }
+    ],
+    "image": null,
+    "category": "青铜金属"
+  },
+  {
+    "id": "treasure-ce-camel-musicians",
+    "scope": "china",
+    "periodId": "tang",
+    "title": "三彩釉陶载乐骆驼（五人组）",
+    "dateLabel": "唐代",
+    "start": 618,
+    "end": 907,
+    "material": "三彩釉陶",
+    "museum": "中国国家博物馆",
+    "inventory": "",
+    "provenance": "国博考古发掘品馆藏",
+    "description": "昂首的骆驼背上搭起表演空间，四人围坐演奏，中间一人起舞，人物与驼的比例有意夸张。现存乐器只余一把琵琶，其余乐器名称来自研究者复原。它塑出的不是普通运输场景，而是带有舞台趣味的乐舞、杂技意象。",
+    "significance": "这一组合把长安百戏与胡汉音乐交流浓缩为陶塑场面，适合与丝路交通叙事相连。",
+    "lookingPoints": [
+      "先数驼背上的五名人物。",
+      "看站立舞者和围坐乐手的朝向。",
+      "辨认残存琵琶与其他缺失乐器的位置。"
+    ],
+    "note": "国博此件为五名男子；不可与陕西历史博物馆八人载乐骆驼混用图注或人物数。近期馆方文字墓名有不同表述，暂不指定墓主。",
+    "sourceIds": [
+      "oa-ce-camel-musicians"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-camel-musicians",
+        "locator": "五人组合、残存乐器与百戏解释"
+      }
+    ],
+    "image": null,
+    "category": "陶瓷"
+  },
+  {
+    "id": "treasure-ce-langyuan",
+    "scope": "china",
+    "periodId": "five-dynasties",
+    "title": "阮郜《阆苑女仙图》卷",
+    "dateLabel": "五代，阮郜名下传世作",
+    "start": 907,
+    "end": 960,
+    "material": "绢本设色",
+    "museum": "故宫博物院",
+    "inventory": "新00138447",
+    "provenance": "传世收藏；历代著录与卷后题跋有序",
+    "description": "松竹、坡石与水面间，女仙或读卷、执笔、拨弦，或乘龙、乘鸾、凌波而来，地面和云水中的人物相互呼应。人物体态纤细，衣纹细密柔和，青绿坡石与繁复水纹共同营造仙境。它能展示五代人物画与唐代丰腴形象之间的差异。",
+    "significance": "适合分层观看人物、树石与水纹，理解手卷如何以连续空间组织想象世界。",
+    "lookingPoints": [
+      "沿水面寻找远近人物的呼应。",
+      "看细密衣纹与纤弱身形。",
+      "比较蟹爪状树枝和青绿坡石。"
+    ],
+    "note": "本幅无作者款印；阮郜归属据历代著录和卷后跋语，不把署名视为原画亲笔题款。",
+    "sourceIds": [
+      "oa-ce-langyuan"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-langyuan",
+        "locator": "登记号、无款与著录、场景和笔法"
+      }
+    ],
+    "image": null,
+    "category": "书画版刻"
+  },
+  {
+    "id": "treasure-ce-han-xizai",
+    "scope": "china",
+    "periodId": "five-dynasties",
+    "title": "《韩熙载夜宴图》卷（宋摹本）",
+    "dateLabel": "五代南唐题材；现存卷约南宋1163—1224年",
+    "start": 1163,
+    "end": 1224,
+    "material": "绢本设色",
+    "museum": "故宫博物院",
+    "inventory": "新00147326",
+    "provenance": "传世收藏；现存卷属宋摹本，反映顾闳中名下原作面貌",
+    "description": "长卷以听乐、观舞、暂歇、清吹、散宴等场面推进，屏风和家具既分隔情节又联系空间。韩熙载反复出现，观众需要按故事顺序阅读，而不是把他当作同一时刻出现的多个人。人物神态、乐器、服饰与家具都可分别放大赏看。",
+    "significance": "它是认识南唐人物画传统与手卷叙事的经典案例，同时提醒观众区分描绘时代、原作时代和现存画卷年代。",
+    "lookingPoints": [
+      "找反复出现的长髯高帽主人公。",
+      "看屏风怎样分隔又连接五个段落。",
+      "比较男宾深衣和女乐服色的安排。"
+    ],
+    "note": "归入五代题材赏鉴，不把宋代摹本当作五代原件；馆方说明本幅无款，创作缘由的文献也有不同说法。",
+    "sourceIds": [
+      "oa-ce-han-xizai"
+    ],
+    "citations": [
+      {
+        "sourceId": "oa-ce-han-xizai",
+        "locator": "宋摹本、1163—1224年、五段叙事及创作缘由讨论"
+      }
+    ],
+    "image": null,
+    "category": "书画版刻"
+  }
+]

@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.8.0",
-  "runtimeFiles": 152,
-  "source": "249篇中外事件与人物叙事详解；正文范围与证据边界见docs/narratives/README.md，原有编年数据与朝代配色保留",
+  "websiteVersion": "0.9.0",
+  "runtimeFiles": 191,
+  "source": "新增78件/组博物馆代表藏品（中国54、世界24），23件开放许可实物图；保留249篇叙事详解、既有编年资料与朝代配色。资料与许可见docs/collections/README.md。",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -17,7 +17,7 @@
     },
     {
       "path": "docs/app.js",
-      "sha256": "7cd0cf953774a133ebd84a09f8e8110a54b3fe77a84937811a3665bc865ea212"
+      "sha256": "ec09c75485d7c2c32ccc53e4fa84778367e4060686e684e949dfa18e11957370"
     },
     {
       "path": "docs/assets/README.md",
@@ -26,6 +26,102 @@
     {
       "path": "docs/assets/brocade.svg",
       "sha256": "7133fea8ecf38e3f6ab71d306ce573399d35e2bba3a376f88016d6447b579f6a"
+    },
+    {
+      "path": "docs/assets/collections/README.md",
+      "sha256": "97fabda6e965253a5c5e1ed8e393ec75f0f88d2854821af5ea68eb40425d7fa7"
+    },
+    {
+      "path": "docs/assets/collections/treasure-open-han.jpg",
+      "sha256": "a206c5bbfd2250e3f8047a825b52089045de26ab892335631754bfeed495b3a5"
+    },
+    {
+      "path": "docs/assets/collections/treasure-open-ming.jpg",
+      "sha256": "8c365add5c4045952add75b6a53981ee183fbbeb186eeaf5c718c3b5859b4a4a"
+    },
+    {
+      "path": "docs/assets/collections/treasure-open-qing.jpg",
+      "sha256": "1d158a676c111b2b3e450bca0fe28d3a780c82636dc37af02e0e19667255a329"
+    },
+    {
+      "path": "docs/assets/collections/treasure-open-shang.jpg",
+      "sha256": "4bd4d4234f28217ff49fa111a7a4c1951f9b26bdc29fae8d9a8716764c764190"
+    },
+    {
+      "path": "docs/assets/collections/treasure-open-sui.jpg",
+      "sha256": "a7d92938dbda2eb6fc787febb53f35fdbd259aba60fbe67b8956dc40b5fff450"
+    },
+    {
+      "path": "docs/assets/collections/treasure-open-tang.jpg",
+      "sha256": "c414dd63c74b8639b51ff045e6cc266f16948cdb0647eac84d0bcacf026c4f0c"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-canova-perseus.jpg",
+      "sha256": "a710b4d8876445af23c8d351770749c2b8b4c687f450fc00367bc07273ceaf93"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-ethiopia-gospels.jpg",
+      "sha256": "a791b1eb489f6c48ac2e2556dae4cc3d5abff5f66b381771abaf526b02347e59"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-great-wave.jpg",
+      "sha256": "b76ccf0710b8e4b32e778a45e5398a0cf4777994523116f994a0430f4ee6a841"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-hirschfeld-krater.jpg",
+      "sha256": "d75382263d82555b35903816594a632e0708b4198d1fc523d549cf1f39f84ec1"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-idia-mask.jpg",
+      "sha256": "215aaa8a9324dc127b06828d86bbd6e181739003614f2b9734de248b52a9109f"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-inca-tunic.jpg",
+      "sha256": "30a987efcd07afb80735e78f1a9fe50fed4b6fbbf45edc77b6d20b6c30451f10"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-iran-animal-carpet.jpg",
+      "sha256": "229d58d14185aa82bc9e39fe56850e4ad9b3e79d52347f0ee6ea19037cb01079"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-lamassu.jpg",
+      "sha256": "c8839812383017516619bda978cf9e1e9150e2f15a0ebdff4a82ebba12ad008d"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-mathura-buddha.jpg",
+      "sha256": "eced7356c67a507d63049e5e4ce617c757591bc88b8b3ee61e0ba9c3a71faf6f"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-maya-maize.jpg",
+      "sha256": "fc45a7be54f5b42f2b88c98a5091328f291670824be7f08e6fca1ff0a3279458"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-moon-jar.jpg",
+      "sha256": "487486775904553c44948712174d5291819e86f4c001c263f88e82526cb15528"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-nataraja.jpg",
+      "sha256": "233c63bd4f0c2996d105668cae6051e638bbb870ff2987729c71dae971d336f9"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-panama-double-eagle.jpg",
+      "sha256": "2046a231318db80834be1ee50ed45c69ac49a6be369def38b385485fecb8e6e4"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-rembrandt-aristotle.jpg",
+      "sha256": "06e64703d92fed63c6238d15ed32d582792397b238458bf1893530eb8d91e3f4"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-shah-jahan.jpg",
+      "sha256": "080d5beb6ff5e5c15f7edd8459613d2de38abfcd3206318988d8384353536333"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-william-hippo.jpg",
+      "sha256": "81f1dd71da826da9a906a96d93bd3f685360e57b330e8a1d658e69e68e2e4b27"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-yemen-astrolabe.jpg",
+      "sha256": "5ea6e64f23b7521539f5af331bc1d00a4aa085e95a8a4983855e8b4cd67a6da3"
     },
     {
       "path": "docs/assets/ne_110m_land.geojson",
@@ -136,12 +232,72 @@
       "sha256": "8c7b333a4bbc608ddeb4084ecd0c63fd5d2f929f68f0016ae76a73fb35633432"
     },
     {
+      "path": "docs/cabinet.css",
+      "sha256": "f22ba226de9352c6f68083f4827eeaa4a782c98cc9d07c37fae003f28ae9feac"
+    },
+    {
+      "path": "docs/cabinet.js",
+      "sha256": "b0f4cf0cca0b53b75bc5c87173aac70b32c48c1ff03d80a9744b71b5696dc7da"
+    },
+    {
       "path": "docs/chronicle.css",
       "sha256": "f112f839a432ddf546b05ad014b1d1e95ae09a267338fa92931157901f054822"
     },
     {
       "path": "docs/chronicle.js",
       "sha256": "9e098c72b17bc64c65ab049f13448a91853b3b2558c1e9b1d5f46ad1e3498eaf"
+    },
+    {
+      "path": "docs/collections/00-stage.js",
+      "sha256": "206a617fd9cfdcd01145c28ef18499ff21c920b62a9f757b4eb1ee6e7328feb2"
+    },
+    {
+      "path": "docs/collections/99-commit.js",
+      "sha256": "38633c5ec06eef1bfc7d7de5262d33034d9c91b7d18791419e3dd16a3ebeef0e"
+    },
+    {
+      "path": "docs/collections/README.md",
+      "sha256": "bf544fa23256614c1147e17505aec22f8dd4a7b403ce5c280ca47577af0ee426"
+    },
+    {
+      "path": "docs/collections/image-audit.json",
+      "sha256": "1ed50b43f1506491c3a9f39bd69a907ec97adee9a97ba45c3d07ae6431e73dee"
+    },
+    {
+      "path": "docs/collections/manifest.json",
+      "sha256": "d2ed7535619a5447916291a833441ecf75ae6b79503e1bade54eb3021418a149"
+    },
+    {
+      "path": "docs/collections/objects-01.js",
+      "sha256": "1f7f28a48417c155c6d525a2b917d73b8fcf5c5c64c701054803935148c80de9"
+    },
+    {
+      "path": "docs/collections/objects-02.js",
+      "sha256": "37a58c33a856094a7015c3f124493878906ca69b14900e9035bc0d2aa50a3032"
+    },
+    {
+      "path": "docs/collections/source/catalog.json",
+      "sha256": "f33e42552d7259cd34e75cc442ee18915f47590adc69743501937a0e2bf1233d"
+    },
+    {
+      "path": "docs/collections/source/early.json",
+      "sha256": "4494d75426997b1dc2967a45e3a69db3f5ea951289b9c8eca1ea9134908898f1"
+    },
+    {
+      "path": "docs/collections/source/late.json",
+      "sha256": "0b8bdb78032e1d4fbfd668cd3969d859572f5d33f077bd506f9061e049194906"
+    },
+    {
+      "path": "docs/collections/source/open.json",
+      "sha256": "45dc059457f7d1331686c38f195bd7f05ca288410cf63dbcc7de1d037dd7906b"
+    },
+    {
+      "path": "docs/collections/source/regional.json",
+      "sha256": "0844f40420dca6d931e3e7b198fd3dad74e5694700fa9549a5243da972c68276"
+    },
+    {
+      "path": "docs/collections/source/world.json",
+      "sha256": "e564838fb2b636c070d55cfe7ffe27ef785edbef8e954a8fe8d6717f7ba0aa32"
     },
     {
       "path": "docs/data.js",
@@ -429,7 +585,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "5e537370d1e34c1dbf1a4926e0d6414017e643cbd45cacb5dd9b248e8c012e00"
+      "sha256": "9d321b2a9ae423088aea508a0eb4d7b2adb0ff6d8dc1aff80c33f7565ca33477"
     },
     {
       "path": "docs/knowledge.css",
@@ -609,7 +765,7 @@
     },
     {
       "path": "docs/world-chronicle.js",
-      "sha256": "8f6ed7052bd1090ca618f7255f2911e29bce707056c0ffdcf717b732776c584f"
+      "sha256": "bfac7bd84e2c8fb68ad1fb096b0e41bed1ebfe7f1f018aad8161c954b072c884"
     }
   ]
 }

@@ -1,0 +1,45 @@
+{
+  "version": "0.9.0",
+  "scripts": [
+    "collections/00-stage.js",
+    "collections/objects-01.js",
+    "collections/objects-02.js",
+    "collections/99-commit.js"
+  ],
+  "objects": 78,
+  "china": 54,
+  "world": 24,
+  "sources": 81,
+  "licensedImages": 23,
+  "coverage": {
+    "xia": 2,
+    "shang": 3,
+    "zhou": 2,
+    "eastern": 2,
+    "qin": 2,
+    "han": 3,
+    "xin": 2,
+    "eastern-han": 2,
+    "three-kingdoms": 2,
+    "western-jin": 2,
+    "eastern-jin": 2,
+    "north-south": 2,
+    "sui": 3,
+    "tang": 3,
+    "five-dynasties": 2,
+    "song-liao-xia-jin": 6,
+    "yuan": 4,
+    "ming": 5,
+    "qing": 5
+  },
+  "regions": {
+    "east-asia": 3,
+    "south-asia": 3,
+    "southeast-asia": 3,
+    "central-west-asia": 3,
+    "europe": 3,
+    "africa": 3,
+    "americas": 3,
+    "oceania": 3
+  }
+}

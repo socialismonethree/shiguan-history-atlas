@@ -1,0 +1,741 @@
+{
+  "version": "0.9.0",
+  "files": [
+    "early.json",
+    "late.json",
+    "world.json",
+    "open.json",
+    "regional.json"
+  ],
+  "sources": [
+    {
+      "id": "oa-ce-erlitou-jue",
+      "title": "乳钉纹铜爵",
+      "author": "二里头夏都遗址博物馆",
+      "url": "https://www.eltxdmuseum.com/precious1/204?id=204",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-erlitou-plaque",
+      "title": "嵌绿松石兽面铜牌饰",
+      "author": "河南博物院",
+      "url": "https://www.chnmus.net/sitesources/hnsbwy/page_pc/bwzl/jxysyhjsqjytzgygbz/jyhy/articleceb883ddee1341ed8969d7f715b92b2e.html",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-houmuwu",
+      "title": "“后母戊”青铜方鼎",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247255.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-four-rams",
+      "title": "青铜美器——四羊方尊",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/Portals/0/web/zt/100n/guobao_content-8.html?id=30",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-li-gui",
+      "title": "克商之证——利簋",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/Portals/0/web/zt/100n/guobao_content-5.html?id=27",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-dayu-ding",
+      "title": "盂鼎",
+      "author": "中国国家博物馆／冯峰",
+      "url": "https://www.chnmuseum.cn/yj/xscg/xslw/202106/t20210608_250171.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-goujian-sword",
+      "title": "越王勾践剑",
+      "author": "湖北省博物馆",
+      "url": "https://www.hbww.org.cn/zgzb/p/4694.html",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-zeng-bells",
+      "title": "曾侯乙编钟",
+      "author": "湖北省文化和旅游厅",
+      "url": "https://wlt.hubei.gov.cn/bmdt/ztzl/zshb/201912/t20191226_1799618.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-qin-chariots",
+      "title": "铜车马坑",
+      "author": "秦始皇帝陵博物院",
+      "url": "https://www.bmy.com.cn/pithorse.html",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-liye-table",
+      "title": "里耶秦简亮相国博 秦朝已有乘法口诀表",
+      "author": "中国国家博物馆转载新京报",
+      "url": "https://www.chnmuseum.cn/zx/gbxw/201908/t20190807_140376.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-changxin-lamp",
+      "title": "长信宫灯",
+      "author": "故宫博物院“何以中国”展览",
+      "url": "https://ggzl.dpm.org.cn/pages/exhibit_works/details?id=10933",
+      "type": "museum",
+      "note": "已读取官方页面搜索索引所载完整展品说明；直接打开超时。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-liang-jade-suit",
+      "title": "金缕玉衣",
+      "author": "河南博物院",
+      "url": "https://www.chnmus.net/ch/collection/appraise/details.html?id=512154034823486264",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-huobu",
+      "title": "宝博微课堂｜古币名珍：王莽时期货币赏析",
+      "author": "宝鸡青铜器博物院",
+      "url": "https://www.bjqtm.com/xcjy/dwxc/宝博微课堂古币名珍：王莽时期货币赏析",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-xiaoquan",
+      "title": "王莽钱币",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/hb/202008/t20200824_247119.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-storyteller",
+      "title": "击鼓说唱俑",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247253.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-galloping-horse",
+      "title": "天马行空：中国旅游标志“铜奔马”的墓主人到底是谁？",
+      "author": "国家民族事务委员会“道中华”／甘肃省博物馆王琦专访",
+      "url": "https://www.neac.gov.cn/seac/c103391/202302/1161237.shtml",
+      "type": "museum",
+      "note": "已读取官方网页搜索索引返回的长篇专访正文；直接打开超时。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-wu-lamp",
+      "title": "三国 青釉堆塑灯",
+      "author": "上海博物馆",
+      "url": "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/CI00004869",
+      "type": "museum",
+      "note": "已读取官方搜索索引完整藏品说明；直接页面主要为框架与iframe。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-yongan-granary",
+      "title": "青釉亭阁人物罐：五联罐与谷仓罐",
+      "author": "河南博物院",
+      "url": "https://www.chnmus.net/sitesources/hnsbwy/page_pc/dzjp/mzyp/article55a55791d855420b8daf19c056cf2d9f.html",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-jin-granary",
+      "title": "青釉堆塑谷仓罐",
+      "author": "故宫博物院／董健丽",
+      "url": "https://www.dpm.org.cn/collection/ceramic/227478.html",
+      "type": "museum",
+      "note": "已读取官方搜索索引完整藏品说明；直接打开超时。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-jin-chicken-pot",
+      "title": "青釉鸡头壶",
+      "author": "故宫博物院",
+      "url": "https://www.dpm.org.cn/collection/ceramic/227657.html",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-sheep-pot",
+      "title": "青釉褐斑羊头壶",
+      "author": "故宫博物院／吕成龙",
+      "url": "https://www.dpm.org.cn/collection/ceramic/226884.html",
+      "type": "museum",
+      "note": "已读取官方搜索索引完整说明；直接打开超时。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-deqing-black",
+      "title": "黑釉四系壶",
+      "author": "上海博物馆",
+      "url": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00159016",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-sima-screen",
+      "title": "不朽｜司马金龙墓漆画屏风",
+      "author": "良渚博物院",
+      "url": "https://www.lzmuseum.cn/LiangBoXinWen/20244432047.html",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-qingzhou-buddha",
+      "title": "佛教造像专题：中国·北齐佛立像",
+      "author": "故宫博物院专题／引青州市博物馆图录",
+      "url": "https://www.dpm.org.cn/subject_sino/mobile/china.html?first_id=42&slick_id=98576",
+      "type": "museum",
+      "note": "已读取官方搜索索引返回的完整专题条目；直接打开超时。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-li-necklace",
+      "title": "域外奇珍传中土",
+      "author": "中国国家博物馆／赵永",
+      "url": "https://www.chnmuseum.cn/yj/xscg/xslw/201812/t20181224_33157.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-sui-double-vase",
+      "title": "隋 白釉龙柄联腹传瓶",
+      "author": "天津博物馆",
+      "url": "https://www.tjbwg.cn/cn/collectionInfo.aspx?Id=2320",
+      "type": "museum",
+      "note": "已读取官方搜索索引完整藏品说明；直接打开返回405。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-silver-incense",
+      "title": "熏香器中的机巧",
+      "author": "中国国家博物馆／梁丰",
+      "url": "https://www.chnmuseum.cn/yj/xscg/xslw/201812/t20181224_33175.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-camel-musicians",
+      "title": "三彩釉陶载乐骆驼",
+      "author": "中国国家博物馆",
+      "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202008/t20200824_247230.shtml",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-langyuan",
+      "title": "阮郜阆苑女仙图卷",
+      "author": "故宫博物院／袁杰",
+      "url": "https://www.dpm.org.cn/collection/paint/234349.html",
+      "type": "museum",
+      "note": "已读取官方页面正文；采用馆方编目与说明，未取得图片公开复用许可。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-han-xizai",
+      "title": "顾闳中韩熙载夜宴图卷",
+      "author": "故宫博物院／单国强",
+      "url": "https://www.dpm.org.cn/collection/paint/228200.html",
+      "type": "museum",
+      "note": "已读取官方搜索索引完整长篇藏品说明；直接打开超时。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-ce-liye-collection",
+      "title": "简读中国——中国出土简牍展报道",
+      "author": "湖北日报／海冰、鲁黎、黄敏",
+      "url": "https://www.ctdsb.net/c1664_202510/2577881.html",
+      "type": "authoritative-report",
+      "note": "已打开并读取展讯正文；仅以作品图注明确收藏单位，不采用报道对乘法口诀内容的概括。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-qingming",
+      "title": "张择端清明上河图卷｜馆藏说明",
+      "author": "故宫博物院；杨新",
+      "url": "https://www.dpm.org.cn/collection/paint/228226.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-qianli",
+      "title": "王希孟千里江山图卷｜馆藏说明",
+      "author": "故宫博物院；马季戈",
+      "url": "https://www.dpm.org.cn/collection/paint/228354.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-ding-pillow",
+      "title": "定窑白釉孩儿枕｜馆藏说明",
+      "author": "故宫博物院；赵宏",
+      "url": "https://www.dpm.org.cn/collection/ceramic/226760.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-liao-flask",
+      "title": "白釉刻花鸡冠壶｜馆藏说明",
+      "author": "故宫博物院；纪炜",
+      "url": "https://www.dpm.org.cn/collection/ceramic/226957.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-fuchun",
+      "title": "黄公望富春山居图（无用师卷）｜馆藏说明",
+      "author": "台北故宫博物院",
+      "url": "https://theme.npm.edu.tw/selection/Article.aspx?sNo=04000975",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-yuan-jar",
+      "title": "青花釉里红开光镂花盖罐｜馆藏说明",
+      "author": "故宫博物院",
+      "url": "https://intl.dpm.org.cn/Ceramicsis/1407.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-yuan-enamel",
+      "title": "掐丝珐琅缠枝莲纹象耳炉｜馆藏说明",
+      "author": "故宫博物院；夏更起",
+      "url": "https://www.dpm.org.cn/collection/enamel/228132.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-yuan-lacquer",
+      "title": "乾隆款剔犀云纹盘（张成造）｜馆藏说明",
+      "author": "故宫博物院",
+      "url": "https://intl.dpm.org.cn/Lacquer/98073.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-ming-chair",
+      "title": "黄花梨木雕螭纹圈椅｜馆藏说明",
+      "author": "故宫博物院；芮谦",
+      "url": "https://www.dpm.org.cn/collection/gear/229580.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-ming-woyou",
+      "title": "沈周卧游图册｜馆藏说明",
+      "author": "故宫博物院",
+      "url": "https://www.dpm.org.cn/collection/paint/232100.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-ming-chicken",
+      "title": "成化款斗彩鸡缸杯｜馆藏说明",
+      "author": "故宫博物院",
+      "url": "https://intl.dpm.org.cn/Ceramicsis/852.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-ming-bamboo",
+      "title": "明朱三松款松鹤人物笔筒｜馆藏说明",
+      "author": "安徽博物院",
+      "url": "https://www.ahm.cn/Wap/Collection/Details/wfyj?nid=542",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-qing-jade",
+      "title": "大禹治水图玉山｜馆藏说明",
+      "author": "故宫博物院",
+      "url": "https://intl.dpm.org.cn/ReligiousArtefacts/78887.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-qing-shitao",
+      "title": "石涛搜尽奇峰图卷｜馆藏说明",
+      "author": "故宫博物院；李湜",
+      "url": "https://www.dpm.org.cn/collection/paint/234551.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-qing-robe",
+      "title": "明黄色缎绣金龙朝袍｜馆藏说明",
+      "author": "故宫博物院；殷安妮",
+      "url": "https://www.dpm.org.cn/collection/embroider/230462.html",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-qing-clock",
+      "title": "铜镀金写字人钟｜馆藏说明",
+      "author": "故宫博物院",
+      "url": "https://www.dpm.org.cn/Uploads/wenhua/e4/E4b1-06.htm",
+      "type": "museum",
+      "note": "官方馆藏或专题页面；据此改写介绍，赏鉴提示为本站编辑整理。图片授权未确认，未转载馆方图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-cl-clock-study",
+      "title": "故宫博物院2014年第2期：写字人钟相关研究",
+      "author": "故宫博物院",
+      "url": "https://www.dpm.org.cn/Uploads/File/2019/12/03/u5de66a13ad3f9.pdf",
+      "type": "museum-research",
+      "note": "钟表研究文章中关于现存写字人钟的机械描述；不转载文章图片。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-great-wave",
+      "title": "葛饰北斋《神奈川冲浪里》｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/45434",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-moon-jar",
+      "title": "朝鲜王朝白瓷月壶｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/45432",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-keiko-haniwa",
+      "title": "挂甲武人埴轮｜东京国立博物馆官方馆藏记录",
+      "author": "东京国立博物馆",
+      "url": "https://www.tnm.jp/modules/r_collection/index.php?colid=J36697&controller=dtl&lang=en",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-nataraja",
+      "title": "湿婆舞王像｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/39328",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-mathura-buddha",
+      "title": "秣菟罗施无畏印佛立像｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/38198",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-shah-jahan",
+      "title": "奇塔尔曼《露台上的沙贾汗》｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/451270",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-dongson-drum",
+      "title": "东山文化铜鼓（诺顿·西蒙藏）｜诺顿·西蒙博物馆官方馆藏记录",
+      "author": "诺顿·西蒙博物馆",
+      "url": "https://www.nortonsimon.org/art/detail/M.2010.1.210.S/",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-harihara",
+      "title": "诃利诃罗合体神像｜金贝尔艺术博物馆官方馆藏记录",
+      "author": "金贝尔艺术博物馆",
+      "url": "https://kimbellart.org/collection/ap-198801",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-java-headcloth",
+      "title": "中爪哇蜡染头巾｜克利夫兰艺术博物馆官方馆藏记录",
+      "author": "克利夫兰艺术博物馆",
+      "url": "https://www.clevelandart.org/art/1925.486",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-lamassu",
+      "title": "尼姆鲁德人首翼牛门卫像｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/322608",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-iran-animal-carpet",
+      "title": "阿尔达比勒圣祠旧藏动物纹地毯｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/445995",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-yemen-astrolabe",
+      "title": "欧麦尔·伊本·优素福星盘｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/444408",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-hirschfeld-krater",
+      "title": "希尔施费尔德作坊陶制克拉特尔｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/248904",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-rembrandt-aristotle",
+      "title": "伦勃朗《亚里士多德凝视荷马胸像》｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/437394",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-canova-perseus",
+      "title": "卡诺瓦《手持美杜莎头颅的珀尔修斯》｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/204758",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-william-hippo",
+      "title": "蓝釉河马“威廉”｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/544227",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-idia-mask",
+      "title": "贝宁王母伊迪娅象牙垂饰面具｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/318622",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-ethiopia-gospels",
+      "title": "埃塞俄比亚彩绘《四福音书》｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/317618",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-maya-maize",
+      "title": "玛雅玉米神贝雕耳饰一对｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/317760",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-inca-tunic",
+      "title": "印加黑白棋盘格短衣｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/751901",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-panama-double-eagle",
+      "title": "巴拿马双鹰金饰｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/312747",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-rebbilib",
+      "title": "马绍尔群岛 Rebbilib 航海枝条图｜纽约大都会艺术博物馆官方馆藏记录",
+      "author": "纽约大都会艺术博物馆",
+      "url": "https://www.metmuseum.org/art/collection/search/311297",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-hei-tiki",
+      "title": "毛利 Pounamu 人形垂饰 Hei-tiki｜大英博物馆官方馆藏记录",
+      "author": "大英博物馆",
+      "url": "https://www.britishmuseum.org/collection/object/E_Oc1906-0416-1",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-w-malagan",
+      "title": "新爱尔兰马拉甘男性木雕｜大英博物馆官方馆藏记录",
+      "author": "大英博物馆",
+      "url": "https://www.britishmuseum.org/collection/object/E_Oc1884-0728-49",
+      "type": "museum",
+      "note": "已阅读馆方藏品条目或官方可索引记录；赏鉴文字为中文转述。藏品名称、年代、材质、编号及归属解释按该页口径；未将“代表性”冒充法定等级。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-open-shang",
+      "title": "Wine Cups (Jue)（1960.78）",
+      "author": "克利夫兰艺术博物馆",
+      "url": "https://www.clevelandart.org/art/1960.78",
+      "type": "博物馆馆藏档案",
+      "note": "馆方具体藏品及Open Access API交叉核对年代、工艺、编号；API图像share_license_status为CC0。英文题名以馆方为准，中文为本站选读译名。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-open-han",
+      "title": "Mat Weight in the Form of a Bear（1994.203）",
+      "author": "克利夫兰艺术博物馆",
+      "url": "https://www.clevelandart.org/art/1994.203",
+      "type": "博物馆馆藏档案",
+      "note": "馆方具体藏品及Open Access API交叉核对年代、工艺、编号；API图像share_license_status为CC0。英文题名以馆方为准，中文为本站选读译名。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-open-sui",
+      "title": "Standing Bodhisattva（1979.20）",
+      "author": "克利夫兰艺术博物馆",
+      "url": "https://www.clevelandart.org/art/1979.20",
+      "type": "博物馆馆藏档案",
+      "note": "馆方具体藏品及Open Access API交叉核对年代、工艺、编号；API图像share_license_status为CC0。英文题名以馆方为准，中文为本站选读译名。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-open-tang",
+      "title": "Harpist（1931.450）",
+      "author": "克利夫兰艺术博物馆",
+      "url": "https://www.clevelandart.org/art/1931.450",
+      "type": "博物馆馆藏档案",
+      "note": "馆方具体藏品及Open Access API交叉核对年代、工艺、编号；API图像share_license_status为CC0。英文题名以馆方为准，中文为本站选读译名。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-open-ming",
+      "title": "Brush with Carved Design（1967.194）",
+      "author": "克利夫兰艺术博物馆",
+      "url": "https://www.clevelandart.org/art/1967.194",
+      "type": "博物馆馆藏档案",
+      "note": "馆方具体藏品及Open Access API交叉核对年代、工艺、编号；API图像share_license_status为CC0。英文题名以馆方为准，中文为本站选读译名。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-open-qing",
+      "title": "Nine Dragon Pool（1979.50）",
+      "author": "克利夫兰艺术博物馆",
+      "url": "https://www.clevelandart.org/art/1979.50",
+      "type": "博物馆馆藏档案",
+      "note": "馆方具体藏品及Open Access API交叉核对年代、工艺、编号；API图像share_license_status为CC0。英文题名以馆方为准，中文为本站选读译名。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-regional-xixia-bull",
+      "title": "鎏金铜牛",
+      "author": "宁夏博物馆供稿／宁夏回族自治区文物考古研究所",
+      "url": "https://www.nxkg.org.cn/qingtong/741.html",
+      "type": "考古机构转载馆藏资料",
+      "note": "完整检索索引可读，正文直开可能超时；不采用有差异的墓号。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-regional-jin-actors",
+      "title": "赴山西博物院，享戏曲文化盛宴",
+      "author": "山西日报（澎湃转载）",
+      "url": "https://m.thepaper.cn/newsDetail_forward_30074762",
+      "type": "权威媒体馆藏报道",
+      "note": "馆藏展示与五戏俑资料；与大学考古文博学院资料互核，不据报道推定具体剧目。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-regional-jin-university",
+      "title": "侯马考古工作站参观与晋文化学习记录",
+      "author": "山西大学考古文博学院",
+      "url": "https://archaeology.sxu.edu.cn/rcpy/yxsx/199ac6ba62514d118ef56d7d17add238.htm",
+      "type": "高校考古机构资料",
+      "note": "确认董明墓纪年及五件彩绘戏俑收藏机构；未将实习报道视为完整发掘报告。",
+      "checkedAt": "2026-10-24"
+    }
+  ]
+}
