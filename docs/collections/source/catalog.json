@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "files": [
     "early.json",
     "late.json",
@@ -735,6 +735,15 @@
       "url": "https://archaeology.sxu.edu.cn/rcpy/yxsx/199ac6ba62514d118ef56d7d17add238.htm",
       "type": "高校考古机构资料",
       "note": "确认董明墓纪年及五件彩绘戏俑收藏机构；未将实习报道视为完整发掘报告。",
+      "checkedAt": "2026-10-24"
+    },
+    {
+      "id": "oa-image-sima-distribution",
+      "title": "《美术报》2024年2月24日第16版：司马金龙墓屏板分藏说明",
+      "author": "美术报",
+      "url": "https://msb.zjol.com.cn/images/2024-02/24/mszb2024022400016v02n.pdf",
+      "type": "专业艺术报刊",
+      "note": "版面图注记山西省博物馆、大同市博物馆分藏；图片另按Commons平面忠实复制许可记录，未从该报复制照片。",
       "checkedAt": "2026-10-24"
     }
   ]

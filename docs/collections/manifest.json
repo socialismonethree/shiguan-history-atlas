@@ -1,5 +1,5 @@
 {
-  "version": "0.9.0",
+  "version": "0.9.1",
   "scripts": [
     "collections/00-stage.js",
     "collections/objects-01.js",
@@ -9,8 +9,8 @@
   "objects": 78,
   "china": 54,
   "world": 24,
-  "sources": 81,
-  "licensedImages": 23,
+  "sources": 82,
+  "licensedImages": 52,
   "coverage": {
     "xia": 2,
     "shang": 3,

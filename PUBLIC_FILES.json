@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.9.0",
-  "runtimeFiles": 191,
-  "source": "新增78件/组博物馆代表藏品（中国54、世界24），23件开放许可实物图；保留249篇叙事详解、既有编年资料与朝代配色。资料与许可见docs/collections/README.md。",
+  "websiteVersion": "0.9.1",
+  "runtimeFiles": 222,
+  "source": "78件/组馆藏档案（中国54、世界24），52件附许可实物图，本版新增29件；图片随站保存。保留既有编年、249篇叙事详解与朝代配色。",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -29,7 +29,107 @@
     },
     {
       "path": "docs/assets/collections/README.md",
-      "sha256": "97fabda6e965253a5c5e1ed8e393ec75f0f88d2854821af5ea68eb40425d7fa7"
+      "sha256": "3ee034591733c867fdce1f0769a1f93e26b95aef1232861c3927045afe4a33eb"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-camel-musicians.jpg",
+      "sha256": "31a866851b4878a06e38bb680e2305cd179f51b37885bbc8940b589ade997ea5"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-changxin-lamp.jpg",
+      "sha256": "c5eefdb3f20ee56ea2bc5e37acf4c8a467a2c8ef38d2df41646782c40cbc7d23"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-dayu-ding.jpg",
+      "sha256": "e252b03c1f326cfd95e9c5548a7537a47c112ee24fabe60bc76f6ed35f0e1f15"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-erlitou-plaque.jpg",
+      "sha256": "81f78c82c6cffc0bdbd7b6ea5f1235047c3b04cd871c789c26d15e8492eb7bb7"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-four-rams.jpg",
+      "sha256": "f63934057ce48ab68e2ae6deef627a16a421e89ecfbcccb5562b00fd9b4e8412"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-galloping-horse.jpg",
+      "sha256": "6be58b5a462dd16b4b3d338284a8dd7a8cf93e94d1b3224bcebb367867526af2"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-goujian-sword.png",
+      "sha256": "741ad29319ba809e7bb3eb3d73f1235720e0a04622a52c4062ff77d20bc597c0"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-han-xizai.jpg",
+      "sha256": "e6caacfc9effccfaee898309d0de7da592c0f5f2464999f45b07addb74b58da8"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-houmuwu.jpg",
+      "sha256": "de8885d7f1f9fca3017ffea4d9f1437141fb9521aa83d1927d6d98b875133c1e"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-langyuan.jpg",
+      "sha256": "651d67779dc79f661fcd9e031041419be78efdfd77733c819e52a0fbff1c1660"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-li-gui.jpg",
+      "sha256": "eaf40d7c7573c35e70d39220461f3cec7e3017176dfc23670accd96d561f0be4"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-li-necklace.jpg",
+      "sha256": "ee41448d9940624aab526796c8972123f2109bda284c325a0443f944b4c7be15"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-liang-jade-suit.jpg",
+      "sha256": "85c566492c7ccc7decef5b1e1889a3cdd25f178613edf501082bf89db2b5abc2"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-liye-table.jpg",
+      "sha256": "981691d9978a7df512c62c69bfa1c3cfa488a156793f0afe1898bb7935b1904c"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-qin-chariots.jpg",
+      "sha256": "bbab080ed094fcc7880cdd4ea0756c8ffe00c1b4796e5dbcedd3cd60af18391a"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-sima-screen.jpg",
+      "sha256": "1ab23630e924acfe85413a6d652d9e0c112b096c57f36a4c2b1c3e65c74f7d27"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-storyteller.jpg",
+      "sha256": "5cdc195313fff57987d4b4cc085e36581b46ae894909db9261aaa40241c7ab6e"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-sui-double-vase.png",
+      "sha256": "b132d00cd50a7a073a3efa58c239c003f2c9c7a1f973194d8cf125d8e22a99ec"
+    },
+    {
+      "path": "docs/assets/collections/treasure-ce-zeng-bells.jpg",
+      "sha256": "e5d59393b536de511db14185ed94503db179970cc071f9348fd1715e0aa18051"
+    },
+    {
+      "path": "docs/assets/collections/treasure-cl-ding-pillow.jpg",
+      "sha256": "c60397f4d747f593c65f385ab4ab9df48471f39aca03a71be293ee26117799a0"
+    },
+    {
+      "path": "docs/assets/collections/treasure-cl-fuchun.jpg",
+      "sha256": "28131f1388974d5eeca5356af5bfb61bd6df5d0bf3fbe94dc6026257a3408e38"
+    },
+    {
+      "path": "docs/assets/collections/treasure-cl-ming-woyou.png",
+      "sha256": "2669be9fb4ef7dce902efd758c55f6215e1cf9019976cd8436b1c7b4b31f26d1"
+    },
+    {
+      "path": "docs/assets/collections/treasure-cl-qianli.jpg",
+      "sha256": "5ed51e79f02f734b11ed4c21fd0b3b8118b52d36130cd8e517618b3954b5e25b"
+    },
+    {
+      "path": "docs/assets/collections/treasure-cl-qing-shitao.png",
+      "sha256": "b86efaa2ef4746d3961acd613a8c2ccb5ef177976e0d8c1c5bab151b90b2b9cd"
+    },
+    {
+      "path": "docs/assets/collections/treasure-cl-qingming.jpg",
+      "sha256": "8ea4f9c8640e0d0020637aac6e7fdec034e352b788642e5f3294878b1802bb9b"
     },
     {
       "path": "docs/assets/collections/treasure-open-han.jpg",
@@ -56,8 +156,16 @@
       "sha256": "c414dd63c74b8639b51ff045e6cc266f16948cdb0647eac84d0bcacf026c4f0c"
     },
     {
+      "path": "docs/assets/collections/treasure-regional-xixia-bull.jpg",
+      "sha256": "a9a692ef0a68b68e8370541ac5a53997ad738fc7e86304143a05d6c0a8d2b0b7"
+    },
+    {
       "path": "docs/assets/collections/treasure-w-canova-perseus.jpg",
       "sha256": "a710b4d8876445af23c8d351770749c2b8b4c687f450fc00367bc07273ceaf93"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-dongson-drum.jpg",
+      "sha256": "534065efb247e1ecb4d8d5931142f9922fa74a5af149e47877c4aa065fc41a06"
     },
     {
       "path": "docs/assets/collections/treasure-w-ethiopia-gospels.jpg",
@@ -82,6 +190,14 @@
     {
       "path": "docs/assets/collections/treasure-w-iran-animal-carpet.jpg",
       "sha256": "229d58d14185aa82bc9e39fe56850e4ad9b3e79d52347f0ee6ea19037cb01079"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-java-headcloth.jpg",
+      "sha256": "1a75f359a7e2a167ab342743041044c82d71abff18a76a6605eeed42472d2dd4"
+    },
+    {
+      "path": "docs/assets/collections/treasure-w-keiko-haniwa.jpg",
+      "sha256": "ea4fea1f488fd1a8642a46ac393976b19da79fb27a9e48401e2606f86bd0ab3a"
     },
     {
       "path": "docs/assets/collections/treasure-w-lamassu.jpg",
@@ -233,11 +349,11 @@
     },
     {
       "path": "docs/cabinet.css",
-      "sha256": "f22ba226de9352c6f68083f4827eeaa4a782c98cc9d07c37fae003f28ae9feac"
+      "sha256": "423232409a6993d7df174184f090a8ef462bb769a288724d85046b8f5cd247ab"
     },
     {
       "path": "docs/cabinet.js",
-      "sha256": "b0f4cf0cca0b53b75bc5c87173aac70b32c48c1ff03d80a9744b71b5696dc7da"
+      "sha256": "0d2d15d49c5a956baa2babac7ee5b7c9689bb49016083033a083f24dc942d89d"
     },
     {
       "path": "docs/chronicle.css",
@@ -249,43 +365,51 @@
     },
     {
       "path": "docs/collections/00-stage.js",
-      "sha256": "206a617fd9cfdcd01145c28ef18499ff21c920b62a9f757b4eb1ee6e7328feb2"
+      "sha256": "4f3f450cd730e8535c6eb7a68e99b6eb78a78d656794c1d66d4040e8aea6b9ce"
     },
     {
       "path": "docs/collections/99-commit.js",
-      "sha256": "38633c5ec06eef1bfc7d7de5262d33034d9c91b7d18791419e3dd16a3ebeef0e"
+      "sha256": "288b5bee0cb799d36966705aecab69b2a97b8b36a76a9ed23349dce10c81c19f"
     },
     {
       "path": "docs/collections/README.md",
-      "sha256": "bf544fa23256614c1147e17505aec22f8dd4a7b403ce5c280ca47577af0ee426"
+      "sha256": "fe3ed42438feecd1687be8cf0f1b150ec4571ffa5b73a9ce7612723579a38493"
     },
     {
       "path": "docs/collections/image-audit.json",
       "sha256": "1ed50b43f1506491c3a9f39bd69a907ec97adee9a97ba45c3d07ae6431e73dee"
     },
     {
+      "path": "docs/collections/image-completion-audit.json",
+      "sha256": "d78038fcefd2eff23a1b987a7f0e545fd3c49e04ba08085faa1d57fecfeab9f5"
+    },
+    {
+      "path": "docs/collections/image-status.md",
+      "sha256": "01dac5486cf09fdd760889ef37149a5572fd52628103516fb3aceb07e506d447"
+    },
+    {
       "path": "docs/collections/manifest.json",
-      "sha256": "d2ed7535619a5447916291a833441ecf75ae6b79503e1bade54eb3021418a149"
+      "sha256": "0ece344ade27ff00b97d55bf28e5b2f124a34150eaf290d3e19c5a18ba64e3b5"
     },
     {
       "path": "docs/collections/objects-01.js",
-      "sha256": "1f7f28a48417c155c6d525a2b917d73b8fcf5c5c64c701054803935148c80de9"
+      "sha256": "fe34d3e8cf52f5dfe0b781e41307bbd4f63e274eaaf4524858fd80f715940556"
     },
     {
       "path": "docs/collections/objects-02.js",
-      "sha256": "37a58c33a856094a7015c3f124493878906ca69b14900e9035bc0d2aa50a3032"
+      "sha256": "856fee7d54988ea77ef4dc39fdc644060ac939182c022c6509f1f98648370c19"
     },
     {
       "path": "docs/collections/source/catalog.json",
-      "sha256": "f33e42552d7259cd34e75cc442ee18915f47590adc69743501937a0e2bf1233d"
+      "sha256": "2d6c46df12344e5255cf23a056dc3824b59d59201a167f15eb93ae69126a9f82"
     },
     {
       "path": "docs/collections/source/early.json",
-      "sha256": "4494d75426997b1dc2967a45e3a69db3f5ea951289b9c8eca1ea9134908898f1"
+      "sha256": "4d63efad5aa07b7e23411eaec5f6df2dcdbe454404624753d66678d9d7099e57"
     },
     {
       "path": "docs/collections/source/late.json",
-      "sha256": "0b8bdb78032e1d4fbfd668cd3969d859572f5d33f077bd506f9061e049194906"
+      "sha256": "81cb1d497cd457f0bd9afcc6757bf50badac3af78d4efa31c02238a38a02866a"
     },
     {
       "path": "docs/collections/source/open.json",
@@ -293,11 +417,11 @@
     },
     {
       "path": "docs/collections/source/regional.json",
-      "sha256": "0844f40420dca6d931e3e7b198fd3dad74e5694700fa9549a5243da972c68276"
+      "sha256": "f2a40270036ed93916c1a2e0ec2d544dfaddeb8c30289a417ffeab6d5006de41"
     },
     {
       "path": "docs/collections/source/world.json",
-      "sha256": "e564838fb2b636c070d55cfe7ffe27ef785edbef8e954a8fe8d6717f7ba0aa32"
+      "sha256": "91ccfde4739b0ad69f46343b98ce9048263eeef54a8c25266499e147d59b4a56"
     },
     {
       "path": "docs/data.js",
@@ -585,7 +709,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "9d321b2a9ae423088aea508a0eb4d7b2adb0ff6d8dc1aff80c33f7565ca33477"
+      "sha256": "4be001b83657a315d82fd7245b65898590cf4b69dd2bfd800601d9edba2255a2"
     },
     {
       "path": "docs/knowledge.css",

@@ -28,7 +28,17 @@
         "locator": "馆藏页面“简介”及藏品基本信息"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Along_the_River_During_the_Qingming_Festival_%28detail_of_original%29.jpg/1280px-Along_the_River_During_the_Qingming_Festival_%28detail_of_original%29.jpg",
+      "credit": "张择端 / Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Along_the_River_During_the_Qingming_Festival_(detail_of_original).jpg",
+      "caption": "清明上河图·虹桥局部",
+      "identityNote": "北宋原卷虹桥局部，非清院本或明人摹本；故宫馆藏新00087177。",
+      "localUrl": "assets/collections/treasure-cl-qingming.jpg",
+      "isDetail": true
+    },
     "category": "书画版刻"
   },
   {
@@ -60,7 +70,17 @@
         "locator": "馆藏页面“简介”及藏品基本信息"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Wang_Ximeng_-_A_Thousand_Li_of_River_%28Bridge%29.jpg/1280px-Wang_Ximeng_-_A_Thousand_Li_of_River_%28Bridge%29.jpg",
+      "credit": "王希孟 / Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Ximeng_-_A_Thousand_Li_of_River_(Bridge).jpg",
+      "caption": "千里江山图·长桥局部",
+      "identityNote": "千里江山图长桥局部，图录明确故宫藏；非现代仿作。",
+      "localUrl": "assets/collections/treasure-cl-qianli.jpg",
+      "isDetail": true
+    },
     "category": "书画版刻"
   },
   {
@@ -92,7 +112,17 @@
         "locator": "馆藏页面“简介”及藏品基本信息"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Baby_pillow.JPG/1280px-Baby_pillow.JPG",
+      "credit": "摄影：Rosemania；Commons裁切版：Johnbod / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Baby_pillow.JPG",
+      "caption": "定窑白釉孩儿枕·故宫博物院藏（摄影原图经Commons贡献者裁切）",
+      "identityNote": "Rosemania在北京故宫实拍白釉孩儿枕，非台北故宫故瓷004923藏品。仅采用Commons现有裁切版本，本站未编辑。",
+      "localUrl": "assets/collections/treasure-cl-ding-pillow.jpg",
+      "isDetail": false
+    },
     "category": "陶瓷"
   },
   {
@@ -156,7 +186,17 @@
         "locator": "馆藏页面“简介”及藏品基本信息"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/%E5%85%83%E9%BB%83%E5%85%AC%E6%9C%9B%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9C%96_%E5%8D%B7.jpg/1280px-%E5%85%83%E9%BB%83%E5%85%AC%E6%9C%9B%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9C%96_%E5%8D%B7.jpg",
+      "credit": "黄公望；图版：台北故宫博物院 / Wikimedia Commons",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E5%85%83%E9%BB%83%E5%85%AC%E6%9C%9B%E5%AF%8C%E6%98%A5%E5%B1%B1%E5%B1%85%E5%9C%96_%E5%8D%B7.jpg",
+      "caption": "富春山居图（无用师卷）·局部",
+      "identityNote": "无用师卷局部含卷末黄公望自题；故画001016。非子明卷、剩山图或沈周临本。",
+      "localUrl": "assets/collections/treasure-cl-fuchun.jpg",
+      "isDetail": true
+    },
     "category": "书画版刻"
   },
   {
@@ -316,7 +356,17 @@
         "locator": "馆藏页面“简介”及藏品基本信息"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/%E6%B2%88%E5%91%A8%E5%8D%A7%E6%B8%B8%E5%9B%BE%E5%86%8C-4.png/1280px-%E6%B2%88%E5%91%A8%E5%8D%A7%E6%B8%B8%E5%9B%BE%E5%86%8C-4.png",
+      "credit": "沈周；忠实扫描复制 / Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B2%88%E5%91%A8%E5%8D%A7%E6%B8%B8%E5%9B%BE%E5%86%8C-4.png",
+      "caption": "沈周卧游图册·绘画册页",
+      "identityNote": "卧游图册绘画册页，Commons记录新00146270，与现有图册编号一致；非仅书法引首。",
+      "localUrl": "assets/collections/treasure-cl-ming-woyou.png",
+      "isDetail": true
+    },
     "category": "书画版刻"
   },
   {
@@ -444,7 +494,17 @@
         "locator": "馆藏页面“简介”及藏品基本信息"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/%E7%9F%B3%E6%B6%9B%E6%90%9C%E5%B0%BD%E5%A5%87%E5%B3%B0%E5%9B%BE%E5%8D%B7.png/1280px-%E7%9F%B3%E6%B6%9B%E6%90%9C%E5%B0%BD%E5%A5%87%E5%B3%B0%E5%9B%BE%E5%8D%B7.png",
+      "credit": "石涛；忠实扫描复制 / Wikimedia Commons",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E7%9F%B3%E6%B6%9B%E6%90%9C%E5%B0%BD%E5%A5%87%E5%B3%B0%E5%9B%BE%E5%8D%B7.png",
+      "caption": "石涛搜尽奇峰图卷·全卷",
+      "identityNote": "搜尽奇峰图卷全卷，Commons登记新00010499，与故宫现有记录一致。",
+      "localUrl": "assets/collections/treasure-cl-qing-shitao.png",
+      "isDetail": false
+    },
     "category": "书画版刻"
   },
   {

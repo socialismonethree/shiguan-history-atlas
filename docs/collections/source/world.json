@@ -104,7 +104,17 @@
         "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Haniwa_-_Warrior_in_Keiko_Armor_cropped.jpg",
+      "credit": "Kakidai / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haniwa_-_Warrior_in_Keiko_Armor_cropped.jpg",
+      "caption": "挂甲武人埴轮；东京国立博物馆 J-36697。",
+      "identityNote": "Commons登记号J-36697与馆方记录一致；采用来源已裁切的照片，本站未再编辑。",
+      "localUrl": "assets/collections/treasure-w-keiko-haniwa.jpg",
+      "isDetail": false
+    },
     "category": "陶瓷"
   },
   {
@@ -250,7 +260,17 @@
         "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Drum%2C_Vietnam%2C_300_BC_to_50_AD%2C_bronze_-_Norton_Simon_Museum_-_Pasadena%2C_CA_-_DSC03195.jpg/960px-Drum%2C_Vietnam%2C_300_BC_to_50_AD%2C_bronze_-_Norton_Simon_Museum_-_Pasadena%2C_CA_-_DSC03195.jpg",
+      "credit": "Daderot / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Drum,_Vietnam,_300_BC_to_50_AD,_bronze_-_Norton_Simon_Museum_-_Pasadena,_CA_-_DSC03195.jpg",
+      "caption": "东山文化铜鼓；诺顿·西蒙博物馆 M.2010.1.210.S。",
+      "identityNote": "照片摄于诺顿·西蒙博物馆。鼓面的四只蛙、同心纹饰、锈蚀与器形均与馆方记录对应；不是其他博物馆的同型铜鼓。",
+      "localUrl": "assets/collections/treasure-w-dongson-drum.jpg",
+      "isDetail": false
+    },
     "category": "青铜金属"
   },
   {
@@ -314,7 +334,17 @@
         "locator": "馆藏条目 Overview / Artwork Details / Provenance；器名、年代、材质及藏品号"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://openaccess-cdn.clevelandart.org/1925.486/1925.486_web.jpg",
+      "credit": "Cleveland Museum of Art, 1925.486",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://www.clevelandart.org/art/1925.486",
+      "caption": "中爪哇蜡染头巾；克利夫兰艺术博物馆 1925.486。",
+      "identityNote": "馆方开放API的藏品编号1925.486与本展签一致。",
+      "localUrl": "assets/collections/treasure-w-java-headcloth.jpg",
+      "isDetail": false
+    },
     "category": "织绣服饰"
   },
   {

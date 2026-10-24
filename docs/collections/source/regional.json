@@ -29,7 +29,17 @@
         "locator": "宁夏博物馆供稿：年代、质地、出土、器形及工艺；馆方文字由考古所官网公开，检索索引可读"
       }
     ],
-    "image": null
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/%E8%A5%BF%E5%A4%8F%E7%8E%8B%E9%99%B5%E9%8E%8F%E9%87%91%E9%93%9C%E7%89%9B.jpg",
+      "credit": "Yanxutong1215 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%A5%BF%E5%A4%8F%E7%8E%8B%E9%99%B5%E9%8E%8F%E9%87%91%E9%93%9C%E7%89%9B.jpg",
+      "caption": "西夏鎏金铜牛展厅实拍。",
+      "identityNote": "宁夏博物馆西夏铜牛；保留拍摄时的表面现状。",
+      "localUrl": "assets/collections/treasure-regional-xixia-bull.jpg",
+      "isDetail": false
+    }
   },
   {
     "id": "treasure-regional-jin-actors",

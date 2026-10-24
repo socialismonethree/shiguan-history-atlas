@@ -60,7 +60,17 @@
         "locator": "尺寸、出土与收藏、功能讨论"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/20250529_Turquoise-inlaid_bronze_plaque_with_beast-mask_motif_in_the_Erlitou_Site_Museum_of_the_Xia_Capital.jpg/960px-20250529_Turquoise-inlaid_bronze_plaque_with_beast-mask_motif_in_the_Erlitou_Site_Museum_of_the_Xia_Capital.jpg",
+      "credit": "Yumeto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20250529_Turquoise-inlaid_bronze_plaque_with_beast-mask_motif_in_the_Erlitou_Site_Museum_of_the_Xia_Capital.jpg",
+      "caption": "嵌绿松石兽面铜牌饰；二里头夏都遗址博物馆藏。摄影：Yumeto；CC BY-SA 4.0。",
+      "identityNote": "与河南博物院展览官方图片https://www.chnmus.net/sitesources/20220120103356553.jpg逐项目视对照：四耳、卷曲纹样和绿松石镶嵌分区一致。官方明确二里头夏都遗址博物馆藏；Commons 同馆实拍。",
+      "localUrl": "assets/collections/treasure-ce-erlitou-plaque.jpg",
+      "isDetail": false
+    },
     "category": "玉石宝饰"
   },
   {
@@ -92,7 +102,17 @@
         "locator": "馆藏精品：纹饰、铭文、重量、铸造工艺"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Bronze_%22Hou_Mu_Wu%22_Ding%2C_Late_Shang_Dynasty.jpg/960px-Bronze_%22Hou_Mu_Wu%22_Ding%2C_Late_Shang_Dynasty.jpg",
+      "credit": "Gary Todd",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bronze_%22Hou_Mu_Wu%22_Ding%2C_Late_Shang_Dynasty.jpg",
+      "caption": "“后母戊”青铜方鼎；中国国家博物馆藏。摄影：Gary Todd；CC0 1.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-houmuwu.jpg",
+      "isDetail": false
+    },
     "category": "青铜金属"
   },
   {
@@ -124,7 +144,17 @@
         "locator": "造型、纹饰及接铸说明"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Largest_Square_Zun_with_Four_Sheep_Heads_from_Shang_Dynasty.jpg/960px-Largest_Square_Zun_with_Four_Sheep_Heads_from_Shang_Dynasty.jpg",
+      "credit": "Refrain",
+      "license": "Public domain",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Largest_Square_Zun_with_Four_Sheep_Heads_from_Shang_Dynasty.jpg",
+      "caption": "四羊方尊；中国国家博物馆藏。摄影：Refrain；Public domain。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-four-rams.jpg",
+      "isDetail": false
+    },
     "category": "青铜金属"
   },
   {
@@ -156,7 +186,17 @@
         "locator": "圆腹方座、纹饰及“克商”专题说明"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Li_Gui%2C_2016-09-09_01.jpg/960px-Li_Gui%2C_2016-09-09_01.jpg",
+      "credit": "Siyuwj",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Li_Gui%2C_2016-09-09_01.jpg",
+      "caption": "利簋；中国国家博物馆藏。摄影：Siyuwj；CC BY-SA 4.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-li-gui.jpg",
+      "isDetail": false
+    },
     "category": "青铜金属"
   },
   {
@@ -188,7 +228,17 @@
         "locator": "《中国国家博物馆展品中的100个故事》：断代、命名与流传"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Da_Yu_ding.jpg/960px-Da_Yu_ding.jpg",
+      "credit": "Gary Todd",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Da_Yu_ding.jpg",
+      "caption": "大盂鼎；中国国家博物馆藏。摄影：Gary Todd；CC BY-SA 4.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-dayu-ding.jpg",
+      "isDetail": false
+    },
     "category": "青铜金属"
   },
   {
@@ -220,7 +270,17 @@
         "locator": "器形、铭文、出土记录"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/%E8%B6%8A%E7%8E%8B%E5%8B%BE%E8%B7%B5%E5%89%91.png/960px-%E8%B6%8A%E7%8E%8B%E5%8B%BE%E8%B7%B5%E5%89%91.png",
+      "credit": "陳寅恪",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E8%B6%8A%E7%8E%8B%E5%8B%BE%E8%B7%B5%E5%89%91.png",
+      "caption": "越王勾践剑；湖北省博物馆藏。摄影：陳寅恪；CC BY-SA 4.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-goujian-sword.png",
+      "isDetail": false
+    },
     "category": "玉石宝饰"
   },
   {
@@ -252,7 +312,17 @@
         "locator": "65件、三层八组、一钟双音、赠钟纪年"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Bianzhong_of_Marquis_Yi_of_Zeng.jpg",
+      "credit": "KongFu Wang",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bianzhong_of_Marquis_Yi_of_Zeng.jpg",
+      "caption": "曾侯乙编钟；湖北省博物馆藏。摄影：KongFu Wang；CC BY-SA 2.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-zeng-bells.jpg",
+      "isDetail": false
+    },
     "category": "木竹漆艺"
   },
   {
@@ -284,7 +354,17 @@
         "locator": "简介与发现历史"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Qin_bronze_chariot_two.jpg/960px-Qin_bronze_chariot_two.jpg",
+      "credit": "Jean-Marie Hullot (Jmhullot)",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qin_bronze_chariot_two.jpg",
+      "caption": "秦陵彩绘铜车马中的二号车；秦始皇帝陵博物院藏。摄影：Jean-Marie Hullot (Jmhullot)；CC BY 3.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-qin-chariots.jpg",
+      "isDetail": false
+    },
     "category": "青铜金属"
   },
   {
@@ -321,7 +401,17 @@
         "locator": "里耶秦简《九九表》木牍图片所附收藏图注"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Liye_Qing_Slips%2C_multiplication_table.jpg/960px-Liye_Qing_Slips%2C_multiplication_table.jpg",
+      "credit": "Ddayzzz",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Liye_Qing_Slips%2C_multiplication_table.jpg",
+      "caption": "里耶秦简“九九表”木牍；龙山县里耶古城（秦简）博物馆藏。摄影：Ddayzzz；CC BY 4.0。",
+      "identityNote": "目视可见完整木牍、上下段和中间破损，左右展板九九口诀释文；照片位于里耶秦简博物馆。",
+      "localUrl": "assets/collections/treasure-ce-liye-table.jpg",
+      "isDetail": false
+    },
     "category": "木竹漆艺"
   },
   {
@@ -353,7 +443,17 @@
         "locator": "展品信息、结构及铭文说明"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Chang_Xin_Gong_Deng_03.jpg",
+      "credit": "我乃野云鹤",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chang_Xin_Gong_Deng_03.jpg",
+      "caption": "长信宫灯；河北博物院藏。摄影：我乃野云鹤；CC BY-SA 4.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-changxin-lamp.jpg",
+      "isDetail": false
+    },
     "category": "青铜金属"
   },
   {
@@ -385,7 +485,17 @@
         "locator": "文物名片、深度品鉴、比较研究"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/20260520_Jade_Suit_Sewn_with_Gold_Thread.jpg/960px-20260520_Jade_Suit_Sewn_with_Gold_Thread.jpg",
+      "credit": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260520_Jade_Suit_Sewn_with_Gold_Thread.jpg",
+      "caption": "永城僖山一号墓金缕玉衣；河南博物院藏。摄影：Windmemories；CC BY-SA 4.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-liang-jade-suit.jpg",
+      "isDetail": false
+    },
     "category": "玉石宝饰"
   },
   {
@@ -486,7 +596,17 @@
         "locator": "形态及俳优社会背景"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ceramic_figure_of_a_story-teller.jpg/960px-Ceramic_figure_of_a_story-teller.jpg",
+      "credit": "Shujianyang",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ceramic_figure_of_a_story-teller.jpg",
+      "caption": "击鼓说唱俑；中国国家博物馆藏。摄影：Shujianyang；CC0 1.0。",
+      "identityNote": "照片标题与馆藏对应，已目视检查器形及图案；使用提供的缩略图，未作裁切或修复。",
+      "localUrl": "assets/collections/treasure-ce-storyteller.jpg",
+      "isDetail": false
+    },
     "category": "陶瓷"
   },
   {
@@ -518,7 +638,17 @@
         "locator": "出土、收藏、无损检测及争议说明"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Gansu_Museum_2007_258.jpg/960px-Gansu_Museum_2007_258.jpg",
+      "credit": "G41rn8",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gansu_Museum_2007_258.jpg",
+      "caption": "铜奔马实物图",
+      "identityNote": "甘肃省博物馆铜奔马实物照片。来源明确为该馆东汉铜奔马，非美国复制品。",
+      "localUrl": "assets/collections/treasure-ce-galloping-horse.jpg",
+      "isDetail": false
+    },
     "category": "青铜金属"
   },
   {
@@ -722,7 +852,7 @@
     "start": 484,
     "end": 484,
     "material": "木胎、漆和彩绘",
-    "museum": "山西博物院（所据展览借展件）",
+    "museum": "大同市博物馆、山西博物院分藏",
     "inventory": "",
     "provenance": "山西大同司马金龙墓出土；良渚博物院借展页面记山西博物院藏",
     "description": "朱色底上以黑线勾出人物、衣纹和器物，故事分段展开，并附榜题文字。画面选择列女、先贤等题材，着装与细长飘带又反映南北文化交汇。应逐段阅读人物关系，避免把相隔千年的故事人物误认成同一时代的生活合影。",
@@ -732,17 +862,32 @@
       "看中心人物与陪衬人物的大小关系。",
       "看朱底黑线与衣纹色彩的配合。"
     ],
-    "note": "484为墓主卒葬时代，非屏板上精确制作纪年；分藏与借展件应以各馆登记为准。",
+    "note": "484为墓主卒葬时代，非屏板上精确制作纪年；分藏与借展件应以各馆登记为准。 本图为大同分藏屏板局部，不是原展览中山西博物院借展的那一块。",
     "sourceIds": [
-      "oa-ce-sima-screen"
+      "oa-ce-sima-screen",
+      "oa-image-sima-distribution"
     ],
     "citations": [
       {
         "sourceId": "oa-ce-sima-screen",
         "locator": "藏品图注、题材与技法介绍"
+      },
+      {
+        "sourceId": "oa-image-sima-distribution",
+        "locator": "第16版司马金龙墓漆画图注：山西省博物馆、大同市博物馆分藏"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lacquer_painting_over_wood2%2C_Northern_Wei.jpg",
+      "credit": "北魏佚名画工；大同市博物馆图像，Wikimedia Commons",
+      "license": "Public domain / PD-Art",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lacquer_painting_over_wood2,_Northern_Wei.jpg",
+      "caption": "司马金龙墓彩绘人物故事漆屏风（分藏板画局部）",
+      "identityNote": "司马金龙墓彩绘屏风分藏板画局部；此图来源标为大同市博物馆，不应标成山西博物院特定借展件。原数据已提醒分藏，此图展签须明示大同分藏板画局部。",
+      "localUrl": "assets/collections/treasure-ce-sima-screen.jpg",
+      "isDetail": true
+    },
     "category": "木竹漆艺"
   },
   {
@@ -806,7 +951,17 @@
         "locator": "项链图注与金环、珍珠、坠饰说明"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Li_Jingxun_necklace.jpg/960px-Li_Jingxun_necklace.jpg",
+      "credit": "Gary Todd；Wikimedia Commons 裁切版",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Li_Jingxun_necklace.jpg",
+      "caption": "李静训墓嵌珍珠宝石金项链实物图",
+      "identityNote": "图名明确李静训项链；可见镂空金珠、圆形红宝石牌与心形蓝宝石坠。来源旧文件Tang Necklace并非正确隋代断代，网站沿用国博608年入葬断代。",
+      "localUrl": "assets/collections/treasure-ce-li-necklace.jpg",
+      "isDetail": false
+    },
     "category": "玉石宝饰"
   },
   {
@@ -838,7 +993,17 @@
         "locator": "断代、尺寸、双腹与环系说明"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/%E7%99%BD%E9%87%89%E9%BE%99%E6%9F%84%E5%8F%8C%E8%81%94%E4%BC%A0%E7%93%B6.png",
+      "credit": "HaziiDozen",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:白釉龙柄双联传瓶.png",
+      "caption": "白釉龙柄联腹传瓶实物图",
+      "identityNote": "Commons归类天津博物馆陶瓷；描述明示与国博一件形制相同但非同件。天津馆藏照片，国博出土记录不移用。",
+      "localUrl": "assets/collections/treasure-ce-sui-double-vase.png",
+      "isDetail": false
+    },
     "category": "陶瓷"
   },
   {
@@ -902,7 +1067,17 @@
         "locator": "五人组合、残存乐器与百戏解释"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/20251026_Sancai-glazed_Pottery_Musician_on_Camelback.jpg/960px-20251026_Sancai-glazed_Pottery_Musician_on_Camelback.jpg",
+      "credit": "Windmemories",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20251026_Sancai-glazed_Pottery_Musician_on_Camelback.jpg",
+      "caption": "三彩釉陶载乐骆驼（五人组）实物图",
+      "identityNote": "2025年10月26日国博实物摄影，来源中英均明确国博藏；五人载乐组合，非陕西历史博物馆八人作品。",
+      "localUrl": "assets/collections/treasure-ce-camel-musicians.jpg",
+      "isDetail": false
+    },
     "category": "陶瓷"
   },
   {
@@ -934,7 +1109,17 @@
         "locator": "登记号、无款与著录、场景和笔法"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/%E9%98%AE%E9%83%9C%E9%98%86%E8%8B%91%E5%A5%B3%E4%BB%99%E5%9B%BE%E5%8D%B7.jpg/1280px-%E9%98%AE%E9%83%9C%E9%98%86%E8%8B%91%E5%A5%B3%E4%BB%99%E5%9B%BE%E5%8D%B7.jpg",
+      "credit": "阮郜名下传世作；故宫博物院图像 / Wikimedia Commons",
+      "license": "Public domain / PD-Art",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:阮郜阆苑女仙图卷.jpg",
+      "caption": "阮郜《阆苑女仙图》卷实物图",
+      "identityNote": "Commons精确登记号新00138447，与本站一致；忠实平面复制，题跋及装裱亦可见。署名仍标阮郜名下。",
+      "localUrl": "assets/collections/treasure-ce-langyuan.jpg",
+      "isDetail": false
+    },
     "category": "书画版刻"
   },
   {
@@ -966,7 +1151,17 @@
         "locator": "宋摹本、1163—1224年、五段叙事及创作缘由讨论"
       }
     ],
-    "image": null,
+    "image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Gu_Hongzhong%27s_Night_Revels_1.jpg/960px-Gu_Hongzhong%27s_Night_Revels_1.jpg",
+      "credit": "宋代佚名摹顾闳中；故宫博物院藏 / Wikimedia Commons",
+      "license": "Public domain / PD-Art",
+      "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gu_Hongzhong's_Night_Revels_1.jpg",
+      "caption": "《韩熙载夜宴图》卷（宋摹本）（半卷局部）",
+      "identityNote": "来源明确故宫宋代摹本的半卷，不是另一摹本；展示仅半卷局部。",
+      "localUrl": "assets/collections/treasure-ce-han-xizai.jpg",
+      "isDetail": true
+    },
     "category": "书画版刻"
   }
 ]
