@@ -1,0 +1,47 @@
+{
+  "version": "0.10.0",
+  "checkedAt": "2026-10-26",
+  "files": [
+    "early.json",
+    "middle.json",
+    "late.json"
+  ],
+  "sources": [
+    {
+      "id": "party-institution-methodology",
+      "title": "中共中央党史和文献研究院网站简介",
+      "author": "中共中央党史和文献研究院",
+      "url": "https://www.dswxyjy.org.cn/n1/2019/0707/c428475-31218223.html",
+      "type": "机构说明",
+      "checkedAt": "2026-10-25",
+      "note": "用于核实2018年原中央党史研究室等机构职责整合组建新院的沿革，不作为具体历史事件的独立证据。"
+    },
+    {
+      "id": "party-old-annual-catalog",
+      "title": "中国共产党大事记·逐年资料目录",
+      "author": "原中共中央党史研究室；人民网资料中心刊载",
+      "url": "https://cpc.people.com.cn/GB/64162/64164/index1.html",
+      "type": "编研资料目录",
+      "checkedAt": "2026-10-25",
+      "note": "原中央党史研究室年度大事记按年展开；早期年份见目录第二页，具体事件引用单年资料。旧版保留原署名，事实与较新编研资料对照；不转载其原文。"
+    },
+    {
+      "id": "party-old-annual-catalog-early",
+      "title": "中国共产党大事记·早期逐年资料目录",
+      "author": "原中共中央党史研究室；人民网资料中心刊载",
+      "url": "https://cpc.people.com.cn/GB/64162/64164/index2.html",
+      "type": "编研资料目录",
+      "checkedAt": "2026-10-25",
+      "note": "1921—1952等年份的资料入口；仅用于导航与来源沿革，不以目录本身替代具体条目证据。"
+    }
+  ],
+  "supplements": [
+    "social-history-supplement.json",
+    "people-supplement.json"
+  ],
+  "personAliases": {
+    "博古": "博古（秦邦宪）",
+    "秦邦宪": "博古（秦邦宪）"
+  },
+  "personAliasBasis": "2021年百年大事记1931年1月7日相关段明确博古即秦邦宪；只合并已核实别名，不按相似姓名自动合并。"
+}
