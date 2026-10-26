@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.10.0",
-  "runtimeFiles": 338,
-  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。",
+  "websiteVersion": "0.10.1",
+  "runtimeFiles": 360,
+  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -17,7 +17,7 @@
     },
     {
       "path": "docs/app.js",
-      "sha256": "b54f21b4b1ce6d5fee2f36d738bb3f4a070e1a92101952d89a514c8a1b8059d4"
+      "sha256": "f233f2f29420ff133f8fb4dff04e1665196f4ec5fab72a9823bc2e821333b733"
     },
     {
       "path": "docs/assets/README.md",
@@ -240,6 +240,86 @@
       "sha256": "5ea6e64f23b7521539f5af331bc1d00a4aa085e95a8a4983855e8b4cd67a6da3"
     },
     {
+      "path": "docs/assets/era-patterns/catalog.json",
+      "sha256": "7f5e4dd5134a2c82eb877e6f7b61de6e7f90cb6f4f8df7700bb8afb4694de5a0"
+    },
+    {
+      "path": "docs/assets/era-patterns/eastern-han.svg",
+      "sha256": "fa60447b60dc66a82f662e12272479c49cd14ee3fa30a76207f95e1e1938ab44"
+    },
+    {
+      "path": "docs/assets/era-patterns/eastern-jin.svg",
+      "sha256": "8b3fe434b25aedb66793c3de33705926d33b13de34392188752f5aa02ed59afc"
+    },
+    {
+      "path": "docs/assets/era-patterns/eastern.svg",
+      "sha256": "e2693519b32c6bc598da09057d70ff77b8149f6213028502b4c40181f8f4471f"
+    },
+    {
+      "path": "docs/assets/era-patterns/five-dynasties.svg",
+      "sha256": "25c55fff0277e93a753af33a5099e1b0659a62edbd215bf92564a0c6d665844d"
+    },
+    {
+      "path": "docs/assets/era-patterns/han.svg",
+      "sha256": "7dd43ce4a971206a03156f79aeb84937308982ad41175041ef65e8adc145441c"
+    },
+    {
+      "path": "docs/assets/era-patterns/ming.svg",
+      "sha256": "6c22eb5bac4aeac07ad3db4cee0efa2d9d76f7be03452c88c6a6e7ddf8abb6b6"
+    },
+    {
+      "path": "docs/assets/era-patterns/north-south.svg",
+      "sha256": "2b7e89e0f0a3406b3f8989d41a8ac90dfd2e0cfd5ddf2e1584b20b79b110c8d6"
+    },
+    {
+      "path": "docs/assets/era-patterns/qin.svg",
+      "sha256": "288dd95da512015cbf1ac9f1a2a36bebed27192af35df691a39f1b02d2effebc"
+    },
+    {
+      "path": "docs/assets/era-patterns/qing.svg",
+      "sha256": "7bb9f5d4f1ba9272888409b889a35b0c728c9375bcf3289205cc5e3977b2feb7"
+    },
+    {
+      "path": "docs/assets/era-patterns/shang.svg",
+      "sha256": "865f8cd6d9cd1b1618289cbba4a96c788ff7f87c4670e3dc135b6ce17482958a"
+    },
+    {
+      "path": "docs/assets/era-patterns/song-liao-xia-jin.svg",
+      "sha256": "e57b4abde488dca4d044a9af3df0e3d28ee36dcbe4846f64599c55c9dcaa3703"
+    },
+    {
+      "path": "docs/assets/era-patterns/sui.svg",
+      "sha256": "561db53f35eaecc54db315afdc211f50def8c6c1fe0af86a45fc9b9d8e3c82c9"
+    },
+    {
+      "path": "docs/assets/era-patterns/tang.svg",
+      "sha256": "b53855205f7acc7a0623a22107a01c0913ea026fe00fce7e523e549eb7627167"
+    },
+    {
+      "path": "docs/assets/era-patterns/three-kingdoms.svg",
+      "sha256": "d251518b6b0f0e13b573c52d851cd3992d4092c3166511062e95ec9ae614b69d"
+    },
+    {
+      "path": "docs/assets/era-patterns/western-jin.svg",
+      "sha256": "864b9f869c7f99efcaea3927525aa9ebee63ec4fbe2e8ca78f567d33640cd77b"
+    },
+    {
+      "path": "docs/assets/era-patterns/xia.svg",
+      "sha256": "6e7e8988a7577ca67715cf70eed550c69ec92729d1833a65517e47e7035f3476"
+    },
+    {
+      "path": "docs/assets/era-patterns/xin.svg",
+      "sha256": "70b96c9842bf3d5bdd045e49c89728bcc96c51941949ce5098e727a13a3e45a9"
+    },
+    {
+      "path": "docs/assets/era-patterns/yuan.svg",
+      "sha256": "d24499f6c99aac4816ad5c60e1200e3708cec7b1fd6dcdb2c28925ce842f7864"
+    },
+    {
+      "path": "docs/assets/era-patterns/zhou.svg",
+      "sha256": "9531050d7617ffa1db80a91a8403498251cb6c17f9b9a33346793710c2b26be0"
+    },
+    {
       "path": "docs/assets/ne_110m_land.geojson",
       "sha256": "9e0729ee253ca7d7a5c4ae9395fb1902264c5377c52e224d13dd85010e2835d9"
     },
@@ -432,8 +512,16 @@
       "sha256": "662b3551fa4ce83a1ca57372e340bc89d29ab02640886b196bebed234b16a1f4"
     },
     {
+      "path": "docs/era-patterns.css",
+      "sha256": "5dde5f9a7c9897d45c08c163d30e413760cb78cc9d18d83d77415703a402ccaf"
+    },
+    {
+      "path": "docs/era-patterns.js",
+      "sha256": "004fdac24c49c545c3d817469fbae8af1658c2bdae71eb8477f90953bf9c4ae6"
+    },
+    {
       "path": "docs/exhibition.css",
-      "sha256": "5cbd64a077dfe1c962f0b2689d3b1ec6e93c802408b3b9c6de5c908350fbbc8b"
+      "sha256": "340c22b302d80e51cefc1836ac24f68951babc15dd12e35a61a05f3a59315e96"
     },
     {
       "path": "docs/expanded/00-sources.js",
@@ -709,7 +797,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "9e807374d967580a4b69ed27f923640792d53805ed60a97610d4bace8b90efe4"
+      "sha256": "7d3b9884acccb2be3d8a6b3da4efa9a9806e6e9a2f47b7d550af18bfd1494207"
     },
     {
       "path": "docs/knowledge.css",
