@@ -28,3 +28,6 @@ body[data-theme="qing"]{--era-pattern:url("assets/era-patterns/qing.svg?v=0.10.2
 .pattern-study{height:300px;margin:0 0 24px;border:1px solid var(--line);background:var(--deep);position:relative}.pattern-study:after{content:"";position:absolute;inset:0;background-image:var(--era-pattern);background-size:240px 280px;background-repeat:repeat;background-position:center;opacity:1;-webkit-mask:none;mask:none}
 .pattern-description{display:grid;grid-template-columns:1fr 1fr;gap:0 28px;border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:16px}.pattern-description h3{grid-row:1}.pattern-description p{grid-row:2;margin-top:0}.pattern-boundary{border-left:2px solid var(--gold);padding:12px 16px;background:var(--wash)}
 @media(max-width:760px){.era-pattern-link{display:none}.sidebar nav button{background:color-mix(in srgb,var(--deep) 88%,transparent)}.pattern-description{display:block}.pattern-study{height:240px}}
+
+/* Compact, explicit label for the combined Eastern Jin and Sixteen Kingdoms period. */
+#periods [data-period="eastern-jin"] .era-mark{font-size:14px;letter-spacing:0;white-space:nowrap}
