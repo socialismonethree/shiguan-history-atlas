@@ -1,28 +1,32 @@
 {
-  "version": "0.10.1",
-  "scope": "十九个中国时期的原创历史意象暗纹；不是文物复原或独占纹样断代。",
+  "version": "0.10.2",
+  "scope": "十九时期织锦式原创界面图案；以服饰织绣及可靠器物纹饰为依据，不冒充出土衣料复原。",
   "checkedAt": "2026-10-26",
   "patterns": [
     {
       "id": "xia",
-      "name": "松石嵌片",
+      "name": "松石羽目锦",
       "asset": "assets/era-patterns/xia.svg",
-      "width": 96,
-      "height": 120,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "以对称羽目与嵌片强调早期礼仪器物的秩序和精工。",
+      "technique": "嵌片密地 · 羽目主纹 · 经纬细理",
       "reference": {
         "title": "镶嵌绿松石兽面纹牌饰 · 上海博物馆",
         "url": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00010967"
       },
-      "note": "取二里头绿松石牌饰的对称轮廓和嵌片分区作几何化设计。二里头文化与夏王朝的对应仍有讨论；本纹样不作为夏代服饰复原。"
+      "note": "以二里头绿松石牌饰的眼纹、对称结构和嵌片为依据，重新组织成织物式满地纹。这里借用的是器物纹饰，不声称现存夏代服饰原来如此。二里头文化与夏王朝的对应仍有讨论。"
     },
     {
       "id": "shang",
-      "name": "兽面雷地",
+      "name": "夔龙雷地锦",
       "asset": "assets/era-patterns/shang.svg",
-      "width": 112,
-      "height": 112,
-      "opacity": 0.148,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "以正面兽目、夔龙曲折和雷地构成庄严的礼仪气氛。",
+      "technique": "兽面主纹 · 夔龙边饰 · 回折细地",
       "reference": {
         "title": "青铜器纹饰 · 康县博物馆",
         "url": "https://www.kxbwg.cn/html/2025/gzdt_0701/372.html"
@@ -31,224 +35,258 @@
     },
     {
       "id": "zhou",
-      "name": "垂冠凤鸟",
+      "name": "冠凤重环锦",
       "asset": "assets/era-patterns/zhou.svg",
-      "width": 112,
-      "height": 104,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "以相向冠凤和重环纹带表现周代礼乐与鸟纹的装饰秩序。",
+      "technique": "对凤重环 · 细羽填绣 · 礼器纹带",
       "reference": {
         "title": "西周青铜器纹饰的抽象化和序列化 · 良渚博物院",
         "url": "https://www.lzmuseum.cn/MeiTiBaoDao/2022313800316.html"
       },
-      "note": "选择西周部分青铜器的垂冠凤鸟意象，以曲颈、长尾取代商代兽面轴线；凤鸟并非整个西周唯一或始终占主导的纹饰。"
+      "note": "采用西周青铜器冠凤、曲颈长尾和序列纹带的形式，重绘为密织装饰。鸟纹与重环来自器物语汇，丝线质感为网站设计，不冒充西周衣料复原。"
     },
     {
       "id": "eastern",
-      "name": "盘曲螭龙",
+      "name": "龙凤交绮锦",
       "asset": "assets/era-patterns/eastern.svg",
-      "width": 100,
-      "height": 100,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "龙凤交错与星形小纹共同呈现战国织绣富于想象的神兽世界。",
+      "technique": "对龙对凤 · 交错锦带 · 菱地星花",
       "reference": {
-        "title": "蟠螭纹盉 · 故宫博物院",
-        "url": "https://www.dpm.org.cn/collection/bronze/233189.html"
+        "title": "对龙对凤纹锦 · 中国丝绸博物馆",
+        "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=2209"
       },
-      "note": "参考战国青铜器的盘曲龙躯与交错纹带，设计相扣的曲线单元；属于春秋战国板块的选取意象。"
+      "note": "以战国对龙对凤纹锦的龙凤组合、分区与几何辅纹为依据；参考品的红棕白分区没有照搬，颜色延续本站春秋战国主题。馆方对图腾的解释有推测性质，不据此断言整个王朝只有一种图腾。"
     },
     {
       "id": "qin",
-      "name": "葵纹瓦当",
+      "name": "玄地葵甲锦",
       "asset": "assets/era-patterns/qin.svg",
-      "width": 104,
-      "height": 104,
-      "opacity": 0.17,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "以放射葵瓣、套菱与玄色形成规整、凝练的秦代视觉印象。",
+      "technique": "葵瓣叠绣 · 交叠菱地 · 密织玄底",
       "reference": {
         "title": "秦葵纹瓦当 · 陕西历史博物馆",
         "url": "https://www.sxhm.com/collections/detail/8240.html"
       },
-      "note": "取秦代葵纹瓦当的圆形构图与放射骨架，重绘为稀疏的瓦当印痕；没有借用后世龙袍纹样。"
+      "note": "主纹依据秦葵纹瓦当的放射构图，辅纹作交叠菱格和密织细地。不是秦代衣料的原样复原，也不将器物花纹当成秦人唯一的服饰图案。"
     },
     {
       "id": "han",
-      "name": "流云山气",
+      "name": "云气乘龙锦",
       "asset": "assets/era-patterns/han.svg",
-      "width": 112,
-      "height": 100,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "云气、瑞兽与连绵织地提示汉锦中对仙境、神意和丰足的想象。",
+      "technique": "云气骨架 · 瑞兽填纹 · 五色锦意",
       "reference": {
         "title": "云气立鸟纹锦 · 中国丝绸博物馆",
         "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=2211"
       },
-      "note": "参考汉锦以山状云为骨架、纬向起伏的构图，保留舒展云气而省略鸟兽和铭文；馆藏年代为汉，不限定为单一西汉织物。"
+      "note": "参考汉代云气动物纹锦的波状骨架与神兽题材，以织绣式线理重绘。馆藏编年为汉，网站选作西汉入口意象，不声称这块参考织物可严格限于西汉。"
     },
     {
       "id": "xin",
-      "name": "泉布错列",
+      "name": "连璧绶带锦",
       "asset": "assets/era-patterns/xin.svg",
-      "width": 104,
-      "height": 136,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "相连的璧形与绶带，在此作为两汉之际“承续与改作”的设计意象。",
+      "technique": "连璧锦带 · 八瓣细花 · 同心环绣",
       "reference": {
-        "title": "王莽钱币 · 中国国家博物馆",
-        "url": "https://www.chnmuseum.cn/zp/zpml/hb/202008/t20200824_247119.shtml"
+        "title": "连璧以通天：汉晋时期流行的连璧锦 · 宁夏文物考古研究所",
+        "url": "https://www.nxkg.org.cn/silukaogu/1003.html"
       },
-      "note": "以圆钱方孔和货布轮廓错列，提示王莽时期的币制改作。这是钱币形制构成的现代暗纹，不称作新莽织锦。"
+      "note": "依据东汉至魏晋连璧锦研究作跨期语汇参考，取璧形和绶带连续骨架；这不是一件已被证明年代为公元9—25年的新莽衣料。为避免伪造实物，不织入虚构铭文。"
     },
     {
       "id": "eastern-han",
-      "name": "汉砖菱格",
+      "name": "菱锦长葆纹",
       "asset": "assets/era-patterns/eastern-han.svg",
-      "width": 80,
-      "height": 112,
-      "opacity": 0.133,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "套菱满地与四瓣辅花取自汉晋锦的装饰语汇；“长葆”呼应对子孙长久的祝愿。",
+      "technique": "满地菱锦 · 四瓣填花 · 连续纬理",
       "reference": {
-        "title": "藏品总目（十八）· 萍乡博物馆",
-        "url": "https://www.pxmuseum.com/h-nd-3470.html"
+        "title": "锦绣丝路大方巾：东汉菱纹“阳”字锦袜与汉晋云兽锦 · 中国丝绸博物馆",
+        "url": "https://chinasilkmuseum.com/gskt/info_319.aspx?itemid=28636"
       },
-      "note": "参考馆藏东汉菱形纹墓砖的几何语汇，采用断开的套菱与压印节奏；与西汉流云的横向动势区别开。"
+      "note": "主要参考东汉菱纹“阳”字锦袜的满地菱纹与四瓣幅边花。长葆是汉锦吉语的设计命名，不是对该锦袜铭文的照抄；图案不加入未经复核的历史文字。"
     },
     {
       "id": "three-kingdoms",
-      "name": "青瓷水波",
+      "name": "虎头连璧锦",
       "asset": "assets/era-patterns/three-kingdoms.svg",
-      "width": 96,
-      "height": 104,
-      "opacity": 0.163,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "虎与连璧呼应曹丕谈及的“如意虎头连璧锦”，呈现魏蜀织锦竞争的一条线索。",
+      "technique": "瑞虎主纹 · 连璧珠环 · 细锦菱地",
       "reference": {
-        "title": "三国青瓷洗 · 余杭博物馆供稿",
-        "url": "https://z.hangzhou.com.cn/2020/rwwhql/content/content_7729041.htm"
+        "title": "连璧以通天：汉晋时期流行的连璧锦 · 宁夏文物考古研究所",
+        "url": "https://www.nxkg.org.cn/silukaogu/1003.html"
       },
-      "note": "采用三国青瓷洗上轮印水波与弦纹的启发，组成成组短波带。它代表江南青瓷的一种面貌，不概括魏蜀吴全部艺术。"
+      "note": "据研究所援引的三国连璧锦文献与汉晋实物构图重新设计。图中的虎形与排列为原创，不声称就是文献所载织锦的原图。"
     },
     {
       "id": "western-jin",
-      "name": "印信方折",
+      "name": "山云瑞兽锦",
       "asset": "assets/era-patterns/western-jin.svg",
-      "width": 96,
-      "height": 112,
-      "opacity": 0.141,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "云山间的瑞兽和立鸟，延续汉晋织锦对丰收、长久与神异世界的表达。",
+      "technique": "云山锦地 · 瑞兽立鸟 · 分区经锦",
       "reference": {
-        "title": "晋归义氐王金印 · 上海博物馆",
-        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00000696"
+        "title": "锦程展：东汉晚期至晋“恩泽”锦与“无极”锦 · 中国丝绸博物馆",
+        "url": "https://chinasilkmuseum.com/zz/info_17.aspx?itemid=26320"
       },
-      "note": "从西晋金印的方形印面与疏密布局提炼方折结构。内部为无字几何，不冒充真实篆文或晋代织物。"
+      "note": "参考馆藏东汉晚期至晋织锦中的连续云气、岩石、立鸟与神兽。参考编年跨越多个时期，网站选作西晋入口的汉晋连续传统意象，不据此硬断为西晋原物。"
     },
     {
       "id": "eastern-jin",
-      "name": "刻莲疏影",
+      "name": "绶云鸾影锦",
       "asset": "assets/era-patterns/eastern-jin.svg",
-      "width": 104,
-      "height": 132,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "回旋云带与细羽相接，表现汉晋织锦的延续和南北交流的时代气息。",
+      "technique": "长尾羽绣 · 云带填地 · 细锦交织",
       "reference": {
-        "title": "青釉褐彩刻花莲瓣纹壶 · 上海博物馆",
-        "url": "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/CI00004871"
+        "title": "汉晋“岁大孰常葆子孙熙兄弟茂盛”锦 · 中国丝绸博物馆",
+        "url": "https://www.chinasilkmuseum.com/zggd/info_21.aspx?itemid=2222"
       },
-      "note": "参考东晋越窑壶上尖锐刻划的莲瓣轮廓，以单株尖瓣、较大留白呈现，不与五代的层叠覆莲重复。"
+      "note": "参考汉晋锦的如意云、吉语与袖管用途，并结合馆藏“恩泽”锦的立鸟题材作原创组合。参考资料不能精确代表东晋与十六国所有地区衣料，羽鸟是设计演绎。"
     },
     {
       "id": "north-south",
-      "name": "扇形忍冬",
+      "name": "忍冬莲华锦",
       "asset": "assets/era-patterns/north-south.svg",
-      "width": 112,
-      "height": 120,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "忍冬卷叶与莲华组合，呼应南北朝佛教艺术的传播与装饰交融。",
+      "technique": "扇形忍冬 · 多层莲华 · 卷叶锦地",
       "reference": {
         "title": "北朝扇形忍冬纹样及其西方来源 · 故宫博物院院刊",
         "url": "https://www.dpm.org.cn/journal/249837.html"
       },
-      "note": "参考北朝以C形藤蔓为骨架的扇形忍冬，重绘为翻卷叶束。这是南北朝板块中北朝材料的选取，不代表南北各地完全一致。"
+      "note": "参考北朝扇形忍冬研究，采用C形枝蔓和扇形叶束，再与莲华装饰重新组合。以佛教艺术材料的交融营造时期氛围，不将这幅满地绣当成出土服饰。"
     },
     {
       "id": "sui",
-      "name": "联珠团窠",
+      "name": "联珠宝蕊锦",
       "asset": "assets/era-patterns/sui.svg",
-      "width": 108,
-      "height": 124,
-      "opacity": 0.163,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "联珠团窠中心填花，呼应隋代织绣中规整的团窠构图与交流气息。",
+      "technique": "联珠双环 · 六出宝蕊 · 十字宾花",
       "reference": {
         "title": "隋团窠联珠花卉纹绣 · 中国丝绸博物馆",
         "url": "https://chinasilkmuseum.com/zggd/info_21.aspx?itemid=2855"
       },
-      "note": "参考隋代绣品以细密联珠组成团窠、中心填花卉的布局；重点在圆环与珠点，有别于唐代舒张花瓣。"
+      "note": "直接参考隋团窠联珠花卉纹绣的锁绣、联珠圆环与填花布局；把环外空间补成十字宾花和枝叶锦地，新增部分为现代设计。"
     },
     {
       "id": "tang",
-      "name": "八瓣宝相",
+      "name": "宝花瑞禽锦",
       "asset": "assets/era-patterns/tang.svg",
-      "width": 132,
-      "height": 140,
-      "opacity": 0.17,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "重瓣宝花、瑞禽与卷叶满地，表现唐代织锦饱满华美、吸收多方纹饰的面貌。",
+      "technique": "重瓣宝花 · 瑞禽填角 · 卷叶织金",
       "reference": {
-        "title": "宝相花铜镜 · 中国国家博物馆",
-        "url": "https://www.chnmuseum.cn/zp/zpml/csp/202008/t20200826_247454.shtml"
+        "title": "立狮宝花纹锦的故事 · 中国丝绸博物馆",
+        "url": "https://www.chinasilkmuseum.com/gskt/info_319.aspx?itemid=31698"
       },
-      "note": "参考唐镜植物纹饰中的宝相花，以重瓣放射、珠蕊和饱满花冠呈现。是抽象团花设计，不复制馆藏图像。"
+      "note": "参考唐代宝花与动物组合的织锦结构，以及宝花纹锦半臂的服饰背景。本设计改用瑞禽与多层花瓣填满画面；并非某一件唐锦或服装的逐线复原。"
     },
     {
       "id": "five-dynasties",
-      "name": "叠瓣越瓷",
+      "name": "叠莲华绫纹",
       "asset": "assets/era-patterns/five-dynasties.svg",
-      "width": 112,
-      "height": 110,
-      "opacity": 0.148,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "层叠莲瓣和绵延卷叶，呼应五代器物中莲花的宗教意涵与江南精工。",
+      "technique": "叠瓣莲华 · 连续卷叶 · 花绫满地",
       "reference": {
         "title": "莲瓣纹青瓷钵 · 中国国家博物馆",
         "url": "https://www.chnmuseum.cn/zp/zpml/kgfjp/202111/t20211116_252288.shtml"
       },
-      "note": "采用五代越窑莲瓣纹青瓷钵层层叠压的覆莲意象，设计宽瓣套叠；不把南方越窑风格当作五代十国的唯一风格。"
+      "note": "以五代越窑莲瓣纹青瓷钵的层层叠瓣为可靠造型依据，转译为锦绣式界面。此处不虚构五代衣料实物，也不将越窑风格代表五代十国全域。"
     },
     {
       "id": "song-liao-xia-jin",
-      "name": "折枝牡丹",
+      "name": "衔绶花窠锦",
       "asset": "assets/era-patterns/song-liao-xia-jin.svg",
-      "width": 116,
-      "height": 136,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "衔绶禽鸟与花窠组合，呈现唐宋间纹样流传和辽地服饰所见的交融。",
+      "technique": "衔绶对禽 · 花窠珠边 · 精细花地",
       "reference": {
-        "title": "白釉珍珠地划花折枝牡丹纹枕 · 故宫博物院",
-        "url": "https://www.dpm.org.cn/collection/ceramic/227586.html"
+        "title": "雁衔绶带锦袍与历代服饰 · 中国丝绸博物馆",
+        "url": "https://chinasilkmuseum.com/yz/info_18.aspx?itemid=26689"
       },
-      "note": "取宋代瓷枕折枝牡丹的划花意象，采用偏心花枝与细叶留白。本站将宋辽夏金合并为时期入口，此处只选宋瓷作为主题，不宣称四个政权共用同一纹样。"
+      "note": "以辽墓出土雁衔绶带锦袍及其唐代晚期服装面料传统为参考。原创禽鸟增加卷尾装饰，未照摹原袍；本合并时期入口选取辽地材料，不声称宋辽夏金共用同一衣制。"
     },
     {
       "id": "yuan",
-      "name": "织金团窠",
+      "name": "织金宝窠锦",
       "asset": "assets/era-patterns/yuan.svg",
-      "width": 128,
-      "height": 132,
-      "opacity": 0.163,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "金线团窠与多瓣宝花，呼应元代纳石失织金锦的华贵材质和欧亚交流。",
+      "technique": "织金满地 · 折角花窠 · 宝蕊层绣",
       "reference": {
         "title": "Cloth of Gold with Medallions · 大都会艺术博物馆（2001.595）",
         "url": "https://www.metmuseum.org/art/collection/search/64101"
       },
-      "note": "参考元代纳石失织金锦的重复团窠构图，重绘为折角外框与中心花叶；折角形态为网站设计，不宣称原物即为此八角纹。"
+      "note": "依据元代纳石失织金锦的重复团窠和金属线材质，重新绘制宝花、折角外框与卷叶辅地。金线光泽是界面模拟，不声称真实织造工艺或原物就是此花形。"
     },
     {
       "id": "ming",
-      "name": "缠枝莲蔓",
+      "name": "四合云凤锦",
       "asset": "assets/era-patterns/ming.svg",
-      "width": 116,
-      "height": 128,
-      "opacity": 0.155,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "四合云骨架内织凤，寓意取法衣料中的祥瑞与富丽，而非一个朝代唯一的象征。",
+      "technique": "四合云窠 · 细羽团凤 · 妆花锦地",
       "reference": {
-        "title": "青花缠枝莲纹梅瓶 · 中国国家博物馆",
-        "url": "https://www.chnmuseum.cn/zp/zpml/csp/202203/t20220316_254334.shtml"
+        "title": "绿地云凤纹暗花缎短袄与明代服饰 · 中国丝绸博物馆",
+        "url": "https://chinasilkmuseum.com/yz/info_18.aspx?itemid=26689"
       },
-      "note": "从明代青花瓷的缠枝莲、花蕾与枝蔓取意，连续S形双茎联结莲花；以器物纹样营造时代氛围，不等同于全社会统一审美。"
+      "note": "参考明代云凤纹暗花缎女服的四合云连接菱形、其间填团凤的结构，结合明代宫廷丝绸研究重绘。时代配色和凤羽形态为网站设计，不照搬整件衣料。"
     },
     {
       "id": "qing",
-      "name": "云蝠如意",
+      "name": "盘金龙云锦",
       "asset": "assets/era-patterns/qing.svg",
-      "width": 120,
-      "height": 148,
-      "opacity": 0.163,
+      "width": 208,
+      "height": 243,
+      "opacity": 0.84,
+      "meaning": "彩云金龙与密绣辅纹，呼应清代宫廷吉服中的皇权表达和吉祥意涵。",
+      "technique": "盘金龙躯 · 彩云密地 · 金线针理",
       "reference": {
-        "title": "青玉凤蝠纹如意 · 故宫博物院",
-        "url": "https://www.dpm.org.cn/collection/utensil/236314.html"
+        "title": "黄纱绣彩云金龙单袍 · 故宫博物院",
+        "url": "https://www.dpm.org.cn/collection/embroider/230506.html"
       },
-      "note": "参考清代如意头灵芝形、蝙蝠与吉祥图案，设计云蝠和如意头上下交替；不将吉祥意涵误作具体历史事件。"
+      "note": "参考清乾隆龙袍中密实刺绣、流云与金龙等服饰元素，模拟金线针理和辅地的层次；不是清代所有人共同的衣着，也不是该袍纹样或针法的精确复原。"
     }
   ]
 }
