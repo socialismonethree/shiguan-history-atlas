@@ -21,7 +21,7 @@ body[data-theme="qing"]{--era-pattern:url("assets/era-patterns/qing.svg?v=0.10.2
 .sidebar:after{content:none;-webkit-mask:none;mask:none}
 .sidebar{background-color:var(--deep);background-image:linear-gradient(color-mix(in srgb,var(--deep) 14%,transparent),color-mix(in srgb,var(--deep) 14%,transparent)),var(--era-pattern);background-size:auto,var(--era-pattern-size);background-repeat:no-repeat,repeat;background-position:0 0;background-attachment:scroll;box-shadow:inset -1px 0 0 color-mix(in srgb,var(--gold) 45%,transparent)}
 .sidebar .brand,.sidebar .side-label,.sidebar .side-poem,.sidebar .local-note{text-shadow:0 1px 3px var(--deep)}
-.sidebar nav button{background:color-mix(in srgb,var(--deep) 48%,transparent);text-shadow:0 1px 2px var(--deep);border-color:color-mix(in srgb,var(--gold) 12%,transparent)}
+.sidebar nav button{background:color-mix(in srgb,var(--deep) 68%,transparent);text-shadow:0 1px 2px var(--deep);border-color:color-mix(in srgb,var(--gold) 12%,transparent)}
 .sidebar nav button:hover{background:color-mix(in srgb,var(--deep) 78%,transparent);border-color:color-mix(in srgb,var(--gold) 55%,transparent)}
 .sidebar nav button.active{background:color-mix(in srgb,var(--deep) 88%,transparent);border-color:color-mix(in srgb,var(--gold) 65%,transparent);border-left-color:var(--gold)}
 .era-pattern-link{display:block;margin:0 0 18px;padding:9px 10px;border:1px solid color-mix(in srgb,var(--gold) 45%,transparent);background:color-mix(in srgb,var(--deep) 85%,transparent);color:#f5ead1;font:10px/1.7 "Songti SC",serif;letter-spacing:1px;text-align:left;cursor:pointer}.era-pattern-link:hover{border-color:var(--gold);color:#fff3d8}.era-pattern-link span{display:block;font-size:8px;letter-spacing:2px;color:var(--gold)}
