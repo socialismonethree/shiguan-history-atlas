@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.10.4",
-  "runtimeFiles": 360,
-  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。",
+  "websiteVersion": "0.11.0",
+  "runtimeFiles": 454,
+  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -977,11 +977,387 @@
     },
     {
       "path": "docs/party-history/index.html",
-      "sha256": "6073667d43f30ea5d632df6a22cc12a139c5b04cd9e9edb125f3ab6c45e70799"
+      "sha256": "7d3f55042d2152bfa5577b169ec41b5d7382e251e96930b31137197c5a51b620"
     },
     {
       "path": "docs/party-history/manifest.json",
       "sha256": "5703fa6f0041cb8736392a635052b88ea84467c13f5409d214cce107e5360dba"
+    },
+    {
+      "path": "docs/party-history/mao/README.md",
+      "sha256": "cf2604cb6c0488ee04907b8cb22f76edbd28e678fc90f6f9319d2f0aa52ba104"
+    },
+    {
+      "path": "docs/party-history/mao/index.html",
+      "sha256": "b4f30cb9c405e006da5d9bd9bb24f4f5bb8c75bbdd2f5764d5b90c0225e94d94"
+    },
+    {
+      "path": "docs/party-history/mao/manifest.json",
+      "sha256": "97f3f818eec427b36a5307f2f8d516cb4a044a362e0e5252fda30c605596cd10"
+    },
+    {
+      "path": "docs/party-history/mao/mao.css",
+      "sha256": "18de698ccb819127d65bf3c76e59109c00a2a6a5503a94372d91b8cf784e3941"
+    },
+    {
+      "path": "docs/party-history/mao/mao.js",
+      "sha256": "0a1c617a96304248a2f51af3da2a0143f959622016d15046acf7e465cdd1eb86"
+    },
+    {
+      "path": "docs/party-history/mao/references.html",
+      "sha256": "8fb763164b9cc4fee3920c6a4bc4ccadd8dc3a2f76580c8bb60326f247a3072a"
+    },
+    {
+      "path": "docs/party-history/mao/search-index.json",
+      "sha256": "fa56a7cb24da92b183bbcdc00fd612fd7f2cca8d5da9bed7a1f208f137cc37bd"
+    },
+    {
+      "path": "docs/party-history/mao/source/early.json",
+      "sha256": "35dab25f3af7acf258a04c75870c32acc0991c2d48256acb1d3fb208755b9fc7"
+    },
+    {
+      "path": "docs/party-history/mao/source/late.json",
+      "sha256": "414f3cd8d95f8dbd4da9bd4ad645c349e02bf85edad10418b49836380f687cd7"
+    },
+    {
+      "path": "docs/party-history/mao/source/middle.json",
+      "sha256": "3fc6c47198f395e2be6ad08dbb0ad5ca62983750f323be910cd37b08d8386699"
+    },
+    {
+      "path": "docs/party-history/mao/year/1893.html",
+      "sha256": "eafe4fdc33758dcbd250f124e9ec18abae5cb98db10a6f88a4be18c5bd692110"
+    },
+    {
+      "path": "docs/party-history/mao/year/1894.html",
+      "sha256": "24e8758c95a4b7e44edc359c688b9605ad572deba8bc836e69ab504671b93f1b"
+    },
+    {
+      "path": "docs/party-history/mao/year/1895.html",
+      "sha256": "fb0a5b00dc0eafaac74210751f7ed337d48399e0920077f534fbf9d636179fb4"
+    },
+    {
+      "path": "docs/party-history/mao/year/1896.html",
+      "sha256": "b4c373b3d5f4ba49f28dd34d916218bf0a4872fb680778e9ce7fc5f43f14d995"
+    },
+    {
+      "path": "docs/party-history/mao/year/1897.html",
+      "sha256": "73e65f40f51e6e5d07e2a33619b5e12e7877fbcf08424f3a26a2881664090d0b"
+    },
+    {
+      "path": "docs/party-history/mao/year/1898.html",
+      "sha256": "5560f752ccd1ec137d798a0695b510c7e9e6bcac38ad867e92523f42f28b50b2"
+    },
+    {
+      "path": "docs/party-history/mao/year/1899.html",
+      "sha256": "678725c41b207b7f7195321cd60ca22f6560e97dd21fc50735d4b4ed881e0a8a"
+    },
+    {
+      "path": "docs/party-history/mao/year/1900.html",
+      "sha256": "b081db7ef87b4fd862cd10e26932c4f75aa796f29b8387f310030bd617365e19"
+    },
+    {
+      "path": "docs/party-history/mao/year/1901.html",
+      "sha256": "28d0071d2abc0545c8fccd787a5bd2e270626995e34df10ce0fd02f1c2b435c8"
+    },
+    {
+      "path": "docs/party-history/mao/year/1902.html",
+      "sha256": "7e7db83d6d6bc0d5b4069a44f1f20a4037581d0358171e9d39183581bc8f1fac"
+    },
+    {
+      "path": "docs/party-history/mao/year/1903.html",
+      "sha256": "1b4815954696fc380583f7ee8435ce6d07fe9fe0909b5969c4bfee408608974f"
+    },
+    {
+      "path": "docs/party-history/mao/year/1904.html",
+      "sha256": "965a8b52859d4b9100ac25d231668aa846f920d8274d4f7f16d36fd9f889e9fe"
+    },
+    {
+      "path": "docs/party-history/mao/year/1905.html",
+      "sha256": "c3f6120d21afddb2be62bfc508a24e688fae575315bd2ab932880a8809e6a06b"
+    },
+    {
+      "path": "docs/party-history/mao/year/1906.html",
+      "sha256": "792eabd850d4942068a03066814ae887fe0e330a45f35959ea3ad9a5c348e90a"
+    },
+    {
+      "path": "docs/party-history/mao/year/1907.html",
+      "sha256": "de6a22bff22585478b5a5fe0490a88638c9d862099aa37948a3f027db4f00bcb"
+    },
+    {
+      "path": "docs/party-history/mao/year/1908.html",
+      "sha256": "1db721537e3def356acd60ec35aa7a6f0e834e46d6028725b1aaea6e909612ad"
+    },
+    {
+      "path": "docs/party-history/mao/year/1909.html",
+      "sha256": "b8922c32508f26b18eadd230dff814ba54fadb35a1233d44aafa6c1a63a97475"
+    },
+    {
+      "path": "docs/party-history/mao/year/1910.html",
+      "sha256": "1b4a35b8fa562773088d3339b65892094fe4be69466f47ce228f569855567df5"
+    },
+    {
+      "path": "docs/party-history/mao/year/1911.html",
+      "sha256": "00fb79841566964b3d7a58c646f17dff3e1f28a0793bb4b6a54b777badd73f66"
+    },
+    {
+      "path": "docs/party-history/mao/year/1912.html",
+      "sha256": "5f5c89479db80ae71c615651402689c09b57358cedf3168193201101cbea8fd5"
+    },
+    {
+      "path": "docs/party-history/mao/year/1913.html",
+      "sha256": "4bddff9e227907d8b51aa05fbb852845666b9dcdd24c1ebe8d589cfb5b912e33"
+    },
+    {
+      "path": "docs/party-history/mao/year/1914.html",
+      "sha256": "229d43ef8b772e13ae2023fcda9a33e0c9ab1d7b9eddab4da8cd25df526b0744"
+    },
+    {
+      "path": "docs/party-history/mao/year/1915.html",
+      "sha256": "fabd1e820aebec586d02202ab6b3e86655a915dc5846a55434f69894e8745e34"
+    },
+    {
+      "path": "docs/party-history/mao/year/1916.html",
+      "sha256": "1dfc1914b94b57cb89f55adeae7211191d2ea2834d6b033f4347b09bf98aefff"
+    },
+    {
+      "path": "docs/party-history/mao/year/1917.html",
+      "sha256": "c0274ce2cc8709f0ca5ba72ea27ee917c6cc7c0924b36ce92c986c132e4e09f6"
+    },
+    {
+      "path": "docs/party-history/mao/year/1918.html",
+      "sha256": "7493275ed6098876aa9dc28ea46a93edb96079842a225d43fa6dec84289dc11e"
+    },
+    {
+      "path": "docs/party-history/mao/year/1919.html",
+      "sha256": "a06d299dbde00c394e4003c71d0d1ba9d0b07bfa56f0999e90e682764b26cb63"
+    },
+    {
+      "path": "docs/party-history/mao/year/1920.html",
+      "sha256": "4fd243573e485dfb987e8132bdfcb0a59229d075665adec5e8057d249acdca49"
+    },
+    {
+      "path": "docs/party-history/mao/year/1921.html",
+      "sha256": "fc259c0e24c14964f074adb32ede0f2f1ab7254a3d99bd645084cab40facaa8e"
+    },
+    {
+      "path": "docs/party-history/mao/year/1922.html",
+      "sha256": "d2768e3291e2fc4c989acffd895c19d6a0d80f749635555842c972a96cde8548"
+    },
+    {
+      "path": "docs/party-history/mao/year/1923.html",
+      "sha256": "fbe9292c1f166b533d2c2182e318e0b1740b9de7be396ab776c81711309fa03c"
+    },
+    {
+      "path": "docs/party-history/mao/year/1924.html",
+      "sha256": "8b09dd79389a801def123d256be84f40e6b7074cb8fc96357cc265a63fd3674b"
+    },
+    {
+      "path": "docs/party-history/mao/year/1925.html",
+      "sha256": "16c32b992fec550eb548dd955e56a450d4ce512f4338aee4c603c04358cba8ab"
+    },
+    {
+      "path": "docs/party-history/mao/year/1926.html",
+      "sha256": "fa2868d584b9de5b1f9de7aa30635357cf3b1d7abb377cb2b5ad11b67e505b73"
+    },
+    {
+      "path": "docs/party-history/mao/year/1927.html",
+      "sha256": "13115ad6335daf8b651856f68f9f87d654eb4e584e449e1aa0b1e3511ca53c03"
+    },
+    {
+      "path": "docs/party-history/mao/year/1928.html",
+      "sha256": "7aad3b52c141570b021e458874062f59b5e78be65bb90acfc86bd70d316cc5b2"
+    },
+    {
+      "path": "docs/party-history/mao/year/1929.html",
+      "sha256": "85838b8e3e05195347fd87b9ca46597c6384b280c2e27235b2cf763652806a7d"
+    },
+    {
+      "path": "docs/party-history/mao/year/1930.html",
+      "sha256": "896bbfc6b96bd8d67262947b3fdd1ffae2bf2a8ec29e7aa63d021c7d889f178e"
+    },
+    {
+      "path": "docs/party-history/mao/year/1931.html",
+      "sha256": "5b52af97d546591b3a7162649bb0af4adfba91605a6584dfd6dea799705c79f8"
+    },
+    {
+      "path": "docs/party-history/mao/year/1932.html",
+      "sha256": "14f9986b9bfd14f4b1bf451c18fcba994cf8cd4b275580169a4be5800d072ca3"
+    },
+    {
+      "path": "docs/party-history/mao/year/1933.html",
+      "sha256": "8e4cfe0b36c6e8c95f378b70243a80e458df42571860ccffc7f67beebc0215b5"
+    },
+    {
+      "path": "docs/party-history/mao/year/1934.html",
+      "sha256": "6a5fc1e7a4c09ad28317122531fddde440c68ae96b77fa70fc2cc60000f1c21d"
+    },
+    {
+      "path": "docs/party-history/mao/year/1935.html",
+      "sha256": "b47d9ed57159a23e2242065139ec41898adcfe248d8f3f16cca7a5c4f1d2c916"
+    },
+    {
+      "path": "docs/party-history/mao/year/1936.html",
+      "sha256": "af735cf1c0aa7ea53d278c3a134da2a701e1ad596dbba3c22644d7b4c221f091"
+    },
+    {
+      "path": "docs/party-history/mao/year/1937.html",
+      "sha256": "c364897b1e6f2ede1b900bb2ce742bf1aa13ec0017e11b2577f39e7c990a8a08"
+    },
+    {
+      "path": "docs/party-history/mao/year/1938.html",
+      "sha256": "73d4633130573b2a859309335632cc7f8eb5c3d518923323a811e2c59e1be416"
+    },
+    {
+      "path": "docs/party-history/mao/year/1939.html",
+      "sha256": "98c5d66e92ef9a5ba2e8281850c67298fa7ea8f13c2b254ce0153ad672e346dc"
+    },
+    {
+      "path": "docs/party-history/mao/year/1940.html",
+      "sha256": "cb708964b061b29b6112a667c1522e120156509e25fb51fb5f3f12280991359f"
+    },
+    {
+      "path": "docs/party-history/mao/year/1941.html",
+      "sha256": "f99563a444a9f63fcb23e04ea3487f2d33764fb0dc53e8b7727093f4d2dcd821"
+    },
+    {
+      "path": "docs/party-history/mao/year/1942.html",
+      "sha256": "8e314d243995886710c3d70cd3b711f9c9ca6deab77a18f96e5492998da42707"
+    },
+    {
+      "path": "docs/party-history/mao/year/1943.html",
+      "sha256": "03d00c8977f1509ef406ae2be561100b00e7b62d74a4a16d5a66fc4cf2365081"
+    },
+    {
+      "path": "docs/party-history/mao/year/1944.html",
+      "sha256": "b4fdac1eed5df688b7043231b986b8edfe2cee34977330045352b4518f4f77cf"
+    },
+    {
+      "path": "docs/party-history/mao/year/1945.html",
+      "sha256": "8ef008eb388bf660aec15240b50b058cef38dc3879b631d2549adbc0622bcc6a"
+    },
+    {
+      "path": "docs/party-history/mao/year/1946.html",
+      "sha256": "a9c54439fef5b1ee0a735a0a321ddfac021e4d6221805882d84e8d092aabd5cc"
+    },
+    {
+      "path": "docs/party-history/mao/year/1947.html",
+      "sha256": "7d42c9e543f5262206f4aa5d7bc691ad43efdce9855374342f6ad0118ccc6105"
+    },
+    {
+      "path": "docs/party-history/mao/year/1948.html",
+      "sha256": "4ff16d5ba83fbea6100978b5e4475b56b23f51e1a700ac2a880abdafe0d52c3d"
+    },
+    {
+      "path": "docs/party-history/mao/year/1949.html",
+      "sha256": "ff4d33af31ab3af0a9f5001932a6f2d3f48f5bafccd4b679cee0f0b68799b17b"
+    },
+    {
+      "path": "docs/party-history/mao/year/1950.html",
+      "sha256": "6c430998d6398f5dcd38c42ef5badeba4cb1e609f78778aeb5601ff0864ee3d2"
+    },
+    {
+      "path": "docs/party-history/mao/year/1951.html",
+      "sha256": "37f3488beaa747c8b1db034907114039fc8231c70c2cee1e353d1498040c7d7f"
+    },
+    {
+      "path": "docs/party-history/mao/year/1952.html",
+      "sha256": "ccac7843b31ea59dda454d77712f9a5169f9fa4d7eb3827ef47fe25c2b5db034"
+    },
+    {
+      "path": "docs/party-history/mao/year/1953.html",
+      "sha256": "d9198ed9ce5279d8357386e382dcb264ab8b283849b3bf8faef71f1a1261a7b3"
+    },
+    {
+      "path": "docs/party-history/mao/year/1954.html",
+      "sha256": "a3aeda677709e081ae1146fe1e26a8b2bae8c0831b067bf1af1b46cfbae0efbc"
+    },
+    {
+      "path": "docs/party-history/mao/year/1955.html",
+      "sha256": "c73669da46629620a8fc657431c467f9785b8668d3a29e8740faa58a8d221ec4"
+    },
+    {
+      "path": "docs/party-history/mao/year/1956.html",
+      "sha256": "47a8e1969b0b443aabf84bf9836bab680ba9ea96a5b1cb3f20cb294c7d0a4c4b"
+    },
+    {
+      "path": "docs/party-history/mao/year/1957.html",
+      "sha256": "80972e3e596b55134144333f1256e73c0395ef15e214559b6279efa89fdf2ef7"
+    },
+    {
+      "path": "docs/party-history/mao/year/1958.html",
+      "sha256": "ae7a4a54150b7a57d1e3450cea8fb8d7f5cbb558591794bf11f5aeafe9019cea"
+    },
+    {
+      "path": "docs/party-history/mao/year/1959.html",
+      "sha256": "59f27c39054f61a67b187f786d7df3b19d18af3702071e6916791f298b58c9b3"
+    },
+    {
+      "path": "docs/party-history/mao/year/1960.html",
+      "sha256": "e9126bad2bf63626ce27569f137885833c45422647f5e4bd94849f1db08d7cfe"
+    },
+    {
+      "path": "docs/party-history/mao/year/1961.html",
+      "sha256": "055737c6463ddd70b84a2fec7322ff5724bc7d6fca1f541afea4026bbcd78a7b"
+    },
+    {
+      "path": "docs/party-history/mao/year/1962.html",
+      "sha256": "8a6d12d8163d1ef0e4e9628d884181a034e717f47362f8bd200a469c89108665"
+    },
+    {
+      "path": "docs/party-history/mao/year/1963.html",
+      "sha256": "31784cb7b49675440bd57e810b3aa83f5a1fb4d65fa18689c4efc24e178a1e97"
+    },
+    {
+      "path": "docs/party-history/mao/year/1964.html",
+      "sha256": "482b599cef2a563ad38bb1bdf35be0ebf7b8e451ff850b0647fe38b402e18f08"
+    },
+    {
+      "path": "docs/party-history/mao/year/1965.html",
+      "sha256": "c687411d2678dfc1123912e6a77d14d5d5a6fbd2da03930eaa3ad569a8ab3b7d"
+    },
+    {
+      "path": "docs/party-history/mao/year/1966.html",
+      "sha256": "8180739bdc72bca8556ba7358fe99dbfd1bb3b8be68b45f6f9e483907d1b16d7"
+    },
+    {
+      "path": "docs/party-history/mao/year/1967.html",
+      "sha256": "f7fb66b653e596140e64aaebe9941f94b94d51f9fc4221e07cceed65ca73b628"
+    },
+    {
+      "path": "docs/party-history/mao/year/1968.html",
+      "sha256": "9abf01955d783591b4306ba7128f676b297a022ec3164605026c86fffcba74ae"
+    },
+    {
+      "path": "docs/party-history/mao/year/1969.html",
+      "sha256": "761b78ab4d424d4d0f07a99221c2a5f8338a87ec32bd5197abee874fc90fef94"
+    },
+    {
+      "path": "docs/party-history/mao/year/1970.html",
+      "sha256": "40152f79629ba3841bf166c0c45973dad0e8868a6194613f285145c1539a91a8"
+    },
+    {
+      "path": "docs/party-history/mao/year/1971.html",
+      "sha256": "66b03ee6d2ce8a7f59939104f2737463dbc3c7aa35d59ab0cecd04a9fb5cc123"
+    },
+    {
+      "path": "docs/party-history/mao/year/1972.html",
+      "sha256": "855db394620290517300c0044fc86e9c258e18193dc5a71dd753e5ece38c9987"
+    },
+    {
+      "path": "docs/party-history/mao/year/1973.html",
+      "sha256": "fd671babaaae33044012f94f939b3a7ae379752e6c7b6c9471055de8abc55cd6"
+    },
+    {
+      "path": "docs/party-history/mao/year/1974.html",
+      "sha256": "21aa3fa92a8ff9fc232bf80da01179789d066fbec2e65a8cd445af2817bec647"
+    },
+    {
+      "path": "docs/party-history/mao/year/1975.html",
+      "sha256": "9fa5b91eefee34e0e25ed9367694a3d06c7f55b99e04c4d70ecacfec0271f118"
+    },
+    {
+      "path": "docs/party-history/mao/year/1976.html",
+      "sha256": "c5d156981b3e6c401054b3694fa632cb5a3856c07b525d99e5dbf390586130c5"
     },
     {
       "path": "docs/party-history/party.css",

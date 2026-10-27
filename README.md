@@ -64,3 +64,10 @@ GitHub Pages 提供公开网站；大陆实际可达性应在移动网络和宽�
 ## 0.10.2 朝代锦绣侧栏
 
 十九幅图案重新绘制为彩色密织满地效果，采用主纹、辅花、纹带、经纬底理和金线针理分层；不再用单色线条遮罩。参考重点转向历史织绣和服饰，早期实物不足则明确借用器物纹饰。展签补充“纹样与寓意”“锦绣层次”，跨期材料不强行断到某一朝代。数据仍在`docs/assets/era-patterns/catalog.json`，着色SVG可独立修改；更新SVG后同步调整样式中的资源版本参数。
+
+
+## 0.11 毛泽东生平纪年
+
+党史板块增设1893—1976年个人生平纪年，84个年度各有独立页面；支持按年浏览、关键词检索、相邻年份跳转、逐条查看资料出处，以及与原党史资料交叉阅读。来源与整理边界见`docs/party-history/mao/README.md`。
+
+维护时修改`docs/party-history/mao/source/`的分期数据，然后运行`node tools/sync-mao-chronology.mjs`和`node tools/check-mao-chronology.mjs`；党史首页模板改动后另运行`node tools/sync-party-history.mjs`及`node tools/check-party-history.mjs`。
