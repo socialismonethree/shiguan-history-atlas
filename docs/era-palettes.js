@@ -194,4 +194,4 @@ window.ERA_PALETTES = Object.fromEntries([
 ].map(([id,name,mood,accent,gold,deep,wash,paper]) => [id,{id,name,mood,accent,gold,deep,wash,paper}]));
 
 // Use the period name rather than a regional literary epithet in era navigation.
-window.ERA_PALETTES["eastern-jin"].glyph = "晋·十六国";
+window.ERA_PALETTES["eastern-jin"].glyph = "五胡十六国";

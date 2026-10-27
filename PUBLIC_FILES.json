@@ -1,5 +1,5 @@
 {
-  "websiteVersion": "0.10.3",
+  "websiteVersion": "0.10.4",
   "runtimeFiles": 360,
   "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。",
   "files": [
@@ -509,7 +509,7 @@
     },
     {
       "path": "docs/era-palettes.js",
-      "sha256": "83b83c2045299e163de0242d87ede9ec7016ecd790c0d5729af61a1dda8883e6"
+      "sha256": "51849eb0d5ead304dd5185d4b82884f3b2c32e3de148b68c54499416b6178d36"
     },
     {
       "path": "docs/era-patterns.css",
@@ -797,7 +797,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "bb740a575e68ef21f1274c53dc2f5ae21fa1162965694a197e557c3f8ba3c69d"
+      "sha256": "5ef53a09b9e9adc61b538b1e2e914c38c6f0afdbd24376899d9160b94d0a1333"
     },
     {
       "path": "docs/knowledge.css",
