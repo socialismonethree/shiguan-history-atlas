@@ -1,0 +1,995 @@
+{
+  "person": "习仲勋",
+  "birth": 1913,
+  "death": 2002,
+  "sources": [
+    {
+      "id": "xi-people",
+      "title": "习仲勋同志诞辰100周年：大事年表",
+      "publisher": "人民网党史频道",
+      "url": "https://cpc.people.com.cn/daohang/n/2013/1015/c347922-23203012.html"
+    },
+    {
+      "id": "xi-bio",
+      "title": "习仲勋同志生平",
+      "publisher": "共产党员网",
+      "url": "https://news.12371.cn/2013/10/12/ARTI1381549126172911.shtml"
+    },
+    {
+      "id": "xi-mutiny",
+      "title": "在两当兵变学术研讨会上的讲话",
+      "publisher": "中共中央党史和文献研究院",
+      "url": "https://www.dswxyjy.org.cn/n/2013/1025/c219021-23326652.html"
+    },
+    {
+      "id": "xi-mutiny-study",
+      "title": "习仲勋早期革命生涯的四个节点",
+      "publisher": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n1/2018/1121/c85037-30413056.html"
+    },
+    {
+      "id": "xi-local",
+      "title": "从黄土地走进中南海的习仲勋",
+      "publisher": "旬邑县委党史研究室·人民网",
+      "url": "https://dangshi.people.com.cn/n/2015/0313/c85037-26687319-2.html"
+    },
+    {
+      "id": "xi-rescue",
+      "title": "绥德“四师”：西北革命策源地",
+      "publisher": "工业和信息化部网站转载陕西日报",
+      "url": "https://www.miit.gov.cn/ztzl/rdzt/qzjd100zn/dsxy/art/2021/art_ac63aeed1c174d7b939f3c6d0e66e95b.html"
+    },
+    {
+      "id": "xi-story",
+      "title": "习仲勋在新中国成立前的几段往事",
+      "publisher": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n1/2016/0810/c85037-28624372.html"
+    },
+    {
+      "id": "xi-school",
+      "title": "他始终关怀着这所党办的大学",
+      "publisher": "中国人民大学校史馆",
+      "url": "https://xsg.ruc.edu.cn/xsgc/rdgs/32d1304b1d264633b8f89c3430c29dac.htm"
+    },
+    {
+      "id": "xi-ecology",
+      "title": "习仲勋与新中国成立初期西北地区的生态建设",
+      "publisher": "中共中央党史和文献研究院",
+      "url": "https://www.dswxyjy.org.cn/n1/2020/0825/c219022-31835771.html"
+    },
+    {
+      "id": "xi-public",
+      "title": "《习仲勋画传》：寻革命家足迹",
+      "publisher": "中央纪委国家监委网站",
+      "url": "https://www.ccdi.gov.cn/shudann/hdjlsd/201412/t20141212_41305.html"
+    },
+    {
+      "id": "xi-investigation",
+      "title": "习仲勋副总理在王庄村调研",
+      "publisher": "河南长葛市史志资料",
+      "url": "https://changge.gov.cn/BigFileUpLoadStorage/temp/2023-06-15/93a3d7fc-c3df-48c6-ac2b-0acd99c1dac3/%E9%95%BF%E8%91%9B%E5%8F%B2%E5%BF%97%E8%B5%84%E6%96%99%E5%8F%8A%E7%A0%94%E7%A9%B6_40-78%E9%A1%B5.pdf"
+    },
+    {
+      "id": "xi-special",
+      "title": "习仲勋与广东改革开放的起步",
+      "publisher": "河南省政协网转载中国政协网",
+      "url": "https://hnzx.gov.cn/2021/05-11/4278326.html"
+    },
+    {
+      "id": "xi-reform",
+      "title": "习仲勋与我国经济特区的创建",
+      "publisher": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n1/2017/1227/c85037-29731092.html"
+    },
+    {
+      "id": "xi-law",
+      "title": "习仲勋——社会主义民主法制建设的积极推动者",
+      "publisher": "人民网党史频道·人民日报",
+      "url": "https://dangshi.people.com.cn/n/2013/1016/c85037-23219431.html"
+    },
+    {
+      "id": "xi-1984",
+      "title": "党的民族政策的倡导者",
+      "publisher": "中共中央党史和文献研究院",
+      "url": "https://www.dswxyjy.org.cn/n/2013/1025/c218998-23329824.html"
+    },
+    {
+      "id": "xi-1985",
+      "title": "深切缅怀习仲勋同志对江西老区建设的关怀和指导",
+      "publisher": "江西省委党史研究室·人民网",
+      "url": "https://dangshi.people.com.cn/n/2013/0424/c85037-21255711.html"
+    },
+    {
+      "id": "xi-1987",
+      "title": "坚毅的开创 深情的守望——习仲勋与深圳经济特区纪事",
+      "publisher": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n/2013/1015/c85037-23212022.html"
+    },
+    {
+      "id": "xi-1986",
+      "title": "习仲勋在全国民委主任会议讲话",
+      "publisher": "人民日报1986年11月2日第4版",
+      "url": "https://cn.govopendata.com/renminribao/1986/11/02/4/"
+    },
+    {
+      "id": "xi-1983",
+      "title": "习仲勋在政协和中央统战部落实政策座谈会讲话",
+      "publisher": "人民日报1983年12月29日第4版",
+      "url": "https://cn.govopendata.com/renminribao/1983/12/29/4/"
+    },
+    {
+      "id": "xi-correct",
+      "title": "习仲勋的青年时代：错误肃反",
+      "publisher": "人民网党建频道",
+      "url": "https://dangjian.people.com.cn/n/2015/0526/c117092-27059342.html"
+    },
+    {
+      "id": "xi-grass",
+      "title": "“党的利益在第一位”的习仲勋",
+      "publisher": "中共延安市委党史研究室",
+      "url": "https://www.yads.org.cn/yuanshengxtg/2807.html"
+    },
+    {
+      "id": "xi-rural",
+      "title": "“把屁股端端地坐在老百姓的这一面”",
+      "publisher": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n/2013/0218/c85037-20511468.html"
+    },
+    {
+      "id": "xi-education",
+      "title": "习仲勋书记1949年9月21日在西北人民革命大学开学典礼上的讲话",
+      "publisher": "西北政法大学",
+      "url": "https://www.nwupl.edu.cn/wcm.files/upload/CMSnwupl/202311/20231123160311182.pdf"
+    },
+    {
+      "id": "xi-northwest",
+      "title": "习仲勋的青年时代：主政大西北",
+      "publisher": "人民网党建频道",
+      "url": "https://dangjian.people.com.cn/n/2015/0526/c117092-27059342-5.html"
+    },
+    {
+      "id": "xi-1953",
+      "title": "我们党的一切事情，就是老百姓的事情",
+      "publisher": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n1/2018/0424/c85037-29944963.html"
+    },
+    {
+      "id": "xi-1942",
+      "title": "群众领袖习仲勋",
+      "publisher": "上海党史网",
+      "url": "https://www.ccphistory.org.cn/shds/dsxx/content/484c1dd4-0b60-4060-b5a6-977dedf4a1f7.html"
+    },
+    {
+      "id": "xi-reform-april",
+      "title": "功铸特区 情系深圳",
+      "publisher": "人民网党史频道",
+      "url": "https://dangshi.people.com.cn/n/2013/1022/c85037-23285060.html"
+    },
+    {
+      "id": "xi-jiangxi-available",
+      "title": "习仲勋同志对江西老区建设的关怀和指导",
+      "publisher": "共产党员网",
+      "url": "https://news.12371.cn/2013/10/15/ARTI1381818255941550.shtml"
+    },
+    {
+      "id": "xi-shenzhen-available",
+      "title": "小平同志为经济特区定名",
+      "publisher": "人民网",
+      "url": "https://cpc.people.com.cn/n1/2018/0510/c69113-29977152.html"
+    }
+  ],
+  "years": [
+    {
+      "year": 1913,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "10月15日",
+          "title": "出生于陕西富平",
+          "place": "陕西富平",
+          "description": "习仲勋出生于陕西富平的农民家庭，后来在求学过程中接触进步思想。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1913年「10月15日」条"
+        }
+      ]
+    },
+    {
+      "year": 1926,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "5月",
+          "title": "加入共青团",
+          "place": "陕西",
+          "description": "加入中国共产主义青年团，开始参加青年革命活动。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1926年「5月」条"
+        }
+      ]
+    },
+    {
+      "year": 1928,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "春",
+          "title": "在狱中转为中共党员",
+          "place": "陕西",
+          "description": "参加学生运动后被国民党当局关押，在狱中转为中国共产党党员。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1928年「春」条"
+        }
+      ]
+    },
+    {
+      "year": 1930,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "年初",
+          "title": "到杨虎城部做兵运工作",
+          "place": "陕西",
+          "description": "受党组织委派到杨虎城部开展兵运工作，担任中共营委书记。",
+          "sourceIds": [
+            "xi-bio"
+          ],
+          "locator": "1930年“到杨虎城部做兵运工作”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1932,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "3月至4月2日",
+          "title": "参加领导两当兵变",
+          "place": "甘肃两当",
+          "description": "3月着手筹划，4月2日与刘林圃等在甘肃两当发动兵变，部队改编为陕甘游击队第五支队；北上途中被打散。人民网简表将兵变列在3月，中央文献研究室研究文章记为4月2日。",
+          "sourceIds": [
+            "xi-people",
+            "xi-mutiny",
+            "xi-mutiny-study"
+          ],
+          "locator": "人民网大事年表1932年条；中央文献研究室两当兵变研讨会讲话"
+        },
+        {
+          "date": "9月",
+          "title": "进入渭北革命根据地",
+          "place": "陕西渭北",
+          "description": "两当兵变部队被打散后进入渭北根据地，担任游击队政治指导员。",
+          "sourceIds": [
+            "xi-people",
+            "xi-mutiny-study"
+          ],
+          "locator": "1932年“进入渭北革命根据地”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1933,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "3月后",
+          "title": "参与创建陕甘边根据地",
+          "place": "陕西、甘肃边区",
+          "description": "与刘志丹等参与创建照金陕甘边区革命根据地，开展武装与地方组织工作。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1933年「3月后」条"
+        },
+        {
+          "date": "2月",
+          "title": "担任三原中心县委书记",
+          "place": "陕西三原",
+          "description": "从事共青团、农民运动和武装斗争相关工作。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "1933年“担任三原中心县委书记”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1934,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "11月",
+          "title": "当选陕甘边区苏维埃政府主席",
+          "place": "陕甘边区",
+          "description": "当选陕甘边区苏维埃政府主席，参与组织根据地政权与地方事务。",
+          "sourceIds": [
+            "xi-bio"
+          ],
+          "locator": "1934年“当选陕甘边区苏维埃政府主席”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1935,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "春",
+          "title": "西北根据地连成一片",
+          "place": "陕甘边、陕北",
+          "description": "陕北与陕甘边革命根据地连成一片，他参加西北工委领导工作并担任陕甘边区苏维埃政府主席。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1935年「春」条"
+        },
+        {
+          "date": "9月",
+          "title": "错误肃反中被关押",
+          "place": "陕北",
+          "description": "在根据地错误肃反中，他与刘志丹等遭关押；党中央抵达陕北后，相关问题得到纠正。",
+          "sourceIds": [
+            "xi-correct"
+          ],
+          "locator": "1935年9月“肃反”段"
+        }
+      ]
+    },
+    {
+      "year": 1936,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "6月",
+          "title": "随红军西征",
+          "place": "陕甘宁地区",
+          "description": "随红军西征，先后从事曲环、环县地区的党的工作；8月赴关中地区工作。",
+          "sourceIds": [
+            "xi-local"
+          ],
+          "locator": "“两下关中守卫南大门”，1936年"
+        },
+        {
+          "date": "9月至10月",
+          "title": "再次赴关中开展工作",
+          "place": "陕西关中",
+          "description": "受中共中央委派返回关中，主持恢复地方党组织、游击队和根据地工作。",
+          "sourceIds": [
+            "xi-local"
+          ],
+          "locator": "1936年“再次赴关中开展工作”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1938,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "10月",
+          "title": "选派干部赴陕北公学学习",
+          "place": "陕西关中",
+          "description": "作为关中分委负责人，选派地方干部到陕北公学学习，支持根据地干部教育。",
+          "sourceIds": [
+            "xi-school"
+          ],
+          "locator": "1938年“选派干部赴陕北公学学习”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1939,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "9月",
+          "title": "主持关中分区党的代表大会",
+          "place": "陕西新正",
+          "description": "总结关中分区工作，讨论统一战线事务，并再次当选分委书记。",
+          "sourceIds": [
+            "xi-local"
+          ],
+          "locator": "1939年“主持关中分区党的代表大会”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1940,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "3月15日",
+          "title": "创办边区第二师范",
+          "place": "陕西马家堡",
+          "description": "参与成立陕甘宁边区第二师范并担任校长，培养根据地教育和工作人才。",
+          "sourceIds": [
+            "xi-local",
+            "xi-school"
+          ],
+          "locator": "1940年“创办边区第二师范”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1941,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "3月",
+          "title": "参加关中回民抗日救国组织大会",
+          "place": "陕西新正",
+          "description": "出席关中回民抗日救国分会成立大会，关注民族团结与抗日动员。",
+          "sourceIds": [
+            "xi-grass"
+          ],
+          "locator": "1941年“参加关中回民抗日救国组织大会”相关记载"
+        },
+        {
+          "date": "8月",
+          "title": "兼任关中警备司令部政委",
+          "place": "陕西关中",
+          "description": "关中分区警备司令部成立后担任政治委员，参与地方防务工作。",
+          "sourceIds": [
+            "xi-story"
+          ],
+          "locator": "1941年“兼任关中警备司令部政委”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1942,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "秋",
+          "title": "在边区高干会议受表扬",
+          "place": "陕西延安",
+          "description": "在延安高干会议期间，因基层工作作风受到表扬。",
+          "sourceIds": [
+            "xi-1942"
+          ],
+          "locator": "1942年“在边区高干会议受表扬”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1943,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "2月",
+          "title": "赴绥德主持地方工作",
+          "place": "陕西绥德",
+          "description": "调任中共绥德地委书记，兼警备司令部政治委员。",
+          "sourceIds": [
+            "xi-rescue"
+          ],
+          "locator": "“力挽狂澜 挽救绥师”，1943年2月"
+        },
+        {
+          "date": "3月14日",
+          "title": "赴绥德农村调查",
+          "place": "陕西绥德",
+          "description": "率有关单位负责人下乡调查，研究生产、信贷、土地租佃和移民等实际问题。",
+          "sourceIds": [
+            "xi-story"
+          ],
+          "locator": "1943年“赴绥德农村调查”相关记载"
+        },
+        {
+          "date": "本年",
+          "title": "处理绥德师范审干扩大化问题",
+          "place": "陕西绥德",
+          "description": "面对“抢救失足者运动”对学校的错误影响，他调查并向中央和西北局反映情况，参与甄别纠错。",
+          "sourceIds": [
+            "xi-rescue"
+          ],
+          "locator": "1943年“处理绥德师范审干扩大化问题”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1944,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "4月28日",
+          "title": "与齐心结婚",
+          "place": "陕西绥德",
+          "description": "在绥德工作期间与齐心结婚。",
+          "sourceIds": [
+            "xi-rescue"
+          ],
+          "locator": "1944年“与齐心结婚”相关记载"
+        },
+        {
+          "date": "秋",
+          "title": "在绥德司法会议讲话",
+          "place": "陕西绥德",
+          "description": "在地区司法会议上讨论司法干部联系群众与深入基层的问题。",
+          "sourceIds": [
+            "xi-rural"
+          ],
+          "locator": "1944年“在绥德司法会议讲话”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1945,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "6月",
+          "title": "中共七大当选候补中央委员",
+          "place": "延安",
+          "description": "在中共七大当选候补中央委员，8月任中央组织部副部长；其间参与指挥爷台山自卫反击战。",
+          "sourceIds": [
+            "xi-bio"
+          ],
+          "locator": "七大当选中央候补委员及后续任职段"
+        },
+        {
+          "date": "年底",
+          "title": "担任中共中央西北局书记",
+          "place": "陕西延安",
+          "description": "担任中共中央西北局书记，参与组织边区党政工作。",
+          "sourceIds": [
+            "xi-rural"
+          ],
+          "locator": "1945年“担任中共中央西北局书记”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1947,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "3月",
+          "title": "参加西北战场保卫战",
+          "place": "陕北",
+          "description": "担任西北野战军副政治委员，与彭德怀等共同部署青化砭、羊马河、蟠龙镇等战役；三次战斗先后发生于3月至5月。",
+          "sourceIds": [
+            "xi-story"
+          ],
+          "locator": "“在西北野战军副政委任上”，1947年3月至5月"
+        }
+      ]
+    },
+    {
+      "year": 1949,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "中华人民共和国成立后",
+          "title": "主持西北地区工作",
+          "place": "中国西北",
+          "description": "先后担任中央人民政府委员、西北局第二书记等职，参与西北地区党政军工作。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1949年「中华人民共和国成立后」条"
+        },
+        {
+          "date": "9月21日",
+          "title": "在西北人民革命大学开学典礼讲话",
+          "place": "陕西西安",
+          "description": "代表西北局参加大学开学典礼，讨论干部培养与服务地方建设。",
+          "sourceIds": [
+            "xi-education"
+          ],
+          "locator": "1949年“在西北人民革命大学开学典礼讲话”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1950,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "7月",
+          "title": "报告西北土地改革计划",
+          "place": "陕西西安",
+          "description": "在西北军政委员会会议上报告土地改革计划，提出应结合地区实际和做好准备。",
+          "sourceIds": [
+            "xi-northwest"
+          ],
+          "locator": "1950年“报告西北土地改革计划”相关记载"
+        },
+        {
+          "date": "7月",
+          "title": "关注畜牧疫病防治",
+          "place": "陕西西安",
+          "description": "在西北军政委员会讨论畜牧问题后，要求有关部门办理兽疫防治等提案。",
+          "sourceIds": [
+            "xi-ecology"
+          ],
+          "locator": "1950年“关注畜牧疫病防治”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1951,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "年初",
+          "title": "在畜牧兽医会议谈生产",
+          "place": "中国西北",
+          "description": "在西北军政委员会第一次畜牧兽医会议上，讨论发展牧业和改善牧民生计。",
+          "sourceIds": [
+            "xi-ecology"
+          ],
+          "locator": "1951年“在畜牧兽医会议谈生产”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1952,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "9月",
+          "title": "任中央宣传部部长",
+          "place": "北京",
+          "description": "调任中共中央宣传部部长，兼政务院文化教育委员会副主任等职。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1952年「9月」条"
+        },
+        {
+          "date": "6月",
+          "title": "主持研究畜牧工作",
+          "place": "中国西北",
+          "description": "主持西北军政委员会行政会议，讨论畜牧生产及相关管理工作。",
+          "sourceIds": [
+            "xi-ecology"
+          ],
+          "locator": "1952年“主持研究畜牧工作”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1953,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "9月",
+          "title": "负责政务院秘书工作",
+          "place": "北京",
+          "description": "任政务院秘书长，后担任国务院秘书长，参与中央政府日常工作。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1953年「9月」条"
+        },
+        {
+          "date": "2月",
+          "title": "主持文教机关调查与整顿",
+          "place": "北京",
+          "description": "在中央文教机关主持改进工作作风，针对调查发现的脱离实际等问题展开整顿。",
+          "sourceIds": [
+            "xi-1953"
+          ],
+          "locator": "1953年“主持文教机关调查与整顿”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1954,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "12月30日",
+          "title": "报告群众来信来访问题",
+          "place": "北京",
+          "description": "根据西北地区群众反映的农村情况，向毛泽东、周恩来提交专题报告，要求如实反映基层困难。",
+          "sourceIds": [
+            "xi-public"
+          ],
+          "locator": "1954年“报告群众来信来访问题”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1956,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "9月",
+          "title": "中共八大当选中央委员",
+          "place": "北京",
+          "description": "在中共第八次全国代表大会上当选中央委员。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1956年「9月」条"
+        }
+      ]
+    },
+    {
+      "year": 1959,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "4月",
+          "title": "担任国务院副总理",
+          "place": "北京",
+          "description": "任国务院副总理兼秘书长，协助处理国务院常务工作。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1959年「4月」条"
+        }
+      ]
+    },
+    {
+      "year": 1961,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "4月",
+          "title": "赴河南长葛调查",
+          "place": "河南长葛",
+          "description": "率中央工作组到长葛县农村调查，了解群众生活和农业生产情况。",
+          "sourceIds": [
+            "xi-investigation"
+          ],
+          "locator": "1961年“赴河南长葛调查”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1962,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "9月",
+          "title": "因小说《刘志丹》问题受错误审查",
+          "place": "北京",
+          "description": "因所谓小说《刘志丹》问题遭到错误批判，此后长期被审查，在文化大革命中遭受迫害，改革开放后得到平反。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1962年「9月」条"
+        }
+      ]
+    },
+    {
+      "year": 1978,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "4月",
+          "title": "到广东工作",
+          "place": "广东",
+          "description": "先后担任广东省委第二书记、第一书记等职，参与广东改革开放的探索；年底在十一届三中全会上增选为中央委员。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1978年「4月」条"
+        }
+      ]
+    },
+    {
+      "year": 1979,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "4月",
+          "title": "提出广东改革开放建议",
+          "place": "北京、广东",
+          "description": "在中央工作会议期间提出扩大广东经济管理自主权、试办对外开放区域等建议。",
+          "sourceIds": [
+            "xi-reform-april",
+            "xi-shenzhen-available"
+          ],
+          "locator": "1979年“提出广东改革开放建议”相关记载"
+        },
+        {
+          "date": "6月6日",
+          "title": "广东省委上报改革报告",
+          "place": "广东",
+          "description": "参与推动广东省委向中央、国务院提交扩大对外贸易、加快经济发展的报告，并提出试办出口特区设想。",
+          "sourceIds": [
+            "xi-reform"
+          ],
+          "locator": "1979年“广东省委上报改革报告”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1980,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "9月",
+          "title": "当选全国人大常委会副委员长",
+          "place": "北京",
+          "description": "在第五届全国人大期间被补选为全国人大常委会副委员长，之后参与法制工作。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1980年「9月」条"
+        },
+        {
+          "date": "8月",
+          "title": "参与推动广东经济特区建设",
+          "place": "广东",
+          "description": "全国人大常委会批准《广东省经济特区条例》后，广东经济特区建设进入新的阶段。",
+          "sourceIds": [
+            "xi-special"
+          ],
+          "locator": "1980年“参与推动广东经济特区建设”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1981,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "6月",
+          "title": "当选中央书记处书记",
+          "place": "北京",
+          "description": "参加中共中央书记处工作，并在十一届六中全会上增选为中央书记处书记。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1981年「6月」条"
+        }
+      ]
+    },
+    {
+      "year": 1982,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "9月",
+          "title": "当选政治局委员",
+          "place": "北京",
+          "description": "在十二届一中全会上当选中共中央政治局委员、书记处书记，负责书记处日常工作。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 1982年「9月」条"
+        }
+      ]
+    },
+    {
+      "year": 1983,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "12月28日",
+          "title": "在落实政策座谈会讲话",
+          "place": "北京",
+          "description": "在全国政协、中央统战部座谈会上提出继续解决历次政治运动遗留问题，强调实事求是处理。",
+          "sourceIds": [
+            "xi-1983"
+          ],
+          "locator": "1983年“在落实政策座谈会讲话”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1984,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "本年",
+          "title": "出席民族文化宫活动",
+          "place": "北京",
+          "description": "参加北京民族文化宫活动，相关历史照片由中央党史和文献研究院网站刊载。",
+          "sourceIds": [
+            "xi-1984"
+          ],
+          "locator": "1984年“出席民族文化宫活动”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1985,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "11月",
+          "title": "考察江西革命老区",
+          "place": "江西",
+          "description": "访问井冈山、赣州等地，了解革命老区经济建设与群众生活情况。",
+          "sourceIds": [
+            "xi-1985",
+            "xi-jiangxi-available"
+          ],
+          "locator": "1985年“考察江西革命老区”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1986,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "11月1日",
+          "title": "在全国民委主任会议讲话",
+          "place": "北京",
+          "description": "讨论民族地区经济文化发展、民族区域自治法实施以及干部培养。",
+          "sourceIds": [
+            "xi-1986"
+          ],
+          "locator": "1986年“在全国民委主任会议讲话”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1987,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "2月至3月",
+          "title": "再次考察广东和深圳",
+          "place": "广东",
+          "description": "离开广东工作岗位多年后再次考察深圳、珠海等地，了解经济特区及地方发展。",
+          "sourceIds": [
+            "xi-1987"
+          ],
+          "locator": "1987年“再次考察广东和深圳”相关记载"
+        }
+      ]
+    },
+    {
+      "year": 1988,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "4月",
+          "title": "再次当选全国人大常委会副委员长",
+          "place": "北京",
+          "description": "当选第七届全国人大常委会副委员长，兼任内务司法委员会主任委员。",
+          "sourceIds": [
+            "xi-law"
+          ],
+          "locator": "七届全国人大任职及内务司法委员会工作"
+        }
+      ]
+    },
+    {
+      "year": 1993,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "3月",
+          "title": "从领导岗位退下来",
+          "place": "北京",
+          "description": "从领导岗位退下来，此后继续关注改革开放和经济社会发展。",
+          "sourceIds": [
+            "xi-bio"
+          ],
+          "locator": "生平介绍中“1993年3月”段"
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "overview": "这一年已有可查的生平活动，参见下方纪事。",
+      "events": [
+        {
+          "date": "5月24日",
+          "title": "在北京逝世",
+          "place": "北京",
+          "description": "习仲勋在北京逝世，享年88周岁。",
+          "sourceIds": [
+            "xi-people"
+          ],
+          "locator": "大事年表 2002年「5月24日」条"
+        }
+      ]
+    }
+  ]
+}

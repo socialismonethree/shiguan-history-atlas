@@ -1,0 +1,75 @@
+{
+  "version": "0.12.0",
+  "people": [
+    {
+      "id": "zhu",
+      "name": "朱德",
+      "birth": 1886,
+      "death": 1976,
+      "years": 91,
+      "events": 96,
+      "coveredYears": 71,
+      "sources": 13
+    },
+    {
+      "id": "zhou",
+      "name": "周恩来",
+      "birth": 1898,
+      "death": 1976,
+      "years": 79,
+      "events": 118,
+      "coveredYears": 64,
+      "sources": 11
+    },
+    {
+      "id": "deng",
+      "name": "邓小平",
+      "birth": 1904,
+      "death": 1997,
+      "years": 94,
+      "events": 158,
+      "coveredYears": 78,
+      "sources": 12
+    },
+    {
+      "id": "liu",
+      "name": "刘少奇",
+      "birth": 1898,
+      "death": 1969,
+      "years": 72,
+      "events": 77,
+      "coveredYears": 55,
+      "sources": 23
+    },
+    {
+      "id": "chen",
+      "name": "陈云",
+      "birth": 1905,
+      "death": 1995,
+      "years": 91,
+      "events": 125,
+      "coveredYears": 59,
+      "sources": 11
+    },
+    {
+      "id": "ren",
+      "name": "任弼时",
+      "birth": 1904,
+      "death": 1950,
+      "years": 47,
+      "events": 58,
+      "coveredYears": 37,
+      "sources": 21
+    },
+    {
+      "id": "xi",
+      "name": "习仲勋",
+      "birth": 1913,
+      "death": 2002,
+      "years": 90,
+      "events": 56,
+      "coveredYears": 41,
+      "sources": 29
+    }
+  ]
+}

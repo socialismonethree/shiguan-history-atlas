@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.11.0",
-  "runtimeFiles": 454,
-  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。",
+  "websiteVersion": "0.12.0",
+  "runtimeFiles": 1051,
+  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。 新增党史人物生平纪年，七位人物各有逐年页面和资料说明，并连接原毛泽东纪年。",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -977,7 +977,2395 @@
     },
     {
       "path": "docs/party-history/index.html",
-      "sha256": "7d3f55042d2152bfa5577b169ec41b5d7382e251e96930b31137197c5a51b620"
+      "sha256": "92d066087a5189beefd78827ecf3fa4b4050377fb3b1dd9c15ed7eef2845f949"
+    },
+    {
+      "path": "docs/party-history/leaders/README.md",
+      "sha256": "aded15f06fcf827a258823b1e7f28793641cda5a9292f8823c1ac45cbd94cc1d"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/index.html",
+      "sha256": "ae717556507272b11ea2f29af2a43fde11b4cbe7a67bc2aff1c4dff8f1c1f7a6"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/references.html",
+      "sha256": "30dfa277a3ffabfb6911f5400254f416fac0ad981614bcf079ce0f5a15a12d48"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/search-index.json",
+      "sha256": "ad332f7d52bf0231cfd9e80fea750370d9e2733b573e4ebaa0991d2009c142a7"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1905.html",
+      "sha256": "36e214729800561f48eb7c3ec08e8fde4d6db1f11389b2d8e02404aeb61ecc8a"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1906.html",
+      "sha256": "0146e1da56e84aa535985896cc7eeb4753624f542145f7a36f48b5da27e93da9"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1907.html",
+      "sha256": "a755b59ca0db91d34c76acbf61fb0d277a77482f68f771369f6c7aae9d8631e3"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1908.html",
+      "sha256": "b9127a2c01adda9bde8042217f8de6a98f7cfa227c2cd48babd5d2c2b75603c5"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1909.html",
+      "sha256": "5fdcbdf7f7e0362a8361f10f3c55bb4309c7159720f84c1841042f6a165f3f53"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1910.html",
+      "sha256": "15be4c90ee456726751d2f64e82102a096127b001b70d52ac1a9c050f78606dd"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1911.html",
+      "sha256": "241912679027396a4281f2917c4e0cd12f1435a03a4d147bd7acb14548858d4d"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1912.html",
+      "sha256": "c118d55cea7532311c6352446e74de85cf76d8da6d01ba07645b96a17b2d4ccd"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1913.html",
+      "sha256": "522f7b619921ff065f330b06e3a61a80c8a256c35a365fadb0b37b42a7b46202"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1914.html",
+      "sha256": "6b66c885a7c57e8fcb3a3036f17aff894a6722f0cc61a9cc98e8e65f19e93b8b"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1915.html",
+      "sha256": "848dcd3949f4a0b7683276ff5992ddd66bb262bf4797e28bf49d5e1631c1acf4"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1916.html",
+      "sha256": "eb286dc80ab4ac160fde36c1734740aee32cde2c065043ccf5c35eb050243739"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1917.html",
+      "sha256": "b1cffab23e547de06ac98b18d84ea98f7433ccbb50a08e97d0741f0a96b8d3b5"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1918.html",
+      "sha256": "fbbf6aea2f39889d1d8d497a6b46f6d732a5fbe23a7f781185e5b7eea62021e9"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1919.html",
+      "sha256": "6f5ffec8b51eaab318e25a1e4447b02290918f8d6411b160379fa64e0c6d1d15"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1920.html",
+      "sha256": "0f52b9b5e145037a722ef18bccaf434323b19fa92b91b710d512438e077b1479"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1921.html",
+      "sha256": "e11d09a9ed508ff40a71408ef440d4b503ca62f6cb12285e551010cef46719e8"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1922.html",
+      "sha256": "09124733a02b0ad4e99dbabc159c8035801a9bbd981289ab8daa22010a7325f5"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1923.html",
+      "sha256": "56a094aa7247fd20e570dd75b9553456db323401fa643e6bfc1fa0c768f705c8"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1924.html",
+      "sha256": "6386e4d8a25a68fdea90c9b3fc27b782cf35c75638fa7641d006d227b47c2178"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1925.html",
+      "sha256": "08811082c5a07d7a6514d13ea43702384eb72ddee1a975e3194d1081c0d68393"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1926.html",
+      "sha256": "bf9e7624d7092eb4b863f5bbcf0e9982275a727c6804b74fbf321b6fd6baaa85"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1927.html",
+      "sha256": "8b6415d9a74ec44cde268ed81895da30f259df0db6545412944795b209e92e37"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1928.html",
+      "sha256": "7666783eec7a77702ba68c6285fac6f44ec1fb500e2878ef997449cf9c9f2464"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1929.html",
+      "sha256": "3d0f1aa3bcbb4c69ff1f505891462d7796b94f470f05b064797ea68eddae883b"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1930.html",
+      "sha256": "3232a7cd1ecba6354f71739029d2b9a6a0eb83b22b58a945992a7eb03cb041d1"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1931.html",
+      "sha256": "ad57cfcfc97b827789841645136b954bbfb682b95deed78df948116ca2841157"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1932.html",
+      "sha256": "3797452294062cdcc7c684110998c19eb6b11d5617c03797bf8b8bcff60f5365"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1933.html",
+      "sha256": "955e884affe0b281949b5056739827eadf8a5f17d13843e24b00511d5325c9f1"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1934.html",
+      "sha256": "602276d2793d18c20433001b5797e4ed9afd9b98e46c55eba186a720073d2930"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1935.html",
+      "sha256": "f00661198cb9006f8063aff7a9d1d7c9538c3e6951bf60a926d6a874387921c9"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1936.html",
+      "sha256": "1b7bfee37795e8f15147f49ca49c689d56d3b02a68b14b23ea23b773ff9766e8"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1937.html",
+      "sha256": "d88251e1a942c1845a4ecd5c803aa4f41d3a3b953332c78ff62a09fbbb29bbba"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1938.html",
+      "sha256": "35619562cdf1a9076418744982c3428c66a17e1bebe25c01def301119841ea13"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1939.html",
+      "sha256": "24ebb133707d2ba45540bbfcd78791f6c41fabfde4539a1fabda6aafe95ec971"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1940.html",
+      "sha256": "b640f5cdf64f2ae685ab7df0b50679471882104b09c5cdb3ed307a12ed0622b6"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1941.html",
+      "sha256": "e552e2c0e3622f0d6c7f2689b943f4759f2385a7d8e1f087e070c8edbb150657"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1942.html",
+      "sha256": "7371aff956b2de56323e6af114408f5b68c3856ab7c97c79d615674bcc967b63"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1943.html",
+      "sha256": "1b3a563e5e27aebc2415330f0cc0f5da8c0fef238b5f3afd31e2b37ccdb4256f"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1944.html",
+      "sha256": "1831a8336523a284ed5d838d9d8fd840a9f94af93a68996c4586fe43b82cb5f0"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1945.html",
+      "sha256": "5763d715be08bece9a3068d7fc49660b0ae938cec8be3211d025301c910d99fb"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1946.html",
+      "sha256": "4df4f84ebaa7ee6ae7bb3e1062dc286965a18da6611c2de03df7969e9278c3d9"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1947.html",
+      "sha256": "e132e8a7939b7f7087ae69eb33263b8cb6806d83d4709d2d0e7b619fa1c8f317"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1948.html",
+      "sha256": "33f8715e031041c94a4fb01f5f888e82707ac2edbdc9580e1b96b9a6580efff1"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1949.html",
+      "sha256": "b8371973a8a0e58484336ca0f169bfe14b361cac14f5fdd9fc39873a81556e23"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1950.html",
+      "sha256": "a2fe7a5cc054dbe0d37030a76dd979b72e2c969c56707638cf258739c2f62871"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1951.html",
+      "sha256": "fba9931a9dc55c499d910be56205200868359a6c81e2d1b66f9b45635dd9e7ed"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1952.html",
+      "sha256": "cd53935e61b73e6154ebd51d2d57c11e2a297cf899a213eb9222392083974196"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1953.html",
+      "sha256": "4ec324b5f22293ffdbf25b17f11301822e2b6f14adf904d03e5a47e34053be85"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1954.html",
+      "sha256": "25ec451f623ce57d76525a9a777367cf5df664e6648891670ac9d26af26e7a00"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1955.html",
+      "sha256": "963b16076cae44b14664a5b76f44e7c8ec69120f8fd9493370a61d0174155c13"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1956.html",
+      "sha256": "3bd6c3a0d96c8781dc0a5e493d6803f85f5934185d554e08b490a8d2a034fb70"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1957.html",
+      "sha256": "09c1695ce925f293c10206efedf648ab02d104f65d8d8e80b9a5aca48cbb793b"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1958.html",
+      "sha256": "2b1a6635c6afcf30b2d422505373b1f7ea9c2d2c5b8e750a85b31f544295a72d"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1959.html",
+      "sha256": "335da3d6270941bb4e2a5b3d6ae7f30e7e14e0ff9991d661614b327a048a88ef"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1960.html",
+      "sha256": "2ce60fcd51c141d64a82ab93d91acb8a11ebec6c5583a55200a373a656ec3ebf"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1961.html",
+      "sha256": "90082e93905b62d513671d93c430c490ec7119202f3a7bfa044624d98bb0dfcb"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1962.html",
+      "sha256": "9a5bb798624c5d21a4e1f1fa1200f0cdb4866a7d018c78b07bef1947c4e0cd0e"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1963.html",
+      "sha256": "ce3880c0dad34c1d54314f9cf7f6d4e250107433b13bba4e96e3c47c0cbc8301"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1964.html",
+      "sha256": "596e34437ec3ca9df751ab67dadf76d5648bf7136abf7f8ff4d5df944af877bb"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1965.html",
+      "sha256": "6ee17c01a561c5170bda9a22b0669b942c84cc96f6bc6f7961758de924908d5e"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1966.html",
+      "sha256": "c31b59701c52efccaa6032646a833ab2a880270ad594a6d7895de6910ebfc585"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1967.html",
+      "sha256": "fd92efb42e2142f10b7de995441af8de7f0edb5d522849be4b648169f130847f"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1968.html",
+      "sha256": "067a47b93dfea585047e8d9ab384433f44344e899b9a9c3968b806995576a85f"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1969.html",
+      "sha256": "2999cbc4374e0c4d9c1153fdb85e16bb4dcdf128a46dc2c05c09cf1ef6533f7a"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1970.html",
+      "sha256": "7bc2d9f6e6b303dc923516a29815f8158f1b5357a26d7a6ad03e51409e0c41a3"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1971.html",
+      "sha256": "0778f836a5b970facbd1cce10f4225144ae91912e5923b85bd32f2c9d911a838"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1972.html",
+      "sha256": "a2ad6b9c64780dd62aa3cd5a8ddae9454689ca7d81c96074098026b7d51e9442"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1973.html",
+      "sha256": "51068e0d0e49282d3246a19a9bfccd51b494b88e925d821d985b4edf76b63634"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1974.html",
+      "sha256": "a125fd2721943dc08ac024f78b7bb94bfce40ff35e92df8856b1126b8dbbe6ec"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1975.html",
+      "sha256": "f45c26bc5ae98fe0f12f39f2ceabbee77824a2d03da271f0b5d2d63f9badc92c"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1976.html",
+      "sha256": "34b0d1442499ed1f54e7a3d2652322e275e4e0fcb22bb09dcb0bd6f42ed8d80b"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1977.html",
+      "sha256": "7c086cfb3ef04b3e9323013a32af92ea901f1125af6a9108a0b103b8585f8559"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1978.html",
+      "sha256": "95a51e98d7c597b155eb63ed71602c546a1d04d1ba8453f6424958d4b56739b6"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1979.html",
+      "sha256": "763e1825f6a8bb44676fe711c345d98fb118e821d2a1a1218e72c9adaac8d655"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1980.html",
+      "sha256": "199d7da16e87c5a75464963fef6ff143c44f2efece6698b875cc8c645564377b"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1981.html",
+      "sha256": "20e5404b7151dde2bb1f6193b5c5f136d312b934cb5139a30c15bd3526949d4f"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1982.html",
+      "sha256": "d731ff03aacfd43f489fd7afd21840fc33ea8de6c73d855427c00e72a95adee7"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1983.html",
+      "sha256": "9174e2942118450a9135743fa4b96c616c4301321780ac886a38d2b0fc78507c"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1984.html",
+      "sha256": "48f501cbec47b99999bbf32fb77720a6a7876d898446db033263bfe1128fdc40"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1985.html",
+      "sha256": "b0ee4aafc3f596d141ee10ab9935e95ba0c3bb779b3b25f48088fd6988e3ec6c"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1986.html",
+      "sha256": "2a65ed3368153d8bcaf60247c30881666927263e9e8cfc3987a7235161a3570b"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1987.html",
+      "sha256": "9906d17ad3d2488777c9d7cd69d9ddbba0b2cf94b238943f46cb324990bfe0ab"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1988.html",
+      "sha256": "eafce007c09a8f37da9b187d51fd37a816c166d6bd944feff810346c5820b229"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1989.html",
+      "sha256": "7bfb4032019f6d8a8b6878eff589d48a177957f450207c7100afcfd7b1e5e5b5"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1990.html",
+      "sha256": "da80df8be53337fe92015782cca396da419eb2b52a2ace9de751d93c2dc6a06e"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1991.html",
+      "sha256": "30d205a9c17fad12199a1ecf6dbac9530c753335ac538c3cbf6363a32dd96879"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1992.html",
+      "sha256": "5f93b6de4e643743be631cf626f6dbe044500f95f84a31853fd539adfb3f67d4"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1993.html",
+      "sha256": "7a0f300daf7acfa8f8c0b2316866e0c8ec271ae9e87b7156008a71134b9e259b"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1994.html",
+      "sha256": "4cba3256bb3a77da71ba2b65e00f5545d13fb8c15ff370b6703287c057690587"
+    },
+    {
+      "path": "docs/party-history/leaders/chen/year/1995.html",
+      "sha256": "88d29c62edb467841224f628c7c0efc55d7f7d9584b66363de73b4f5e793036d"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/index.html",
+      "sha256": "8c9c2a397aae2a516f2e869ca1061efc779183becb2ef35dec3a768aae701269"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/references.html",
+      "sha256": "af9ec0f950331d7ca8388c0b605034d155589b65403706c132dae2346c05f887"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/search-index.json",
+      "sha256": "c8db3fd1078dc10e2acf2d0c6190be085bc50c17de94ba6fdc0eeb98fbc4fae3"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1904.html",
+      "sha256": "365eac338974a4fc738bd9a8e71472384373d29f03f4b25e28620e4512f4e1ce"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1905.html",
+      "sha256": "699fed5750acb5e79a897a1670aeebd574cb25d367a3fade9a85577cb431f752"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1906.html",
+      "sha256": "9da1ad9ba1f6d56fb73091d0cdac8bce5ea99bfe120b8a20d0b3e3aee962e634"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1907.html",
+      "sha256": "907b7380cff5d997222131dc3b391bc9caace4b3ec7b4278eaea9b795a7599eb"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1908.html",
+      "sha256": "6a138cd2c449e8d563004a68dcca52b96e71ea5812ce08c199233ae8a1e52e95"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1909.html",
+      "sha256": "05832aabf9c7c747b3d75f6eb95317e5aa3c11c235e4a0dca5d44eb463202aee"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1910.html",
+      "sha256": "02ee06495c434c4f3c5411fb8480ecfab7959889cc7fcc9131de71e2becd2252"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1911.html",
+      "sha256": "237e26ebc5116274b287df2a7d2f943295f024fab59ab2b331b4d734a5d8eddf"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1912.html",
+      "sha256": "a9432e6e1e260bcd5daea2c0141965a92d3f89c94d404a669465c202cd51b653"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1913.html",
+      "sha256": "5b4463dcf5e48246617ec4bc357bef244d9321b17907b7b34a1f7600f4d4922c"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1914.html",
+      "sha256": "a78dac34763d2eb17abaa167ae2928175d7635e493a788062c2883757762f836"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1915.html",
+      "sha256": "87a5440205aeafdf98a4c756eeca0431b2893bea6d762d90f119e4c0ad3ebad6"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1916.html",
+      "sha256": "8c940e3e217078186a3246491d6d66289a6a0b9b4c013291855c1506ef4a2d40"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1917.html",
+      "sha256": "2250d28c9920cbba3e33d87c0c947a39ee07caa3d31d1937a252276f5ad6e4e7"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1918.html",
+      "sha256": "87168db54ca474bf3eba69ea15fac9fa6ddb092da20d7ad4c71b7d4db482dde5"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1919.html",
+      "sha256": "43f01a5debf65b69dcf414fb1eb39e3bc8b21013c8e6888dd32d0c4b2c35b910"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1920.html",
+      "sha256": "cf465e1521b8da3f333b1378e20abf8bb4c64c3885ff8faebe0dbb05003444eb"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1921.html",
+      "sha256": "a54222aadcc7fcf4996ec0c8f02e64441e426e4beb3de767e9de88fe9657b85d"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1922.html",
+      "sha256": "90f63ad50e169dea6fa05ae318ac604a6966299f886140f829ee54b8d0d65351"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1923.html",
+      "sha256": "2b3ced94186b23957d1efab0b30c8bf118899716fe4214c796fac670f8dc6c5c"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1924.html",
+      "sha256": "fac9289d0883d1fc382b2b718e5a02f3c79d6cb0f0e8a9742dd7dfc61f5b6751"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1925.html",
+      "sha256": "f7a0883b364e01a9d173969b3399bffe3f7ccf60be264abc0f218537d6763400"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1926.html",
+      "sha256": "1cd3170b68a09fed28a4319dff3e36587e7422d0570f0d654320853d1aa79bfb"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1927.html",
+      "sha256": "a9a9429b1cbdcf065c70c87f4cd379b5207d60c774c85689c4f1bbbdc67e059c"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1928.html",
+      "sha256": "1c5dcf03951d47b1ff97793987ce964ac76eb73c8e35eca1a5c74e9e28e9ab2a"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1929.html",
+      "sha256": "d8b6d97e49008e91faaa13684366e06ede8c73e0308b5525cf3418d1eb1a4a90"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1930.html",
+      "sha256": "b8d3269e608cbf11c123afcf12961cda060298b0c05dbbfb03a3e45e55292b23"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1931.html",
+      "sha256": "c6cac4357952ef68eec401f4a9ea5b28ea05565071c97e1f9c170f85f56ebb8a"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1932.html",
+      "sha256": "a35a32038b92d2d8d5393afcc5475fa23fc0a5b820d3bf576b113a0f539c647f"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1933.html",
+      "sha256": "d75897fee1b8ec54a436a5bee16f1b8764bcddb7b5aad07cfc4c621b868c8cd8"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1934.html",
+      "sha256": "03d614d601d9d7de912f1ad7f25be252f46a478e8dda4b7f462f1714aad2ec4d"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1935.html",
+      "sha256": "13d75c7d286e07dc3842285216a7c08c97a1e27885132c973ec245d2a2917710"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1936.html",
+      "sha256": "6b1364e480f6459c97da5b4fba1830e0a83cc29deb63459db55f0297eb53b251"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1937.html",
+      "sha256": "8b0e239e3219419d9febfc8ffc08c9b9ead0ca9a6d88d276b8d4fc9a41a121e7"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1938.html",
+      "sha256": "56cd07ad2a34e6070b73410fb63705e2f8694da3daa20f4ad45c34e4ab42eebd"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1939.html",
+      "sha256": "e99e56179f6c87f174a3e0937c44b0044cde4c4c4f0f9e66a82abbbb1950ad6b"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1940.html",
+      "sha256": "ae8c4e6558e60ed331e38a48228ce5807b8912c1e035a9e8466355b1b97ed84a"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1941.html",
+      "sha256": "7aeddf4c3c03e8715bda1c206ef197d826d48bd8ad4843cb2f0a14110a2aa324"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1942.html",
+      "sha256": "ac3cc04a3f702b80f74361574948281a1920ecbdb593fb9e8af209cc6d636d34"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1943.html",
+      "sha256": "9e588c577c7e575fb20759a469241017755e8315dffbaa33e4855a005068fc93"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1944.html",
+      "sha256": "09fdda3330695836d2b2827a87ada9213575d4d87b5963c98fc28a2ab1117765"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1945.html",
+      "sha256": "793c359b8e018ce0ca98e7eed371d34a49aefb0edede19030faf488ae84f1c9d"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1946.html",
+      "sha256": "0ac234ccc805f101a203af994b2b6160ac5e65f3be3c964f8e969c09d31f1c93"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1947.html",
+      "sha256": "af0e9367fb2e685cb59d1406063248e4ec507b5109afdb426e38c1b557ec31df"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1948.html",
+      "sha256": "c4bc9978d40e64063a0f24a59cfff05390d791efc4698ef82bc97b4ef50756e7"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1949.html",
+      "sha256": "f1f710dd89dff141b865c324423d848affb16b9651daee6d1eabb3d49a68cc21"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1950.html",
+      "sha256": "89acad2fdd3fb532e958b2f08e455615e058c05509c300ca32dba951f49c56b3"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1951.html",
+      "sha256": "d753614e6a5b0089f2bc229a03a2e097565d2a4b7284b09dfa16c71ae96c73ec"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1952.html",
+      "sha256": "a8e0d2c0b8b4f744b7d3fcf2a898d1964649691c542251e4894ca262ca46c87c"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1953.html",
+      "sha256": "ecc1c1d4025584dd59701c7424b438fb9d968d4184162f38ebbf9aa2401abefc"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1954.html",
+      "sha256": "bf92f2af1288385a5e64efe1b05b37a26c517969c412e100222e6164e49468ae"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1955.html",
+      "sha256": "d53239a7284e153289185ad15055c53c14eaf0512417abe8cedf04af1c680bbe"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1956.html",
+      "sha256": "2aeaf2c066cbe14e32fc095f1f3a4d304d67a9b0bec199a6a7a17db54d4ad77b"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1957.html",
+      "sha256": "3c3bb90506b815b7b85c0de71a25c6ee00fe777c01a1177b1563ffcd27657333"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1958.html",
+      "sha256": "03ecd00877906ea8b3389d307eb0d24c99bcc5949b67899c742298629b25577b"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1959.html",
+      "sha256": "a83b6e5fa40c3fed5479171c82ca1ca2b791c7608fa95f7c2394ae6ab1258ebf"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1960.html",
+      "sha256": "05f76ffeaa5b09cddd2e40b44615ab5fa909c0861dd884be1cc2a90799343977"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1961.html",
+      "sha256": "21d161bc9b6dccbd3000549f41832a9bcb951eaa21531ec2f06c3a0abc3c4c87"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1962.html",
+      "sha256": "75d20caff12fbba4b132ad205229ca088d56eddbf8a2f5d93bacb67700bd5212"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1963.html",
+      "sha256": "f71515d1d3a7196c36366f9f4b884490313fb1414fd8cffabe60c4943f589f51"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1964.html",
+      "sha256": "a2b809dacb989d85dce1417c238e18975b4319eadd437108de51ff0b9b96db37"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1965.html",
+      "sha256": "9d5cf51098c38d06272c07930e508edd9864a63191200187b44bc6787a3858d2"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1966.html",
+      "sha256": "89272f325d86ab32a266e828e7c0b3deeb3b279cfb8b2ec36e14f4828bffbfa5"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1967.html",
+      "sha256": "ffdf1873c785b9733794257b93c76d706a2a2cf2df1f258cd6f09c26a3ca1a7f"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1968.html",
+      "sha256": "04eaa2d83d23da13e7e92f87c24347fada71435deb03e7e9c08f4c0031d8200e"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1969.html",
+      "sha256": "63a4e52bbfdd36433fe90b18fba3236edbb0f0b1813c8161e47ff22dcb3c6ac9"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1970.html",
+      "sha256": "0cfa9630079d8edd696bc28034ea0ba1ad00a194b6309a47992b23067359e65d"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1971.html",
+      "sha256": "0668e9be52e683186f4fb1072072914472707bf72a0180b14db0584d1e87ca75"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1972.html",
+      "sha256": "5adc990c70b3b4ec0d490331dc3738cac533f7e5b606440eb068ebec8a2ef8ef"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1973.html",
+      "sha256": "820d575bc9a863cf398cf0d6c505ab3ce5d22063b0218c00205d7739462ac5a4"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1974.html",
+      "sha256": "0d4b992d9a8bfcf785fdea6745948a3d256cf6ba7e1ad68e242b6edd6aefd2f9"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1975.html",
+      "sha256": "98c92c0547c7800d9df8023b96194bb5bf777dc6d62497420a4c6638e9c3eca9"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1976.html",
+      "sha256": "2e05bfbec3142c3a9a601a23caa7d6b3e71d38322db254d9906140332bb2c58b"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1977.html",
+      "sha256": "1a679d7e569b139ba983c3493aa76ba224014cef3f0d8c1109d8cc51c4f021ba"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1978.html",
+      "sha256": "e94d046d96849d7f2a1098f1f339b08ec4ec844d9a5b41c83edcc50b28d59838"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1979.html",
+      "sha256": "252e2fae84f7d626bb63868782fef473e9c6d73c94a2dea1e10c564941c3a1bf"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1980.html",
+      "sha256": "64a33941aed0397f09a610a03d7c6b1b358498a2ac321d851eee7e71b7512d8f"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1981.html",
+      "sha256": "b0b37057e143eb70eab2d79f4961422588f08cc74202962672fbb4fb82ac8ed1"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1982.html",
+      "sha256": "a9a03366ace277c7537813d6861af1ab4fcac8fce7e5a3d4b792e353bc502671"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1983.html",
+      "sha256": "2da1aa578a4ffda052f66016acefec466d331c6dbe6ef179634e447f718941ed"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1984.html",
+      "sha256": "c7489e66123b34fbc907b73bb4acac011e2fe8df6cf8a1bfa957f7b92006fed8"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1985.html",
+      "sha256": "adac823c494a919aebb9d02754492c4adfefe93a6cf9441c49949116facc2e58"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1986.html",
+      "sha256": "f7e0f535c4ef8146526ced8fdbd0dcd0984c1a0aaeb790dc9ac601e09d68dddf"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1987.html",
+      "sha256": "445c9134190188a644f3b44af126ab4f5ed424c6b3cc999855b238f3346e8043"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1988.html",
+      "sha256": "9786853700a06419f170b73c7126368c012d4c4b200dabccad54fe7efcef2d82"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1989.html",
+      "sha256": "876c239e875f4f69f42887b1006699d1e8e0051f82dcf05372bd6dd7ca7f9ef4"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1990.html",
+      "sha256": "6c6fb2170ddc50aee953c65bb120f42f2fb594e01c13ab6d3bc58fc60bb091f6"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1991.html",
+      "sha256": "9b7fb3988188e496b6ad73da8a6ad33a012ff7533a43dca9038538af766301e2"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1992.html",
+      "sha256": "1062f126046f976a6b85061dec7744ad6fd31f78302ccd687bb657e6d9e603aa"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1993.html",
+      "sha256": "07149766779bc4e80f734019733d49004b0aac053780208ebf2877f7dc77c2a8"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1994.html",
+      "sha256": "53fe7c272457b6ce9987ede14310e01d8964358b3d5499aff3c8d0ab116ace5e"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1995.html",
+      "sha256": "55fc1014a74846f10fd84e5f18f780e5ee680f14b6dca565cd6161b38e61f379"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1996.html",
+      "sha256": "7eebe31e3963adf98a3435603f6dddc799d7d3e0c59ffe59b5b28d785bdad56e"
+    },
+    {
+      "path": "docs/party-history/leaders/deng/year/1997.html",
+      "sha256": "6b5a878fbbb333a6f2f58b74359169f8a4c8d0aaf03744b80533660c01e587da"
+    },
+    {
+      "path": "docs/party-history/leaders/index.html",
+      "sha256": "7ecad034f655db10bb1b5401d2d9ec803ed1af558ff560647029bde2d40ccb75"
+    },
+    {
+      "path": "docs/party-history/leaders/leaders.js",
+      "sha256": "e2c5890552dc090141f3e2657a118618e7095079ec26fa68b818f617c54f902b"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/index.html",
+      "sha256": "67594a8883f4556e58b03166dabd90be9938cb55c50044b276bf2b8bab6bb00d"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/references.html",
+      "sha256": "157f8f614f1372e695583155975f574d885e0bbe07207467fab4803d69535e5c"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/search-index.json",
+      "sha256": "3954f7567cd46e776905937529fcdc0294d695bcfbc56e43ce309c43aaa0203d"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1898.html",
+      "sha256": "a8ae88bd968797541c9651b84b5c676f74d9f8502d22bf7047c5faf32d6ce82a"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1899.html",
+      "sha256": "7baa138d6c06f3a3a1d6b3be614b8dd0a376cf10250d2c8484beab59d132fb60"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1900.html",
+      "sha256": "1cf35ced64614efdbbf07797a77b8a0649686ac3dbaf18df2dd453e1d6a797c0"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1901.html",
+      "sha256": "0bce62bcbde6b7812d8bbb736633333ea8ff59f007aaa5e3441ec0f1cdefc2d0"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1902.html",
+      "sha256": "ee3ea4772b7e283be31ae924a566f1c825bb28964e30c0d0f394ba1d7f57c89c"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1903.html",
+      "sha256": "0ef5ff1939a7715413691dbabd44cfc4b18e32007ca6885abe33e4a59e949708"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1904.html",
+      "sha256": "1b0a45bd868258a8ca2cbfd9fd21897c6d9bcd990f6bd62940d94b85a5d300e4"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1905.html",
+      "sha256": "51bdf05b5ba27abadcee3542cdf74d6039bbb4d158c8033e31d052f95b8c06d1"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1906.html",
+      "sha256": "4a3ec0ad90fd4b488ec534e762a387849dc8965dd5eeca85aac7d82599d9f755"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1907.html",
+      "sha256": "f7c172a50751b118596b0ac386b800bac28d268b5a59f9bb11bf6b77e558e6cc"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1908.html",
+      "sha256": "c54ebbbacf79bfe7471b9acc24eb0e948a826ca919c3efa66475f56de0e5eb67"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1909.html",
+      "sha256": "6e6f70c283262389aba3c0227c104b2b8a18f7dba0e43262d53fe1d72999b03f"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1910.html",
+      "sha256": "39010a762f25623d035841468dbb9e09b5d4992e7720c7baaddb017a71c15ff6"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1911.html",
+      "sha256": "428817a7e847d2fc68803613d56f4eff19d6fbcd0641dfaf68b93ffb9043b1d3"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1912.html",
+      "sha256": "340ba4245f845cc84ee312f00799ddc69b2fe0db3152b6a6a441cc4e71b15860"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1913.html",
+      "sha256": "26cd68f27e965db5735f61b2a114e3ddb07b09c2c645224842ec2ba4f9c513ab"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1914.html",
+      "sha256": "ba1b1fad58b986369a0205826298a441b4a51a41e154935b2f22faeaf59d9c58"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1915.html",
+      "sha256": "8c9e148cbd3d6ee995bd1eb3644b165c55012462bee38d41c3bdd7f465e84de5"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1916.html",
+      "sha256": "99bf49db467abae10422de24aeccfb069b66aa8cacb78f117f884351dd5991e9"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1917.html",
+      "sha256": "c96a297b206d11656783dffabf4efc384e811178d192b5f15d59871cc1926685"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1918.html",
+      "sha256": "01264dba3c59318ce501565b4b51a60ab1588b6ebaa952f676ec501f5a610364"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1919.html",
+      "sha256": "9a636e970a19268280ab8036b829c48ae717a40cfc5f7e66750c2a918e055366"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1920.html",
+      "sha256": "b96c32ab244f04110119c75284b407cb39f7412cbfefd901f04b50b18eb35640"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1921.html",
+      "sha256": "cf0663622cdb693fe985d3f155188981c49a1fb299032f9ba8e0cf31387ce076"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1922.html",
+      "sha256": "60832f53ee09846dc5fd70f53924c85d131f60ac60d673cbc57a7f6d83f128c6"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1923.html",
+      "sha256": "bbc9047bd89eb52101160d52923bfaef84ee062c692648545c0bbcd9420f294a"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1924.html",
+      "sha256": "e889f2bbd47f052875e1fa77c38052a62baf37615fd4ba38e71e947d3f545c01"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1925.html",
+      "sha256": "32662762e4629531897e515910836ea00594dd06006ae66505b2002d420c6acf"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1926.html",
+      "sha256": "b7794bfa43c6283263b01c7821a5a938931cead5509881475d2f601c03155cbe"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1927.html",
+      "sha256": "349e3a8490b6e4a59913bf2bec1145449f81d19f16e7ebddc45cc2a1f6bb254c"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1928.html",
+      "sha256": "bcce246f0f5605ee6da239e2866137bfab24396c42ecbb6c86ffdbb6900d30fc"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1929.html",
+      "sha256": "6d2135c927f0c12ed8d88f1208d7421700c2d6af1669f83a68229f78826834f1"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1930.html",
+      "sha256": "c69b1f25764cbac248546fc7b383bb63f5c2deb1cbe51323e4cbc65b1ed49d86"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1931.html",
+      "sha256": "c2b472577c113c71af077d9abaf2549d2648cf7379b26792158b287ddf0a36d0"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1932.html",
+      "sha256": "034b6f94381078367e9b3c9ab0a5d4ec2dd59414ccf61595397289de8bead78e"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1933.html",
+      "sha256": "a6bcaa44c3907b9eabf1aa26c8d81c2697f24436f50dd5ab146e2a9c9e1169f0"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1934.html",
+      "sha256": "e83ec7390cc6001a3c6b313520324b108801d409caee95a8992ba101d7527072"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1935.html",
+      "sha256": "d1e03e3be664a461185dbbb82e5fee55e403bf8cd6a1269a8670ebff6d25cc35"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1936.html",
+      "sha256": "0e66b3bc9bf7cd5a57bfc67eff17e6dba51873f9633dbcc58be68ef28f9ea244"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1937.html",
+      "sha256": "5b02a1e628c19bb20935e782b9a3c2e3a09cc9e9abbc332c9761f9f37053dffb"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1938.html",
+      "sha256": "027cfa9e97737f0ecd420137e5bb4f45c8517ce90db0479bcbad333b94d9c973"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1939.html",
+      "sha256": "cad2c887db68ca99886a2ebaaac7d7243bdb78b0ed4910c0f5e6936e66e2097c"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1940.html",
+      "sha256": "cea7a3cf2d751b44508cc244a0cbedb7a96790ad41c3d5ec815983fc5316d91e"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1941.html",
+      "sha256": "ee76583f198d04231c2d7265235cb6417e66d6aa810dc715009995d22cbac490"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1942.html",
+      "sha256": "4e51c546d07ec1c5c76eab5d552c36dcd01e8f09756a0cef0ba3b47c960f2afb"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1943.html",
+      "sha256": "1561f9f46f3267cf8677cf2c6b3bdd6d829f694a6a384551ef236a2605a32845"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1944.html",
+      "sha256": "84c2785e267c35c2750603675b47418b1bf812d23aa0746ed423052d6bf26ace"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1945.html",
+      "sha256": "c41ef2c87dd0b44fa4624d97ad8e51ed3e910e8c63fa7a5631bf15191b1390eb"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1946.html",
+      "sha256": "ded7ff52f4570fd394e263a80c8a4438d1324095aca2267d1f1209e86a00fcfe"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1947.html",
+      "sha256": "74fc5dd2be1b046f2bd2da2cb65a3c5d0048266170f4076a10dc47c61e2a5c7c"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1948.html",
+      "sha256": "8e91f4a9d01df7f24fa84c83712f32435ee4f3748cdd13632bed79080a30eb48"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1949.html",
+      "sha256": "52773e444b95a9a9ae662739c9a52110a63cc5c1f0a32511691cb2ab2f680f83"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1950.html",
+      "sha256": "3d33246d2008b8bb09c1ffe066a6a1d0ab2e50a4b57413a82ae390cefaec4c3e"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1951.html",
+      "sha256": "e2c015d0ce158ce83f689d04bcf4b64545c6f9fc45ec24a7a8d80f9eb0afe082"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1952.html",
+      "sha256": "ff1ce26a59359e8c56c12a2d9315ea7be94a047e20d3ae9d920f40eeee350095"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1953.html",
+      "sha256": "b1c6d3dcb92a03b242d7dd9b32d891c32287169cd48544fa7680682c683828ec"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1954.html",
+      "sha256": "58738739281b8ffcc00c5575ccf36d60870a246709b0fb0ba1671f045f72c1a8"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1955.html",
+      "sha256": "35ad4245a60c139bf26db56954af0509a27ceb5d8c5df105ddf6457fca4d4ac9"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1956.html",
+      "sha256": "7592d3501093fb24d02e0d643c8e76414a2ecea9c7b889ce6c0af0bf127e0acf"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1957.html",
+      "sha256": "e97f3ecadd128618d472dae2707e63908f3e2ad23f879e34aae88f2c4f5db343"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1958.html",
+      "sha256": "55af3113f402f3344cd7f0686d78de9928d175619c4ce067988cb62ce1bc26f1"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1959.html",
+      "sha256": "b693c3f9fed150adfb098183ae60b1c53e1bf14b7cf5e037337faebf9723da4c"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1960.html",
+      "sha256": "b3e7bfe41c7e22c23f84aae999b6bb63e6819992c0901e2d91390d1795801709"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1961.html",
+      "sha256": "356e461ea4756962b173a375929a5a1028f8311360173713caeec631a505633f"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1962.html",
+      "sha256": "96dcf0e495eb242788a5cc0aeee86cc7faabbc23f61753fc1f544cfe23f21254"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1963.html",
+      "sha256": "08247cc97799bce0590edafba88b116e3bc4943cecbab411693585942841d91f"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1964.html",
+      "sha256": "752129991f1a69cfc46de27d8d597510a2a70adfa96d2c81bf5e66f890dc9896"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1965.html",
+      "sha256": "a5ac8f4e31edb81561eb62c8be91cdaa4477ee03724f7cdb97573eb71c33a31a"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1966.html",
+      "sha256": "5c662fe04b4cd8dddfc9e000ee6b15004ece051e2d4c7ab46789a84a4d796907"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1967.html",
+      "sha256": "2a910a551cb53d09d14a461d85efc89d1206d430dafa08adf0665ec7f1ff3e10"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1968.html",
+      "sha256": "228328ad64e0bf9b886d84e791591f589c327124ac5e680ad8615a845ca94b3e"
+    },
+    {
+      "path": "docs/party-history/leaders/liu/year/1969.html",
+      "sha256": "f77cfd18e346f3f58a1ff830379d50aab04b75c946cc93036c1885a6c85a3e42"
+    },
+    {
+      "path": "docs/party-history/leaders/manifest.json",
+      "sha256": "9edbc7e46b205cf4a099aaed839a37704c7e816b28cd1e9fd1a561e99e60932a"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/index.html",
+      "sha256": "abca99f85cafa1d2399d4efefa5585ae62716d9eecfcfd90d1c901604ca5c454"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/references.html",
+      "sha256": "ea60977df11e4d976a5a19deea95183bba4cfac59c129a21ae97d0ee0f10b71c"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/search-index.json",
+      "sha256": "31ac5bb5be4cfbec17d32ad068a2cdc48a9d9be930df0fa6f9f7d6ba1d99510c"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1904.html",
+      "sha256": "e129babec0c435c84078b192a0e7a1cecbc6f3fedc49a915c844c6da9dca8ead"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1905.html",
+      "sha256": "f4e45610dbd7d6b482cef2725746ae08a633f77db3976323e365dc3e4401fdec"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1906.html",
+      "sha256": "44bd60d32ff323ad53bf658080f83f8ad68d0ed0c0dfb5bed185a4d8b2944bc8"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1907.html",
+      "sha256": "847597a1a036f8708bf3a1901286d999a90e8fa57bb54c2b2e5d58ac48d023ff"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1908.html",
+      "sha256": "6b5895ae7e70973ea21ae772f74fcfb111828467d6e5a20236a7fecd12fe010e"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1909.html",
+      "sha256": "fc7796279b25e75de595a28c3735bcaf555489df953e37775320e72abe4ca563"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1910.html",
+      "sha256": "3f4b9885bc28762e79b995e8e080038f62c6aaba37f79eba67cd3b9088db8836"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1911.html",
+      "sha256": "c0dc8c363a53dfe02ca9dc9dc0316b97f1afc2cb7f5a25c23d9da2aa83971f80"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1912.html",
+      "sha256": "8a81ed5cf8b1841807bd28410ba39ebc30b7f010814e0701e08b8d52d613fb3a"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1913.html",
+      "sha256": "dcb2311aba1a9648eb7b099b94a5629485d4188c5ff0e5967fd1074cf3523e2d"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1914.html",
+      "sha256": "40838eb004904ed3efb6782994bc36e423aef20cdc6a1c51d933bbc74dd3fccc"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1915.html",
+      "sha256": "fdd73a469e344060574c56f034f8edb92e6dc2bb361c4472556756d1bd33971e"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1916.html",
+      "sha256": "e98c01ac5b692cbc352acea071a9444d9a326b45ef86024acb93102ea500a64b"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1917.html",
+      "sha256": "c5b2f6ef06157fd368c1215077e736537a0987e32a495289e71d1b053581c819"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1918.html",
+      "sha256": "98cd658cf3bed1e6144a33ce79a768181c4c2ce34cced3008eb0f2e496a17284"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1919.html",
+      "sha256": "1ebfaa6455ad0b8579e19931d30e0176237bd49fd867f03faa2b3c06bd29e44c"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1920.html",
+      "sha256": "3b2c84ea09a2be17388ae76ffc5d7230c7c81bbaa67cf6cefbd5eab11a649337"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1921.html",
+      "sha256": "42e55adac7ee3c22060521388ad93bbf98427acbe9a7e9e4ee3b2e561a7c82b5"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1922.html",
+      "sha256": "ae514707d9899962b36bf9715d6e8df1c7d72db47ddcd4906f0c5832d9c6d14a"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1923.html",
+      "sha256": "98faecafa28780fc8c077c9daff0c1a992afccccda9c8584d6d21ddebd91ad34"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1924.html",
+      "sha256": "41dd72371cb2bba25507a4f7333b149c79b9bedcf09f5f1500a0f43c9dea35f5"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1925.html",
+      "sha256": "6b03a1d305090a508ead2b62e67d44f8b7581cac1299b665290bf506083a845e"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1926.html",
+      "sha256": "7ae9b46b369cb82125f74ec99f7f0e2f42ba8b4c4776518516097920827e9d96"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1927.html",
+      "sha256": "6a46dbd979093fd665d13c7d70903d2332d0ed8eb525890e0dedb89460b5a41f"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1928.html",
+      "sha256": "6e1b63f500a4f92cc01dd42f864787bd3dd4588ae0262e873ac1d6cbc7bf18a3"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1929.html",
+      "sha256": "27cc393f9f14bfc534920a636bcbaf7c5e202ea1afb4470095aea1cfffdf8579"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1930.html",
+      "sha256": "03c77b16ab8f1f83024710044104793b078367238128cc92403f88ebfd613438"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1931.html",
+      "sha256": "b751605e0a94ed794c5698e1f28e7884067a2b00296762b3a424f08564615616"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1932.html",
+      "sha256": "c86b9607cd3857953de615d72b7bcd1def4d4eb4e91daae655654aab7dc96dff"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1933.html",
+      "sha256": "432462e73408a05745644914785ec271610a377030a6b8b2a0171bc71ba258cd"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1934.html",
+      "sha256": "f7b50e81021845960425b46f3f0b56a8e2208db717c9a038a9f4cf4b8507e2ec"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1935.html",
+      "sha256": "8e18a39bf9b8ea56f80c24c40c4ec56ee4a299d6de09f3f37ea42ff908f48e08"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1936.html",
+      "sha256": "6e81c35b9676397ce0ed3bb1fa3749fc76c360d3cb84138ca85d17db30083f36"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1937.html",
+      "sha256": "c865479f932550dc6b1370ff752c6b61e7d4e545856f5bf39020253440e983ea"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1938.html",
+      "sha256": "cbcf7ad0e9ad2fc878f97df1a359a2cb397a3b8c624172dd26440f8bc30cccd0"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1939.html",
+      "sha256": "072e9d48c3f4ae578d6999b00014ff041c146c0d46a941ef6c63262e024f5104"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1940.html",
+      "sha256": "edb3e71d8ce9d562e6d44200d90d226df64c568d56aa84a95e5629d64ff06102"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1941.html",
+      "sha256": "fd6f7016d3c94c968b60b5ff99ca68bbc9e7abee92d1092958ba08f2224ffff6"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1942.html",
+      "sha256": "2201d6fba6e637b43f76c2ca235c680e0157133213b461485f8b97222483d2c3"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1943.html",
+      "sha256": "21dc46c6f0c1db7163a4f6bbc189220afeed3c03be52e8d27ede5e395aa2e94b"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1944.html",
+      "sha256": "c07b8838d1ade890afea21f0221bd3a30f023d6d3d915d7ce45dec21bfc5dbf2"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1945.html",
+      "sha256": "d5b4d0ca9cd65c1bc44b55fa43ea5666d0e33a3a4b9aa6190236ae476200dfc4"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1946.html",
+      "sha256": "cd78cc31aa94f39ed356d719e6ba6dd295ed045deb323ee1135f7636566e2458"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1947.html",
+      "sha256": "13a42d7c3599724dbae61236bdec01ea4d9fb4478148dd533851553e0e3a6531"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1948.html",
+      "sha256": "54f979043f210b1761afb85299ed4845d724c55db2744d5445ea6d4d70cc9925"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1949.html",
+      "sha256": "7a72df498f4608c5337917f343332e280df9b7d5835366b56c8f5e6b0a34a197"
+    },
+    {
+      "path": "docs/party-history/leaders/ren/year/1950.html",
+      "sha256": "205eeb2fc6ed8c9837a30ce16e58a2cfb1b52815fa91fde3278306fa41fe1189"
+    },
+    {
+      "path": "docs/party-history/leaders/source/access-check.json",
+      "sha256": "9a250b6bd0198e5866b735cce872c89330e169b78fca5ef84e62545bc94ecd82"
+    },
+    {
+      "path": "docs/party-history/leaders/source/chen.json",
+      "sha256": "67d33ab3dfe27d33bc224fdd1ff40c77f30d2dc566745bb6c8a2077bf8dd7508"
+    },
+    {
+      "path": "docs/party-history/leaders/source/deng.json",
+      "sha256": "af60f069774b70b705a8aac52acfc8cbb0d3ea507ceb182cc4c50cb73ced9501"
+    },
+    {
+      "path": "docs/party-history/leaders/source/liu.json",
+      "sha256": "5868516f7c732125a16ad9471cdbdb4dabc3a7f7a75f7334abc7ea4b6d3f1ce2"
+    },
+    {
+      "path": "docs/party-history/leaders/source/ren.json",
+      "sha256": "b5c3bc533052e624f0d47e172615362365f43164d4d1157de9cc7e1ac1be58ab"
+    },
+    {
+      "path": "docs/party-history/leaders/source/xi.json",
+      "sha256": "1480b2f475b039facf7c3b4c2fd8951b5e1d8ae18269394a2fdb3115dbd7186f"
+    },
+    {
+      "path": "docs/party-history/leaders/source/zhou.json",
+      "sha256": "086e00625e8cb1a61f53a6ca2971923f3d4084e98c9f114e60830638c35c2ffb"
+    },
+    {
+      "path": "docs/party-history/leaders/source/zhu.json",
+      "sha256": "60152cb3c38926fb6b6fa7282d5c33661cb6b448660436da7dd3145047863611"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/index.html",
+      "sha256": "c218c18432d0dee4c48bce8bfc2933d8d0bd5abb7c8fbd5b0ac70786133cdcec"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/references.html",
+      "sha256": "d3ae45a5277bd8c519896884fc3c531037e7260f23fd0866a2997aba7ee23192"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/search-index.json",
+      "sha256": "fce0192e7c2ea16b02a5fd476e4f294e012565a7701dd3b88d864feac99c5628"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1913.html",
+      "sha256": "4c8fddb8716baa12e911054c95fd9eec00c4992b74adb18ecd69e6051f1d50d2"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1914.html",
+      "sha256": "2e77ecc60038b6a72f759b4f27556354b1a01c3aaa96271f5c94bbe4fb800511"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1915.html",
+      "sha256": "ede079f34ef98d625355556f1eb811a058fbc77ec84fa73b5e292bb37db82080"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1916.html",
+      "sha256": "97ca54e433bea82931c7bf25bdf941ae1698b514fa2f94e5ce750bb01d164c13"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1917.html",
+      "sha256": "35e61287d74ef3abe595ee11703b0a2e0614379fe4dfd08430ef847507c537ca"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1918.html",
+      "sha256": "71e0785be3ffca32af7844269c459d8a7a35d7b9f124bf3f80fde492961d76a6"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1919.html",
+      "sha256": "012b121c2e7e6bb1a3489442f5276d2a4a5170fb51e0e7ade20d1139cecd6391"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1920.html",
+      "sha256": "d1298ff6a2be429fda5376369581c97af855fd6e06fbcfae0fe799a2b8c8f6ba"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1921.html",
+      "sha256": "39ae556c2ddeec1bb9ff87ab84ed72631efc4db872027ca7fe66bade1307461b"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1922.html",
+      "sha256": "697f584627d6a7e77841302b67ede8a9a56e900a5d1822c6e8c1ef49fac63099"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1923.html",
+      "sha256": "64c409a812836b74545bb24e5a0f5504793b0584f271f71358536fe602c98099"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1924.html",
+      "sha256": "6e9fdafe16be014a69028e0b4b4253eea5f4cf6e18da21ee82816f8d1f14ad3a"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1925.html",
+      "sha256": "4abc498c0fb8a9c170255b0f92aa932fcf63269eb51f0633bec013a127cd88c9"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1926.html",
+      "sha256": "cbfc1bd8935f062575fc7c04c7def98a23f8fd0c379ffaffd9d812e07c96bb99"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1927.html",
+      "sha256": "6a4bf7de7e1925562bc874dab9ee1a9131011b996a1ae32c74847141a0d62dd7"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1928.html",
+      "sha256": "a1832ff51eb12213ac43575357d4e7cf4af91a56f0714ee9e8f085581e3f1b28"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1929.html",
+      "sha256": "bd1325965030539ff32bb4a72252113cb4a83a5131cc5d85f457c680541dc85f"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1930.html",
+      "sha256": "a3ba46526654947f553af8f5d310430f864b5acb92287a17702bdd54c6a3bbdd"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1931.html",
+      "sha256": "46557d65858b127833462b34748368695519dd9e60419f346b45e26b08c5e4d7"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1932.html",
+      "sha256": "8764fad04d2905a69e19b248b3923f585f6b88df04a3197523939e18cf829e0b"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1933.html",
+      "sha256": "ce7d75d443d7544fa191b1db0950689eb2534ddc35dfba77a25e24bf563fdd55"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1934.html",
+      "sha256": "665650fa4162babe91711137e22cdaf6576330efe4b4bd947b88dc55e6fa2782"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1935.html",
+      "sha256": "d1c1d9458807ed961540d71c628efc5db0234cbd4f98b97af4ebe85f1bd10f34"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1936.html",
+      "sha256": "2018a1924d45626a6d6156d786892745e30de4214db5e1119b85f4ef54681368"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1937.html",
+      "sha256": "2f7bb580073d6c71373753a34ed372e3701f804529e41f11f702391d09f80001"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1938.html",
+      "sha256": "904eac6f3964a7c666d9314045e9d532ed0cecc9d69c299fb570fd0e92f6c960"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1939.html",
+      "sha256": "56ef38aac57d468f86fa523b29d0756fe5ca95a27a648482f8641316381eee1d"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1940.html",
+      "sha256": "133ea214965fd9ba1bb6bf2fcd171fa9b6579b9abc8d56e674deace1ef7556f6"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1941.html",
+      "sha256": "07ea3aeebcce74dc498818552339a9cd003faf584735e873e53d170c570445bc"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1942.html",
+      "sha256": "7d899e040aa82564946ca66ecb6d5937f244a11b7ef4db24e6bc565ee352e2b1"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1943.html",
+      "sha256": "9f142f15328cefbaf949215e3dd8b6c263ba6f28e999fe8e3655dfa3dde3f591"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1944.html",
+      "sha256": "a8838a2f96cbcf8b1c66a283d618f273f73f65d82b6c22722c408abceff56988"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1945.html",
+      "sha256": "953bb98e9a0800dc57e9e909129cbab4577e9f4dabaf004df8a4e64e5f3ec1d0"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1946.html",
+      "sha256": "57efc025587a20112b71a1ab2a043572c12b3215eb6a4c8a9d1e257fc0da1faa"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1947.html",
+      "sha256": "e8c6b3906dee92dcdea1f63a3a1c98589447842f2d0a93cbb6e79fb19625cac7"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1948.html",
+      "sha256": "d2a9c880387037fca94d7cb04ec47feaa24951c521931d56e222cf60e66eaf6c"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1949.html",
+      "sha256": "9c554b536d8f71355405b1310891a42c88246c32d3f3825338ea4639185f133a"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1950.html",
+      "sha256": "d2a0562f45248e522a1e2ea176cdb7512ca74f78fa1a6a91ebcad69d26402f49"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1951.html",
+      "sha256": "4487916382e40348564e9560062eea588aa1f701574390f5e3d3386f518a9960"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1952.html",
+      "sha256": "9592720b03f900fabb45231de72e5065a628c39fba5e7d2e573bff04816b69c7"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1953.html",
+      "sha256": "d7ac6fb568565ecf396b632060f18533d90fa820ea4ff842b6b6998b64e68b92"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1954.html",
+      "sha256": "3af60a882955db0d5be099b9985361a1b278e3adbd1a63c1806d06f9579cfc19"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1955.html",
+      "sha256": "85fea1dba660d62d7cbe445ee535938a3c062e8fb003cac453412bdd71f82ac8"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1956.html",
+      "sha256": "9f8423c1211770692033cb36099676327b9aaa97daad6b87e70a28c5c1d822d4"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1957.html",
+      "sha256": "891a1ed6c2726141f2e47b2c8d5b6312111491d4366e3c4abee37a28c8da1b38"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1958.html",
+      "sha256": "9110357a4827c99fcdbe712d60ba1c65533cb57024aed760adc79c115d6cd6ba"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1959.html",
+      "sha256": "127983194499c1512d129f6e204e19d76d183d46c4083b6d55d5f8021c831018"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1960.html",
+      "sha256": "541ca993d178a1addaa7447e4290c45ed5977feca0bf1e963ac29bf1b4267da3"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1961.html",
+      "sha256": "e885a7efc9a31d718b3021f89540fe9aa100c6767818d3e2de1df3567493e61e"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1962.html",
+      "sha256": "dad96eefa515871a8c4a39c0f1f5f3eedc9e8d63108f05ca12a0f00d9616bcfe"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1963.html",
+      "sha256": "985c367160ddf1927dd262fde3c5cb1655c35c166b92b3a255d4b15b7f561bd5"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1964.html",
+      "sha256": "13b6819e51b95d0b241f2995fad17187f46532e6c6c216329469cc5d2d570916"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1965.html",
+      "sha256": "c88f63d98918bf9ce95d8f38e8a80009665a8ebf76a38ee433e0f3fa61b3bfc2"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1966.html",
+      "sha256": "d2c28790d4f1303e4a9c593a85c47d1cbea61869c49b2f6048b0228a84e75871"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1967.html",
+      "sha256": "8adf32b43f043fe5698a0ec0e2965b4eaacca58983f0c36db982281c381713c1"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1968.html",
+      "sha256": "9d4e3726fab920052b8e40a5041e00aee45dd3bf96fb985a9590807d5137f104"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1969.html",
+      "sha256": "d681bcf18e20b5003a8f5186b3e57c12779475cb1a5fcdba6224ab766ce0c49d"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1970.html",
+      "sha256": "b903ccc8433258ab73830ce8b0c74e4da0ed40bb42723baf83d1304b1a75a243"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1971.html",
+      "sha256": "421515049f4a0cc616eefec9195608fb2cdace7b02953fa2cb30d3924f7081dc"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1972.html",
+      "sha256": "369cdbff162a542bde59b48b3ba6d169f1c5b70ebc21c9a535a0590351c3d2d1"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1973.html",
+      "sha256": "98a2ecd7a42013a2180196accaf3dd5d48c3ba95f884187a42fdf94a27661489"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1974.html",
+      "sha256": "9ff30528d4e6db7f45dfad655947f620de5bae7d45fea61000cb13a437754bf1"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1975.html",
+      "sha256": "b0295203c6f744764f745cf363aa2f09c2de0205ed363dc8f013c1e01808bd13"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1976.html",
+      "sha256": "ae89253c7d1684d036f1834ef12c058c0fc67fb736269f043e7fd8f9929680e2"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1977.html",
+      "sha256": "aa2cd5e0e8c226d86007c69609ab8be791f86e90c13ab6a39dcdf7571684c890"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1978.html",
+      "sha256": "a9dfa7f9765a07e3f06f9ab56fa17d5b8e48467e78b4146164a5d94a94c56853"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1979.html",
+      "sha256": "faeb1cd31a359d55a11254e66deb9b55efaa0887b74f6123aa72e69ee023da0c"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1980.html",
+      "sha256": "c57fce69cd0916a8269e32a8bb3bf4f8118a83d69a1e7d2bf030fbefdff6e053"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1981.html",
+      "sha256": "053c14703f301429a5b1e5d33410ca0aaffb8077f0c83791b2a7795cce19aa6b"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1982.html",
+      "sha256": "7458908ba2455907983b5ff1306910c2dc9b41f83dcfcb110a429484a19718e0"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1983.html",
+      "sha256": "9df39cdd00756928fe299d21826fecec2314db143d7b94ffedc9aadba78cc4b3"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1984.html",
+      "sha256": "7c747aae290c26f9a7785661aaed2f83f7b8641df9f08d1fe564dd63daa084fc"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1985.html",
+      "sha256": "2e029446697abe8784f1b62b9988387dbb4ee62b2f4a4c5f1353b71cf1840b98"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1986.html",
+      "sha256": "e0a49de57f55d3279df7601ce129e935df453d7d56d21774065ca23b3a6f4083"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1987.html",
+      "sha256": "f2f3d6e3aa4d3eef7f5dccb8e637fb63eb7c99bf9b1d633aea8f7f150b84c07d"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1988.html",
+      "sha256": "3a7d0801b93db03a1dec71e5e4c667a2cb995486c682ee9b97e5df5b845af596"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1989.html",
+      "sha256": "612bf3bf1acbfde96ab3b4a211c6479c8ec02420b498d7295a8e7e90c204e1fb"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1990.html",
+      "sha256": "37b37a2bc9f4bf92f7537e498512e7f4e1b42beaae8352ec0620a48ad79fa49d"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1991.html",
+      "sha256": "f2b8ae089e9ef82bbedc4e681952239ac1f14d64254e366c55a169389a683a40"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1992.html",
+      "sha256": "41d2a4aa3677991274ef4841db21ad66d197ee6f4a5812e23892fb72746365ef"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1993.html",
+      "sha256": "32547b2614dda32910afb73288ced056c904031a109b2e705d21803bd569d337"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1994.html",
+      "sha256": "566362849ef076e42db2e7ae6f6b251bc5353f09fe1d85fb1e96b1d6affd8fee"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1995.html",
+      "sha256": "6b31f916d696a5ae5c8baa14e3630018243c81e667ba54790f70ea1742795275"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1996.html",
+      "sha256": "9b051a3a345900d5c4c37701e45bace58b8985d678ee27a67703cd90df5b4628"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1997.html",
+      "sha256": "fb5dd0312bd81d0e9eced72438d940ee1d6b75ba631393decea9f98ec46ac3f0"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1998.html",
+      "sha256": "4dd0e9aeada0d1ccd05541206d4c1688d61df8ae35bd3f6188eff5bc462d462c"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/1999.html",
+      "sha256": "c5aa6a0c8616eb783762266088e7488e2aa2dd7f3b392c32d56f87696a5d85d8"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/2000.html",
+      "sha256": "5d26937fdd159bc9201701b64ef7905d13c2d41b9f69c20373e3f71e3d9dc98d"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/2001.html",
+      "sha256": "42db1329107addc2361f9df49217bdfbb46b3c1bd405582173161557bacfcd8b"
+    },
+    {
+      "path": "docs/party-history/leaders/xi/year/2002.html",
+      "sha256": "43c6cc90f34876d015be49d39445dde1dead478650a69f611795fc558970483c"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/index.html",
+      "sha256": "f57e9a38d56a932be9600ffbb027bc16a8ee0e6378bbbc4ee50278975299e8f6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/references.html",
+      "sha256": "6fb5d378d5c01ccc8ac905ab7b7180da2960c2f9d6fa8f5340f3f00047fbab71"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/search-index.json",
+      "sha256": "48c3a2b09d2df9641ae6ca30d947dc1f1711bd0d1be252056235474103ba2de4"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1898.html",
+      "sha256": "5610fe769cb9dc44525be4f2c36c9ab55acb00126a4b98b9c90e1e53e5d2702a"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1899.html",
+      "sha256": "81c791713e63f7137ba15c4f0b7b765bd1d167d8537df1347fa492a8746d50b3"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1900.html",
+      "sha256": "309084ae83426378fbff9c6d7fdf6e6bbbb9f9f3e521d57a13037524d481cfc9"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1901.html",
+      "sha256": "978a0cd506cf21ca05c0598492ec88645ba68fc4115580ee68a3b2f52a0a0d25"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1902.html",
+      "sha256": "20aa1d85c6dfa2583bde21db9af0058d79d956a26b4b19a6e4746c0d56418c75"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1903.html",
+      "sha256": "408deeec948d908361d876dd93681c0add385e1b9f0beeddea011d1420cee999"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1904.html",
+      "sha256": "0fc234d723fc2f86455467da3a47e8234224e0148feae30776ca39989de59907"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1905.html",
+      "sha256": "94c1d3c38ad907a5b845f778a257a5485999d2cf275dc1d0e3454de906a7bb37"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1906.html",
+      "sha256": "ba2709854620a1b0b8ea4f1411dcdf9f6638ddfaab57cf75b482be85850cdf0e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1907.html",
+      "sha256": "5f5744d75df31cec14489c5602a2141538844b2e69e0f479fdb2f37e47ed3e03"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1908.html",
+      "sha256": "f0eccc017eea65fde4d340f849dd932822b9ed2331a84bdc1ba60fedef94bfbc"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1909.html",
+      "sha256": "9c20a00078f5fbe0cfcb5f28fa0a5774aac39c568f54aaa5e9a25261d2a2a0e7"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1910.html",
+      "sha256": "76cffef25479a7f7d2ec5098101b176e8d9ebef7fd0ce6888a097890a2ed825e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1911.html",
+      "sha256": "28d7d5cbe795c8732e2736356834e0dcbda1e3c4bc8f18885b852b28fcd4e683"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1912.html",
+      "sha256": "fc493f9b8b046cd36ba7fed8bf3b4de8fcb5a19fc6442def6794b2e3994a123a"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1913.html",
+      "sha256": "a79e52e5958cdeb78a1e82185cf412f03049be851abe81531fe329ce1111ca47"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1914.html",
+      "sha256": "4db4924cd65b7964dde95a29b3271726bd2958498dcd8d6551adfebaee111a99"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1915.html",
+      "sha256": "2967570bf7db0f92476e7c2ab06437ea9544dde65f5a51fffe3b499d53d283b6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1916.html",
+      "sha256": "09a4ee3901aa4008219482d61559f0b22d79e5d0bf957d22bb00899cd82f4471"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1917.html",
+      "sha256": "56efaf60fcb3e45bcb9952dc6c4dbac6d2da748010cfe3681872d1a5196f630c"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1918.html",
+      "sha256": "ee7d1372021b14ce0d174a08a20e4b559300445bcbf1b4f7835ad91e0467e190"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1919.html",
+      "sha256": "b3f86d92d81574af72b15748f0982563e9601ee573a2f298bcff552a473fcccf"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1920.html",
+      "sha256": "67809dd8a9a640e8cd0ec3694edd96e192b6c6a2b28b8225cf6dedee10a5a5a3"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1921.html",
+      "sha256": "76abdba0809e2199a5af78192bb0c7286003acc4e44f5bc7340489aa0c6c0da7"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1922.html",
+      "sha256": "2632387da76cf2049c49162961440575afc4650678d3b07b527ef6ab073f80e6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1923.html",
+      "sha256": "0121525a64ec897f750bbdf4f3b4efc7cb608ca1ab022d045bf4e17f4c2788f0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1924.html",
+      "sha256": "a1bd554d926ed43a7c504e2644e374955a5e2863a81f67c50a1cdfc7767ea358"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1925.html",
+      "sha256": "23b44a23a7679aed3766a833700976c760f73ad7d6ffa902d083749c6dc30b2c"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1926.html",
+      "sha256": "cdb27e1782a89b8f956418c77b345778847479bc00c3f9adb9105400f7dc7fdb"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1927.html",
+      "sha256": "0588ee9756dfd6ad8de195a170e46dc45cbae85bec8ca2bdb5a8d2b065195a12"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1928.html",
+      "sha256": "68191ae8e7a33186e030d6ec9a744b3b3f5928e55950da2cffcc79982f3995d9"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1929.html",
+      "sha256": "0b8d4ca617fb808a7fdae00366cfff04d4eed2ecc13b427419884bda838c4022"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1930.html",
+      "sha256": "685512a8fa7f6325cc4d5c8f910c8af5e9144a8c34b08933c1453470694f9036"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1931.html",
+      "sha256": "438d0528bfd06310a578eabfc4b98714d5c39fde153c8a6ba0ae4a01bfbeb757"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1932.html",
+      "sha256": "933beecdfcfb9ceec9452be2419fe9e7864e3653d25f872e8f45fd76db2bc074"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1933.html",
+      "sha256": "8203d08c161abb28cac4df6e3faf35524ac2b3d2d9b1aaeda5c46db51259b5c4"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1934.html",
+      "sha256": "1da68c1b8d8e5ac8d6267b0b2b0524048dc0650f47834b1a2b01bb876ffff1f8"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1935.html",
+      "sha256": "0b7550965f5e785f8a4c918482e6a8226ca978098b136a03769a0b9485e8a398"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1936.html",
+      "sha256": "8eace111ce5c1a8528690759665bce9511649b58ba5e9d2bc60c8f208b28a3e0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1937.html",
+      "sha256": "f9cd864739a52f29ee5b078a7687b2ebccf80777aa38d1984fc8cfef5b54ae41"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1938.html",
+      "sha256": "c25cf9b6f72ca680c6c70a9e64d6d8f090cb4171303d4b7e8b0600c7e6d963d8"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1939.html",
+      "sha256": "577cbea8fc1d74b783cb45dea64a78316c5e8dfe2885383dd6ebeac2e12af99b"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1940.html",
+      "sha256": "e706884ed7a1d52cb135f795da9cd3ce67d41b88e0b8ff2c2424655ad2ff2228"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1941.html",
+      "sha256": "db753ef6eeda621768ae70380a8d98d0d7d79570c6431441f840dadd6f64ca39"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1942.html",
+      "sha256": "8bbacc040f4fb3326e448694379b6df96dc067313b4aff5db86fd958828ac9df"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1943.html",
+      "sha256": "923e930e4f8115aa74137b1e6dedde53768eba85bb8384dba0da5e7865cc7e00"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1944.html",
+      "sha256": "87244be8186b84aa34e53adaf4cb95e9ea334a438d3af61ef3862f971108d17e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1945.html",
+      "sha256": "6847fc253f7b5066d3bc7ce6d955b807361eecc8136542c604a2324442ae206f"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1946.html",
+      "sha256": "a5f9f6782e365afb0d6621a84424919d6bffbe8f5fd330952e0e56eff59823b2"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1947.html",
+      "sha256": "a202eda54b2cf82d2dfa397232bc6a71734ef4f6f57f70723d926c760f335657"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1948.html",
+      "sha256": "54acffb99a345017528b82ebb9075be815c5599278ef3af3ca162bfe6482fc32"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1949.html",
+      "sha256": "529639ba51b26d0f670d23ccd21f94d361df4f378199c9497d3e4a78c71088ea"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1950.html",
+      "sha256": "e774ea9aadda18b1c31f916f9655b844caeb3971c06fd3b3d7196d1a71543fc9"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1951.html",
+      "sha256": "8f91aa4640b35e4a297f96e063e5be74fa9fe197823a3868f4958a03a6f133c0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1952.html",
+      "sha256": "f96a228460e9c6e45ebf38319dac21c9c47ce333944f9531a58b9d595a274eaf"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1953.html",
+      "sha256": "519553db1f1e0e370fd46d32c130792dd0744ebf16d966558f925b368b6d9f3d"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1954.html",
+      "sha256": "b86b1a608042c468bb4c33d9961c336ec51a3713f2045e49bf0f29983229588e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1955.html",
+      "sha256": "792c798bdac8fc826341ffc3537ba90c8eeace53fd010505451f931495798a76"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1956.html",
+      "sha256": "c1953ac6efa982f836d70616a1faf2908b7da676b5413cb5ab56e61a309f0dc6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1957.html",
+      "sha256": "c0e6feb326fe2cff84e5b8d912732e5129c248fd1d1d293ff19b240ebc8ef1fe"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1958.html",
+      "sha256": "32d28da9a22e0ad7055abd1aefd5e06af36cdbb5b2624191579571808cda3af1"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1959.html",
+      "sha256": "dd64e2a11f597a2182aa2d947d74749f5f37794aaa67f7bda115a2ceb0b47298"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1960.html",
+      "sha256": "0e69df8a65571b43e9e91e1907c41bc4c964949d1402d78722b0c88499ecc4ff"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1961.html",
+      "sha256": "d81da775c7c2ee71ffadfb8f5299557f32b622407ce7878a0672529bf18795ca"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1962.html",
+      "sha256": "83195a0d882849651c9ae5909bc344e689dee0db236cc0c6e4ef500c0b0cf981"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1963.html",
+      "sha256": "3ec5796663f8f6e7dadc3347cb18430b6358232d1430b66ecd947ad9432fa993"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1964.html",
+      "sha256": "a4b2107c3b05c1b8b79f3515bedccaeea12366ff125c6d03c7e489b0da927867"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1965.html",
+      "sha256": "7864c67790c0719aa302a95935508c31d9e57790ff8e60fdc41e43f44dc916a4"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1966.html",
+      "sha256": "edf63a404b858b966bd5076c6546cfed14638856436694e498ff6d7d9834303e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1967.html",
+      "sha256": "3da78f1ebe1a7231dd2299fdc714269f6dd090be6470798e6500718f2f5594cf"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1968.html",
+      "sha256": "0af3e55b86e12e5e06e899e252328c426140801d1db083aafe9377bee0741ce9"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1969.html",
+      "sha256": "e6c0cf4f01282fc4824d5ada4a0ecc0da8871c5fc005b1c4bbc83257ab01bacc"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1970.html",
+      "sha256": "969f92dbfecbbcef247764c6c4934e01d69732fe22460809e97a92117810780b"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1971.html",
+      "sha256": "f634bdb853aadd5fe91e393f7e88da23262ddb3bd39e6cc3ba969e1c178d7b8c"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1972.html",
+      "sha256": "6d366ae7b20d1fe037e85f7e127a37be23eb98ffbe185daa1cc6fcef9f3e4a3a"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1973.html",
+      "sha256": "d2aa48f646092fc9db0792332fe8b307dbf41def9ba22d26a82d44655ce37b14"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1974.html",
+      "sha256": "34163efdc38d60740df8ab3c857aef1a26b3546c1a4be4d5f2d5c4e3b9a014f5"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1975.html",
+      "sha256": "a47d1269e9bb140f25fe0afbbba00ce33b16e905eb398a0d0aa84cf6f1f2ce8d"
+    },
+    {
+      "path": "docs/party-history/leaders/zhou/year/1976.html",
+      "sha256": "3af8dfc73a8d540ce23b8b87ee54aa42cecdcad9bda4191786abf9671fcb8ce2"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/index.html",
+      "sha256": "f357a9678d38427a83c23149f8584dd555a4e312fe38cd5749e330e2fa66ee33"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/references.html",
+      "sha256": "0b883a60acdb8bcf416763e92922cbf36d6f2e9fe83b1361c61375f19f40aac2"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/search-index.json",
+      "sha256": "31297c797d7b48e7ec9fc8853b64bebf573f5b32c1a5ef2e6fffa95ad0ec03e8"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1886.html",
+      "sha256": "6dfe385c018f1dc137cdd82329f40eb8ac6ba90039814861a7dbd9b423e7626e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1887.html",
+      "sha256": "4b4b82e3bc339249744e38a82deec85311135af8336ccefbd4028d1ea07fc05e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1888.html",
+      "sha256": "b15c07182b0cd58ef442f4b098f6e576af98a877588f728826214e6500c4ec3c"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1889.html",
+      "sha256": "dd092ff79da0c4a35f7ac55857bbc889d96ee4f520e6d55da9afb38eb96b81db"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1890.html",
+      "sha256": "fd4c2207dbf6b9f55484f23d7bd913adec33846be9e2f1a2580f20b5addf0e87"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1891.html",
+      "sha256": "5db58c756d7f3dde1e838d8a806a1de6d1f7f07a9fae5312188fe24e210740f0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1892.html",
+      "sha256": "121af61ef3d3acd66d4af176ca64fc56888b360a5881604d1833202bbacc521a"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1893.html",
+      "sha256": "40f1fad748fa4bfa831ac27dfc1a743be7e1bb6a8137756298a0416a466ac428"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1894.html",
+      "sha256": "4c9e5a60fe2493b9ab541fd8d7774754764eec754f4779bf33e174fc4742d70d"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1895.html",
+      "sha256": "cb029289d9f43b9aa097ec5de977aac2992de7376347f109ab86ff842f17b7d2"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1896.html",
+      "sha256": "f259cefc2dd31ecffb1f2e0856156f3e23c08f68dd33a2dcd5bc6c51468f75da"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1897.html",
+      "sha256": "a80d157b96b7bba2e4155e60ae2dee255e61a91817cfbfd45a67f68d0fa6f858"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1898.html",
+      "sha256": "f9942f66d9fc51ef8471a3687b4a106328a8b0f15703abd52cc8cdfdb7ffb373"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1899.html",
+      "sha256": "5d32698f113d733c79d21aec1251fb6b9884206734ffc4ee97286cdc2cfab770"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1900.html",
+      "sha256": "cc2b706577b343d9e84f7c31fc815f33b576fb3a1f9adef7e84df53f8c01d039"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1901.html",
+      "sha256": "73a383d19089e1cc1aa6285cfcc4fe994e19fd33933e1e43d5f5e039c51c11c1"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1902.html",
+      "sha256": "2ad1914b04a64c4008293c207c4679faae21462b345440865d59f640d0ed846a"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1903.html",
+      "sha256": "27ae0a23109863a665db57c11e5facbf14e1260dba95e33342bc07be7b27bf04"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1904.html",
+      "sha256": "8a4e018da6a28d785562fd411bc7d5cc19fee8645bcb1a1e0ae1f18225ae1e54"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1905.html",
+      "sha256": "96be8212772402981787101fb92941348ae1072aa3af3bbc5b4cd8b3e97c16d2"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1906.html",
+      "sha256": "f3713b8547b13d3b1c7bd501bbae7c5ab63fdd78222f5e5f635a64bef66a4f81"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1907.html",
+      "sha256": "747b18ef930047ec2ba33a6521308e004634dfaea6627ddf637dba776d3ce173"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1908.html",
+      "sha256": "c9aa0d945d302327c3baf31402999bc66b2411b6b194f6c6e207e49c56f1fffc"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1909.html",
+      "sha256": "9cf9a64032052e565fa2a637debbe3f8836d5bf3357c257451dc85a8259919ea"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1910.html",
+      "sha256": "018c82f2690163daefd2b1ec37b8397c5f6cfb5ebf3f3e71e5d648afc808f15b"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1911.html",
+      "sha256": "263bf2237d0c8a5af3fe501ed92b0ede069b798c3224d04e118411dd416ba4a6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1912.html",
+      "sha256": "bf6e0bcd6047abfc21566d240a823e0bd2f1a1d886fb3956a5fe0df8451c4c2d"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1913.html",
+      "sha256": "148ad2a8d5ed14b28c397e6099a95593c60372710755badfebbcf615f03a53a4"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1914.html",
+      "sha256": "858f63b7a809b5b8a8e2d69e4d11b435c989f37d0e6140c5cb6f871e8f31eea1"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1915.html",
+      "sha256": "38dcab8d92d0b5558a41106ff317aa9edd80e6230fd7ee492e4ce31f2da659a0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1916.html",
+      "sha256": "06d04e52ad3c975a725c89acdc7392e23fb158a9d95c794761a42c97bd01c300"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1917.html",
+      "sha256": "d30520050fe26028862ff4379233815aed792051edce02606b3e97d1292d26af"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1918.html",
+      "sha256": "1b9c1f765ef108b52a9ef0617d12f00f497eba0038627f64221f4dc4c29650d6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1919.html",
+      "sha256": "cd67468a7323cbf0f7aee5d366b4cbab5040f360fae1348f4fdc959bf139f3d9"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1920.html",
+      "sha256": "1660971c3b97d6814110765a63245eb5fc1ca6337f1b288db5e8fe8b1f6203c6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1921.html",
+      "sha256": "da48e63f34256f65aa4e60b89d262240e45c53bada53bf1bfc0c4de739b8f279"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1922.html",
+      "sha256": "fcc1f690b79858916831166d30af3c1d2034182cc52eb0e3974e8144df7d3a1d"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1923.html",
+      "sha256": "4cdff2ac49d4b07fef51fa966983863b6787bbe5ecfa9873d944c1c35ad7363f"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1924.html",
+      "sha256": "55e9409ce0efdb31f35705a9c8a86efc3b1afc4495f88e01e6acb09ca14cbd48"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1925.html",
+      "sha256": "8fa13a97b5911079b437506a4d6165dde7cdd59b6cb5ad7a874263048f90b148"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1926.html",
+      "sha256": "0bf4c88585a224c2aaebb0299513eabf187a146c02f1b833334dd1387b09b45f"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1927.html",
+      "sha256": "1c3a8fdfdb2ffa1e8b63482af2aab87f5c723830f28f249a099b298ba65b483f"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1928.html",
+      "sha256": "c5de0841bc4be3e2c55c64cdb89badb0c2fa54fad610682b39707ad5e07ee8c4"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1929.html",
+      "sha256": "a1c00eace6576e1325abb9f196faab0fe6ce31bb1f28a02a2abe1344ee0a36e5"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1930.html",
+      "sha256": "b2576e14d4d211d3ee0d24f4a6ac825823a784f11bd8dae91e7fcf6aea73c8a6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1931.html",
+      "sha256": "a8d16bfdb355b7f9d63de56d8e52dfd4eab763deeb5daa2bfde7c13c8ca9c1d5"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1932.html",
+      "sha256": "c9e48be687803738cb80d3ff4dd8efe7e39340de53422279a66e9815f82e6fe1"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1933.html",
+      "sha256": "571e3d00af123c89d65396fd239b142da68d59172fc6e0da6529e753f6841278"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1934.html",
+      "sha256": "e2ff2b042fb82bdfd60ee153a7e0de0b7d646ff1a0271ec0d6e761db433110e1"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1935.html",
+      "sha256": "56b61072bf12b4c63d6a1c32add6af0a61051f8270c0144ec7a1c3d0c6a1f2ae"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1936.html",
+      "sha256": "f4b1edee9f1f51e0662199b448f2bf78b0012bff046b7dade8187ba37ebf49c0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1937.html",
+      "sha256": "a947a7ffd511e8b99e63868c3d091c978543374e730cadb5431ca68eb52f1446"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1938.html",
+      "sha256": "a2e2a381f03dedc2904e19b971ec47868f0c34937605945dc66db3295a9d56fe"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1939.html",
+      "sha256": "a842d82729118f09be85e66f557d41576b6aeac0415bb9e8d1f7bf9d22730fff"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1940.html",
+      "sha256": "6be7c2f522d36b1e6f1f2574681231deac3d20c4aef85c5f468137377343fca7"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1941.html",
+      "sha256": "a9075e83adfbc05e672e9a64da68477fe8c0874be7cb197d4b8e0c013f38b642"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1942.html",
+      "sha256": "038a463801551851f969381dac5545afe92e2c245d6378f9eb42072bdaed8325"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1943.html",
+      "sha256": "5c0c1dc56048c8c7c31adf2363225d7a4e86b6e437a1668e6e311b32578a1568"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1944.html",
+      "sha256": "de29b26f551cbe8d69556e2faaa193e48f67704f25e16e91d91bf612ef85694c"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1945.html",
+      "sha256": "8317ad26fcce3f12de00b8324969feaa1b59afec2ea3d630edf1198ac5753380"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1946.html",
+      "sha256": "5b87eaabd919cee58dc8bf80f189fd699d617adab6f270de3bf8c3bac793db58"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1947.html",
+      "sha256": "e7a0435960e7c7a24b153ca6bbc1079e1520438b2c558a14e3b65fafc732417d"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1948.html",
+      "sha256": "1f29402838cdffbd94edf6e0706328ec6188ad9adce4455aec9e6b4d7f94d60a"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1949.html",
+      "sha256": "26e1ec9e7ccfd12f3dc30da820984b8cbd8017468972a76a69a1f8a7f8a8dea0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1950.html",
+      "sha256": "bcb8978da616b577668e4fce3880f150b17f965b8a1f5e836c7f2447f6a3c2ea"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1951.html",
+      "sha256": "2babbb66eafe8611f0f178443be115062170d575aaabda00e056ba03060ca369"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1952.html",
+      "sha256": "4508026378c1927b29acf13f5c0d9608cb7ce3fa58d67a0d4ffcff8e378a1ad0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1953.html",
+      "sha256": "c7a7176f3cac6ca966e30d02ddd885d8437fa6fe79cb7f90773190a9293f6940"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1954.html",
+      "sha256": "114615b27fc04d08893b3c5987b1c0b0c7287cf5b5ed79f554ea1eb117d87d71"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1955.html",
+      "sha256": "ddac16818580f9d32939608bc7faf739e2d66291549b0c8560db266d4d35a872"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1956.html",
+      "sha256": "a1af614f3c0b70d5cad9a050b9bc98459baba5e54223f0ca2a9f78ecb3f75098"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1957.html",
+      "sha256": "b6dd9cdc6b90391e6f076c6308357e650bd8c023f0804931f34e195d4051583e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1958.html",
+      "sha256": "fb46fd234b7d4d33b297940bc39c218feb313036df7b79f4221b6ebc04ce7d9b"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1959.html",
+      "sha256": "a10d055e7d893eecd71f8b1e1b2020ae3a08399aedb3d02304299b894397b5a0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1960.html",
+      "sha256": "83112504061ebddd2a30582f2a74ecc68884589b2ddad4ec12b975217e407e5a"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1961.html",
+      "sha256": "43d865d505acb36809dc75974a1384fc374bc6deed168531ff0c69c06e3a0e9e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1962.html",
+      "sha256": "ca95f8b4dc6d7680537edadf11a4d21614448ab4c952753d80bb34946c32543f"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1963.html",
+      "sha256": "51500bf5581c2785611bb8aab456fdaf51031054cb3afef96591ab8dbdd38a77"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1964.html",
+      "sha256": "4dd0f3d36a5fa1c8e983afb105c8f9d06dbf20b48ce648d25417261183e93dfb"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1965.html",
+      "sha256": "3a43ccf2f68c1af679656dcf4b6a7ae91b4b2355dba10665d5dc416e603fcfeb"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1966.html",
+      "sha256": "0ebcbc6720899af25742ae286342e4c3301f784f33548229a01ed868533358c6"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1967.html",
+      "sha256": "0bd9f134c76df912268e77d6ae84417aeb574b92c55171cb77ead3fe6bb68f69"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1968.html",
+      "sha256": "76b094c00c992035fc6181f88347d287269d06d9093c32158bf330e5131c2b50"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1969.html",
+      "sha256": "2012a94ffd2c294040e7c7e46d621d0010faa229efd42387cfb2b8002f26eed0"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1970.html",
+      "sha256": "ab501c4497eb503e39d57dabbf2bc3cf0bfc7d5a62818a17ab9bfdec1c35b030"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1971.html",
+      "sha256": "c3c7100b6086734d3a381f990496d2663aeeef9cefc1e94e908419acd77cb0f5"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1972.html",
+      "sha256": "50fc119cc80402a1544bd272924d5668358cbc1e4da735b8fa3dce64281f5221"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1973.html",
+      "sha256": "b0409856ec4a79a22c0507813a4404e105895166f8c6bf17a8951a9d38d2ff62"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1974.html",
+      "sha256": "a3142b5a885f75feea7e7f7ceddd09f32a971b777070a49e25794feef5c4df62"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1975.html",
+      "sha256": "f97d1076461185cf9c990e4b5df7f6f02c41bf3645e846aae5cb0b37ea8e7c1e"
+    },
+    {
+      "path": "docs/party-history/leaders/zhu/year/1976.html",
+      "sha256": "70b5b9a0d7fb79d771107e443ad82bf87a67de0ab9055b3dd7412987633ea904"
     },
     {
       "path": "docs/party-history/manifest.json",
@@ -989,7 +3377,7 @@
     },
     {
       "path": "docs/party-history/mao/index.html",
-      "sha256": "b4f30cb9c405e006da5d9bd9bb24f4f5bb8c75bbdd2f5764d5b90c0225e94d94"
+      "sha256": "7f969b370192b48ef7dec5b5171d421518ac9955a6eb7c8dede8b7e3abaf55af"
     },
     {
       "path": "docs/party-history/mao/manifest.json",
@@ -1005,7 +3393,7 @@
     },
     {
       "path": "docs/party-history/mao/references.html",
-      "sha256": "8fb763164b9cc4fee3920c6a4bc4ccadd8dc3a2f76580c8bb60326f247a3072a"
+      "sha256": "7bc55d0d311a3f510a6978f097c216af507a75d4260f09a4b6dc5c22dde88299"
     },
     {
       "path": "docs/party-history/mao/search-index.json",
@@ -1025,339 +3413,339 @@
     },
     {
       "path": "docs/party-history/mao/year/1893.html",
-      "sha256": "eafe4fdc33758dcbd250f124e9ec18abae5cb98db10a6f88a4be18c5bd692110"
+      "sha256": "1b04b08da1ca57db8ea5704e1f7bb0842e8fa0cc4bfb75b309f427123860f23f"
     },
     {
       "path": "docs/party-history/mao/year/1894.html",
-      "sha256": "24e8758c95a4b7e44edc359c688b9605ad572deba8bc836e69ab504671b93f1b"
+      "sha256": "9a416907565db75582ee11fc7e9d2d85f9ecb99055fc18b58fc774f607c248cb"
     },
     {
       "path": "docs/party-history/mao/year/1895.html",
-      "sha256": "fb0a5b00dc0eafaac74210751f7ed337d48399e0920077f534fbf9d636179fb4"
+      "sha256": "f540d98bfdb079072ffe94c0c38bb4fbb7c4e22d79d49b179e9404e20bd770b2"
     },
     {
       "path": "docs/party-history/mao/year/1896.html",
-      "sha256": "b4c373b3d5f4ba49f28dd34d916218bf0a4872fb680778e9ce7fc5f43f14d995"
+      "sha256": "e4c1bd4c3da56bf0d61f0825c14ce346d3af97994618751b6827c7e0fe02f0ab"
     },
     {
       "path": "docs/party-history/mao/year/1897.html",
-      "sha256": "73e65f40f51e6e5d07e2a33619b5e12e7877fbcf08424f3a26a2881664090d0b"
+      "sha256": "e771612a1a29836ab175aa5a87d2c99aba0633d3de61d8ea5a8217e1f3986ad8"
     },
     {
       "path": "docs/party-history/mao/year/1898.html",
-      "sha256": "5560f752ccd1ec137d798a0695b510c7e9e6bcac38ad867e92523f42f28b50b2"
+      "sha256": "3a7fb5b9e5973799f66411c66d55080ed235f7d59bc883cb24a402f9aa1ba76e"
     },
     {
       "path": "docs/party-history/mao/year/1899.html",
-      "sha256": "678725c41b207b7f7195321cd60ca22f6560e97dd21fc50735d4b4ed881e0a8a"
+      "sha256": "03becd3a279639b75ee1e1726a22035ec7f272333fcb4928b58754a34520a195"
     },
     {
       "path": "docs/party-history/mao/year/1900.html",
-      "sha256": "b081db7ef87b4fd862cd10e26932c4f75aa796f29b8387f310030bd617365e19"
+      "sha256": "67e163dcad660d446423f10de41b91f12d3da8e0357215b85ac384680889688b"
     },
     {
       "path": "docs/party-history/mao/year/1901.html",
-      "sha256": "28d0071d2abc0545c8fccd787a5bd2e270626995e34df10ce0fd02f1c2b435c8"
+      "sha256": "fb595d5c0d214edcd615d75677019ba908e18333509bde3ae28a4a968d2d415c"
     },
     {
       "path": "docs/party-history/mao/year/1902.html",
-      "sha256": "7e7db83d6d6bc0d5b4069a44f1f20a4037581d0358171e9d39183581bc8f1fac"
+      "sha256": "fbbb82a341bb2b09834a51a4b45a557df5281806d78ed2a79bb3ac51527607ee"
     },
     {
       "path": "docs/party-history/mao/year/1903.html",
-      "sha256": "1b4815954696fc380583f7ee8435ce6d07fe9fe0909b5969c4bfee408608974f"
+      "sha256": "28d7a955fcf6cb16c2329dfb926bb259200bc759bf50490d0c88c75227e0b5d4"
     },
     {
       "path": "docs/party-history/mao/year/1904.html",
-      "sha256": "965a8b52859d4b9100ac25d231668aa846f920d8274d4f7f16d36fd9f889e9fe"
+      "sha256": "63b6beafa02f53e0bf3f09807fed6af9f117e0bb3af60d00af363b20860ae794"
     },
     {
       "path": "docs/party-history/mao/year/1905.html",
-      "sha256": "c3f6120d21afddb2be62bfc508a24e688fae575315bd2ab932880a8809e6a06b"
+      "sha256": "2743480859165ef061e01cdc42da64af1fa3f766c1e7290b0ba0294e7d5be46a"
     },
     {
       "path": "docs/party-history/mao/year/1906.html",
-      "sha256": "792eabd850d4942068a03066814ae887fe0e330a45f35959ea3ad9a5c348e90a"
+      "sha256": "f7d0294b3709931773a2e14829b800d37158cc06d66cfbce6ea0cdc14cb1153b"
     },
     {
       "path": "docs/party-history/mao/year/1907.html",
-      "sha256": "de6a22bff22585478b5a5fe0490a88638c9d862099aa37948a3f027db4f00bcb"
+      "sha256": "571a6cf2b0a5555f8fc2cebe5f22fff386e88c80d5178da81635ab3fdacca507"
     },
     {
       "path": "docs/party-history/mao/year/1908.html",
-      "sha256": "1db721537e3def356acd60ec35aa7a6f0e834e46d6028725b1aaea6e909612ad"
+      "sha256": "5ec5f11cbcae355e5d8af2e4d461fe7ce85d89a6f9d13411f708035076bdaf38"
     },
     {
       "path": "docs/party-history/mao/year/1909.html",
-      "sha256": "b8922c32508f26b18eadd230dff814ba54fadb35a1233d44aafa6c1a63a97475"
+      "sha256": "9604f40e4b40c9a80e880b2dc689800934bcf786e8facffa093b9a54b2fde324"
     },
     {
       "path": "docs/party-history/mao/year/1910.html",
-      "sha256": "1b4a35b8fa562773088d3339b65892094fe4be69466f47ce228f569855567df5"
+      "sha256": "13612ff7110c65b995e002d6ea6183dc89bc8b699b19a392cd565c7b2824c77b"
     },
     {
       "path": "docs/party-history/mao/year/1911.html",
-      "sha256": "00fb79841566964b3d7a58c646f17dff3e1f28a0793bb4b6a54b777badd73f66"
+      "sha256": "3e4b404870d5ba440f2c24f2ac3095b489029f407919b9d3448be24709ab3c14"
     },
     {
       "path": "docs/party-history/mao/year/1912.html",
-      "sha256": "5f5c89479db80ae71c615651402689c09b57358cedf3168193201101cbea8fd5"
+      "sha256": "f24f16845b72f4053c4cc6fc538faa01e6449dcfb985fdcf9794e4d290b69eaf"
     },
     {
       "path": "docs/party-history/mao/year/1913.html",
-      "sha256": "4bddff9e227907d8b51aa05fbb852845666b9dcdd24c1ebe8d589cfb5b912e33"
+      "sha256": "5ca059081b699dcba34e97808a398281450dc550eb50f145f32ac7675a8a9f1a"
     },
     {
       "path": "docs/party-history/mao/year/1914.html",
-      "sha256": "229d43ef8b772e13ae2023fcda9a33e0c9ab1d7b9eddab4da8cd25df526b0744"
+      "sha256": "e68c188f475b2eca86fa63d1677610dd70c8b3716a5b9927c4655a9f2460d23e"
     },
     {
       "path": "docs/party-history/mao/year/1915.html",
-      "sha256": "fabd1e820aebec586d02202ab6b3e86655a915dc5846a55434f69894e8745e34"
+      "sha256": "48afbdabfbdc5833c45ad3b6527d2609258954840c1b580d3af4fd538aa29a41"
     },
     {
       "path": "docs/party-history/mao/year/1916.html",
-      "sha256": "1dfc1914b94b57cb89f55adeae7211191d2ea2834d6b033f4347b09bf98aefff"
+      "sha256": "d7f699e4db63d788bc4592aff4fe8d015b20fc4ce69f509817ea6916341ff93d"
     },
     {
       "path": "docs/party-history/mao/year/1917.html",
-      "sha256": "c0274ce2cc8709f0ca5ba72ea27ee917c6cc7c0924b36ce92c986c132e4e09f6"
+      "sha256": "c9c543f05316b23331c739c02492166b87a39061691efe486b87b204f0705f62"
     },
     {
       "path": "docs/party-history/mao/year/1918.html",
-      "sha256": "7493275ed6098876aa9dc28ea46a93edb96079842a225d43fa6dec84289dc11e"
+      "sha256": "201371fbaad230ed4218d55c8db617fd8890484d75279bf2789db1407272c746"
     },
     {
       "path": "docs/party-history/mao/year/1919.html",
-      "sha256": "a06d299dbde00c394e4003c71d0d1ba9d0b07bfa56f0999e90e682764b26cb63"
+      "sha256": "982031154e9c6398809e6cac0c481d19f132f3a6812ecb384458ede5464eb456"
     },
     {
       "path": "docs/party-history/mao/year/1920.html",
-      "sha256": "4fd243573e485dfb987e8132bdfcb0a59229d075665adec5e8057d249acdca49"
+      "sha256": "7a496a6feeca4253fdc8892d3f9f4f947ec3b2428d934d2c7e44fd3d8d67c2db"
     },
     {
       "path": "docs/party-history/mao/year/1921.html",
-      "sha256": "fc259c0e24c14964f074adb32ede0f2f1ab7254a3d99bd645084cab40facaa8e"
+      "sha256": "d54e234fd0fba085d6d086babdfc459a47a0dd8cb36fa17be813784bb2324916"
     },
     {
       "path": "docs/party-history/mao/year/1922.html",
-      "sha256": "d2768e3291e2fc4c989acffd895c19d6a0d80f749635555842c972a96cde8548"
+      "sha256": "71e18cd05a9b7b571aba97f70146aa20abc8192e39094bcf2f85084e6e9cd3d9"
     },
     {
       "path": "docs/party-history/mao/year/1923.html",
-      "sha256": "fbe9292c1f166b533d2c2182e318e0b1740b9de7be396ab776c81711309fa03c"
+      "sha256": "465b53f1130d8bc4c90382c25d96be292538d19f5db1a6f6de055e58ac43e222"
     },
     {
       "path": "docs/party-history/mao/year/1924.html",
-      "sha256": "8b09dd79389a801def123d256be84f40e6b7074cb8fc96357cc265a63fd3674b"
+      "sha256": "b4203c8c2974c1e1aaa3dca3f332682836e4e697a85527f05cff2f7cbc04b20f"
     },
     {
       "path": "docs/party-history/mao/year/1925.html",
-      "sha256": "16c32b992fec550eb548dd955e56a450d4ce512f4338aee4c603c04358cba8ab"
+      "sha256": "33ed5c3c5a267acee42fcaa001b2c52a0bb9d7a182af14bd0b6370a9361dbb08"
     },
     {
       "path": "docs/party-history/mao/year/1926.html",
-      "sha256": "fa2868d584b9de5b1f9de7aa30635357cf3b1d7abb377cb2b5ad11b67e505b73"
+      "sha256": "5f4064c7d2538da40ce7a861aa1c7e7ac342657a200e73f20c4bad99aa64384a"
     },
     {
       "path": "docs/party-history/mao/year/1927.html",
-      "sha256": "13115ad6335daf8b651856f68f9f87d654eb4e584e449e1aa0b1e3511ca53c03"
+      "sha256": "813567df2c70b941736a31692f19dc681c5350858ca2981b749fac1dd744596d"
     },
     {
       "path": "docs/party-history/mao/year/1928.html",
-      "sha256": "7aad3b52c141570b021e458874062f59b5e78be65bb90acfc86bd70d316cc5b2"
+      "sha256": "76c973e041f92b5083c4bf683201a89170510d18caa463f0b3eec0fc5952e38e"
     },
     {
       "path": "docs/party-history/mao/year/1929.html",
-      "sha256": "85838b8e3e05195347fd87b9ca46597c6384b280c2e27235b2cf763652806a7d"
+      "sha256": "73b7ae27e6f22081b38a12e527d6181fd992ac4019cf1144423c295738d5d735"
     },
     {
       "path": "docs/party-history/mao/year/1930.html",
-      "sha256": "896bbfc6b96bd8d67262947b3fdd1ffae2bf2a8ec29e7aa63d021c7d889f178e"
+      "sha256": "1608da66e51abfbb266f0d2a70d5010f1d1201de34831f82bb96159d9d04492f"
     },
     {
       "path": "docs/party-history/mao/year/1931.html",
-      "sha256": "5b52af97d546591b3a7162649bb0af4adfba91605a6584dfd6dea799705c79f8"
+      "sha256": "42dd907d33380df7462133cfd3142d704fa05d2a592ec3c347c9124df5307927"
     },
     {
       "path": "docs/party-history/mao/year/1932.html",
-      "sha256": "14f9986b9bfd14f4b1bf451c18fcba994cf8cd4b275580169a4be5800d072ca3"
+      "sha256": "4d90d270fe579db98d35d30a27793d99ac596c9f9a556e4889c95d742ef71c73"
     },
     {
       "path": "docs/party-history/mao/year/1933.html",
-      "sha256": "8e4cfe0b36c6e8c95f378b70243a80e458df42571860ccffc7f67beebc0215b5"
+      "sha256": "1273ca488064def9bdd2798def9c5f133b2074cead380f863649b76c88ef0085"
     },
     {
       "path": "docs/party-history/mao/year/1934.html",
-      "sha256": "6a5fc1e7a4c09ad28317122531fddde440c68ae96b77fa70fc2cc60000f1c21d"
+      "sha256": "058468730a8c238fd95d2091f18f15b029c8b0e41bce2c083e34ad16d58e3527"
     },
     {
       "path": "docs/party-history/mao/year/1935.html",
-      "sha256": "b47d9ed57159a23e2242065139ec41898adcfe248d8f3f16cca7a5c4f1d2c916"
+      "sha256": "ed0769ce11c87aaf2d816596c00fb9ab55d06b648d2dbd3f786be2fa0eca70cc"
     },
     {
       "path": "docs/party-history/mao/year/1936.html",
-      "sha256": "af735cf1c0aa7ea53d278c3a134da2a701e1ad596dbba3c22644d7b4c221f091"
+      "sha256": "61ce744d0974153cf0ab924ea50393bc27391f8a652435cbe5cec50532ea3e74"
     },
     {
       "path": "docs/party-history/mao/year/1937.html",
-      "sha256": "c364897b1e6f2ede1b900bb2ce742bf1aa13ec0017e11b2577f39e7c990a8a08"
+      "sha256": "76b59de7953502411cbca340f79bfdd7a09330cd3e5b72f54b5c41a1860af610"
     },
     {
       "path": "docs/party-history/mao/year/1938.html",
-      "sha256": "73d4633130573b2a859309335632cc7f8eb5c3d518923323a811e2c59e1be416"
+      "sha256": "eaef93b90a84e3d2645fcb9c0660a7c289f6bf8f6ed586071cb971d10b4ea179"
     },
     {
       "path": "docs/party-history/mao/year/1939.html",
-      "sha256": "98c5d66e92ef9a5ba2e8281850c67298fa7ea8f13c2b254ce0153ad672e346dc"
+      "sha256": "574c8ed34f391f2bbd29911bcf762e3a80366163a3689c4078da21988a0f31cc"
     },
     {
       "path": "docs/party-history/mao/year/1940.html",
-      "sha256": "cb708964b061b29b6112a667c1522e120156509e25fb51fb5f3f12280991359f"
+      "sha256": "7afa74d5b356bc7e5ff75c22e6fbc8d074c845ed835ab222e98b4dedcdd051ae"
     },
     {
       "path": "docs/party-history/mao/year/1941.html",
-      "sha256": "f99563a444a9f63fcb23e04ea3487f2d33764fb0dc53e8b7727093f4d2dcd821"
+      "sha256": "7114a4f10125feed17455b5f936de9c8a09dc1e80d46b54297bb009fe22ddd2c"
     },
     {
       "path": "docs/party-history/mao/year/1942.html",
-      "sha256": "8e314d243995886710c3d70cd3b711f9c9ca6deab77a18f96e5492998da42707"
+      "sha256": "9ba0bc7775bb85a4acdcbbd9efeecfae2b51e8649fdffd14208065de0abd0c89"
     },
     {
       "path": "docs/party-history/mao/year/1943.html",
-      "sha256": "03d00c8977f1509ef406ae2be561100b00e7b62d74a4a16d5a66fc4cf2365081"
+      "sha256": "eabf9b0bf427a1e47e8ec9fecc5835bde3b3e1a58f2f3b741603d5e883ff7d11"
     },
     {
       "path": "docs/party-history/mao/year/1944.html",
-      "sha256": "b4fdac1eed5df688b7043231b986b8edfe2cee34977330045352b4518f4f77cf"
+      "sha256": "ac6407a497bd2b14ab89f498ab912e0bece561821e3e721b026302c86b335c97"
     },
     {
       "path": "docs/party-history/mao/year/1945.html",
-      "sha256": "8ef008eb388bf660aec15240b50b058cef38dc3879b631d2549adbc0622bcc6a"
+      "sha256": "d5e0aa41acaff8e473af727da6499953cc5002a7ac0d4264bdc31e94ec8468aa"
     },
     {
       "path": "docs/party-history/mao/year/1946.html",
-      "sha256": "a9c54439fef5b1ee0a735a0a321ddfac021e4d6221805882d84e8d092aabd5cc"
+      "sha256": "fa1f55532939d2d98a834719cfd007a2bda9e6bbfd576a8fe3e2cccfc24a9177"
     },
     {
       "path": "docs/party-history/mao/year/1947.html",
-      "sha256": "7d42c9e543f5262206f4aa5d7bc691ad43efdce9855374342f6ad0118ccc6105"
+      "sha256": "b1173398ba6e82cb1586ed4737c9f924430c3bc60950b946f38bbffeba3b9ef5"
     },
     {
       "path": "docs/party-history/mao/year/1948.html",
-      "sha256": "4ff16d5ba83fbea6100978b5e4475b56b23f51e1a700ac2a880abdafe0d52c3d"
+      "sha256": "e32c07ec528939c969ac2f554e2e7f458b4d161881d3d84f0befe3f7718fe88e"
     },
     {
       "path": "docs/party-history/mao/year/1949.html",
-      "sha256": "ff4d33af31ab3af0a9f5001932a6f2d3f48f5bafccd4b679cee0f0b68799b17b"
+      "sha256": "37cec9aae53a6f7b55a0d15967e888b30b9fcbb6a7d0624f79ee83ff8b41deab"
     },
     {
       "path": "docs/party-history/mao/year/1950.html",
-      "sha256": "6c430998d6398f5dcd38c42ef5badeba4cb1e609f78778aeb5601ff0864ee3d2"
+      "sha256": "69af69bdad156e1382a1d2419631a2c0304483f42e2a12938495b4e60a903a7b"
     },
     {
       "path": "docs/party-history/mao/year/1951.html",
-      "sha256": "37f3488beaa747c8b1db034907114039fc8231c70c2cee1e353d1498040c7d7f"
+      "sha256": "1ebaf4c910d7d6178ef57aa98ccadc3803f774f3f2afc850435236e545a5231d"
     },
     {
       "path": "docs/party-history/mao/year/1952.html",
-      "sha256": "ccac7843b31ea59dda454d77712f9a5169f9fa4d7eb3827ef47fe25c2b5db034"
+      "sha256": "8c443e7608b264cd1e02d588c216970fd5727d154685e242d88cddf9637ac256"
     },
     {
       "path": "docs/party-history/mao/year/1953.html",
-      "sha256": "d9198ed9ce5279d8357386e382dcb264ab8b283849b3bf8faef71f1a1261a7b3"
+      "sha256": "2e1eb53b6a3d59bb1ed6a0cc7e6d24069f41f44bef1475ebe5d893459fc2eb57"
     },
     {
       "path": "docs/party-history/mao/year/1954.html",
-      "sha256": "a3aeda677709e081ae1146fe1e26a8b2bae8c0831b067bf1af1b46cfbae0efbc"
+      "sha256": "3d781b10242c98b8dcd0875f4c502bd9960a8951271e7d6c1165abcbff0b1635"
     },
     {
       "path": "docs/party-history/mao/year/1955.html",
-      "sha256": "c73669da46629620a8fc657431c467f9785b8668d3a29e8740faa58a8d221ec4"
+      "sha256": "b97436f7e10af1de39c59aa1a1a2dc034bfc009445b4f68f9700720cfeec1417"
     },
     {
       "path": "docs/party-history/mao/year/1956.html",
-      "sha256": "47a8e1969b0b443aabf84bf9836bab680ba9ea96a5b1cb3f20cb294c7d0a4c4b"
+      "sha256": "4799f56e918d95e13d53f9e9ccea8a89e5bde20edda892a835e33f1ba060f601"
     },
     {
       "path": "docs/party-history/mao/year/1957.html",
-      "sha256": "80972e3e596b55134144333f1256e73c0395ef15e214559b6279efa89fdf2ef7"
+      "sha256": "a6170eb3be92be9170d88a83869580f2648f2464b5de94e765a55a50e2a6738c"
     },
     {
       "path": "docs/party-history/mao/year/1958.html",
-      "sha256": "ae7a4a54150b7a57d1e3450cea8fb8d7f5cbb558591794bf11f5aeafe9019cea"
+      "sha256": "cefb8ec9310612ce22e3dc4db205563eee7f40eaacf57545a40ee8a6e53be660"
     },
     {
       "path": "docs/party-history/mao/year/1959.html",
-      "sha256": "59f27c39054f61a67b187f786d7df3b19d18af3702071e6916791f298b58c9b3"
+      "sha256": "1fea35c42a1cd25ee5050256896e83ed9a9b40de706ec8eb5f82cf45658d3041"
     },
     {
       "path": "docs/party-history/mao/year/1960.html",
-      "sha256": "e9126bad2bf63626ce27569f137885833c45422647f5e4bd94849f1db08d7cfe"
+      "sha256": "cbeedec4a20c2241156b96f8f107238e6d0c2fd12a33ada071ec8cbc93bf9bff"
     },
     {
       "path": "docs/party-history/mao/year/1961.html",
-      "sha256": "055737c6463ddd70b84a2fec7322ff5724bc7d6fca1f541afea4026bbcd78a7b"
+      "sha256": "652efc7121bded3859b1dab5423e4513b12bd826b33e0ca39f3a50da1c7bffd5"
     },
     {
       "path": "docs/party-history/mao/year/1962.html",
-      "sha256": "8a6d12d8163d1ef0e4e9628d884181a034e717f47362f8bd200a469c89108665"
+      "sha256": "1e38c4c002f2db48e85db45cac3be1b5d30113a5e8ac1161bb7ed5350582d87a"
     },
     {
       "path": "docs/party-history/mao/year/1963.html",
-      "sha256": "31784cb7b49675440bd57e810b3aa83f5a1fb4d65fa18689c4efc24e178a1e97"
+      "sha256": "8c76d49db5cbe8ba4b0e2cca83bbcae92135e1ac25a33e1c966c8c0d8e8cea2f"
     },
     {
       "path": "docs/party-history/mao/year/1964.html",
-      "sha256": "482b599cef2a563ad38bb1bdf35be0ebf7b8e451ff850b0647fe38b402e18f08"
+      "sha256": "a1bf561e7953314733b537ef824c6f5ebc93b33885b8e1d5ee3f57b63b03a177"
     },
     {
       "path": "docs/party-history/mao/year/1965.html",
-      "sha256": "c687411d2678dfc1123912e6a77d14d5d5a6fbd2da03930eaa3ad569a8ab3b7d"
+      "sha256": "c202ac0eaa378701615a7c29fb96c57d5ec6ff89fa00937af349a96a5232f849"
     },
     {
       "path": "docs/party-history/mao/year/1966.html",
-      "sha256": "8180739bdc72bca8556ba7358fe99dbfd1bb3b8be68b45f6f9e483907d1b16d7"
+      "sha256": "6b51c09656fba29a4b8bf13dd24ef94cfaa144178f3d342e6d8104bd3971e10d"
     },
     {
       "path": "docs/party-history/mao/year/1967.html",
-      "sha256": "f7fb66b653e596140e64aaebe9941f94b94d51f9fc4221e07cceed65ca73b628"
+      "sha256": "6e8d5d60b06d40cbb10653b309d0157ba3faa44878e44b49cef5f44249797bee"
     },
     {
       "path": "docs/party-history/mao/year/1968.html",
-      "sha256": "9abf01955d783591b4306ba7128f676b297a022ec3164605026c86fffcba74ae"
+      "sha256": "9ccc013975aba6f59bd0d3a3bbddc10bf36b81150b0382f303abcb4e86dc2bf5"
     },
     {
       "path": "docs/party-history/mao/year/1969.html",
-      "sha256": "761b78ab4d424d4d0f07a99221c2a5f8338a87ec32bd5197abee874fc90fef94"
+      "sha256": "e4f491aab77be8f442f9b7df949559350a9abfe43e256ede62159eb90f168cb2"
     },
     {
       "path": "docs/party-history/mao/year/1970.html",
-      "sha256": "40152f79629ba3841bf166c0c45973dad0e8868a6194613f285145c1539a91a8"
+      "sha256": "1b543185f72520032e6740114f5635778d5cfd6ca5e130e11a8792fcd7eec526"
     },
     {
       "path": "docs/party-history/mao/year/1971.html",
-      "sha256": "66b03ee6d2ce8a7f59939104f2737463dbc3c7aa35d59ab0cecd04a9fb5cc123"
+      "sha256": "53495e590071f5c8ae2b23c30f8dfc855fcda9fc074f1d003878f01b814d2674"
     },
     {
       "path": "docs/party-history/mao/year/1972.html",
-      "sha256": "855db394620290517300c0044fc86e9c258e18193dc5a71dd753e5ece38c9987"
+      "sha256": "fb841bc1beea4831258476787f61f110f8da5926fc592037681460827d82e87a"
     },
     {
       "path": "docs/party-history/mao/year/1973.html",
-      "sha256": "fd671babaaae33044012f94f939b3a7ae379752e6c7b6c9471055de8abc55cd6"
+      "sha256": "521bd5ff7ead24227ebe051d1ad6d2e8c6aaa6a353fa765afc5600a8124c04ec"
     },
     {
       "path": "docs/party-history/mao/year/1974.html",
-      "sha256": "21aa3fa92a8ff9fc232bf80da01179789d066fbec2e65a8cd445af2817bec647"
+      "sha256": "77cdbc6bdd5ca480f540c34f0e64157e5042b98dc3e9b3c108feb17ff634bace"
     },
     {
       "path": "docs/party-history/mao/year/1975.html",
-      "sha256": "9fa5b91eefee34e0e25ed9367694a3d06c7f55b99e04c4d70ecacfec0271f118"
+      "sha256": "fbee7318be68264232e919163667773ed9acf54dacfc645ccbc133b53d3b8082"
     },
     {
       "path": "docs/party-history/mao/year/1976.html",
-      "sha256": "c5d156981b3e6c401054b3694fa632cb5a3856c07b525d99e5dbf390586130c5"
+      "sha256": "5c8b9b29c9be403095d9bbf816c0abf64244fb045b0e86f30826162a0931cc3e"
     },
     {
       "path": "docs/party-history/party.css",

@@ -71,3 +71,10 @@ GitHub Pages 提供公开网站；大陆实际可达性应在移动网络和宽�
 党史板块增设1893—1976年个人生平纪年，84个年度各有独立页面；支持按年浏览、关键词检索、相邻年份跳转、逐条查看资料出处，以及与原党史资料交叉阅读。来源与整理边界见`docs/party-history/mao/README.md`。
 
 维护时修改`docs/party-history/mao/source/`的分期数据，然后运行`node tools/sync-mao-chronology.mjs`和`node tools/check-mao-chronology.mjs`；党史首页模板改动后另运行`node tools/sync-party-history.mjs`及`node tools/check-party-history.mjs`。
+
+
+## 0.12 党史人物生平纪年
+
+新增人物总入口，保留毛泽东原年表，并增加朱德、周恩来、邓小平、刘少奇、陈云、任弼时和习仲勋的逐年页面。每位人物可按年份或关键词浏览，个人纪事标注资料、定位，并与原党史库关联；没有确年纪事的年份明确标待补。
+
+维护说明见 `docs/party-history/leaders/README.md`。数据在 `docs/party-history/leaders/source/`，生成与检查命令为 `node tools/sync-leader-chronologies.mjs`、`node tools/check-leader-chronologies.mjs`。
