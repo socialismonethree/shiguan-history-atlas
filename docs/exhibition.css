@@ -46,3 +46,5 @@ body[data-theme="western-jin"] .hero-primary:hover,body[data-theme="western-jin"
 @media(min-width:761px){.sidebar{overflow-y:auto;overflow-x:hidden;scrollbar-width:thin;scrollbar-color:#d6b57e44 transparent}.sidebar nav{flex-shrink:0}.sidebar .side-bottom{flex-shrink:0}}
 
 .sidebar nav .battle-nav-link{background:#303638;border-color:#75807d80;border-left-color:#9a8b70;color:#e3e0d6}.sidebar nav .battle-nav-link small,.sidebar nav .battle-nav-link .nav-arrow{color:#b9b7a9}.sidebar nav .battle-nav-link:hover{background:#414a4b;border-color:#a19881;color:#f1eee5}
+
+.sidebar nav .worldwar-nav-link{background:#2c3b41;border:1px solid #78888a;color:#e4decc}.sidebar nav .worldwar-nav-link:hover{background:#3a4b50}.sidebar nav .worldwar-nav-link small{color:#aebcb5}

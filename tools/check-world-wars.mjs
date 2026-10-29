@@ -1,0 +1,8 @@
+import fs from 'node:fs';import path from 'node:path';import assert from 'node:assert/strict';
+const root=path.resolve(import.meta.dirname,'..'),dir=path.join(root,'docs/world-wars');
+const raw=fs.readFileSync(path.join(dir,'war-data.js'),'utf8'),d=JSON.parse(raw.slice('window.WORLD_WARS='.length).trim().slice(0,-1));
+const manifest=JSON.parse(fs.readFileSync(path.join(dir,'manifest.json')));assert.equal(d.wars.flatMap(w=>w.months).length,manifest.months);
+for(const w of d.wars){const byDate=new Map(w.months.map(m=>[m.date,m]));assert.equal(byDate.size,w.months.length);for(let[y,m]=w.start.split('-').map(Number);`${y}-${String(m).padStart(2,'0')}`<=w.end;){assert(byDate.has(`${y}-${String(m).padStart(2,'0')}`));if(++m===13){y++;m=1}}}
+const w2=d.wars.find(w=>w.id==='ww2');assert(w2.months.find(m=>m.date==='1945-08').story.join('').includes('15日'));assert(w2.months.find(m=>m.date==='1945-09').story.join('').includes('2日'));assert(d.wars[0].months.find(m=>m.date==='1917-03').story.join('').includes('旧历'));
+const battleRaw=fs.readFileSync(path.join(root,'docs/battles/battle-data.js'),'utf8'),battles=JSON.parse(battleRaw.slice('window.BATTLE_DATA='.length).trim().slice(0,-1));const ids=new Set(battles.battles.map(b=>b.id));for(const w of d.wars)for(const m of w.months)assert((m.relatedBattles??[]).every(id=>ids.has(id)));
+assert(fs.readFileSync(path.join(root,'docs/app.js'),'utf8').includes('world-wars/index.html'));assert(fs.readFileSync(path.join(root,'docs/battles/index.html'),'utf8').includes('../world-wars/index.html'));console.log(JSON.stringify({...manifest,continuousMonths:'passed',criticalDateConventions:'passed',existingBattleLinks:'passed',entrances:'passed'}));

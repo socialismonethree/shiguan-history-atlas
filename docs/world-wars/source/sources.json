@@ -1,0 +1,296 @@
+[
+  {
+    "id": "nam14",
+    "title": "一战年度档案：1914",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://ww1.nam.ac.uk/theme/year-1914/",
+    "note": "年度主题索引；具体月份另与该馆总时间线交叉定位。"
+  },
+  {
+    "id": "nam15",
+    "title": "一战年度档案：1915",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://ww1.nam.ac.uk/theme/year-1915/",
+    "note": "年度主题索引；具体月份另与该馆总时间线交叉定位。"
+  },
+  {
+    "id": "nam16",
+    "title": "一战年度档案：1916",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://ww1.nam.ac.uk/theme/year-1916/",
+    "note": "年度主题索引；具体月份另与该馆总时间线交叉定位。"
+  },
+  {
+    "id": "nam17",
+    "title": "一战年度档案：1917",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://ww1.nam.ac.uk/theme/year-1917/",
+    "note": "年度主题索引；具体月份另与该馆总时间线交叉定位。"
+  },
+  {
+    "id": "nam18",
+    "title": "一战年度档案：1918",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://ww1.nam.ac.uk/theme/year-1918/",
+    "note": "年度主题索引；具体月份另与该馆总时间线交叉定位。"
+  },
+  {
+    "id": "namtime",
+    "title": "第一次世界大战时间线",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://ww1.nam.ac.uk/timeline/",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "armenian",
+    "title": "亚美尼亚种族灭绝：概述",
+    "publisher": "美国大屠杀纪念馆",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-overview",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "usentry",
+    "title": "美国参加第一次世界大战",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1914-1920/wwi",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "verdun",
+    "title": "一战整体与凡尔登战场背景",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://www.nam.ac.uk/explore/first-world-war",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "somme",
+    "title": "索姆河战役",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://www.nam.ac.uk/explore/battle-somme",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "chinaWW1",
+    "title": "十四点原则与中国山东问题",
+    "publisher": "美国国家一战博物馆",
+    "url": "https://www.theworldwar.org/learn/peace/fourteen-points",
+    "note": "结合一战年度时间线与中国参战、华工条目阅读。"
+  },
+  {
+    "id": "fourteen",
+    "title": "威尔逊十四点原则",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1914-1920/fourteen-points",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "peace",
+    "title": "巴黎和会与凡尔赛条约",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1914-1920/paris-peace",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "china",
+    "title": "抗战大事记",
+    "publisher": "人民日报资料／中央纪委网站刊载",
+    "url": "https://m.ccdi.gov.cn/content/3e/04/4363.html",
+    "note": "以文中相应年月定位，并与本站既有抗战战役、党史资料交叉阅读；不照搬个别战果口径。"
+  },
+  {
+    "id": "mao38",
+    "title": "中国共产党一百年大事记",
+    "publisher": "中共中央党史和文献研究院",
+    "url": "https://www.12371.cn/2021/06/28/ARTI1624828749818652.shtml",
+    "note": "定位1938年《论持久战》；亦参照本站既有1938年党史资料。"
+  },
+  {
+    "id": "pearl",
+    "title": "中国、日本、美国与通向珍珠港之路",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1937-1945/pearl-harbor",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "holocaust",
+    "title": "纳粹迫害与大屠杀时间线",
+    "publisher": "美国大屠杀纪念馆",
+    "url": "https://encyclopedia.ushmm.org/content/en/timeline/holocaust",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "prewar",
+    "title": "第二次世界大战关键日期：前史及战争",
+    "publisher": "美国大屠杀纪念馆",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-ii-key-dates",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "nanjing",
+    "title": "南京大屠杀案罪行调查表",
+    "publisher": "国家档案局／南京市档案馆",
+    "url": "https://www.saac.gov.cn/zt/2014-12/11/content_77660.htm",
+    "note": "1946年调查材料的档案展陈；个别证言是具体个案，不据此推算整体人数。"
+  },
+  {
+    "id": "ww2dates",
+    "title": "第二次世界大战关键日期",
+    "publisher": "美国大屠杀纪念馆",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/world-war-ii-key-dates",
+    "note": "用于日期交叉核对；个别事件起讫口径与其他编年资料有差别，不把简表视为完整战史。"
+  },
+  {
+    "id": "neutral",
+    "title": "美国1930年代中立法",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1921-1936/neutrality-acts",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "winter",
+    "title": "冬季战争80周年史事说明",
+    "publisher": "芬兰总理办公室",
+    "url": "https://valtioneuvosto.fi/en/-/winter-war-began-80-years-ago-today",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "sea",
+    "title": "大西洋战役概述",
+    "publisher": "美国海军历史与遗产司令部",
+    "url": "https://www.history.navy.mil/content/history/nhhc/browse-by-topic/wars-conflicts-and-operations/world-war-ii/1942/atlantic/overview.html",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "home",
+    "title": "二战美国后方编年选录",
+    "publisher": "美国国家二战博物馆",
+    "url": "https://www.nationalww2museum.org/home-front-selected-chronology",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "lend",
+    "title": "租借法与盟国援助",
+    "publisher": "美国国务院历史办公室存档",
+    "url": "https://2001-2009.state.gov/r/pa/ho/time/wwii/81508.htm",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "yugoslavia",
+    "title": "轴心国入侵南斯拉夫",
+    "publisher": "美国大屠杀纪念馆",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/axis-invasion-of-yugoslavia",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "nz",
+    "title": "第二次世界大战逐年时间线",
+    "publisher": "新西兰文化与遗产部 NZ History",
+    "url": "https://nzhistory.govt.nz/war/second-world-war/timeline",
+    "note": "按日期主题定位；时间线存在个别错误或口径差异，须与专题档案及其他官方编年交叉核对。"
+  },
+  {
+    "id": "pacific",
+    "title": "二战整体与太平洋战场导读",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://www.nam.ac.uk/explore/second-world-war",
+    "note": "用于战场进程，不把概述中的简化日期替代具体事件起讫。"
+  },
+  {
+    "id": "dunkirk",
+    "title": "敦刻尔克史实说明",
+    "publisher": "帝国战争博物馆",
+    "url": "https://www.iwm.org.uk/sites/default/files/press-release/dunkirk_film_2017_fact_sheet_and_iwm_resources_available.pdf",
+    "note": "不同资料对末批撤运日有口径差异，本文按跨5—6月叙述，未照搬单一截止日。"
+  },
+  {
+    "id": "atlantic",
+    "title": "大西洋会议与宪章",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1937-1945/atlantic-conf",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "wannsee",
+    "title": "万湖会议与会议记录",
+    "publisher": "万湖会议纪念教育馆",
+    "url": "https://www.ghwk.de/de/konferenz",
+    "note": "会议协调既在进行的种族灭绝，不是把屠杀起点简单定在会议当天。"
+  },
+  {
+    "id": "atomic",
+    "title": "曼哈顿计划",
+    "publisher": "美国国家二战博物馆",
+    "url": "https://www.nationalww2museum.org/war/topics/manhattan-project",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "ghetto",
+    "title": "华沙隔都起义",
+    "publisher": "美国大屠杀纪念馆",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/warsaw-ghetto-uprising",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "katyn",
+    "title": "卡廷罪行史料专题说明",
+    "publisher": "德国联邦独裁历史研究基金会",
+    "url": "https://www.bundesstiftung-aufarbeitung.de/de/stiftung/aktuelles/neues-online-dossier-zum-verbrechen-von-katyn",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "bengal",
+    "title": "Hungry Bengal: War, Famine and the End of Empire",
+    "publisher": "Janam Mukherjee／牛津大学出版社",
+    "url": "https://academic.oup.com/book/2861",
+    "note": "史学专著摘要；饥荒因果涉及供应、价格、殖民政策与战争，多种研究有不同解释，本文不写未核定死亡总数。"
+  },
+  {
+    "id": "cairo",
+    "title": "开罗与德黑兰会议外交文件集",
+    "publisher": "美国国务院历史办公室 FRUS",
+    "url": "https://history.state.gov/historicaldocuments/frus1943CairoTehran",
+    "note": "定位1943年12月1日开罗公报及相关会议文件。"
+  },
+  {
+    "id": "tehran",
+    "title": "德黑兰会议",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1937-1945/tehran-conf",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "yalta",
+    "title": "雅尔塔会议",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1937-1945/yalta-conf",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "un",
+    "title": "联合国宪章",
+    "publisher": "联合国",
+    "url": "https://www.un.org/en/about-us/un-charter",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "potsdam",
+    "title": "波茨坦会议",
+    "publisher": "美国国务院历史办公室",
+    "url": "https://history.state.gov/milestones/1937-1945/potsdam-conf",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "command",
+    "title": "Command Decisions：日本投降决策讨论",
+    "publisher": "美国陆军军事史中心",
+    "url": "https://history.army.mil/portals/143/Images/Publications/catalog/70-7.pdf",
+    "note": "书末关于日本投降因素的讨论；不同研究意见并列，不能以单因解释。部分网络环境可能无法打开军史网站。"
+  },
+  {
+    "id": "surrender",
+    "title": "日本投降书：原件与释文",
+    "publisher": "美国国家档案馆",
+    "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
+    "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  }
+]

@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.16.0",
-  "runtimeFiles": 1061,
-  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。 新增党史人物生平纪年，七位人物各有逐年页面和资料说明，并连接原毛泽东纪年。 中外96场战役以连贯叙事呈现，人物索引、史料辨析与来源可展开查阅。 战役首页以时间长卷串联96场战役，新增49条战争与时代线索、参战方标注及原位阅读。",
+  "websiteVersion": "0.17.0",
+  "runtimeFiles": 1072,
+  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。 新增党史人物生平纪年，七位人物各有逐年页面和资料说明，并连接原毛泽东纪年。 中外96场战役以连贯叙事呈现，人物索引、史料辨析与来源可展开查阅。 战役首页以时间长卷串联96场战役，新增49条战争与时代线索、参战方标注及原位阅读。 新增两次世界大战独立入口：145个月度节点、主战期126个月连续，13个国家或帝国视角与31位人物展签。",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -17,7 +17,7 @@
     },
     {
       "path": "docs/app.js",
-      "sha256": "36eec65e154c59809af80efe7fc2e56ed8ed644d5ddbba59e525522e2129c6b0"
+      "sha256": "1401639ebbc996f4e9b3999c286a9e588e3608b502d7c441feada7304b6eb98a"
     },
     {
       "path": "docs/assets/README.md",
@@ -429,7 +429,7 @@
     },
     {
       "path": "docs/battles/index.html",
-      "sha256": "2a5fc49105fb676b9b493604e81d3c9d5213985eed846b3e4baa70b9a38dbd9f"
+      "sha256": "7d7cd4dc6ff78b1e574b6ac48744825b13b2af6b633db1b802b28258018f048e"
     },
     {
       "path": "docs/battles/manifest.json",
@@ -561,7 +561,7 @@
     },
     {
       "path": "docs/exhibition.css",
-      "sha256": "3f7ad06f2747fd8ed9a9fd0c793851c4d5e2d62019dd886545d7316a95a04806"
+      "sha256": "436a3e985ed88f8f44932ee4bba1a1b9979db64183b6f8fecb166f74d7ae774e"
     },
     {
       "path": "docs/expanded/00-sources.js",
@@ -837,7 +837,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "adea888199a58311c3cc0d9be4d415659e7b8139307b152218fcfe9ebf52bbc0"
+      "sha256": "de76ac2a989623ab0345f696ecba0d5911ca9725d8b99cddc80dcdf80d1b7192"
     },
     {
       "path": "docs/knowledge.css",
@@ -4246,6 +4246,50 @@
     {
       "path": "docs/world-chronicle.js",
       "sha256": "bfac7bd84e2c8fb68ad1fb096b0e41bed1ebfe7f1f018aad8161c954b072c884"
+    },
+    {
+      "path": "docs/world-wars/README.md",
+      "sha256": "702594b0b08df3a6fdf58a412646a3f449ebacb800bda909e98daaa830dbb7fa"
+    },
+    {
+      "path": "docs/world-wars/index.html",
+      "sha256": "15105d5bccfe58cf06de8851727ba69a4e305ced2b1e0c9917cd86fab3af442e"
+    },
+    {
+      "path": "docs/world-wars/manifest.json",
+      "sha256": "8920aa9996868f3ef71b1ada282657781cfd110af9eba92dce2aa01016389645"
+    },
+    {
+      "path": "docs/world-wars/source/countries.json",
+      "sha256": "c18f848516b7b6bd5c5d4c0b14b1b5b08c6efbbc700a6b53b506856aa92ee0c3"
+    },
+    {
+      "path": "docs/world-wars/source/people.json",
+      "sha256": "58669cb308fabe20e5ff56d57a63a8c60402e4857ced82bebcb3a87e957b430d"
+    },
+    {
+      "path": "docs/world-wars/source/sources.json",
+      "sha256": "5d320f26d38c0a359ec4b78affe59d6d66e8fc61ef2be088dfdecdc73eebad4e"
+    },
+    {
+      "path": "docs/world-wars/source/ww1.json",
+      "sha256": "a4347778d81a9ffc89b4535904f938283e5c56c0c0dd4f17d05f8cc658fef8d8"
+    },
+    {
+      "path": "docs/world-wars/source/ww2.json",
+      "sha256": "70db78f953bc5c842c073304f6c38249c80f250f00d4a6bdfa356edeb7c6c4f8"
+    },
+    {
+      "path": "docs/world-wars/war-data.js",
+      "sha256": "4dceb08be3e0f6b2046fa3f6b73934bbbf4b7b0a40a0b368d1f0f2710a4452cc"
+    },
+    {
+      "path": "docs/world-wars/wars.css",
+      "sha256": "0c782ce6fe8d9df9b36d1cc7c0694651b4aaa57530f9a8465ef44430b435f021"
+    },
+    {
+      "path": "docs/world-wars/wars.js",
+      "sha256": "15c1859990af4b3aae527a36b3fa924ecf5cc369f8c3316a121726f69ef8340e"
     }
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "version": "0.17.0",
+  "months": 145,
+  "continuousMainWarMonths": 126,
+  "wars": [
+    {
+      "id": "ww1",
+      "months": 56
+    },
+    {
+      "id": "ww2",
+      "months": 89
+    }
+  ],
+  "countryProfiles": 13,
+  "featuredPeople": 31,
+  "indexedPeople": 110,
+  "sources": 42
+}
