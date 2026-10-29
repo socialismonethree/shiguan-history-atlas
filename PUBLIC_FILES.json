@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.15.0",
-  "runtimeFiles": 1060,
-  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。 新增党史人物生平纪年，七位人物各有逐年页面和资料说明，并连接原毛泽东纪年。 中外96场战役以连贯叙事呈现，人物索引、史料辨析与来源可展开查阅。",
+  "websiteVersion": "0.16.0",
+  "runtimeFiles": 1061,
+  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。 新增党史人物生平纪年，七位人物各有逐年页面和资料说明，并连接原毛泽东纪年。 中外96场战役以连贯叙事呈现，人物索引、史料辨析与来源可展开查阅。 战役首页以时间长卷串联96场战役，新增49条战争与时代线索、参战方标注及原位阅读。",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -413,27 +413,27 @@
     },
     {
       "path": "docs/battles/README.md",
-      "sha256": "5f41055aa30a8ee706abf93c7e8f55969c0406f0a3d60332dfb859cf3a11503c"
+      "sha256": "0d0d0b8be42a5a3d113bc9f72e8a420356503bf5cde8e66545b208c63c12d5ee"
     },
     {
       "path": "docs/battles/battle-data.js",
-      "sha256": "c270a3d95db3350bd1c2caeed72a7a3ef42143a460be03bdb3bab442583bc56b"
+      "sha256": "236a05128858e82194ebee8f978fc10c7fd38ac2b86f678de316a11ba0ed40c0"
     },
     {
       "path": "docs/battles/battle.css",
-      "sha256": "3c9d3052b3e60bbbc49e28d66dc31a480f7ffba2f283f97c97122027d33025fa"
+      "sha256": "3512967be6b91a535ab012a863f4e177a7727f271009d19ace7270942524cda7"
     },
     {
       "path": "docs/battles/battle.js",
-      "sha256": "16c06795fce0cf063796959b9ffb51cb347be1e7fc2618a33cbb1c99a16c711a"
+      "sha256": "b54fc074c3802805bb5a2235c11a29146d40a7a31733a3f11506fc8c8c36bcc2"
     },
     {
       "path": "docs/battles/index.html",
-      "sha256": "37eb1676b5f209a9182bccc9c5ffca637b7bc54c14c5eb794a201faad6fa2592"
+      "sha256": "2a5fc49105fb676b9b493604e81d3c9d5213985eed846b3e4baa70b9a38dbd9f"
     },
     {
       "path": "docs/battles/manifest.json",
-      "sha256": "efa16a539b5fae296059517bb508c5f3abaf43e5b7dcf61994ff2464a089f6f3"
+      "sha256": "72bc4972731ce70490aaba81d7d6073808e1fef272fbd8c61f8fb3911f5c6d3c"
     },
     {
       "path": "docs/battles/source/access-check.json",
@@ -442,6 +442,10 @@
     {
       "path": "docs/battles/source/china.json",
       "sha256": "6103ad70d92fe4f521ac8e6af6b57f8d936618b7a8c5cd95eadc0d24a362e132"
+    },
+    {
+      "path": "docs/battles/source/timeline.json",
+      "sha256": "e7877cdc60caace8364a454ca528c52ae114c33b30cc6f8790e3ccc2a7c04e25"
     },
     {
       "path": "docs/battles/source/world.json",

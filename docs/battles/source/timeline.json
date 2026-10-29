@@ -1,0 +1,1006 @@
+{
+  "note": "参战方采用当时国家、政权或军事集团名称；地理分区仅作浏览。分组为本站编辑线索，时代线索与跨地区线索不表示战役之间均有直接因果。背景摘要与关联依对应战役的既有资料整理。",
+  "threads": [
+    {
+      "id": "zhou",
+      "title": "商周更替",
+      "kind": "时代线索",
+      "context": "周人结成联盟东进，牧野之战改变商周力量格局；新秩序的建立仍需后续整合。",
+      "battles": [
+        "cn-zhou-founding-battle"
+      ]
+    },
+    {
+      "id": "hegemony",
+      "title": "春秋战国：霸权与兼并",
+      "kind": "时代线索",
+      "context": "从晋楚争雄到齐魏角逐，再到秦赵决战，战争目标逐渐从诸侯声望转向领土与人口的兼并。",
+      "battles": [
+        "chengpu",
+        "guiling",
+        "maling",
+        "changping"
+      ]
+    },
+    {
+      "id": "persian",
+      "title": "希波战争",
+      "kind": "战争脉络",
+      "context": "波斯扩展爱琴海影响，希腊城邦组织抵抗；从登陆阻击到隘口防御，再到海峡会战，陆海战场相互牵动。",
+      "battles": [
+        "marathon",
+        "thermopylae",
+        "salamis"
+      ]
+    },
+    {
+      "id": "alexander",
+      "title": "亚历山大东征",
+      "kind": "战争脉络",
+      "context": "马其顿军进入波斯帝国腹地，大流士三世试图通过决战守住中央地区。",
+      "battles": [
+        "gaugamela"
+      ]
+    },
+    {
+      "id": "punic",
+      "title": "第二次布匿战争",
+      "kind": "战争脉络",
+      "context": "汉尼拔把战争带入意大利，罗马坚持作战，随后又把战场推向北非；坎尼与扎马见证了主动权的转移。",
+      "battles": [
+        "cannae",
+        "zama"
+      ]
+    },
+    {
+      "id": "qinfall",
+      "title": "秦末反秦战争",
+      "kind": "战争脉络",
+      "context": "秦末各路反秦力量兴起，援救巨鹿成为重创秦军、重组反秦联盟的关键。",
+      "battles": [
+        "julu"
+      ]
+    },
+    {
+      "id": "chuhan",
+      "title": "楚汉战争",
+      "kind": "战争脉络",
+      "context": "反秦之后，刘邦与项羽展开长期争夺，军队与补给的消耗最终汇集到垓下决战。",
+      "battles": [
+        "gaixia"
+      ]
+    },
+    {
+      "id": "hanxiongnu",
+      "title": "汉匈战争：河西与漠北",
+      "kind": "战争脉络",
+      "context": "汉武帝时期的出塞行动，从河西走廊延伸到漠北；军事进展与交通经营、远征成本紧密相连。",
+      "battles": [
+        "hexi",
+        "mobei"
+      ]
+    },
+    {
+      "id": "xinfall",
+      "title": "新朝末年的政权危机",
+      "kind": "时代线索",
+      "context": "绿林军兴起，新朝试图通过围攻昆阳压制反抗，刘秀的救援行动成为局势转折。",
+      "battles": [
+        "kunyang"
+      ]
+    },
+    {
+      "id": "threekingdoms",
+      "title": "汉末至三国：从争北方到争长江",
+      "kind": "时代线索",
+      "context": "官渡改变北方形势，赤壁阻止曹操迅速南下，夷陵又改变蜀吴关系；三场战役串起格局形成的不同阶段。",
+      "battles": [
+        "guandu",
+        "chibi",
+        "yiling"
+      ]
+    },
+    {
+      "id": "northsouth",
+      "title": "南北对峙与前秦南征",
+      "kind": "时代线索",
+      "context": "前秦统一北方广大地区后南进，东晋以江淮防御应对；淝水失利又加剧前秦内部的分化。",
+      "battles": [
+        "feishui"
+      ]
+    },
+    {
+      "id": "tang",
+      "title": "唐初中原争夺",
+      "kind": "战争脉络",
+      "context": "唐军围攻洛阳，窦建德前来救援，李世民通过虎牢作战同时改变两股割据力量的处境。",
+      "battles": [
+        "hulao"
+      ]
+    },
+    {
+      "id": "islam",
+      "title": "早期伊斯兰扩张",
+      "kind": "时代线索",
+      "context": "阿拉伯穆斯林军进入叙利亚，拜占庭试图恢复控制，亚尔穆克河的胜负加速地区权力转移。",
+      "battles": [
+        "yarmouk"
+      ]
+    },
+    {
+      "id": "centralasia",
+      "title": "中亚的多方竞争",
+      "kind": "时代线索",
+      "context": "唐朝、阿拔斯王朝与地方势力的活动在中亚交汇，怛罗斯展现了边疆联盟的复杂与变化。",
+      "battles": [
+        "talas"
+      ]
+    },
+    {
+      "id": "norman",
+      "title": "诺曼征服英格兰",
+      "kind": "战争脉络",
+      "context": "王位继承争议演变为跨海进攻，黑斯廷斯为诺曼统治打开道路，征服后的抵抗仍延续数年。",
+      "battles": [
+        "hastings"
+      ]
+    },
+    {
+      "id": "anatolia",
+      "title": "拜占庭与塞尔柱的边疆争夺",
+      "kind": "战争脉络",
+      "context": "安纳托利亚东部冲突扩大，曼齐刻尔特使拜占庭防线遭重创，地区转型随后持续多年。",
+      "battles": [
+        "manzikert"
+      ]
+    },
+    {
+      "id": "songjin",
+      "title": "宋金战争",
+      "kind": "战争脉络",
+      "context": "宋军北进与金军反击在中原交错，郾城显示局部反击能力，后续战局仍受军事调动和政治谈判影响。",
+      "battles": [
+        "yancheng"
+      ]
+    },
+    {
+      "id": "mongol",
+      "title": "蒙古扩张与各地抵抗",
+      "kind": "跨地区线索",
+      "context": "金朝在蔡州终结，巴格达遭围攻，南宋钓鱼城长期坚守，马穆鲁克又在黎凡特迎战。各地经历并列呈现同一扩张进程。",
+      "battles": [
+        "cn-jin-fall-battle",
+        "we-baghdad1258-battle",
+        "diaoyucheng",
+        "ain-jalut"
+      ]
+    },
+    {
+      "id": "yuanming",
+      "title": "元末群雄争夺",
+      "kind": "时代线索",
+      "context": "朱元璋与陈友谅争夺长江中下游，鄱阳湖水战改变了双方继续角逐的力量基础。",
+      "battles": [
+        "poyang"
+      ]
+    },
+    {
+      "id": "hundredyears",
+      "title": "英法百年战争",
+      "kind": "战争脉络",
+      "context": "英王在法国的攻城与行军引来拦截，阿金库尔的地形、弓箭与近战共同影响胜负。",
+      "battles": [
+        "agincourt"
+      ]
+    },
+    {
+      "id": "ming1449",
+      "title": "土木堡危机与北京防御",
+      "kind": "前后关联",
+      "context": "明军亲征失败、皇帝被俘，危机随后逼近京师；于谦组织防御，使败局没有继续演变为北京失守。",
+      "battles": [
+        "tumu",
+        "beijing"
+      ]
+    },
+    {
+      "id": "ottoman",
+      "title": "奥斯曼与地中海格局",
+      "kind": "时代线索",
+      "context": "从攻占拜占庭首都到与地中海同盟海战，奥斯曼扩张与周边力量的应对经历了长期变化。",
+      "battles": [
+        "constantinople-1453",
+        "lepanto"
+      ]
+    },
+    {
+      "id": "mughal",
+      "title": "莫卧儿政权在北印度立足",
+      "kind": "时代线索",
+      "context": "巴布尔进入北印度，与洛迪政权决战，帕尼帕特之胜打开建政道路，巩固统治仍需后续行动。",
+      "battles": [
+        "panipat-1526"
+      ]
+    },
+    {
+      "id": "deccan",
+      "title": "德干与南印度争衡",
+      "kind": "时代线索",
+      "context": "毗奢耶那伽罗与德干诸苏丹国竞争，联盟会战的失败使都城遭破坏，南印度力量格局随之改变。",
+      "battles": [
+        "talikota"
+      ]
+    },
+    {
+      "id": "imjin",
+      "title": "万历朝鲜战争的海上战场",
+      "kind": "战争脉络",
+      "context": "日本侵朝后，海路补给关系到陆军推进；朝鲜水军通过海战削弱日本沿海运输能力。",
+      "battles": [
+        "hansan"
+      ]
+    },
+    {
+      "id": "japan",
+      "title": "日本战国末期的权力重组",
+      "kind": "时代线索",
+      "context": "丰臣秀吉去世后，诸侯联盟重新组合，关原之战为德川家康建立政权铺路。",
+      "battles": [
+        "sekigahara"
+      ]
+    },
+    {
+      "id": "mingqing",
+      "title": "从后金崛起到清军入关",
+      "kind": "时代线索",
+      "context": "萨尔浒使后金取得辽东主动，二十余年后明清之际的危机又将清军、吴三桂与大顺军带到山海关。",
+      "battles": [
+        "sarhu",
+        "cn-qing-entry-battle"
+      ]
+    },
+    {
+      "id": "qingrussia",
+      "title": "雅克萨冲突与尼布楚交涉",
+      "kind": "前后关联",
+      "context": "黑龙江流域的筑垒和围攻反复发生，军事压力随后转入跨语言谈判，形成条约安排。",
+      "battles": [
+        "cn-nerchinsk-treaty-battle"
+      ]
+    },
+    {
+      "id": "william",
+      "title": "威廉派与詹姆斯派战争",
+      "kind": "战争脉络",
+      "context": "英国王位变更后的争夺延伸到爱尔兰，并与当地宗教和土地矛盾交织。",
+      "battles": [
+        "boyne"
+      ]
+    },
+    {
+      "id": "spanishsuccession",
+      "title": "西班牙王位继承战争",
+      "kind": "战争脉络",
+      "context": "欧洲联盟争夺战略主动，盟军先取得多瑙河渡口，再赢得布伦海姆，随后在拉米伊扩大低地国家的优势。",
+      "battles": [
+        "schellenberg",
+        "blenheim",
+        "ramillies"
+      ]
+    },
+    {
+      "id": "britishindia",
+      "title": "英国在南亚的殖民扩张",
+      "kind": "时代线索",
+      "context": "东印度公司在孟加拉的政治交易，与后来英锡战争中的军事进攻，呈现殖民控制在不同时段的推进。",
+      "battles": [
+        "plassey",
+        "aliwal"
+      ]
+    },
+    {
+      "id": "maratha",
+      "title": "马拉塔北进与杜兰尼干预",
+      "kind": "战争脉络",
+      "context": "北印度权力竞争中，马拉塔与杜兰尼联盟长期对峙，补给困境将双方推向帕尼帕特决战。",
+      "battles": [
+        "panipat-1761"
+      ]
+    },
+    {
+      "id": "sevenyears",
+      "title": "七年战争的北美战场",
+      "kind": "战争脉络",
+      "context": "英法争夺圣劳伦斯河交通和北美殖民地，魁北克成为牵动地区控制的重要据点。",
+      "battles": [
+        "quebec"
+      ]
+    },
+    {
+      "id": "americanindependence",
+      "title": "美国独立战争",
+      "kind": "战争脉络",
+      "context": "英军试图经哈得孙河谷分割起义地区，萨拉托加的失败则促进法国结盟，使战争更加国际化。",
+      "battles": [
+        "saratoga"
+      ]
+    },
+    {
+      "id": "napoleon",
+      "title": "法国远征与拿破仑战争",
+      "kind": "前后关联",
+      "context": "埃及陆战与海战显出海陆支援的关系；1805年的海上失利和陆上大胜并存，1815年滑铁卢终结百日统治。",
+      "battles": [
+        "pyramids",
+        "nile",
+        "trafalgar",
+        "austerlitz",
+        "waterloo"
+      ]
+    },
+    {
+      "id": "war1812",
+      "title": "1812年战争",
+      "kind": "战争脉络",
+      "context": "英军争夺密西西比河下游通道，新奥尔良的战斗发生在和平条约签署之后、正式生效之前。",
+      "battles": [
+        "new-orleans"
+      ]
+    },
+    {
+      "id": "southamerica",
+      "title": "西属美洲独立战争",
+      "kind": "战争脉络",
+      "context": "独立军从新格拉纳达推进到秘鲁，各地战役逐步削弱保王军控制，独立并非在同一天实现。",
+      "battles": [
+        "boyaca",
+        "ayacucho"
+      ]
+    },
+    {
+      "id": "uscivil",
+      "title": "美国内战",
+      "kind": "战争脉络",
+      "context": "东部战场围绕北进和里士满反复攻防，西部围绕河流与交通枢纽推进；把两条战线放回同一时间刻度，才能看清整体转折。",
+      "battles": [
+        "bull-run",
+        "shiloh",
+        "antietam",
+        "fredericksburg",
+        "chancellorsville",
+        "vicksburg",
+        "gettysburg",
+        "chickamauga",
+        "chattanooga",
+        "cold-harbor"
+      ]
+    },
+    {
+      "id": "plains",
+      "title": "美国西部扩张与原住民抵抗",
+      "kind": "时代线索",
+      "context": "条约土地冲突和强制政策引发战争，小比格霍恩的战场胜利没有终止此后的迫迁与土地丧失。",
+      "battles": [
+        "little-bighorn"
+      ]
+    },
+    {
+      "id": "zulu",
+      "title": "英祖鲁战争",
+      "kind": "战争脉络",
+      "context": "英国入侵祖鲁王国后，同一天既发生英军营地惨败，也发生渡口守卫战；两处局部胜负都需放回殖民战争全局。",
+      "battles": [
+        "isandlwana",
+        "rorkes-drift"
+      ]
+    },
+    {
+      "id": "sudan",
+      "title": "英埃军向苏丹推进",
+      "kind": "战争脉络",
+      "context": "英埃军沿尼罗河推进，先突破阿特巴拉营地，再进逼恩图曼，军事征服逐步转向殖民控制。",
+      "battles": [
+        "atbara",
+        "omdurman"
+      ]
+    },
+    {
+      "id": "ethiopia",
+      "title": "埃塞俄比亚抵抗意大利入侵",
+      "kind": "战争脉络",
+      "context": "条约解释与殖民扩张发生冲突，阿杜瓦的胜利维护了埃塞俄比亚当时的独立地位。",
+      "battles": [
+        "adwa"
+      ]
+    },
+    {
+      "id": "sinojapanese",
+      "title": "甲午战争的海防危机",
+      "kind": "战争脉络",
+      "context": "黄海交战使北洋舰队受损，威海卫又遭海陆夹击；把舰队的战斗与基地的失守连起来，才能看清覆灭过程。",
+      "battles": [
+        "huanghai",
+        "weihai"
+      ]
+    },
+    {
+      "id": "ww1",
+      "title": "第一次世界大战",
+      "kind": "战争脉络",
+      "context": "协约国试图通过达达尼尔海峡打通海路，登陆受阻后陷入阵地消耗，最终撤出加里波利。",
+      "battles": [
+        "gallipoli"
+      ]
+    },
+    {
+      "id": "longmarch",
+      "title": "长征中的机动与转向",
+      "kind": "战争脉络",
+      "context": "红军在围追堵截下不断调整方向，四渡赤水将失利后的转向与此后的战略脱险联系起来。",
+      "battles": [
+        "chishui"
+      ]
+    },
+    {
+      "id": "resistance",
+      "title": "中国抗日战争",
+      "kind": "战争脉络",
+      "context": "上海正面会战、山西山地伏击、台儿庄攻防与华北交通破袭，从不同战场呈现全面抗战的多种形态。",
+      "battles": [
+        "battle-shanghai-1937",
+        "pingxingguan",
+        "battle-taierzhuang",
+        "battle-hundred-regiments"
+      ]
+    },
+    {
+      "id": "ww2",
+      "title": "第二次世界大战",
+      "kind": "跨地区线索",
+      "context": "太平洋航母战、苏德城市攻防、缅印补给争夺与法国登陆同时构成世界战争；各地战局相互影响，不能由单场战役代表全部。",
+      "battles": [
+        "battle-midway-1942",
+        "battle-stalingrad",
+        "imphal-kohima",
+        "battle-normandy"
+      ]
+    },
+    {
+      "id": "chinacivil",
+      "title": "解放战争：从战场转变到战略决战",
+      "kind": "战争脉络",
+      "context": "山东、中原作战为战略决战积累条件，辽沈、淮海与平津相继改变全局，随后渡江推进至江南。",
+      "battles": [
+        "menglianggu",
+        "yudong",
+        "jinan",
+        "battle-liaoshen",
+        "battle-huaihai",
+        "battle-pingjin",
+        "dujiang"
+      ]
+    },
+    {
+      "id": "korea",
+      "title": "朝鲜战争的阵地对峙",
+      "kind": "战争脉络",
+      "context": "战争进入阵地阶段后，有限高地承受巨大火力，坑道、后勤与人员消耗共同决定上甘岭的争夺。",
+      "battles": [
+        "battle-triangle-hill"
+      ]
+    }
+  ],
+  "placements": {
+    "cn-zhou-founding-battle": {
+      "thread": "zhou",
+      "area": "中国",
+      "polities": "周及盟军 ↔ 商"
+    },
+    "chengpu": {
+      "thread": "hegemony",
+      "area": "中国",
+      "polities": "晋及盟国 ↔ 楚及盟国"
+    },
+    "guiling": {
+      "thread": "hegemony",
+      "area": "中国",
+      "polities": "齐（援赵）↔ 魏"
+    },
+    "maling": {
+      "thread": "hegemony",
+      "area": "中国",
+      "polities": "齐（援韩）↔ 魏"
+    },
+    "changping": {
+      "thread": "hegemony",
+      "area": "中国",
+      "polities": "秦 ↔ 赵"
+    },
+    "marathon": {
+      "thread": "persian",
+      "area": "欧洲",
+      "polities": "雅典、普拉提亚 ↔ 波斯"
+    },
+    "thermopylae": {
+      "thread": "persian",
+      "area": "欧洲",
+      "polities": "希腊城邦联盟 ↔ 波斯",
+      "sequence": 1
+    },
+    "salamis": {
+      "thread": "persian",
+      "area": "欧洲",
+      "polities": "希腊城邦联盟 ↔ 波斯",
+      "sequence": 2
+    },
+    "gaugamela": {
+      "thread": "alexander",
+      "area": "西亚与北非",
+      "polities": "马其顿 ↔ 波斯"
+    },
+    "cannae": {
+      "thread": "punic",
+      "area": "欧洲",
+      "polities": "迦太基 ↔ 罗马"
+    },
+    "zama": {
+      "thread": "punic",
+      "area": "西亚与北非",
+      "polities": "罗马、努米底亚 ↔ 迦太基"
+    },
+    "julu": {
+      "thread": "qinfall",
+      "area": "中国",
+      "polities": "楚及诸侯军 ↔ 秦"
+    },
+    "gaixia": {
+      "thread": "chuhan",
+      "area": "中国",
+      "polities": "汉及诸侯军 ↔ 西楚"
+    },
+    "hexi": {
+      "thread": "hanxiongnu",
+      "area": "中国",
+      "polities": "汉 ↔ 匈奴"
+    },
+    "mobei": {
+      "thread": "hanxiongnu",
+      "area": "中国",
+      "polities": "汉 ↔ 匈奴"
+    },
+    "kunyang": {
+      "thread": "xinfall",
+      "area": "中国",
+      "polities": "绿林军 ↔ 新朝"
+    },
+    "guandu": {
+      "thread": "threekingdoms",
+      "area": "中国",
+      "polities": "曹操集团 ↔ 袁绍集团"
+    },
+    "chibi": {
+      "thread": "threekingdoms",
+      "area": "中国",
+      "polities": "孙权、刘备联军 ↔ 曹操军"
+    },
+    "yiling": {
+      "thread": "threekingdoms",
+      "area": "中国",
+      "polities": "蜀汉 ↔ 孙吴"
+    },
+    "feishui": {
+      "thread": "northsouth",
+      "area": "中国",
+      "polities": "东晋 ↔ 前秦"
+    },
+    "hulao": {
+      "thread": "tang",
+      "area": "中国",
+      "polities": "唐 ↔ 夏、郑"
+    },
+    "yarmouk": {
+      "thread": "islam",
+      "area": "西亚与北非",
+      "polities": "穆斯林阿拉伯军 ↔ 拜占庭"
+    },
+    "talas": {
+      "thread": "centralasia",
+      "area": "中亚",
+      "polities": "唐及盟军 ↔ 阿拔斯及盟军"
+    },
+    "hastings": {
+      "thread": "norman",
+      "area": "欧洲",
+      "polities": "诺曼底 ↔ 英格兰"
+    },
+    "manzikert": {
+      "thread": "anatolia",
+      "area": "西亚与北非",
+      "polities": "塞尔柱 ↔ 拜占庭"
+    },
+    "yancheng": {
+      "thread": "songjin",
+      "area": "中国",
+      "polities": "南宋 ↔ 金"
+    },
+    "cn-jin-fall-battle": {
+      "thread": "mongol",
+      "area": "中国",
+      "polities": "蒙古、南宋 ↔ 金"
+    },
+    "we-baghdad1258-battle": {
+      "thread": "mongol",
+      "area": "西亚与北非",
+      "polities": "蒙古 ↔ 阿拔斯"
+    },
+    "diaoyucheng": {
+      "thread": "mongol",
+      "area": "中国",
+      "polities": "南宋 ↔ 蒙古"
+    },
+    "ain-jalut": {
+      "thread": "mongol",
+      "area": "西亚与北非",
+      "polities": "马穆鲁克 ↔ 蒙古"
+    },
+    "poyang": {
+      "thread": "yuanming",
+      "area": "中国",
+      "polities": "朱元璋集团 ↔ 陈友谅集团"
+    },
+    "agincourt": {
+      "thread": "hundredyears",
+      "area": "欧洲",
+      "polities": "英格兰 ↔ 法兰西"
+    },
+    "tumu": {
+      "thread": "ming1449",
+      "area": "中国",
+      "polities": "明 ↔ 瓦剌",
+      "sequence": 1
+    },
+    "beijing": {
+      "thread": "ming1449",
+      "area": "中国",
+      "polities": "明 ↔ 瓦剌",
+      "sequence": 2
+    },
+    "constantinople-1453": {
+      "thread": "ottoman",
+      "area": "欧洲",
+      "polities": "奥斯曼 ↔ 拜占庭及援军"
+    },
+    "lepanto": {
+      "thread": "ottoman",
+      "area": "欧洲",
+      "polities": "神圣同盟 ↔ 奥斯曼"
+    },
+    "panipat-1526": {
+      "thread": "mughal",
+      "area": "南亚",
+      "polities": "巴布尔军 ↔ 德里苏丹国"
+    },
+    "talikota": {
+      "thread": "deccan",
+      "area": "南亚",
+      "polities": "德干苏丹国联盟 ↔ 毗奢耶那伽罗"
+    },
+    "hansan": {
+      "thread": "imjin",
+      "area": "东亚",
+      "polities": "朝鲜 ↔ 日本"
+    },
+    "sekigahara": {
+      "thread": "japan",
+      "area": "东亚",
+      "polities": "德川东军 ↔ 石田等西军"
+    },
+    "sarhu": {
+      "thread": "mingqing",
+      "area": "中国",
+      "polities": "明及朝鲜援军 ↔ 后金"
+    },
+    "cn-qing-entry-battle": {
+      "thread": "mingqing",
+      "area": "中国",
+      "polities": "清、吴三桂部 ↔ 大顺"
+    },
+    "cn-nerchinsk-treaty-battle": {
+      "thread": "qingrussia",
+      "area": "中国",
+      "polities": "清 ↔ 俄国"
+    },
+    "boyne": {
+      "thread": "william",
+      "area": "欧洲",
+      "polities": "威廉派联军 ↔ 詹姆斯派联军"
+    },
+    "schellenberg": {
+      "thread": "spanishsuccession",
+      "area": "欧洲",
+      "polities": "反法盟军 ↔ 法巴联军",
+      "sequence": 1
+    },
+    "blenheim": {
+      "thread": "spanishsuccession",
+      "area": "欧洲",
+      "polities": "反法盟军 ↔ 法巴联军",
+      "sequence": 2
+    },
+    "ramillies": {
+      "thread": "spanishsuccession",
+      "area": "欧洲",
+      "polities": "反法盟军 ↔ 法军及盟友"
+    },
+    "plassey": {
+      "thread": "britishindia",
+      "area": "南亚",
+      "polities": "英国东印度公司 ↔ 孟加拉纳瓦布"
+    },
+    "aliwal": {
+      "thread": "britishindia",
+      "area": "南亚",
+      "polities": "英印军 ↔ 锡克军"
+    },
+    "panipat-1761": {
+      "thread": "maratha",
+      "area": "南亚",
+      "polities": "杜兰尼联盟 ↔ 马拉塔"
+    },
+    "quebec": {
+      "thread": "sevenyears",
+      "area": "北美",
+      "polities": "英国 ↔ 法国"
+    },
+    "saratoga": {
+      "thread": "americanindependence",
+      "area": "北美",
+      "polities": "美国独立军 ↔ 英国及盟军"
+    },
+    "pyramids": {
+      "thread": "napoleon",
+      "area": "西亚与北非",
+      "polities": "法国 ↔ 马穆鲁克"
+    },
+    "nile": {
+      "thread": "napoleon",
+      "area": "西亚与北非",
+      "polities": "英国 ↔ 法国"
+    },
+    "trafalgar": {
+      "thread": "napoleon",
+      "area": "欧洲",
+      "polities": "英国 ↔ 法国、西班牙",
+      "sequence": 1
+    },
+    "austerlitz": {
+      "thread": "napoleon",
+      "area": "欧洲",
+      "polities": "法国 ↔ 俄国、奥地利",
+      "sequence": 2
+    },
+    "waterloo": {
+      "thread": "napoleon",
+      "area": "欧洲",
+      "polities": "英国、普鲁士等盟军 ↔ 法国",
+      "sequence": 2
+    },
+    "new-orleans": {
+      "thread": "war1812",
+      "area": "北美",
+      "polities": "美国 ↔ 英国",
+      "sequence": 1
+    },
+    "boyaca": {
+      "thread": "southamerica",
+      "area": "南美",
+      "polities": "南美独立军 ↔ 西班牙保王军"
+    },
+    "ayacucho": {
+      "thread": "southamerica",
+      "area": "南美",
+      "polities": "联合解放军 ↔ 西班牙保王军"
+    },
+    "bull-run": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟"
+    },
+    "shiloh": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟",
+      "sequence": 1
+    },
+    "antietam": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟",
+      "sequence": 2
+    },
+    "fredericksburg": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟",
+      "sequence": 3
+    },
+    "chancellorsville": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟",
+      "sequence": 1
+    },
+    "vicksburg": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟",
+      "sequence": 2
+    },
+    "gettysburg": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟",
+      "sequence": 3
+    },
+    "chickamauga": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟",
+      "sequence": 4
+    },
+    "chattanooga": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟",
+      "sequence": 5
+    },
+    "cold-harbor": {
+      "thread": "uscivil",
+      "area": "北美",
+      "polities": "美国联邦 ↔ 南方联盟"
+    },
+    "little-bighorn": {
+      "thread": "plains",
+      "area": "北美",
+      "polities": "拉科塔等原住民联盟 ↔ 美国军队"
+    },
+    "isandlwana": {
+      "thread": "zulu",
+      "area": "非洲",
+      "polities": "祖鲁 ↔ 英国殖民军",
+      "sequence": 1
+    },
+    "rorkes-drift": {
+      "thread": "zulu",
+      "area": "非洲",
+      "polities": "祖鲁 ↔ 英国殖民军",
+      "sequence": 2
+    },
+    "atbara": {
+      "thread": "sudan",
+      "area": "非洲",
+      "polities": "英埃军 ↔ 马赫迪国家"
+    },
+    "omdurman": {
+      "thread": "sudan",
+      "area": "非洲",
+      "polities": "英埃军 ↔ 马赫迪国家"
+    },
+    "adwa": {
+      "thread": "ethiopia",
+      "area": "非洲",
+      "polities": "埃塞俄比亚 ↔ 意大利"
+    },
+    "huanghai": {
+      "thread": "sinojapanese",
+      "area": "中国",
+      "polities": "中国清朝 ↔ 日本"
+    },
+    "weihai": {
+      "thread": "sinojapanese",
+      "area": "中国",
+      "polities": "中国清朝 ↔ 日本"
+    },
+    "gallipoli": {
+      "thread": "ww1",
+      "area": "欧洲",
+      "polities": "协约国多国部队 ↔ 奥斯曼"
+    },
+    "chishui": {
+      "thread": "longmarch",
+      "area": "中国",
+      "polities": "中央红军 ↔ 国民党军"
+    },
+    "battle-shanghai-1937": {
+      "thread": "resistance",
+      "area": "中国",
+      "polities": "中国 ↔ 日本",
+      "sequence": 1
+    },
+    "pingxingguan": {
+      "thread": "resistance",
+      "area": "中国",
+      "polities": "中国八路军 ↔ 日本",
+      "sequence": 2
+    },
+    "battle-taierzhuang": {
+      "thread": "resistance",
+      "area": "中国",
+      "polities": "中国 ↔ 日本"
+    },
+    "battle-hundred-regiments": {
+      "thread": "resistance",
+      "area": "中国",
+      "polities": "中国八路军 ↔ 日伪军"
+    },
+    "battle-midway-1942": {
+      "thread": "ww2",
+      "area": "太平洋",
+      "polities": "美国 ↔ 日本",
+      "sequence": 1
+    },
+    "battle-stalingrad": {
+      "thread": "ww2",
+      "area": "欧洲",
+      "polities": "苏联 ↔ 德国等轴心国军",
+      "sequence": 2
+    },
+    "imphal-kohima": {
+      "thread": "ww2",
+      "area": "南亚",
+      "polities": "英印等盟军 ↔ 日本",
+      "sequence": 1
+    },
+    "battle-normandy": {
+      "thread": "ww2",
+      "area": "欧洲",
+      "polities": "美英加等盟军 ↔ 德国",
+      "sequence": 2
+    },
+    "menglianggu": {
+      "thread": "chinacivil",
+      "area": "中国",
+      "polities": "华东野战军 ↔ 国民党军"
+    },
+    "yudong": {
+      "thread": "chinacivil",
+      "area": "中国",
+      "polities": "华东野战军 ↔ 国民党军",
+      "sequence": 1
+    },
+    "jinan": {
+      "thread": "chinacivil",
+      "area": "中国",
+      "polities": "华东野战军 ↔ 国民党军",
+      "sequence": 3
+    },
+    "battle-liaoshen": {
+      "thread": "chinacivil",
+      "area": "中国",
+      "polities": "东北野战军 ↔ 国民党军",
+      "sequence": 2
+    },
+    "battle-huaihai": {
+      "thread": "chinacivil",
+      "area": "中国",
+      "polities": "华东、中原野战军 ↔ 国民党军",
+      "sequence": 4
+    },
+    "battle-pingjin": {
+      "thread": "chinacivil",
+      "area": "中国",
+      "polities": "东北、华北解放军 ↔ 国民党军",
+      "sequence": 5
+    },
+    "dujiang": {
+      "thread": "chinacivil",
+      "area": "中国",
+      "polities": "解放军 ↔ 国民党军"
+    },
+    "battle-triangle-hill": {
+      "thread": "korea",
+      "area": "东亚",
+      "polities": "中国人民志愿军 ↔ 美军、韩军"
+    }
+  }
+}

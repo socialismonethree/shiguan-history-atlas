@@ -1,5 +1,6 @@
 {
-  "version": "0.15.0",
+  "version": "0.16.0",
+  "threads": 49,
   "battles": 96,
   "china": 39,
   "world": 57,
