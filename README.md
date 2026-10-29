@@ -78,3 +78,10 @@ GitHub Pages 提供公开网站；大陆实际可达性应在移动网络和宽�
 新增人物总入口，保留毛泽东原年表，并增加朱德、周恩来、邓小平、刘少奇、陈云、任弼时和习仲勋的逐年页面。每位人物可按年份或关键词浏览，个人纪事标注资料、定位，并与原党史库关联；没有确年纪事的年份明确标待补。
 
 维护说明见 `docs/party-history/leaders/README.md`。数据在 `docs/party-history/leaders/source/`，生成与检查命令为 `node tools/sync-leader-chronologies.mjs`、`node tools/check-leader-chronologies.mjs`。
+
+
+## 0.13 中外战役专题
+
+新增独立战役专题，按时间浏览中国与世界重要战役，支持地区筛选、关键词检索、详情和分享链接。每场记录时间、地点、起因、经过、结果、影响、主要参战人物及来源；存在争议之处单独注明。资料为选编，不宣称穷尽全部战役。
+
+数据位于 `docs/battles/source/`；维护后运行 `node tools/sync-battles.mjs` 和 `node tools/check-battles.mjs`。
