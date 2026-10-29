@@ -221,6 +221,114 @@
       "title": "1798—1801年埃及战役",
       "publisher": "英国国家陆军博物馆",
       "url": "https://www.nam.ac.uk/explore/egyptian-campaign"
+    },
+    {
+      "id": "more-we-baghdad1258-battle",
+      "title": "原有叙事详解（含具体书目与资料定位）",
+      "url": "https://socialismonethree.github.io/shiguan-history-atlas/#relations/yuan/events",
+      "publisher": "时观原有叙事详解；据所列断代史著作及资料整理"
+    },
+    {
+      "id": "more-bull-run",
+      "title": "第一次布尔溪战役：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/bull-run",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-antietam",
+      "title": "安提坦战役：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/antietam",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-shiloh",
+      "title": "夏洛战役：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/shiloh",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-vicksburg",
+      "title": "维克斯堡围城战：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/vicksburg",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-fredericksburg",
+      "title": "弗雷德里克斯堡战役：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/fredericksburg",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-chancellorsville",
+      "title": "钱斯勒斯维尔战役：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/chancellorsville",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-chickamauga",
+      "title": "奇克莫加战役：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/chickamauga",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-chattanooga",
+      "title": "查塔努加战役：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/chattanooga",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-cold-harbor",
+      "title": "冷港战役：事实与过程",
+      "url": "https://www.battlefields.org/learn/civil-war/battles/cold-harbor",
+      "publisher": "美国战场信托基金会"
+    },
+    {
+      "id": "more-blenheim",
+      "title": "布伦海姆战役史料",
+      "url": "https://www.nam.ac.uk/explore/battle-blenheim",
+      "publisher": "英国国家陆军博物馆"
+    },
+    {
+      "id": "more-boyne",
+      "title": "博因河战役史料",
+      "url": "https://www.nam.ac.uk/explore/battle-boyne",
+      "publisher": "英国国家陆军博物馆"
+    },
+    {
+      "id": "more-quebec",
+      "title": "魁北克战役史料",
+      "url": "https://www.nam.ac.uk/explore/battle-quebec",
+      "publisher": "英国国家陆军博物馆"
+    },
+    {
+      "id": "more-aliwal",
+      "title": "阿利瓦尔战役史料",
+      "url": "https://www.nam.ac.uk/explore/battle-aliwal",
+      "publisher": "英国国家陆军博物馆"
+    },
+    {
+      "id": "more-gallipoli",
+      "title": "加里波利战役史料",
+      "url": "https://www.nam.ac.uk/explore/gallipoli",
+      "publisher": "英国国家陆军博物馆"
+    },
+    {
+      "id": "more-imphal-kohima",
+      "title": "英帕尔—科希马战役史料",
+      "url": "https://www.nam.ac.uk/explore/battle-imphal",
+      "publisher": "英国国家陆军博物馆"
+    },
+    {
+      "id": "more-ramillies",
+      "title": "拉米伊战役史料",
+      "url": "https://www.nam.ac.uk/explore/marlborough",
+      "publisher": "英国国家陆军博物馆"
+    },
+    {
+      "id": "more-schellenberg",
+      "title": "谢伦贝格战役史料",
+      "url": "https://www.nam.ac.uk/explore/battle-blenheim",
+      "publisher": "英国国家陆军博物馆"
     }
   ],
   "battles": [
@@ -1075,6 +1183,399 @@
         "egypt"
       ],
       "dispute": "海战与1799年的阿布基尔陆战不同；名称与战事不应混淆。"
+    },
+    {
+      "id": "we-baghdad1258-battle",
+      "name": "巴格达围城战",
+      "year": 1258,
+      "date": "1258年初围攻，2月城破；具体战斗日序按不同史料需进一步核对。",
+      "location": "底格里斯河畔巴格达，今伊拉克。",
+      "region": "世界",
+      "period": "中世纪西亚",
+      "cause": "蒙哥时期蒙古向西亚继续扩张，旭烈兀受命率大军西行，先处理伊朗地区的反对力量，再要求当地统治者臣服。阿拔斯哈里发仍具象征权威，但军事和地区支持不足。",
+      "process": "围城与投降：蒙古军队从不同方向向巴格达集中，攻城和野战迫使城市迅速失去防御能力。哈里发与城市精英未能组织足够抵抗，投降后也未能保全王朝。\n\n杀戮与政权更替：城破伴随大规模杀戮与破坏，哈里发被杀，巴格达的阿拔斯政治中心终结。蒙古统治随后在伊朗和两河形成伊儿汗国的政权基础。",
+      "result": "巴格达遭受严重人口、建筑和制度损失，西亚权力格局发生变化；此后蒙古与埃及马穆鲁克等继续竞争。",
+      "impact": "事件是中世纪城市战争与帝国征服的重大灾难，也提醒人们不能仅以贸易交流描述蒙古扩张。后来的伊儿汗文化和科学活动则说明地区知识生活并未在1258年全部永久停止。",
+      "people": [
+        "旭烈兀",
+        "穆斯塔绥木"
+      ],
+      "sources": [
+        "more-we-baghdad1258-battle"
+      ],
+      "dispute": "伤亡数字各史家差异很大，本文不写无法确证的总数。“全世界科学因此终结”及河水被所有藏书染黑等传说，不能无辨别照搬。"
+    },
+    {
+      "id": "bull-run",
+      "name": "第一次布尔溪战役",
+      "year": 1861,
+      "date": "1861年7月21日",
+      "location": "美国弗吉尼亚马纳萨斯",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "联邦军试图迅速击破南方军队并打开通向里士满的道路。",
+      "process": "联邦军起初推进；南方军获得增援、稳住阵线后反击，联邦军后撤并陷入混乱。",
+      "result": "南方联盟军胜利。",
+      "impact": "双方速胜预期受挫，转向准备长期战争。",
+      "people": [
+        "欧文·麦克道尔",
+        "博勒加德",
+        "约瑟夫·约翰斯顿",
+        "托马斯·杰克逊"
+      ],
+      "sources": [
+        "more-bull-run"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "antietam",
+      "name": "安提坦战役",
+      "year": 1862,
+      "date": "1862年9月17日",
+      "location": "美国马里兰夏普斯堡",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "李率军进入马里兰，联邦军追击并寻求阻止其北进。",
+      "process": "联邦军先后攻击玉米田、凹路和石桥方向，战斗激烈而缺乏统一突破；南方军守住部分阵地后退回弗吉尼亚。",
+      "result": "战术结果未形成彻底歼灭，战略上联邦军阻止了此次北侵。",
+      "impact": "为林肯公布预备《解放宣言》提供政治契机。",
+      "people": [
+        "乔治·麦克莱伦",
+        "罗伯特·李"
+      ],
+      "sources": [
+        "more-antietam"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "shiloh",
+      "name": "夏洛战役",
+      "year": 1862,
+      "date": "1862年4月6—7日",
+      "location": "美国田纳西匹兹堡登陆点附近",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "南方军试图阻止联邦军向密西西比内陆推进。",
+      "process": "南方军突击格兰特营地，联邦军退缩但保住河畔阵地；援军抵达后，次日反攻迫使南方军撤退。",
+      "result": "联邦军获胜，双方损失惨重。",
+      "impact": "表明西部战场战争将长期而残酷。",
+      "people": [
+        "尤利西斯·格兰特",
+        "唐·卡洛斯·比尤尔",
+        "阿尔伯特·约翰斯顿",
+        "博勒加德"
+      ],
+      "sources": [
+        "more-shiloh"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "vicksburg",
+      "name": "维克斯堡围城战",
+      "year": 1863,
+      "date": "1863年5月18日—7月4日",
+      "location": "美国密西西比州维克斯堡",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "联邦军希望夺取密西西比河要塞，打通南北航运。",
+      "process": "格兰特先机动至城东，击败外围部队；强攻不成后转入围困，切断补给并持续炮击。",
+      "result": "彭伯顿率守军投降。",
+      "impact": "配合哈德逊港陷落，使联邦控制密西西比河，分割南方联盟。",
+      "people": [
+        "尤利西斯·格兰特",
+        "约翰·彭伯顿"
+      ],
+      "sources": [
+        "more-vicksburg"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "fredericksburg",
+      "name": "弗雷德里克斯堡战役",
+      "year": 1862,
+      "date": "1862年12月11—15日",
+      "location": "美国弗吉尼亚弗雷德里克斯堡",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "联邦军计划渡过拉帕汉诺克河向里士满推进。",
+      "process": "渡河延误使南方军加强高地防线；联邦军向玛丽高地等阵地反复进攻，未获突破后撤退。",
+      "result": "南方联盟军胜利。",
+      "impact": "暴露正面强攻坚固阵地的代价，削弱联邦军士气。",
+      "people": [
+        "安布罗斯·伯恩赛德",
+        "罗伯特·李",
+        "詹姆斯·朗斯特里特"
+      ],
+      "sources": [
+        "more-fredericksburg"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "chancellorsville",
+      "name": "钱斯勒斯维尔战役",
+      "year": 1863,
+      "date": "1863年4月30日—5月6日",
+      "location": "美国弗吉尼亚荒野地区",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "胡克试图迂回南方军侧后，扭转东部战场局面。",
+      "process": "李分兵牵制，杰克逊率部迂回打击联邦右翼；联邦军被迫收缩，最终撤过河流。杰克逊遭己方误伤后死亡。",
+      "result": "南方联盟军获胜。",
+      "impact": "李赢得重要战果，但失去关键将领，损失难以弥补。",
+      "people": [
+        "约瑟夫·胡克",
+        "罗伯特·李",
+        "托马斯·杰克逊"
+      ],
+      "sources": [
+        "more-chancellorsville"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "chickamauga",
+      "name": "奇克莫加战役",
+      "year": 1863,
+      "date": "1863年9月18—20日",
+      "location": "美国乔治亚州北部",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "南方军试图反击联邦军在查塔努加周边的推进。",
+      "process": "双方在林地混战；联邦防线出现空隙，南方军突入。托马斯部坚守，为其余部队撤退争取时间。",
+      "result": "南方联盟军胜利，联邦军退守查塔努加。",
+      "impact": "胜利未转化为决定性战略成果，随后战局再次逆转。",
+      "people": [
+        "布拉克斯顿·布拉格",
+        "威廉·罗斯克兰斯",
+        "乔治·托马斯",
+        "詹姆斯·朗斯特里特"
+      ],
+      "sources": [
+        "more-chickamauga"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "chattanooga",
+      "name": "查塔努加战役",
+      "year": 1863,
+      "date": "1863年11月23—25日",
+      "location": "美国田纳西州查塔努加",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "联邦军被围困后获得增援，试图解除城市压力。",
+      "process": "联邦军恢复补给，进攻瞭望山与传教士岭，突破南方军阵地并迫其撤退。",
+      "result": "联邦军取得胜利。",
+      "impact": "打开向乔治亚内陆推进的通道，为亚特兰大战役提供基础。",
+      "people": [
+        "尤利西斯·格兰特",
+        "乔治·托马斯",
+        "威廉·谢尔曼",
+        "布拉克斯顿·布拉格"
+      ],
+      "sources": [
+        "more-chattanooga"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "cold-harbor",
+      "name": "冷港战役",
+      "year": 1864,
+      "date": "1864年5月31日—6月12日",
+      "location": "美国弗吉尼亚里士满东北",
+      "region": "世界",
+      "period": "美国内战",
+      "cause": "联邦军持续向里士满施压，南方军依托工事防守。",
+      "process": "双方争夺道路节点并构筑防线；6月3日联邦军大规模正面进攻遭挫，此后转为对峙，格兰特最终转向詹姆斯河。",
+      "result": "南方军成功守住阵地。",
+      "impact": "联邦军随后转向彼得斯堡，战争进入长期围城阶段。",
+      "people": [
+        "尤利西斯·格兰特",
+        "乔治·米德",
+        "罗伯特·李"
+      ],
+      "sources": [
+        "more-cold-harbor"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "blenheim",
+      "name": "布伦海姆战役",
+      "year": 1704,
+      "date": "1704年8月13日",
+      "location": "今德国多瑙河畔赫希施泰特附近",
+      "region": "世界",
+      "period": "欧洲与亚洲战争",
+      "cause": "西班牙王位继承战争中，法巴联军威胁奥地利，盟军赶赴多瑙河战场。",
+      "process": "马尔伯勒与欧根协同牵制敌军两翼，再突破兵力薄弱的中央，包围布伦海姆村守军。",
+      "result": "盟军获胜，塔拉尔被俘。",
+      "impact": "缓解维也纳威胁，巩固反法联盟。",
+      "people": [
+        "马尔伯勒公爵",
+        "欧根亲王",
+        "塔拉尔"
+      ],
+      "sources": [
+        "more-blenheim"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "boyne",
+      "name": "博因河战役",
+      "year": 1690,
+      "date": "1690年7月1日（旧历）",
+      "location": "爱尔兰博因河流域",
+      "region": "世界",
+      "period": "欧洲与亚洲战争",
+      "cause": "光荣革命后的王位争夺延伸至爱尔兰，与当地宗教和土地矛盾交织。",
+      "process": "威廉军采取渡河与迂回行动，詹姆斯军抵抗后撤退，避免全军被截断。",
+      "result": "威廉军占据战场，詹姆斯二世随后离开爱尔兰。",
+      "impact": "具有长期政治与象征影响，但战争此后仍继续。",
+      "people": [
+        "威廉三世",
+        "詹姆斯二世",
+        "朔姆贝格公爵"
+      ],
+      "sources": [
+        "more-boyne"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "quebec",
+      "name": "魁北克战役",
+      "year": 1759,
+      "date": "1759年9月13日",
+      "location": "今加拿大魁北克亚伯拉罕平原",
+      "region": "世界",
+      "period": "欧洲与亚洲战争",
+      "cause": "七年战争中，英法争夺北美殖民地和圣劳伦斯河交通。",
+      "process": "英军登陆并登上高地，法军仓促出击遭齐射反击。双方主将均在战斗中受致命伤。",
+      "result": "英军获胜，魁北克随后投降。",
+      "impact": "推动英国控制加拿大的进程，最终政治安排在后续条约中形成。",
+      "people": [
+        "詹姆斯·沃尔夫",
+        "蒙卡尔姆"
+      ],
+      "sources": [
+        "more-quebec"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "aliwal",
+      "name": "阿利瓦尔战役",
+      "year": 1846,
+      "date": "1846年1月28日",
+      "location": "印度旁遮普萨特莱杰河附近",
+      "region": "世界",
+      "period": "欧洲与亚洲战争",
+      "cause": "第一次英锡战争中，双方争夺河流通道和交通线。",
+      "process": "英印军进攻锡克军阵地，步兵、骑兵和炮兵配合，迫使锡克军退向河流。",
+      "result": "英印军胜利。",
+      "impact": "削弱锡克军在这一方向的行动能力，战争仍需后续战斗才结束。",
+      "people": [
+        "哈里·史密斯",
+        "兰朱尔·辛格"
+      ],
+      "sources": [
+        "more-aliwal"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "gallipoli",
+      "name": "加里波利战役",
+      "year": 1915,
+      "date": "1915年4月25日—1916年1月9日",
+      "location": "达达尼尔海峡加里波利半岛",
+      "region": "世界",
+      "period": "欧洲与亚洲战争",
+      "cause": "协约国试图打通通往俄国的海路并迫使奥斯曼退出战争。",
+      "process": "海军行动受阻后，协约国多处登陆，未能突破奥斯曼防线；战斗转为消耗和阵地对峙，最终分批撤离。",
+      "result": "奥斯曼成功防守，协约国撤退。",
+      "impact": "造成重大人员损失，并影响土耳其及澳新等社会的战争记忆。",
+      "people": [
+        "伊恩·汉密尔顿",
+        "穆斯塔法·凯末尔",
+        "利曼·冯·桑德斯"
+      ],
+      "sources": [
+        "more-gallipoli"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "imphal-kohima",
+      "name": "英帕尔—科希马战役",
+      "year": 1944,
+      "date": "1944年3月8日—7月18日",
+      "location": "印度东北部",
+      "region": "世界",
+      "period": "欧洲与亚洲战争",
+      "cause": "日军从缅甸向印度进攻，试图切断盟军交通并夺取补给。",
+      "process": "日军围攻英帕尔并切断科希马交通；盟军依靠空运、坚守和增援反击，日军补给崩溃后退却。",
+      "result": "盟军获胜，日军遭受严重损失。",
+      "impact": "成为缅印战场转折，为盟军重新进入缅甸创造条件。",
+      "people": [
+        "威廉·斯利姆",
+        "牟田口廉也",
+        "蒙巴顿"
+      ],
+      "sources": [
+        "more-imphal-kohima"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "ramillies",
+      "name": "拉米伊战役",
+      "year": 1706,
+      "date": "1706年5月23日",
+      "location": "今比利时拉米伊",
+      "region": "世界",
+      "period": "西班牙王位继承战争",
+      "cause": "反法联盟与法军及盟友争夺欧洲战略据点。",
+      "process": "马尔伯勒先攻击法军一翼，再隐蔽转移兵力加强中央，进攻并突破法军防线。",
+      "result": "盟军获胜，随后控制西属尼德兰多处城市。",
+      "impact": "与同一战争中其他战役相连，影响盟军后续推进。",
+      "people": [
+        "马尔伯勒公爵",
+        "维勒鲁瓦"
+      ],
+      "sources": [
+        "more-ramillies"
+      ],
+      "dispute": ""
+    },
+    {
+      "id": "schellenberg",
+      "name": "谢伦贝格战役",
+      "year": 1704,
+      "date": "1704年7月2日",
+      "location": "今德国多瑙沃特",
+      "region": "世界",
+      "period": "西班牙王位继承战争",
+      "cause": "反法联盟与法军及盟友争夺欧洲战略据点。",
+      "process": "盟军强攻多瑙沃特附近高地，经激烈作战突破法巴守军阵地。",
+      "result": "盟军夺取多瑙沃特，获得多瑙河渡口与补给基地。",
+      "impact": "与同一战争中其他战役相连，影响盟军后续推进。",
+      "people": [
+        "马尔伯勒公爵",
+        "巴登藩侯路德维希"
+      ],
+      "sources": [
+        "more-schellenberg"
+      ],
+      "dispute": ""
     }
   ]
 }

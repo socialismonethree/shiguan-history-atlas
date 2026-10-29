@@ -1,5 +1,5 @@
 {
-  "websiteVersion": "0.13.0",
+  "websiteVersion": "0.14.0",
   "runtimeFiles": 1060,
   "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。 新增党史人物生平纪年，七位人物各有逐年页面和资料说明，并连接原毛泽东纪年。 新增中外战役专题，逐场记录起因、经过、结果、影响、人物及资料。",
   "files": [
@@ -17,7 +17,7 @@
     },
     {
       "path": "docs/app.js",
-      "sha256": "a9b6f98bccc9ffd91dd818186a67dbcad889d36dfc4431084fc288e2ea20e2fb"
+      "sha256": "36eec65e154c59809af80efe7fc2e56ed8ed644d5ddbba59e525522e2129c6b0"
     },
     {
       "path": "docs/assets/README.md",
@@ -417,7 +417,7 @@
     },
     {
       "path": "docs/battles/battle-data.js",
-      "sha256": "f554c29ee13cf0bcb086d8ce71500a92446c4e26f2231f9636b4714a4a9dba9c"
+      "sha256": "5efe3f1210e8a7c359aa8c1494d395bd1770473a8fcddf2758f0b3d1d5fc095b"
     },
     {
       "path": "docs/battles/battle.css",
@@ -429,11 +429,11 @@
     },
     {
       "path": "docs/battles/index.html",
-      "sha256": "a6ae196836410a03148ca961bbed302987a86de49200b2aea58b803e0332ea48"
+      "sha256": "5833d4d214488f25274617f791f320b7f91383aea79702e8969d3cafb3bcb119"
     },
     {
       "path": "docs/battles/manifest.json",
-      "sha256": "8ee0018a1e96008386086a84a6ea8c54a4b2a30cf79c8da6243b7a6cc4f5f4f7"
+      "sha256": "8d3e6687c96fbf43b5920e3b796926025e27681837ca748aef86b30e39c933d1"
     },
     {
       "path": "docs/battles/source/access-check.json",
@@ -441,11 +441,11 @@
     },
     {
       "path": "docs/battles/source/china.json",
-      "sha256": "ede0495783e820f46c38c5c1f9ff3dcfecf141b52f46d4bf6df5e08f4acfde97"
+      "sha256": "8508b2426ef969f4127b39e8736e6e2af089ec40b811309883a52f18302351f9"
     },
     {
       "path": "docs/battles/source/world.json",
-      "sha256": "6fd48b88783328649b0e5ac65059056d786eaaa9972b682505f07d2232f55b6e"
+      "sha256": "e1155bb17b0b808eb976916b39764011252d3609033e0897b65738c4bf2d199d"
     },
     {
       "path": "docs/book-data.js",
@@ -557,7 +557,7 @@
     },
     {
       "path": "docs/exhibition.css",
-      "sha256": "340c22b302d80e51cefc1836ac24f68951babc15dd12e35a61a05f3a59315e96"
+      "sha256": "3f7ad06f2747fd8ed9a9fd0c793851c4d5e2d62019dd886545d7316a95a04806"
     },
     {
       "path": "docs/expanded/00-sources.js",
@@ -833,7 +833,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "ac5caae8ba83127515df90b858da3b71eb35d171e8e6a3d2e6de728a53b6ecca"
+      "sha256": "adea888199a58311c3cc0d9be4d415659e7b8139307b152218fcfe9ebf52bbc0"
     },
     {
       "path": "docs/knowledge.css",
