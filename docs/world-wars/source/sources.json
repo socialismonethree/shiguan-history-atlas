@@ -292,5 +292,54 @@
     "publisher": "美国国家档案馆",
     "url": "https://www.archives.gov/milestone-documents/surrender-of-japan",
     "note": "编年事实与主题交叉核对；本站正文为原创叙述。"
+  },
+  {
+    "id": "nam15deep",
+    "title": "1915：早期战壕战",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://www.nam.ac.uk/explore/1915-early-trench-battles",
+    "note": "专题解释资料；与本月原有编年及档案交叉阅读，衔接文字和主题路径为本站编辑归纳。"
+  },
+  {
+    "id": "nam17deep",
+    "title": "1917：僵持的一年",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://www.nam.ac.uk/explore/1917-year-stalemate",
+    "note": "专题解释资料；与本月原有编年及档案交叉阅读，衔接文字和主题路径为本站编辑归纳。"
+  },
+  {
+    "id": "nam18deep",
+    "title": "1918：胜利之年",
+    "publisher": "英国国家陆军博物馆",
+    "url": "https://www.nam.ac.uk/explore/1918-victory",
+    "note": "专题解释资料；与本月原有编年及档案交叉阅读，衔接文字和主题路径为本站编辑归纳。"
+  },
+  {
+    "id": "barbarossa",
+    "title": "巴巴罗萨行动与苏德战场",
+    "publisher": "美国国家二战博物馆",
+    "url": "https://www.nationalww2museum.org/war/articles/operation-barbarossa",
+    "note": "专题解释资料；与本月原有编年及档案交叉阅读，衔接文字和主题路径为本站编辑归纳。"
+  },
+  {
+    "id": "stalingrad-deep",
+    "title": "斯大林格勒：试验、适应与实施",
+    "publisher": "美国国家二战博物馆",
+    "url": "https://www.nationalww2museum.org/war/articles/stalingrad-experimentation-adaptation-implementation",
+    "note": "专题解释资料；与本月原有编年及档案交叉阅读，衔接文字和主题路径为本站编辑归纳。"
+  },
+  {
+    "id": "dday-deception",
+    "title": "诺曼底登陆：坚忍行动与欺骗计划",
+    "publisher": "英国遗产组织",
+    "url": "https://www.english-heritage.org.uk/visit/places/dover-castle/history-and-stories/d-day-deception/",
+    "note": "专题解释资料；与本月原有编年及档案交叉阅读，衔接文字和主题路径为本站编辑归纳。"
+  },
+  {
+    "id": "dday-supply",
+    "title": "纪念诺曼底：情报、准备与人工港",
+    "publisher": "英格兰历史遗产保护局",
+    "url": "https://historicengland.org.uk/whats-new/features/commemorating-d-day/",
+    "note": "专题解释资料；与本月原有编年及档案交叉阅读，衔接文字和主题路径为本站编辑归纳。"
   }
 ]
