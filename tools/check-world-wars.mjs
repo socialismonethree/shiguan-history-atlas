@@ -6,3 +6,9 @@ for(const w of d.wars){const byDate=new Map(w.months.map(m=>[m.date,m]));assert.
 const w2=d.wars.find(w=>w.id==='ww2');assert(w2.months.find(m=>m.date==='1945-08').story.join('').includes('15日'));assert(w2.months.find(m=>m.date==='1945-09').story.join('').includes('2日'));assert(d.wars[0].months.find(m=>m.date==='1917-03').story.join('').includes('旧历'));
 const battleRaw=fs.readFileSync(path.join(root,'docs/battles/battle-data.js'),'utf8'),battles=JSON.parse(battleRaw.slice('window.BATTLE_DATA='.length).trim().slice(0,-1));const ids=new Set(battles.battles.map(b=>b.id));for(const w of d.wars)for(const m of w.months)assert((m.relatedBattles??[]).every(id=>ids.has(id)));
 assert(fs.readFileSync(path.join(root,'docs/app.js'),'utf8').includes('world-wars/index.html'));assert(fs.readFileSync(path.join(root,'docs/battles/index.html'),'utf8').includes('../world-wars/index.html'));console.log(JSON.stringify({...manifest,continuousMonths:'passed',criticalDateConventions:'passed',existingBattleLinks:'passed',entrances:'passed'}));
+
+const months=d.wars.flatMap(w=>w.months);
+assert.equal(d.paths.length,manifest.readingPaths);assert.equal(months.reduce((n,m)=>n+m.story.join('').length,0),manifest.narrativeCharacters);
+assert(months.every(m=>m.story.length>=4&&m.story.join('').length>=260&&m.continuity.before.length>=20&&m.continuity.after.length>=20));
+for(const p of d.paths){const w=d.wars.find(w=>w.id===p.war);assert(w);assert(p.steps.every((s,i)=>w.months.some(m=>m.date===s.date)&&s.connection.length>15&&(!i||s.date>p.steps[i-1].date)));}
+assert.equal(manifest.continuityNotes,months.length*2);console.log('Narrative depth, continuity and reading-path targets: passed');
