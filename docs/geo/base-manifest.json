@@ -1,0 +1,11 @@
+{
+  "landFeatures": 11,
+  "riverFeatures": 273,
+  "terrainFeatures": 402,
+  "baseBytes": 4615026,
+  "inputs": {
+    "rivers-10m.json": "bb854a900ecbd3b408df46d5e16e3e0f974ba55993f9d8b5c26e855273c0905a",
+    "regions-10m.json": "b7b26e50ea917d3696aec87f932def2bf5f890f5770e441d59c162c6f4c92a77",
+    "land-10m.json": "1ac90796408bc6ad6911d69448485d3c4dbf2190370080368a09976e1c9f7416"
+  }
+}

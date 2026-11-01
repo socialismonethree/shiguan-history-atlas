@@ -1,0 +1,23 @@
+{
+  "version": "0.19.0",
+  "chapters": 19,
+  "chinaPlaces": 51,
+  "narrativeStops": 80,
+  "eventLinks": 79,
+  "worldReferences": 67,
+  "datedWorldSeries": 8,
+  "sourceRecords": 99,
+  "riverFeatures": 273,
+  "terrainFeatures": 402,
+  "vertices": 240114,
+  "naturalLabels": 174,
+  "baseSHA256": "c83e2be8a29a25d9a899db10cb311f5af94783236d5a4fa121da1b86ea54fb58",
+  "checks": [
+    "source-generated parity",
+    "source/event/period/place references",
+    "WGS84 coordinates and polygon rings",
+    "chronological order and dated world variants",
+    "critical capital dates",
+    "entry points and asset versions"
+  ]
+}
