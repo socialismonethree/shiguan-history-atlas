@@ -1,7 +1,7 @@
 {
-  "websiteVersion": "0.19.0",
-  "runtimeFiles": 1084,
-  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。 新增党史人物生平纪年，七位人物各有逐年页面和资料说明，并连接原毛泽东纪年。 中外96场战役以连贯叙事呈现，人物索引、史料辨析与来源可展开查阅。 战役首页以时间长卷串联96场战役，新增49条战争与时代线索、参战方标注及原位阅读。 新增两次世界大战独立入口：145个月度节点、主战期126个月连续，13个国家或帝国视角与31位人物展签。 世界大战145个月度正文扩充至48688字，新增290则局势衔接、12条主题阅读线与专注阅读。 历史地理升级：十九时期80个地理叙事节点、51处中国参照地、67条世界文化参照资料，以及可缩放的自然矢量底图、年代与地点联动。",
+  "websiteVersion": "0.20.0",
+  "runtimeFiles": 1199,
+  "source": "新增1921—2021中共党史101个独立年度页面、1031项史事、40份人物介绍；保留夏至清通史、249篇叙事详解、78件馆藏和52件实物图。 十九个中国时期分别采用独立历史意象暗纹，并附参考器物说明。 十九时期暗纹升级为服饰与织绣意象的密织满地锦纹，新增寓意展签。 新增1893—1976毛泽东生平纪年84个年度页面与391条纪事；来源、空白年份和跨年背景明确标注。 新增党史人物生平纪年，七位人物各有逐年页面和资料说明，并连接原毛泽东纪年。 中外96场战役以连贯叙事呈现，人物索引、史料辨析与来源可展开查阅。 战役首页以时间长卷串联96场战役，新增49条战争与时代线索、参战方标注及原位阅读。 新增两次世界大战独立入口：145个月度节点、主战期126个月连续，13个国家或帝国视角与31位人物展签。 世界大战145个月度正文扩充至48688字，新增290则局势衔接、12条主题阅读线与专注阅读。 历史地理升级：十九时期80个地理叙事节点、51处中国参照地、67条世界文化参照资料，以及可缩放的自然矢量底图、年代与地点联动。 新增历代统治者：103个政权或承继序列、1148条人物资料与1194个分段任期，区分生卒、即位、复位、摄政及争议，支持同年在位对照、检索与关联史事。各政权标明实际覆盖和资料深度。",
   "files": [
     {
       "path": "docs/.nojekyll",
@@ -17,7 +17,7 @@
     },
     {
       "path": "docs/app.js",
-      "sha256": "e7152d4a3f8c5d37ba69210073498eb6014457ab224c7de3b0e415a8efcfaeec"
+      "sha256": "972b8f45e05ba62614f8c5cbf83bfc3f7a249c930ff49e81b3d4bb405d7a0494"
     },
     {
       "path": "docs/assets/README.md",
@@ -881,7 +881,7 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "e0849fdc9c3dcfd145ac7c3a5719af5bb80fae8a43249bd823ad70036f9fe6d3"
+      "sha256": "801fc56c28be3c87b7fae94d4e2abaaf3e5ee3ef92b3945325d8bc068bbab4f2"
     },
     {
       "path": "docs/knowledge.css",
@@ -4278,6 +4278,466 @@
     {
       "path": "docs/party-history/year/2021.html",
       "sha256": "a76a832100c038fa677a12fa60add649b8f5e8deb97b9e7255789373e26634fa"
+    },
+    {
+      "path": "docs/rulers/README.md",
+      "sha256": "24a811d5fae126398d01b065508e5ef9c51e78011fc8c0d3b7515e37565896d4"
+    },
+    {
+      "path": "docs/rulers/catalog.js",
+      "sha256": "a634b62525e1078df790f7f5a45d6f3007c509633abf4e2e49bca84a02c4455e"
+    },
+    {
+      "path": "docs/rulers/content/ce-cheng-han.json",
+      "sha256": "dbf943c73f28bc4342c3fdf3634dc332ec78dd07691de6beb19ba1a14413c4a2"
+    },
+    {
+      "path": "docs/rulers/content/ce-chu.json",
+      "sha256": "67f0b5f9ab0cc8c607d4d5599ef3275bef2f471b858db2a1d771ffe52cb95aa3"
+    },
+    {
+      "path": "docs/rulers/content/ce-eastern-han.json",
+      "sha256": "b2c37b996b5db3cfb5d87c99ac9a724d592691e6f5dd372f063136ec893b8bfd"
+    },
+    {
+      "path": "docs/rulers/content/ce-eastern-jin.json",
+      "sha256": "6ea8cb67cbedb1e0872cf4e23808a5af514ff22abcc6cc1e1c23fbac9d427911"
+    },
+    {
+      "path": "docs/rulers/content/ce-eastern-zhou.json",
+      "sha256": "f34961eae400f4523369c1551b31219931c4c726da4762f1c087e465391957ec"
+    },
+    {
+      "path": "docs/rulers/content/ce-former-liang.json",
+      "sha256": "bf461ca278934ca4ec19ddf19279581ad81b2fd5c4df3b837d3f791ccf4680c2"
+    },
+    {
+      "path": "docs/rulers/content/ce-former-qin.json",
+      "sha256": "dce334b995a6e7e1458925f69b0dc91bac309894c90ad0382c83abf884d65fa5"
+    },
+    {
+      "path": "docs/rulers/content/ce-former-yan.json",
+      "sha256": "99b4c636c839a81ebe4e1708566be5b855714e9abdcde86ef515f463d7e83515"
+    },
+    {
+      "path": "docs/rulers/content/ce-han-zhao.json",
+      "sha256": "329b4827cadfcc37b20e6a8f0e138109d53807a5c293abdcb8547a24102e28c5"
+    },
+    {
+      "path": "docs/rulers/content/ce-huan-chu.json",
+      "sha256": "f481c241d32f64e1536944eb7b92a7c38192084660237029489eba8cc25c7507"
+    },
+    {
+      "path": "docs/rulers/content/ce-interregnum.json",
+      "sha256": "184d03ea710854f7ccb6396e0777d350dd812d93d6540f00af15b95f8dbf98d6"
+    },
+    {
+      "path": "docs/rulers/content/ce-later-liang.json",
+      "sha256": "404796aec13f0c73fde2357770632779a199ef7317e692909da5a8173959699c"
+    },
+    {
+      "path": "docs/rulers/content/ce-later-qin.json",
+      "sha256": "0343840fa4126d8fb6e1bd18bc33c395a7e26de7e55c3767ecd5db10b683a4c8"
+    },
+    {
+      "path": "docs/rulers/content/ce-later-yan.json",
+      "sha256": "aa38ffb601312db8c2c623db957b07ecbb6763cb632a84e3337ef25a189a289f"
+    },
+    {
+      "path": "docs/rulers/content/ce-later-zhao.json",
+      "sha256": "fa16f50ed06be711493c8dea974eb8588fd3d17d65141a939653daec3c548805"
+    },
+    {
+      "path": "docs/rulers/content/ce-northern-liang.json",
+      "sha256": "439f8e8b4abcb0847b68d1da973d5a0d041c62d9f2fe5ceda2c0a50a7e3eb597"
+    },
+    {
+      "path": "docs/rulers/content/ce-northern-yan.json",
+      "sha256": "30ea324cdb874f55e57ed79443a0cedcfc439eb79d36d82389278c2bb663187c"
+    },
+    {
+      "path": "docs/rulers/content/ce-qi.json",
+      "sha256": "b3e07cc25b1651818bc30a025657778b1c8bdd3c3ab015e501e96373cce7b9c4"
+    },
+    {
+      "path": "docs/rulers/content/ce-qin.json",
+      "sha256": "58a56dcae9beb84bf823640d6cd0d0626a69ffa98f3865af0b73c474eab27580"
+    },
+    {
+      "path": "docs/rulers/content/ce-ran-wei.json",
+      "sha256": "2aef981c07df6b0776a5c859ed8e32c49a2a87fe08d60e490d6f25759c3c25fc"
+    },
+    {
+      "path": "docs/rulers/content/ce-shang.json",
+      "sha256": "1e745606cdcb71fcf6195016e6da95eb919bac0564e43dc80f9a4b3591a18604"
+    },
+    {
+      "path": "docs/rulers/content/ce-shu.json",
+      "sha256": "90cd1713a02f720081c4adb40a9692653a5b3c0d23c205d883bd81035785f8c2"
+    },
+    {
+      "path": "docs/rulers/content/ce-southern-liang.json",
+      "sha256": "394cdcf1658e72e4b6742eccf7af24ea4c589a592a21925469cd8c57e16de01a"
+    },
+    {
+      "path": "docs/rulers/content/ce-southern-yan.json",
+      "sha256": "5eb34a49835c0e1c14c2bea68a1c12350e06928fd61e652da2fe932a3db4d341"
+    },
+    {
+      "path": "docs/rulers/content/ce-wei.json",
+      "sha256": "867c41cb8a2bc9b47dea3a16eba03ed6566e98dd8852149d20a75f6f3b289cba"
+    },
+    {
+      "path": "docs/rulers/content/ce-western-han.json",
+      "sha256": "f3f33b505223e73f25b6bafc2a482cb60e47b57ba2b1dfacb8e9af6c0f23fb58"
+    },
+    {
+      "path": "docs/rulers/content/ce-western-jin.json",
+      "sha256": "d3ac6354b29a88bfae64f0a64eeb4ffc3b59507c6d9805bbcdd3b9edafad87b7"
+    },
+    {
+      "path": "docs/rulers/content/ce-western-liang.json",
+      "sha256": "737d60aa2e649fddddaa186dc5ab380e94f268b990a4719a744794d1708da79a"
+    },
+    {
+      "path": "docs/rulers/content/ce-western-qin.json",
+      "sha256": "8a73d7c8c81baac74036f123b78c54e12f309b515bb29dd69ecf2d384e7fba60"
+    },
+    {
+      "path": "docs/rulers/content/ce-western-zhou.json",
+      "sha256": "08286005855bc391501ed56cf461e861125e77a6fdd7de58092078de279d1b0b"
+    },
+    {
+      "path": "docs/rulers/content/ce-wu.json",
+      "sha256": "9076ff02cef757118ba7e1605a1d17ace3894ebd14d573d50d8a6045bac777ff"
+    },
+    {
+      "path": "docs/rulers/content/ce-xia-helian.json",
+      "sha256": "12cc6ed9bcf7cd32e85714e3ac1f6eaa049c07fcce8f891de45f601a5ec44937"
+    },
+    {
+      "path": "docs/rulers/content/ce-xia-power.json",
+      "sha256": "5255ee8fe5100ec9c7c35bf64fc92b546b3099c4f1338b1522190731a00eac33"
+    },
+    {
+      "path": "docs/rulers/content/ce-xia.json",
+      "sha256": "d0535cf662f5f5cc5283da261d683596db1a55da944137b763a8d4e299396d54"
+    },
+    {
+      "path": "docs/rulers/content/cl-beihan.json",
+      "sha256": "6d6a2450b1635071d3f26e044724084f9dca6abab33c62073ce5e57aaa19ec82"
+    },
+    {
+      "path": "docs/rulers/content/cl-beiqi.json",
+      "sha256": "0bc9590fa288265a8f6f1ca2963264dfe3ef31b2b5bb11652b0f9b5bf8d114b7"
+    },
+    {
+      "path": "docs/rulers/content/cl-beisong.json",
+      "sha256": "3fa5734b5233472ee6e56d311161633915d665ab4f13a4c792d00fb539a359f5"
+    },
+    {
+      "path": "docs/rulers/content/cl-beiwei.json",
+      "sha256": "6df6e66628ea8eea95108a0123bb05379ee91a8d0d045939aa3e8990ee89b457"
+    },
+    {
+      "path": "docs/rulers/content/cl-beizhou.json",
+      "sha256": "2dee061a1b85d738385f8eb253b4a28eb60047718dc13024dbc6064e835bd02c"
+    },
+    {
+      "path": "docs/rulers/content/cl-chen.json",
+      "sha256": "e15b5680f02f8eafc287b756c5f2a778d9eb78594ca2b4afc0700a867c704461"
+    },
+    {
+      "path": "docs/rulers/content/cl-dashun.json",
+      "sha256": "547ea18c9f41e412d03d3b54ecf4dac1a1e753c5f19c2bbd251a3c68cfcf7ec8"
+    },
+    {
+      "path": "docs/rulers/content/cl-daxi.json",
+      "sha256": "d04d3d1f1e414c2808e1e9d50d0b1ab0f2218867bacbd9be27f03acf293e800f"
+    },
+    {
+      "path": "docs/rulers/content/cl-dongwei.json",
+      "sha256": "312052a7480523824d64c91037ea9ffc2d672aa54b7c320f1de80d00b8c2346c"
+    },
+    {
+      "path": "docs/rulers/content/cl-houhan.json",
+      "sha256": "d145e377904e54a9b006e9e3befed3041744f2c6ab9679edd6dd181ddc2e1421"
+    },
+    {
+      "path": "docs/rulers/content/cl-houjin.json",
+      "sha256": "318675cb92ff37a2a14d568ba7c1e0f244f16603272de5e599b21d02697d6b69"
+    },
+    {
+      "path": "docs/rulers/content/cl-houliang.json",
+      "sha256": "a7495647260c4e0607ddab7beb133da98720b40f2d7b342aa98a0c5c45af300c"
+    },
+    {
+      "path": "docs/rulers/content/cl-houshu.json",
+      "sha256": "dcf4c73879fa8dfe735993e18a67746999a412b81d78ccd7f807e7864450b37f"
+    },
+    {
+      "path": "docs/rulers/content/cl-houtang.json",
+      "sha256": "11987ed759860710167cdef441e9fc87678751130ddd12aa5b9485f9878d1373"
+    },
+    {
+      "path": "docs/rulers/content/cl-houzhou.json",
+      "sha256": "ba03026bfe499f4e649a48b17a770e77d246eea840b5e7eb1f892187358905f6"
+    },
+    {
+      "path": "docs/rulers/content/cl-jin.json",
+      "sha256": "0d7dcc4c63487afa80726cba6b34123e68c95672dadf318dfb87f85ab24f48b2"
+    },
+    {
+      "path": "docs/rulers/content/cl-jingnan.json",
+      "sha256": "e0889588e96d214986908e9043db3061a54fcb2ed03689912177298d4bebb377"
+    },
+    {
+      "path": "docs/rulers/content/cl-liang.json",
+      "sha256": "b0cf650bcd7a40927ce0c18612ad22044eaf83ee07efeaadf187648719fa16e2"
+    },
+    {
+      "path": "docs/rulers/content/cl-liao.json",
+      "sha256": "1cd4d1cb423cc9220ba025bddc637e8fbd1d2ca357e579b4729a7646ac274e32"
+    },
+    {
+      "path": "docs/rulers/content/cl-liusong.json",
+      "sha256": "979383be82ef09b37c47942e8c8291fb872b8b8fed53d795516fab89bc4eec30"
+    },
+    {
+      "path": "docs/rulers/content/cl-liuyuqi.json",
+      "sha256": "6d862044138072804302cb6918262c4889202c153bf313375cdfee9ecec0ce2f"
+    },
+    {
+      "path": "docs/rulers/content/cl-machu.json",
+      "sha256": "f6210ee8c06a65518565b004aa0a40dd6a9e034d9a263835173b65814f691cc6"
+    },
+    {
+      "path": "docs/rulers/content/cl-mengyuan.json",
+      "sha256": "a4e38debd1117365392fa257e47fcc2affc058b2b4aa9c2a86be0a2f3f895f08"
+    },
+    {
+      "path": "docs/rulers/content/cl-min.json",
+      "sha256": "97ccfd1e161722d58556455043047a83310b67d3e85315c8313622b4b9219ed0"
+    },
+    {
+      "path": "docs/rulers/content/cl-ming.json",
+      "sha256": "5269b541a043e2c6f32dd7e1cb7d9a57e36c850e8af1db43bc6e8613c0d9a593"
+    },
+    {
+      "path": "docs/rulers/content/cl-nanhan.json",
+      "sha256": "f8af757952d88a7869158fdb6a1014b2f1e90712be41fe9dde59e16eaeeea049"
+    },
+    {
+      "path": "docs/rulers/content/cl-nanming.json",
+      "sha256": "6c49025dca68e5c69a0de25230514d77b5ef1dbf32348151106dd44d489664f1"
+    },
+    {
+      "path": "docs/rulers/content/cl-nanqi.json",
+      "sha256": "1a7bf2018f15de9bc036cd885710271773f95ae6dedcebe2eb17e95d4d5e3947"
+    },
+    {
+      "path": "docs/rulers/content/cl-nansong.json",
+      "sha256": "81311bf01492d0109df29cb39a3c28a59a3db0f79f3352970d6e9895ecfd224a"
+    },
+    {
+      "path": "docs/rulers/content/cl-nantang.json",
+      "sha256": "21b9f84f4418e7e649dd3303b30e53a555ad3c8af1956f8eecef5edc4189a636"
+    },
+    {
+      "path": "docs/rulers/content/cl-qianshu.json",
+      "sha256": "cd937f278bfbbbbe527ada7d7975b68d11e40a3db34c9cd94f0c443e75cbdea9"
+    },
+    {
+      "path": "docs/rulers/content/cl-qing.json",
+      "sha256": "32e74658831073fcaa0f6e0ad2b6cbe2f12f92c7e14dbb8d33824120c2aca6d6"
+    },
+    {
+      "path": "docs/rulers/content/cl-sui.json",
+      "sha256": "ec833bb579f47ce885ee579a4d74dce06d254da056542e9ed40c1c150ad2b402"
+    },
+    {
+      "path": "docs/rulers/content/cl-taiping.json",
+      "sha256": "d9b4f050ea33c0c1a349d4fd066ce13719dc5717d006fbe8bd1f72d2976d0bfb"
+    },
+    {
+      "path": "docs/rulers/content/cl-tang.json",
+      "sha256": "f3ff7a809b79462e4c16e72e3b669aca2c2ac7fbddd05fd92020ca1dcebaa3df"
+    },
+    {
+      "path": "docs/rulers/content/cl-wu.json",
+      "sha256": "48b1c75b63a37a5c25aa73b548d73286fe0be1d1817d3b91b5aa9fb7019db70b"
+    },
+    {
+      "path": "docs/rulers/content/cl-wuyue.json",
+      "sha256": "d4d4cfbcc17d332467500bca0fa4fe4202237e9a0ee8888510777553c0c2a422"
+    },
+    {
+      "path": "docs/rulers/content/cl-xiliang.json",
+      "sha256": "e4e5af8142033d89820779c4ee0861e3f50412fec3d00d52d1112a0bfdfe8247"
+    },
+    {
+      "path": "docs/rulers/content/cl-xiliao.json",
+      "sha256": "42e692023849f729d4223800edb4ac6a37901f823a9c9e94d0b3cd55ba89a691"
+    },
+    {
+      "path": "docs/rulers/content/cl-xiwei.json",
+      "sha256": "1c93455ea5ff5016d31ce7e74935772c9ae0eb3626fff12a313de98c75bd7242"
+    },
+    {
+      "path": "docs/rulers/content/cl-xixia.json",
+      "sha256": "724ec27c65f5b794c3699efd75b089f28074e70c7969ed3e153c0d99ee764155"
+    },
+    {
+      "path": "docs/rulers/content/cl-zhangchu.json",
+      "sha256": "cf2eb65ee63a1f03e57c8fd37b4a97c1a56ba6ce8191b64be78499f879a59cf9"
+    },
+    {
+      "path": "docs/rulers/content/cl-zheng.json",
+      "sha256": "a8aa30d5a9a69016c2203affa29f3840543360d4793755a56e1872a2159ff84a"
+    },
+    {
+      "path": "docs/rulers/content/rs-chakri.json",
+      "sha256": "ac3e971845ebc2fdd44e1c2cd8164fc476c03f3cdd7eb18773a9a566da71ee5d"
+    },
+    {
+      "path": "docs/rulers/content/rs-han.json",
+      "sha256": "5bd06f2cfd9f09dd82b26d74053187b676441de1bb2b9f8dff8735c4604a7a8d"
+    },
+    {
+      "path": "docs/rulers/content/rs-hawaii.json",
+      "sha256": "142f89edc5640cecd1396c026454af07c413512139b423f46569865867d72b95"
+    },
+    {
+      "path": "docs/rulers/content/rs-japan-modern.json",
+      "sha256": "4771372a81397f959afb9065324f9ab1bd3aefaf9964d19756ffea3addbf3e5c"
+    },
+    {
+      "path": "docs/rulers/content/rs-tenochtitlan.json",
+      "sha256": "3776ced58d1a29b8ae65cd03e81d7dd53802f0eaeaa9019ce2e2225223361d8b"
+    },
+    {
+      "path": "docs/rulers/content/rs-wei.json",
+      "sha256": "483241f96af09bdf58e4233660bd8efa52dc770d4259d96cb225b38678e0de88"
+    },
+    {
+      "path": "docs/rulers/content/rs-yan.json",
+      "sha256": "8b51649a2662ebe09817b82146ac76872a3996fb0fa65c4b4a72aeeab19e87e0"
+    },
+    {
+      "path": "docs/rulers/content/rs-zhao.json",
+      "sha256": "3806e4ace5d293162eb450580bdeb3c1e5d07886b3cf7dba33d8a20dd1ee27b0"
+    },
+    {
+      "path": "docs/rulers/content/wr-egypt-middle.json",
+      "sha256": "5366147095c4ed91e73955a4ac476beff1a119149918c9c9006cd0d463c582c6"
+    },
+    {
+      "path": "docs/rulers/content/wr-egypt-new.json",
+      "sha256": "fbb19403df417f9b49a5e965b5a3033beec4849e0a423a943fb4fda559c53ea6"
+    },
+    {
+      "path": "docs/rulers/content/wr-joseon.json",
+      "sha256": "10f4dee7b1fe7c36d0dc440199cf361155343039fadb0658744830d7da193687"
+    },
+    {
+      "path": "docs/rulers/content/wr-mughal.json",
+      "sha256": "ea6ed87bbe054cbd9ed409607dd77c8da0f3909145dffcff802d43d7548200b8"
+    },
+    {
+      "path": "docs/rulers/content/wr-tokugawa.json",
+      "sha256": "a1c324030d7d56b2b21c78e237909650e13ef1febec9f2dedf68c158069beace"
+    },
+    {
+      "path": "docs/rulers/content/wr-usa.json",
+      "sha256": "108009f993be75a058d9c8986e599be72c1d7a7e7d6eda3cd9a734292134dbe8"
+    },
+    {
+      "path": "docs/rulers/content/ww-abbasid.json",
+      "sha256": "43dea47180e6c7b7fbed00372569671ec068c19373c78d7a7a8d77befde28ad2"
+    },
+    {
+      "path": "docs/rulers/content/ww-achaemenid.json",
+      "sha256": "771d07c8b4920594ea05c5c40490408c5fc57f9af41cfe9eea407b9c523a2061"
+    },
+    {
+      "path": "docs/rulers/content/ww-britain.json",
+      "sha256": "c41e38b82f884557cd3efa88d91c94610ecb34a14597c4e2e609e2c3e6d97864"
+    },
+    {
+      "path": "docs/rulers/content/ww-france.json",
+      "sha256": "1ddf73f401c7e2edcebe66a5ba4b09b7f6b2d913c5c6eee178e1ab52a5bf9d9b"
+    },
+    {
+      "path": "docs/rulers/content/ww-ottoman.json",
+      "sha256": "7aa67d49aaa00a52702dbc6728d70f5bf23617944fddf9c9fa763f3be1fa3be1"
+    },
+    {
+      "path": "docs/rulers/content/ww-qajar.json",
+      "sha256": "c9fb0a41e8042f835e49db40f676d96b59c6a989b43c984041f83b5787824e59"
+    },
+    {
+      "path": "docs/rulers/content/ww-rashidun.json",
+      "sha256": "125846a39e65255f2446a73df242a3f718611ba7bdf2bba4b06cb3ba96bc1502"
+    },
+    {
+      "path": "docs/rulers/content/ww-roman-empire.json",
+      "sha256": "49a0bd7d55b6f853da46e9e5c93b63de3f5de97d76847dbc53cbce436d7047f7"
+    },
+    {
+      "path": "docs/rulers/content/ww-russia.json",
+      "sha256": "f88f3876ead7f841b7f828447721b1054f7e58d7285d475ed0caf041c9f02743"
+    },
+    {
+      "path": "docs/rulers/content/ww-safavid.json",
+      "sha256": "380a825ca581028c8f5f9c6537093c6b1eea959c5dab48889e1b114a7b135d7e"
+    },
+    {
+      "path": "docs/rulers/content/ww-saxon.json",
+      "sha256": "b68de034044750ac6b2b0301d059560f40f8cb31a67696b0ecfb0d99953ce87a"
+    },
+    {
+      "path": "docs/rulers/content/ww-umayyad.json",
+      "sha256": "ff9894e82e06800bcb228aebfea5caa296c975be15fad6b1045a754a5847e889"
+    },
+    {
+      "path": "docs/rulers/entrance.css",
+      "sha256": "dd98ff43e41c609fb30d5f338c6c87ac24f2a721c8dbfd6298f99517a03b6318"
+    },
+    {
+      "path": "docs/rulers/index.html",
+      "sha256": "029789c9d855ea797977d67c8e641acde7839ff4a10060298333c8aca1c43403"
+    },
+    {
+      "path": "docs/rulers/manifest.json",
+      "sha256": "93f9db6fe0305776f473e451c3282faa7ed6f2a3e70d45b2cff4107a36f9cd81"
+    },
+    {
+      "path": "docs/rulers/rulers.css",
+      "sha256": "92af1c26cade19f61079d4918948a0c93007532553ec2f562027866ff2e6847e"
+    },
+    {
+      "path": "docs/rulers/rulers.js",
+      "sha256": "f16c8d4c303d1677a55da8346521a9b6ba55617f1b7d13b2f4881a3cec7b423f"
+    },
+    {
+      "path": "docs/rulers/source/china-early.json",
+      "sha256": "6f19fe615e5163eba64d080342721a0318be35e2ee018a731c6f76536387e4d3"
+    },
+    {
+      "path": "docs/rulers/source/china-late.json",
+      "sha256": "f04933ea1da5a5171d586f8d635ca5bff3abe31b3eb9260cefe65578ded78376"
+    },
+    {
+      "path": "docs/rulers/source/supplement.json",
+      "sha256": "65c0f4dafebe604ceeb56ac97ec1263d2522fc0cdfd13d035f0ec5971f6116ef"
+    },
+    {
+      "path": "docs/rulers/source/world-regions.json",
+      "sha256": "bd09f4fec3768395ad9e88a5022c3fe2458c43f9406f995c03ee3928dc57ee0d"
+    },
+    {
+      "path": "docs/rulers/source/world-west.json",
+      "sha256": "b3c2dc36e75c3427b500bd6eb6cfb0fa41f115a8cc6799670775c5a4f8e22be6"
     },
     {
       "path": "docs/style.css",
