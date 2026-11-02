@@ -1,0 +1,48 @@
+name: Import verified rulers release
+on:
+  push:
+    branches: [rulers-v0.20.0]
+    paths: [rulers-v0.20.0-update.zip, .github/workflows/import-rulers.yml]
+permissions: {}
+jobs:
+  import:
+    if: github.repository == 'socialismonethree/shiguan-history-atlas' && github.ref == 'refs/heads/rulers-v0.20.0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify archive and import only reviewed paths
+        run: |
+          python3 - <<'PYTHON'
+          import hashlib, json, pathlib, subprocess, zipfile
+          package = pathlib.Path('rulers-v0.20.0-update.zip')
+          assert hashlib.sha256(package.read_bytes()).hexdigest() == 'cdeffa9f288f707e0140d6fb1743eea530361ce6a482e9bc533031961a44513b'
+          extras = {'docs/app.js', 'docs/index.html', 'README.md', 'PUBLIC_FILES.json', 'tools/check-rulers.mjs', 'tools/sync-rulers.mjs'}
+          with zipfile.ZipFile(package) as z:
+              names = z.namelist()
+              assert len(names) == 121 and len(set(names)) == 121
+              assert all(not n.startswith('/') and '..' not in pathlib.PurePosixPath(n).parts and (n.startswith('docs/rulers/') or n in extras) for n in names)
+              for n in names:
+                  target = pathlib.Path(n)
+                  target.parent.mkdir(parents=True, exist_ok=True)
+                  target.write_bytes(z.read(n))
+          manifest = json.loads(pathlib.Path('PUBLIC_FILES.json').read_text())
+          assert manifest['websiteVersion'] == '0.20.0' and manifest['runtimeFiles'] == 1199
+          for f in manifest['files']:
+              assert hashlib.sha256(pathlib.Path(f['path']).read_bytes()).hexdigest() == f['sha256'], f['path']
+          data = json.loads(pathlib.Path('docs/rulers/manifest.json').read_text())
+          assert data['regimes'] == 103 and data['people'] == 1148 and data['reignPhases'] == 1194
+          subprocess.run(['node','tools/check-rulers.mjs'], check=True)
+          temporary = ['rulers-v0.20.0-update.zip', '.github/workflows/import-rulers.yml']
+          for n in temporary:
+              pathlib.Path(n).unlink()
+          subprocess.run(['git','add','-A','--',*names,*temporary],check=True)
+          changed = subprocess.check_output(['git','diff','--cached','--name-only'],text=True).splitlines()
+          assert set(changed) <= set(names + temporary)
+          subprocess.run(['git','config','user.name','github-actions[bot]'],check=True)
+          subprocess.run(['git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com'],check=True)
+          subprocess.run(['git','commit','-m','feat: add 1148 rulers and succession archive (v0.20.0)'],check=True)
+          subprocess.run(['git','push','origin','HEAD:refs/heads/rulers-v0.20.0'],check=True)
+          PYTHON
