@@ -1,0 +1,152 @@
+{
+  "id": "ce-northern-yan",
+  "people": [
+    {
+      "id": "ce-northern-yan-4e4bd3b49a",
+      "regimeId": "ce-northern-yan",
+      "name": "高云",
+      "personalName": "高云",
+      "aliases": [
+        "慕容云"
+      ],
+      "born": "生年无可靠确年",
+      "died": "409年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 407,
+          "end": 409,
+          "label": "407年—409年",
+          "role": "天王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾从慕容宝为养子而改姓慕容，冯跋等推翻慕容熙后被立为天王，后恢复高姓。409年被近侍杀害，冯跋继掌权。归后燕或北燕属于分期差异，不能重复统计。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：北燕及北魏统一北方",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ce-northern-yan-7bc6985ff3",
+      "regimeId": "ce-northern-yan",
+      "name": "冯跋",
+      "personalName": "冯跋",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "430年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 409,
+          "end": 430,
+          "label": "409年—430年",
+          "role": "天王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "后燕政变核心，高云死后自立，以龙城为中心经营。面对北魏压力维持地方行政与贵族联盟，也借外交寻找空间；晚年宫廷继承争夺使弟冯弘夺取权力。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：北燕及北魏统一北方",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ce-northern-yan-dc465f0298",
+      "regimeId": "ce-northern-yan",
+      "name": "冯弘",
+      "personalName": "冯弘",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "438年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 430,
+          "end": 436,
+          "label": "430年—436年",
+          "role": "天王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "冯跋之弟，兄死前后控制宫廷并取得君位。北魏持续进攻，436年率众逃高句丽，北燕国家结束，本人其后在高句丽境内被杀。"
+      ],
+      "highlights": [
+        {
+          "date": "436年",
+          "year": 436,
+          "title": "北魏灭北燕",
+          "text": "北魏控制辽西北燕地区，东北与华北联系进一步整合，冯氏政权结束。",
+          "eventId": "ann-ce-0488"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：北燕及北魏统一北方",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-7f0b14d4eb99"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0488",
+          "title": "北魏灭北燕",
+          "date": "436年",
+          "summary": "北魏控制辽西北燕地区，东北与华北联系进一步整合，冯氏政权结束。",
+          "paragraphs": [
+            "北魏控制辽西北燕地区，东北与华北联系进一步整合，冯氏政权结束。",
+            "北方统一在西北与东北多个方向连续推进。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四节 淝水战后北方的再分裂；用户提供合并整理本第86307—86307行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 123
+    }
+  ]
+}

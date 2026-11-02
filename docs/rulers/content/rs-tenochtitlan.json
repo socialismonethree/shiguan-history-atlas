@@ -1,0 +1,498 @@
+{
+  "id": "rs-tenochtitlan",
+  "people": [
+    {
+      "id": "rs-5bad2ea7a1b4",
+      "regimeId": "rs-tenochtitlan",
+      "name": "阿卡马皮奇特利",
+      "personalName": "阿卡马皮奇特利",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版未独立核定，不以在位末年反推",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1375,
+          "end": 1395,
+          "label": "1375—1395年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "首位传统王统中的统治者，借王室亲属和婚姻关系为新兴城市建立合法性。特诺奇蒂特兰此时尚非后来扩张帝国的中心，仍需在湖区强权与地方社群之间取得立足之地。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 74
+    },
+    {
+      "id": "rs-82b51801c253",
+      "regimeId": "rs-tenochtitlan",
+      "name": "维齐利维特尔",
+      "personalName": "维齐利维特尔",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版未独立核定，不以在位末年反推",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1396,
+          "end": 1417,
+          "label": "1396—1417年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以婚姻建立政治联系，使城市在阿斯卡波察尔科主导的秩序中获益。其任期展示早期王权依靠亲属、贡赋与盟友运转，不能把后来的独立霸权倒推到这一时期。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 70
+    },
+    {
+      "id": "rs-724ad9ace804",
+      "regimeId": "rs-tenochtitlan",
+      "name": "奇马尔波波卡",
+      "personalName": "奇马尔波波卡",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版未独立核定，不以在位末年反推",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1417,
+          "end": 1426,
+          "label": "1417—1426年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "延续对特帕内克强权的从属关系，其死亡与湖区继承危机相连。后续反抗和联盟重组使墨西加人摆脱旧霸权，但其死亡的具体责任在不同史料传统中并不完全一致。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 72
+    },
+    {
+      "id": "rs-47c173f3e7f0",
+      "regimeId": "rs-tenochtitlan",
+      "name": "伊茨科阿特尔",
+      "personalName": "伊茨科阿特尔",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版未独立核定，不以在位末年反推",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1427,
+          "end": 1440,
+          "label": "1427—1440年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "参与击败阿斯卡波察尔科，推动特诺奇蒂特兰、特斯科科、特拉科潘的三城同盟形成。战争胜利改变贡赋和土地分配，王权叙事也重新解释族群过去；不能把同盟当成一位皇帝直接管理的单一现代国家。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "rs-44441d531f87",
+      "regimeId": "rs-tenochtitlan",
+      "name": "蒙特祖玛一世",
+      "personalName": "蒙特祖玛一世",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版未独立核定，不以在位末年反推",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1440,
+          "end": 1469,
+          "label": "1440—1469年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "推动军事扩张和贡赋网络向高原以外延伸，奢侈品与各地区物资进入都城。其任内也面对灾荒与资源压力，帝国繁荣依靠地方劳动和贡赋，扩张并非只有中心城市受益的一面。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 77
+    },
+    {
+      "id": "rs-ca6bcafd59ed",
+      "regimeId": "rs-tenochtitlan",
+      "name": "阿沙亚卡特尔",
+      "personalName": "阿沙亚卡特尔",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版未独立核定，不以在位末年反推",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1469,
+          "end": 1481,
+          "label": "1469—1481年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期参加军事行动，兼并特拉特洛尔科，强化特诺奇蒂特兰在湖区的地位。西向扩张并非总能获胜，对普雷佩查人的战争失败表明帝国边界受到其他强国制约。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 70
+    },
+    {
+      "id": "rs-e04d9f9b06e9",
+      "regimeId": "rs-tenochtitlan",
+      "name": "蒂索克",
+      "personalName": "蒂索克",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版未独立核定，不以在位末年反推",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1481,
+          "end": 1486,
+          "label": "1481—1486年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继位后军事声望不及前后几位君主，但王权仍通过礼仪与石刻等形式表现胜利和统治。关于其低效或被毒杀的评价需注意后世政治叙事，不能将单一传说当作确定死因。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 74
+    },
+    {
+      "id": "rs-6dc38d183607",
+      "regimeId": "rs-tenochtitlan",
+      "name": "阿维索特尔",
+      "personalName": "阿维索特尔",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版未独立核定，不以在位末年反推",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1486,
+          "end": 1502,
+          "label": "1486—1502年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以频繁战争扩大贡赋领域，帝国达到新的扩张程度，并大规模建设都城与神庙。军事胜利也伴随俘虏、祭祀和地方负担；对祭祀人数的夸张记载必须审慎，不作精确人口统计。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 77
+    },
+    {
+      "id": "rs-2a5955e7ffc2",
+      "regimeId": "rs-tenochtitlan",
+      "name": "蒙特祖玛二世",
+      "personalName": "蒙特祖玛二世",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "1520年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1502,
+          "end": 1520,
+          "label": "1502—1520年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在帝国强盛时继位，强化宫廷礼仪和统治等级。1519年科尔特斯及其盟友到来，他在情报不足、内外政治压力中采取接触与约束并行的政策，随后被西班牙人控制。死亡经过存在不同记载，不能把复杂外交化约为迷信误认来客为神。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "rs-764b2b4cff51",
+      "regimeId": "rs-tenochtitlan",
+      "name": "奎特拉瓦克",
+      "personalName": "奎特拉瓦克",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "1520年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1520,
+          "end": 1520,
+          "label": "1520—1520年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在西班牙人遭逐出都城后的战争危机中继位，其军事声望与王族身份是重要基础。任期很短即死于天花，疫病与战争同时削弱抵抗；后继者需面对更大规模的围城。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 72
+    },
+    {
+      "id": "rs-3f2857397943",
+      "regimeId": "rs-tenochtitlan",
+      "name": "夸乌特莫克",
+      "personalName": "夸乌特莫克",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "1525年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1520,
+          "end": 1521,
+          "label": "1520—1521年",
+          "role": "tlatoani／城市统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在城市遭战争和疫病重创后组织抵抗，1521年面对西班牙人与大量本地盟军的水陆围攻。8月13日被俘，独立王权终结；此后遭拘押并于1525年被处死。其抵抗地位应与当地盟友分歧、供水粮食和疾病等实际条件同时呈现。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "早期王统的确年和亲属解释依靠殖民时期整理的本地传统，不把后世形象当作同期肖像。"
+      ],
+      "sources": [
+        {
+          "title": "Arqueología Mexicana：墨西加统治者专题",
+          "url": "https://arqueologiamexicana.mx/arqueomexe40",
+          "note": "墨西哥考古专题，由专业研究者撰写。采用该专题的1375—1521年主序；早期起年与1468／1469年换位存在方案差异。"
+        },
+        {
+          "title": "Frances Berdan、Michael E. Smith：《Everyday Life in the Aztec World》第一章",
+          "url": "https://assets.cambridge.org/97805215/16365/excerpt/9780521516365_excerpt.pdf",
+          "note": "剑桥大学出版社开放试读；王统、亲属与三城同盟政治背景。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-conquestmexico",
+          "title": "特诺奇蒂特兰陷落",
+          "date": "1519年",
+          "summary": "科尔特斯联合多个本地反对墨西加的力量，围攻都城，疫情与战争共同影响结局。",
+          "paragraphs": [
+            "科尔特斯联合多个本地反对墨西加的力量，围攻都城，疫情与战争共同影响结局。",
+            "征服不是少数欧洲人单独击败整块大陆，本地联盟与翻译沟通至关重要。",
+            "墨西加政治中心覆亡，新西班牙殖民秩序形成，原住民社会继续抵抗与适应。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "欧洲殖民扩张与美洲社会",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/6-1-european-colonization-in-the-americas",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    }
+  ]
+}

@@ -1,0 +1,1481 @@
+{
+  "id": "wr-joseon",
+  "people": [
+    {
+      "id": "wr-kr-taejo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜太祖",
+      "personalName": "李成桂",
+      "aliases": [
+        "李成桂"
+      ],
+      "born": "1335年",
+      "died": "1408年",
+      "birthPlace": "",
+      "family": "李子春之子；定宗、太宗之父。",
+      "reigns": [
+        {
+          "start": 1392,
+          "end": 1398,
+          "label": "1392—1398年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高丽末年的军事将领，在威化岛回军后取得主导地位，并在1392年建立朝鲜王朝。新王朝以汉城为都，推动制度与土地关系重组，但宗室继承和功臣势力很快发生冲突。第一次王子之乱后退位，开国者的威望并未消除家族内部的权力斗争。"
+      ],
+      "highlights": [
+        {
+          "date": "1388年",
+          "year": 1388,
+          "title": "威化岛回军",
+          "text": "拒绝继续北进并率军回返，改变高丽政局。"
+        },
+        {
+          "date": "1392年",
+          "year": 1392,
+          "title": "建立朝鲜",
+          "text": "以新的王朝重组统治与都城。"
+        },
+        {
+          "year": 1392,
+          "date": "1392年",
+          "title": "朝鲜王朝建立（任内史事）",
+          "text": "李成桂建立朝鲜王朝，随后迁都汉阳，重整官僚与统治理念。两班、科举和地方行政逐步发展，王朝延续至近代转型。",
+          "eventId": "we-joseon"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-joseon",
+          "title": "朝鲜王朝建立",
+          "date": "1392年",
+          "summary": "李成桂建立朝鲜王朝，随后迁都汉阳，重整官僚与统治理念。",
+          "paragraphs": [
+            "李成桂建立朝鲜王朝，随后迁都汉阳，重整官僚与统治理念。",
+            "新王朝以儒学政治秩序重塑国家，也重新安排与明朝的关系。",
+            "两班、科举和地方行政逐步发展，王朝延续至近代转型。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "KOREA—Timeline of Historical Periods",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "哥伦比亚大学 Asia for Educators；古代各国建国年代部分来自传统纪年；朝鲜王朝与大韩帝国分界应保留。"
+            },
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学日本历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/japan_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学朝鲜半岛历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-east-asia-0562",
+          "title": "威化岛回军",
+          "date": "1388年",
+          "summary": "李成桂反对出兵辽东并转兵掌权，高丽王朝更替的军事政治条件逐渐成熟。",
+          "paragraphs": [
+            "李成桂反对出兵辽东并转兵掌权，高丽王朝更替的军事政治条件逐渐成熟。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学日本历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/japan_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学朝鲜半岛历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 191
+    },
+    {
+      "id": "wr-kr-jeongjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜定宗",
+      "personalName": "李芳果",
+      "aliases": [
+        "李芳果"
+      ],
+      "born": "1357年",
+      "died": "1419年",
+      "birthPlace": "",
+      "family": "太祖之子，太宗之兄。",
+      "reigns": [
+        {
+          "start": 1398,
+          "end": 1400,
+          "label": "1398—1400年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "作为太祖之子，在第一次王子之乱后继位。虽然拥有王号，政治和军事主动权逐步转向弟弟李芳远。第二次王子之乱进一步改变宗室力量平衡，他在1400年让位，后来以太上王身份生活。其短暂统治是理解开国功臣政治向强王权转变的重要环节。"
+      ],
+      "highlights": [
+        {
+          "date": "1400年",
+          "year": 1400,
+          "title": "退位于太宗",
+          "text": "宗室内战后让位，王位与实际权力趋于合一。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 130
+    },
+    {
+      "id": "wr-kr-taejong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜太宗",
+      "personalName": "李芳远",
+      "aliases": [
+        "李芳远"
+      ],
+      "born": "1367年",
+      "died": "1422年",
+      "birthPlace": "",
+      "family": "太祖之子；世宗之父，配偶元敬王后闵氏。",
+      "reigns": [
+        {
+          "start": 1400,
+          "end": 1418,
+          "label": "1400—1418年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "参与父亲建国，通过两次王子之乱确立权力，继位后强化君主对军队、行政和王室外戚的控制。他处理功臣与宗亲势力，推进户籍和政治制度建设，为世宗时期的国家运作奠定条件。1418年让位世宗后仍保留重大军事与政治影响，退位并不意味着即刻退出统治。"
+      ],
+      "highlights": [
+        {
+          "date": "1400年",
+          "year": 1400,
+          "title": "继位并整合王权",
+          "text": "削弱可能挑战王室中心的独立力量。"
+        },
+        {
+          "date": "1418年",
+          "year": 1418,
+          "title": "让位世宗",
+          "text": "以太上王身份继续发挥实际影响。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 148
+    },
+    {
+      "id": "wr-kr-sejong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜世宗",
+      "personalName": "李祹",
+      "aliases": [
+        "李祹"
+      ],
+      "born": "1397年",
+      "died": "1450年",
+      "birthPlace": "",
+      "family": "太宗与元敬王后之子；文宗、世祖之父。",
+      "reigns": [
+        {
+          "start": 1418,
+          "end": 1450,
+          "label": "1418—1450年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "太宗第三子，在父亲让位后即位。其统治不仅以文字创造著称，也涵盖农业、历算、天文、音乐、法律和边疆治理。王廷组织学者与技术人员，整理适合本地条件的知识，并加强北部边界及沿海防务。《训民正音》的创制和颁布，为更广泛的人群使用书写工具提供条件，但不应把所有成果都归于君主一人。晚年疾病与继承安排又把权力逐步交给世子。"
+      ],
+      "highlights": [
+        {
+          "date": "1443年",
+          "year": 1443,
+          "title": "创制训民正音",
+          "text": "以新的音韵文字体系回应本地语言书写需要。"
+        },
+        {
+          "date": "1446年",
+          "year": 1446,
+          "title": "颁布训民正音",
+          "text": "解例说明文字原理与用法，后世形成韩文传统。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 196
+    },
+    {
+      "id": "wr-kr-munjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜文宗",
+      "personalName": "李珦",
+      "aliases": [
+        "李珦"
+      ],
+      "born": "1414年",
+      "died": "1452年",
+      "birthPlace": "",
+      "family": "世宗长子，端宗之父。",
+      "reigns": [
+        {
+          "start": 1450,
+          "end": 1452,
+          "label": "1450—1452年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期担任世子，世宗晚年已参与政务，因此正式即位前有相当行政经验。其关注军事与制度整理，但身体状况使在位时间很短。去世时儿子端宗年幼，由大臣辅政，给宗室争权留下空间。不能把随后的政变简化为君主个人品行的结果。"
+      ],
+      "highlights": [
+        {
+          "date": "1452年",
+          "year": 1452,
+          "title": "幼主继承",
+          "text": "文宗去世，端宗即位，辅政格局形成。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 120
+    },
+    {
+      "id": "wr-kr-danjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜端宗",
+      "personalName": "李弘暐",
+      "aliases": [
+        "李弘暐"
+      ],
+      "born": "1441年",
+      "died": "1457年",
+      "birthPlace": "",
+      "family": "文宗之子，世祖的侄子。",
+      "reigns": [
+        {
+          "start": 1452,
+          "end": 1455,
+          "label": "1452—1455年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年幼继位，由重臣辅政。叔父首阳大君发动癸酉靖难夺取实际权力，随后迫使端宗退位。端宗被降封、流放，在复位活动遭镇压后遇害；其王号与历史地位经历后世恢复。阅读这一生平应区分当时废黜称号与后来追复的庙号。"
+      ],
+      "highlights": [
+        {
+          "date": "1453年",
+          "year": 1453,
+          "title": "癸酉靖难",
+          "text": "首阳大君清除辅政大臣，幼主丧失政治主动权。"
+        },
+        {
+          "date": "1457年",
+          "year": 1457,
+          "title": "流放后遇害",
+          "text": "复位谋划与朝廷镇压使其生命终结。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 136
+    },
+    {
+      "id": "wr-kr-sejo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜世祖",
+      "personalName": "李瑈",
+      "aliases": [
+        "李瑈"
+      ],
+      "born": "1417年",
+      "died": "1468年",
+      "birthPlace": "",
+      "family": "世宗之子、文宗之弟；睿宗之父。",
+      "reigns": [
+        {
+          "start": 1455,
+          "end": 1468,
+          "label": "1455—1468年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原封首阳大君，通过政变清除辅政大臣并迫使侄子端宗退位。即位后加强国王对行政、军队和官员任用的控制，推动法典编纂等制度工作。建构强王权的措施与暴力夺位、处死端宗及反对者并存，制度成果不能消除其夺权代价。"
+      ],
+      "highlights": [
+        {
+          "date": "1453年",
+          "year": 1453,
+          "title": "夺取实际权力",
+          "text": "政变在正式称王前改变权力格局。"
+        },
+        {
+          "date": "1455年",
+          "year": 1455,
+          "title": "正式即位",
+          "text": "端宗退位，世祖掌握王位。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 127
+    },
+    {
+      "id": "wr-kr-yejong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜睿宗",
+      "personalName": "李晄",
+      "aliases": [
+        "李晄"
+      ],
+      "born": "1450年",
+      "died": "1469年",
+      "birthPlace": "",
+      "family": "世祖之子，成宗的叔父。",
+      "reigns": [
+        {
+          "start": 1468,
+          "end": 1469,
+          "label": "1468—1469年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "世祖去世后继位，统治延续开国功臣和王室核心集团的强大影响。其任内涉及南怡案等政治清洗，而实际决策需结合大臣与王室长辈力量理解。在位仅一年多便去世，王位转由侄子成宗继承，而非直接由其年幼儿子承接。"
+      ],
+      "highlights": [
+        {
+          "date": "1469年",
+          "year": 1469,
+          "title": "短暂在位后去世",
+          "text": "继承由王室与大臣共同安排。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "wr-kr-seongjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜成宗",
+      "personalName": "李娎",
+      "aliases": [
+        "李娎"
+      ],
+      "born": "1457年",
+      "died": "1494年",
+      "birthPlace": "",
+      "family": "德宗李暲之子、世祖之孙；燕山君与中宗之父。",
+      "reigns": [
+        {
+          "start": 1469,
+          "end": 1494,
+          "label": "1469—1494年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年登位，早期由王室长辈垂帘听政，亲政后逐步整合功臣与新兴士林力量。完成《经国大典》颁行，使长期制度编纂形成较稳定的行政规范。学术、史书编纂与儒家秩序建设发展，同时宗室和后妃政治仍影响继承。其后的士祸不能仅追溯为单一宫廷纠纷。"
+      ],
+      "highlights": [
+        {
+          "date": "1485年",
+          "year": 1485,
+          "title": "《经国大典》施行",
+          "text": "长期积累的国家制度以法典形式固定。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 130
+    },
+    {
+      "id": "wr-kr-yeonsan",
+      "regimeId": "wr-joseon",
+      "name": "燕山君",
+      "personalName": "李㦕",
+      "aliases": [
+        "李㦕"
+      ],
+      "born": "1476年",
+      "died": "1506年",
+      "birthPlace": "",
+      "family": "成宗之子，生母为废妃尹氏。",
+      "reigns": [
+        {
+          "start": 1494,
+          "end": 1506,
+          "label": "1494—1506年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "成宗之子，继位后与士林及朝廷言论力量发生尖锐冲突。戊午、甲子士祸使官僚和学术网络受到重创，王室私怨与专断统治相互强化。1506年政变将其废黜并流放，未获通常君主的庙号。他的事迹需区分实录记录、政变胜利者的政治叙事与后世戏剧形象。"
+      ],
+      "highlights": [
+        {
+          "date": "1498年",
+          "year": 1498,
+          "title": "戊午士祸",
+          "text": "史稿与政治解释引发大规模清洗。"
+        },
+        {
+          "date": "1506年",
+          "year": 1506,
+          "title": "中宗反正",
+          "text": "政变废黜燕山君，王位转给异母弟中宗。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 147
+    },
+    {
+      "id": "wr-kr-jungjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜中宗",
+      "personalName": "李怿",
+      "aliases": [
+        "李怿"
+      ],
+      "born": "1488年",
+      "died": "1544年",
+      "birthPlace": "",
+      "family": "成宗之子，燕山君异母弟；仁宗、明宗之父。",
+      "reigns": [
+        {
+          "start": 1506,
+          "end": 1544,
+          "label": "1506—1544年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在反正政变中被拥立，起初受到功臣集团制约。曾支持赵光祖等士林改革，后来又转而清洗改革派，己卯士祸成为政治转折。其长期统治表明王权、功臣和士林并不是固定不变的两方关系，君主也在不同联盟之间作出选择。"
+      ],
+      "highlights": [
+        {
+          "date": "1519年",
+          "year": 1519,
+          "title": "己卯士祸",
+          "text": "赵光祖等人的改革被终止，政治清洗重组朝廷。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 119
+    },
+    {
+      "id": "wr-kr-injong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜仁宗",
+      "personalName": "李峼",
+      "aliases": [
+        "李峼"
+      ],
+      "born": "1515年",
+      "died": "1545年",
+      "birthPlace": "",
+      "family": "中宗之子；明宗异母兄。",
+      "reigns": [
+        {
+          "start": 1544,
+          "end": 1545,
+          "label": "1544—1545年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期作为世子接受儒学教育，在中宗去世后继位。正式在位不足一年，未能稳定推行个人政治议程便病逝。王位由异母弟明宗继承，围绕不同外戚集团的争斗随即加剧，乙巳士祸与这一继承背景相联系。"
+      ],
+      "highlights": [
+        {
+          "date": "1545年",
+          "year": 1545,
+          "title": "在位数月后去世",
+          "text": "继承引发外戚力量重新排列。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "wr-kr-myeongjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜明宗",
+      "personalName": "李峘",
+      "aliases": [
+        "李峘"
+      ],
+      "born": "1534年",
+      "died": "1567年",
+      "birthPlace": "",
+      "family": "中宗与文定王后之子。",
+      "reigns": [
+        {
+          "start": 1545,
+          "end": 1567,
+          "label": "1545—1567年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，母亲文定王后及其外戚集团长期主导政治。乙巳士祸清洗对立力量，士林政治经历挫折；对佛教的扶持也引发儒臣反对。其统治后期逐渐亲政，但去世时无存活继承子，王室旁支宣祖继位。"
+      ],
+      "highlights": [
+        {
+          "date": "1545年",
+          "year": 1545,
+          "title": "幼主与外戚政治",
+          "text": "王位更替伴随乙巳士祸。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "wr-kr-seonjo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜宣祖",
+      "personalName": "李昖",
+      "aliases": [
+        "李昖"
+      ],
+      "born": "1552年",
+      "died": "1608年",
+      "birthPlace": "",
+      "family": "中宗之孙；光海君与永昌大君之父。",
+      "reigns": [
+        {
+          "start": 1567,
+          "end": 1608,
+          "label": "1567—1608年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出自王室旁支，任内士林内部党争加深。1592年日本侵朝战争爆发，国王北撤，地方义兵、朝鲜水军和明军共同作战。战争破坏社会经济，也使世子光海君在分担政务中积累政治声望。战后恢复与继承争议相互牵动，需把宫廷与战争中的民众经验一并阅读。"
+      ],
+      "highlights": [
+        {
+          "date": "1592年",
+          "year": 1592,
+          "title": "日本侵朝战争",
+          "text": "朝廷撤离都城，军事抵抗与国际援助同时展开。"
+        },
+        {
+          "date": "1598年",
+          "year": 1598,
+          "title": "战争结束与重建",
+          "text": "胜利并未立即消除财政、社会与继承危机。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 155
+    },
+    {
+      "id": "wr-kr-gwanghae",
+      "regimeId": "wr-joseon",
+      "name": "光海君",
+      "personalName": "李珲",
+      "aliases": [
+        "李珲"
+      ],
+      "born": "1575年",
+      "died": "1641年",
+      "birthPlace": "",
+      "family": "宣祖之子。",
+      "reigns": [
+        {
+          "start": 1608,
+          "end": 1623,
+          "label": "1608—1623年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在侵朝战争期间作为世子分担政务，继位后组织战后恢复。面对明与后金力量变化，其外交较为审慎，但朝廷派系与王室清洗削弱支持。废母杀弟等政治争议成为反对力量的动员资源，1623年政变将其废黜，后流放至济州。对其外交的后世重新评价，不应消除内政暴力。"
+      ],
+      "highlights": [
+        {
+          "date": "1619年",
+          "year": 1619,
+          "title": "萨尔浒战役背景下的外交抉择",
+          "text": "朝鲜参与明方军事行动后，如何应对后金成为重大难题。"
+        },
+        {
+          "date": "1623年",
+          "year": 1623,
+          "title": "仁祖反正",
+          "text": "政变结束其统治，此后长期流放。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 161
+    },
+    {
+      "id": "wr-kr-injo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜仁祖",
+      "personalName": "李倧",
+      "aliases": [
+        "李倧"
+      ],
+      "born": "1595年",
+      "died": "1649年",
+      "birthPlace": "",
+      "family": "宣祖之孙；昭显世子、孝宗之父。",
+      "reigns": [
+        {
+          "start": 1623,
+          "end": 1649,
+          "label": "1623—1649年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过反正政变即位，政权与支持明朝、排斥后金的政治立场相连。1627年和1636年的两次战争使朝鲜在国际力量重组中遭受严重打击，最终向清称臣。战后王室质子、世子归国与继承冲突又成为朝廷问题，不能仅用君主个人“亲明”解释全部战争原因。"
+      ],
+      "highlights": [
+        {
+          "date": "1636年",
+          "year": 1636,
+          "title": "丙子战争",
+          "text": "清军入侵，国王被围，次年接受臣属关系。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 134
+    },
+    {
+      "id": "wr-kr-hyojong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜孝宗",
+      "personalName": "李淏",
+      "aliases": [
+        "李淏"
+      ],
+      "born": "1619年",
+      "died": "1659年",
+      "birthPlace": "",
+      "family": "仁祖之子、昭显世子之弟。",
+      "reigns": [
+        {
+          "start": 1649,
+          "end": 1659,
+          "label": "1649—1659年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年轻时曾作为王子被送往清朝，归国后在昭显世子去世等继承变局中成为王位继承人。即位后整顿军政，后世常以“北伐”设想叙述其统治，但其军事准备、对清关系和实际能力必须区分。任期未形成大规模对清战争，国内财政与政治条件制约政策。"
+      ],
+      "highlights": [
+        {
+          "date": "1649年",
+          "year": 1649,
+          "title": "继位后的军政整顿",
+          "text": "强化武备与王权的措施在战后恢复背景下展开。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 131
+    },
+    {
+      "id": "wr-kr-hyeonjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜显宗",
+      "personalName": "李棩",
+      "aliases": [
+        "李棩"
+      ],
+      "born": "1641年",
+      "died": "1674年",
+      "birthPlace": "",
+      "family": "孝宗之子。",
+      "reigns": [
+        {
+          "start": 1659,
+          "end": 1674,
+          "label": "1659—1674年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出生于王父与父亲被留在清朝的时期，继位后面对西人与南人围绕礼制的激烈论争。两次礼讼并非单纯服丧技术问题，而关系王统身份、政治联盟和官僚权力。其任内还需要处理灾荒与社会恢复，礼争不能代表全部治理事务。"
+      ],
+      "highlights": [
+        {
+          "date": "1659年",
+          "year": 1659,
+          "title": "第一次礼讼",
+          "text": "王室服丧制度成为政治争论焦点。"
+        },
+        {
+          "date": "1674年",
+          "year": 1674,
+          "title": "第二次礼讼",
+          "text": "礼制解释改变朝廷权力平衡。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 127
+    },
+    {
+      "id": "wr-kr-sukjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜肃宗",
+      "personalName": "李焞",
+      "aliases": [
+        "李焞"
+      ],
+      "born": "1661年",
+      "died": "1720年",
+      "birthPlace": "",
+      "family": "显宗之子；景宗、英祖之父。",
+      "reigns": [
+        {
+          "start": 1674,
+          "end": 1720,
+          "label": "1674—1720年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期在位，国王利用不同党派与后妃集团之间的竞争加强政治主导，数次“换局”造成朝廷权力骤变。张禧嫔、仁显王后等人的命运与继承问题交织，后世宫廷叙事常过度私人化。需把这些人物放在党派、王权与世子地位的制度背景中理解。"
+      ],
+      "highlights": [
+        {
+          "date": "1689年",
+          "year": 1689,
+          "title": "己巳换局",
+          "text": "后妃身份、世子和党派力量一起变化。"
+        },
+        {
+          "date": "1694年",
+          "year": 1694,
+          "title": "甲戌换局",
+          "text": "新的政治联盟重组宫廷。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 134
+    },
+    {
+      "id": "wr-kr-gyeongjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜景宗",
+      "personalName": "李昀",
+      "aliases": [
+        "李昀"
+      ],
+      "born": "1688年",
+      "died": "1724年",
+      "birthPlace": "",
+      "family": "肃宗与张禧嫔之子；英祖异母兄。",
+      "reigns": [
+        {
+          "start": 1720,
+          "end": 1724,
+          "label": "1720—1724年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "作为肃宗与张氏之子继位，身体状况和无子嗣使继承成为迫切议题。围绕异母弟延礽君立储与代行政务的争论，老论、少论尖锐对立，辛壬士祸重创一方政治力量。在位四年后去世，关于死因的政治传闻不能当作已证实谋杀。"
+      ],
+      "highlights": [
+        {
+          "date": "1721年",
+          "year": 1721,
+          "title": "继承与代政争议",
+          "text": "王世弟地位成为党争中心。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "wr-kr-yeongjo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜英祖",
+      "personalName": "李昑",
+      "aliases": [
+        "李昑"
+      ],
+      "born": "1694年",
+      "died": "1776年",
+      "birthPlace": "",
+      "family": "肃宗与淑嫔崔氏之子；思悼世子之父、正祖之祖父。",
+      "reigns": [
+        {
+          "start": 1724,
+          "end": 1776,
+          "label": "1724—1776年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在复杂党争中继位，以“荡平”作为调节朝廷派系的重要政治语言，任内推动财政和制度整理。长期统治也发生严重王室悲剧：1762年处置思悼世子，留下持续影响继承和后世评价的问题。其勤政与制度措施、强烈王权及家庭政治的暴力面向，应结合起来观察。"
+      ],
+      "highlights": [
+        {
+          "date": "1750年",
+          "year": 1750,
+          "title": "均役法",
+          "text": "调整军役负担，财政补偿与执行仍需配套。"
+        },
+        {
+          "date": "1762年",
+          "year": 1762,
+          "title": "壬午事变",
+          "text": "思悼世子死亡，王室冲突深刻影响正祖的政治处境。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 159
+    },
+    {
+      "id": "wr-kr-jeongjo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜正祖",
+      "personalName": "李祘",
+      "aliases": [
+        "李祘"
+      ],
+      "born": "1752年",
+      "died": "1800年",
+      "birthPlace": "",
+      "family": "思悼世子与惠庆宫洪氏之子，英祖之孙。",
+      "reigns": [
+        {
+          "start": 1776,
+          "end": 1800,
+          "label": "1776—1800年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "思悼世子之子，在父亲之死留下的政治裂痕中继位。通过奎章阁等机构组织学术与人才，试图强化王权并调整官僚联盟，建设水原华城兼有王室纪念、军事和行政意图。改革并非无限制突破，既有派系、社会等级和财政条件始终构成边界。"
+      ],
+      "highlights": [
+        {
+          "date": "1776年",
+          "year": 1776,
+          "title": "继位与奎章阁建设",
+          "text": "借学术和人事安排形成治理网络。"
+        },
+        {
+          "date": "1796年",
+          "year": 1796,
+          "title": "水原华城建成",
+          "text": "城市、军政和王室纪念工程相结合。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 136
+    },
+    {
+      "id": "wr-kr-sunjo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜纯祖",
+      "personalName": "李玜",
+      "aliases": [
+        "李玜"
+      ],
+      "born": "1790年",
+      "died": "1834年",
+      "birthPlace": "",
+      "family": "正祖之子；与安东金氏纯元王后成婚。",
+      "reigns": [
+        {
+          "start": 1800,
+          "end": 1834,
+          "label": "1800—1834年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年幼继位，早期由贞纯王后摄政，随后外戚家门的权势日益显著。安东金氏等势道政治的发展与官僚秩序、税收和社会矛盾相互影响，民众反抗及地方不满不断积累。世子曾参与代行政务，但未能建立持续的改革局面。"
+      ],
+      "highlights": [
+        {
+          "date": "1811年",
+          "year": 1811,
+          "title": "洪景来起义",
+          "text": "地方矛盾和歧视、财政负担等问题汇聚为武装反抗。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 119
+    },
+    {
+      "id": "wr-kr-heonjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜宪宗",
+      "personalName": "李奂",
+      "aliases": [
+        "李奂"
+      ],
+      "born": "1827年",
+      "died": "1849年",
+      "birthPlace": "",
+      "family": "孝明世子之子、纯祖之孙。",
+      "reigns": [
+        {
+          "start": 1834,
+          "end": 1849,
+          "label": "1834—1849年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，由王室长辈和外戚集团主导政局。任期内安东金氏与丰壤赵氏等力量争夺影响，天主教传播与镇压又成为国家秩序和外部接触的一部分。去世时无子，王位从王室旁支另择人继承，显示宫廷继承与家门政治的联系。"
+      ],
+      "highlights": [
+        {
+          "date": "1839年",
+          "year": 1839,
+          "title": "己亥迫害",
+          "text": "天主教徒受到大规模镇压，宗教与对外关系问题交织。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 123
+    },
+    {
+      "id": "wr-kr-cheoljong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜哲宗",
+      "personalName": "李昪",
+      "aliases": [
+        "李昪"
+      ],
+      "born": "1831年",
+      "died": "1864年",
+      "birthPlace": "",
+      "family": "王室旁支恩彦君后裔，与安东金氏哲仁王后成婚。",
+      "reigns": [
+        {
+          "start": 1849,
+          "end": 1864,
+          "label": "1849—1864年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原在江华岛生活，宪宗去世后被选入宫继承王位，早年缺乏治理经验，实际政治长期受外戚集团支配。任内地方社会矛盾持续加重，1862年的民乱显示税收、军役和地方行政危机。其死亡带来又一次旁支继承，高宗登位及大院君执政随之开始。"
+      ],
+      "highlights": [
+        {
+          "date": "1862年",
+          "year": 1862,
+          "title": "壬戌民乱",
+          "text": "地方行政腐败与多重赋役负担激发大范围反抗。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "传统朝鲜纪年常把哲宗末年、高宗即位年列作1863年，农历十二月事件跨入公历1864年；本表年度检索用公历跨年口径。"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 130
+    },
+    {
+      "id": "wr-kr-gojong",
+      "regimeId": "wr-joseon",
+      "name": "高宗",
+      "personalName": "李㷩",
+      "aliases": [
+        "李㷩"
+      ],
+      "born": "1852年",
+      "died": "1919年",
+      "birthPlace": "",
+      "family": "兴宣大院君之子，配偶明成皇后闵氏；纯宗之父。",
+      "reigns": [
+        {
+          "start": 1864,
+          "end": 1907,
+          "label": "1864—1907年",
+          "role": "国王／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，早期由父亲兴宣大院君主政；成年后王室与外戚、改革派及外国势力的关系反复变化。开港、壬午军乱、甲申政变、甲午战争与乙未事变不断压缩朝鲜的自主空间。1897年改称大韩帝国并称皇帝，试图维护国家独立。日本在1905年强加保护国安排，1907年又迫使其退位，王室外交并未能阻止主权被剥夺。"
+      ],
+      "highlights": [
+        {
+          "date": "1876年",
+          "year": 1876,
+          "title": "江华条约与开港",
+          "text": "国家进入不平等条约和列强竞争的新局面。"
+        },
+        {
+          "date": "1897年",
+          "year": 1897,
+          "title": "建立大韩帝国",
+          "text": "以皇帝名义重申独立与国家改革。"
+        },
+        {
+          "date": "1907年",
+          "year": 1907,
+          "title": "被迫退位",
+          "text": "海牙密使事件后，日本进一步干预王位与统治。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "传统朝鲜纪年常把哲宗末年、高宗即位年列作1863年，农历十二月事件跨入公历1864年；本表年度检索用公历跨年口径。",
+        "韩国国史编纂委员会提示：高宗、纯宗实录在日本殖民统治时期编纂，记述带有政治偏向，须与其他材料对读。"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-korea-colonial",
+          "title": "朝鲜半岛主权危机与日本吞并",
+          "date": "1894年",
+          "summary": "列强竞争与国内改革交错，大韩帝国成立后仍被日本强加保护条约并最终吞并。",
+          "paragraphs": [
+            "列强竞争与国内改革交错，大韩帝国成立后仍被日本强加保护条约并最终吞并。",
+            "制度改革未能摆脱帝国主义压力，半岛由王朝国家转入殖民统治。",
+            "抗日义兵与独立诉求持续发展，殖民统治结束在本版展示下限之外。"
+          ],
+          "note": "1897建大韩帝国，1905保护条约，1910吞并为不同节点。",
+          "sources": [
+            {
+              "title": "KOREA—Timeline of Historical Periods",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "哥伦比亚大学 Asia for Educators；古代各国建国年代部分来自传统纪年；朝鲜王朝与大韩帝国分界应保留。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-east-asia-0629",
+          "title": "大韩帝国成立",
+          "date": "1897年",
+          "summary": "高宗称帝并推动光武改革，以新的国家名义争取在列强竞争中的自主地位。",
+          "paragraphs": [
+            "高宗称帝并推动光武改革，以新的国家名义争取在列强竞争中的自主地位。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学日本历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/japan_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学朝鲜半岛历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 200
+    },
+    {
+      "id": "wr-kr-daewongun",
+      "regimeId": "wr-joseon",
+      "name": "兴宣大院君",
+      "personalName": "李昰应",
+      "aliases": [
+        "李昰应",
+        "大院君"
+      ],
+      "born": "1820年",
+      "died": "1898年",
+      "birthPlace": "",
+      "family": "高宗之父；本人从未作为朝鲜国王正式在位。",
+      "reigns": [
+        {
+          "start": 1864,
+          "end": 1873,
+          "label": "1864—1873年",
+          "role": "实际执政者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼主高宗之父，以大院君身份主导政务，整顿书院和部分财政弊端，重修景福宫也加重社会负担。面对法国、美国等外部武力压力，采取排斥外国进入的政策。1873年后失去主要执政地位，此后仍卷入国内政变和外国干预，1894年的短暂参与不能与早期十年执政合为持续统治。"
+      ],
+      "highlights": [
+        {
+          "date": "1866年",
+          "year": 1866,
+          "title": "丙寅洋扰",
+          "text": "法军与朝鲜交战，排外政策进一步强化。"
+        },
+        {
+          "date": "1873年",
+          "year": 1873,
+          "title": "退出主要执政位置",
+          "text": "高宗及王后集团政治影响上升。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "大院君是王父封号，本人不是朝鲜王朝第28位国王。"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 158
+    },
+    {
+      "id": "wr-kr-sunjong",
+      "regimeId": "wr-joseon",
+      "name": "纯宗",
+      "personalName": "李坧",
+      "aliases": [
+        "李坧"
+      ],
+      "born": "1874年",
+      "died": "1926年",
+      "birthPlace": "",
+      "family": "高宗与明成皇后之子。",
+      "reigns": [
+        {
+          "start": 1907,
+          "end": 1910,
+          "label": "1907—1910年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在日本控制不断加深的条件下继承大韩帝国皇位，已难以独立行使国家权力。1910年日本吞并韩国，帝国终结，他此后以受日本制度控制的王室身份生活。1926年去世，其葬礼背景与反殖民运动相联系，需区别在位皇帝阶段与亡国后政治象征。"
+      ],
+      "highlights": [
+        {
+          "date": "1910年",
+          "year": 1910,
+          "title": "韩国被日本吞并",
+          "text": "不平等条约与武力控制终结国家主权，不能叙述为自由、自愿的权力转让。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "韩国国史编纂委员会提示：高宗、纯宗实录在日本殖民统治时期编纂，记述带有政治偏向，须与其他材料对读。"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 144
+    }
+  ]
+}

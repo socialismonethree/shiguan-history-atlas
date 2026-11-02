@@ -1,0 +1,304 @@
+{
+  "id": "cl-wu",
+  "people": [
+    {
+      "id": "cl-wu-81a7166d0",
+      "regimeId": "cl-wu",
+      "name": "吴太祖",
+      "personalName": "杨行密",
+      "aliases": [
+        "杨行密"
+      ],
+      "born": "852年",
+      "died": "905年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 902,
+          "end": 905,
+          "label": "902—905年",
+          "role": "吴王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "从江淮战争中兴起，控制淮南，并击退朱温势力。902年受唐封吴王，实际形成独立区域政权；生前未称皇帝，太祖帝号为后人追尊，不能倒推为其实际称号。"
+      ],
+      "highlights": [
+        {
+          "date": "892年",
+          "year": 892,
+          "title": "杨行密控制扬州",
+          "text": "江淮地方集团壮大。",
+          "eventId": "ann-cl-tang-892-128"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-2067aaadf9d8"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国断代史系列·全集（用户提供；仅有书内定位的条目实际使用）",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        },
+        {
+          "title": "中国文化网·唐代年号表（帝王年号核对）",
+          "url": "https://en.chinaculture.org/cnstatic/review/rev64.htm",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-tang-892-128",
+          "title": "杨行密控制扬州",
+          "date": "892年",
+          "summary": "江淮地方集团壮大。",
+          "paragraphs": [
+            "江淮地方集团壮大。",
+            "奠定后来吴政权的基础。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "王仲荦《隋唐五代史（上、下）》",
+              "url": "",
+              "note": "隋唐五代史·五代十国政治；用户提供合并整理本第109854—109854行"
+            },
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "中国文化网·唐代年号表（帝王年号核对）",
+              "url": "https://en.chinaculture.org/cnstatic/review/rev64.htm",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "中国断代史系列·全集（用户提供；仅有书内定位的条目实际使用）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 120
+    },
+    {
+      "id": "cl-wu-e15f916d1",
+      "regimeId": "cl-wu",
+      "name": "杨渥",
+      "personalName": "杨渥",
+      "aliases": [],
+      "born": "886年",
+      "died": "908年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 905,
+          "end": 908,
+          "label": "905—908年",
+          "role": "淮南统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "杨行密长子，继承淮南军政权力，但与张颢、徐温等将领矛盾激化。908年遭杀，杨吴实际权力逐渐转入徐温集团，杨氏君主开始处于受制位置。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "cl-wu-1e34272f3",
+      "regimeId": "cl-wu",
+      "name": "吴高祖",
+      "personalName": "杨隆演",
+      "aliases": [
+        "杨隆演"
+      ],
+      "born": "897年",
+      "died": "920年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 908,
+          "end": 920,
+          "label": "908—920年",
+          "role": "吴国统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "杨行密之子，在兄杨渥遇害后被徐温等拥立。前期沿用唐朝册封，919年改吴国年号、正式称吴王；朝政主要由徐温集团主持，生前不曾称帝。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "cl-wu-d9a592dc7",
+      "regimeId": "cl-wu",
+      "name": "吴睿帝",
+      "personalName": "杨溥",
+      "aliases": [
+        "杨溥"
+      ],
+      "born": "900年",
+      "died": "938年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 920,
+          "end": 937,
+          "label": "920—937年",
+          "role": "吴国统治者",
+          "note": "920—927年为吴王，927—937年为皇帝，不能把全部掌权阶段称为皇帝在位。"
+        }
+      ],
+      "life": [
+        "杨行密之子，继杨隆演后为吴王，927年称皇帝。徐温死后，徐知诰逐渐控制朝廷，937年迫其禅位，建立南唐；杨溥退位后不久去世。"
+      ],
+      "highlights": [
+        {
+          "date": "920年",
+          "year": 920,
+          "title": "杨溥成为吴王",
+          "text": "徐氏继续控制政务。",
+          "eventId": "ann-cl-five-dynasties-922-150"
+        },
+        {
+          "date": "927年",
+          "year": 927,
+          "title": "吴国改称皇帝",
+          "text": "杨溥称帝。",
+          "eventId": "ann-cl-five-dynasties-927-155"
+        },
+        {
+          "date": "937年",
+          "year": 937,
+          "title": "南唐取代吴国",
+          "text": "李昪接受杨溥禅让。",
+          "eventId": "ann-cl-five-dynasties-937-162"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-2f3bbe5bfb77"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "920—927年为吴王，927—937年为皇帝，不能把全部掌权阶段称为皇帝在位。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-922-150",
+          "title": "杨溥成为吴王",
+          "date": "920年",
+          "summary": "徐氏继续控制政务。",
+          "paragraphs": [
+            "徐氏继续控制政务。",
+            "吴政权的君臣权力分离加深。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-927-155",
+          "title": "吴国改称皇帝",
+          "date": "927年",
+          "summary": "杨溥称帝。",
+          "paragraphs": [
+            "杨溥称帝。",
+            "江淮政权与中原王朝形式上分庭抗礼。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-937-162",
+          "title": "南唐取代吴国",
+          "date": "937年",
+          "summary": "李昪接受杨溥禅让。",
+          "paragraphs": [
+            "李昪接受杨溥禅让。",
+            "在江淮建立南唐。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 125
+    }
+  ]
+}

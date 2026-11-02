@@ -1,0 +1,325 @@
+{
+  "id": "ce-later-yan",
+  "people": [
+    {
+      "id": "ce-later-yan-af64b410f1",
+      "regimeId": "ce-later-yan",
+      "name": "慕容垂",
+      "personalName": "慕容垂",
+      "aliases": [],
+      "born": "326年",
+      "died": "396年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 384,
+          "end": 396,
+          "label": "384年—396年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "前燕宗室名将，避祸入前秦，淝水战后重返东方恢复燕号，逐步取得河北并灭西燕。晚年参合陂失利后亲征北魏，途中病逝；其死亡没有立刻终结后燕，河北与东北的后续分裂需要另读。"
+      ],
+      "highlights": [
+        {
+          "date": "369年",
+          "year": 369,
+          "title": "桓温枋头之败",
+          "text": "桓温北伐前燕，在枋头因补给困难及慕容垂反击失利，政治威望受到打击。",
+          "eventId": "ann-ce-0450"
+        },
+        {
+          "date": "384年",
+          "year": 384,
+          "title": "后燕与后秦兴起",
+          "text": "慕容垂与姚苌在前秦衰乱中各自建立政权，北方恢复为多个国家相互竞争的局面。",
+          "eventId": "ann-ce-0458"
+        }
+      ],
+      "assessment": "其经历体现政权变动中的军事人才及区域支持网络延续。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：淝水战后诸国与慕容氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-7f0fc970160a"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0450",
+          "title": "桓温枋头之败",
+          "date": "369年",
+          "summary": "桓温北伐前燕，在枋头因补给困难及慕容垂反击失利，政治威望受到打击。",
+          "paragraphs": [
+            "桓温北伐前燕，在枋头因补给困难及慕容垂反击失利，政治威望受到打击。",
+            "前线挫败促使强将转而在朝廷内争取权力。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85813—85813行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0458",
+          "title": "后燕与后秦兴起",
+          "date": "384年",
+          "summary": "慕容垂与姚苌在前秦衰乱中各自建立政权，北方恢复为多个国家相互竞争的局面。",
+          "paragraphs": [
+            "慕容垂与姚苌在前秦衰乱中各自建立政权，北方恢复为多个国家相互竞争的局面。",
+            "征服并未消除旧有区域精英和军事集团的独立资源。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四节 淝水战后北方的再分裂；用户提供合并整理本第86233—86233行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 176
+    },
+    {
+      "id": "ce-later-yan-d9efb24f79",
+      "regimeId": "ce-later-yan",
+      "name": "慕容宝",
+      "personalName": "慕容宝",
+      "aliases": [],
+      "born": "355年",
+      "died": "398年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 396,
+          "end": 398,
+          "label": "396年—398年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "慕容垂之子，参合陂领军失利，继位后又遭北魏进攻，后燕丧失河北大片地区。皇族与将领争位不断，宝在龙城方向被杀，政治中心向东北退缩。"
+      ],
+      "highlights": [
+        {
+          "date": "395年",
+          "year": 395,
+          "title": "参合陂之战",
+          "text": "北魏击败后燕军，双方实力对比发生重大变化，为北魏进入河北创造条件。",
+          "eventId": "ann-ce-0463"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：淝水战后诸国与慕容氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-7832b2f9ea4a"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0463",
+          "title": "参合陂之战",
+          "date": "395年",
+          "summary": "北魏击败后燕军，双方实力对比发生重大变化，为北魏进入河北创造条件。",
+          "paragraphs": [
+            "北魏击败后燕军，双方实力对比发生重大变化，为北魏进入河北创造条件。",
+            "边地新兴政权在关键战役后取代旧有地区强国。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 淝水之战与苻坚的败亡；用户提供合并整理本第86183—86183行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 132
+    },
+    {
+      "id": "ce-later-yan-97bf2cd8b4",
+      "regimeId": "ce-later-yan",
+      "name": "慕容详",
+      "personalName": "慕容详",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "397年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 397,
+          "end": 397,
+          "label": "397年—397年",
+          "role": "争位称帝者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "慕容宝离开中山后在当地自立称帝，面对北魏围攻和粮食短缺，内部支持薄弱，很快被慕容麟杀害。其帝号与慕容宝重叠，属于争位者，不能排成全国平稳的承继。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：淝水战后诸国与慕容氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "ce-later-yan-f476ea0088",
+      "regimeId": "ce-later-yan",
+      "name": "慕容麟",
+      "personalName": "慕容麟",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "398年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 397,
+          "end": 397,
+          "label": "397年—397年",
+          "role": "争位称帝者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "慕容垂之子，杀慕容详后在中山短暂自立，无法抵御北魏进攻，后转投慕容德，又因冲突被杀。军事据点与帝号不能等同已建成稳定国家。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：淝水战后诸国与慕容氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ce-later-yan-088b259e0f",
+      "regimeId": "ce-later-yan",
+      "name": "慕容盛",
+      "personalName": "慕容盛",
+      "aliases": [],
+      "born": "373年",
+      "died": "401年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 398,
+          "end": 401,
+          "label": "398年—401年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "慕容宝之子，后燕内乱中掌权，以龙城为中心维持政权。通过严厉控制处理贵族和将领，宫廷谋反接连出现，最后在冲突中受伤死亡。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：淝水战后诸国与慕容氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ce-later-yan-b42efeeb86",
+      "regimeId": "ce-later-yan",
+      "name": "慕容熙",
+      "personalName": "慕容熙",
+      "aliases": [],
+      "born": "385年",
+      "died": "407年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 401,
+          "end": 407,
+          "label": "401年—407年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "慕容垂之子，在慕容盛后掌权。宫廷营造、后妃政治和军事征发加重内外矛盾，407年冯跋等发动政变拥立高云，熙被杀，慕容氏后燕主线结束。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：淝水战后诸国与慕容氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "id": "ce-xia-helian",
+  "people": [
+    {
+      "id": "ce-xia-helian-c406de8a10",
+      "regimeId": "ce-xia-helian",
+      "name": "赫连勃勃",
+      "personalName": "赫连勃勃",
+      "aliases": [],
+      "born": "381年",
+      "died": "425年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 407,
+          "end": 425,
+          "label": "407年—425年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "本为匈奴铁弗刘氏，脱后秦独立建夏，改姓赫连，营统万城。刘裕军离关中后夺长安，统治兼有强大军事机动力与严酷征发、刑罚，不能只以建筑规模评价政绩。"
+      ],
+      "highlights": [
+        {
+          "date": "407年",
+          "year": 407,
+          "title": "赫连勃勃建立夏国",
+          "text": "赫连勃勃在统万一带建立夏国，利用边地军力与地理位置介入关陇争夺。",
+          "eventId": "ann-ce-0472"
+        },
+        {
+          "date": "418年",
+          "year": 418,
+          "title": "关中再失",
+          "text": "留守晋军内部不和，夏国攻占长安，南方短暂恢复关中的成果迅速丧失。",
+          "eventId": "ann-ce-0480"
+        }
+      ],
+      "assessment": "边地政治力量通过地理通道与机会性战争进入中原竞争。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：赫连夏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-b9025d95bfcb"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0472",
+          "title": "赫连勃勃建立夏国",
+          "date": "407年",
+          "summary": "赫连勃勃在统万一带建立夏国，利用边地军力与地理位置介入关陇争夺。",
+          "paragraphs": [
+            "赫连勃勃在统万一带建立夏国，利用边地军力与地理位置介入关陇争夺。",
+            "北方分裂政权依靠多种军事联盟而非固定族群边界。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 西、北各少数民族的内迁；用户提供合并整理本第84856—84856行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0480",
+          "title": "关中再失",
+          "date": "418年",
+          "summary": "留守晋军内部不和，夏国攻占长安，南方短暂恢复关中的成果迅速丧失。",
+          "paragraphs": [
+            "留守晋军内部不和，夏国攻占长安，南方短暂恢复关中的成果迅速丧失。",
+            "军队内部分裂和后勤薄弱会使征服成果难以维持。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 宋初内政及北强南弱局势的形成；用户提供合并整理本第87387—87387行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 160
+    },
+    {
+      "id": "ce-xia-helian-379c6c4746",
+      "regimeId": "ce-xia-helian",
+      "name": "赫连昌",
+      "personalName": "赫连昌",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "434年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 425,
+          "end": 428,
+          "label": "425年—428年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "勃勃之子，继位后面对北魏进攻，统万城等据点失守，428年被俘。夏残余由弟定继续领导，本人在北魏境内逃亡失败后被杀，失位与死亡不在同年。"
+      ],
+      "highlights": [
+        {
+          "date": "427年",
+          "year": 427,
+          "title": "北魏攻破统万城",
+          "text": "北魏击败夏国并取得统万，关陇和草原边缘的力量对比发生变化，北方统一加快。",
+          "eventId": "ann-ce-0485"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：赫连夏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-184883c7a166"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0485",
+          "title": "北魏攻破统万城",
+          "date": "427年",
+          "summary": "北魏击败夏国并取得统万，关陇和草原边缘的力量对比发生变化，北方统一加快。",
+          "paragraphs": [
+            "北魏击败夏国并取得统万，关陇和草原边缘的力量对比发生变化，北方统一加快。",
+            "拓跋政权通过控制军事与交通节点扩大整合能力。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四节 淝水战后北方的再分裂；用户提供合并整理本第86395—86395行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 138
+    },
+    {
+      "id": "ce-xia-helian-b5ade2762f",
+      "regimeId": "ce-xia-helian",
+      "name": "赫连定",
+      "personalName": "赫连定",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "432年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 428,
+          "end": 431,
+          "label": "428年—431年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在昌被俘后续掌夏的残余，曾灭西秦并谋向西发展。受北魏、吐谷浑等挤压，失去根据地后被吐谷浑所擒并送北魏，432年被杀，夏政权终止在431年。"
+      ],
+      "highlights": [
+        {
+          "date": "431年",
+          "year": 431,
+          "title": "夏国灭亡",
+          "text": "夏国在北魏等力量连续打击后消失，北方独立政权数量减少，统一趋势增强。",
+          "eventId": "ann-ce-0487"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：赫连夏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-6069292b1c4a"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0487",
+          "title": "夏国灭亡",
+          "date": "431年",
+          "summary": "夏国在北魏等力量连续打击后消失，北方独立政权数量减少，统一趋势增强。",
+          "paragraphs": [
+            "夏国在北魏等力量连续打击后消失，北方独立政权数量减少，统一趋势增强。",
+            "区域国家覆亡常是多方作用而非单次战争的结果。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四节 淝水战后北方的再分裂；用户提供合并整理本第86397—86397行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 138
+    }
+  ]
+}

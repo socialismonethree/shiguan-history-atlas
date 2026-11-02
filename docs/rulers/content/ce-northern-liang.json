@@ -1,0 +1,224 @@
+{
+  "id": "ce-northern-liang",
+  "people": [
+    {
+      "id": "ce-northern-liang-97471ba954",
+      "regimeId": "ce-northern-liang",
+      "name": "段业",
+      "personalName": "段业",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "401年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 397,
+          "end": 401,
+          "label": "397年—401年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "后凉地方官，在河西反吕氏势力支持下为建康公，后称凉王。军权实际依靠沮渠氏等集团，最后被沮渠蒙逊取代，体现名义国主与军事基础并不总相一致。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章及北魏统一北方相关章",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ce-northern-liang-76f34ab35c",
+      "regimeId": "ce-northern-liang",
+      "name": "沮渠蒙逊",
+      "personalName": "沮渠蒙逊",
+      "aliases": [],
+      "born": "368年",
+      "died": "433年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 401,
+          "end": 433,
+          "label": "401年—433年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "推翻段业掌权，经营张掖、姑臧，灭西凉并同南凉、后秦、北魏周旋。农业、交通与佛教文化共同构成北凉社会资源，不能将石窟与译经全部归为国主的个人功绩。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章及北魏统一北方相关章",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "ce-northern-liang-63a4d1b5f8",
+      "regimeId": "ce-northern-liang",
+      "name": "沮渠牧犍",
+      "personalName": "沮渠牧犍",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "447年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 433,
+          "end": 439,
+          "label": "433年—439年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继蒙逊为河西王，439年太武帝攻姑臧后投降，北凉在河西主线结束。被迁北魏平城，后来因政治指控被处死，个人死亡年与亡国年不同。"
+      ],
+      "highlights": [
+        {
+          "date": "439年",
+          "year": 439,
+          "title": "北魏灭北凉",
+          "text": "北魏攻占河西北凉，基本统一北方，南北朝对峙的主要格局形成。",
+          "eventId": "ann-ce-0489"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章及北魏统一北方相关章",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-2b6d051afea6"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0489",
+          "title": "北魏灭北凉",
+          "date": "439年",
+          "summary": "北魏攻占河西北凉，基本统一北方，南北朝对峙的主要格局形成。",
+          "paragraphs": [
+            "北魏攻占河西北凉，基本统一北方，南北朝对峙的主要格局形成。",
+            "河西丝路通道和人口资源被纳入更大国家体系。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 西、北各少数民族的内迁；用户提供合并整理本第84858—84858行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 126
+    },
+    {
+      "id": "ce-northern-liang-764a1644ea",
+      "regimeId": "ce-northern-liang",
+      "name": "沮渠无讳",
+      "personalName": "沮渠无讳",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "444年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 439,
+          "end": 444,
+          "label": "439年—444年",
+          "role": "高昌地区君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "河西失守后维持沮渠氏残余，辗转敦煌并向高昌发展。其政权是西域地区延续，不表示北凉仍连续控制姑臧，439年与高昌阶段须分清。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章及北魏统一北方相关章",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ce-northern-liang-67321c3d0f",
+      "regimeId": "ce-northern-liang",
+      "name": "沮渠安周",
+      "personalName": "沮渠安周",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "460年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 444,
+          "end": 460,
+          "label": "444年—460年",
+          "role": "高昌地区君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继无讳统治高昌一带，延续沮渠氏势力。460年柔然干预高昌并消灭该集团，此后高昌进入不同家族掌权阶段，与中原的名义关系也不等于直接管辖。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章及北魏统一北方相关章",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    }
+  ]
+}

@@ -1,0 +1,1562 @@
+{
+  "id": "wr-egypt-new",
+  "people": [
+    {
+      "id": "wr-eg-ahmose",
+      "regimeId": "wr-egypt-new",
+      "name": "雅赫摩斯一世",
+      "personalName": "雅赫摩斯一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十八王朝开端的重要统治者。",
+      "reigns": [
+        {
+          "start": -1550,
+          "end": -1525,
+          "label": "约前1550—前1525年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "底比斯王室出身，延续对喜克索斯的战争并重建统一王权。其统治通常作为新王国开端，军队、王室女性与地方支持网络均参与政权巩固。对外军事行动与国内恢复长期并行，不能只用“复国英雄”概括。"
+      ],
+      "highlights": [
+        {
+          "year": -1550,
+          "date": "约公元前1550年—公元前1290年",
+          "title": "埃及新王国与对外扩张（任内史事）",
+          "text": "王朝重新统一后，埃及向努比亚和黎凡特扩张，建立更广的贡赋与外交网络。王室工程和城市繁盛，同时对外战争与祭司资源日益影响政治。",
+          "eventId": "we-egyptnew"
+        },
+        {
+          "year": -1550,
+          "date": "约公元前1550年",
+          "title": "雅赫摩斯重建埃及统一（任内史事）",
+          "text": "驱逐喜克索斯后新王国形成，军队扩张和神庙经济支持更强中央王权。",
+          "eventId": "ann-chron-world-africa-0871"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-egyptnew",
+          "title": "埃及新王国与对外扩张",
+          "date": "约公元前1550年—公元前1290年",
+          "summary": "王朝重新统一后，埃及向努比亚和黎凡特扩张，建立更广的贡赋与外交网络。",
+          "paragraphs": [
+            "第二中间期的埃及存在地区分裂，喜克索斯统治者控制北方部分地区。底比斯王室在持续战争中扩大力量，重新统一与外部安全紧密相连。新王国因而不只是王朝更替，也是埃及对外政策和资源网络的转变。",
+            "雅赫摩斯及其王朝结束北方对手的统治，重新组织上下埃及。王室随后向努比亚与亚洲地区发展军事和政治影响，边疆驻军、贡赋与外交成为国家运作的一部分。",
+            "图特摩斯等统治者的远征把军队推向更北方；底比斯神庙持续扩建，王室陵墓与专门工匠聚落形成紧密联系。王室、阿蒙神庙和官僚通过资源分配共同支撑繁盛。",
+            "埃及成为东地中海的重要强国，获得远距离外交和商品交换网络；同时战争、建筑与宗教机构需要大量劳力与物资。",
+            "新王国留下神庙、王陵、外交文书和工匠生活记录，能够把宫廷政治与日常劳动联系起来。它也是理解埃及与西亚诸国竞争、婚盟和文化接触的关键时期。"
+          ],
+          "note": "埃及王室铭文经常把战争写作单方面胜利。帝国范围和实际控制强度应按地区区别，不能把所有远征到达之地画成稳定领土。",
+          "sources": [
+            {
+              "title": "埃及新王国：王权、信仰与外交",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/4-2-egypts-new-kingdom",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Egypt in the New Kingdom",
+              "url": "https://www.metmuseum.org/it/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+              "note": "大都会艺术博物馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-africa-0871",
+          "title": "雅赫摩斯重建埃及统一",
+          "date": "约公元前1550年",
+          "summary": "驱逐喜克索斯后新王国形成，军队扩张和神庙经济支持更强中央王权。",
+          "paragraphs": [
+            "驱逐喜克索斯后新王国形成，军队扩张和神庙经济支持更强中央王权。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "大英博物馆：非洲王国时间线",
+              "url": "https://www.britishmuseum.org/sites/default/files/2024-04/African_Kingdoms_Timeline.pdf",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 183
+    },
+    {
+      "id": "wr-eg-amenhotep1",
+      "regimeId": "wr-egypt-new",
+      "name": "阿蒙霍特普一世",
+      "personalName": "阿蒙霍特普一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "雅赫摩斯一世的继承者。",
+      "reigns": [
+        {
+          "start": -1525,
+          "end": -1504,
+          "label": "约前1525—前1504年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在新王国初期继续巩固王权与神庙建设，底比斯工匠社区后来长期崇奉他。后世祭祀地位与在世时期的直接政策应分开理解，墓葬与木乃伊资料也不等于完整个人传记。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 74
+    },
+    {
+      "id": "wr-eg-thutmose1",
+      "regimeId": "wr-egypt-new",
+      "name": "图特摩斯一世",
+      "personalName": "图特摩斯一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "哈特谢普苏特之父。",
+      "reigns": [
+        {
+          "start": -1504,
+          "end": -1492,
+          "label": "约前1504—前1492年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过对努比亚及亚洲方向的军事行动扩大埃及影响，帝国的国际空间进一步扩展。其家世、继承方式和早期陵墓归属存在若干讨论，不能把后世王室叙事全部当作无争议事实。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 77
+    },
+    {
+      "id": "wr-eg-thutmose2",
+      "regimeId": "wr-egypt-new",
+      "name": "图特摩斯二世",
+      "personalName": "图特摩斯二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯一世之子，图特摩斯三世之父。",
+      "reigns": [
+        {
+          "start": -1492,
+          "end": -1479,
+          "label": "约前1492—前1479年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承图特摩斯一世，与哈特谢普苏特的王室婚姻有助于理解继承安排。努比亚等地的政治军事活动见于资料，但个人生平较少。其去世后幼子图特摩斯三世登位，哈特谢普苏特先摄政，随后采用完整王号。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "wr-eg-thutmose3",
+      "regimeId": "wr-egypt-new",
+      "name": "图特摩斯三世",
+      "personalName": "图特摩斯三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯二世之子；与哈特谢普苏特的关系不应只用简单私仇解释。",
+      "reigns": [
+        {
+          "start": -1479,
+          "end": -1425,
+          "label": "约前1479—前1425年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年即位，与哈特谢普苏特长期共处王权结构。她去世后，图特摩斯三世在西亚连续用兵，米吉多战事及后续贡纳网络使埃及帝国达到新的军事影响范围。战争记述具有颂王功能，兵力、战果和君主形象需要结合铭文性质分析。"
+      ],
+      "highlights": [
+        {
+          "year": -1457,
+          "date": "公元前1457年",
+          "title": "图特摩斯三世米吉多战役（任内史事）",
+          "text": "埃及在黎凡特扩张，贡赋、驻军和地方属王网络支撑新王国势力。",
+          "eventId": "ann-chron-world-africa-0873"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-africa-0873",
+          "title": "图特摩斯三世米吉多战役",
+          "date": "公元前1457年",
+          "summary": "埃及在黎凡特扩张，贡赋、驻军和地方属王网络支撑新王国势力。",
+          "paragraphs": [
+            "埃及在黎凡特扩张，贡赋、驻军和地方属王网络支撑新王国势力。"
+          ],
+          "note": "古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "大英博物馆：非洲王国时间线",
+              "url": "https://www.britishmuseum.org/sites/default/files/2024-04/African_Kingdoms_Timeline.pdf",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        },
+        {
+          "id": "we-egyptnew",
+          "title": "埃及新王国与对外扩张",
+          "date": "约公元前1550年—公元前1290年",
+          "summary": "王朝重新统一后，埃及向努比亚和黎凡特扩张，建立更广的贡赋与外交网络。",
+          "paragraphs": [
+            "第二中间期的埃及存在地区分裂，喜克索斯统治者控制北方部分地区。底比斯王室在持续战争中扩大力量，重新统一与外部安全紧密相连。新王国因而不只是王朝更替，也是埃及对外政策和资源网络的转变。",
+            "雅赫摩斯及其王朝结束北方对手的统治，重新组织上下埃及。王室随后向努比亚与亚洲地区发展军事和政治影响，边疆驻军、贡赋与外交成为国家运作的一部分。",
+            "图特摩斯等统治者的远征把军队推向更北方；底比斯神庙持续扩建，王室陵墓与专门工匠聚落形成紧密联系。王室、阿蒙神庙和官僚通过资源分配共同支撑繁盛。",
+            "埃及成为东地中海的重要强国，获得远距离外交和商品交换网络；同时战争、建筑与宗教机构需要大量劳力与物资。",
+            "新王国留下神庙、王陵、外交文书和工匠生活记录，能够把宫廷政治与日常劳动联系起来。它也是理解埃及与西亚诸国竞争、婚盟和文化接触的关键时期。"
+          ],
+          "note": "埃及王室铭文经常把战争写作单方面胜利。帝国范围和实际控制强度应按地区区别，不能把所有远征到达之地画成稳定领土。",
+          "sources": [
+            {
+              "title": "埃及新王国：王权、信仰与外交",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/4-2-egypts-new-kingdom",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Egypt in the New Kingdom",
+              "url": "https://www.metmuseum.org/it/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+              "note": "大都会艺术博物馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 129
+    },
+    {
+      "id": "wr-eg-hatshepsut",
+      "regimeId": "wr-egypt-new",
+      "name": "哈特谢普苏特",
+      "personalName": "哈特谢普苏特",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯一世之女、图特摩斯二世的王后。",
+      "reigns": [
+        {
+          "start": -1479,
+          "end": -1473,
+          "label": "约前1479—前1473年",
+          "role": "摄政者",
+          "note": "为幼主辅政的阶段"
+        },
+        {
+          "start": -1473,
+          "end": -1458,
+          "label": "约前1473—前1458年",
+          "role": "法老（共治结构）",
+          "note": "采用完整王号，图特摩斯三世仍在王统之内"
+        }
+      ],
+      "life": [
+        "出身王室，最初在幼主图特摩斯三世即位后摄政，后来采用法老名号和相应王权图像。其统治经营贸易与资源网络，赴蓬特地区的远航和代尔巴哈里建筑是重要证据。使用男性化王权符号并不等于她隐瞒性别。她去世后部分名号和形象被毁，动机与时间均不能仅凭宫廷仇恨故事解释。"
+      ],
+      "highlights": [
+        {
+          "year": -1473,
+          "date": "约公元前1473年",
+          "title": "哈特谢普苏特执政（任内史事）",
+          "text": "女性法老通过神庙、贸易和王室形象争取合法性，蓬特远航体现红海交流。",
+          "eventId": "ann-chron-world-africa-0872"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-africa-0872",
+          "title": "哈特谢普苏特执政",
+          "date": "约公元前1473年",
+          "summary": "女性法老通过神庙、贸易和王室形象争取合法性，蓬特远航体现红海交流。",
+          "paragraphs": [
+            "女性法老通过神庙、贸易和王室形象争取合法性，蓬特远航体现红海交流。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "大英博物馆：非洲王国时间线",
+              "url": "https://www.britishmuseum.org/sites/default/files/2024-04/African_Kingdoms_Timeline.pdf",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        },
+        {
+          "id": "we-egyptnew",
+          "title": "埃及新王国与对外扩张",
+          "date": "约公元前1550年—公元前1290年",
+          "summary": "王朝重新统一后，埃及向努比亚和黎凡特扩张，建立更广的贡赋与外交网络。",
+          "paragraphs": [
+            "第二中间期的埃及存在地区分裂，喜克索斯统治者控制北方部分地区。底比斯王室在持续战争中扩大力量，重新统一与外部安全紧密相连。新王国因而不只是王朝更替，也是埃及对外政策和资源网络的转变。",
+            "雅赫摩斯及其王朝结束北方对手的统治，重新组织上下埃及。王室随后向努比亚与亚洲地区发展军事和政治影响，边疆驻军、贡赋与外交成为国家运作的一部分。",
+            "图特摩斯等统治者的远征把军队推向更北方；底比斯神庙持续扩建，王室陵墓与专门工匠聚落形成紧密联系。王室、阿蒙神庙和官僚通过资源分配共同支撑繁盛。",
+            "埃及成为东地中海的重要强国，获得远距离外交和商品交换网络；同时战争、建筑与宗教机构需要大量劳力与物资。",
+            "新王国留下神庙、王陵、外交文书和工匠生活记录，能够把宫廷政治与日常劳动联系起来。它也是理解埃及与西亚诸国竞争、婚盟和文化接触的关键时期。"
+          ],
+          "note": "埃及王室铭文经常把战争写作单方面胜利。帝国范围和实际控制强度应按地区区别，不能把所有远征到达之地画成稳定领土。",
+          "sources": [
+            {
+              "title": "埃及新王国：王权、信仰与外交",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/4-2-egypts-new-kingdom",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Egypt in the New Kingdom",
+              "url": "https://www.metmuseum.org/it/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+              "note": "大都会艺术博物馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 158
+    },
+    {
+      "id": "wr-eg-amenhotep2",
+      "regimeId": "wr-egypt-new",
+      "name": "阿蒙霍特普二世",
+      "personalName": "阿蒙霍特普二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯三世之子。",
+      "reigns": [
+        {
+          "start": -1427,
+          "end": -1400,
+          "label": "约前1427—前1400年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以军事与王室体能形象展示继承合法性，继续在西亚维持埃及的统治网络。战争铭文既记录行动，也放大君主理想形象。其约数在位起年与前任末年重叠，涉及共治及断代解释，不据图表直接断言同日独立在位。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "wr-eg-thutmose4",
+      "regimeId": "wr-egypt-new",
+      "name": "图特摩斯四世",
+      "personalName": "图特摩斯四世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "阿蒙霍特普二世之子、阿蒙霍特普三世之父。",
+      "reigns": [
+        {
+          "start": -1400,
+          "end": -1390,
+          "label": "约前1400—前1390年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以吉萨狮身人面像旁的梦碑等材料闻名，碑文把继承合法性与神意联系起来。它是理解王权自我表述的重要文本，却不能无条件视为国王真实梦境的记录。其统治同时参与近东国际外交网络。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "wr-eg-amenhotep3",
+      "regimeId": "wr-egypt-new",
+      "name": "阿蒙霍特普三世",
+      "personalName": "阿蒙霍特普三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯四世之子；提伊为其王后，埃赫那吞之父。",
+      "reigns": [
+        {
+          "start": -1390,
+          "end": -1352,
+          "label": "约前1390—前1352年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期统治中开展规模宏大的建筑和宫廷工艺活动，通过外交婚姻、礼物交换与近东诸国维持关系。王后泰伊拥有显著政治和宗教地位。繁荣的宫廷图像与神化王权表达，不应被直接当作所有居民生活富足的证据。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "wr-eg-akhenaten",
+      "regimeId": "wr-egypt-new",
+      "name": "埃赫那吞",
+      "personalName": "埃赫那吞",
+      "aliases": [
+        "阿蒙霍特普四世"
+      ],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "阿蒙霍特普三世与泰伊之子，王后娜芙蒂蒂。",
+      "reigns": [
+        {
+          "start": -1353,
+          "end": -1336,
+          "label": "约前1353—前1336年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位时名为阿蒙霍特普四世，后来强化对阿吞的崇拜，改名并将宫廷迁至阿赫塔顿。宗教、王室图像与艺术表现随之变化，王后娜芙蒂蒂在王权表达中十分突出。改革与行政、外交和神庙经济关系复杂，不能简单用“发明一神教”概括，更不能把艺术变形当作医学诊断。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 119
+    },
+    {
+      "id": "wr-eg-neferneferuaten",
+      "regimeId": "wr-egypt-new",
+      "name": "尼弗尔尼弗鲁阿吞",
+      "personalName": "尼弗尔尼弗鲁阿吞",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "身份未定，可能与阿玛尔纳王室女性有关。",
+      "reigns": [
+        {
+          "start": -1338,
+          "end": -1336,
+          "label": "约前1338—前1336年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "阿玛尔纳时期后段使用此王号的统治者，王室身份和与娜芙蒂蒂等人的关系仍有研究争议。名号、器物改刻和墓葬材料提供线索，但不足以支持无争议的详细个人生平。保留独立条目是为了呈现史料问题，而非宣称其身份已确定。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。",
+        "与娜芙蒂蒂等人的身份对应仍有争论。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "wr-eg-smenkhkare",
+      "regimeId": "wr-egypt-new",
+      "name": "斯门卡拉",
+      "personalName": "斯门卡拉",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "王室关系未获一致确认。",
+      "reigns": [
+        {
+          "start": -1336,
+          "end": -1336,
+          "label": "约前1336—前1336年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "处于埃赫那吞与图坦卡蒙之间的短暂王权阶段，名号与墓葬资料的归属长期受到讨论。是否共治、具体起讫及与其他王室人物的身份区分不能只靠一张王表解决，本条保留可考称号和大致位置。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 85
+    },
+    {
+      "id": "wr-eg-tutankhamun",
+      "regimeId": "wr-egypt-new",
+      "name": "图坦卡蒙",
+      "personalName": "图坦卡蒙",
+      "aliases": [
+        "图坦哈蒙"
+      ],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "阿玛尔纳王室成员；配偶安赫森阿蒙。",
+      "reigns": [
+        {
+          "start": -1336,
+          "end": -1327,
+          "label": "约前1336—前1327年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，在大臣与宫廷力量支持下逐步恢复阿蒙等传统神祇的地位，王名也从与阿吞相关的形式改变。1922年发现的墓葬保存大量器物，使他成为现代最知名法老之一。墓葬知名度与在位时的政治影响不是同一件事，死因、亲属关系和墓中物件原属仍需结合不同证据判断。"
+      ],
+      "highlights": [
+        {
+          "year": -1332,
+          "date": "约公元前1332年",
+          "title": "图坦卡蒙即位（任内史事）",
+          "text": "宫廷逐步恢复阿蒙等传统崇拜，王朝努力修复宗教与精英联盟。",
+          "eventId": "ann-chron-world-africa-0875"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-africa-0875",
+          "title": "图坦卡蒙即位",
+          "date": "约公元前1332年",
+          "summary": "宫廷逐步恢复阿蒙等传统崇拜，王朝努力修复宗教与精英联盟。",
+          "paragraphs": [
+            "宫廷逐步恢复阿蒙等传统崇拜，王朝努力修复宗教与精英联盟。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "大英博物馆：非洲王国时间线",
+              "url": "https://www.britishmuseum.org/sites/default/files/2024-04/African_Kingdoms_Timeline.pdf",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 151
+    },
+    {
+      "id": "wr-eg-ay",
+      "regimeId": "wr-egypt-new",
+      "name": "阿伊",
+      "personalName": "阿伊",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "与阿玛尔纳王室关系密切，确切亲属链有争论。",
+      "reigns": [
+        {
+          "start": -1327,
+          "end": -1323,
+          "label": "约前1327—前1323年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾是王室重臣，在图坦卡蒙去世后取得法老地位。其继承与王室婚姻、葬祭安排之间存在讨论，不能把后世侦探式猜想写成已证实宫廷谋杀。在位短暂，随后王权转向将领霍伦海布。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 80
+    },
+    {
+      "id": "wr-eg-horemheb",
+      "regimeId": "wr-egypt-new",
+      "name": "霍伦海布",
+      "personalName": "霍伦海布",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "军事官僚出身，第十八王朝末期统治者。",
+      "reigns": [
+        {
+          "start": -1323,
+          "end": -1295,
+          "label": "约前1323—前1295年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "由军事与行政地位升为法老，整顿官员和国家秩序，并在王室记忆中淡化前几位阿玛尔纳时期统治者。其政治遗产包括制度修复与对历史形象的主动重写。无直系继承者时，将军帕拉美苏继承并成为拉美西斯一世。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "wr-eg-ramesses1",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯一世",
+      "personalName": "拉美西斯一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞提一世之父。",
+      "reigns": [
+        {
+          "start": -1295,
+          "end": -1294,
+          "label": "约前1295—前1294年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原名帕拉美苏，拥有军政履历，被霍伦海布选为继承人，建立第十九王朝的王室主线。在位极短，国家建设更多由儿子塞提一世继续。其开朝意义来自继承安排，不宜据王朝后来强盛虚构其短期政绩。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 88
+    },
+    {
+      "id": "wr-eg-seti1",
+      "regimeId": "wr-egypt-new",
+      "name": "塞提一世",
+      "personalName": "塞提一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯一世之子、拉美西斯二世之父。",
+      "reigns": [
+        {
+          "start": -1294,
+          "end": -1279,
+          "label": "约前1294—前1279年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承父亲的新王朝，向西亚和努比亚用兵并恢复王室威望。阿拜多斯神庙与精美陵墓保存王权、祭祀与历史记忆的材料，王表选择哪些前王入列本身也体现合法性政治。拉美西斯二世后来延续其军事与建筑传统。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "wr-eg-ramesses2",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯二世",
+      "personalName": "拉美西斯二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "埃及第十九王朝王室，塞提一世之子。",
+      "family": "塞提一世之子；王室成员包括娜芙塔莉等，麦伦普塔是其继承人。",
+      "reigns": [
+        {
+          "start": -1279,
+          "end": -1213,
+          "label": "约前1279—前1213年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "拉美西斯二世是新王国统治时间最长、纪念物最丰富的法老之一。他在西亚与赫梯竞争，也以神庙、巨像和铭文把自己的形象铺展到埃及与努比亚，是理解王权宣传和帝国外交的典型人物。",
+        "在卡迭石与赫梯军队交战，王室文字把国王塑造成扭转危局的英雄。长期竞争之后，埃及和赫梯通过条约与婚姻缓和关系。",
+        "在多个宗教中心扩建或重修建筑，巨型雕像和刻写王名强化其存在感。部分旧作品被重新题名，需区别原始制作与后期改刻。",
+        "与赫梯的和平条约显示强国竞争可经协商转为稳定关系。",
+        "王室工程和大量纪念铭文，为研究宗教、战争、工匠与统治观念留下材料。"
+      ],
+      "highlights": [
+        {
+          "year": -1279,
+          "date": "公元前1279年",
+          "title": "拉美西斯二世即位（任内史事）",
+          "text": "战争、外交和大型神庙营建共同构成长期统治形象。",
+          "eventId": "ann-chron-world-africa-0876"
+        },
+        {
+          "year": -1274,
+          "date": "约公元前1274年—公元前1259年",
+          "title": "卡迭石之战与埃及赫梯条约（任内史事）",
+          "text": "拉美西斯二世与赫梯军队交战，后双方以条约处理安全与外交关系。埃及与赫梯关系缓和，留下重要的古代外交文书。",
+          "eventId": "we-kadesh"
+        }
+      ],
+      "assessment": "后世常把他与埃及法老形象相连，实际历史既含威严展示，也含资源动员和边疆战争。",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。",
+        "战争铭文是胜利宣传，不能不加比较地接受；生年约数与在位起讫须区分，古代年表不同方案还会影响战役确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        },
+        {
+          "title": "Ramesses II: ruler record",
+          "url": "https://www.britishmuseum.org/collection/term/BIOG55529",
+          "note": "大英博物馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+        },
+        {
+          "title": "Egypt in the New Kingdom",
+          "url": "https://www.metmuseum.org/it/essays/egypt-in-the-new-kingdom-ca-1550-1070-b-c",
+          "note": "大都会艺术博物馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+        }
+      ],
+      "works": [
+        {
+          "title": "阿布辛贝神庙",
+          "note": "其统治时期的重要努比亚营建。"
+        },
+        {
+          "title": "拉美西姆等工程",
+          "note": "王室赞助与集体施工，不是个人创作的建筑全集。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-africa-0876",
+          "title": "拉美西斯二世即位",
+          "date": "公元前1279年",
+          "summary": "战争、外交和大型神庙营建共同构成长期统治形象。",
+          "paragraphs": [
+            "战争、外交和大型神庙营建共同构成长期统治形象。"
+          ],
+          "note": "古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "大英博物馆：非洲王国时间线",
+              "url": "https://www.britishmuseum.org/sites/default/files/2024-04/African_Kingdoms_Timeline.pdf",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        },
+        {
+          "id": "we-kadesh",
+          "title": "卡迭石之战与埃及赫梯条约",
+          "date": "约公元前1274年—公元前1259年",
+          "summary": "拉美西斯二世与赫梯军队交战，后双方以条约处理安全与外交关系。",
+          "paragraphs": [
+            "拉美西斯二世与赫梯军队交战，后双方以条约处理安全与外交关系。",
+            "王室战功宣传与实际战局存在差别，条约显示大国竞争也依靠协商。",
+            "埃及与赫梯关系缓和，留下重要的古代外交文书。"
+          ],
+          "note": "战争常用前1274，条约常用前1259／1258，不是最早人类和平条约的无争议结论。",
+          "sources": [
+            {
+              "title": "埃及新王国：王权、信仰与外交",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/4-2-egypts-new-kingdom",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 363
+    },
+    {
+      "id": "wr-eg-merneptah",
+      "regimeId": "wr-egypt-new",
+      "name": "麦伦普塔",
+      "personalName": "麦伦普塔",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯二世之子。",
+      "reigns": [
+        {
+          "start": -1213,
+          "end": -1203,
+          "label": "约前1213—前1203年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在父亲拉美西斯二世漫长统治后较晚继位，面对利比亚方向的军事压力。胜利碑中的族群和地区名称是近东历史的重要材料，但颂功文本不能自动作为战争细节的完整记录。其去世后继承竞争更为复杂。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "wr-eg-amenmesse",
+      "regimeId": "wr-egypt-new",
+      "name": "阿蒙麦西斯",
+      "personalName": "阿蒙麦西斯",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "与拉美西斯王室的确切关系有争议。",
+      "reigns": [
+        {
+          "start": -1203,
+          "end": -1200,
+          "label": "约前1203—前1200年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第十九王朝末期争位中的统治者，控制区域与同塞提二世的关系仍有不同解释。器物与铭文改刻反映政治竞争，却不足以让其家世与夺权过程完全确定。不能把王表的顺排误解为所有地区都依次和平交接。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "wr-eg-seti2",
+      "regimeId": "wr-egypt-new",
+      "name": "塞提二世",
+      "personalName": "塞提二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "通常认为是麦伦普塔之子；塔沃斯雷特的配偶。",
+      "reigns": [
+        {
+          "start": -1200,
+          "end": -1194,
+          "label": "约前1200—前1194年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在第十九王朝继承危机中确立王权，其与阿蒙麦西斯的先后、重叠及地域控制需结合遗存讨论。王后塔沃斯雷特、王子西普塔和大臣势力随后参与继承政治，反映中央王权的不稳定。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 80
+    },
+    {
+      "id": "wr-eg-siptah",
+      "regimeId": "wr-egypt-new",
+      "name": "西普塔",
+      "personalName": "西普塔",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "父系与王室位置有争论。",
+      "reigns": [
+        {
+          "start": -1194,
+          "end": -1188,
+          "label": "约前1194—前1188年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年少即位，实际治理依赖王后塔沃斯雷特与重臣等力量。其个人身体情况、父系及继承背景有不同讨论，不能直接以木乃伊发现给出生平定论。去世后塔沃斯雷特采用完整王号，王朝不久再次更替。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 87
+    },
+    {
+      "id": "wr-eg-tawosret",
+      "regimeId": "wr-egypt-new",
+      "name": "塔沃斯雷特",
+      "personalName": "塔沃斯雷特",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞提二世的王后。",
+      "reigns": [
+        {
+          "start": -1188,
+          "end": -1186,
+          "label": "约前1188—前1186年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "先以王后及幼主辅政者身份参与政治，西普塔去世后成为独立使用王号的女性统治者。其统治处于王朝末期纷争之中，后来的第二十王朝叙事对前期局面带有合法性修饰，具体结束方式仍需慎用。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 86
+    },
+    {
+      "id": "wr-eg-setnakhte",
+      "regimeId": "wr-egypt-new",
+      "name": "塞特纳赫特",
+      "personalName": "塞特纳赫特",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯三世之父。",
+      "reigns": [
+        {
+          "start": -1186,
+          "end": -1184,
+          "label": "约前1186—前1184年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在第十九王朝末期动荡之后建立新的王室主线，其整顿混乱的叙述带有新王朝合法性表达。短暂统治后由儿子拉美西斯三世继承，不能只凭后来王朝对前任的批评复原全部政变过程。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 80
+    },
+    {
+      "id": "wr-eg-ramesses3",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯三世",
+      "personalName": "拉美西斯三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞特纳赫特之子。",
+      "reigns": [
+        {
+          "start": -1184,
+          "end": -1153,
+          "label": "约前1184—前1153年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "面对利比亚集团和“海上民族”等军事压力，以麦迪奈特哈布建筑铭文等展示防御胜利。战争、神庙捐献与财政压力同时存在，德尔麦地那工匠停工反映国家供给问题。晚年的后宫阴谋与其死亡有关，但司法记录、木乃伊证据和个别责任判断需要分别检视。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "wr-eg-ramesses4",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯四世",
+      "personalName": "拉美西斯四世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯三世之子。",
+      "reigns": [
+        {
+          "start": -1153,
+          "end": -1147,
+          "label": "约前1153—前1147年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在拉美西斯三世末年的宫廷阴谋之后继位，王室继承与追查案件构成开端背景。组织采石和建筑活动，但统治期不足以重建此前帝国资源格局。现存王室材料为理解新王国晚期行政提供线索。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "wr-eg-ramesses5",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯五世",
+      "personalName": "拉美西斯五世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1147,
+          "end": -1143,
+          "label": "约前1147—前1143年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在新王国晚期短暂统治，土地与财政文书使研究者得以观察国家、神庙和耕地关系。木乃伊的医学解释及死因判断存在不确定性，不能把猜测疾病写为无争议结论。王位随后转向拉美西斯六世。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 85
+    },
+    {
+      "id": "wr-eg-ramesses6",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯六世",
+      "personalName": "拉美西斯六世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯三世家族成员。",
+      "reigns": [
+        {
+          "start": -1143,
+          "end": -1136,
+          "label": "约前1143—前1136年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承第二十王朝的统治，在财政与国际影响减弱的环境下维持王室工程和葬祭。其帝王谷陵墓以天文、宗教图像著称，陵墓艺术说明王权表达仍在延续，却不能证明军政实力同步增强。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 81
+    },
+    {
+      "id": "wr-eg-ramesses7",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯七世",
+      "personalName": "拉美西斯七世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1136,
+          "end": -1129,
+          "label": "约前1136—前1129年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "处于第二十王朝后期，文书反映物价、粮食和供给等日常治理问题。可确证个人经历有限，因此本条不为其编造一套与同代每王相同的改革功绩；重点保留在位区间与史料环境。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 78
+    },
+    {
+      "id": "wr-eg-ramesses8",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯八世",
+      "personalName": "拉美西斯八世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "通常与拉美西斯三世家族相联系。",
+      "reigns": [
+        {
+          "start": -1129,
+          "end": -1126,
+          "label": "约前1129—前1126年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在第二十王朝末期短暂在位，保存的个人资料极少，确切统治长度在不同断代中有差别。其名号在王室遗存中提供承继线索，不能以少量材料复原详细宫廷活动。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 71
+    },
+    {
+      "id": "wr-eg-ramesses9",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯九世",
+      "personalName": "拉美西斯九世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1126,
+          "end": -1108,
+          "label": "约前1126—前1108年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "统治时期盗墓调查文书为研究王室葬地、地方官员及司法程序提供重要材料。墓葬被盗不只是道德失范，也与经济压力、行政关系和葬祭资源有关。底比斯神职集团的地位在这一时代更值得关注。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 86
+    },
+    {
+      "id": "wr-eg-ramesses10",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯十世",
+      "personalName": "拉美西斯十世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝王室关系仍有未明之处。",
+      "reigns": [
+        {
+          "start": -1108,
+          "end": -1099,
+          "label": "约前1108—前1099年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第二十王朝后段统治者，现存个人政事较少，相关工匠与行政记录不能自动视为国王亲自处理的行动。其在位长度和绝对起讫存在断代差异，本版沿用注明出处的约数，保留研究空白。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 81
+    },
+    {
+      "id": "wr-eg-ramesses11",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯十一世",
+      "personalName": "拉美西斯十一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝末代统治者。",
+      "reigns": [
+        {
+          "start": -1099,
+          "end": -1070,
+          "label": "约前1099—前1070年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "新王国末期，北方政治力量与底比斯阿蒙神庙集团地位上升，统一王权逐步分化。“复兴纪年”和军事官员、大神官活动显示地方权力结构重组。其死后通常进入第二十一王朝及第三中间期，但这一变化不是一天突然完成。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    }
+  ]
+}

@@ -1,0 +1,2147 @@
+{
+  "id": "ww-britain",
+  "people": [
+    {
+      "id": "ww-a0c149410a5c",
+      "regimeId": "ww-britain",
+      "name": "威廉一世",
+      "personalName": "威廉一世",
+      "aliases": [],
+      "born": "约1028年",
+      "died": "1087年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1066,
+          "end": 1087,
+          "label": "1066—1087年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为诺曼底公爵，因英格兰王位继承争端越海征服。击败哈罗德后，他以城堡、土地重分配和教会人事调整巩固统治；《末日审判书》显示王权对地方财产与赋役的调查能力。北方镇压造成严重破坏，征服也使英格兰与法国大陆的政治联系更加紧密。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：威廉一世",
+          "url": "https://www.royal.uk/william-the-conqueror",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ww-f871c26a36c3",
+      "regimeId": "ww-britain",
+      "name": "威廉二世",
+      "personalName": "威廉二世",
+      "aliases": [],
+      "born": "约1056年",
+      "died": "1100年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1087,
+          "end": 1100,
+          "label": "1087—1100年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "威廉一世之子，在兄长罗伯特取得诺曼底后继承英格兰。贵族叛乱和海峡两岸的权力竞争贯穿其统治；他与坎特伯雷大主教安瑟伦因教会权利和收入发生冲突。1100年在新森林狩猎时中箭身亡，弟弟亨利迅速取得王位；不能仅凭突然死亡便认定某一种谋杀阴谋。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：威廉二世",
+          "url": "https://www.royal.uk/william-rufus",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 117
+    },
+    {
+      "id": "ww-b427a2991b7c",
+      "regimeId": "ww-britain",
+      "name": "亨利一世",
+      "personalName": "亨利一世",
+      "aliases": [],
+      "born": "1068年",
+      "died": "1135年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1100,
+          "end": 1135,
+          "label": "1100—1135年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "趁威廉二世死后取得王位，后在坦什布赖击败兄长，使英格兰与诺曼底重新受同一君主控制。他发展财政与司法管理，然而唯一婚生儿子在白船事故中遇难，使继承安排转向女儿玛蒂尔达。贵族宣誓未能阻止他死后的王位内战。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：亨利一世",
+          "url": "https://www.royal.uk/henry-i",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-c70efca2ae1b",
+      "regimeId": "ww-britain",
+      "name": "斯蒂芬",
+      "personalName": "斯蒂芬",
+      "aliases": [],
+      "born": "约1092—1096年",
+      "died": "1154年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1135,
+          "end": 1154,
+          "label": "1135—1154年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "诺曼王室外孙，在亨利一世死后抢先受冠，与玛蒂尔达争夺王位。林肯战役被俘后获交换释放，双方依靠不同贵族网络长期对抗。其子尤斯塔斯先于他死去，1153年的和解承认玛蒂尔达之子亨利为继承人，为内战终结铺路。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：斯蒂芬",
+          "url": "https://www.royal.uk/stephen-and-matilda",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-fa75a941606a",
+      "regimeId": "ww-britain",
+      "name": "玛蒂尔达",
+      "personalName": "玛蒂尔达",
+      "aliases": [],
+      "born": "1102年",
+      "died": "1167年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1141,
+          "end": 1141,
+          "label": "1141年",
+          "role": "争位者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "亨利一世之女，曾嫁神圣罗马皇帝亨利五世，寡居后嫁安茹的若弗鲁瓦。她作为指定继承人与斯蒂芬争位，1141年一度取得优势并使用英格兰女主人称号，却未获正式加冕。此后继续经营儿子亨利的继承事业；应作为争位和实际掌权人物阅读，而非与已加冕君主完全等同。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "1141年表示争位期间一度取得的政治优势，未正式加冕；不是完整承认的统治期。"
+      ],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：玛蒂尔达",
+          "url": "https://www.royal.uk/stephen-and-matilda",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 122
+    },
+    {
+      "id": "ww-88cf07b9ee7f",
+      "regimeId": "ww-britain",
+      "name": "亨利二世",
+      "personalName": "亨利二世",
+      "aliases": [],
+      "born": "1133年",
+      "died": "1189年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1154,
+          "end": 1189,
+          "label": "1154—1189年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "玛蒂尔达与安茹伯爵之子，继承英格兰并控制法国大片领地。他巡回处理王室事务，推动王室司法与陪审制度发展，与大主教托马斯·贝克特的冲突以教堂谋杀造成震动。晚年王子们在法国国王支持下多次反叛，显示跨海王朝领地并非稳固的统一国家。"
+      ],
+      "highlights": [
+        {
+          "date": "1154年",
+          "year": 1154,
+          "title": "金雀花王朝建立",
+          "text": "亨利二世统治英格兰及法国广阔领地，复合法权与英法竞争进一步加深。",
+          "eventId": "ann-chron-world-europe-0129"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：亨利二世",
+          "url": "https://www.royal.uk/henry-ii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0129",
+          "title": "金雀花王朝建立",
+          "date": "1154年",
+          "summary": "亨利二世统治英格兰及法国广阔领地，复合法权与英法竞争进一步加深。",
+          "paragraphs": [
+            "亨利二世统治英格兰及法国广阔领地，复合法权与英法竞争进一步加深。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 143
+    },
+    {
+      "id": "ww-28d7dfcf4b6a",
+      "regimeId": "ww-britain",
+      "name": "理查一世",
+      "personalName": "理查一世",
+      "aliases": [],
+      "born": "1157年",
+      "died": "1199年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1189,
+          "end": 1199,
+          "label": "1189—1199年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "亨利二世与阿基坦的埃莉诺之子，长期活动于法国和地中海。第三次十字军东征使其获得狮心王声名，但远征、赎金及大陆战争给王室财政施压。返回欧洲途中被拘押，获释后与法国国王作战，最终死于围城时所受的箭伤；英雄传说不等于对其财政与战争代价的完整评价。"
+      ],
+      "highlights": [
+        {
+          "date": "1189年",
+          "year": 1189,
+          "title": "第三次十字军东征",
+          "text": "萨拉丁收复耶路撒冷后，欧洲君主再次远征，最终以部分沿海控制和朝圣安排妥协。",
+          "eventId": "ann-chron-world-europe-0131"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：理查一世",
+          "url": "https://www.royal.uk/richard-i",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0131",
+          "title": "第三次十字军东征",
+          "date": "1189年",
+          "summary": "萨拉丁收复耶路撒冷后，欧洲君主再次远征，最终以部分沿海控制和朝圣安排妥协。",
+          "paragraphs": [
+            "萨拉丁收复耶路撒冷后，欧洲君主再次远征，最终以部分沿海控制和朝圣安排妥协。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 157
+    },
+    {
+      "id": "ww-6dd72f098109",
+      "regimeId": "ww-britain",
+      "name": "约翰王",
+      "personalName": "约翰王",
+      "aliases": [],
+      "born": "1166年",
+      "died": "1216年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1199,
+          "end": 1216,
+          "label": "1199—1216年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "理查一世死后继位，与侄辈的继承竞争及法国战争交织。诺曼底等大陆领地丧失，征税和司法措施引起贵族反对；与教廷的冲突又加剧政治困境。1215年接受《大宪章》，不久内战再起。他死后，幼子亨利三世名下重新颁布宪章，成为王权与臣属关系长期演变的一环。"
+      ],
+      "highlights": [
+        {
+          "date": "1215年",
+          "year": 1215,
+          "title": "大宪章与王权约束",
+          "text": "英王约翰在与贵族的冲突中接受宪章，对税收、司法和王权行为作出约束。",
+          "eventId": "we-magna"
+        },
+        {
+          "year": 1215,
+          "date": "1215年",
+          "title": "《大宪章》签署（任内史事）",
+          "text": "英格兰贵族限制约翰王的部分权力，条款后来被不断重新解释和扩展。",
+          "eventId": "ann-chron-world-europe-0134"
+        }
+      ],
+      "assessment": "王权约束产生于政治博弈，不是君主主动赐予普遍民主。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：约翰王",
+          "url": "https://www.royal.uk/john-lackland",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "大宪章的产生与意义",
+          "url": "https://www.parliament.uk/magnacarta/",
+          "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-magna",
+          "title": "大宪章与王权约束",
+          "date": "1215年",
+          "summary": "英王约翰在与贵族的冲突中接受宪章，对税收、司法和王权行为作出约束。",
+          "paragraphs": [
+            "英王约翰在与贵族的冲突中接受宪章，对税收、司法和王权行为作出约束。",
+            "宪章提出王权须受既有法律约束，最初主要保障特定阶层权益。",
+            "文本多次重颁、重释，后来成为议会及法治传统的重要资源。"
+          ],
+          "note": "不把1215年的贵族权利文件直接等同现代普遍民主。",
+          "sources": [
+            {
+              "title": "大宪章的产生与意义",
+              "url": "https://www.parliament.uk/magnacarta/",
+              "note": "英国议会；用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-europe-0134",
+          "title": "《大宪章》签署",
+          "date": "1215年",
+          "summary": "英格兰贵族限制约翰王的部分权力，条款后来被不断重新解释和扩展。",
+          "paragraphs": [
+            "英格兰贵族限制约翰王的部分权力，条款后来被不断重新解释和扩展。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 209
+    },
+    {
+      "id": "ww-2a6d8e3bf38d",
+      "regimeId": "ww-britain",
+      "name": "亨利三世",
+      "personalName": "亨利三世",
+      "aliases": [],
+      "born": "1207年",
+      "died": "1272年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1216,
+          "end": 1272,
+          "label": "1216—1272年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年在内战中继位，由威廉·马歇尔等人辅佐；最初任务是恢复王朝权威。成年后财政需求、外戚和宠臣的影响引发贵族反抗，牛津条例及西蒙·德·孟福尔的政治实践推动议会发展。1265年伊夫舍姆战役后王室重获主动，但政治协商制度并未因此消失。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：亨利三世",
+          "url": "https://www.royal.uk/henry-iii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 114
+    },
+    {
+      "id": "ww-be8e3f79eb7c",
+      "regimeId": "ww-britain",
+      "name": "爱德华一世",
+      "personalName": "爱德华一世",
+      "aliases": [],
+      "born": "1239年",
+      "died": "1307年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1272,
+          "end": 1307,
+          "label": "1272—1307年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "亨利三世之子，曾参加十字军，继位后加强立法、司法与财政协商。他征服威尔士并兴建城堡，随后介入苏格兰继承争端，激起持久反抗。1290年驱逐犹太人是其统治中的迫害政策；立法君主的形象必须与战争、征敛和排斥同时理解。"
+      ],
+      "highlights": [
+        {
+          "date": "1295年",
+          "year": 1295,
+          "title": "英格兰模范议会",
+          "text": "爱德华一世扩大征税协商中的代表参与，为后续两院制度积累实践。",
+          "eventId": "ann-chron-world-europe-0144"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：爱德华一世",
+          "url": "https://www.royal.uk/edward-i-longshanks",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0144",
+          "title": "英格兰模范议会",
+          "date": "1295年",
+          "summary": "爱德华一世扩大征税协商中的代表参与，为后续两院制度积累实践。",
+          "paragraphs": [
+            "爱德华一世扩大征税协商中的代表参与，为后续两院制度积累实践。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 135
+    },
+    {
+      "id": "ww-586b3e0f59c2",
+      "regimeId": "ww-britain",
+      "name": "爱德华二世",
+      "personalName": "爱德华二世",
+      "aliases": [],
+      "born": "1284年",
+      "died": "1327年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1307,
+          "end": 1327,
+          "label": "1307—1327年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承父亲尚未结束的苏格兰战争，却在班诺克本遭受重大失败。他依赖加韦斯顿和德斯潘瑟家族，引发王室内部与贵族集团的长期冲突。王后伊莎贝拉与莫蒂默组织进攻后迫使其退位；被囚后的死亡细节存在争论，不能把后世流传的酷刑故事视为确证。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：爱德华二世",
+          "url": "https://www.royal.uk/edward-ii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "ww-3c43a05abb74",
+      "regimeId": "ww-britain",
+      "name": "爱德华三世",
+      "personalName": "爱德华三世",
+      "aliases": [],
+      "born": "1312年",
+      "died": "1377年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1327,
+          "end": 1377,
+          "label": "1327—1377年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "最初在母亲与莫蒂默控制下登位，亲政后清除莫蒂默。他以法国王位继承权等争端为背景发动战争，英军在克雷西和普瓦捷获胜；黑死病则深刻改变人口、劳动力与社会关系。晚年王朝继承和财政政治问题加重，长期战争并未让全部法国领地成为稳定收益。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：爱德华三世",
+          "url": "https://www.royal.uk/edward-iii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "ww-d0213b04f191",
+      "regimeId": "ww-britain",
+      "name": "理查二世",
+      "personalName": "理查二世",
+      "aliases": [],
+      "born": "1367年",
+      "died": "1400年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1377,
+          "end": 1399,
+          "label": "1377—1399年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "爱德华三世之孙、黑太子之子，少年继位时王权受到贵族政治制约。1381年农民起义中一度亲自出面，事后并未兑现全部承诺。与重臣长期对抗后试图强化个人统治，最终被流亡归来的亨利·博林布鲁克废黜，死于囚禁。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：理查二世",
+          "url": "https://www.royal.uk/richard-ii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ww-b22c36475972",
+      "regimeId": "ww-britain",
+      "name": "亨利四世",
+      "personalName": "亨利四世",
+      "aliases": [],
+      "born": "1367年",
+      "died": "1413年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1399,
+          "end": 1413,
+          "label": "1399—1413年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身兰开斯特家族，在理查二世政治清洗后流亡，返回英格兰时由恢复领地转向夺位。其合法性受到持续质疑，统治中面对威尔士起义、北方贵族反叛和财政困难。他的经历开启兰开斯特王朝，也把废立君主的问题留给后世政治。"
+      ],
+      "highlights": [
+        {
+          "date": "1077年",
+          "year": 1077,
+          "title": "卡诺莎事件",
+          "text": "亨利四世向教皇请求解除绝罚，皇权与教权围绕主教任命的冲突公开化。",
+          "eventId": "ann-chron-world-europe-0122"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：亨利四世",
+          "url": "https://www.royal.uk/henry-iv",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0122",
+          "title": "卡诺莎事件",
+          "date": "1077年",
+          "summary": "亨利四世向教皇请求解除绝罚，皇权与教权围绕主教任命的冲突公开化。",
+          "paragraphs": [
+            "亨利四世向教皇请求解除绝罚，皇权与教权围绕主教任命的冲突公开化。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 133
+    },
+    {
+      "id": "ww-05f9d65a69e2",
+      "regimeId": "ww-britain",
+      "name": "亨利五世",
+      "personalName": "亨利五世",
+      "aliases": [],
+      "born": "1386年",
+      "died": "1422年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1413,
+          "end": 1422,
+          "label": "1413—1422年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承兰开斯特王位后恢复对法大规模战争，1415年阿金库尔胜利提升其军事声望。特鲁瓦条约使他娶法国公主凯瑟琳并成为法国王位继承人，但并未消除法国各派抵抗。他在法国去世时尚未继承法国王位，幼子承受了双重王位宣称与长期战争的压力。"
+      ],
+      "highlights": [
+        {
+          "date": "1415年",
+          "year": 1415,
+          "title": "阿金库尔战役",
+          "text": "亨利五世率英军击败法军，战争进一步冲击法国王权和贵族军事力量。",
+          "eventId": "ann-chron-world-europe-0157"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：亨利五世",
+          "url": "https://www.royal.uk/henry-v",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0157",
+          "title": "阿金库尔战役",
+          "date": "1415年",
+          "summary": "亨利五世率英军击败法军，战争进一步冲击法国王权和贵族军事力量。",
+          "paragraphs": [
+            "亨利五世率英军击败法军，战争进一步冲击法国王权和贵族军事力量。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 143
+    },
+    {
+      "id": "ww-b2218cb2abaa",
+      "regimeId": "ww-britain",
+      "name": "亨利六世",
+      "personalName": "亨利六世",
+      "aliases": [],
+      "born": "1421年",
+      "died": "1471年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1422,
+          "end": 1461,
+          "label": "1422—1461年",
+          "role": "国王",
+          "note": ""
+        },
+        {
+          "start": 1470,
+          "end": 1471,
+          "label": "1470—1471年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继承英格兰王位，并被兰开斯特一方拥为法国国王。对法战争失利、精神健康危机和贵族争斗削弱统治，约克派最终夺位。1470年短暂复位后又被废黜，死于伦敦塔；他赞助伊顿公学等教育事业，与其无力控制内战的政治结局形成鲜明对照。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：亨利六世",
+          "url": "https://www.royal.uk/henry-vi",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ww-086176ad2161",
+      "regimeId": "ww-britain",
+      "name": "爱德华四世",
+      "personalName": "爱德华四世",
+      "aliases": [],
+      "born": "1442年",
+      "died": "1483年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1461,
+          "end": 1470,
+          "label": "1461—1470年",
+          "role": "国王",
+          "note": ""
+        },
+        {
+          "start": 1471,
+          "end": 1483,
+          "label": "1471—1483年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "约克家族领袖，通过陶顿等战役建立统治。与伊丽莎白·伍德维尔的婚姻改变宫廷联盟，引发与沃里克伯爵的决裂；被逐后重新登陆，在巴内特和图克斯伯里击败对手。第二次在位时期改善王室财政，但其突然去世使未成年继承人与权力保护问题再度爆发。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：爱德华四世",
+          "url": "https://www.royal.uk/edward-iv",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "ww-58e55f227871",
+      "regimeId": "ww-britain",
+      "name": "爱德华五世",
+      "personalName": "爱德华五世",
+      "aliases": [],
+      "born": "1470年",
+      "died": "约1483年，确切卒日未定",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1483,
+          "end": 1483,
+          "label": "1483年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "爱德华四世去世后继位，仍未成年，由叔父理查担任护国公。王位合法性被否定后，他与弟弟被置于伦敦塔，随后从可靠记录中消失。他未获加冕；两位王子的命运是持续争论的历史问题，应把失踪事实与关于凶手的推断分开。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "1483年4—6月名义继位，未加冕。失踪后确切卒日、死因与责任归属未能定论。"
+      ],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：爱德华五世",
+          "url": "https://www.royal.uk/edward-v",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-b70010982770",
+      "regimeId": "ww-britain",
+      "name": "理查三世",
+      "personalName": "理查三世",
+      "aliases": [],
+      "born": "1452年",
+      "died": "1485年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1483,
+          "end": 1485,
+          "label": "1483—1485年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在兄长爱德华四世死后担任护国公，随后取得王位。他与伦敦塔王子失踪事件的关系长期处在政治宣传和史料争论之中。面对白金汉反叛和亨利·都铎挑战，最终在博斯沃思战役中阵亡；其遗骨的现代考古发现修正了部分身体形象，却不能自动解决全部政治争议。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：理查三世",
+          "url": "https://www.royal.uk/richard-iii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 116
+    },
+    {
+      "id": "ww-d60651f386b7",
+      "regimeId": "ww-britain",
+      "name": "亨利七世",
+      "personalName": "亨利七世",
+      "aliases": [],
+      "born": "1457年",
+      "died": "1509年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1485,
+          "end": 1509,
+          "label": "1485—1509年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身都铎家族，凭博斯沃思胜利夺位，并与约克家族的伊丽莎白结婚以整合王朝合法性。他应对冒名王位宣称者和贵族反叛，借财政管理、司法与外交婚姻巩固新王朝。长子亚瑟早逝，王位最终传给次子亨利。"
+      ],
+      "highlights": [
+        {
+          "date": "1485年",
+          "year": 1485,
+          "title": "博斯沃思战役与都铎建朝",
+          "text": "亨利七世战胜理查三世，王朝战争告一段落，新王权寻求财政与贵族控制。",
+          "eventId": "ann-chron-world-europe-0167"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：亨利七世",
+          "url": "https://www.royal.uk/henry-vii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0167",
+          "title": "博斯沃思战役与都铎建朝",
+          "date": "1485年",
+          "summary": "亨利七世战胜理查三世，王朝战争告一段落，新王权寻求财政与贵族控制。",
+          "paragraphs": [
+            "亨利七世战胜理查三世，王朝战争告一段落，新王权寻求财政与贵族控制。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 125
+    },
+    {
+      "id": "ww-e8d4a9f3f6ae",
+      "regimeId": "ww-britain",
+      "name": "亨利八世",
+      "personalName": "亨利八世",
+      "aliases": [],
+      "born": "1491年",
+      "died": "1547年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1509,
+          "end": 1547,
+          "label": "1509—1547年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "早期以文艺宫廷和对外战争展示王权，后来因婚姻继承问题与罗马教廷决裂。他借议会法令确立王室在英格兰教会中的至高地位，并解散修道院。六次婚姻、宠臣沉浮和宗教迫害与制度变革紧密相连；其改革既非单纯个人爱情故事，也不等于当时已形成后世全部新教教义。"
+      ],
+      "highlights": [
+        {
+          "date": "1534年",
+          "year": 1534,
+          "title": "英格兰《至尊法案》",
+          "text": "亨利八世确立王室对英格兰教会的最高权威，宗教改革与国家建设结合。",
+          "eventId": "ann-chron-world-europe-0182"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：亨利八世",
+          "url": "https://www.royal.uk/henry-viii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0182",
+          "title": "英格兰《至尊法案》",
+          "date": "1534年",
+          "summary": "亨利八世确立王室对英格兰教会的最高权威，宗教改革与国家建设结合。",
+          "paragraphs": [
+            "亨利八世确立王室对英格兰教会的最高权威，宗教改革与国家建设结合。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 152
+    },
+    {
+      "id": "ww-8d50b3127cb3",
+      "regimeId": "ww-britain",
+      "name": "爱德华六世",
+      "personalName": "爱德华六世",
+      "aliases": [],
+      "born": "1537年",
+      "died": "1553年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1547,
+          "end": 1553,
+          "label": "1547—1553年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "亨利八世唯一活到成年的婚生儿子，幼年即位，政务先后由萨默塞特和诺森伯兰等权臣主导。在其名下，英格兰推动更明确的新教改革，并发生祈祷书和社会经济矛盾引起的反抗。他早逝前试图改变继承安排，简·格雷的短暂称位随之发生。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：爱德华六世",
+          "url": "https://www.royal.uk/edward-vi",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ww-aa99bc3f8693",
+      "regimeId": "ww-britain",
+      "name": "简·格雷",
+      "personalName": "简·格雷",
+      "aliases": [],
+      "born": "约1537年",
+      "died": "1554年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1553,
+          "end": 1553,
+          "label": "1553年",
+          "role": "争位者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "具有都铎血缘的贵族女性，受过人文学与新教教育。在爱德华六世继承安排下被拥立，玛丽在地方获得支持后，她很快失去政治地位。本人、家族与权臣的意志不能简单混同；最初获准生存，后在怀亚特叛乱的政治背景中被处决。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "1553年7月短暂称位，通常称九日女王；与玛丽一世争位。"
+      ],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：简·格雷",
+          "url": "https://www.royal.uk/lady-jane-grey",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ww-6cdef7e3fa7e",
+      "regimeId": "ww-britain",
+      "name": "玛丽一世",
+      "personalName": "玛丽一世",
+      "aliases": [],
+      "born": "1516年",
+      "died": "1558年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1553,
+          "end": 1558,
+          "label": "1553—1558年",
+          "role": "女王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "亨利八世与阿拉贡的凯瑟琳之女，靠广泛支持击败简·格雷继承方案，成为英格兰首位实际长期在位的女王。她恢复与罗马教廷的关系，并以处决新教徒等方式推行宗教政策。与西班牙腓力的婚姻、缺乏继承人和加来失守影响其政治声望；应同时注意后世宗派宣传对形象的塑造。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：玛丽一世",
+          "url": "https://www.royal.uk/mary-i",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 123
+    },
+    {
+      "id": "ww-4ee726dba5ff",
+      "regimeId": "ww-britain",
+      "name": "伊丽莎白一世",
+      "personalName": "伊丽莎白一世",
+      "aliases": [],
+      "born": "1533年",
+      "died": "1603年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1558,
+          "end": 1603,
+          "label": "1558—1603年",
+          "role": "女王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "亨利八世与安妮·博林之女，经历继承地位反复及被囚后登位。1559年宗教和解确立新的教会安排，但天主教与激进新教压力始终存在。她在外交婚姻、玛丽·斯图亚特问题和西班牙战争中维持王权；文艺繁荣与海上扩张同时伴随对爱尔兰的暴力征服和宗教排斥。"
+      ],
+      "highlights": [
+        {
+          "date": "1558年",
+          "year": 1558,
+          "title": "伊丽莎白一世即位",
+          "text": "英格兰重建新教国家教会，外交、海上扩张与宗教竞争相互纠缠。",
+          "eventId": "ann-chron-world-europe-0188"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：伊丽莎白一世",
+          "url": "https://www.royal.uk/elizabeth-i",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0188",
+          "title": "伊丽莎白一世即位",
+          "date": "1558年",
+          "summary": "英格兰重建新教国家教会，外交、海上扩张与宗教竞争相互纠缠。",
+          "paragraphs": [
+            "英格兰重建新教国家教会，外交、海上扩张与宗教竞争相互纠缠。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 147
+    },
+    {
+      "id": "ww-245ba205a02b",
+      "regimeId": "ww-britain",
+      "name": "詹姆斯一世",
+      "personalName": "詹姆斯一世",
+      "aliases": [],
+      "born": "1566年",
+      "died": "1625年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1603,
+          "end": 1625,
+          "label": "1603—1625年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为苏格兰国王詹姆斯六世，1603年继承英格兰，形成共主而非立即合并的两国。他希望强化王权并推动岛内整合，却与议会在财政和权利问题上发生矛盾。火药阴谋加重宗教紧张，钦定版《圣经》成为其时代的重要文化工程。"
+      ],
+      "highlights": [
+        {
+          "date": "1603年",
+          "year": 1603,
+          "title": "苏格兰与英格兰共戴一君",
+          "text": "詹姆斯六世兼任英格兰国王，两国王冠联合而议会与法律仍各自存在。",
+          "eventId": "ann-chron-world-europe-0198"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：詹姆斯一世",
+          "url": "https://www.royal.uk/james-i",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0198",
+          "title": "苏格兰与英格兰共戴一君",
+          "date": "1603年",
+          "summary": "詹姆斯六世兼任英格兰国王，两国王冠联合而议会与法律仍各自存在。",
+          "paragraphs": [
+            "詹姆斯六世兼任英格兰国王，两国王冠联合而议会与法律仍各自存在。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 133
+    },
+    {
+      "id": "ww-c080e69c5b18",
+      "regimeId": "ww-britain",
+      "name": "查理一世",
+      "personalName": "查理一世",
+      "aliases": [],
+      "born": "1600年",
+      "died": "1649年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1625,
+          "end": 1649,
+          "label": "1625—1649年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继位后试图在不定期召集议会的情况下筹措财政，宗教礼仪政策又引起英格兰与苏格兰反对。军事和财政危机迫使其召集议会，冲突随后演为内战。战败后与多方继续谈判，最终经特别法庭审判处决；弑君事件使英国进入共和国时期，而并非建立稳定民主的即时终点。"
+      ],
+      "highlights": [
+        {
+          "date": "1649年",
+          "year": 1649,
+          "title": "查理一世被处决",
+          "text": "英格兰废除君主制并建立共和国，主权、军队和议会关系仍充满冲突。",
+          "eventId": "ann-chron-world-europe-0212"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：查理一世",
+          "url": "https://www.royal.uk/charles-i",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0212",
+          "title": "查理一世被处决",
+          "date": "1649年",
+          "summary": "英格兰废除君主制并建立共和国，主权、军队和议会关系仍充满冲突。",
+          "paragraphs": [
+            "英格兰废除君主制并建立共和国，主权、军队和议会关系仍充满冲突。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 149
+    },
+    {
+      "id": "ww-eb477585eda5",
+      "regimeId": "ww-britain",
+      "name": "奥利弗·克伦威尔",
+      "personalName": "奥利弗·克伦威尔",
+      "aliases": [],
+      "born": "1599年",
+      "died": "1658年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1653,
+          "end": 1658,
+          "label": "1653—1658年",
+          "role": "护国公",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身乡绅，在内战中成为新模范军核心将领，参与处决查理一世。共和国建立后，他以军队支持解散残余议会并担任护国公，试图通过成文制度安排重建政治秩序。对爱尔兰和苏格兰的征服造成严重暴力；宗教宽容具有显著边界，军政集权与自由语言之间存在紧张。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：共和国与护国公时期",
+          "url": "https://www.royal.uk/interregnum-1649-1660",
+          "note": "共和国与护国公是王室在位序列之外的政体。"
+        },
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 117
+    },
+    {
+      "id": "ww-60b5eec094f2",
+      "regimeId": "ww-britain",
+      "name": "理查德·克伦威尔",
+      "personalName": "理查德·克伦威尔",
+      "aliases": [],
+      "born": "1626年",
+      "died": "1712年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1658,
+          "end": 1659,
+          "label": "1658—1659年",
+          "role": "护国公",
+          "note": ""
+        }
+      ],
+      "life": [
+        "奥利弗之子，继承护国公职位，却缺乏与父亲相当的军队基础。财政困难、议会分歧和军官集团压力使其短暂统治迅速崩溃，1659年退位。随后政局继续重组，1660年王政复辟；他本人长期远离权力，并未作为君主被处决。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：共和国与护国公时期",
+          "url": "https://www.royal.uk/interregnum-1649-1660",
+          "note": "共和国与护国公是王室在位序列之外的政体。"
+        },
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ww-aec025c2089c",
+      "regimeId": "ww-britain",
+      "name": "查理二世",
+      "personalName": "查理二世",
+      "aliases": [],
+      "born": "1630年",
+      "died": "1685年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1660,
+          "end": 1685,
+          "label": "1660—1685年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "查理一世之子，曾在苏格兰被拥为国王，失败后流亡。1660年王政复辟使其返回伦敦，复建宫廷与国教制度，但财政仍受议会约束。伦敦大疫、火灾、对荷战争和排斥法案危机影响统治；他与法国的秘密安排及宗教立场使王朝信任不断受考验。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：查理二世",
+          "url": "https://www.royal.uk/charles-ii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "ww-bbdb0601228d",
+      "regimeId": "ww-britain",
+      "name": "詹姆斯二世",
+      "personalName": "詹姆斯二世",
+      "aliases": [],
+      "born": "1633年",
+      "died": "1701年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1685,
+          "end": 1688,
+          "label": "1685—1688年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "查理二世之弟，信奉天主教，试图扩大王室对军队、官职和宗教事务的支配。他废除或暂停歧视性限制的方式引起对专断权力的担忧，男性继承人出生又改变继承预期。威廉登陆后其政治支持崩溃，逃往法国；后来在爱尔兰争位失败。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：詹姆斯二世",
+          "url": "https://www.royal.uk/james-ii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ww-b7624105536f",
+      "regimeId": "ww-britain",
+      "name": "威廉三世",
+      "personalName": "威廉三世",
+      "aliases": [],
+      "born": "1650年",
+      "died": "1702年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1689,
+          "end": 1702,
+          "label": "1689—1702年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "奥兰治亲王、荷兰执政，娶詹姆斯二世之女玛丽。1688年率军赴英后与玛丽共同接受王位及议会提出的权利安排；他的战略重心仍是组织对抗路易十四的欧洲联盟。对法战争、财政筹资和英格兰银行成立共同推动财政军事国家发展。"
+      ],
+      "highlights": [
+        {
+          "date": "1688年",
+          "year": 1688,
+          "title": "光荣革命与权利法案",
+          "text": "詹姆斯二世被取代，议会以权利法案约束王权、税收及议会事务。",
+          "eventId": "we-rights1689"
+        }
+      ],
+      "assessment": "王位更替也与欧洲战争及宗教冲突密切相关。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：威廉三世",
+          "url": "https://www.royal.uk/william-and-mary",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        },
+        {
+          "title": "1689年权利法案",
+          "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/collections1/collections-glorious-revolution/billofrights/",
+          "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-rights1689",
+          "title": "光荣革命与权利法案",
+          "date": "1688年",
+          "summary": "詹姆斯二世被取代，议会以权利法案约束王权、税收及议会事务。",
+          "paragraphs": [
+            "詹姆斯二世被取代，议会以权利法案约束王权、税收及议会事务。",
+            "统治权须通过法律与议会协商，逐步强化议会地位。",
+            "君主立宪继续发展，投票权仍受财产、性别和宗教等限制。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "1689年权利法案",
+              "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/collections1/collections-glorious-revolution/billofrights/",
+              "note": "英国议会档案馆；用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 153
+    },
+    {
+      "id": "ww-898e8ec9507f",
+      "regimeId": "ww-britain",
+      "name": "玛丽二世",
+      "personalName": "玛丽二世",
+      "aliases": [],
+      "born": "1662年",
+      "died": "1694年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1689,
+          "end": 1694,
+          "label": "1689—1694年",
+          "role": "女王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "詹姆斯二世长女，作为威廉的妻子与其共同登基。威廉出征期间，她处理政府事务，并非完全没有政治职责的配偶。1694年因天花去世，威廉继续单独在位；她与父亲的王位冲突使家族忠诚、宗教立场和议会权利集中在个人经历中。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：玛丽二世",
+          "url": "https://www.royal.uk/william-and-mary",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ww-40621c756f46",
+      "regimeId": "ww-britain",
+      "name": "安妮女王",
+      "personalName": "安妮女王",
+      "aliases": [],
+      "born": "1665年",
+      "died": "1714年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1702,
+          "end": 1714,
+          "label": "1702—1714年",
+          "role": "女王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "玛丽二世之妹，继位后面对西班牙王位继承战争及托利、辉格党竞争。1707年英格兰与苏格兰通过联合法案，形成大不列颠王国。她多次怀孕却没有存活至继承王位的子女，最终按既定继承安排由汉诺威家族接位，终结斯图亚特王室主线。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：安妮女王",
+          "url": "https://www.royal.uk/queen-anne",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "ww-c52ee870ea45",
+      "regimeId": "ww-britain",
+      "name": "乔治一世",
+      "personalName": "乔治一世",
+      "aliases": [],
+      "born": "1660年",
+      "died": "1727年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1714,
+          "end": 1727,
+          "label": "1714—1727年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "汉诺威选侯，以新教继承资格登基，建立汉诺威王朝。其在英国的统治与德意志领地利益并存，雅各布派起义挑战合法性。内阁和议会政党政治在其时代继续发展，沃波尔逐渐取得核心地位；这不是由某一次法令突然创造现代首相制度。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：乔治一世",
+          "url": "https://www.royal.uk/george-i",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ww-c3fcae466414",
+      "regimeId": "ww-britain",
+      "name": "乔治二世",
+      "personalName": "乔治二世",
+      "aliases": [],
+      "born": "1683年",
+      "died": "1760年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1727,
+          "end": 1760,
+          "label": "1727—1760年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承汉诺威与英国王位，统治中与沃波尔、佩勒姆等政界人物合作并发生分歧。对法和欧洲大陆战争延续，1743年亲临德廷根战场；1745年雅各布派起义在其名下被镇压。七年战争早期的全球竞争为英国殖民势力扩张奠定条件。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：乔治二世",
+          "url": "https://www.royal.uk/george-ii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ww-9fda568413d7",
+      "regimeId": "ww-britain",
+      "name": "乔治三世",
+      "personalName": "乔治三世",
+      "aliases": [],
+      "born": "1738年",
+      "died": "1820年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1760,
+          "end": 1820,
+          "label": "1760—1820年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在英国成长的汉诺威君主，长期在位期间经历北美独立战争、法国革命和拿破仑战争。他参与任命政府、处理议会政治，并支持巩固帝国权力；美国殖民地独立不能只归因于个人意志。晚年疾病影响履职，1811年起由王储摄政。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：乔治三世",
+          "url": "https://www.royal.uk/george-iii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ww-5f308f00314e",
+      "regimeId": "ww-britain",
+      "name": "乔治四世",
+      "personalName": "乔治四世",
+      "aliases": [],
+      "born": "1762年",
+      "died": "1830年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1820,
+          "end": 1830,
+          "label": "1820—1830年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位前长期任摄政王，赞助建筑、收藏与宫廷文化，布赖顿皇家穹顶宫等体现其审美。他与卡罗琳的婚姻争端引起公共政治风波，奢侈形象也损害声望。在位末年天主教解放法案通过，反映君主个人偏好与议会政府之间的制约。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：乔治四世",
+          "url": "https://www.royal.uk/encyclopedia/george-iv-r-1820-1830",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-4bc277b2ce8f",
+      "regimeId": "ww-britain",
+      "name": "威廉四世",
+      "personalName": "威廉四世",
+      "aliases": [],
+      "born": "1765年",
+      "died": "1837年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1830,
+          "end": 1837,
+          "label": "1830—1837年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "早年在海军服役，被称为水手国王。其短暂统治见证1832年议会改革法案及帝国内废奴立法，王室在改革危机中必须处理上院、下院和内阁之间的关系。曾试图更换政府却未能维持新内阁，显示王室独立主导政治的空间进一步收缩。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：威廉四世",
+          "url": "https://www.royal.uk/william-iv",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ww-f60c4fa396b7",
+      "regimeId": "ww-britain",
+      "name": "维多利亚女王",
+      "personalName": "维多利亚女王",
+      "aliases": [],
+      "born": "1819年",
+      "died": "1901年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1837,
+          "end": 1901,
+          "label": "1837—1901年",
+          "role": "女王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "十八岁登基，与阿尔伯特亲王的婚姻使家庭、王室形象和欧洲王朝外交相互交织。其时代经历工业化、城市扩张和全球帝国建设，印度起义后王室接管东印度公司统治的象征性作用增强。她并不直接制定所有政策，殖民战争、剥削和不同社会群体的经验不能被繁荣象征遮蔽。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：维多利亚女王",
+          "url": "https://www.royal.uk/encyclopedia/victoria-r-1837-1901",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 121
+    },
+    {
+      "id": "ww-c3d829dc0e4f",
+      "regimeId": "ww-britain",
+      "name": "爱德华七世",
+      "personalName": "爱德华七世",
+      "aliases": [],
+      "born": "1841年",
+      "died": "1910年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1901,
+          "end": 1910,
+          "label": "1901—1910年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "维多利亚与阿尔伯特之子，长期作为王储参与社会与外交活动，年近六十才即位。对法国等国的访问有助于改善王室与公众层面的关系，英法协约仍由政府外交政策推动。其统治末年出现预算与上院权力危机，为下一朝的宪政斗争留下议题。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：爱德华七世",
+          "url": "https://www.royal.uk/edward-vii",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ww-9c014a03cc81",
+      "regimeId": "ww-britain",
+      "name": "乔治五世",
+      "personalName": "乔治五世",
+      "aliases": [],
+      "born": "1865年",
+      "died": "1936年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1910,
+          "end": 1936,
+          "label": "1910—1936年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "爱德华七世次子，兄长去世后成为王位继承人。1910年即位后处理议会法案与爱尔兰问题，随后经历第一次世界大战及帝国重组。1917年将王室家名改为温莎，反映战争中的政治情绪。本库以1912年前已即位者为界，因此保留其后续生平，但不继续列1936年以后的继任者。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：1066年以来的君主序列",
+          "url": "https://www.royal.uk/kings-and-queens-1066",
+          "note": "官方序列；共和国时期另列护国公，玛蒂尔达与简·格雷注明争位性质。"
+        },
+        {
+          "title": "英国王室：乔治五世",
+          "url": "https://www.royal.uk/george-v",
+          "note": "逐位君主介绍；简·格雷与玛蒂尔达的争位性质依官方说明。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 128
+    }
+  ]
+}

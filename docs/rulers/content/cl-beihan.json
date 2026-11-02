@@ -1,0 +1,190 @@
+{
+  "id": "cl-beihan",
+  "people": [
+    {
+      "id": "cl-beihan-efa28fec5",
+      "regimeId": "cl-beihan",
+      "name": "北汉世祖",
+      "personalName": "刘崇",
+      "aliases": [
+        "刘崇",
+        "刘旻"
+      ],
+      "born": "895年",
+      "died": "954年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 951,
+          "end": 954,
+          "label": "951—954年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘知远之弟，后汉亡后据河东称帝，改名旻。依靠与辽的联盟对抗后周，954年高平之战失利，显示河东地方政权在军力和人口上的限制。"
+      ],
+      "highlights": [
+        {
+          "year": 951,
+          "date": "951年",
+          "title": "北汉建立（任内史事）",
+          "text": "刘旻据太原建立北汉并依靠辽。",
+          "eventId": "ann-cl-five-dynasties-951-173"
+        }
+      ],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96402行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-951-173",
+          "title": "北汉建立",
+          "date": "951年",
+          "summary": "刘旻据太原建立北汉并依靠辽。",
+          "paragraphs": [
+            "刘旻据太原建立北汉并依靠辽。",
+            "延续汉室政权。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 116
+    },
+    {
+      "id": "cl-beihan-e23c1a5a3",
+      "regimeId": "cl-beihan",
+      "name": "北汉睿宗",
+      "personalName": "刘钧",
+      "aliases": [
+        "刘钧",
+        "刘承钧"
+      ],
+      "born": "926年",
+      "died": "968年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 954,
+          "end": 968,
+          "label": "954—968年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘崇之子，承接太原政权，继续奉事辽以获得军事支持，并抵御后周、宋的压力。统治维持十余年，但财政与兵源基础未见根本扩展。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96402行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "cl-beihan-293ebf702",
+      "regimeId": "cl-beihan",
+      "name": "北汉少主",
+      "personalName": "刘继恩",
+      "aliases": [
+        "刘继恩"
+      ],
+      "born": "935年",
+      "died": "968年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 968,
+          "end": 968,
+          "label": "968年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘钧养子，在刘钧死后继位。与掌权大臣郭无为关系紧张，短期内在宫中遇害，弟刘继元随后继位；宫廷权力竞争并未因外部压力而停止。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96402行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "cl-beihan-2c02bc8f4",
+      "regimeId": "cl-beihan",
+      "name": "北汉英武帝",
+      "personalName": "刘继元",
+      "aliases": [
+        "刘继元"
+      ],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "991年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 968,
+          "end": 979,
+          "label": "968—979年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘钧养子，继刘继恩后即位。宋朝多次围攻太原，979年宋太宗大举进军，辽援军受阻后刘继元投降，北汉结束；降宋后受封并生活至991年。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96402行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    }
+  ]
+}

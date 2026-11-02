@@ -1,0 +1,1033 @@
+{
+  "id": "ce-eastern-jin",
+  "people": [
+    {
+      "id": "ce-eastern-jin-d7bc47642b",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋元帝",
+      "personalName": "司马睿",
+      "aliases": [
+        "司马睿"
+      ],
+      "born": "276年",
+      "died": "323年",
+      "birthPlace": "出生地点未作确证",
+      "family": "司马懿曾孙、琅邪王司马觐之子。",
+      "reigns": [
+        {
+          "start": 317,
+          "end": 323,
+          "label": "317年—323年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "由琅邪王镇建邺，在王导等协助下联合北来与江南士族，西晋覆亡后先称晋王，后称帝，建立南方晋朝。王敦的军事力量是政治支柱，也构成皇权威胁，王敦起兵后元帝受制，不能把“王与马共天下”理解成双方始终和睦。",
+        "司马睿在江南联络北来与本地大族建立晋室政权，先称晋王再称帝；其政治地位依赖新的联盟和地方资源。"
+      ],
+      "highlights": [
+        {
+          "date": "317年—318年",
+          "year": 317,
+          "title": "司马睿在江南重建晋政权",
+          "text": "司马睿在南渡大族与江南地方力量支持下组织政权，317年称晋王，318年称帝，以建康为中心重建晋室统治。",
+          "eventId": "cn-easternjin-start"
+        },
+        {
+          "date": "316年—317年",
+          "year": 316,
+          "title": "长安失守与西晋结束",
+          "text": "长安在围困后失守，晋愍帝司马邺被俘，西晋朝廷结束。翌年司马睿在江南称晋王，新的晋室政治中心形成。",
+          "eventId": "cn-jin-end"
+        },
+        {
+          "year": 317,
+          "date": "317年",
+          "title": "东晋建立（任内史事）",
+          "text": "司马睿在建康建立东晋，借助侨姓与吴姓士族合作维持政权，北伐与内部平衡并行。",
+          "eventId": "ann-ce-0426"
+        },
+        {
+          "year": 322,
+          "date": "322年",
+          "title": "王敦第一次起兵（任内史事）",
+          "text": "王敦借清君侧之名进攻建康，东晋皇权受到强大门阀军事集团的直接威胁。",
+          "eventId": "ann-ce-0431"
+        }
+      ],
+      "assessment": "组织东晋政权，使晋室在江南延续，并通过王导等人协调不同大族的支持。",
+      "uncertainties": [
+        "元帝去世的旧历永昌元年末换算公历为323年，旧年表常列322年；明帝起年随相同口径而不同。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "sima-rui",
+        "ann-person-5da0a58319d5"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-easternjin-start",
+          "title": "司马睿在江南重建晋政权",
+          "date": "317年称晋王，318年称帝",
+          "summary": "司马睿在南渡大族与江南地方力量支持下组织政权，317年称晋王，318年称帝，以建康为中心重建晋室统治。",
+          "paragraphs": [
+            "司马睿在南渡大族与江南地方力量支持下组织政权，317年称晋王，318年称帝，以建康为中心重建晋室统治。",
+            "这表明晋室延续需要新的地方联盟和资源基础，不能只用皇帝南迁概括国家重建。",
+            "北来与江南大族共享并竞争军政资源，东晋王朝与北方多个政权长期并存。"
+          ],
+          "note": "正式称帝在318年；本页面还含304—439十六国全段，东晋本身通常记317—420年。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第五章 东晋王朝的建立及其政治；第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86650—86652行"
+            },
+            {
+              "title": "历史纪年：晋",
+              "url": "https://ygx.sxu.edu.cn/portals/11j",
+              "note": "山西大学图书馆等；支持司马炎、东晋与十六国并行、383年淝水之战。"
+            }
+          ]
+        },
+        {
+          "id": "cn-jin-end",
+          "title": "长安失守与西晋结束",
+          "date": "316年西晋结束；317年江南重建",
+          "summary": "长安在围困后失守，晋愍帝司马邺被俘，西晋朝廷结束。翌年司马睿在江南称晋王，新的晋室政治中心形成。",
+          "paragraphs": [
+            "长安在围困后失守，晋愍帝司马邺被俘，西晋朝廷结束。翌年司马睿在江南称晋王，新的晋室政治中心形成。",
+            "西晋覆亡与东晋重建相连，却有不同地点、时间和支持力量，不能当作一次简单迁都。",
+            "北方各政权继续竞争，江南晋室依靠南渡与本地大族建立统治，长期南北分立进一步展开。"
+          ],
+          "note": "316年为西晋终点，317年称晋王与318年称帝另列东晋节点，不混为同一天。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 西晋的黑暗统治与“八王之乱”；用户提供合并整理本第85284—85284行"
+            },
+            {
+              "title": "历史纪年：晋",
+              "url": "https://ygx.sxu.edu.cn/portals/11j",
+              "note": "山西大学图书馆等；支持司马炎、东晋与十六国并行、383年淝水之战。"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0426",
+          "title": "东晋建立",
+          "date": "317年",
+          "summary": "司马睿在建康建立东晋，借助侨姓与吴姓士族合作维持政权，北伐与内部平衡并行。",
+          "paragraphs": [
+            "司马睿在建康建立东晋，借助侨姓与吴姓士族合作维持政权，北伐与内部平衡并行。",
+            "中国政治中心之一长期转入长江下游。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第五章 东晋王朝的建立及其政治；用户提供合并整理本第86576—86576行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0431",
+          "title": "王敦第一次起兵",
+          "date": "322年",
+          "summary": "王敦借清君侧之名进攻建康，东晋皇权受到强大门阀军事集团的直接威胁。",
+          "paragraphs": [
+            "王敦借清君侧之名进攻建康，东晋皇权受到强大门阀军事集团的直接威胁。",
+            "南渡政权的合作基础同时包含中央与士族军权的冲突。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86720—86720行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0419",
+          "title": "司马睿镇建邺",
+          "date": "307年",
+          "summary": "司马睿在王导等帮助下经营江南，争取当地士族，为后来东晋建立形成政治基础。",
+          "paragraphs": [
+            "司马睿在王导等帮助下经营江南，争取当地士族，为后来东晋建立形成政治基础。",
+            "南渡政权依赖北方流亡精英与江南地方社会合作。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86646—86646行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 347
+    },
+    {
+      "id": "ce-eastern-jin-92eecdabce",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋明帝",
+      "personalName": "司马绍",
+      "aliases": [
+        "司马绍"
+      ],
+      "born": "299年",
+      "died": "325年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋元帝之子，庾文君为皇后。",
+      "reigns": [
+        {
+          "start": 323,
+          "end": 325,
+          "label": "323年—325年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "元帝之子，继位后联合王导、庾亮、温峤等势力抵御王敦集团，324年平定第二次王敦之乱。皇帝在危机中表现出政治和军事意志，但短暂胜利未彻底改变门阀与地方方镇共同掌权的结构，早逝后幼帝继承又使外戚影响上升。"
+      ],
+      "highlights": [
+        {
+          "date": "324年",
+          "year": 324,
+          "title": "平定王敦之乱",
+          "text": "王敦再次进攻后失败，东晋朝廷重整权力，但仍须依靠其他强大士族力量维持。",
+          "eventId": "ann-ce-0432"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "元帝去世的旧历永昌元年末换算公历为323年，旧年表常列322年；明帝起年随相同口径而不同。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-094cb18db792"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0432",
+          "title": "平定王敦之乱",
+          "date": "324年",
+          "summary": "王敦再次进攻后失败，东晋朝廷重整权力，但仍须依靠其他强大士族力量维持。",
+          "paragraphs": [
+            "王敦再次进攻后失败，东晋朝廷重整权力，但仍须依靠其他强大士族力量维持。",
+            "平定叛乱并未彻底改变门阀共治的政治结构。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86734—86734行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 170
+    },
+    {
+      "id": "ce-eastern-jin-1b261e2b35",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋成帝",
+      "personalName": "司马衍",
+      "aliases": [
+        "司马衍"
+      ],
+      "born": "321年",
+      "died": "342年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋明帝与庾文君之子。",
+      "reigns": [
+        {
+          "start": 325,
+          "end": 342,
+          "label": "325年—342年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年即位，庾太后和庾亮等影响中枢。苏峻之乱期间建康被攻陷，皇帝被挟持，陶侃、温峤等联合平乱。之后王导等维系朝政，帝位与军事力量分离的门阀政治继续存在。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ce-eastern-jin-5d66ed4cef",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋康帝",
+      "personalName": "司马岳",
+      "aliases": [
+        "司马岳"
+      ],
+      "born": "322年",
+      "died": "344年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋明帝之子、成帝之弟，穆帝之父。",
+      "reigns": [
+        {
+          "start": 342,
+          "end": 344,
+          "label": "342年—344年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "成帝死后，在庾氏等支持下由弟承兄位，成帝幼子没有立即继承。其在位仅两年，方镇势力和门阀家族仍影响军政，随后由幼子穆帝继承，庾氏政治网络也经历变化。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "ce-eastern-jin-e2efa57bd9",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋穆帝",
+      "personalName": "司马聃",
+      "aliases": [
+        "司马聃"
+      ],
+      "born": "343年",
+      "died": "361年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋康帝与褚蒜子之子。",
+      "reigns": [
+        {
+          "start": 344,
+          "end": 361,
+          "label": "344年—361年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，褚太后临朝，何充、殷浩及桓温等文武势力相继影响国家。桓温灭成汉并多次北伐发生于其世，但并非幼帝亲自主持。地方军事优势与中央门阀平衡，是理解该时期的主要线索。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 118
+    },
+    {
+      "id": "ce-eastern-jin-37113f4f6d",
+      "regimeId": "ce-eastern-jin",
+      "name": "桓温",
+      "personalName": "桓温",
+      "aliases": [],
+      "born": "312年",
+      "died": "373年",
+      "birthPlace": "出生地点未作确证",
+      "family": "桓彝之子，桓玄之父。",
+      "reigns": [
+        {
+          "start": 347,
+          "end": 373,
+          "label": "347年—373年",
+          "role": "方镇统帅、实际掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以荆州军政基础崛起，347年灭成汉后威望大增，多次北伐并与中枢门阀竞争。北伐既有恢复中原的政治目标，也与资源和权力格局有关，不能只作个人野心或纯粹报国的单一解释。晚年废海西公司马奕、立简文帝，力图进一步掌握中枢，但未正式代晋，死后权力网络仍深刻影响东晋。",
+        "桓温既参与军事行动，也主持户籍整理与庚戌土断；其军政权力显示东晋皇朝中将领集团与中枢的复杂关系。"
+      ],
+      "highlights": [
+        {
+          "date": "364年",
+          "year": 364,
+          "title": "庚戌土断",
+          "text": "桓温主持清理户口与土断，调整北来侨民的登记及赋役待遇，并打击部分隐匿户口的势力，重整朝廷可掌握的人口。",
+          "eventId": "cn-gengxu-soil-registration"
+        },
+        {
+          "year": 347,
+          "date": "347年",
+          "title": "桓温灭成汉（任内史事）",
+          "text": "桓温率军入蜀灭成汉，东晋重新控制巴蜀，军事成功显著提高桓温政治地位。",
+          "eventId": "ann-ce-0439"
+        },
+        {
+          "year": 354,
+          "date": "354年",
+          "title": "桓温第一次北伐（任内史事）",
+          "text": "桓温进攻关中逼近长安，但因补给与敌军抵抗撤退，未能建立稳定的北方控制。",
+          "eventId": "ann-ce-0444"
+        },
+        {
+          "year": 356,
+          "date": "356年",
+          "title": "桓温收复洛阳（任内史事）",
+          "text": "东晋军夺回洛阳，桓温提出迁都等方案，但朝廷与士族顾虑使北方经营缺乏持续支持。",
+          "eventId": "ann-ce-0445"
+        },
+        {
+          "year": 364,
+          "date": "364年",
+          "title": "洛阳再度失守（任内史事）",
+          "text": "东晋在洛阳的据点再次陷落，北方恢复事业受挫，南北政治与军事边界继续变化。",
+          "eventId": "ann-ce-0448"
+        },
+        {
+          "year": 369,
+          "date": "369年",
+          "title": "桓温枋头之败（任内史事）",
+          "text": "桓温北伐前燕，在枋头因补给困难及慕容垂反击失利，政治威望受到打击。",
+          "eventId": "ann-ce-0450"
+        }
+      ],
+      "assessment": "364年推行土断，整顿侨民和隐匿户口问题，将更多人口纳入朝廷赋役管理。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "huanwen"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-gengxu-soil-registration",
+          "title": "庚戌土断",
+          "date": "364年",
+          "summary": "桓温主持清理户口与土断，调整北来侨民的登记及赋役待遇，并打击部分隐匿户口的势力，重整朝廷可掌握的人口。",
+          "paragraphs": [
+            "桓温主持清理户口与土断，调整北来侨民的登记及赋役待遇，并打击部分隐匿户口的势力，重整朝廷可掌握的人口。",
+            "南渡者的故籍与现居地如何对应，直接关系国家财政、兵役和地方大族控制。",
+            "更多人口被纳入朝廷登记，部分侨置机构仍然保留，制度整合并不是简单取消旧地名。"
+          ],
+          "note": "土断不只发生一次；本条专指364年，不把刘宋以后整理户籍混为同一政策。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第五章 东晋王朝的建立及其政治；第二节 北方流民的南下与东晋政府的对策；用户提供合并整理本第86940—86960行"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0439",
+          "title": "桓温灭成汉",
+          "date": "347年",
+          "summary": "桓温率军入蜀灭成汉，东晋重新控制巴蜀，军事成功显著提高桓温政治地位。",
+          "paragraphs": [
+            "桓温率军入蜀灭成汉，东晋重新控制巴蜀，军事成功显著提高桓温政治地位。",
+            "外部胜利为强将干预中央政治提供资源与声望。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 人民的流徙与流民起义；用户提供合并整理本第85394—85394行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0444",
+          "title": "桓温第一次北伐",
+          "date": "354年",
+          "summary": "桓温进攻关中逼近长安，但因补给与敌军抵抗撤退，未能建立稳定的北方控制。",
+          "paragraphs": [
+            "桓温进攻关中逼近长安，但因补给与敌军抵抗撤退，未能建立稳定的北方控制。",
+            "山川、粮运与地方支持制约东晋北伐成效。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85901—85901行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0445",
+          "title": "桓温收复洛阳",
+          "date": "356年",
+          "summary": "东晋军夺回洛阳，桓温提出迁都等方案，但朝廷与士族顾虑使北方经营缺乏持续支持。",
+          "paragraphs": [
+            "东晋军夺回洛阳，桓温提出迁都等方案，但朝廷与士族顾虑使北方经营缺乏持续支持。",
+            "军事占领与稳定恢复行政控制是不同层面的任务。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86760—86760行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0448",
+          "title": "洛阳再度失守",
+          "date": "364年",
+          "summary": "东晋在洛阳的据点再次陷落，北方恢复事业受挫，南北政治与军事边界继续变化。",
+          "paragraphs": [
+            "东晋在洛阳的据点再次陷落，北方恢复事业受挫，南北政治与军事边界继续变化。",
+            "短期北伐成果若无持续资源支持便难以巩固。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 东汉王朝的崩溃；用户提供合并整理本第83178—83178行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0450",
+          "title": "桓温枋头之败",
+          "date": "369年",
+          "summary": "桓温北伐前燕，在枋头因补给困难及慕容垂反击失利，政治威望受到打击。",
+          "paragraphs": [
+            "桓温北伐前燕，在枋头因补给困难及慕容垂反击失利，政治威望受到打击。",
+            "前线挫败促使强将转而在朝廷内争取权力。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85813—85813行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0452",
+          "title": "桓温废立晋帝",
+          "date": "371年",
+          "summary": "桓温以废立皇帝展示政治控制力，朝廷在军事强臣与皇权名义之间继续周旋。",
+          "paragraphs": [
+            "桓温以废立皇帝展示政治控制力，朝廷在军事强臣与皇权名义之间继续周旋。",
+            "北伐声望和军队控制可能转化为篡夺政治的工具。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86774—86774行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0453",
+          "title": "桓温去世与谢安掌政",
+          "date": "373年",
+          "summary": "桓温死后谢安等调整权力关系，朝廷暂时摆脱一位强臣的直接威胁并重建平衡。",
+          "paragraphs": [
+            "桓温死后谢安等调整权力关系，朝廷暂时摆脱一位强臣的直接威胁并重建平衡。",
+            "政治稳定依赖对多个士族与军镇关系的协调。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 世家大族经济势力的发展与部曲佃客制度的形成；用户提供合并整理本第84411—84411行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平详读",
+      "narrativeCharacters": 437
+    },
+    {
+      "id": "ce-eastern-jin-08b3c082f1",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋哀帝",
+      "personalName": "司马丕",
+      "aliases": [
+        "司马丕"
+      ],
+      "born": "341年",
+      "died": "365年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋成帝之子、废帝司马奕之兄。",
+      "reigns": [
+        {
+          "start": 361,
+          "end": 365,
+          "label": "361年—365年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆帝无嗣后由成帝之子继位，中央仍受太后和重臣制约。传世记其服食药物后久病，褚太后再度临朝；桓温军事与政治影响继续上升，个人短暂统治不足以重塑权力结构。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ce-eastern-jin-abd4dfa6ac",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋废帝",
+      "personalName": "司马奕",
+      "aliases": [
+        "司马奕"
+      ],
+      "born": "342年",
+      "died": "386年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋成帝之子，哀帝之弟。",
+      "reigns": [
+        {
+          "start": 365,
+          "end": 371,
+          "label": "365年—371年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继兄哀帝而立，桓温北伐失败后谋求提高自身威望，以指控皇帝不适于继统为由将其废黜，降为海西公。关于其身体、后宫和子嗣的指控属于废立政治的一部分，不宜无保留当作个人事实。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "废立时指控有政治目的，不将其当作已证实个人隐私。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 118
+    },
+    {
+      "id": "ce-eastern-jin-fe1cee05c4",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋简文帝",
+      "personalName": "司马昱",
+      "aliases": [
+        "司马昱"
+      ],
+      "born": "320年",
+      "died": "372年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋元帝之子、孝武帝之父。",
+      "reigns": [
+        {
+          "start": 371,
+          "end": 372,
+          "label": "371年—372年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期以会稽王等身份参与中枢政治，桓温废司马奕后被迎立为帝。即位时已年长，又受到桓温势力强大压力，政治自主空间有限。其死后皇位传子司马曜，桓温仍未能正式完成代晋。"
+      ],
+      "highlights": [
+        {
+          "date": "371年",
+          "year": 371,
+          "title": "桓温废立晋帝",
+          "text": "桓温以废立皇帝展示政治控制力，朝廷在军事强臣与皇权名义之间继续周旋。",
+          "eventId": "ann-ce-0452"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-08a68717c291"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0452",
+          "title": "桓温废立晋帝",
+          "date": "371年",
+          "summary": "桓温以废立皇帝展示政治控制力，朝廷在军事强臣与皇权名义之间继续周旋。",
+          "paragraphs": [
+            "桓温以废立皇帝展示政治控制力，朝廷在军事强臣与皇权名义之间继续周旋。",
+            "北伐声望和军队控制可能转化为篡夺政治的工具。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86774—86774行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 149
+    },
+    {
+      "id": "ce-eastern-jin-9de4e8564c",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋孝武帝",
+      "personalName": "司马曜",
+      "aliases": [
+        "司马曜"
+      ],
+      "born": "362年",
+      "died": "396年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋简文帝之子，安帝、恭帝之父。",
+      "reigns": [
+        {
+          "start": 372,
+          "end": 396,
+          "label": "372年—396年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位初年桓温去世，谢安等主持中枢。383年淝水之战中谢玄等击败前秦南下军队，为东晋争取重要安全空间；其后皇帝与宗王司马道子、门阀势力的关系又发生变化。晚年宫廷与政治问题叠加，去世后司马道子、司马元显一方影响增强。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 141
+    },
+    {
+      "id": "ce-eastern-jin-d45a0adbe0",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋安帝",
+      "personalName": "司马德宗",
+      "aliases": [
+        "司马德宗"
+      ],
+      "born": "382年",
+      "died": "419年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋孝武帝之子，恭帝之兄。",
+      "reigns": [
+        {
+          "start": 396,
+          "end": 403,
+          "label": "396—403年",
+          "role": "皇帝",
+          "note": "桓玄篡位后被废；此处按传统年次。"
+        },
+        {
+          "start": 404,
+          "end": 419,
+          "label": "404—419年",
+          "role": "复位皇帝",
+          "note": "404年反桓玄力量恢复晋室，405年安帝返回建康。"
+        }
+      ],
+      "life": [
+        "即位后实际权力受司马道子、司马元显及方镇控制，孙恩起兵与桓玄入建康进一步动摇秩序。桓玄称帝后安帝被废，刘裕等起兵击败桓玄势力，安帝复位而刘裕成为实际军政核心。最终被杀，为刘裕代晋扫清继承障碍，不能把皇帝名义等同自主决策。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "安帝死于旧历义熙十四年末，公历为419年；传统表常记418年，恭帝即位亦受换算口径影响。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 145
+    },
+    {
+      "id": "ce-eastern-jin-f0d1bc675e",
+      "regimeId": "ce-eastern-jin",
+      "name": "晋恭帝",
+      "personalName": "司马德文",
+      "aliases": [
+        "司马德文"
+      ],
+      "born": "386年",
+      "died": "421年",
+      "birthPlace": "出生地点未作确证",
+      "family": "晋孝武帝之子、安帝之弟。",
+      "reigns": [
+        {
+          "start": 419,
+          "end": 420,
+          "label": "419年—420年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "安帝死后由刘裕一方拥立，实际军政权力已由刘裕控制。420年禅位，晋朝结束，次年被杀。其逊位与死亡相隔一年，前后承继应与刘宋开国记录交叉阅读。"
+      ],
+      "highlights": [
+        {
+          "date": "420年",
+          "year": 420,
+          "title": "刘裕代晋建宋",
+          "text": "刘裕迫使晋帝禅位建立刘宋，结束东晋，南方进入宋齐梁陈相继更替的南朝阶段。",
+          "eventId": "ann-ce-0481"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "安帝死于旧历义熙十四年末，公历为419年；传统表常记418年，恭帝即位亦受换算口径影响。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：东晋门阀政治、北伐与桓玄",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-e622c7d05680"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0481",
+          "title": "刘裕代晋建宋",
+          "date": "420年",
+          "summary": "刘裕迫使晋帝禅位建立刘宋，结束东晋，南方进入宋齐梁陈相继更替的南朝阶段。",
+          "paragraphs": [
+            "刘裕迫使晋帝禅位建立刘宋，结束东晋，南方进入宋齐梁陈相继更替的南朝阶段。",
+            "军人集团取代门阀核心，但士族社会仍持续影响政治。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四节 淝水战后北方的再分裂；用户提供合并整理本第86465—86465行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 141
+    }
+  ]
+}

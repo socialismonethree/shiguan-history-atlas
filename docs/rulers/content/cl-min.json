@@ -1,0 +1,390 @@
+{
+  "id": "cl-min",
+  "people": [
+    {
+      "id": "cl-min-49c1f43b7",
+      "regimeId": "cl-min",
+      "name": "闽太祖",
+      "personalName": "王审知",
+      "aliases": [
+        "王审知"
+      ],
+      "born": "862年",
+      "died": "925年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 909,
+          "end": 925,
+          "label": "909—925年",
+          "role": "闽王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "随兄王潮入闽，在其去世后控制福建，909年受封闽王。经营农业、交通与海上贸易，对中原维持臣属；其生前称王，皇帝尊号为后来追尊。"
+      ],
+      "highlights": [
+        {
+          "date": "909年",
+          "year": 909,
+          "title": "闽政权确立",
+          "text": "王审知受封闽王。",
+          "eventId": "ann-cl-five-dynasties-909-138"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-fc2de8d8f123"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-909-138",
+          "title": "闽政权确立",
+          "date": "909年",
+          "summary": "王审知受封闽王。",
+          "paragraphs": [
+            "王审知受封闽王。",
+            "福建地方统治得到朝廷名义承认。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "cl-min-3a466396b",
+      "regimeId": "cl-min",
+      "name": "王延翰",
+      "personalName": "王延翰",
+      "aliases": [],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "927年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 925,
+          "end": 927,
+          "label": "925—927年",
+          "role": "闽国统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "王审知长子，继承福建权力后与兄弟及军将矛盾加剧，926年自称大闽国王。不久被王延禀等发动的兵变推翻并杀害，王延钧继位。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "被杀在同光四年十二月，公历927年1月，故本条在位末年与卒年均列927年；常见简表列926年为历史纪年。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "cl-min-f628ecfcd",
+      "regimeId": "cl-min",
+      "name": "闽惠宗",
+      "personalName": "王延钧",
+      "aliases": [
+        "王延钧",
+        "王鏻"
+      ],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "935年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 927,
+          "end": 935,
+          "label": "927—935年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "王审知之子，取代王延翰掌权，933年称帝，改名鏻。朝中宫廷和地方军政竞争加剧，935年被子王继鹏集团杀害；称帝并未结束王氏内部的暴力继承。"
+      ],
+      "highlights": [
+        {
+          "date": "933年",
+          "year": 933,
+          "title": "闽王称帝",
+          "text": "王延钧称帝。",
+          "eventId": "ann-cl-five-dynasties-933-158"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-bd76e53dd79b"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "取代王延翰在同光四年末，公历927年初；常见简表从926年起算。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        },
+        {
+          "title": "福州市方志委·闽国的人名地名更改现象",
+          "url": "https://www.fuzhou.gov.cn/zgfzzt/zjrc/mdfc/lswh/202112/t20211210_4267496.htm",
+          "note": "核对王延钧改名王鏻、王继鹏改名王昶、王延羲改名王曦等，注意不同人名形近。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-933-158",
+          "title": "闽王称帝",
+          "date": "933年",
+          "summary": "王延钧称帝。",
+          "paragraphs": [
+            "王延钧称帝。",
+            "闽国内部宗室斗争随后加剧。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 115
+    },
+    {
+      "id": "cl-min-3b46172ea",
+      "regimeId": "cl-min",
+      "name": "闽康宗",
+      "personalName": "王继鹏",
+      "aliases": [
+        "王继鹏",
+        "王昶"
+      ],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "939年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 935,
+          "end": 939,
+          "label": "935—939年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "王延钧之子，在宫廷政变后即位，改名昶。统治期间与近臣、禁军关系恶化，939年兵变中被杀，叔父王延羲继位，福州皇权愈加依赖军队。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "cl-min-bb5ddb1cd",
+      "regimeId": "cl-min",
+      "name": "闽景宗",
+      "personalName": "王延羲",
+      "aliases": [
+        "王延羲",
+        "王曦"
+      ],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "944年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 939,
+          "end": 944,
+          "label": "939—944年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "王审知之子，被军人拥立，后改名曦。与建州王延政长期交战，福建内部形成两个中心；944年为朱文进等所杀，闽王室的分裂已经难以挽回。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "cl-min-17ad6fa87",
+      "regimeId": "cl-min",
+      "name": "闽天德帝",
+      "personalName": "王延政",
+      "aliases": [
+        "王延政"
+      ],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "951年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 943,
+          "end": 945,
+          "label": "943—945年",
+          "role": "皇帝",
+          "note": "943—944年殷与福州闽廷并立，不能按名单次序画成一个无重叠序列。"
+        }
+      ],
+      "life": [
+        "王审知之子，原据建州，与福州朝廷争战，943年另称殷帝。朱文进败亡后改国号闽，仍未能控制全境，945年为南唐所灭，被俘后在南唐生活。"
+      ],
+      "highlights": [
+        {
+          "date": "943年",
+          "year": 943,
+          "title": "闽国分裂殷国",
+          "text": "王延政在建州另立政权。",
+          "eventId": "ann-cl-five-dynasties-943-165"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-69444aada3e8"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "943—944年殷与福州闽廷并立，不能按名单次序画成一个无重叠序列。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-943-165",
+          "title": "闽国分裂殷国",
+          "date": "943年",
+          "summary": "王延政在建州另立政权。",
+          "paragraphs": [
+            "王延政在建州另立政权。",
+            "福建内战更加激烈。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 117
+    },
+    {
+      "id": "cl-min-3cbb87e43",
+      "regimeId": "cl-min",
+      "name": "朱文进",
+      "personalName": "朱文进",
+      "aliases": [],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "945年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 944,
+          "end": 945,
+          "label": "944—945年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为闽将，杀王延羲后自立于福州，并大杀王氏宗族。地方将领相继反对，朱文进在南唐入闽前后的混战中被杀；其政权不能视为王氏正常世袭。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    }
+  ]
+}

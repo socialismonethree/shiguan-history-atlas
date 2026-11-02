@@ -1,0 +1,992 @@
+{
+  "id": "wr-tokugawa",
+  "people": [
+    {
+      "id": "wr-jp-ieyasu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家康",
+      "personalName": "德川家康",
+      "aliases": [
+        "徳川家康"
+      ],
+      "born": "1543年",
+      "died": "1616年",
+      "birthPlace": "",
+      "family": "松平广忠之子，原姓松平；秀忠之父。",
+      "reigns": [
+        {
+          "start": 1603,
+          "end": 1605,
+          "label": "1603—1605年",
+          "role": "征夷大将军",
+          "note": ""
+        },
+        {
+          "start": 1605,
+          "end": 1616,
+          "label": "1605—1616年",
+          "role": "大御所／退位后掌权",
+          "note": "与现任将军在位重叠；并非连续担任将军。"
+        }
+      ],
+      "life": [
+        "由三河地方的松平氏领主成长为织田、丰臣政权中的强大大名。丰臣秀吉去世后，在1600年关原之战中胜出，并于1603年获征夷大将军职位。两年后让位秀忠，以大御所身份继续决策，安排诸大名关系、对外贸易及统治制度。1614—1615年大坂之战消灭丰臣家的主要军事力量，幕府的稳定不能只归功于一场战役。"
+      ],
+      "highlights": [
+        {
+          "date": "1600年",
+          "year": 1600,
+          "title": "关原之战",
+          "text": "重组大名联盟，为此后的幕府统治提供基础。"
+        },
+        {
+          "date": "1603年",
+          "year": 1603,
+          "title": "开设幕府",
+          "text": "取得将军职，但制度整合持续到其后。"
+        },
+        {
+          "date": "1615年",
+          "year": 1615,
+          "title": "大坂夏之阵与制度整理",
+          "text": "丰臣家军事力量被消灭，武家诸法度等统治规范相继形成。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。",
+        "生于日本天文十一年十二月，折合公历1543年；部分旧表写1542年。1605年让位后实际掌权至1616年。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-edo",
+          "title": "德川幕府与江户秩序",
+          "date": "1600年",
+          "summary": "关原之战后德川家康建立幕府，继任者完善大名管理和对外贸易控制。",
+          "paragraphs": [
+            "经历长期战国竞争，德川需要控制仍有资源与军队的大名，同时维持天皇和朝廷的象征作用。新秩序不是取消一切地方权力，而是把地方统治纳入更严密的等级和约束关系。",
+            "家康凭战争胜利和政治联盟在江户设立幕府，将军与大名形成多层统治结构。早期安排在其后继者时期继续调整，不能把全部制度都归为1603年当年完成。",
+            "战争趋缓，江户等城市增长，武士、商人、工匠和宗教机构形成新的消费与艺术环境。桃山时期的赞助和工艺延续，又在较稳定秩序中产生新表达。",
+            "出现持续两个多世纪的武家统治体系，地方战争明显减少，但社会身份、经济负担和政治参与仍不平等。",
+            "江户时代的出版、都市文化和工艺与这一政治环境相关；统治稳定并非社会静止，地方市场和普通人的文化活动不断改变生活。"
+          ],
+          "note": "“闭关锁国”不可概括全部江户史。早期建立、后来对外限制和幕末开放有各自年代；日本仍通过不同渠道与周边及欧洲往来。",
+          "sources": [
+            {
+              "title": "JAPAN—Timeline of Historical Periods",
+              "url": "https://www.columbia.edu/itc/eacp/japanworks/timelines/japan_timeline.htm",
+              "note": "哥伦比亚大学 Asia for Educators；馆藏研究或公共学术概述；用于框架年表与艺术类型，不能代替单件器物鉴定。"
+            },
+            {
+              "title": "第二次工业革命与日本明治转型",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/9-1-the-second-industrial-revolution",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Momoyama Period (1573–1615)",
+              "url": "https://www.metmuseum.org/fr/essays/momoyama-period-1573-1615",
+              "note": "大都会艺术博物馆亚洲艺术部；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-east-asia-0582",
+          "title": "关原之战",
+          "date": "1600年",
+          "summary": "德川家康击败西军联盟，通过封地重组确立全国性优势。",
+          "paragraphs": [
+            "德川家康击败西军联盟，通过封地重组确立全国性优势。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学日本历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/japan_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学朝鲜半岛历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 209
+    },
+    {
+      "id": "wr-jp-hidetada",
+      "regimeId": "wr-tokugawa",
+      "name": "德川秀忠",
+      "personalName": "德川秀忠",
+      "aliases": [
+        "徳川秀忠"
+      ],
+      "born": "1579年",
+      "died": "1632年",
+      "birthPlace": "",
+      "family": "家康之子，家光与德川和子之父。",
+      "reigns": [
+        {
+          "start": 1605,
+          "end": 1623,
+          "label": "1605—1623年",
+          "role": "征夷大将军",
+          "note": ""
+        },
+        {
+          "start": 1623,
+          "end": 1632,
+          "label": "1623—1632年",
+          "role": "大御所／退位后掌权",
+          "note": "与现任将军在位重叠；并非连续担任将军。"
+        }
+      ],
+      "life": [
+        "作为家康继承人接任将军，初期与父亲的大御所政权共同运作。家康去世后继续整顿大名与朝廷关系，通过改易、转封和制度控制巩固德川家。1623年让位家光后仍以大御所身份参与统治，正式在职年与实际政治影响的终点并不相同。"
+      ],
+      "highlights": [
+        {
+          "date": "1623年",
+          "year": 1623,
+          "title": "让位家光",
+          "text": "以父子两代合作的方式继续稳定继承。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 122
+    },
+    {
+      "id": "wr-jp-iemitsu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家光",
+      "personalName": "德川家光",
+      "aliases": [
+        "徳川家光"
+      ],
+      "born": "1604年",
+      "died": "1651年",
+      "birthPlace": "",
+      "family": "秀忠之子；家纲、纲吉之父。",
+      "reigns": [
+        {
+          "start": 1623,
+          "end": 1651,
+          "label": "1623—1651年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在父祖建立的体制上扩大幕府对诸大名和对外往来的控制。参勤交代制度固定化，基督教镇压与岛原天草起义后的政策重组，构成其统治的重要背景。所谓“锁国”并非完全没有对外交流，长崎、对马、萨摩和松前等渠道仍各有制度安排。"
+      ],
+      "highlights": [
+        {
+          "date": "1635年",
+          "year": 1635,
+          "title": "参勤交代制度化",
+          "text": "大名按规定在领地与江户往返，增加幕府控制。"
+        },
+        {
+          "date": "1637年",
+          "year": 1637,
+          "title": "岛原天草起义",
+          "text": "镇压与对宗教、贸易的限制相互推动。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 143
+    },
+    {
+      "id": "wr-jp-ietsuna",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家纲",
+      "personalName": "德川家纲",
+      "aliases": [
+        "徳川家纲"
+      ],
+      "born": "1641年",
+      "died": "1680年",
+      "birthPlace": "",
+      "family": "家光之子。",
+      "reigns": [
+        {
+          "start": 1651,
+          "end": 1680,
+          "label": "1651—1680年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年幼继任将军，早期依赖老中及家臣共同处理政务。明历大火后的江户重建、禁止殉死和大名继承政策调整，反映统治从军事征服向日常制度治理的转变。其个人决策与集体行政不能混为一谈，稳定统治也依靠幕府既成官僚网络。"
+      ],
+      "highlights": [
+        {
+          "date": "1657年",
+          "year": 1657,
+          "title": "明历大火后重建",
+          "text": "城市防火、空间和社会管理成为重要问题。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 120
+    },
+    {
+      "id": "wr-jp-tsunayoshi",
+      "regimeId": "wr-tokugawa",
+      "name": "德川纲吉",
+      "personalName": "德川纲吉",
+      "aliases": [
+        "徳川纲吉"
+      ],
+      "born": "1646年",
+      "died": "1709年",
+      "birthPlace": "",
+      "family": "家光之子、家纲异母弟。",
+      "reigns": [
+        {
+          "start": 1680,
+          "end": 1709,
+          "label": "1680—1709年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为馆林藩主，兄长家纲无嗣后继任。重视儒学与礼制，任内元禄文化繁荣，财政与货币政策也产生长期影响。生类怜悯令涉及生命保护与社会管束，执行严苛带来负担，后世“犬公方”的标签不能代替对其内容和制度环境的考察。"
+      ],
+      "highlights": [
+        {
+          "date": "1680年",
+          "year": 1680,
+          "title": "由旁支进入将军家",
+          "text": "继承安排显示将军家并非始终父子直传。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 120
+    },
+    {
+      "id": "wr-jp-ienobu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家宣",
+      "personalName": "德川家宣",
+      "aliases": [
+        "徳川家宣"
+      ],
+      "born": "1662年",
+      "died": "1712年",
+      "birthPlace": "",
+      "family": "德川纲重之子、家光之孙；家继之父。",
+      "reigns": [
+        {
+          "start": 1709,
+          "end": 1712,
+          "label": "1709—1712年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为甲府藩主，作为纲吉养子继承将军职位。起用间部诠房和新井白石，调整前任部分政策，后世以“正德之治”概括相关政治方向。其在位仅数年，改革的实施和延续还需要结合幼子家继时期的辅政集团观察。"
+      ],
+      "highlights": [
+        {
+          "date": "1709年",
+          "year": 1709,
+          "title": "正德政治的开端",
+          "text": "以既有家臣和学者组织新的政策班底。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "wr-jp-ietsugu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家继",
+      "personalName": "德川家继",
+      "aliases": [
+        "徳川家继"
+      ],
+      "born": "1709年",
+      "died": "1716年",
+      "birthPlace": "",
+      "family": "家宣之子，幼年无嗣。",
+      "reigns": [
+        {
+          "start": 1713,
+          "end": 1716,
+          "label": "1713—1716年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继承将军职，政务主要由间部诠房、新井白石等人处理。任内继续前期政策调整，包括对贸易与财政的管理，但不能把这些全部描述为幼主亲自筹划。在位不足四年即去世，德川将军继承转向纪州支系的吉宗。"
+      ],
+      "highlights": [
+        {
+          "date": "1716年",
+          "year": 1716,
+          "title": "幼主去世与旁支继承",
+          "text": "纪州德川家出身的吉宗继任，改换执政班底。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 114
+    },
+    {
+      "id": "wr-jp-yoshimune",
+      "regimeId": "wr-tokugawa",
+      "name": "德川吉宗",
+      "personalName": "德川吉宗",
+      "aliases": [
+        "徳川吉宗"
+      ],
+      "born": "1684年",
+      "died": "1751年",
+      "birthPlace": "",
+      "family": "纪州德川家出身；家重之父。",
+      "reigns": [
+        {
+          "start": 1716,
+          "end": 1745,
+          "label": "1716—1745年",
+          "role": "征夷大将军",
+          "note": ""
+        },
+        {
+          "start": 1745,
+          "end": 1751,
+          "label": "1745—1751年",
+          "role": "大御所／退位后影响政务",
+          "note": "与现任将军在位重叠；并非连续担任将军。"
+        }
+      ],
+      "life": [
+        "由纪州藩进入将军家，推动享保改革，整顿财政、米价、诉讼和行政，也鼓励部分知识与技术输入。节俭、增收和开垦政策回应幕府财政困境，但农民负担和商品经济的变化并不能由单一改革解决。1745年让位后仍以大御所身份影响政治，长期统治包含正式在职与退任后两段。"
+      ],
+      "highlights": [
+        {
+          "date": "1716年",
+          "year": 1716,
+          "title": "享保改革",
+          "text": "财政、行政与司法调整长期展开。"
+        },
+        {
+          "date": "1742年",
+          "year": 1742,
+          "title": "《公事方御定书》",
+          "text": "整理司法和行政规则，不能等同现代平等法制。"
+        },
+        {
+          "year": 1716,
+          "date": "1716年",
+          "title": "享保改革开始（任内史事）",
+          "text": "德川吉宗整顿财政、农业和行政，以节俭与增收应对幕府经济困境。",
+          "eventId": "ann-chron-world-east-asia-0596"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-east-asia-0596",
+          "title": "享保改革开始",
+          "date": "1716年",
+          "summary": "德川吉宗整顿财政、农业和行政，以节俭与增收应对幕府经济困境。",
+          "paragraphs": [
+            "德川吉宗整顿财政、农业和行政，以节俭与增收应对幕府经济困境。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学日本历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/japan_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学朝鲜半岛历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 190
+    },
+    {
+      "id": "wr-jp-ieshige",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家重",
+      "personalName": "德川家重",
+      "aliases": [
+        "徳川家重"
+      ],
+      "born": "1712年",
+      "died": "1761年",
+      "birthPlace": "",
+      "family": "吉宗之子，家治之父。",
+      "reigns": [
+        {
+          "start": 1745,
+          "end": 1760,
+          "label": "1745—1760年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "接任时父亲吉宗仍作为大御所参与政治，因此前期权力不是完全独立的。其在位后期田沼意次等人逐渐进入重要位置，幕府继续面对财政和商业社会的治理问题。关于身体或语言障碍的传闻不应被直接用作缺乏治理能力的诊断。"
+      ],
+      "highlights": [
+        {
+          "date": "1760年",
+          "year": 1760,
+          "title": "让位家治",
+          "text": "将军职位再度进行父子交接。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "wr-jp-ieharu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家治",
+      "personalName": "德川家治",
+      "aliases": [
+        "徳川家治"
+      ],
+      "born": "1737年",
+      "died": "1786年",
+      "birthPlace": "",
+      "family": "家重之子；直系继承人先去世，职位转由一桥家出身的家齐。",
+      "reigns": [
+        {
+          "start": 1760,
+          "end": 1786,
+          "label": "1760—1786年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位时期田沼意次长期参与政务，商业课税、货币与对外贸易议题受到重视。天明饥荒和社会不满加重，田沼政治随后在继承变化中被清算。不能把此期所有政策简单归为贪腐，也不能忽略官僚利益与灾荒中的实际失政。"
+      ],
+      "highlights": [
+        {
+          "date": "1780年",
+          "year": 1780,
+          "title": "田沼政治与财政议题",
+          "text": "商业发展与幕府财政利益更加紧密地联系。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 116
+    },
+    {
+      "id": "wr-jp-ienari",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家齐",
+      "personalName": "德川家齐",
+      "aliases": [
+        "徳川家齐"
+      ],
+      "born": "1773年",
+      "died": "1841年",
+      "birthPlace": "",
+      "family": "一桥德川治济之子；家庆之父。",
+      "reigns": [
+        {
+          "start": 1787,
+          "end": 1837,
+          "label": "1787—1837年",
+          "role": "征夷大将军",
+          "note": ""
+        },
+        {
+          "start": 1837,
+          "end": 1841,
+          "label": "1837—1841年",
+          "role": "大御所／退位后掌权",
+          "note": "与现任将军在位重叠；并非连续担任将军。"
+        }
+      ],
+      "life": [
+        "由一桥支系进入将军家，初期松平定信推行宽政改革，随后政治风格与权力网络又发生变化。五十年正式在位横跨文化繁荣、社会分化和财政压力加深的时期。让位家庆后仍为大御所，王朝式的家族安排与幕府行政之间不断相互影响。"
+      ],
+      "highlights": [
+        {
+          "date": "1787年",
+          "year": 1787,
+          "title": "宽政改革开始",
+          "text": "松平定信主导财政、社会与思想管束。"
+        },
+        {
+          "date": "1837年",
+          "year": 1837,
+          "title": "退任后继续保持影响",
+          "text": "正式任职结束而政治权势未立即消失。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 137
+    },
+    {
+      "id": "wr-jp-ieyoshi",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家庆",
+      "personalName": "德川家庆",
+      "aliases": [
+        "徳川家庆"
+      ],
+      "born": "1793年",
+      "died": "1853年",
+      "birthPlace": "",
+      "family": "家齐之子，家定之父。",
+      "reigns": [
+        {
+          "start": 1837,
+          "end": 1853,
+          "label": "1837—1853年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位后仍受家齐大御所政权影响，后来面对天保改革及其失败。1853年佩里率美国舰队来到日本，迫使幕府回应开港要求，家庆不久去世，决策压力留给继承者。其任内国内财政和社会管理问题，与外部军事压力同时存在。"
+      ],
+      "highlights": [
+        {
+          "date": "1853年",
+          "year": 1853,
+          "title": "佩里来航",
+          "text": "对外体制受到武力压力，幕府寻求朝廷及诸藩意见。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 123
+    },
+    {
+      "id": "wr-jp-iesada",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家定",
+      "personalName": "德川家定",
+      "aliases": [
+        "徳川家定"
+      ],
+      "born": "1824年",
+      "died": "1858年",
+      "birthPlace": "",
+      "family": "家庆之子，配偶包括笃姬；无嗣，家茂继任。",
+      "reigns": [
+        {
+          "start": 1853,
+          "end": 1858,
+          "label": "1853—1858年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在外部开港压力下继任，健康状况与无子使继承成为重大政治问题。1854年日美和亲条约和1858年通商条约的谈判，主要由幕府官员推动，而朝廷许可及将军继嗣争论使政治分裂加剧。把开国一概归于将军个人意志，会掩盖复杂的决策结构。"
+      ],
+      "highlights": [
+        {
+          "date": "1854年",
+          "year": 1854,
+          "title": "日美和亲条约",
+          "text": "开放有限港口，后续通商条约进一步改变体制。"
+        },
+        {
+          "date": "1858年",
+          "year": 1858,
+          "title": "继承与通商争议",
+          "text": "政治清洗和幕府合法性危机加深。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 146
+    },
+    {
+      "id": "wr-jp-iemochi",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家茂",
+      "personalName": "德川家茂",
+      "aliases": [
+        "徳川家茂"
+      ],
+      "born": "1846年",
+      "died": "1866年",
+      "birthPlace": "",
+      "family": "纪州德川家出身，配偶和宫亲子内亲王。",
+      "reigns": [
+        {
+          "start": 1858,
+          "end": 1866,
+          "label": "1858—1866年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为纪州藩主，年少被选为将军继承人。与孝明天皇之妹和宫成婚，是公武合体政策的一部分；然而尊王攘夷、开港与诸藩军事对立仍不断升级。幕府讨伐长州时遭遇困难，他在大坂去世，统治危机未能缓解。"
+      ],
+      "highlights": [
+        {
+          "date": "1862年",
+          "year": 1862,
+          "title": "公武合体婚姻",
+          "text": "以王室联姻尝试加强朝幕政治合作。"
+        },
+        {
+          "date": "1866年",
+          "year": 1866,
+          "title": "长州战争中的政权危机",
+          "text": "幕府军事与政治威信受挫，家茂去世。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 125
+    },
+    {
+      "id": "wr-jp-yoshinobu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川庆喜",
+      "personalName": "德川庆喜",
+      "aliases": [
+        "徳川庆喜"
+      ],
+      "born": "1837年",
+      "died": "1913年",
+      "birthPlace": "",
+      "family": "水户德川齐昭之子，后入一桥家。",
+      "reigns": [
+        {
+          "start": 1867,
+          "end": 1868,
+          "label": "1867—1868年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身水户德川家，成为一桥家继承人，长期参与幕末政治。家茂死后继承宗家并获将军职，试图调整军制、外交和政治结构。1867年大政奉还并未立即解决权力归属，次年的戊辰战争最终终结幕府政治。此后退居，晚年获公爵身份，不再是统治日本的将军。"
+      ],
+      "highlights": [
+        {
+          "date": "1867年",
+          "year": 1867,
+          "title": "大政奉还",
+          "text": "把政务交还朝廷是政治重组的一步，而非当日所有旧势力即消失。"
+        },
+        {
+          "date": "1868年",
+          "year": 1868,
+          "title": "戊辰战争与退出政治中心",
+          "text": "幕府军事失败后进入退居阶段。"
+        },
+        {
+          "year": 1867,
+          "date": "1867年",
+          "title": "大政奉还（任内史事）",
+          "text": "德川庆喜交还政权，但王政复古和军事冲突仍决定新国家的实际结构。",
+          "eventId": "ann-chron-world-east-asia-0613"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。",
+        "旧历庆应二年十二月就将军职，对应公历1867年1月；旧历庆应三年十二月的王政复古跨入公历1868年。常见年表写1866—1867年，属于旧历年号口径。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-east-asia-0613",
+          "title": "大政奉还",
+          "date": "1867年",
+          "summary": "德川庆喜交还政权，但王政复古和军事冲突仍决定新国家的实际结构。",
+          "paragraphs": [
+            "德川庆喜交还政权，但王政复古和军事冲突仍决定新国家的实际结构。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学日本历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/japan_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学朝鲜半岛历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 189
+    }
+  ]
+}

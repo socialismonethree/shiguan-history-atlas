@@ -1,0 +1,161 @@
+{
+  "id": "cl-xiliang",
+  "people": [
+    {
+      "id": "cl-xiliang-e92b8dc5d",
+      "regimeId": "cl-xiliang",
+      "name": "西梁宣帝",
+      "personalName": "萧詧",
+      "aliases": [
+        "萧詧"
+      ],
+      "born": "519年",
+      "died": "562年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 555,
+          "end": 562,
+          "label": "555—562年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "梁武帝之孙，梁末争夺中依靠西魏，江陵陷落后由西魏扶立。统治范围主要在江陵附近，军事与外交受北方保护政权制约；它继承梁号，却不能代表整个江南。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第7册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "cl-xiliang-5d4440c99",
+      "regimeId": "cl-xiliang",
+      "name": "西梁明帝",
+      "personalName": "萧岿",
+      "aliases": [
+        "萧岿"
+      ],
+      "born": "542年",
+      "died": "585年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 562,
+          "end": 585,
+          "label": "562—585年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "萧詧之子，继承江陵政权，先后奉事北周和隋。其统治以维持地方生存和萧氏宗祀为重，与北方政治联姻加深；女儿萧氏后来成为隋炀帝皇后。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第7册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "cl-xiliang-957096ca8",
+      "regimeId": "cl-xiliang",
+      "name": "西梁后主",
+      "personalName": "萧琮",
+      "aliases": [
+        "萧琮"
+      ],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "约607年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 585,
+          "end": 587,
+          "label": "585—587年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "萧岿之子，承继后处于隋统一南方的压力之下。587年入朝长安期间，江陵政局发生变动，隋撤除梁国；萧琮转为隋臣，西梁作为独立政权终结。"
+      ],
+      "highlights": [
+        {
+          "date": "587年",
+          "year": 587,
+          "title": "隋废后梁",
+          "text": "隋朝吞并江陵后梁政权，进一步控制长江中游，陈朝的战略处境更加孤立。",
+          "eventId": "ann-ce-0576"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-cdc71f1174cc"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第7册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0576",
+          "title": "隋废后梁",
+          "date": "587年",
+          "summary": "隋朝吞并江陵后梁政权，进一步控制长江中游，陈朝的战略处境更加孤立。",
+          "paragraphs": [
+            "隋朝吞并江陵后梁政权，进一步控制长江中游，陈朝的战略处境更加孤立。",
+            "灭陈前已完成对重要缓冲政权与交通节点的整合。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《隋唐五代史（上、下）》",
+              "url": "",
+              "note": "第一节 隋前期的政治与经济；用户提供合并整理本第96495—96495行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 138
+    }
+  ]
+}

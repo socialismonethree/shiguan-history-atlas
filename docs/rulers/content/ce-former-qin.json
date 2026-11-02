@@ -1,0 +1,558 @@
+{
+  "id": "ce-former-qin",
+  "people": [
+    {
+      "id": "ce-former-qin-4a13230eb2",
+      "regimeId": "ce-former-qin",
+      "name": "苻洪",
+      "personalName": "苻洪",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "350年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 350,
+          "end": 350,
+          "label": "350年—350年",
+          "role": "氐族军事首领",
+          "note": ""
+        }
+      ],
+      "life": [
+        "氐族首领，在后赵军政体系中积累力量，石氏内乱后率部向关中发展，自称大都督等名号。中毒而死后，苻健继续西进，前秦正式建国发生在其身后，故不把追尊帝号当作生前称帝。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：苻秦兴亡与淝水之战",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 115
+    },
+    {
+      "id": "ce-former-qin-337b14db0a",
+      "regimeId": "ce-former-qin",
+      "name": "苻健",
+      "personalName": "苻健",
+      "aliases": [],
+      "born": "317年",
+      "died": "355年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 351,
+          "end": 355,
+          "label": "351年—355年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继苻洪率部进入关中，先称天王，后称帝，建立前秦。吸纳当地士人与军事力量，平定竞争者并抵抗桓温北伐，使关中成为较稳定的政权基地。"
+      ],
+      "highlights": [
+        {
+          "date": "351年",
+          "year": 351,
+          "title": "苻健建立前秦",
+          "text": "苻健在关中建立秦国，结合氐人军事力量与当地行政资源，成为北方新的竞争政权。",
+          "eventId": "ann-ce-0442"
+        },
+        {
+          "date": "354年",
+          "year": 354,
+          "title": "桓温第一次北伐",
+          "text": "桓温进攻关中逼近长安，但因补给与敌军抵抗撤退，未能建立稳定的北方控制。",
+          "eventId": "ann-ce-0444"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：苻秦兴亡与淝水之战",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-65e8ec2fe067"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0442",
+          "title": "苻健建立前秦",
+          "date": "351年",
+          "summary": "苻健在关中建立秦国，结合氐人军事力量与当地行政资源，成为北方新的竞争政权。",
+          "paragraphs": [
+            "苻健在关中建立秦国，结合氐人军事力量与当地行政资源，成为北方新的竞争政权。",
+            "区域国家形成依靠人口、土地与政治联盟共同支持。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85887—85887行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0444",
+          "title": "桓温第一次北伐",
+          "date": "354年",
+          "summary": "桓温进攻关中逼近长安，但因补给与敌军抵抗撤退，未能建立稳定的北方控制。",
+          "paragraphs": [
+            "桓温进攻关中逼近长安，但因补给与敌军抵抗撤退，未能建立稳定的北方控制。",
+            "山川、粮运与地方支持制约东晋北伐成效。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85901—85901行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 170
+    },
+    {
+      "id": "ce-former-qin-9f028bb7f4",
+      "regimeId": "ce-former-qin",
+      "name": "苻生",
+      "personalName": "苻生",
+      "aliases": [],
+      "born": "335年",
+      "died": "357年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 355,
+          "end": 357,
+          "label": "355年—357年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "苻健之子，继位后宗族与宫廷冲突激烈，传世史书集中描写其残暴。苻坚等发动政变将其废杀；有关个人残疾与品行的记载应与胜利者书写区分，不把身体特征作为暴政解释。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：苻秦兴亡与淝水之战",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 112
+    },
+    {
+      "id": "ce-former-qin-034a32ffd0",
+      "regimeId": "ce-former-qin",
+      "name": "苻坚",
+      "personalName": "苻坚",
+      "aliases": [],
+      "born": "338年",
+      "died": "385年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 357,
+          "end": 385,
+          "label": "357年—385年",
+          "role": "大秦天王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在宫廷政变后掌权，使用大秦天王称号，任用王猛等整顿行政、赋役与军队，在关中建立较强统治基础。灭前燕、前凉及代等政权后，一度统一北方，原有各族军事与贵族网络仍然存在，名义统一并不意味着地方利益全部融为一体。",
+        "其对人才的吸收和一定程度的宽容为后世称道，但征服战争与强制迁徙也带来代价。王猛去世后，继续谋求南下统一东晋，383年大军在淝水方向失利。兵力规模的史书记载需谨慎，失败的关键包括指挥、部队构成、地形与士气，不能仅用一个口令或个人轻敌解释。",
+        "淝水之后，慕容、姚氏等力量重新独立，苻氏内部也未能有效协调。苻坚离开长安后被姚苌控制并杀害，前秦残余仍延续到苻崇时代。其一生展示了北方政治整合的可能与限度，不能把淝水一战写成其死后所有局势的瞬间终结。",
+        "苻坚统治的前秦一度控制北方大部，并在383年南进东晋；其成败需要结合兼并后的整合能力与军事条件。"
+      ],
+      "highlights": [
+        {
+          "date": "383年",
+          "year": 383,
+          "title": "淝水之战",
+          "text": "前秦大举南进，东晋方面组织抵抗。淝水交战中秦军失利并撤退，东晋暂时守住江南政权，北方局势随之再度变化。",
+          "eventId": "cn-feishui"
+        },
+        {
+          "date": "370年—376年",
+          "year": 370,
+          "title": "前秦统一北方的进程",
+          "text": "苻坚统治的前秦先后消灭前燕、前凉和代等势力，至376年前后控制北方大部，与东晋形成南北对峙。",
+          "eventId": "cn-fujian-unification"
+        },
+        {
+          "year": 357,
+          "date": "357年",
+          "title": "苻坚掌握前秦（任内史事）",
+          "text": "苻坚取代苻生后重用王猛等人整顿政治，逐渐建立北方较强的中央统治与动员能力。",
+          "eventId": "ann-ce-0446"
+        },
+        {
+          "year": 370,
+          "date": "370年",
+          "title": "前秦灭前燕（任内史事）",
+          "text": "王猛率军攻灭前燕，前秦控制河北，向统一北方迈出决定性一步。",
+          "eventId": "ann-ce-0451"
+        },
+        {
+          "year": 376,
+          "date": "376年",
+          "title": "前秦灭前凉与代（任内史事）",
+          "text": "前秦先后吞并河西前凉和代国，基本整合北方主要地区，苻坚开始谋求南下统一。",
+          "eventId": "ann-ce-0454"
+        },
+        {
+          "year": 385,
+          "date": "385年",
+          "title": "苻坚被杀（任内史事）",
+          "text": "苻坚在前秦崩解中被姚苌杀害，短期统一北方的尝试结束，关中继续遭战争破坏。",
+          "eventId": "ann-ce-0459"
+        }
+      ],
+      "assessment": "推动前秦扩张和北方整合，随后组织大规模南征，在淝水失利后面对政权分裂。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：苻秦兴亡与淝水之战",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "fujian"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-feishui",
+          "title": "淝水之战",
+          "date": "383年",
+          "summary": "前秦大举南进，东晋方面组织抵抗。淝水交战中秦军失利并撤退，东晋暂时守住江南政权，北方局势随之再度变化。",
+          "paragraphs": [
+            "前秦在苻坚统治下控制了北方广大地区，内部却由多个族群和原有政权势力组成。苻坚决定大举南征，试图消灭东晋；东晋朝廷以谢安、谢石、谢玄等组织防御。",
+            "前秦军从多地集结，部队行程不一，庞大名义兵数并不等于全部同时进入淝水战场。东晋北府兵先在洛涧等处取得局部胜利，提升士气并扰乱前秦前锋部署。",
+            "双方隔淝水相持。按史书记载，晋军请求前秦稍退以便渡河，秦军退动时失去秩序，晋军乘机进击，苻融战死，苻坚逃回北方。流言、指挥与部队整合问题共同放大了败局。",
+            "东晋抵御了这次进攻；前秦威望受挫，原被征服的势力相继起兵，北方重新分裂，但这一解体过程并非在战败当日立刻完成。",
+            "此战延续了南北分立格局，并显示快速扩张的国家若缺乏稳固的政治整合，可能在重大军事失败后迅速瓦解。“草木皆兵”“风声鹤唳”等成语也源于后世对这一战争的叙事。"
+          ],
+          "note": "兵数与惊恐故事含文学化因素；不把胜负解释成某一民族天生善战或某种政权必然无能。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 淝水之战与苻坚的败亡；用户提供合并整理本第86141—86141行"
+            },
+            {
+              "title": "历史纪年：晋",
+              "url": "https://ygx.sxu.edu.cn/portals/11j",
+              "note": "山西大学图书馆等；支持司马炎、东晋与十六国并行、383年淝水之战。"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        },
+        {
+          "id": "cn-fujian-unification",
+          "title": "前秦统一北方的进程",
+          "date": "370—376年主要兼并阶段",
+          "summary": "苻坚统治的前秦先后消灭前燕、前凉和代等势力，至376年前后控制北方大部，与东晋形成南北对峙。",
+          "paragraphs": [
+            "苻坚统治的前秦先后消灭前燕、前凉和代等势力，至376年前后控制北方大部，与东晋形成南北对峙。",
+            "十六国并非始终同样分散，前秦的扩展一度重新整合北方军政资源，也带来新治理难题。",
+            "前秦得以筹划大举南进，但被兼并群体与统治集团之间仍有复杂关系，统一未能稳固延续。"
+          ],
+          "note": "北方统一是概括性表述，不意味现代北方全部区域均受同一强度控制。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四章 十六国；第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85920—85940行"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0446",
+          "title": "苻坚掌握前秦",
+          "date": "357年",
+          "summary": "苻坚取代苻生后重用王猛等人整顿政治，逐渐建立北方较强的中央统治与动员能力。",
+          "paragraphs": [
+            "苻坚取代苻生后重用王猛等人整顿政治，逐渐建立北方较强的中央统治与动员能力。",
+            "用人和行政调整成为前秦崛起的重要条件。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85853—85853行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0451",
+          "title": "前秦灭前燕",
+          "date": "370年",
+          "summary": "王猛率军攻灭前燕，前秦控制河北，向统一北方迈出决定性一步。",
+          "paragraphs": [
+            "王猛率军攻灭前燕，前秦控制河北，向统一北方迈出决定性一步。",
+            "关中与河北资源整合使前秦具备更大扩张能力。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85853—85853行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0454",
+          "title": "前秦灭前凉与代",
+          "date": "376年",
+          "summary": "前秦先后吞并河西前凉和代国，基本整合北方主要地区，苻坚开始谋求南下统一。",
+          "paragraphs": [
+            "前秦先后吞并河西前凉和代国，基本整合北方主要地区，苻坚开始谋求南下统一。",
+            "军事统一速度快于对新附人口和贵族的政治整合。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85933—85933行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0459",
+          "title": "苻坚被杀",
+          "date": "385年",
+          "summary": "苻坚在前秦崩解中被姚苌杀害，短期统一北方的尝试结束，关中继续遭战争破坏。",
+          "paragraphs": [
+            "苻坚在前秦崩解中被姚苌杀害，短期统一北方的尝试结束，关中继续遭战争破坏。",
+            "前秦失败与制度整合、精英关系及战略决策共同相关。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 淝水之战与苻坚的败亡；用户提供合并整理本第86195—86195行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平详读",
+      "narrativeCharacters": 638
+    },
+    {
+      "id": "ce-former-qin-5e397b0df5",
+      "regimeId": "ce-former-qin",
+      "name": "苻丕",
+      "personalName": "苻丕",
+      "aliases": [],
+      "born": "354年",
+      "died": "386年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 385,
+          "end": 386,
+          "label": "385年—386年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "苻坚之子，曾在邺等地抵抗后燕，在父死后于晋阳即位，试图整合前秦残余。与西燕及其他力量交战失利，南下过程中被东晋将领部队杀害，王朝中心又转入陇右。"
+      ],
+      "highlights": [
+        {
+          "date": "379年",
+          "year": 379,
+          "title": "前秦攻陷襄阳",
+          "text": "秦军攻克襄阳，取得长江中游的重要军事据点，加大对东晋的战略压力。",
+          "eventId": "ann-ce-0456"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：苻秦兴亡与淝水之战",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-863b840dd7b8"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0456",
+          "title": "前秦攻陷襄阳",
+          "date": "379年",
+          "summary": "秦军攻克襄阳，取得长江中游的重要军事据点，加大对东晋的战略压力。",
+          "paragraphs": [
+            "秦军攻克襄阳，取得长江中游的重要军事据点，加大对东晋的战略压力。",
+            "南北对抗围绕水陆交通枢纽持续展开。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 佛教的传播与发展；用户提供合并整理本第93007—93007行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 139
+    },
+    {
+      "id": "ce-former-qin-b0a4e55f41",
+      "regimeId": "ce-former-qin",
+      "name": "苻登",
+      "personalName": "苻登",
+      "aliases": [],
+      "born": "343年",
+      "died": "394年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 386,
+          "end": 394,
+          "label": "386年—394年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在陇右整合苻氏及地方军事力量，承前秦帝号，与后秦姚苌长期战争。虽有多次作战机会，关中与陇右资源竞争始终不利；姚兴继后秦后击败并杀害苻登。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：苻秦兴亡与淝水之战",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ce-former-qin-44b0b5dfeb",
+      "regimeId": "ce-former-qin",
+      "name": "苻崇",
+      "personalName": "苻崇",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "394年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 394,
+          "end": 394,
+          "label": "394年—394年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "苻登之子，父死后继续使用前秦帝号，残余力量有限。依托和逃奔西秦的关系未能保存政权，同年在战争中被杀，前秦统治线结束。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：苻秦兴亡与淝水之战",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    }
+  ]
+}

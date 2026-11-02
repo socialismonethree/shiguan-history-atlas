@@ -1,0 +1,406 @@
+{
+  "id": "ce-former-liang",
+  "people": [
+    {
+      "id": "ce-former-liang-3cd4b110dd",
+      "regimeId": "ce-former-liang",
+      "name": "张轨",
+      "personalName": "张轨",
+      "aliases": [],
+      "born": "255年",
+      "died": "314年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 301,
+          "end": 314,
+          "label": "301年—314年",
+          "role": "凉州掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以晋凉州刺史身份经营河西，在中原战乱中吸收流民与士人，维持地方行政和军事。名义仍尊晋，后世称前凉开国者，不等于他在世已使用皇帝名号。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ce-former-liang-3bfd0b2481",
+      "regimeId": "ce-former-liang",
+      "name": "张寔",
+      "personalName": "张寔",
+      "aliases": [],
+      "born": "271年",
+      "died": "320年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 314,
+          "end": 320,
+          "label": "314年—320年",
+          "role": "凉州掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "承父张轨的凉州基础，继续接纳中原人口和官僚，保持晋朝名义。遭部下集团杀害后，弟张茂掌权，家族承继出现严重政治危机。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ce-former-liang-7c21de787e",
+      "regimeId": "ce-former-liang",
+      "name": "张茂",
+      "personalName": "张茂",
+      "aliases": [],
+      "born": "277年",
+      "died": "324年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 320,
+          "end": 324,
+          "label": "320年—324年",
+          "role": "凉州掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "张寔死后平定危机，接掌凉州军政。与北方强权往来，同时继续尊奉晋朝，政治名号和实际地方自主需要区别，不能仅以“臣晋”就否认其地方政权。"
+      ],
+      "highlights": [
+        {
+          "date": "320年",
+          "year": 320,
+          "title": "张氏经营河西",
+          "text": "张茂等在河西维持地方政权与晋朝名义联系，河西成为战争中相对重要的人口和文化保存地区。",
+          "eventId": "ann-ce-0429"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-22fa830385dd"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0429",
+          "title": "张氏经营河西",
+          "date": "320年",
+          "summary": "张茂等在河西维持地方政权与晋朝名义联系，河西成为战争中相对重要的人口和文化保存地区。",
+          "paragraphs": [
+            "张茂等在河西维持地方政权与晋朝名义联系，河西成为战争中相对重要的人口和文化保存地区。",
+            "分裂时代也有持续农业、贸易与文化积累的区域。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85945—85945行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 143
+    },
+    {
+      "id": "ce-former-liang-485dab1870",
+      "regimeId": "ce-former-liang",
+      "name": "张骏",
+      "personalName": "张骏",
+      "aliases": [],
+      "born": "307年",
+      "died": "346年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 324,
+          "end": 346,
+          "label": "324年—346年",
+          "role": "凉州掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "经营河西及西域联络，姑臧成为重要政治文化中心。通过官僚和士人网络扩大统治，前凉在其世实力较强；交通与文化繁荣也依靠绿洲社会和商旅群体。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ce-former-liang-ab537d9079",
+      "regimeId": "ce-former-liang",
+      "name": "张重华",
+      "personalName": "张重华",
+      "aliases": [],
+      "born": "327年",
+      "died": "353年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 346,
+          "end": 353,
+          "label": "346年—353年",
+          "role": "凉州掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "张骏之子，继位后任谢艾等抵抗后赵进攻，维护河西据点。晚期权臣和宫廷关系影响继承，幼子曜灵继位后很快遭到夺权。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "ce-former-liang-fc9592f9c1",
+      "regimeId": "ce-former-liang",
+      "name": "张曜灵",
+      "personalName": "张曜灵",
+      "aliases": [],
+      "born": "344年",
+      "died": "354年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 353,
+          "end": 353,
+          "label": "353年—353年",
+          "role": "凉州掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "张重华幼子，父死后被立，军政受张祚等控制，不久被废，次年被杀。幼年且在位极短，缺少独立施政材料，但仍是不可省略的名义君主。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ce-former-liang-900610179f",
+      "regimeId": "ce-former-liang",
+      "name": "张祚",
+      "personalName": "张祚",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "355年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 353,
+          "end": 355,
+          "label": "353年—355年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "依靠宫廷与军队夺取曜灵地位，改变长期尊晋名义并自称帝。宗族与将领反对加剧，355年内乱中被杀，玄靓随后被拥立。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ce-former-liang-60348c114b",
+      "regimeId": "ce-former-liang",
+      "name": "张玄靓",
+      "personalName": "张玄靓",
+      "aliases": [],
+      "born": "350年",
+      "died": "363年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 355,
+          "end": 363,
+          "label": "355年—363年",
+          "role": "凉州掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年被拥立，实际政治先后由张灌、宋混等集团控制。中枢争夺反复，后被叔父张天锡一方杀害，张氏承继始终受到军权和贵族网络干预。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ce-former-liang-34e64df429",
+      "regimeId": "ce-former-liang",
+      "name": "张天锡",
+      "personalName": "张天锡",
+      "aliases": [],
+      "born": "346年",
+      "died": "406年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 363,
+          "end": 376,
+          "label": "363年—376年",
+          "role": "凉州掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "内争后掌握凉州，面对前秦扩张，军事和外交空间缩小。376年前秦来攻，天锡投降，前凉独立地位结束；后来辗转归东晋，不能把亡国年写为本人卒年。"
+      ],
+      "highlights": [
+        {
+          "date": "376年",
+          "year": 376,
+          "title": "前秦灭前凉与代",
+          "text": "前秦先后吞并河西前凉和代国，基本整合北方主要地区，苻坚开始谋求南下统一。",
+          "eventId": "ann-ce-0454"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：河西张氏",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-f5c74e96f788"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0454",
+          "title": "前秦灭前凉与代",
+          "date": "376年",
+          "summary": "前秦先后吞并河西前凉和代国，基本整合北方主要地区，苻坚开始谋求南下统一。",
+          "paragraphs": [
+            "前秦先后吞并河西前凉和代国，基本整合北方主要地区，苻坚开始谋求南下统一。",
+            "军事统一速度快于对新附人口和贵族的政治整合。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 前燕与前秦的对立及苻坚的统一北方；用户提供合并整理本第85933—85933行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 140
+    }
+  ]
+}

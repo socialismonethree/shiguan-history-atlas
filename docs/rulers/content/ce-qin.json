@@ -1,0 +1,2491 @@
+{
+  "id": "ce-qin",
+  "people": [
+    {
+      "id": "ce-qin-fe7199ad00",
+      "regimeId": "ce-qin",
+      "name": "秦襄公",
+      "personalName": "嬴开",
+      "aliases": [
+        "嬴开"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -777,
+          "end": -766,
+          "label": "前777年—前766年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "平王东迁时参与护送，传统以其受命为诸侯作为秦国取得周王朝正式名分的重要节点。秦在周西部旧地经营的过程并非一次完成，之后仍需同戎人及周边势力长期竞争。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "ce-qin-e0d4ccb7ed",
+      "regimeId": "ce-qin",
+      "name": "秦文公",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -765,
+          "end": -716,
+          "label": "前765年—前716年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在关中西部推进秦的政治据点，传世记载有东猎、居汧渭之会及设置鄜畤等事。其世对周旧地的经营，为秦从边地势力向关中诸侯发展奠定条件，具体都邑地望仍须考古对读。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 112
+    },
+    {
+      "id": "ce-qin-2621bbaa30",
+      "regimeId": "ce-qin",
+      "name": "秦宁公",
+      "personalName": "嬴立",
+      "aliases": [
+        "嬴立"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -715,
+          "end": -704,
+          "label": "前715年—前704年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统又称宪公，承文公之后统治秦国，活动重心仍在关中西部。传世记其营平阳及与周边族群作战；关于宁公、宪公称号的对应，需要按照不同文献的王系加以辨别。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "ce-qin-389137b527",
+      "regimeId": "ce-qin",
+      "name": "秦出子",
+      "personalName": "嬴曼",
+      "aliases": [
+        "嬴曼"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -703,
+          "end": -698,
+          "label": "前703年—前698年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，在位期间实际权力受大臣左右，后被弗忌、威垒、三父等杀害。其死后武公继位，秦国早期君位承继中的贵族干预由此可见，不能把“出子”误认为后来战国的出公。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "ce-qin-2202117dfd",
+      "regimeId": "ce-qin",
+      "name": "秦武公",
+      "personalName": "嬴说",
+      "aliases": [
+        "嬴说"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -697,
+          "end": -678,
+          "label": "前697年—前678年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "诛除杀害出子的权臣，逐步稳定君权。传世记其对彭戏氏等势力用兵以及设县的早期活动；这些县的性质仍有发展过程，不能等同秦统一后的成熟郡县制度。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-qin-65568c04f9",
+      "regimeId": "ce-qin",
+      "name": "秦德公",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -677,
+          "end": -676,
+          "label": "前677年—前676年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位时间很短，以迁居雍和相关祭祀活动见于传世记载。雍随后长期成为秦国重要政治、宗教中心，德公本人具体施政和日常生活资料则很有限。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ce-qin-d4ef1d7136",
+      "regimeId": "ce-qin",
+      "name": "秦宣公",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -675,
+          "end": -664,
+          "label": "前675年—前664年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "承德公而立，处于秦以雍为中心发展的早期阶段。传世记录提及与晋的军事接触，关于其本人可核实的事迹不多，不能以在位年数推定详细个人政策。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ce-qin-172925e94d",
+      "regimeId": "ce-qin",
+      "name": "秦成公",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -663,
+          "end": -660,
+          "label": "前663年—前660年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "德公之子、宣公之弟，兄弟相及后继位。个人政治活动记载简略，其历史位置在于连接德公迁雍后的秦国与穆公时代，未有依据的宫廷逸闻不补写。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ce-qin-1c60388ed4",
+      "regimeId": "ce-qin",
+      "name": "秦穆公",
+      "personalName": "嬴任好",
+      "aliases": [
+        "嬴任好"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前621年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -659,
+          "end": -621,
+          "label": "前659年—前621年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "任用百里奚、蹇叔等人，参与晋国内部承继，支持重耳入晋，也与晋惠公发生韩原之战。东进在崤之战受挫后，秦更多向西方发展。其世既有求贤与外交，也有战争和殉葬；“春秋五霸”的称法不能覆盖所有复杂经历。"
+      ],
+      "highlights": [
+        {
+          "date": "前645年",
+          "year": -645,
+          "title": "韩原之战",
+          "text": "秦晋交战，晋惠公被秦军俘获，双方关系从联姻合作转向持续竞争与反复结盟。",
+          "eventId": "ann-ce-0038"
+        },
+        {
+          "date": "前636年",
+          "year": -636,
+          "title": "重耳返晋即位",
+          "text": "重耳在秦国帮助下回到晋国，整顿政治并重建军政力量，开始争取中原领导权。",
+          "eventId": "ann-ce-0041"
+        },
+        {
+          "date": "前630年",
+          "year": -630,
+          "title": "秦晋围郑",
+          "text": "秦晋联合围攻郑国，郑国利用双方利益差异促使秦退军，联盟因战略分歧破裂。",
+          "eventId": "ann-ce-0044"
+        },
+        {
+          "date": "前627年",
+          "year": -627,
+          "title": "崤之战",
+          "text": "秦军远袭失败返途中遭晋军伏击，秦国向东方扩张受阻，转而加强西部经营。",
+          "eventId": "ann-ce-0045"
+        },
+        {
+          "date": "前624年",
+          "year": -624,
+          "title": "秦晋再战与秦国西向",
+          "text": "秦晋持续交战难分最终胜负，秦国通过经营西方诸戎积累另一种地区优势。",
+          "eventId": "ann-ce-0046"
+        },
+        {
+          "date": "前623年",
+          "year": -623,
+          "title": "秦穆公扩张西戎",
+          "text": "秦国在西方建立更广泛的控制关系，后世以霸西戎概括穆公时代的区域发展。",
+          "eventId": "ann-ce-0047"
+        }
+      ],
+      "assessment": "秦晋关系与西方发展构成秦国早期崛起的两条主线。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-9a49bd6b7d4e"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0038",
+          "title": "韩原之战",
+          "date": "公元前645年",
+          "summary": "秦晋交战，晋惠公被秦军俘获，双方关系从联姻合作转向持续竞争与反复结盟。",
+          "paragraphs": [
+            "秦晋交战，晋惠公被秦军俘获，双方关系从联姻合作转向持续竞争与反复结盟。",
+            "秦晋关系成为西部诸侯格局的重要轴线。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "八、 井田制的瓦解，封建土地制的确立；用户提供合并整理本第62872—62872行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0041",
+          "title": "重耳返晋即位",
+          "date": "公元前636年",
+          "summary": "重耳在秦国帮助下回到晋国，整顿政治并重建军政力量，开始争取中原领导权。",
+          "paragraphs": [
+            "重耳在秦国帮助下回到晋国，整顿政治并重建军政力量，开始争取中原领导权。",
+            "流亡经历转化为跨国联盟和政治资源。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "五、 晋由乱而治，晋文公得政；用户提供合并整理本第62048—62048行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0044",
+          "title": "秦晋围郑",
+          "date": "公元前630年",
+          "summary": "秦晋联合围攻郑国，郑国利用双方利益差异促使秦退军，联盟因战略分歧破裂。",
+          "paragraphs": [
+            "秦晋联合围攻郑国，郑国利用双方利益差异促使秦退军，联盟因战略分歧破裂。",
+            "弱国外交可以借助强国矛盾争取生存。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "七、 晋文公霸业的扩展；用户提供合并整理本第62074—62074行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0045",
+          "title": "崤之战",
+          "date": "公元前627年",
+          "summary": "秦军远袭失败返途中遭晋军伏击，秦国向东方扩张受阻，转而加强西部经营。",
+          "paragraphs": [
+            "秦军远袭失败返途中遭晋军伏击，秦国向东方扩张受阻，转而加强西部经营。",
+            "地理通道与联盟关系限制诸侯的扩张方向。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "四、 战争规模的扩大和作战方式的多变；用户提供合并整理本第63854—63854行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0046",
+          "title": "秦晋再战与秦国西向",
+          "date": "公元前624年",
+          "summary": "秦晋持续交战难分最终胜负，秦国通过经营西方诸戎积累另一种地区优势。",
+          "paragraphs": [
+            "秦晋持续交战难分最终胜负，秦国通过经营西方诸戎积累另一种地区优势。",
+            "中原争霸之外存在不同的发展道路。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "二、 西周由盛至衰的转变；用户提供合并整理本第61713—61713行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0047",
+          "title": "秦穆公扩张西戎",
+          "date": "公元前623年",
+          "summary": "秦国在西方建立更广泛的控制关系，后世以霸西戎概括穆公时代的区域发展。",
+          "paragraphs": [
+            "秦国在西方建立更广泛的控制关系，后世以霸西戎概括穆公时代的区域发展。",
+            "为秦在关中长期立足奠定条件。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "八、 晋秦的冲突，晋襄公继霸；用户提供合并整理本第62090—62090行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 325
+    },
+    {
+      "id": "ce-qin-331fbf99c8",
+      "regimeId": "ce-qin",
+      "name": "秦康公",
+      "personalName": "嬴罃",
+      "aliases": [
+        "嬴罃"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -620,
+          "end": -609,
+          "label": "前620年—前609年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆公之子，继位后秦晋矛盾延续。其母与晋国王室的关系使秦晋既有亲缘也有政治竞争，秦军在河西方向的进退反映两国对关中东部门户的争夺。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ce-qin-8a079576be",
+      "regimeId": "ce-qin",
+      "name": "秦共公",
+      "personalName": "嬴稻",
+      "aliases": [
+        "嬴稻"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -608,
+          "end": -604,
+          "label": "前608年—前604年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继康公而立，继续处于秦晋对峙的格局。其本人在位较短，具体传世事迹有限；不把后来秦国扩张的全部成就倒推为这一短世代的个人计划。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-qin-6b251e1d84",
+      "regimeId": "ce-qin",
+      "name": "秦桓公",
+      "personalName": "嬴荣",
+      "aliases": [
+        "嬴荣"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -603,
+          "end": -577,
+          "label": "前603年—前577年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "秦晋之间发生辅氏等战事，秦的东进仍受晋国牵制。传世记录中的战争涉及卿将、地方据点和诸侯联盟，不宜仅以君主好战或怯战解释结果。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-qin-3a5e1e079a",
+      "regimeId": "ce-qin",
+      "name": "秦景公",
+      "personalName": "嬴石",
+      "aliases": [
+        "嬴石"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -576,
+          "end": -537,
+          "label": "前576年—前537年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位较长，秦晋战争及盟誓关系继续变化。凤翔秦公大墓常被研究者与秦景公相联系，墓葬规模、殉人和礼制信息能反映秦贵族社会，但墓主具体对应仍须以考古论证为准。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "ce-qin-1c5698b133",
+      "regimeId": "ce-qin",
+      "name": "秦哀公",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -536,
+          "end": -501,
+          "label": "前536年—前501年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世又有毕公等称号问题。吴军入郢后，楚臣申包胥向秦求救，秦出兵助楚；这说明秦的外交并不限于与晋争河西，也参与南方的强国均衡。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-qin-2f0cc18c28",
+      "regimeId": "ce-qin",
+      "name": "秦惠公（春秋末）",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -500,
+          "end": -491,
+          "label": "前500年—前491年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "秦哀公之后的国君，须与战国时期的同谥惠公及后来的惠文王区别。个人政事记载简略，秦在中原诸侯格局中的地位仍受到地理和军事实力的限制。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ce-qin-4d1773308b",
+      "regimeId": "ce-qin",
+      "name": "秦悼公",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -490,
+          "end": -477,
+          "label": "前490年—前477年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继惠公统治秦国，处于晋国卿族分裂加剧的时期。秦自身仍由旧贵族政治支配，尚未出现孝公时代的大规模变法；个人生平详年缺乏足够材料。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ce-qin-d74356910f",
+      "regimeId": "ce-qin",
+      "name": "秦厉共公",
+      "personalName": "嬴刺",
+      "aliases": [
+        "嬴刺"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -476,
+          "end": -443,
+          "label": "前476年—前443年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "亦称厉公。其世秦经营西部地区，同时面对晋及后来三晋势力的压力；秦国封闭与开放的评价须结合后续政治变化，而不能把王朝未来的统一简单归为其个人既定目标。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "ce-qin-cd3d331ec0",
+      "regimeId": "ce-qin",
+      "name": "秦躁公",
+      "personalName": "嬴欣",
+      "aliases": [
+        "嬴欣"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -442,
+          "end": -429,
+          "label": "前442年—前429年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统王系中继厉共公而立，后来由弟怀公承继。其个人事迹材料有限，秦的政治此时尚在旧贵族与边地经营的框架中，不能从谥号“躁”字推断详细性格。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ce-qin-dc8dd7fb56",
+      "regimeId": "ce-qin",
+      "name": "秦怀公",
+      "personalName": "嬴封",
+      "aliases": [
+        "嬴封"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -428,
+          "end": -425,
+          "label": "前428年—前425年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继躁公而立，后遭庶长晁等贵族围攻，被迫自杀。此后由其孙灵公继位，显示秦国君位选择仍深受大庶长与宗族贵族力量干预。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ce-qin-0df8348474",
+      "regimeId": "ce-qin",
+      "name": "秦灵公",
+      "personalName": "嬴肃",
+      "aliases": [
+        "嬴肃"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -424,
+          "end": -415,
+          "label": "前424年—前415年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "怀公之孙，越过怀公另一子而被拥立，后者一支形成后来的献公。其世祭祀和政治据点有所经营，但内部承继的不稳尚未解除。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ce-qin-768b757a27",
+      "regimeId": "ce-qin",
+      "name": "秦简公",
+      "personalName": "嬴悼子",
+      "aliases": [
+        "嬴悼子"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -414,
+          "end": -400,
+          "label": "前414年—前400年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "灵公后由旁支继位，秦国处于与三晋尤其魏国竞争的压力下。传统记其时有租禾、带剑等制度变化，说明社会政治并非直到商鞅才开始改变，但举措规模和性质须分别判断。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "ce-qin-308189893d",
+      "regimeId": "ce-qin",
+      "name": "秦惠公（战国初）",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -399,
+          "end": -387,
+          "label": "前399年—前387年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继简公而立，秦在河西一带受到魏的强劲压力。其死后幼子出公即位，由母及大臣控制朝政；同谥的春秋末惠公是另一位君主。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ce-qin-b599af46cf",
+      "regimeId": "ce-qin",
+      "name": "秦出公",
+      "personalName": "本名未详",
+      "aliases": [
+        "本名未详"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -386,
+          "end": -385,
+          "label": "前386年—前385年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，政治依靠太后与贵族。后灵公之子从魏回秦，在政变中夺取君位，出公及其母遇害，秦献公由此开始重新整顿内政。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ce-qin-a5d3cdec26",
+      "regimeId": "ce-qin",
+      "name": "秦献公",
+      "personalName": "嬴师隰",
+      "aliases": [
+        "嬴师隰"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -384,
+          "end": -362,
+          "label": "前384年—前362年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "早年流寓魏地，回秦后取得君位，迁都栎阳、整顿国家并恢复对魏军事竞争。其世减少旧有殉葬等改革，为孝公进一步变法提供前提；不能把秦的制度转变全部压缩成商鞅一人的突然创制。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 118
+    },
+    {
+      "id": "ce-qin-f918c4800b",
+      "regimeId": "ce-qin",
+      "name": "秦孝公",
+      "personalName": "嬴渠梁",
+      "aliases": [
+        "嬴渠梁"
+      ],
+      "born": "前381年",
+      "died": "前338年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -361,
+          "end": -338,
+          "label": "前361年—前338年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位后发布求贤令，重用商鞅推行变法，调整编户、军功爵、土地、赋役与县制。向咸阳迁移政治中心及对魏用兵，改变秦国实力。变法得以推进也依靠国君支持和军政动员，并非没有社会成本与旧贵族反抗。"
+      ],
+      "highlights": [
+        {
+          "date": "前361年",
+          "year": -361,
+          "title": "秦孝公求贤",
+          "text": "秦孝公宣布求贤以改变秦国落后局面，商鞅进入秦国，为系统改革创造政治条件。",
+          "eventId": "ann-ce-0101"
+        },
+        {
+          "date": "前356年",
+          "year": -356,
+          "title": "商鞅第一次变法",
+          "text": "秦国强化户籍、连坐、军功与农业激励，改造旧贵族政治及基层社会组织。",
+          "eventId": "ann-ce-0102"
+        },
+        {
+          "date": "前350年",
+          "year": -350,
+          "title": "秦迁都咸阳与再变法",
+          "text": "秦国迁都咸阳，进一步推行县制及土地制度调整，强化中央对基层与资源的控制。",
+          "eventId": "ann-ce-0105"
+        }
+      ],
+      "assessment": "君主政治支持是秦改革得以持续推进的重要条件。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-048320e203b3"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0101",
+          "title": "秦孝公求贤",
+          "date": "公元前361年",
+          "summary": "秦孝公宣布求贤以改变秦国落后局面，商鞅进入秦国，为系统改革创造政治条件。",
+          "paragraphs": [
+            "秦孝公宣布求贤以改变秦国落后局面，商鞅进入秦国，为系统改革创造政治条件。",
+            "君主支持与外来人才共同推动制度转型。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 齐国霸业的陨落，宋襄公图霸失败；用户提供合并整理本第62030—62030行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0102",
+          "title": "商鞅第一次变法",
+          "date": "公元前356年",
+          "summary": "秦国强化户籍、连坐、军功与农业激励，改造旧贵族政治及基层社会组织。",
+          "paragraphs": [
+            "秦国强化户籍、连坐、军功与农业激励，改造旧贵族政治及基层社会组织。",
+            "国家对人口、生产与战争的直接动员加强。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "八、 井田制的瓦解，封建土地制的确立；用户提供合并整理本第62882—62882行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0105",
+          "title": "秦迁都咸阳与再变法",
+          "date": "公元前350年",
+          "summary": "秦国迁都咸阳，进一步推行县制及土地制度调整，强化中央对基层与资源的控制。",
+          "paragraphs": [
+            "秦国迁都咸阳，进一步推行县制及土地制度调整，强化中央对基层与资源的控制。",
+            "改革从军功激励扩展为整体国家结构重组。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "一、 西周的大分封和诸侯国的建立；用户提供合并整理本第61618—61618行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 219
+    },
+    {
+      "id": "ce-qin-97ad5c0bdd",
+      "regimeId": "ce-qin",
+      "name": "秦惠文王",
+      "personalName": "嬴驷",
+      "aliases": [
+        "嬴驷"
+      ],
+      "born": "前356年",
+      "died": "前311年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -337,
+          "end": -311,
+          "label": "前337年—前311年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "孝公死后继位并处死商鞅，但商鞅所建立的制度骨架并未因此全部废弃。前325年称王，任张仪等经营连横，向巴蜀、汉中和河西扩张，秦国的资源与战略纵深进一步增加。"
+      ],
+      "highlights": [
+        {
+          "date": "前338年",
+          "year": -338,
+          "title": "商鞅被杀而新法继续",
+          "text": "秦孝公死后商鞅因政治冲突被杀，但主要制度未被整体废除，秦国继续沿改革道路发展。",
+          "eventId": "ann-ce-0110"
+        },
+        {
+          "date": "前325年",
+          "year": -325,
+          "title": "秦惠文君称王",
+          "text": "秦国采用王号，在制度改革和军事扩张基础上公开提升国家地位，加入诸王竞争。",
+          "eventId": "ann-ce-0114"
+        },
+        {
+          "date": "前312年",
+          "year": -312,
+          "title": "丹阳蓝田之战",
+          "text": "楚国与秦国连续交战失利，秦夺取汉中，楚国西北战略空间受到挤压。",
+          "eventId": "ann-ce-0118"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-f3e35b6a2f20"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0110",
+          "title": "商鞅被杀而新法继续",
+          "date": "公元前338年",
+          "summary": "秦孝公死后商鞅因政治冲突被杀，但主要制度未被整体废除，秦国继续沿改革道路发展。",
+          "paragraphs": [
+            "秦孝公死后商鞅因政治冲突被杀，但主要制度未被整体废除，秦国继续沿改革道路发展。",
+            "制度一旦嵌入国家运作，可超越改革者个人命运。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "八、 井田制的瓦解，封建土地制的确立；用户提供合并整理本第62882—62882行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0114",
+          "title": "秦惠文君称王",
+          "date": "公元前325年",
+          "summary": "秦国采用王号，在制度改革和军事扩张基础上公开提升国家地位，加入诸王竞争。",
+          "paragraphs": [
+            "秦国采用王号，在制度改革和军事扩张基础上公开提升国家地位，加入诸王竞争。",
+            "政治名号的变化反映秦国实力与战略自信上升。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "二、 县、郡制的建立；用户提供合并整理本第63415—63415行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0118",
+          "title": "丹阳蓝田之战",
+          "date": "公元前312年",
+          "summary": "楚国与秦国连续交战失利，秦夺取汉中，楚国西北战略空间受到挤压。",
+          "paragraphs": [
+            "楚国与秦国连续交战失利，秦夺取汉中，楚国西北战略空间受到挤压。",
+            "秦以外交和军事配合逐步瓦解楚国防线。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "一、 西周的大分封和诸侯国的建立；用户提供合并整理本第61594—61594行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 218
+    },
+    {
+      "id": "ce-qin-088d944507",
+      "regimeId": "ce-qin",
+      "name": "秦武王",
+      "personalName": "嬴荡",
+      "aliases": [
+        "嬴荡"
+      ],
+      "born": "前329年",
+      "died": "前307年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -310,
+          "end": -307,
+          "label": "前310年—前307年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "惠文王之子，继续向东方用兵，甘茂攻取宜阳使秦势力接近周畿。本人在洛邑举鼎受伤而死，围绕后继君位发生争夺；举鼎故事不能掩盖宜阳军事与东进通道的重要性。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "ce-qin-c2bc554d3a",
+      "regimeId": "ce-qin",
+      "name": "秦昭襄王",
+      "personalName": "嬴稷",
+      "aliases": [
+        "嬴稷"
+      ],
+      "born": "前325年",
+      "died": "前251年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -306,
+          "end": -251,
+          "label": "前306年—前251年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位跨越半个世纪，早期宣太后与魏冉掌权，后任范雎加强王权，推行远交近攻。白起等在伊阙、鄢郢和长平取得重大战果，秦国确立压倒性优势；战胜也伴随大规模杀戮、征发和人口损失。"
+      ],
+      "highlights": [
+        {
+          "date": "前288年",
+          "year": -288,
+          "title": "秦齐称帝又去帝号",
+          "text": "秦齐短暂采用东西帝号，随外交压力及利益调整而放弃，列国仍在探索新的等级秩序。",
+          "eventId": "ann-ce-0126"
+        },
+        {
+          "date": "前256年",
+          "year": -256,
+          "title": "秦灭西周国",
+          "text": "秦国攻灭西周国并控制周王室相关地区，延续数百年的周天子名义秩序终结。",
+          "eventId": "ann-ce-0136"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-4d145d2f68fd"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0126",
+          "title": "秦齐称帝又去帝号",
+          "date": "公元前288年",
+          "summary": "秦齐短暂采用东西帝号，随外交压力及利益调整而放弃，列国仍在探索新的等级秩序。",
+          "paragraphs": [
+            "秦齐短暂采用东西帝号，随外交压力及利益调整而放弃，列国仍在探索新的等级秩序。",
+            "称号竞争折射秦齐两强对天下政治的争夺。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "四 秦、齐、赵三强鼎立而斗争和苏秦为燕间谍而计谋破齐；用户提供合并整理本第69672—69672行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0136",
+          "title": "秦灭西周国",
+          "date": "公元前256年",
+          "summary": "秦国攻灭西周国并控制周王室相关地区，延续数百年的周天子名义秩序终结。",
+          "paragraphs": [
+            "秦国攻灭西周国并控制周王室相关地区，延续数百年的周天子名义秩序终结。",
+            "统一竞争失去最后的共同礼仪中心。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "二 战国史料的整理和考订；用户提供合并整理本第65829—65829行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 191
+    },
+    {
+      "id": "ce-qin-25dcb1b6c8",
+      "regimeId": "ce-qin",
+      "name": "秦孝文王",
+      "personalName": "嬴柱",
+      "aliases": [
+        "嬴柱"
+      ],
+      "born": "前302年",
+      "died": "前250年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -250,
+          "end": -250,
+          "label": "前250年—前250年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "昭襄王之子，在长期等待后继位，正式即位后极短时间去世。其子异人在吕不韦等帮助下取得继承地位，成为庄襄王。孝文王短暂统治须与服丧、改元时间区别，不能据年表整年推断实际亲政时长。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 122
+    },
+    {
+      "id": "ce-qin-3ef3a0e0f7",
+      "regimeId": "ce-qin",
+      "name": "秦庄襄王",
+      "personalName": "嬴异人（子楚）",
+      "aliases": [
+        "嬴异人（子楚）"
+      ],
+      "born": "前281年",
+      "died": "前247年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -249,
+          "end": -247,
+          "label": "前249年—前247年",
+          "role": "秦国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "早年在赵为质，与吕不韦结成政治关系，后来成为安国君所定继承人。继位后任用吕不韦，秦的东向扩张继续推进，东周小国被灭；去世后年幼的政继位。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ce-qin-c44487eb7b",
+      "regimeId": "ce-qin",
+      "name": "秦始皇",
+      "personalName": "嬴政",
+      "aliases": [
+        "嬴政",
+        "赵政"
+      ],
+      "born": "前259年",
+      "died": "前210年",
+      "birthPlace": "赵国邯郸（今河北邯郸）",
+      "family": "秦庄襄王之子，母赵姬；扶苏、胡亥等为其子。吕不韦为生父的说法不作已证事实。",
+      "reigns": [
+        {
+          "start": -246,
+          "end": -221,
+          "label": "前246—前221年",
+          "role": "秦王",
+          "note": "前247年承继，王年以前246年为元年。"
+        },
+        {
+          "start": -221,
+          "end": -210,
+          "label": "前221—前210年",
+          "role": "皇帝",
+          "note": "统一六国后开始使用皇帝称号。"
+        }
+      ],
+      "life": [
+        "生于赵都邯郸，父为秦庄襄王，母为赵姬。幼年回秦后成为继承人，始皇王年以此前246年为元年，早期朝政受吕不韦、太后等影响。嫪毐事件与吕不韦失势后，他逐步掌握权力，任用李斯、王翦等文武人物，利用秦长期积累的官僚、军事和经济优势，先后兼并六国。前221年开始使用皇帝称号。",
+        "统一后，他将郡县行政、法律文书、度量衡等制度推广到更广地区，巡行刻石和大型工程则展示新皇权。驰道、边地驻军、岭南战争及陵墓营造均需大量资源和劳动力，既构成帝国整合的一面，也加重征发与统治成本。所谓书同文并不意味着各地日常书写瞬间完全一致，也不能理解成由他一人凭空发明此前不存在的制度。",
+        "晚年政治包括焚书、方士活动和继承不明等问题，史料有不同叙述层次。前210年巡行途中去世后，胡亥与赵高、李斯一方控制继承，帝国很快陷入起义与内乱。评价秦始皇，应同时说明统一与制度整合的长期影响、战争和强制征发的代价；秦的迅速覆亡既涉及个人统治方式，也涉及制度运行、地方社会与继承危机，不能只用英雄或暴君单一形象解释。",
+        "秦王嬴政完成六国兼并后称皇帝，推进郡县、共同标准与边疆工程。其统治成就与征发、思想控制及政治压力应同时观察，避免单面评价。"
+      ],
+      "highlights": [
+        {
+          "date": "前221年",
+          "year": -221,
+          "title": "秦统一六国与帝制建立",
+          "text": "秦在持续兼并战争后完成对六国的征服，秦王政称皇帝，并在更大范围推行郡县等治理安排。统一战争的结束开启了新的帝国政治问题。",
+          "eventId": "unify"
+        },
+        {
+          "date": "前221年—前210年",
+          "year": -221,
+          "title": "秦始皇陵与俑群",
+          "text": "帝陵工程贯穿秦始皇统治；此条仅展示帝国阶段，非完整工程起讫。",
+          "eventId": "cn-qin-mausoleum"
+        },
+        {
+          "date": "前221年—前210年",
+          "year": -221,
+          "title": "书同文与统一度量衡",
+          "text": "秦以原秦制为基础推广计量、货币与文字规范，标准量器加刻诏文，官府和各地事务因此获得共同依据。文字书写本身仍有持续演变。",
+          "eventId": "v5-qin-standards"
+        },
+        {
+          "date": "前215年—前211年",
+          "year": -215,
+          "title": "北方用兵与长城整修",
+          "text": "秦派蒙恬等向北方用兵，控制河套相关地区，并利用既有城墙整修防御、安排移民戍守。军事、工程与人口调动在边地治理中结合。",
+          "eventId": "v5-qin-north"
+        },
+        {
+          "date": "前213年—前212年",
+          "year": -213,
+          "title": "焚书与坑儒记载",
+          "text": "秦朝围绕分封与政治批评的争论颁布焚书禁令，随后又有惩处诸生等记载。传统以焚书坑儒概括两事，它们的对象与经过应分别考察。",
+          "eventId": "v5-qin-books"
+        }
+      ],
+      "assessment": "推动统一及帝国治理制度的建立，计量诏文与出土材料留下可与文献对照的实物线索。",
+      "uncertainties": [
+        "焚书和坑杀诸生的对象、规模及记载可信度有讨论；皇帝制度不是凭空出现，与战国政治发展紧密相关。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        },
+        {
+          "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+          "url": "",
+          "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+        },
+        {
+          "title": "千古一帝秦始皇（内容介绍与年表摘述）",
+          "url": "https://www.cp.com.cn/book/c1cddc9c-5.html",
+          "note": "商务印书馆、张大可；出版社页面用于核对生卒和著作覆盖范围，不视为已读全书。"
+        }
+      ],
+      "existingPersonIds": [
+        "qinshi"
+      ],
+      "works": [
+        {
+          "title": "秦刻石与统一诏文",
+          "note": "反映朝廷的政治宣示，须与简牍、器物和后世记载对照，不能只据自我颂扬评价统治。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "unify",
+          "title": "秦统一六国与帝制建立",
+          "date": "前221年",
+          "summary": "秦在持续兼并战争后完成对六国的征服，秦王政称皇帝，并在更大范围推行郡县等治理安排。统一战争的结束开启了新的帝国政治问题。",
+          "paragraphs": [
+            "秦的优势来自长期制度改革、关中与巴蜀资源、军事组织和六国间的外交分化。统一不是某一年突然发生，也不能只归结为秦王政个人的雄才。",
+            "秦先后灭韩、赵、魏、楚、燕、齐，采取分化盟国、集中兵力和接管据点等手段。各国抵抗、投降与地方整合情形不同，部分地区在军事胜利后仍存在反抗力量。",
+            "前221年齐国灭亡后，秦王政确立皇帝称号，在中央设置负责行政、军事和监察的官员，并将郡县治理推广到更广区域。国家同时处理法律、文字、计量、货币和道路等整合问题。",
+            "以诸侯竞争为主要格局的战国时代结束，秦建立了跨区域的统一帝国；但秦的统治只维持短暂时期，沉重徭役、政治高压和继承危机迅速引发新冲突。",
+            "统一帝国及郡县行政为此后王朝提供了重要制度框架。评价这一成就仍须看到战争伤亡、迁徙和征发的社会成本：制度的长期影响与秦朝实际统治的失败，是需要同时理解的两面。"
+          ],
+          "note": "秦制继承许多战国制度，并非一人凭空创设；统一疆域不可直接套用今天的国家边界。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "第九章 秦的统一；用户提供合并整理本第70089—70121行"
+            },
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "第三章 秦王朝的统治；一 暴虐和愚蠢的“焚书坑儒”；用户提供合并整理本第74963—74963行"
+            },
+            {
+              "title": "商鞅方升",
+              "url": "https://www.shanghaimuseum.net/mu/show/202411/4335e32d-3cce-4602-955b-17ed7e0b9e59/",
+              "note": "上海博物馆 · 秋慧婷，2024；前344年器物与前221年加刻诏书支持制度延续；不可据此解释秦统一的全部原因。"
+            },
+            {
+              "title": "秦汉帝国的艺术与制度",
+              "url": "https://www.metmuseum.org/fr/press/exhibitions/2016/age-of-empires",
+              "note": "大都会艺术博物馆 · 展览说明，2016；秦汉分期及制度背景。秦终结有前207/前206等口径，应明确事件依据。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        },
+        {
+          "id": "cn-qin-mausoleum",
+          "title": "秦始皇陵与俑群",
+          "date": "前221年",
+          "summary": "帝陵工程贯穿秦始皇统治；此条仅展示帝国阶段，非完整工程起讫。",
+          "paragraphs": [
+            "帝陵工程贯穿秦始皇统治；此条仅展示帝国阶段，非完整工程起讫。"
+          ],
+          "note": "秦期末前207/前206存在年表口径差异；展厅以遗存为证，不重建未经证实的精确军阵疆域。",
+          "sources": [
+            {
+              "title": "秦始皇陵",
+              "url": "https://whc.unesco.org/en/list/441",
+              "note": "联合国教科文组织 · 世界遗产中心；秦俑、陵园与军阵形象的参考；本站插画并非遗址照片或复原。"
+            }
+          ]
+        },
+        {
+          "id": "v5-qin-standards",
+          "title": "书同文与统一度量衡",
+          "date": "前221年",
+          "summary": "秦以原秦制为基础推广计量、货币与文字规范，标准量器加刻诏文，官府和各地事务因此获得共同依据。文字书写本身仍有持续演变。",
+          "paragraphs": [
+            "战国各国的文字形体、计量器、货币与道路管理各有传统。秦统一之后，需要让赋税、运输、司法文书和跨地区交换使用可沟通的标准，否则军事上的统一难以转化为日常行政。",
+            "度量衡方面，秦把既有标准推广，并在量器、权器上刻铸统一诏文。国博所藏秦始皇、秦二世双诏版说明政权通过文字命令和实物标准共同确认规范，并非单凭口头宣示。",
+            "文字方面，官方整理并推广规范字形，便利官文书传递；货币和交通政策也服务于跨地区治理。但基层书写继续具有实际变化，不能想象全国人民在同一年整齐改用一种完全相同的字。",
+            "统一标准加强了国家对地方的财政和行政联系，促进不同区域之间物资与信息流动。许多措施在秦亡后经汉代调整继续发挥作用。",
+            "这些制度是理解秦历史地位的重要入口：它们不仅是帝王功绩清单，更直接涉及官吏核算、百姓交易、粮食征收和运输成本。通过器物铭文，可以把宏观的“大一统”还原为可观察的治理技术。"
+          ],
+          "note": "统一程度及推行速度因地区而异；“书同文”不等于方言消失，也不等于秦发明文字或首次发明度量衡。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "第三章 秦王朝的统治；一 经济政策；用户提供合并整理本第74813—74909行"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            },
+            {
+              "title": "秦始皇、秦二世双诏版",
+              "url": "https://www.chnmuseum.cn/zp/zpml/csp/202008/t20200826_247416.shtml",
+              "note": "中国国家博物馆；器物页面支撑诏版与商鞅标准继承，不承担全部统一政策证据。"
+            }
+          ]
+        },
+        {
+          "id": "v5-qin-north",
+          "title": "北方用兵与长城整修",
+          "date": "前215年",
+          "summary": "秦派蒙恬等向北方用兵，控制河套相关地区，并利用既有城墙整修防御、安排移民戍守。军事、工程与人口调动在边地治理中结合。",
+          "paragraphs": [
+            "秦派蒙恬等向北方用兵，控制河套相关地区，并利用既有城墙整修防御、安排移民戍守。军事、工程与人口调动在边地治理中结合。",
+            "它显示统一后帝国仍面临边疆军事与资源组织问题，也涉及不同人群的长期互动。",
+            "北方防御与行政据点发展，同时战争、修筑和戍守增加国家与民众负担。"
+          ],
+          "note": "不把今天可见明长城外观当秦长城，也不照书中旧统计绘制精确边界。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "第二章 秦王朝的建立；一 匈奴和秦王朝的关系；用户提供合并整理本第74227—74246行"
+            }
+          ]
+        },
+        {
+          "id": "v5-qin-books",
+          "title": "焚书与坑儒记载",
+          "date": "前213年",
+          "summary": "秦朝围绕分封与政治批评的争论颁布焚书禁令，随后又有惩处诸生等记载。传统以焚书坑儒概括两事，它们的对象与经过应分别考察。",
+          "paragraphs": [
+            "秦朝围绕分封与政治批评的争论颁布焚书禁令，随后又有惩处诸生等记载。传统以焚书坑儒概括两事，它们的对象与经过应分别考察。",
+            "它是讨论帝国思想控制、知识传播与文献损失的重要事件，不能仅当作传奇故事。",
+            "部分典籍流传与思想活动受到限制，后世又不断围绕事件范围与性质进行讨论。"
+          ],
+          "note": "两事并非同一天；坑杀对象与细节有争议，不采用晚出种瓜诱杀传说作定论。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "第三章 秦王朝的统治；一 暴虐和愚蠢的“焚书坑儒”；用户提供合并整理本第74961—74983行"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0139",
+          "title": "嬴政即位与吕不韦辅政",
+          "date": "公元前246年",
+          "summary": "少年秦王即位，吕不韦掌握重要政务，秦在相对稳定的制度框架内继续推进兼并。",
+          "paragraphs": [
+            "少年秦王即位，吕不韦掌握重要政务，秦在相对稳定的制度框架内继续推进兼并。",
+            "王位继承与大臣政治共同影响统一前夕的秦。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "二、 春秋史的主要文献资料；用户提供合并整理本第61456—61456行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0143",
+          "title": "嫪毐叛乱被平定",
+          "date": "公元前238年",
+          "summary": "秦王平定嫪毐集团的武装反叛，进一步控制宫廷与政权核心，削弱依附太后的势力。",
+          "paragraphs": [
+            "秦王平定嫪毐集团的武装反叛，进一步控制宫廷与政权核心，削弱依附太后的势力。",
+            "统一前的秦也需解决宫廷权力及继承威胁。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "五 铸造货币的广泛流通和高利贷的横行；用户提供合并整理本第67353—67353行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0144",
+          "title": "逐客令与谏逐客书",
+          "date": "公元前237年",
+          "summary": "秦王曾下令驱逐外来客卿，李斯上书反对，政策改变使秦继续吸收列国人才。",
+          "paragraphs": [
+            "秦王曾下令驱逐外来客卿，李斯上书反对，政策改变使秦继续吸收列国人才。",
+            "用人开放直接关系国家行政与扩张能力。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "一 冶铁技术的进步和铁制生产工具的广泛使用；用户提供合并整理本第66216—66216行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0156",
+          "title": "秦灭齐完成六国统一",
+          "date": "公元前221年",
+          "summary": "秦军进入齐国，齐王投降；秦建立皇帝名号并以郡县等制度治理新统一的领土。",
+          "paragraphs": [
+            "秦军进入齐国，齐王投降；秦建立皇帝名号并以郡县等制度治理新统一的领土。",
+            "诸侯竞争转入统一帝国的行政与社会整合。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "一 封建土地所有制的确立；用户提供合并整理本第73572—73572行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0157",
+          "title": "秦修驰道",
+          "date": "公元前220年",
+          "summary": "秦王朝修建以首都为中心的道路网络，加强政令、军队和物资在广大领土上的流动。",
+          "paragraphs": [
+            "秦王朝修建以首都为中心的道路网络，加强政令、军队和物资在广大领土上的流动。",
+            "交通工程为统一行政提供实际连接条件。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "三 加强统治的其他措施；用户提供合并整理本第74933—74933行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0158",
+          "title": "秦始皇东巡与封禅",
+          "date": "公元前219年",
+          "summary": "秦始皇巡行东方并举行政治仪式，通过刻石和礼仪宣布新秩序并展示皇帝权威。",
+          "paragraphs": [
+            "秦始皇巡行东方并举行政治仪式，通过刻石和礼仪宣布新秩序并展示皇帝权威。",
+            "统一需要象征建构，也需要回应不同地域传统。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "一 皇权和皇位的确立；用户提供合并整理本第73986—73986行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0159",
+          "title": "博浪沙袭击",
+          "date": "公元前218年",
+          "summary": "张良策划对秦始皇巡行队伍的袭击未果，反秦力量在统一后仍以多种方式存在。",
+          "paragraphs": [
+            "张良策划对秦始皇巡行队伍的袭击未果，反秦力量在统一后仍以多种方式存在。",
+            "六国覆亡没有立即消除旧国认同与政治反抗。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "二 五年中的三次出巡；用户提供合并整理本第75063—75063行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0162",
+          "title": "焚书令",
+          "date": "公元前213年",
+          "summary": "秦廷禁止部分私人藏书和以古议政活动，博士官收藏与实用书籍等存在不同处理。",
+          "paragraphs": [
+            "秦廷禁止部分私人藏书和以古议政活动，博士官收藏与实用书籍等存在不同处理。",
+            "知识控制成为皇权塑造统一政治话语的手段。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "一 暴虐和愚蠢的“焚书坑儒”；用户提供合并整理本第74965—74965行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0164",
+          "title": "修直道与营建阿房宫",
+          "date": "公元前212年",
+          "summary": "秦王朝推进北向直道及大型宫殿工程，国家动员规模扩大，徭役和财政压力加深。",
+          "paragraphs": [
+            "秦王朝推进北向直道及大型宫殿工程，国家动员规模扩大，徭役和财政压力加深。",
+            "帝国工程能力与民众负担同时增长。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "三 加强统治的其他措施；用户提供合并整理本第74941—74941行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0163",
+          "title": "坑杀方士儒生的记载",
+          "date": "公元前212年",
+          "summary": "史书记载秦廷追究方士及相关人士并处死多人，人员身份、规模和细节需区分史料层次。",
+          "paragraphs": [
+            "史书记载秦廷追究方士及相关人士并处死多人，人员身份、规模和细节需区分史料层次。",
+            "思想控制与皇帝求仙活动的矛盾交织。"
+          ],
+          "note": "史书记载秦廷追究方士及相关人士并处死多人，人员身份、规模和细节需区分史料层次。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "二 军事制度和徭役；用户提供合并整理本第74591—74591行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0165",
+          "title": "秦始皇去世与沙丘政变",
+          "date": "公元前210年",
+          "summary": "秦始皇巡行中去世，赵高等改变继承安排，胡亥继位并打击宗室与重臣。",
+          "paragraphs": [
+            "秦始皇巡行中去世，赵高等改变继承安排，胡亥继位并打击宗室与重臣。",
+            "高度集中的权力缺少稳定交接便可能迅速失控。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "三 第五次巡行和始皇之死；用户提供合并整理本第75092—75092行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平详读",
+      "narrativeCharacters": 797
+    },
+    {
+      "id": "ce-qin-c602769834",
+      "regimeId": "ce-qin",
+      "name": "秦二世",
+      "personalName": "嬴胡亥",
+      "aliases": [
+        "秦二世胡亥",
+        "胡亥",
+        "嬴胡亥"
+      ],
+      "born": "前230年",
+      "died": "前207年",
+      "birthPlace": "出生地点未作确证",
+      "family": "秦始皇之子，扶苏之弟。",
+      "reigns": [
+        {
+          "start": -210,
+          "end": -207,
+          "label": "前210年—前207年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "秦始皇之子，始皇去世后在赵高、李斯支持下取得继承，前209年为其王年元年。其统治初期大量诛杀宗室及异己，赵高权力上升；陈胜吴广起事后，地方反秦力量迅速发展，章邯虽一度扭转战局，也无法修复中央与军队的信任。胡亥最终被赵高一方逼死，秦的皇帝制度在其身上呈现继承封闭、信息壅蔽与高压统治的危机。",
+        "胡亥在始皇去世后的继承安排中即位，其统治与赵高权势、宫廷冲突及秦末起义相交织。后来被逼自杀，子婴继立，秦朝迅速走向终结。"
+      ],
+      "highlights": [
+        {
+          "date": "前209年",
+          "year": -209,
+          "title": "陈胜吴广起义",
+          "text": "陈胜、吴广率戍卒在大泽乡起事，随后建立张楚政权并向外发展。反秦行动引发各地响应，秦末局势由局部反抗转为广泛战争。",
+          "eventId": "v5-qin-dazexiang"
+        },
+        {
+          "date": "前207年—前206年",
+          "year": -207,
+          "title": "子婴投降与秦政权终结",
+          "text": "反秦战争逼近关中，秦朝内部又发生赵高、二世与子婴之间的权力冲突。刘邦军进入关中后，子婴投降，秦的帝国统治终结。",
+          "eventId": "qinend"
+        },
+        {
+          "year": -210,
+          "date": "公元前210年",
+          "title": "秦始皇去世与沙丘政变（任内史事）",
+          "text": "秦始皇巡行中去世，赵高等改变继承安排，胡亥继位并打击宗室与重臣。",
+          "eventId": "ann-ce-0165"
+        }
+      ],
+      "assessment": "其继位与在位时期的权力安排，提供观察帝国继承机制、君臣关系和统治危机的重要线索。",
+      "uncertainties": [
+        "即位在前210年，二世元年是前209年；不把改元年误作首次掌权之年。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "v5-huhai",
+        "ann-person-269e59ced498"
+      ],
+      "relatedEvents": [
+        {
+          "id": "v5-qin-dazexiang",
+          "title": "陈胜吴广起义",
+          "date": "前209年",
+          "summary": "陈胜、吴广率戍卒在大泽乡起事，随后建立张楚政权并向外发展。反秦行动引发各地响应，秦末局势由局部反抗转为广泛战争。",
+          "paragraphs": [
+            "秦统一后持续征发人力，修筑、戍守与战争造成沉重负担。始皇去世后的继承争夺及二世统治加深危机；陈胜、吴广带领戍卒反抗，正是在长期不满中找到爆发点。",
+            "据《史记》叙述，一行戍卒途中遇雨失期，陈胜、吴广利用扶苏、项燕等政治符号组织群众，杀死押送军官，在大泽乡起兵。鱼书狐鸣属于史书记载的动员情节，应与可独立验证的事实层次区分。",
+            "义军迅速攻占多处县城，进入陈县后建立张楚政权，并派兵向关中及各地发展。扩张速度很快，但内部指挥、各支军队之间的协调与后续补给存在困难，秦将章邯的反击改变战局。",
+            "陈胜政权最终失败，陈胜、吴广相继身亡；各地反秦战争却继续扩大，项羽、刘邦及恢复旧国号的势力成为后续竞争者。",
+            "起义撼动了秦的基层控制，使统一帝国陷入全面战争。其意义不应仅以起义军是否最终取得皇位衡量；它揭示严密行政体制在过度征发和政治危机下同样可能迅速失效。"
+          ],
+          "note": "“失期当斩”是传世叙事，出土秦律所见对不同征发、天气和迟到情形的处理更复杂，不能概括为一切遇雨误期者皆死。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "二 起义的爆发和反秦战争的初步胜利；用户提供合并整理本第75157—75157行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        },
+        {
+          "id": "qinend",
+          "title": "子婴投降与秦政权终结",
+          "date": "公元前207年前后",
+          "summary": "反秦战争逼近关中，秦朝内部又发生赵高、二世与子婴之间的权力冲突。刘邦军进入关中后，子婴投降，秦的帝国统治终结。",
+          "paragraphs": [
+            "反秦战争逼近关中，秦朝内部又发生赵高、二世与子婴之间的权力冲突。刘邦军进入关中后，子婴投降，秦的帝国统治终结。",
+            "秦亡表明军事、政治与社会危机互相作用，也开启楚汉争夺及新王朝重建。",
+            "秦留下的许多制度被后继政权调整沿用，王朝结束并未使帝国治理经验全部消失。"
+          ],
+          "note": "子婴降汉通常系前207年；书中及部分年表以汉元年冬记前206，保留口径区别。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "第六章 西汉王朝的诞生和汉初的统治；一 “与民休息”的统治政策；用户提供合并整理本第75880—75896行"
+            },
+            {
+              "title": "秦汉帝国的艺术与制度",
+              "url": "https://www.metmuseum.org/fr/press/exhibitions/2016/age-of-empires",
+              "note": "大都会艺术博物馆 · 展览说明，2016；秦汉分期及制度背景。秦终结有前207/前206等口径，应明确事件依据。"
+            },
+            {
+              "title": "咸阳市秦都区志 · 大事记",
+              "url": "https://dfz.shaanxi.gov.cn/zslm/fzzlk/xbsxsxz/xbsxz/xys_16200/201405/P020240923610537178923.pdf",
+              "note": "陕西省地方志办公室 · 数字方志；大事记将子婴元年列为前207、汉王元年列为前206；供比较年表口径。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0165",
+          "title": "秦始皇去世与沙丘政变",
+          "date": "公元前210年",
+          "summary": "秦始皇巡行中去世，赵高等改变继承安排，胡亥继位并打击宗室与重臣。",
+          "paragraphs": [
+            "秦始皇巡行中去世，赵高等改变继承安排，胡亥继位并打击宗室与重臣。",
+            "高度集中的权力缺少稳定交接便可能迅速失控。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "三 第五次巡行和始皇之死；用户提供合并整理本第75092—75092行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 387
+    },
+    {
+      "id": "ce-qin-4e33a930e0",
+      "regimeId": "ce-qin",
+      "name": "子婴",
+      "personalName": "嬴子婴",
+      "aliases": [
+        "嬴子婴"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前206年",
+      "birthPlace": "出生地点未作确证",
+      "family": "与秦始皇的具体亲属辈分有争议。",
+      "reigns": [
+        {
+          "start": -207,
+          "end": -207,
+          "label": "前207年—前207年",
+          "role": "秦王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "赵高在胡亥死后改立子婴为秦王，皇帝称号被撤回。子婴设谋除掉赵高，但秦军与关中形势已难挽回，随后向进入关中的刘邦投降。项羽入关后将其杀害。子婴与始皇的具体亲属关系在史籍解释中有争议，因此不强定为始皇之孙或弟侄。"
+      ],
+      "highlights": [
+        {
+          "date": "前207年",
+          "year": -207,
+          "title": "刘邦入关与秦亡",
+          "text": "刘邦进入关中，秦王子婴投降，短暂的秦王朝终结，统一领土进入新一轮权力竞争。",
+          "eventId": "ann-ce-0171"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "即位与降汉在传统秦二世三年；项羽入关杀子婴通常系公历前206年，岁首历法造成前207/206年的表述差异。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》及林剑鸣《秦汉史》：秦国政治与统一、秦帝国",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-d89743c83bcd"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0171",
+          "title": "刘邦入关与秦亡",
+          "date": "公元前207年",
+          "summary": "刘邦进入关中，秦王子婴投降，短暂的秦王朝终结，统一领土进入新一轮权力竞争。",
+          "paragraphs": [
+            "刘邦进入关中，秦王子婴投降，短暂的秦王朝终结，统一领土进入新一轮权力竞争。",
+            "推翻王朝之后仍需解决政权与地区关系重建。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "林剑鸣《秦汉史（全二册）》",
+              "url": "",
+              "note": "一 秦末农民大起义的前奏；用户提供合并整理本第75133—75133行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 176
+    }
+  ]
+}

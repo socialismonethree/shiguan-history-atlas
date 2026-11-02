@@ -1,0 +1,611 @@
+{
+  "id": "rs-hawaii",
+  "people": [
+    {
+      "id": "rs-acaedbc7657f",
+      "regimeId": "rs-hawaii",
+      "name": "卡美哈梅哈一世",
+      "personalName": "卡美哈梅哈一世",
+      "aliases": [],
+      "born": "约1758年（有争议）",
+      "died": "1819年",
+      "birthPlace": "夏威夷岛北科哈拉王族背景，后建立夏威夷王国。",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1795,
+          "end": 1819,
+          "label": "1795—1819年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "卡美哈梅哈一世在岛屿诸首领竞争和欧洲船舶到来的时代，通过战争、联盟和外交实现群岛政治整合。原住民政治并非欧洲接触后才开始，其权力来源包含亲属、宗教和土地关系。",
+        "早年受军事、航海、口传史和礼仪训练。卡拉尼奥普乌去世后，继承与土地分配争议引起战争，卡美哈梅哈逐步扩大力量。",
+        "取得其他岛屿的支配时，既使用外来武器和顾问，也依靠当地联盟；考艾的纳入以1810年的政治安排为重要节点。",
+        "建立持续的王国组织，改变群岛各政体间的关系。",
+        "在外来商贸增长中保有主动谈判能力，把新技术用于本土竞争与国家建设。"
+      ],
+      "highlights": [
+        {
+          "year": 1810,
+          "date": "1810年",
+          "title": "群岛统一",
+          "text": "考爱岛统治者与其达成政治安排；战争与协商共同构成统一过程。"
+        },
+        {
+          "year": 1795,
+          "date": "1795年",
+          "title": "夏威夷王国整合（任内史事）",
+          "text": "卡美哈梅哈通过战争、联盟和外交逐步整合夏威夷主要岛屿。统一王权发展，后在贸易、传教和外来资本影响中继续转型。",
+          "eventId": "we-hawaiiunification"
+        },
+        {
+          "year": 1795,
+          "date": "1795年",
+          "title": "卡美哈梅哈控制瓦胡岛（任内史事）",
+          "text": "努阿努战役巩固其对多数夏威夷岛屿的优势，统一仍等待考艾岛协商。",
+          "eventId": "ann-chron-world-oceania-1131"
+        }
+      ],
+      "assessment": "他是夏威夷国家历史的重要人物，王国的存在也提醒人们美国后来的控制不是自古如此。",
+      "uncertainties": [
+        "统一包含暴力和不平等，不等于所有岛民一致同意；出生神迹属于传统记忆，不作为确年证据。"
+      ],
+      "sources": [
+        {
+          "title": "夏威夷大学法学院：王国法律与历任君主",
+          "url": "https://law-hawaii.libguides.com/c.php?g=125440&p=1443600",
+          "note": "法学院法律史指南，提供八位君主及相应宪法、法律原件索引；部分日期为公开宣告或就职，非前任死亡当日。"
+        },
+        {
+          "title": "美国国家公园管理局：卡美哈梅哈一世",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "出生年代有不同估计，采用约1758年并保留1753—1761年范围。"
+        },
+        {
+          "title": "美国国家公园管理局：伊奥拉尼宫",
+          "url": "https://www.nps.gov/places/iolanipalace.htm",
+          "note": "末两位君主、王国宪制与1893年政变背景。"
+        },
+        {
+          "title": "Kamehameha the Great",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "美国国家公园管理局；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+        }
+      ],
+      "works": [
+        {
+          "title": "王国制度与公共记忆",
+          "note": "其遗产主要是政治安排、地点与口传，不为人物硬配现代意义上的著作。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-hawaiiunification",
+          "title": "夏威夷王国整合",
+          "date": "1795年",
+          "summary": "卡美哈梅哈通过战争、联盟和外交逐步整合夏威夷主要岛屿。",
+          "paragraphs": [
+            "群岛已有复杂首领、土地和宗教体系，18世纪末外来商船与武器增加，改变竞争条件。卡拉尼奥普乌去世后的继承和资源争夺，使卡美哈梅哈逐步进入更大范围战争。",
+            "卡美哈梅哈通过本地联盟、军事训练和外来武器扩大优势。各岛的归属并不一次解决，战争伴随人口、土地和首领关系的重组。",
+            "对尚未直接征服的岛屿，谈判与政治安排同样重要。1810年考艾相关协议标志统一进程完成关键阶段，之后仍需维持王国内部和外来商贸关系。",
+            "形成夏威夷王国的统一王权，改变原有岛际政治格局，使群岛以本土国家身份进入19世纪国际交往。",
+            "事件有助于理解太平洋社会的政治主体性，欧洲船舶带来资源和压力，却不是当地国家起源的唯一推动者。后来王国被推翻和吞并应作为不同事件阅读。"
+          ],
+          "note": "“统一”并不意味着所有岛民一致同意，战争造成牺牲，岛屿的地位也有差别。出生传说不能用于精确推定统一者年龄。",
+          "sources": [
+            {
+              "title": "卡美哈梅哈整合夏威夷",
+              "url": "https://www.nps.gov/puhe/learn/historyculture/stories.htm",
+              "note": "美国国家公园管理局；用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+            },
+            {
+              "title": "Kamehameha the Great",
+              "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+              "note": "美国国家公园管理局；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-oceania-1131",
+          "title": "卡美哈梅哈控制瓦胡岛",
+          "date": "1795年",
+          "summary": "努阿努战役巩固其对多数夏威夷岛屿的优势，统一仍等待考艾岛协商。",
+          "paragraphs": [
+            "努阿努战役巩固其对多数夏威夷岛屿的优势，统一仍等待考艾岛协商。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "澳大利亚国家博物馆：历史关键时刻",
+              "url": "https://www.nma.gov.au/defining-moments",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "新西兰百科全书：历史",
+              "url": "https://teara.govt.nz/en/history",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 393
+    },
+    {
+      "id": "rs-93f576a55d11",
+      "regimeId": "rs-hawaii",
+      "name": "卡美哈梅哈二世",
+      "personalName": "卡美哈梅哈二世",
+      "aliases": [],
+      "born": "1797年",
+      "died": "1824年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1819,
+          "end": 1824,
+          "label": "1819—1824年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位后传统禁忌制度受到重大冲击，首领女性与王室成员也推动变革，不能将宗教变化全部归于国王一人。赴英国进行外交访问时与王后因麻疹去世，王位随后由弟弟承继。"
+      ],
+      "highlights": [
+        {
+          "year": 1819,
+          "date": "1819年",
+          "title": "禁忌制度转变",
+          "text": "王室与首领共同改变传统礼仪秩序；随后传教活动进入。"
+        },
+        {
+          "year": 1819,
+          "date": "1819年",
+          "title": "夏威夷取消部分卡普禁忌制度（任内史事）",
+          "text": "王室领导者打破男女分食等禁忌，宗教权威与社会秩序进入重大调整。",
+          "eventId": "ann-chron-world-oceania-1138"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "夏威夷大学法学院：王国法律与历任君主",
+          "url": "https://law-hawaii.libguides.com/c.php?g=125440&p=1443600",
+          "note": "法学院法律史指南，提供八位君主及相应宪法、法律原件索引；部分日期为公开宣告或就职，非前任死亡当日。"
+        },
+        {
+          "title": "美国国家公园管理局：伊奥拉尼宫",
+          "url": "https://www.nps.gov/places/iolanipalace.htm",
+          "note": "末两位君主、王国宪制与1893年政变背景。"
+        },
+        {
+          "title": "美国国家公园管理局：卡美哈梅哈一世",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "出生年代有不同估计，采用约1758年并保留1753—1761年范围。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-oceania-1138",
+          "title": "夏威夷取消部分卡普禁忌制度",
+          "date": "1819年",
+          "summary": "王室领导者打破男女分食等禁忌，宗教权威与社会秩序进入重大调整。",
+          "paragraphs": [
+            "王室领导者打破男女分食等禁忌，宗教权威与社会秩序进入重大调整。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "澳大利亚国家博物馆：历史关键时刻",
+              "url": "https://www.nma.gov.au/defining-moments",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "新西兰百科全书：历史",
+              "url": "https://teara.govt.nz/en/history",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 132
+    },
+    {
+      "id": "rs-1cf10bce8cc2",
+      "regimeId": "rs-hawaii",
+      "name": "卡美哈梅哈三世",
+      "personalName": "卡美哈梅哈三世",
+      "aliases": [],
+      "born": "1813年",
+      "died": "1854年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1825,
+          "end": 1854,
+          "label": "1825—1854年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继承王位，在摄政与外国外交压力中成长，1840年宪法使王国进入成文立宪阶段。任内争取国际承认，并推进土地制度变更；土地可转让与外国经济力量扩大，也改变了本地居民的处境。"
+      ],
+      "highlights": [
+        {
+          "year": 1840,
+          "date": "1840年",
+          "title": "第一部成文宪法",
+          "text": "王权、政府与臣民权利逐步写入制度文本。"
+        },
+        {
+          "year": 1848,
+          "date": "1848年",
+          "title": "土地大分割",
+          "text": "重组土地权利，其后续影响不能只用现代化一词概括。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "三世、四世的年段采用指南的公开就位口径；前任死亡后摄政或职位承接的过程另辨。",
+        "二世1824年去世，消息传回和公开就位跨至1825年；年度索引采用1825年公开就位口径。生年亦有1813与1814年的不同记载，本版采用大学法学院指南1813年，仍应保留异说。"
+      ],
+      "sources": [
+        {
+          "title": "夏威夷大学法学院：王国法律与历任君主",
+          "url": "https://law-hawaii.libguides.com/c.php?g=125440&p=1443600",
+          "note": "法学院法律史指南，提供八位君主及相应宪法、法律原件索引；部分日期为公开宣告或就职，非前任死亡当日。"
+        },
+        {
+          "title": "美国国家公园管理局：伊奥拉尼宫",
+          "url": "https://www.nps.gov/places/iolanipalace.htm",
+          "note": "末两位君主、王国宪制与1893年政变背景。"
+        },
+        {
+          "title": "美国国家公园管理局：卡美哈梅哈一世",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "出生年代有不同估计，采用约1758年并保留1753—1761年范围。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 129
+    },
+    {
+      "id": "rs-034730fa89db",
+      "regimeId": "rs-hawaii",
+      "name": "卡美哈梅哈四世",
+      "personalName": "卡美哈梅哈四世",
+      "aliases": [],
+      "born": "1834年",
+      "died": "1863年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1854,
+          "end": 1863,
+          "label": "1854—1863年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在外来疾病严重影响本地人口的背景下，与王后艾玛推动公共医疗，女王医院成为重要事业。外交上试图在英国与美国影响之间维持自主，王国的政治选择仍受贸易和人口危机牵动。"
+      ],
+      "highlights": [
+        {
+          "year": 1859,
+          "date": "1859年",
+          "title": "女王医院",
+          "text": "以王室动员和社会支持改善医疗条件。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "1854年12月15日官方公告宣布其承位；大学指南列1855年1月11日为公开就位日期，年度索引以承位年1854年为准。"
+      ],
+      "sources": [
+        {
+          "title": "夏威夷大学法学院：王国法律与历任君主",
+          "url": "https://law-hawaii.libguides.com/c.php?g=125440&p=1443600",
+          "note": "法学院法律史指南，提供八位君主及相应宪法、法律原件索引；部分日期为公开宣告或就职，非前任死亡当日。"
+        },
+        {
+          "title": "美国国家公园管理局：伊奥拉尼宫",
+          "url": "https://www.nps.gov/places/iolanipalace.htm",
+          "note": "末两位君主、王国宪制与1893年政变背景。"
+        },
+        {
+          "title": "夏威夷州档案馆：1854年12月15日承位公告",
+          "url": "https://digitalarchives.hawaii.gov/item/ark%3A70111/51NQ",
+          "note": "Keoni Ana发布的夏威夷文、英文公告原件，区分承位与公开就位日期。"
+        },
+        {
+          "title": "美国国家公园管理局：卡美哈梅哈一世",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "出生年代有不同估计，采用约1758年并保留1753—1761年范围。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "rs-1944bc38d71a",
+      "regimeId": "rs-hawaii",
+      "name": "卡美哈梅哈五世",
+      "personalName": "卡美哈梅哈五世",
+      "aliases": [],
+      "born": "1830年",
+      "died": "1872年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1863,
+          "end": 1872,
+          "label": "1863—1872年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "试图加强王权，1864年颁布新宪法，重新调整政治参与与行政制度。其死前未确定继承者，王朝直系承继中断，下一任君主由选举产生，王国仍保持本身的宪制与国际身份。"
+      ],
+      "highlights": [
+        {
+          "year": 1864,
+          "date": "1864年",
+          "title": "新宪法",
+          "text": "强化君主和行政权力，同时限制原有选举资格。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "夏威夷大学法学院：王国法律与历任君主",
+          "url": "https://law-hawaii.libguides.com/c.php?g=125440&p=1443600",
+          "note": "法学院法律史指南，提供八位君主及相应宪法、法律原件索引；部分日期为公开宣告或就职，非前任死亡当日。"
+        },
+        {
+          "title": "美国国家公园管理局：伊奥拉尼宫",
+          "url": "https://www.nps.gov/places/iolanipalace.htm",
+          "note": "末两位君主、王国宪制与1893年政变背景。"
+        },
+        {
+          "title": "美国国家公园管理局：卡美哈梅哈一世",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "出生年代有不同估计，采用约1758年并保留1753—1761年范围。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "rs-458d5109d541",
+      "regimeId": "rs-hawaii",
+      "name": "卢纳利洛",
+      "personalName": "卢纳利洛",
+      "aliases": [],
+      "born": "1835年",
+      "died": "1874年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1873,
+          "end": 1874,
+          "label": "1873—1874年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在卡美哈梅哈五世去世后由立法机关选为国王，并有民意投票支持。任期仅一年左右，健康问题使其未能展开长期治理；去世后再次进入王位选举，显示血缘资格与立宪程序并行。"
+      ],
+      "highlights": [
+        {
+          "year": 1873,
+          "date": "1873年",
+          "title": "选举产生国王",
+          "text": "王位空缺通过王国制度处理，不是外国直接任命。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "夏威夷大学法学院：王国法律与历任君主",
+          "url": "https://law-hawaii.libguides.com/c.php?g=125440&p=1443600",
+          "note": "法学院法律史指南，提供八位君主及相应宪法、法律原件索引；部分日期为公开宣告或就职，非前任死亡当日。"
+        },
+        {
+          "title": "美国国家公园管理局：伊奥拉尼宫",
+          "url": "https://www.nps.gov/places/iolanipalace.htm",
+          "note": "末两位君主、王国宪制与1893年政变背景。"
+        },
+        {
+          "title": "美国国家公园管理局：卡美哈梅哈一世",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "出生年代有不同估计，采用约1758年并保留1753—1761年范围。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "rs-b89b50cbd8dd",
+      "regimeId": "rs-hawaii",
+      "name": "卡拉卡瓦",
+      "personalName": "卡拉卡瓦",
+      "aliases": [],
+      "born": "1836年",
+      "died": "1891年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1874,
+          "end": 1891,
+          "label": "1874—1891年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过选举继位，在对外访问、王室礼仪与文化振兴中维护王国地位，1882年伊奥拉尼宫落成。糖业与美国的经济联系加深，1887年在武装压力下被迫接受限制王权的新宪法。文化复兴与主权受侵蚀在同一任期同时发生。"
+      ],
+      "highlights": [
+        {
+          "year": 1882,
+          "date": "1882年",
+          "title": "伊奥拉尼宫",
+          "text": "新王宫成为政府、外交与王国公共生活的中心。"
+        },
+        {
+          "year": 1887,
+          "date": "1887年",
+          "title": "刺刀宪法",
+          "text": "强制政治压力改变王权与选举制度，扩大外来精英的影响。"
+        },
+        {
+          "year": 1882,
+          "date": "1882年",
+          "title": "夏威夷伊奥拉尼宫启用（任内史事）",
+          "text": "王室以现代建筑、外交与文化复兴表达国家主权，种植园资本仍持续扩大影响。",
+          "eventId": "ann-chron-world-oceania-1163"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "夏威夷大学法学院：王国法律与历任君主",
+          "url": "https://law-hawaii.libguides.com/c.php?g=125440&p=1443600",
+          "note": "法学院法律史指南，提供八位君主及相应宪法、法律原件索引；部分日期为公开宣告或就职，非前任死亡当日。"
+        },
+        {
+          "title": "美国国家公园管理局：伊奥拉尼宫",
+          "url": "https://www.nps.gov/places/iolanipalace.htm",
+          "note": "末两位君主、王国宪制与1893年政变背景。"
+        },
+        {
+          "title": "美国国家公园管理局：卡美哈梅哈一世",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "出生年代有不同估计，采用约1758年并保留1753—1761年范围。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-oceania-1163",
+          "title": "夏威夷伊奥拉尼宫启用",
+          "date": "1882年",
+          "summary": "王室以现代建筑、外交与文化复兴表达国家主权，种植园资本仍持续扩大影响。",
+          "paragraphs": [
+            "王室以现代建筑、外交与文化复兴表达国家主权，种植园资本仍持续扩大影响。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "澳大利亚国家博物馆：历史关键时刻",
+              "url": "https://www.nma.gov.au/defining-moments",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "新西兰百科全书：历史",
+              "url": "https://teara.govt.nz/en/history",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "伊奥拉尼宫：宫殿历史与1882年竣工",
+              "url": "https://www.iolanipalace.org/history/",
+              "note": "条目所列机构或作者；来源页面已打开或检索核对；仅证明其实际涉及的相关信息。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 182
+    },
+    {
+      "id": "rs-5759cdcb7e16",
+      "regimeId": "rs-hawaii",
+      "name": "莉莉乌奥卡拉尼",
+      "personalName": "莉莉乌奥卡拉尼",
+      "aliases": [],
+      "born": "1838年",
+      "died": "1917年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1891,
+          "end": 1893,
+          "label": "1891—1893年",
+          "role": "女王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "卡拉卡瓦之妹，王国最后一位君主，也以作曲和著述留名。试图修改1887年宪法，恢复王室与本地人的政治权利，1893年遭政变推翻。此后持续以请愿、写作和外交途径反对吞并；1898年美国吞并并非她自愿移交王位。"
+      ],
+      "highlights": [
+        {
+          "year": 1893,
+          "date": "1893年",
+          "title": "王国被推翻",
+          "text": "以美国商人等为核心的反对力量发动政变，美军登陆构成重要背景；女王为避免流血提出抗议。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "夏威夷大学法学院：王国法律与历任君主",
+          "url": "https://law-hawaii.libguides.com/c.php?g=125440&p=1443600",
+          "note": "法学院法律史指南，提供八位君主及相应宪法、法律原件索引；部分日期为公开宣告或就职，非前任死亡当日。"
+        },
+        {
+          "title": "美国国家公园管理局：伊奥拉尼宫",
+          "url": "https://www.nps.gov/places/iolanipalace.htm",
+          "note": "末两位君主、王国宪制与1893年政变背景。"
+        },
+        {
+          "title": "美国国家公园管理局：卡美哈梅哈一世",
+          "url": "https://www.nps.gov/people/kamehameha-the-great.htm",
+          "note": "出生年代有不同估计，采用约1758年并保留1753—1761年范围。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 144
+    }
+  ]
+}

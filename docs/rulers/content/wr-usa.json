@@ -1,0 +1,1750 @@
+{
+  "id": "wr-usa",
+  "people": [
+    {
+      "id": "wr-us-washington",
+      "regimeId": "wr-usa",
+      "name": "乔治·华盛顿",
+      "personalName": "乔治·华盛顿",
+      "aliases": [
+        "George Washington"
+      ],
+      "born": "1732年2月22日",
+      "died": "1799年12月14日",
+      "birthPlace": "Pope’s Creek, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶玛莎·丹德里奇·卡斯蒂斯；本人出身弗吉尼亚种植园家庭。",
+      "reigns": [
+        {
+          "start": 1789,
+          "end": 1797,
+          "label": "1789—1797年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "乔治·华盛顿是北美独立战争大陆军总司令、制宪会议主持者和美国首任总统。其作用在于维持军队与政治联盟、帮助新制度获得信任，同时他也是依靠奴役劳动经营庄园的社会精英。",
+        "早年从事测量并参加英法殖民冲突，1775年获任大陆军统帅。战争中并非战战皆胜，但维持作战力量和士气是关键贡献。",
+        "独立后支持宪法，1789—1797年任两届总统，随后退任。新政府的行政权和公共仪式在其任内逐步形成先例。",
+        "在困难时期维持大陆军，联合地方与国际支持。",
+        "以较高威望帮助联邦政体起步，并以退任降低个人长期占有权力的风险。"
+      ],
+      "highlights": [
+        {
+          "date": "1775年",
+          "year": 1775,
+          "title": "大陆军总司令",
+          "text": "把分散的殖民地军事力量组织为持续作战的军队，战争并非一人独力赢得。"
+        },
+        {
+          "date": "1789年",
+          "year": 1789,
+          "title": "首任总统就职",
+          "text": "在宪法框架内建立行政先例，组织内阁与联邦机构。"
+        },
+        {
+          "date": "1796年",
+          "year": 1796,
+          "title": "决定不再连任",
+          "text": "离任前讨论政治分裂与对外关系，1797年完成和平交接。"
+        }
+      ],
+      "assessment": "以军事胜利和主动交权连接建国；不能用国父形象掩盖奴隶制现实。",
+      "uncertainties": [
+        "“国父”是后世纪念称号，不代表全部新国家由一人创造。1780年代退职与和平交权是不同节点，不可简化为一条轶事。"
+      ],
+      "sources": [
+        {
+          "title": "乔治·华盛顿：生平与个人资料",
+          "url": "https://millercenter.org/president/washington",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        },
+        {
+          "title": "George Washington",
+          "url": "https://www.nps.gov/people/georgewashington.htm",
+          "note": "美国国家公园管理局；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+        }
+      ],
+      "works": [
+        {
+          "title": "告别演说",
+          "note": "具有重要政治影响的公共文本，起草和修订包含协作，不宜当作个人随口讲话。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-american-revolution",
+          "title": "北美独立战争与建国",
+          "date": "1775年",
+          "summary": "十三殖民地围绕税收、代表与自治反抗英国，发表独立宣言并赢得战争。",
+          "paragraphs": [
+            "英国战后征税和治理安排，引发殖民地关于代表权、地方自治及西部土地的争论。不同社会群体的选择并不一致，保王派、原住民和被奴役者各有利益，不能把殖民地看作统一行动的人群。",
+            "列克星敦和康科德冲突后，大陆会议组织军队，华盛顿任统帅。1776年宣言把武装反抗转成公开独立；大陆军需应对资源短缺、地方分歧与英国优势。",
+            "萨拉托加战果帮助争取法国参战，海军和外交支援成为关键。1781年约克镇英军投降后战争并未立即法律终止，1783年巴黎和约确认美国独立。",
+            "十三殖民地建立独立国家，英帝国丧失部分北美领土。战争结束后仍须解决债务、联邦权力和各州关系，宪法制定是后续不同阶段。",
+            "革命推广人民同意和权利语言，但奴隶制继续存在，原住民面对土地扩张压力。自由的不同含义成为美国之后政治冲突的重要来源。"
+          ],
+          "note": "胜利不仅是华盛顿个人指挥的结果，也依赖法国和其他参与者；不能把宣言、战场胜利、和约与联邦政府成立合并为同一天建国。",
+          "sources": [
+            {
+              "title": "美国、法国与海地革命",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Timeline of the Revolution",
+              "url": "https://www.nps.gov/subjects/americanrevolution/timeline.htm",
+              "note": "美国国家公园管理局；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "we-usconstitution",
+          "title": "美国宪法与联邦政府",
+          "date": "1787年",
+          "summary": "制宪会议设计联邦、分权和代表制度，新政府于1789年开始运作。",
+          "paragraphs": [
+            "独立后的邦联政府难以协调贸易、财政与各州关系，政治精英要求重新安排中央权力。1787年会议原本以修改《邦联条例》为任务，但很快转向起草新的国家宪制。",
+            "代表讨论中央和州、大小州、行政与立法之间的权力。两院制、总统及司法等安排逐渐成形，奴隶制相关妥协也写入制度，限制了权利原则的适用。",
+            "文本于1787年9月签署，各州围绕中央过强和缺少权利保障激烈争论。批准达到门槛后新政府运作，《权利法案》作为后续修正回应部分批评。",
+            "形成具有更具体职权的联邦政府，建立国会、总统和法院之间的组织框架；许多实际运行规则仍须由之后的法律、争执与判例发展。",
+            "该宪法成为后世成文宪政的重要参照，同时其历史也反映通过修正和政治斗争改变原有排除。稳定文本与持续变化的权利范围并存。"
+          ],
+          "note": "1787年签署并不等于全国当即生效；最初文本也不等于今天所有修正案。原住民、被奴役者与妇女的地位，不能用“人民”一词自动涵盖。",
+          "sources": [
+            {
+              "title": "美国、法国与海地革命",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Constitution of the United States (1787)",
+              "url": "https://www.archives.gov/milestone-documents/constitution",
+              "note": "美国国家档案馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-americas-1043",
+          "title": "华盛顿就任总统",
+          "date": "1789年",
+          "summary": "新联邦制度进入实践，行政、国会与司法关系逐渐形成政治惯例。",
+          "paragraphs": [
+            "新联邦制度进入实践，行政、国会与司法关系逐渐形成政治惯例。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 354
+    },
+    {
+      "id": "wr-us-adams",
+      "regimeId": "wr-usa",
+      "name": "约翰·亚当斯",
+      "personalName": "约翰·亚当斯",
+      "aliases": [
+        "John Adams"
+      ],
+      "born": "1735年10月30日",
+      "died": "1826年7月4日",
+      "birthPlace": "North Precinct of Braintree (now Quincy), Massachusetts（美国；保留来源地名便于核查）",
+      "family": "配偶阿比盖尔·史密斯；约翰·昆西·亚当斯之父。",
+      "reigns": [
+        {
+          "start": 1797,
+          "end": 1801,
+          "label": "1797—1801年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "律师出身，独立战争时期在大陆会议及欧洲外交场合推动建国事业，随后任首任副总统。总统任内面临对法关系恶化与准战争，选择谈判而未把冲突推向全面战争。支持《客籍法与惩治叛乱法》则引发对公民自由和联邦权力的争论。1800年大选失利后，由联邦党人政府向杰斐逊政府交接。"
+      ],
+      "highlights": [
+        {
+          "date": "1798年",
+          "year": 1798,
+          "title": "对法准战争与国内立法",
+          "text": "海上冲突和国内政治敌意同时加剧，限制言论的立法成为重大争议。"
+        },
+        {
+          "date": "1800年",
+          "year": 1800,
+          "title": "寻求对法和解",
+          "text": "避免正式全面战争，但党内分裂与选举竞争削弱政治地位。"
+        }
+      ],
+      "assessment": "外交上的克制和国内限制自由的政策，构成其任期的两面。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "约翰·亚当斯：生平与个人资料",
+          "url": "https://millercenter.org/president/adams",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 211
+    },
+    {
+      "id": "wr-us-jefferson",
+      "regimeId": "wr-usa",
+      "name": "托马斯·杰斐逊",
+      "personalName": "托马斯·杰斐逊",
+      "aliases": [
+        "Thomas Jefferson"
+      ],
+      "born": "1743年4月13日",
+      "died": "1826年7月4日",
+      "birthPlace": "Shadwell plantation, Goochland County, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶玛莎·韦尔斯·斯凯尔顿；其与被奴役者莎莉·海明斯的关系须放在奴隶制权力不平等下理解。",
+      "reigns": [
+        {
+          "start": 1801,
+          "end": 1809,
+          "label": "1801—1809年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在弗吉尼亚接受古典与法律教育，起草《独立宣言》，又任州长、驻法外交官、国务卿和副总统。总统任内取得路易斯安那地区，使美国扩张进入大陆腹地，也推动探险与测绘。面对英法战争对贸易的干扰，禁运政策重创本国商业。其关于自由与平等的主张影响深远，但他作为奴隶主的生活与种族观念同这些主张存在根本冲突。"
+      ],
+      "highlights": [
+        {
+          "date": "1776年",
+          "year": 1776,
+          "title": "起草《独立宣言》",
+          "text": "将殖民地独立诉求表述为政治权利论证，并不意味着当时所有人获得平等权利。"
+        },
+        {
+          "date": "1803年",
+          "year": 1803,
+          "title": "路易斯安那购地",
+          "text": "大幅扩张领土，也使原住民土地与奴隶制扩展问题更加尖锐。"
+        },
+        {
+          "date": "1807年",
+          "year": 1807,
+          "title": "禁运政策",
+          "text": "试图以贸易限制避免卷入战争，却给港口与商人造成沉重负担。"
+        }
+      ],
+      "assessment": "政治理念、领土扩张和奴隶制矛盾，需一并考察。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "托马斯·杰斐逊：生平与个人资料",
+          "url": "https://millercenter.org/president/jefferson",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-american-revolution",
+          "title": "北美独立战争与建国",
+          "date": "1775年",
+          "summary": "十三殖民地围绕税收、代表与自治反抗英国，发表独立宣言并赢得战争。",
+          "paragraphs": [
+            "英国战后征税和治理安排，引发殖民地关于代表权、地方自治及西部土地的争论。不同社会群体的选择并不一致，保王派、原住民和被奴役者各有利益，不能把殖民地看作统一行动的人群。",
+            "列克星敦和康科德冲突后，大陆会议组织军队，华盛顿任统帅。1776年宣言把武装反抗转成公开独立；大陆军需应对资源短缺、地方分歧与英国优势。",
+            "萨拉托加战果帮助争取法国参战，海军和外交支援成为关键。1781年约克镇英军投降后战争并未立即法律终止，1783年巴黎和约确认美国独立。",
+            "十三殖民地建立独立国家，英帝国丧失部分北美领土。战争结束后仍须解决债务、联邦权力和各州关系，宪法制定是后续不同阶段。",
+            "革命推广人民同意和权利语言，但奴隶制继续存在，原住民面对土地扩张压力。自由的不同含义成为美国之后政治冲突的重要来源。"
+          ],
+          "note": "胜利不仅是华盛顿个人指挥的结果，也依赖法国和其他参与者；不能把宣言、战场胜利、和约与联邦政府成立合并为同一天建国。",
+          "sources": [
+            {
+              "title": "美国、法国与海地革命",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Timeline of the Revolution",
+              "url": "https://www.nps.gov/subjects/americanrevolution/timeline.htm",
+              "note": "美国国家公园管理局；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-americas-1037",
+          "title": "美国《独立宣言》",
+          "date": "1776年",
+          "summary": "大陆会议宣布脱离英国，平等语言与奴隶制、原住民排斥之间存在尖锐矛盾。",
+          "paragraphs": [
+            "七年战争后英帝国财政和殖民地治理冲突加深，征税、代表权和军事对抗逐步升级。1775年战争已经爆发，殖民地是否彻底脱离英国仍需通过政治协商和群众动员来解决。",
+            "大陆会议组织委员会起草，杰斐逊承担主要文字工作，经委员会和会议修改。文本先陈述权利和政府合法性，再罗列对英王的指控，为独立提出公开理由。",
+            "宣言把联合殖民地表述为自由独立的政治体，但没有使战争立即结束。独立需要财政、军队、外交和地方支持维系，直至后续军事与和约确认。",
+            "殖民地对外宣布政治分离，形成新国家合法性的重要文本；英国并未因宣言发表便自动承认其主张。",
+            "宣言中的权利语言长期被改革者、废奴者和其他群体重新援引。它既推动革命，也暴露“人人平等”的原则与奴隶制、妇女地位及原住民被排除之间的矛盾。"
+          ],
+          "note": "文本对原住民等群体使用敌对措辞，不能不加说明地照录为客观事实；宣言的普遍原则也不等同1776年社会已经实现平等。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "Declaration of Independence: A Transcription",
+              "url": "https://www.archives.gov/founding-docs/declaration-transcript",
+              "note": "美国国家档案馆；原始政治文献，呈现独立派的主张；对英王与原住民的称谓属于作者立场。"
+            },
+            {
+              "title": "Timeline of the Revolution",
+              "url": "https://www.nps.gov/subjects/americanrevolution/timeline.htm",
+              "note": "美国国家公园管理局；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 257
+    },
+    {
+      "id": "wr-us-madison",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·麦迪逊",
+      "personalName": "詹姆斯·麦迪逊",
+      "aliases": [
+        "James Madison"
+      ],
+      "born": "1751年3月16日",
+      "died": "1836年6月28日",
+      "birthPlace": "Port Conway, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶多莉·佩恩·托德；家庭财富与种植园奴隶劳动相联系。",
+      "reigns": [
+        {
+          "start": 1809,
+          "end": 1817,
+          "label": "1809—1817年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身弗吉尼亚种植园家庭，在制宪会议、宪法论辩和权利法案形成中发挥重要作用，后来任杰斐逊政府国务卿。任总统时，海上贸易、征用水手与边疆冲突推动对英国开战。1812年战争暴露联邦军事与财政准备的不足，华盛顿遭英军攻占和焚烧。战后民族主义增强，政府也重新思考中央金融与防务能力。"
+      ],
+      "highlights": [
+        {
+          "date": "1787年",
+          "year": 1787,
+          "title": "参与制宪",
+          "text": "在不同规模州与中央、地方权力之间寻求可行制度。"
+        },
+        {
+          "date": "1812年",
+          "year": 1812,
+          "title": "对英宣战",
+          "text": "总统领导战争，但国会、州政府和军队间的协作并不顺畅。"
+        },
+        {
+          "date": "1814年",
+          "year": 1814,
+          "title": "首都遭袭与和平谈判",
+          "text": "战争使行政能力的局限暴露，年底缔结根特和约。"
+        }
+      ],
+      "assessment": "其生平展示宪法设计与战时治理之间的距离。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·麦迪逊：生平与个人资料",
+          "url": "https://millercenter.org/president/madison",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-usconstitution",
+          "title": "美国宪法与联邦政府",
+          "date": "1787年",
+          "summary": "制宪会议设计联邦、分权和代表制度，新政府于1789年开始运作。",
+          "paragraphs": [
+            "独立后的邦联政府难以协调贸易、财政与各州关系，政治精英要求重新安排中央权力。1787年会议原本以修改《邦联条例》为任务，但很快转向起草新的国家宪制。",
+            "代表讨论中央和州、大小州、行政与立法之间的权力。两院制、总统及司法等安排逐渐成形，奴隶制相关妥协也写入制度，限制了权利原则的适用。",
+            "文本于1787年9月签署，各州围绕中央过强和缺少权利保障激烈争论。批准达到门槛后新政府运作，《权利法案》作为后续修正回应部分批评。",
+            "形成具有更具体职权的联邦政府，建立国会、总统和法院之间的组织框架；许多实际运行规则仍须由之后的法律、争执与判例发展。",
+            "该宪法成为后世成文宪政的重要参照，同时其历史也反映通过修正和政治斗争改变原有排除。稳定文本与持续变化的权利范围并存。"
+          ],
+          "note": "1787年签署并不等于全国当即生效；最初文本也不等于今天所有修正案。原住民、被奴役者与妇女的地位，不能用“人民”一词自动涵盖。",
+          "sources": [
+            {
+              "title": "美国、法国与海地革命",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/7-3-revolutions-america-france-and-haiti",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Constitution of the United States (1787)",
+              "url": "https://www.archives.gov/milestone-documents/constitution",
+              "note": "美国国家档案馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-americas-1042",
+          "title": "美国制宪会议",
+          "date": "1787年",
+          "summary": "联邦政府结构与权力制衡被确立，奴隶制妥协和政治资格限制同时写入秩序。",
+          "paragraphs": [
+            "联邦政府结构与权力制衡被确立，奴隶制妥协和政治资格限制同时写入秩序。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 227
+    },
+    {
+      "id": "wr-us-monroe",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·门罗",
+      "personalName": "詹姆斯·门罗",
+      "aliases": [
+        "James Monroe"
+      ],
+      "born": "1758年4月28日",
+      "died": "1831年7月4日",
+      "birthPlace": "Westmoreland County, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶伊丽莎白·科特赖特。",
+      "reigns": [
+        {
+          "start": 1817,
+          "end": 1825,
+          "label": "1817—1825年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾参加独立战争，并长期担任外交官、州长及内阁成员。总统任期常与“和睦时代”相联，但经济危机和奴隶制争议并未消失。密苏里妥协暂时平衡奴隶州与自由州格局；1823年提出反对欧洲进一步殖民美洲的政策立场，后来被称为门罗主义。其原始背景与后世美国干涉他国的解释不能等同。"
+      ],
+      "highlights": [
+        {
+          "date": "1820年",
+          "year": 1820,
+          "title": "密苏里妥协",
+          "text": "暂缓奴隶制扩张冲突，未解决奴隶制本身。"
+        },
+        {
+          "date": "1823年",
+          "year": 1823,
+          "title": "提出门罗主义",
+          "text": "在欧洲复辟和拉美独立背景下阐述美国对美洲事务的外交立场。"
+        },
+        {
+          "year": 1823,
+          "date": "1823年",
+          "title": "门罗主义提出（任内史事）",
+          "text": "美国宣称反对欧洲进一步殖民，美洲主权语言后来也被用于扩大自身影响。",
+          "eventId": "ann-chron-world-americas-1061"
+        }
+      ],
+      "assessment": "稳定表象之下，领土与奴隶制问题仍不断累积。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·门罗：生平与个人资料",
+          "url": "https://millercenter.org/president/monroe",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-americas-1061",
+          "title": "门罗主义提出",
+          "date": "1823年",
+          "summary": "美国宣称反对欧洲进一步殖民，美洲主权语言后来也被用于扩大自身影响。",
+          "paragraphs": [
+            "美国宣称反对欧洲进一步殖民，美洲主权语言后来也被用于扩大自身影响。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 232
+    },
+    {
+      "id": "wr-us-jqadams",
+      "regimeId": "wr-usa",
+      "name": "约翰·昆西·亚当斯",
+      "personalName": "约翰·昆西·亚当斯",
+      "aliases": [
+        "John Quincy Adams"
+      ],
+      "born": "1767年7月11日",
+      "died": "1848年2月23日",
+      "birthPlace": "Braintree (now Quincy), Massachusetts（美国；保留来源地名便于核查）",
+      "family": "父亲约翰·亚当斯；配偶路易莎·凯瑟琳·约翰逊。",
+      "reigns": [
+        {
+          "start": 1825,
+          "end": 1829,
+          "label": "1825—1829年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "约翰·亚当斯之子，早年随父亲在欧洲生活，长期从事外交，任国务卿时参与美国边界与国际地位的调整。1824年大选由众议院决定胜者，他面对杰克逊派的持续反对，发展交通与国家建设的设想推进有限。卸任后重返众议院，长期反对封堵反奴隶制请愿的“禁言规则”，其议员生涯比总统任期更为持久。"
+      ],
+      "highlights": [
+        {
+          "date": "1825年",
+          "year": 1825,
+          "title": "在争议选举后就任",
+          "text": "众议院选举结果与党派指控，使政府从开端就面临合法性争论。"
+        },
+        {
+          "date": "1831年",
+          "year": 1831,
+          "title": "卸任后进入众议院",
+          "text": "此后继续参与关于奴隶制与请愿权的争议。"
+        }
+      ],
+      "assessment": "外交经验、总统任内受挫与晚年的国会活动，应连成一条生平线索。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "约翰·昆西·亚当斯：生平与个人资料",
+          "url": "https://millercenter.org/president/jqadams",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 214
+    },
+    {
+      "id": "wr-us-jackson",
+      "regimeId": "wr-usa",
+      "name": "安德鲁·杰克逊",
+      "personalName": "安德鲁·杰克逊",
+      "aliases": [
+        "Andrew Jackson"
+      ],
+      "born": "1767年3月15日",
+      "died": "1845年6月8日",
+      "birthPlace": "Waxhaw area, on North Carolina-South Carolina border（美国；保留来源地名便于核查）",
+      "family": "配偶蕾切尔·多纳尔森·罗巴兹。",
+      "reigns": [
+        {
+          "start": 1829,
+          "end": 1837,
+          "label": "1829—1837年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "成长于边疆地区，青年时失去双亲，通过法律、军政与土地活动建立地位。1812年战争中的军事声望为其进入白宫提供基础，之后成为民主党政治的重要象征。他以更直接的选民动员扩大总统权力，在银行战争与废止联邦法争议中强力行使行政权。同时推动印第安人迁移政策，对原住民造成长期、严重伤害；所谓民主扩展主要惠及白人男性。"
+      ],
+      "highlights": [
+        {
+          "date": "1830年",
+          "year": 1830,
+          "title": "《印第安人迁移法》",
+          "text": "为剥夺东南部原住民土地与强制迁移提供政策基础。"
+        },
+        {
+          "date": "1832年",
+          "year": 1832,
+          "title": "银行战争与联邦权力争议",
+          "text": "否决银行特许状续期，并反对州单方面废止联邦法。"
+        }
+      ],
+      "assessment": "群众政治与行政权强化伴随族群排斥，不能只用平民总统概括。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "安德鲁·杰克逊：生平与个人资料",
+          "url": "https://millercenter.org/president/jackson",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 227
+    },
+    {
+      "id": "wr-us-vanburen",
+      "regimeId": "wr-usa",
+      "name": "马丁·范布伦",
+      "personalName": "马丁·范布伦",
+      "aliases": [
+        "Martin Van Buren"
+      ],
+      "born": "1782年12月5日",
+      "died": "1862年7月24日",
+      "birthPlace": "Kinderhook, New York（美国；保留来源地名便于核查）",
+      "family": "配偶汉娜·霍斯。",
+      "reigns": [
+        {
+          "start": 1837,
+          "end": 1841,
+          "label": "1837—1841年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "从纽约州政党组织中崛起，是民主党形成与杰克逊政府运作的重要参与者，曾任国务卿和副总统。入主白宫后不久即遭遇1837年金融恐慌，经济衰退使其任期被持续危机笼罩。他主张以独立国库处理政府资金，而不是简单恢复旧式银行关系。1840年大选失利，此后仍参与关于奴隶制扩张的政治竞争。"
+      ],
+      "highlights": [
+        {
+          "date": "1837年",
+          "year": 1837,
+          "title": "金融恐慌",
+          "text": "信用紧缩、银行停兑和失业使新政府承受巨大压力。"
+        },
+        {
+          "date": "1840年",
+          "year": 1840,
+          "title": "独立国库方案与选举失利",
+          "text": "财政制度改革未能立即消除经济困难，辉格党赢得总统大选。"
+        }
+      ],
+      "assessment": "其政党组织能力与危机治理困境须分别评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "马丁·范布伦：生平与个人资料",
+          "url": "https://millercenter.org/president/vanburen",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 206
+    },
+    {
+      "id": "wr-us-harrison",
+      "regimeId": "wr-usa",
+      "name": "威廉·亨利·哈里森",
+      "personalName": "威廉·亨利·哈里森",
+      "aliases": [
+        "William Harrison"
+      ],
+      "born": "1773年2月9日",
+      "died": "1841年4月4日",
+      "birthPlace": "Berkeley plantation, Charles City County, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶安娜·塔特希尔·西姆斯；本杰明·哈里森的祖父。",
+      "reigns": [
+        {
+          "start": 1841,
+          "end": 1841,
+          "label": "1841—1841年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身弗吉尼亚政治家庭，曾在西北边疆从军并担任地方长官，军事行动涉及美国对原住民土地的扩张。辉格党在1840年以战功与平民化竞选形象将他送入白宫。1841年3月就任后仅一个月病逝，未能形成完整政策周期，其死亡使总统继任制度第一次面临实际检验。不要把疾病原因简单归结为一场就职演说的天气。"
+      ],
+      "highlights": [
+        {
+          "date": "1841年",
+          "year": 1841,
+          "title": "短暂任期与去世",
+          "text": "副总统约翰·泰勒继任，由此确立重要的职位承继先例。"
+        }
+      ],
+      "assessment": "短暂任期的意义主要在继任问题，政策成效不宜凭空延伸。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "威廉·亨利·哈里森：生平与个人资料",
+          "url": "https://millercenter.org/president/harrison",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 193
+    },
+    {
+      "id": "wr-us-tyler",
+      "regimeId": "wr-usa",
+      "name": "约翰·泰勒",
+      "personalName": "约翰·泰勒",
+      "aliases": [
+        "John Tyler"
+      ],
+      "born": "1790年3月29日",
+      "died": "1862年1月18日",
+      "birthPlace": "Charles City County, Virginia（美国；保留来源地名便于核查）",
+      "family": "先后与莱蒂希娅·克里斯蒂安、朱莉娅·加德纳结婚。",
+      "reigns": [
+        {
+          "start": 1841,
+          "end": 1845,
+          "label": "1841—1845年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身弗吉尼亚政治精英家庭，学习法律后进入州议会与联邦政治。哈里森去世后，他主张自己完整继任总统职位，而非仅代行职责。虽然以辉格党副总统身份当选，但在银行等政策上与辉格党领导层决裂，被本党排斥。任期末推动得克萨斯兼并；其晚年支持南方分离，与联邦总统经历形成尖锐反差。"
+      ],
+      "highlights": [
+        {
+          "date": "1841年",
+          "year": 1841,
+          "title": "确立总统完整继任先例",
+          "text": "在宪法尚未有后来的明确修正条文时，确定副总统继任的实际运作方式。"
+        },
+        {
+          "date": "1845年",
+          "year": 1845,
+          "title": "得克萨斯兼并进程",
+          "text": "扩张与奴隶制争议、对墨西哥关系相互牵动。"
+        }
+      ],
+      "assessment": "行政继任先例和党派孤立，构成其任期的中心问题。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "约翰·泰勒：生平与个人资料",
+          "url": "https://millercenter.org/president/tyler",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 207
+    },
+    {
+      "id": "wr-us-polk",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·诺克斯·波尔克",
+      "personalName": "詹姆斯·诺克斯·波尔克",
+      "aliases": [
+        "James K. Polk"
+      ],
+      "born": "1795年11月2日",
+      "died": "1849年6月15日",
+      "birthPlace": "Mecklenburg County, North Carolina（美国；保留来源地名便于核查）",
+      "family": "配偶萨拉·蔡尔德里斯。",
+      "reigns": [
+        {
+          "start": 1845,
+          "end": 1849,
+          "label": "1845—1849年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "作为杰克逊派政治人物，他将领土扩张置于总统议程中心。任内与英国解决俄勒冈边界问题，又在得克萨斯及边界争议升级后发动对墨西哥战争，战后美国取得大片西部领土。这些成果意味着墨西哥遭受领土损失，也加剧美国国内新领土是否实行奴隶制的冲突。他没有谋求连任，卸任不久即病逝。"
+      ],
+      "highlights": [
+        {
+          "date": "1846年",
+          "year": 1846,
+          "title": "美墨战争开始",
+          "text": "边界冲突升级为战争，不能只从美国领土增长叙述其代价。"
+        },
+        {
+          "date": "1848年",
+          "year": 1848,
+          "title": "瓜达卢佩—伊达尔戈条约",
+          "text": "领土变化重塑北美，也扩大国内奴隶制之争。"
+        }
+      ],
+      "assessment": "扩张政策的执行力与对邻国、原住民的伤害必须同时评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·诺克斯·波尔克：生平与个人资料",
+          "url": "https://millercenter.org/president/polk",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 203
+    },
+    {
+      "id": "wr-us-taylor",
+      "regimeId": "wr-usa",
+      "name": "扎卡里·泰勒",
+      "personalName": "扎卡里·泰勒",
+      "aliases": [
+        "Zachary Taylor"
+      ],
+      "born": "1784年11月24日",
+      "died": "1850年7月9日",
+      "birthPlace": "near Barboursville, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶玛格丽特·麦考尔·史密斯。",
+      "reigns": [
+        {
+          "start": 1849,
+          "end": 1850,
+          "label": "1849—1850年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "职业军人，以美墨战争战功取得全国声望，成为辉格党总统候选人。他自己拥有奴隶，却在新领土组织问题上与部分南方政治力量冲突，支持加利福尼亚等地尽快建州。围绕新领土奴隶制的危机尚未解决，他便在1850年7月任内去世。继任者菲尔莫尔支持妥协方案，改变了当时政治进程。"
+      ],
+      "highlights": [
+        {
+          "date": "1850年",
+          "year": 1850,
+          "title": "建州争论与任内去世",
+          "text": "其死亡使妥协方案的政治条件发生变化。"
+        }
+      ],
+      "assessment": "军队声望不等于处理区域政治危机的成熟联盟。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "扎卡里·泰勒：生平与个人资料",
+          "url": "https://millercenter.org/president/taylor",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 168
+    },
+    {
+      "id": "wr-us-fillmore",
+      "regimeId": "wr-usa",
+      "name": "米勒德·菲尔莫尔",
+      "personalName": "米勒德·菲尔莫尔",
+      "aliases": [
+        "Millard Fillmore"
+      ],
+      "born": "1800年1月7日",
+      "died": "1874年3月8日",
+      "birthPlace": "Summerhill, New York（美国；保留来源地名便于核查）",
+      "family": "先后与阿比盖尔·鲍尔斯、卡罗琳·卡迈克尔·麦金托什结婚。",
+      "reigns": [
+        {
+          "start": 1850,
+          "end": 1853,
+          "label": "1850—1853年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "少年家境贫寒，经过学习与法律工作进入政治，最终以副总统身份继任。面对联邦被奴隶制问题撕裂的局面，他支持1850年妥协，其中加强追捕逃亡奴隶的法律使北方反奴隶制力量强烈反弹。任后未能获得本党再次提名，辉格党也走向瓦解。其生涯反映以制度妥协维持联邦时付出的自由与人权代价。"
+      ],
+      "highlights": [
+        {
+          "date": "1850年",
+          "year": 1850,
+          "title": "支持妥协与逃亡奴隶法",
+          "text": "暂时维持政治平衡，却加强了对逃离奴役者的追捕。"
+        }
+      ],
+      "assessment": "维持联邦的妥协应与其强化奴隶制执行的后果并读。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "米勒德·菲尔莫尔：生平与个人资料",
+          "url": "https://millercenter.org/president/fillmore",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 180
+    },
+    {
+      "id": "wr-us-pierce",
+      "regimeId": "wr-usa",
+      "name": "富兰克林·皮尔斯",
+      "personalName": "富兰克林·皮尔斯",
+      "aliases": [
+        "Franklin Pierce"
+      ],
+      "born": "1804年11月23日",
+      "died": "1869年10月8日",
+      "birthPlace": "Hillsborough (now Hillsboro), New Hampshire（美国；保留来源地名便于核查）",
+      "family": "配偶简·米恩斯·阿普尔顿。",
+      "reigns": [
+        {
+          "start": 1853,
+          "end": 1857,
+          "label": "1853—1857年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "来自新罕布什尔州，作为民主党政治人物在区域矛盾日益尖锐时就任。他支持《堪萨斯—内布拉斯加法》，让当地居民表决奴隶制问题，破坏原有妥协框架并激化争夺。堪萨斯暴力冲突、政党重组与共和党兴起，均与这一政策环境相联系。任内既未缓和南北分裂，也失去再次获本党提名的机会。"
+      ],
+      "highlights": [
+        {
+          "date": "1854年",
+          "year": 1854,
+          "title": "堪萨斯—内布拉斯加法",
+          "text": "扩大奴隶制问题的政治与武装冲突，推动政党体系重组。"
+        }
+      ],
+      "assessment": "不能把内战归于一人，但其支持的政策确实加速了危机。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "富兰克林·皮尔斯：生平与个人资料",
+          "url": "https://millercenter.org/president/pierce",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 180
+    },
+    {
+      "id": "wr-us-buchanan",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·布坎南",
+      "personalName": "詹姆斯·布坎南",
+      "aliases": [
+        "James Buchanan"
+      ],
+      "born": "1791年4月23日",
+      "died": "1868年6月1日",
+      "birthPlace": "Cove Gap (near Mercersburg), Pennsylvania（美国；保留来源地名便于核查）",
+      "family": "终身未婚。",
+      "reigns": [
+        {
+          "start": 1857,
+          "end": 1861,
+          "label": "1857—1861年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期担任国会议员、国务卿和外交官，入主白宫时被寄望于平息奴隶制冲突。然而，他未能应对堪萨斯争议和南北分裂的加深。1860年林肯当选后，南方各州陆续宣布脱离联邦，他反对分离，却未能阻止危机在任期末发展为联邦解体的现实威胁。1861年3月交接时，战争已迫近。"
+      ],
+      "highlights": [
+        {
+          "date": "1860年",
+          "year": 1860,
+          "title": "分离危机加剧",
+          "text": "总统选举后南方分离运动扩大，行政应对未能恢复国家统一。"
+        }
+      ],
+      "assessment": "其任期常被视为危机领导失败的案例，结构矛盾仍需保留。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·布坎南：生平与个人资料",
+          "url": "https://millercenter.org/president/buchanan",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 180
+    },
+    {
+      "id": "wr-us-lincoln",
+      "regimeId": "wr-usa",
+      "name": "亚伯拉罕·林肯",
+      "personalName": "亚伯拉罕·林肯",
+      "aliases": [
+        "Abraham Lincoln"
+      ],
+      "born": "1809年2月12日",
+      "died": "1865年4月15日",
+      "birthPlace": "Hardin (now Larue) County, Kentucky（美国；保留来源地名便于核查）",
+      "family": "配偶玛丽·托德；二人育有四子，其中多名子女早逝。",
+      "reigns": [
+        {
+          "start": 1861,
+          "end": 1865,
+          "label": "1861—1865年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "亚伯拉罕·林肯是美国内战时期总统，其统治与维护联邦、结束奴隶制的重要转向相连。他的政治立场和政策在战争中发展，不能把1860年竞选主张、1863年解放宣言和1865年修宪混为同一件事。",
+        "通过自学、法律实践和地方政治成长，参与围绕奴隶制向西部扩张的争论，1860年当选总统。",
+        "1861年就任后面临南方分离和战争。1863年实施解放宣言，支持宪法第十三修正案；1865年4月遭刺杀后次日去世。",
+        "处理军队、财政、内阁与选举政治，使联邦继续作战并最终取胜。",
+        "把解放被奴役者逐步纳入战争目标和国家制度变革，黑人行动者与士兵同样发挥决定性作用。"
+      ],
+      "highlights": [
+        {
+          "date": "1861年",
+          "year": 1861,
+          "title": "内战与维护联邦",
+          "text": "在分离、军事失利与政治反对中组织战争，同时面临战时公民自由的争议。"
+        },
+        {
+          "date": "1863年",
+          "year": 1863,
+          "title": "《解放奴隶宣言》",
+          "text": "宣言以战争权力为依据，适用范围有限，但改变战争目标并推动黑人参军。"
+        },
+        {
+          "date": "1865年",
+          "year": 1865,
+          "title": "连任、废奴修正案与遇刺",
+          "text": "推动宪法第十三修正案通过国会；在战争接近结束时遇刺，重建问题由后继政府面对。"
+        }
+      ],
+      "assessment": "维护联邦与推动废奴是其核心地位，不能把黑人自我解放、士兵与废奴运动的作用化约为个人恩赐。",
+      "uncertainties": [
+        "应区分战争措施、修宪和执行；林肯对种族与权利的认识有发展和局限，不宜用后世理想形象抹平。"
+      ],
+      "sources": [
+        {
+          "title": "亚伯拉罕·林肯：生平与个人资料",
+          "url": "https://millercenter.org/president/lincoln",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        },
+        {
+          "title": "Abraham Lincoln",
+          "url": "https://www.nps.gov/people/abraham-lincoln.htm",
+          "note": "美国国家公园管理局；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+        }
+      ],
+      "works": [
+        {
+          "title": "《葛底斯堡演说》",
+          "note": "1863年，以建国权利原则重新解释战争。"
+        },
+        {
+          "title": "《解放奴隶宣言》",
+          "note": "战时行政措施，适用范围有限，不是当天解放全国所有奴隶。"
+        },
+        {
+          "title": "第二次就职演说",
+          "note": "1865年，对战争、奴隶制与和解的反思。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-us-civilwar",
+          "title": "美国内战、解放与废奴",
+          "date": "1861年",
+          "summary": "奴隶制及国家权力冲突引发内战，黑人逃亡、参军与废奴运动推动解放。",
+          "paragraphs": [
+            "围绕奴隶制、领土扩张、联邦与州权的冲突长期积累。林肯当选反对奴隶制继续扩张，南方蓄奴州分离；1861年萨姆特堡冲突使政治危机转为大规模战争。",
+            "联邦最初强调维护国家统一，战争中的逃亡、黑人行动、军事需要和政治争论推动政策改变。1863年解放宣言把解放纳入联邦战争目标，但适用范围有限。",
+            "工业、财政、交通和兵员动员影响战局，格兰特等指挥官推进战争。1865年南方主要军队陆续投降，林肯在胜利前后遇刺，重建交给后继政府。",
+            "联邦得以维持，奴隶制在宪法层面被废除；种族平等和实际公民权并未因此完成，战后重建继续面对暴力和政治反复。",
+            "战争改变国家权力、劳动制度和黑人政治参与，死亡和财产损失也极为沉重。黑人士兵、逃亡者与废奴运动者应与总统和将领一起进入叙事。"
+          ],
+          "note": "州权争论不能遮蔽奴隶制的中心地位；解放宣言不等于全美被奴役者当日自动自由。军队投降、修宪和权利落实是不同层次。",
+          "sources": [
+            {
+              "title": "美国内战、解放与争取自由",
+              "url": "https://www.nps.gov/civilwar/emancipation-and-the-quest-for-freedom.htm",
+              "note": "美国国家公园管理局；用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+            },
+            {
+              "title": "弗雷德里克·道格拉斯：废奴与公民权",
+              "url": "https://home.nps.gov/people/frederick-douglass.htm",
+              "note": "美国国家公园管理局；用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+            },
+            {
+              "title": "Abraham Lincoln",
+              "url": "https://www.nps.gov/people/abraham-lincoln.htm",
+              "note": "美国国家公园管理局；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-americas-1078",
+          "title": "林肯当选美国总统",
+          "date": "1860年",
+          "summary": "共和党胜选触发南方州分离，奴隶制与联邦存续危机转为内战。",
+          "paragraphs": [
+            "共和党胜选触发南方州分离，奴隶制与联邦存续危机转为内战。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 410
+    },
+    {
+      "id": "wr-us-johnson",
+      "regimeId": "wr-usa",
+      "name": "安德鲁·约翰逊",
+      "personalName": "安德鲁·约翰逊",
+      "aliases": [
+        "Andrew Johnson"
+      ],
+      "born": "1808年12月29日",
+      "died": "1875年7月31日",
+      "birthPlace": "Raleigh, North Carolina（美国；保留来源地名便于核查）",
+      "family": "配偶伊丽莎·麦卡德尔。",
+      "reigns": [
+        {
+          "start": 1865,
+          "end": 1869,
+          "label": "1865—1869年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "贫寒出身，早年从事裁缝工作，逐步进入田纳西州与联邦政治。林肯遇刺后继任，主张迅速让南方各州重返联邦，却对被解放者的政治与公民权利保护不足。他与国会共和党人围绕重建持续冲突，否决民权立法并遭推翻。1868年受到弹劾，参议院定罪票数未达门槛，仍完成任期。"
+      ],
+      "highlights": [
+        {
+          "date": "1865年",
+          "year": 1865,
+          "title": "重建政策",
+          "text": "宽待前邦联精英的方案与保护被解放者权利的要求发生尖锐冲突。"
+        },
+        {
+          "date": "1868年",
+          "year": 1868,
+          "title": "总统弹劾案",
+          "text": "国会与总统对重建的冲突进入宪政程序，参议院未将其罢免。"
+        }
+      ],
+      "assessment": "个人社会出身不能代替对其种族政策与重建责任的评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "安德鲁·约翰逊：生平与个人资料",
+          "url": "https://millercenter.org/president/johnson",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 206
+    },
+    {
+      "id": "wr-us-grant",
+      "regimeId": "wr-usa",
+      "name": "尤利西斯·辛普森·格兰特",
+      "personalName": "尤利西斯·辛普森·格兰特",
+      "aliases": [
+        "Ulysses S. Grant"
+      ],
+      "born": "1822年4月27日",
+      "died": "1885年7月23日",
+      "birthPlace": "Point Pleasant, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶朱莉娅·博格斯·登特。",
+      "reigns": [
+        {
+          "start": 1869,
+          "end": 1877,
+          "label": "1869—1877年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "军人出身，在内战中逐步成为联邦军主要统帅，最终推动军事胜利。两届总统任内力图执行重建，运用联邦力量打击三K党等暴力组织，保护黑人政治参与。同时，任用和信任部分不当官员引发腐败丑闻，经济危机与政治妥协削弱重建。晚年写作回忆录，其将领声望与总统功过应分别讨论。"
+      ],
+      "highlights": [
+        {
+          "date": "1864年",
+          "year": 1864,
+          "title": "联邦军总司令",
+          "text": "协调多个战场，持续消耗邦联作战能力。"
+        },
+        {
+          "date": "1871年",
+          "year": 1871,
+          "title": "打击重建时期的种族恐怖",
+          "text": "联邦执法介入南方政治暴力。"
+        },
+        {
+          "date": "1873年",
+          "year": 1873,
+          "title": "经济危机",
+          "text": "金融恐慌与萧条影响其第二任期及改革支持。"
+        }
+      ],
+      "assessment": "近年研究更加重视其维护黑人权利的行动，同时仍检视政府失误。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "尤利西斯·辛普森·格兰特：生平与个人资料",
+          "url": "https://millercenter.org/president/grant",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 208
+    },
+    {
+      "id": "wr-us-hayes",
+      "regimeId": "wr-usa",
+      "name": "拉瑟福德·伯查德·海斯",
+      "personalName": "拉瑟福德·伯查德·海斯",
+      "aliases": [
+        "Rutherford B. Hayes"
+      ],
+      "born": "1822年10月4日",
+      "died": "1893年1月17日",
+      "birthPlace": "Delaware, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶露西·韦尔·韦布。",
+      "reigns": [
+        {
+          "start": 1877,
+          "end": 1881,
+          "label": "1877—1881年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾任律师、内战军官和俄亥俄州长。1876年总统选举长期争议后，经特殊选举委员会及政治交涉取得总统职位，其就任伴随联邦从南方政治军事干预中退却，重建进入终结阶段。他也讨论文官制度与财政政策，在劳资冲突中运用联邦军队。本人承诺只任一届，1881年离任。"
+      ],
+      "highlights": [
+        {
+          "date": "1877年",
+          "year": 1877,
+          "title": "争议选举后的重建转折",
+          "text": "联邦政策变化使南方黑人公民权保障进一步削弱。"
+        }
+      ],
+      "assessment": "廉洁个人形象与重建终结的制度后果，需要分别考察。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "拉瑟福德·伯查德·海斯：生平与个人资料",
+          "url": "https://millercenter.org/president/hayes",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 170
+    },
+    {
+      "id": "wr-us-garfield",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·艾布拉姆·加菲尔德",
+      "personalName": "詹姆斯·艾布拉姆·加菲尔德",
+      "aliases": [
+        "James A. Garfield"
+      ],
+      "born": "1831年11月19日",
+      "died": "1881年9月19日",
+      "birthPlace": "Orange Township, Cuyahoga County, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶卢克丽霞·鲁道夫。",
+      "reigns": [
+        {
+          "start": 1881,
+          "end": 1881,
+          "label": "1881—1881年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "从俄亥俄州农村成长为教师、军官和国会议员，1880年在共和党竞争中成为总统候选人并当选。任内与党内分赃政治势力发生冲突，但大多数施政计划尚未展开便遭枪击。1881年7月受伤，9月去世，不能把遇刺当天误当卒日。他的死亡推动公众要求改革以党派酬庸分配职位的制度。"
+      ],
+      "highlights": [
+        {
+          "date": "1881年",
+          "year": 1881,
+          "title": "遭枪击并在数月后去世",
+          "text": "短暂任期终止，文官改革成为继任政府面对的重要议题。"
+        }
+      ],
+      "assessment": "应区别遇刺、病程与死亡日期，不用未实施计划虚构政策成绩。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·艾布拉姆·加菲尔德：生平与个人资料",
+          "url": "https://millercenter.org/president/garfield",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 182
+    },
+    {
+      "id": "wr-us-arthur",
+      "regimeId": "wr-usa",
+      "name": "切斯特·艾伦·阿瑟",
+      "personalName": "切斯特·艾伦·阿瑟",
+      "aliases": [
+        "Chester A. Arthur"
+      ],
+      "born": "1829年10月5日",
+      "died": "1886年11月18日",
+      "birthPlace": "Fairfield, Vermont（美国；保留来源地名便于核查）",
+      "family": "配偶艾伦·刘易斯·赫恩登，在他任总统前去世。",
+      "reigns": [
+        {
+          "start": 1881,
+          "end": 1885,
+          "label": "1881—1885年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身牧师家庭，青年时从事法律工作，曾参与涉及非裔美国人权利的案件，后来成为纽约共和党政治网络的重要成员。加菲尔德去世后继任，总统身份使他面对公众对分赃政治的批评。任内签署彭德尔顿文官法，推动部分联邦职位考试录用；也签署排华法案，扩大种族化移民限制。"
+      ],
+      "highlights": [
+        {
+          "date": "1882年",
+          "year": 1882,
+          "title": "排华法案",
+          "text": "移民排斥被联邦法律制度化。"
+        },
+        {
+          "date": "1883年",
+          "year": 1883,
+          "title": "彭德尔顿文官法",
+          "text": "推动联邦文官录用改革，覆盖范围在此后逐步扩大。"
+        }
+      ],
+      "assessment": "文官改革与排斥移民并存，不能以单一改革掩盖其限制权利的政策。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "切斯特·艾伦·阿瑟：生平与个人资料",
+          "url": "https://millercenter.org/president/arthur",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 190
+    },
+    {
+      "id": "wr-us-cleveland",
+      "regimeId": "wr-usa",
+      "name": "格罗弗·克利夫兰",
+      "personalName": "格罗弗·克利夫兰",
+      "aliases": [
+        "Grover Cleveland"
+      ],
+      "born": "1837年3月18日",
+      "died": "1908年6月24日",
+      "birthPlace": "Caldwell, New Jersey（美国；保留来源地名便于核查）",
+      "family": "配偶弗朗西丝·福尔瑟姆。",
+      "reigns": [
+        {
+          "start": 1885,
+          "end": 1889,
+          "label": "1885—1889年",
+          "role": "总统",
+          "note": "第一段任期"
+        },
+        {
+          "start": 1893,
+          "end": 1897,
+          "label": "1893—1897年",
+          "role": "总统",
+          "note": "第二段任期，非连续在位"
+        }
+      ],
+      "life": [
+        "律师出身，从布法罗市长、纽约州长逐步成为民主党的改革形象。首次任总统后在1888年选举失利，1892年再次获胜，成为任期不连续的总统。第二任期遭遇1893年经济危机，并在普尔曼罢工中采取联邦干预，引发劳工争议。其生涯必须分开阅读两段任期，不能把1889—1893年算作他在位。"
+      ],
+      "highlights": [
+        {
+          "date": "1885年",
+          "year": 1885,
+          "title": "首次就任",
+          "text": "以反腐和行政节制的政治形象执政。"
+        },
+        {
+          "date": "1893年",
+          "year": 1893,
+          "title": "再次就任与经济危机",
+          "text": "重新执政后立即面对金融与就业危机。"
+        },
+        {
+          "date": "1894年",
+          "year": 1894,
+          "title": "普尔曼罢工",
+          "text": "联邦政府使用禁令和军队介入劳资冲突。"
+        }
+      ],
+      "assessment": "两段任期体现经济思想、行政节制与劳工政治的紧张关系。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "格罗弗·克利夫兰：生平与个人资料",
+          "url": "https://millercenter.org/president/cleveland",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 215
+    },
+    {
+      "id": "wr-us-bharrison",
+      "regimeId": "wr-usa",
+      "name": "本杰明·哈里森",
+      "personalName": "本杰明·哈里森",
+      "aliases": [
+        "Benjamin Harrison"
+      ],
+      "born": "1833年8月20日",
+      "died": "1901年3月13日",
+      "birthPlace": "North Bend, Ohio（美国；保留来源地名便于核查）",
+      "family": "祖父为威廉·亨利·哈里森；先后与卡罗琳·拉维尼娅·斯科特、玛丽·斯科特·洛德·迪米克结婚。",
+      "reigns": [
+        {
+          "start": 1889,
+          "end": 1893,
+          "label": "1889—1893年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身政治家庭，是威廉·亨利·哈里森的孙子，经历内战与参议院政治后成为总统。任内联邦立法活跃，包括谢尔曼反托拉斯法及高关税政策，同时多个西部地区建州。对工业、贸易和退伍军人事务的政策扩大了联邦作用，却也招致经济与财政争论，1892年连任失败。"
+      ],
+      "highlights": [
+        {
+          "date": "1890年",
+          "year": 1890,
+          "title": "反托拉斯立法与关税政策",
+          "text": "联邦开始以反垄断法律回应企业集中，高关税也引发政治争议。"
+        }
+      ],
+      "assessment": "其任期是国会立法与行政运作共同塑造的时期，不能把全部变化归于总统个人。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "本杰明·哈里森：生平与个人资料",
+          "url": "https://millercenter.org/president/bharrison",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 183
+    },
+    {
+      "id": "wr-us-mckinley",
+      "regimeId": "wr-usa",
+      "name": "威廉·麦金莱",
+      "personalName": "威廉·麦金莱",
+      "aliases": [
+        "William McKinley"
+      ],
+      "born": "1843年1月29日",
+      "died": "1901年9月14日",
+      "birthPlace": "Niles, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶艾达·萨克斯顿。",
+      "reigns": [
+        {
+          "start": 1897,
+          "end": 1901,
+          "label": "1897—1901年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾参加内战并长期从事共和党和关税政治。任总统时，古巴危机与美西战争使美国进入新的海外扩张阶段，波多黎各、关岛和菲律宾的地位随战局改变，菲律宾人民随后继续反抗美国统治。其政府亦提出在华门户开放政策。1900年连任，次年遭枪击后去世，由西奥多·罗斯福继任。"
+      ],
+      "highlights": [
+        {
+          "date": "1898年",
+          "year": 1898,
+          "title": "美西战争与海外扩张",
+          "text": "美国国际地位增强，殖民统治也给当地民众带来新的压迫与战争。"
+        },
+        {
+          "date": "1901年",
+          "year": 1901,
+          "title": "遇刺去世",
+          "text": "副总统罗斯福继任，总统政治风格随之改变。"
+        }
+      ],
+      "assessment": "从关税政治到帝国扩张的转向，是理解其任期的主线。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "威廉·麦金莱：生平与个人资料",
+          "url": "https://millercenter.org/president/mckinley",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 199
+    },
+    {
+      "id": "wr-us-roosevelt",
+      "regimeId": "wr-usa",
+      "name": "西奥多·罗斯福",
+      "personalName": "西奥多·罗斯福",
+      "aliases": [
+        "Theodore Roosevelt"
+      ],
+      "born": "1858年10月27日",
+      "died": "1919年1月6日",
+      "birthPlace": "New York, New York（美国；保留来源地名便于核查）",
+      "family": "先后与艾丽斯·海瑟薇·李、伊迪丝·克米特·卡罗结婚。",
+      "reigns": [
+        {
+          "start": 1901,
+          "end": 1909,
+          "label": "1901—1909年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出生于纽约，经历州与联邦行政、战争和纽约州长任职后成为副总统。麦金莱遇刺后继任，他更主动地把总统职位用于调节工业社会矛盾，推动企业监管、食品与药品监督以及自然资源保护，也借大众传媒扩大行政影响。其外交带有强烈大国扩张色彩，巴拿马运河与加勒比地区干预尤为突出。卸任后因与塔夫脱分歧，1912年再度参选，改变了当年选举格局。"
+      ],
+      "highlights": [
+        {
+          "date": "1901年",
+          "year": 1901,
+          "title": "继任并扩张行政影响",
+          "text": "将总统塑造为直接面向公众的政策倡议者。"
+        },
+        {
+          "date": "1906年",
+          "year": 1906,
+          "title": "食品监管与保护政策",
+          "text": "强化联邦监管能力，自然保护也涉及原住民土地与使用权问题。"
+        },
+        {
+          "date": "1912年",
+          "year": 1912,
+          "title": "与共和党分裂后参选",
+          "text": "以进步党候选人身份竞选，未能再次当选。"
+        }
+      ],
+      "assessment": "进步主义改革与帝国主义扩张共同构成其政治遗产。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "西奥多·罗斯福：生平与个人资料",
+          "url": "https://millercenter.org/president/roosevelt",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 249
+    },
+    {
+      "id": "wr-us-taft",
+      "regimeId": "wr-usa",
+      "name": "威廉·霍华德·塔夫脱",
+      "personalName": "威廉·霍华德·塔夫脱",
+      "aliases": [
+        "William Taft"
+      ],
+      "born": "1857年9月15日",
+      "died": "1930年3月8日",
+      "birthPlace": "Cincinnati, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶海伦·赫伦。",
+      "reigns": [
+        {
+          "start": 1909,
+          "end": 1913,
+          "label": "1909—1913年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "职业道路与法律、司法和殖民行政密切相关，担任菲律宾行政长官及战争部长后获罗斯福支持竞选总统。执政后在反托拉斯、关税和自然保护等问题上与进步派发生分歧，最终与前任决裂。1912年共和党分裂使其连任失败。离开白宫后出任美国首席大法官，实现长期的司法志向，其行政与司法两段职业生涯应分别阅读。"
+      ],
+      "highlights": [
+        {
+          "date": "1912年",
+          "year": 1912,
+          "title": "连任失败",
+          "text": "共和党内部分裂与三方竞选重组政治力量。"
+        },
+        {
+          "date": "1921年",
+          "year": 1921,
+          "title": "出任首席大法官",
+          "text": "此为1912年以后的人生后续，不纳入夏至清的同期在位检索起点。"
+        }
+      ],
+      "assessment": "其生平连接法律职业、殖民行政和总统权力，不能只以与罗斯福的关系概括。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "威廉·霍华德·塔夫脱：生平与个人资料",
+          "url": "https://millercenter.org/president/taft",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        },
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 227
+    }
+  ]
+}

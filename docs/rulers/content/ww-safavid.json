@@ -1,0 +1,546 @@
+{
+  "id": "ww-safavid",
+  "people": [
+    {
+      "id": "ww-8ec3b16a71f2",
+      "regimeId": "ww-safavid",
+      "name": "伊斯玛仪一世",
+      "personalName": "伊斯玛仪一世",
+      "aliases": [],
+      "born": "1487年",
+      "died": "1524年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1501,
+          "end": 1524,
+          "label": "1501—1524年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以苏菲教团领袖身份发动军事运动，在大不里士称沙阿并推行十二伊玛目什叶派，建立新的王朝政治宗教格局。1514年查尔迪兰败于奥斯曼军，打破其不可战胜形象，但王朝并未因此消失。他也以哈塔伊笔名写诗，教团领袖、君主与诗人的身份相互交织。"
+      ],
+      "highlights": [
+        {
+          "date": "1501年",
+          "year": 1501,
+          "title": "萨法维建立与伊朗重组",
+          "text": "伊斯玛仪建立萨法维统治，推广十二伊玛目什叶派，并与奥斯曼发生大战。",
+          "eventId": "we-safavid"
+        }
+      ],
+      "assessment": "宗教社会转型长期持续，不能视为一次政令即全部完成。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        },
+        {
+          "title": "萨法维伊朗与区域竞争",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/4-3-the-safavid-empire",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-safavid",
+          "title": "萨法维建立与伊朗重组",
+          "date": "1501年",
+          "summary": "伊斯玛仪建立萨法维统治，推广十二伊玛目什叶派，并与奥斯曼发生大战。",
+          "paragraphs": [
+            "伊斯玛仪建立萨法维统治，推广十二伊玛目什叶派，并与奥斯曼发生大战。",
+            "宗教与王权结合重塑伊朗国家认同，但宗教转型经历长期过程。",
+            "伊朗与周边形成新的政治宗教格局，1514年战败暴露军事压力。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "萨法维伊朗与区域竞争",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/4-3-the-safavid-empire",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 172
+    },
+    {
+      "id": "ww-5e267f19480e",
+      "regimeId": "ww-safavid",
+      "name": "塔赫马斯普一世",
+      "personalName": "塔赫马斯普一世",
+      "aliases": [],
+      "born": "1514年",
+      "died": "1576年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1524,
+          "end": 1576,
+          "label": "1524—1576年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，早期受红头军各部族争权影响，成年后逐步重建控制。与奥斯曼及乌兹别克势力长期对抗，1555年阿马西亚和约稳定西部关系，宫廷移向加兹温。其手稿与绘画赞助重要，晚年的宗教和宫廷政策也有显著变化。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ww-2b370df98f32",
+      "regimeId": "ww-safavid",
+      "name": "伊斯玛仪二世",
+      "personalName": "伊斯玛仪二世",
+      "aliases": [],
+      "born": "1537年",
+      "died": "1577年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1576,
+          "end": 1577,
+          "label": "1576—1577年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期遭父亲禁居后，在继承斗争中获红头军部分集团支持登位。为消除威胁清洗王族，并调整宗教政策，引起宫廷和政治集团强烈不安。短暂统治以突然死亡告终，具体死因存在争议；不采用旧表误将任期写至1578年的口径。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ww-5f55ec76f73e",
+      "regimeId": "ww-safavid",
+      "name": "穆罕默德·胡达班达",
+      "personalName": "穆罕默德·胡达班达",
+      "aliases": [],
+      "born": "1532年",
+      "died": "1595年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1578,
+          "end": 1587,
+          "label": "1578—1587年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "塔赫马斯普之子，视力问题及宫廷内斗限制其亲自统治。王后、王子与红头军将领反复争权，奥斯曼军和乌兹别克势力趁机推进。儿子阿拔斯在军政支持下取得王位，名义继承与实际权力转移需结合地方军事联盟理解。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-843be9ecf376",
+      "regimeId": "ww-safavid",
+      "name": "阿拔斯一世",
+      "personalName": "阿拔斯一世",
+      "aliases": [],
+      "born": "1571年",
+      "died": "1629年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1587,
+          "end": 1629,
+          "label": "1587—1629年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在危机中登位，先以妥协换取喘息，再重整军队、财政和宫廷权力，扩大高加索出身军官与官僚的作用。迁都伊斯法罕、经营丝绸贸易，先后夺回西部与东方部分领土。其城市艺术赞助辉煌，也伴随强制迁民、王子失明和处决等严酷统治。"
+      ],
+      "highlights": [
+        {
+          "date": "1587年",
+          "year": 1587,
+          "title": "阿拔斯一世与伊斯法罕",
+          "text": "萨法维调整军政、发展丝绸贸易，并把伊斯法罕营建为王室与商业中心。",
+          "eventId": "we-abbas"
+        },
+        {
+          "year": 1588,
+          "date": "1588年",
+          "title": "阿拔斯一世即位（任内史事）",
+          "text": "萨法维改革军事和王室经济，重建中央权力并推动贸易与城市艺术。",
+          "eventId": "ann-chron-world-central-west-asia-0440"
+        }
+      ],
+      "assessment": "文化繁荣与强制迁徙、国家垄断和地方负担同时存在。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        },
+        {
+          "title": "萨法维伊朗与区域竞争",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/4-3-the-safavid-empire",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-abbas",
+          "title": "阿拔斯一世与伊斯法罕",
+          "date": "1587年",
+          "summary": "萨法维调整军政、发展丝绸贸易，并把伊斯法罕营建为王室与商业中心。",
+          "paragraphs": [
+            "萨法维调整军政、发展丝绸贸易，并把伊斯法罕营建为王室与商业中心。",
+            "城市空间、少数群体迁徙和商品网络共同体现帝国资源重组。",
+            "宫廷艺术与国际贸易繁荣，同时伴随强制迁徙等社会代价。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "萨法维伊朗与区域竞争",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/4-3-the-safavid-empire",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-central-west-asia-0440",
+          "title": "阿拔斯一世即位",
+          "date": "1588年",
+          "summary": "萨法维改革军事和王室经济，重建中央权力并推动贸易与城市艺术。",
+          "paragraphs": [
+            "萨法维改革军事和王室经济，重建中央权力并推动贸易与城市艺术。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 191
+    },
+    {
+      "id": "ww-9bfa96fbdd25",
+      "regimeId": "ww-safavid",
+      "name": "萨菲一世",
+      "personalName": "萨菲一世",
+      "aliases": [],
+      "born": "1611年",
+      "died": "1642年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1629,
+          "end": 1642,
+          "label": "1629—1642年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "阿拔斯一世之孙，继位后通过清洗王族和官僚巩固位置。对奥斯曼战争导致巴格达失守，1639年和约稳定边界。宫廷权力集中未必带来军事优势，其个人形象常受暴力与饮酒叙事支配，仍须与制度和战争背景合读。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-4e00331ad427",
+      "regimeId": "ww-safavid",
+      "name": "阿拔斯二世",
+      "personalName": "阿拔斯二世",
+      "aliases": [],
+      "born": "1632年",
+      "died": "1666年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1642,
+          "end": 1666,
+          "label": "1642—1666年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年在母后与重臣辅佐下即位，成年后恢复部分亲政活动。1649年从莫卧儿王朝手中夺回坎大哈，成为其重要军事成果；宫廷继续赞助绘画和建筑。关于宗教宽容与迫害的记录因群体及阶段不同，不宜概括为完全一致的政策。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ww-2039d6bc22f3",
+      "regimeId": "ww-safavid",
+      "name": "苏莱曼一世·萨法维",
+      "personalName": "苏莱曼一世·萨法维",
+      "aliases": [],
+      "born": "1648年",
+      "died": "1694年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1666,
+          "end": 1694,
+          "label": "1666—1694年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位时原用萨菲二世称号，后来改称苏莱曼。宫廷内侍、官僚和地方集团对政务有显著影响，边疆治理与财政问题持续。其时代宫廷艺术仍发展，但不能把文化作品的精美直接当成国家财政和军事稳定的证明。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ww-dde825f47c82",
+      "regimeId": "ww-safavid",
+      "name": "侯赛因一世",
+      "personalName": "侯赛因一世",
+      "aliases": [],
+      "born": "1668年",
+      "died": "1726年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1694,
+          "end": 1722,
+          "label": "1694—1722年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在宫廷支持下继位，宗教集团影响增大，财政、地方与边疆矛盾逐渐恶化。阿富汗吉尔扎伊势力围困伊斯法罕，1722年迫其退位；随后仍被拘押并遇害。其个人虔敬不能单独解释整个王朝的衰败，边疆社会和军政制度同样关键。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ww-cd82c4d9b0b0",
+      "regimeId": "ww-safavid",
+      "name": "塔赫马斯普二世",
+      "personalName": "塔赫马斯普二世",
+      "aliases": [],
+      "born": "1704年",
+      "died": "1740年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1722,
+          "end": 1732,
+          "label": "1722—1732年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "伊斯法罕失陷后继续以萨法维王子身份争取支持，依靠纳迪尔等军事领袖逐渐恢复部分领土。对奥斯曼作战失利后，被纳迪尔废黜，幼子阿拔斯三世被立为名义沙阿。其政治活动不同于父亲退位后的统一继承，实际控制区域经历变化。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ww-c5f7213b4c74",
+      "regimeId": "ww-safavid",
+      "name": "阿拔斯三世",
+      "personalName": "阿拔斯三世",
+      "aliases": [],
+      "born": "1732年",
+      "died": "1740年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1732,
+          "end": 1736,
+          "label": "1732—1736年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼儿被拥为沙阿，实际军政权力由纳迪尔掌握。1736年纳迪尔正式称沙阿，结束其名义在位；他与父亲后来在军事权力斗争中被杀。生年与登位年相同不代表有亲政经历，旧表把其任期拖至1749年不应沿用。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊朗百科全书：萨法维王朝",
+          "url": "https://www.iranicaonline.org/articles/safavids/",
+          "note": "学者Rudi Matthee撰写的王朝研究；对王朝结构、变迁及终结的解释。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    }
+  ]
+}

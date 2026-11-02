@@ -1,0 +1,1439 @@
+{
+  "id": "ce-eastern-zhou",
+  "people": [
+    {
+      "id": "ce-eastern-zhou-6eb05799d5",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周平王",
+      "personalName": "姬宜臼",
+      "aliases": [
+        "姬宜臼"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前720年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周幽王之子。",
+      "reigns": [
+        {
+          "start": -770,
+          "end": -720,
+          "label": "前770年—前720年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "西周覆亡后在诸侯支持下立于东方，迁居洛邑，开启通常所称东周时期。东迁保护了王室的延续，也使王室对晋、郑等诸侯的军事和财政依赖更加明显，礼制共主与实际支配力开始分离。",
+        "平王的继立与王室东迁处在西周终结后的复杂政治局面中。洛邑后来成为王室中心，前770年通常被用作东周历史的起点。"
+      ],
+      "highlights": [
+        {
+          "date": "前771年—前770年",
+          "year": -771,
+          "title": "西周终结与两周之际",
+          "text": "幽王末年王位继承冲突与外部军事介入交织，幽王身亡，王室统治中心转向东方。平王东迁成为后世划分西周与东周的常用标志。",
+          "eventId": "cn-zhou-eastmove"
+        },
+        {
+          "date": "前770年",
+          "year": -770,
+          "title": "平王东迁与东周开端",
+          "text": "两周之际的继承与战争危机后，平王以洛邑为王室中心。周的名义秩序继续存在，但诸侯力量增长，中央与地方的政治关系逐渐变化。",
+          "eventId": "cn-zhou-move"
+        },
+        {
+          "year": -770,
+          "date": "公元前770年",
+          "title": "周平王东迁洛邑（任内史事）",
+          "text": "周平王在诸侯支持下迁往洛邑，周王室统治范围收缩，东周政治格局逐渐形成。",
+          "eventId": "ann-ce-0022"
+        }
+      ],
+      "assessment": "东迁与王室延续使周的名义政治秩序保存下来，同时诸侯在实际事务中的力量日益突出。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "pingwang"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-zhou-eastmove",
+          "title": "西周终结与两周之际",
+          "date": "公元前771—前770年（通行分期）",
+          "summary": "幽王末年王位继承冲突与外部军事介入交织，幽王身亡，王室统治中心转向东方。平王东迁成为后世划分西周与东周的常用标志。",
+          "paragraphs": [
+            "幽王末年王位继承冲突与外部军事介入交织，幽王身亡，王室统治中心转向东方。平王东迁成为后世划分西周与东周的常用标志。",
+            "它标志政治重心和王室地位发生重大变化，随后诸侯主导的格局更为突出。",
+            "洛邑成为周王室的主要政治中心，周的名义秩序继续存在，实际关系逐步改变。"
+          ],
+          "note": "前771/前770为通行分期；不把烽火戏诸侯或女性祸国故事当作唯一原因。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第十五章 西周的衰微、灭亡；第五节 幽王昏乱、灭亡与平王东迁；用户提供合并整理本第16889—16949行"
+            },
+            {
+              "title": "历史纪年：周",
+              "url": "https://ygx.sxu.edu.cn/portals/07z",
+              "note": "山西大学图书馆等；采用正文有关周武王、东迁与春秋战国分期；不采用页面表格中明显概括过宽的在位年。"
+            }
+          ]
+        },
+        {
+          "id": "cn-zhou-move",
+          "title": "平王东迁与东周开端",
+          "date": "前770年",
+          "summary": "两周之际的继承与战争危机后，平王以洛邑为王室中心。周的名义秩序继续存在，但诸侯力量增长，中央与地方的政治关系逐渐变化。",
+          "paragraphs": [
+            "西周末年王室继承争夺、诸侯关系恶化和外部军事压力相互作用。幽王死于危机之中后，周王室失去原有的关中控制优势，新王需要依靠诸侯支持重建地位。",
+            "平王在有关诸侯支持下向东迁徙，以洛邑为政治中心。迁都不是简单的搬宫殿，而伴随土地、军力和王室资源的损失，周王对各地诸侯的号令能力受到实质削弱。",
+            "东方本有西周营建的成周基础，但新王室必须更加依赖周边诸侯。此后郑、晋、齐、楚、秦等国家各自发展，王室名义权威与诸侯实际实力逐渐分离。",
+            "传统以平王东迁作为东周开端，此后进入春秋政治格局；周王仍长期存在，并不是迁都当年就失去所有权力和文化影响。",
+            "这一转折改变了中国早期政治竞争方式：从王室居中协调的封国网络，逐渐走向大国争霸和列国改革。礼制仍被引用，但其背后支撑力量已发生变化，这也是孔子等思想家面对的时代背景。"
+          ],
+          "note": "烽火戏诸侯是后世著名叙事，不能单独解释西周灭亡；王室继承及携王并立等问题存在史料分歧，准确经过需保留讨论。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第十五章 西周的衰微、灭亡；第五节 幽王昏乱、灭亡与平王东迁；用户提供合并整理本第16889—16949行"
+            },
+            {
+              "title": "历史纪年：周",
+              "url": "https://ygx.sxu.edu.cn/portals/07z",
+              "note": "山西大学图书馆等；采用正文有关周武王、东迁与春秋战国分期；不采用页面表格中明显概括过宽的在位年。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0022",
+          "title": "周平王东迁洛邑",
+          "date": "公元前770年",
+          "summary": "周平王在诸侯支持下迁往洛邑，周王室统治范围收缩，东周政治格局逐渐形成。",
+          "paragraphs": [
+            "周平王在诸侯支持下迁往洛邑，周王室统治范围收缩，东周政治格局逐渐形成。",
+            "天子名义继续存在，实际权力更多转向诸侯。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "一、 周王室东迁后的苟安局面；用户提供合并整理本第61731—61731行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 327
+    },
+    {
+      "id": "ce-eastern-zhou-dc99650fdb",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周桓王",
+      "personalName": "姬林",
+      "aliases": [
+        "姬林"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前697年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周平王之孙。",
+      "reigns": [
+        {
+          "start": -719,
+          "end": -697,
+          "label": "前719年—前697年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继平王而立，与郑庄公关系恶化。前707年率诸侯联军攻郑，在繻葛之战失利，传统记载其本人受箭伤。战事显示周王已难以仅凭王命约束强大诸侯，但周室仍继续拥有名分和礼仪影响。"
+      ],
+      "highlights": [
+        {
+          "date": "前707年",
+          "year": -707,
+          "title": "繻葛之战",
+          "text": "周桓王联合诸侯讨伐郑国失败，王室在战场上的挫败使郑庄公的地区地位上升。",
+          "eventId": "ann-ce-0025"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-272b2b5065dd"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0025",
+          "title": "繻葛之战",
+          "date": "公元前707年",
+          "summary": "周桓王联合诸侯讨伐郑国失败，王室在战场上的挫败使郑庄公的地区地位上升。",
+          "paragraphs": [
+            "周桓王联合诸侯讨伐郑国失败，王室在战场上的挫败使郑庄公的地区地位上升。",
+            "天子亲征也难以恢复旧有等级秩序。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "七、 周郑葛之战，郑庄公的“小霸”；用户提供合并整理本第61785—61785行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 153
+    },
+    {
+      "id": "ce-eastern-zhou-bcbab187cc",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周庄王",
+      "personalName": "姬佗",
+      "aliases": [
+        "姬佗"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周桓王之子。",
+      "reigns": [
+        {
+          "start": -696,
+          "end": -682,
+          "label": "前696年—前682年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继桓王后统治周室，面临王子克一派的继承挑战，周公黑肩参与的内乱被平定。其世齐、晋、楚等诸侯力量持续增长，王室更需要通过婚姻、册命与诸侯关系来维持地位。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ce-eastern-zhou-344ba0847d",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周僖王",
+      "personalName": "姬胡齐",
+      "aliases": [
+        "姬胡齐"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周庄王之子。",
+      "reigns": [
+        {
+          "start": -681,
+          "end": -677,
+          "label": "前681年—前677年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "处于齐桓公霸业兴起时期。王室政治范围较小，诸侯会盟和军事动员更多由霸主组织；个人政事的可靠记载有限，不宜把同期诸侯全部活动归于他的直接控制。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ce-eastern-zhou-6015f20d15",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周惠王",
+      "personalName": "姬阆",
+      "aliases": [
+        "姬阆"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周僖王之子。",
+      "reigns": [
+        {
+          "start": -676,
+          "end": -652,
+          "label": "前676年—前652年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位后因王室土地及贵族关系引发冲突，王子颓在部分诸侯支持下争位，惠王一度出奔。郑、虢等力量帮助其复位，显示周王承继已深受诸侯干预。前656年齐桓公伐楚亦以王室名义为政治资源。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 122
+    },
+    {
+      "id": "ce-eastern-zhou-6a46f0c303",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周襄王",
+      "personalName": "姬郑",
+      "aliases": [
+        "姬郑"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周惠王之子；王子带为其异母弟。",
+      "reigns": [
+        {
+          "start": -651,
+          "end": -619,
+          "label": "前651年—前619年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "其世经历齐桓公去世后的霸权转移，也遭弟王子带借狄人力量发动内乱，自己一度避居郑地。晋文公护送复位，使王室与晋国霸业相连。王室仍能提供礼制认可，却难独力平定内部危机。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 117
+    },
+    {
+      "id": "ce-eastern-zhou-c68f86fc69",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周顷王",
+      "personalName": "姬壬臣",
+      "aliases": [
+        "姬壬臣"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周襄王之子。",
+      "reigns": [
+        {
+          "start": -618,
+          "end": -613,
+          "label": "前618年—前613年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继襄王统治洛邑王室，处于晋楚竞争加剧的时代。王室财政和贵族关系承受压力，传世文献对其个人活动记载有限；其历史位置主要在东周王统延续和诸侯霸权的背景中。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ce-eastern-zhou-351d6b87fe",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周匡王",
+      "personalName": "姬班",
+      "aliases": [
+        "姬班"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周顷王之子。",
+      "reigns": [
+        {
+          "start": -612,
+          "end": -607,
+          "label": "前612年—前607年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位时间较短，其世晋国经历赵盾等卿族政治的变化，楚的影响继续北上。王室并未因此获得统一调度诸侯的实际权力，个人生平能够可靠复原的内容不多。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-eastern-zhou-fe4b42912a",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周定王",
+      "personalName": "姬瑜",
+      "aliases": [
+        "姬瑜"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周顷王之子、匡王之弟。",
+      "reigns": [
+        {
+          "start": -606,
+          "end": -586,
+          "label": "前606年—前586年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "楚庄王北上至洛水附近并询问九鼎轻重的著名故事发生在其初年，王孙满以德而非鼎重答复。此事呈现王室名分与诸侯实力之间的张力；故事本身也带有春秋史家的礼制表达。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 112
+    },
+    {
+      "id": "ce-eastern-zhou-e05110c5e0",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周简王",
+      "personalName": "姬夷",
+      "aliases": [
+        "姬夷"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周定王之子。",
+      "reigns": [
+        {
+          "start": -585,
+          "end": -572,
+          "label": "前585年—前572年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "其世周王室参与诸侯礼仪往来，而晋楚之间的会盟与战争主导中原政治。传世材料对个人施政记载稀少，可据王统和对外关系定位，不能补成详尽的内廷传记。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ce-eastern-zhou-cf73c19e4f",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周灵王",
+      "personalName": "姬泄心",
+      "aliases": [
+        "姬泄心"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周简王之子；景王为其子。",
+      "reigns": [
+        {
+          "start": -571,
+          "end": -545,
+          "label": "前571年—前545年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "王室贵族单氏、刘氏等家族的影响愈加重要，东周王都的地方政治与诸侯政治相互牵动。太子晋的神仙传说在后世广为流传，不能据此认定真实生平。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ce-eastern-zhou-774aa71a16",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周景王",
+      "personalName": "姬贵",
+      "aliases": [
+        "姬贵"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周灵王之子。",
+      "reigns": [
+        {
+          "start": -544,
+          "end": -520,
+          "label": "前544年—前520年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "晚年王室继承安排与王子朝、王子猛诸派冲突有关；铸大钱、大钟等叙事也保存了贵族对王室财用的批评。其死后爆发持续的王位争夺，晋国及王室卿族深度介入。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "ce-eastern-zhou-b830f44354",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周悼王",
+      "personalName": "姬猛",
+      "aliases": [
+        "姬猛"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前520年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周景王之子、敬王之兄。",
+      "reigns": [
+        {
+          "start": -520,
+          "end": -520,
+          "label": "前520年—前520年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "景王去世后，在王室卿族支持下继位，与王子朝一方争夺王都。其统治极短，当年去世，弟敬王继续面对争位战争。不能因在位不足一年便从承继表中删除。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-eastern-zhou-95ce502c94",
+      "regimeId": "ce-eastern-zhou",
+      "name": "王子朝",
+      "personalName": "姬朝",
+      "aliases": [
+        "姬朝"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周景王之子。",
+      "reigns": [
+        {
+          "start": -520,
+          "end": -516,
+          "label": "前520年—前516年",
+          "role": "争位者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "周景王之子，在景王死后与悼王、敬王一方争夺王位，依托部分王室贵族控制王都。晋国支持敬王后，王子朝一方败走楚地，其所携典籍与支持者也是后世研究周室文化传播的一条线索。其地位属于争位者，不能与公认王统无差别并列。"
+      ],
+      "highlights": [
+        {
+          "date": "前519年",
+          "year": -519,
+          "title": "周王室王子朝之乱",
+          "text": "周王室继承争斗引发长期内战，晋国介入，天子权力进一步依赖诸侯支持。",
+          "eventId": "ann-ce-0070"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "争位期间控制范围变化，不是与敬王顺序接续的无争议王统。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-a46d905b547a"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0070",
+          "title": "周王室王子朝之乱",
+          "date": "公元前519年",
+          "summary": "周王室继承争斗引发长期内战，晋国介入，天子权力进一步依赖诸侯支持。",
+          "paragraphs": [
+            "周王室继承争斗引发长期内战，晋国介入，天子权力进一步依赖诸侯支持。",
+            "王室内部危机加重东周中央秩序的衰落。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 晋伐白狄与安定王室；用户提供合并整理本第62322—62322行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 172
+    },
+    {
+      "id": "ce-eastern-zhou-cf1c5654c2",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周敬王",
+      "personalName": "姬丐",
+      "aliases": [
+        "姬丐"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周景王之子、悼王之弟。",
+      "reigns": [
+        {
+          "start": -519,
+          "end": -476,
+          "label": "前519年—前476年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在王子朝之乱中依靠晋与王室卿族支持维持王位，王都被分派争夺，一度迁动。长年内争削弱王室资源，而吴越、晋楚等政治变动继续在王室以外展开。即位与稳定王都的时间应分开。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "周景王死亡及敬王开始争位一般系前520年；本表主年次按传统次年纪元标前519年起，争位过程另见生平。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 116
+    },
+    {
+      "id": "ce-eastern-zhou-1d4b296d3b",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周元王",
+      "personalName": "姬仁",
+      "aliases": [
+        "姬仁"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周敬王之子。",
+      "reigns": [
+        {
+          "start": -475,
+          "end": -469,
+          "label": "前475年—前469年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "位于传统春秋、战国分期交界附近，诸侯国内卿族势力与兼并战争继续发展。其个人事迹不多，分期是后世史学安排，不能理解成元王即位当天社会性质突然改变。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "ce-eastern-zhou-a7c79a5a54",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周贞定王",
+      "personalName": "姬介",
+      "aliases": [
+        "姬介"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周元王之子。",
+      "reigns": [
+        {
+          "start": -468,
+          "end": -442,
+          "label": "前468年—前442年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位时晋国韩、赵、魏诸家势力扩大，王室所能直接控制的范围有限。其死后诸子接连相争，哀王、思王短暂在位，最后考王取得王位，凸显王室自身也受继承冲突困扰。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ce-eastern-zhou-bba04689e2",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周哀王",
+      "personalName": "姬去疾",
+      "aliases": [
+        "姬去疾"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周贞定王之子。",
+      "reigns": [
+        {
+          "start": -441,
+          "end": -441,
+          "label": "前441年—前441年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "贞定王去世后的王位争夺者之一，继位后不久即被弟叔袭杀。其个人政事几无足够材料，主要历史事实是王室内部连续相杀的继承危机。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ce-eastern-zhou-11139832d8",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周思王",
+      "personalName": "姬叔",
+      "aliases": [
+        "姬叔"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周贞定王之子、哀王之弟。",
+      "reigns": [
+        {
+          "start": -441,
+          "end": -441,
+          "label": "前441年—前441年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "杀兄哀王后取得王位，同年又被弟嵬杀害。王位在一年内连续更替，是周王室衰弱时期的内部危机，不能把短暂在位者视为不存在或误并为下一王。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ce-eastern-zhou-ce27e3825c",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周考王",
+      "personalName": "姬嵬",
+      "aliases": [
+        "姬嵬"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周贞定王之子；哀王、思王之弟。",
+      "reigns": [
+        {
+          "start": -440,
+          "end": -426,
+          "label": "前440年—前426年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在兄弟相杀后取得王位。王畿内部封给近亲的安排，后来与东、西周小国的形成相连；这些周畿政权与名义上的周天子王统须分开，不应把“东周君”自动算作最后一位周天子。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "ce-eastern-zhou-00269bebb9",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周威烈王",
+      "personalName": "姬午",
+      "aliases": [
+        "姬午"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周考王之子。",
+      "reigns": [
+        {
+          "start": -425,
+          "end": -402,
+          "label": "前425年—前402年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "前403年正式承认韩、赵、魏为诸侯，是传统战国史的重要节点。三家的实际政治独立经历了此前更长过程，王命确认与分割晋国领土不是在同一天一次完成。"
+      ],
+      "highlights": [
+        {
+          "date": "前403年",
+          "year": -403,
+          "title": "周王承认韩赵魏",
+          "text": "周威烈王正式承认韩、赵、魏为诸侯，长期形成的三晋格局获得名义确认。",
+          "eventId": "ann-ce-0093"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-a8277b8f4260"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0093",
+          "title": "周王承认韩赵魏",
+          "date": "公元前403年",
+          "summary": "周威烈王正式承认韩、赵、魏为诸侯，长期形成的三晋格局获得名义确认。",
+          "paragraphs": [
+            "周威烈王正式承认韩、赵、魏为诸侯，长期形成的三晋格局获得名义确认。",
+            "战国政治现实获得旧王权礼仪上的承认。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "一、 晋国由卿大夫专权到“三家分晋”；用户提供合并整理本第64069—64069行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 139
+    },
+    {
+      "id": "ce-eastern-zhou-3fa20548ff",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周安王",
+      "personalName": "姬骄",
+      "aliases": [
+        "姬骄"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周威烈王之子。",
+      "reigns": [
+        {
+          "start": -401,
+          "end": -376,
+          "label": "前401年—前376年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "前386年承认田和为齐侯，田氏取代姜齐遂获得周王名义认可。韩、赵、魏进一步分晋发生在其末年附近，王命的礼制作用仍在，而军事、土地与官僚改革已由列国自身推动。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "ce-eastern-zhou-293990f046",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周烈王",
+      "personalName": "姬喜",
+      "aliases": [
+        "姬喜"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周安王之子。",
+      "reigns": [
+        {
+          "start": -375,
+          "end": -369,
+          "label": "前375年—前369年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "其世列国变法与兼并持续推进，周王室的政治地位更多体现为礼制象征。关于诸侯朝周等零散记述，不能推定王室仍有足以统治七国的共同军政机构。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ce-eastern-zhou-50f77119fb",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周显王",
+      "personalName": "姬扁",
+      "aliases": [
+        "姬扁"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周安王之子、烈王之弟。",
+      "reigns": [
+        {
+          "start": -368,
+          "end": -321,
+          "label": "前368年—前321年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位跨越商鞅变法、桂陵与马陵之战等重大转折。周王对秦等强国的礼遇反映力量格局变化，列国陆续称王也进一步削弱周天子的独占名分。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-eastern-zhou-ab0e379a71",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周慎靓王",
+      "personalName": "姬定",
+      "aliases": [
+        "姬定"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周显王之子。",
+      "reigns": [
+        {
+          "start": -320,
+          "end": -315,
+          "label": "前320年—前315年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位时诸侯称王已经广泛发展，周王室缺乏恢复旧有共主支配能力的资源。传世材料对其个人经历简略，主要能确认承继位置与短暂在位时间。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ce-eastern-zhou-4f3288f509",
+      "regimeId": "ce-eastern-zhou",
+      "name": "周赧王",
+      "personalName": "姬延",
+      "aliases": [
+        "姬延"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前256年",
+      "birthPlace": "出生地点未作确证",
+      "family": "周慎靓王之子。",
+      "reigns": [
+        {
+          "start": -314,
+          "end": -256,
+          "label": "前314年—前256年",
+          "role": "周王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "最后一位通常承认的周天子。晚期周畿分裂，王室日益依赖有限财力与诸侯关系维系，秦向东方推进。前256年西周一方降秦，赧王同年去世，周王统结束；随后仍存的东周小国至前249年才被秦灭。"
+      ],
+      "highlights": [
+        {
+          "date": "前256年",
+          "year": -256,
+          "title": "秦灭西周国",
+          "text": "秦国攻灭西周国并控制周王室相关地区，延续数百年的周天子名义秩序终结。",
+          "eventId": "ann-ce-0136"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-e76a41de8922"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0136",
+          "title": "秦灭西周国",
+          "date": "公元前256年",
+          "summary": "秦国攻灭西周国并控制周王室相关地区，延续数百年的周天子名义秩序终结。",
+          "paragraphs": [
+            "秦国攻灭西周国并控制周王室相关地区，延续数百年的周天子名义秩序终结。",
+            "统一竞争失去最后的共同礼仪中心。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "二 战国史料的整理和考订；用户提供合并整理本第65829—65829行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 159
+    },
+    {
+      "id": "ce-eastern-zhou-7f653963a6",
+      "regimeId": "ce-eastern-zhou",
+      "name": "东周君",
+      "personalName": "姬杰",
+      "aliases": [
+        "姬杰"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "与王室分支政权相连。",
+      "reigns": [
+        {
+          "start": -255,
+          "end": -249,
+          "label": "前255年—前249年",
+          "role": "周畿小国君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "属于战国晚期周畿东周小国的君主。周赧王去世后，他所统治的小国继续存在，前249年被秦灭。此处单列，是为区分周天子王统与王畿分封政权；传统年表有时将其接列为“惠王”，不应据此抹去二者性质的区别。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "姓名和爵号传承存在文献分歧；不作为赧王以后公认周天子。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》与杨宽《战国史》：周室东迁、王室内争与周末",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 131
+    }
+  ]
+}

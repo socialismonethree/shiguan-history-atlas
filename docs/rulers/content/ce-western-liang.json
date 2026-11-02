@@ -1,0 +1,116 @@
+{
+  "id": "ce-western-liang",
+  "people": [
+    {
+      "id": "ce-western-liang-a5eaa0cc05",
+      "regimeId": "ce-western-liang",
+      "name": "李暠",
+      "personalName": "李暠",
+      "aliases": [],
+      "born": "351年",
+      "died": "417年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 400,
+          "end": 417,
+          "label": "400年—417年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在敦煌地方军政和士人支持下独立，后经营酒泉，建立西凉。河西西部农业、绿洲与交通提供资源，唐皇室后来追认祖先关系，不等于他在世已经具有唐帝国政治身份。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：西凉",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "ce-western-liang-9b02f1d3b7",
+      "regimeId": "ce-western-liang",
+      "name": "李歆",
+      "personalName": "李歆",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "420年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 417,
+          "end": 420,
+          "label": "417年—420年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继父暠掌权，在军事判断和资源竞争中不敌北凉。420年进攻沮渠蒙逊失败被杀，酒泉失守，西凉主体政权覆亡，弟李恂在敦煌继续抵抗。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：西凉",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-western-liang-1ed49b6dfc",
+      "regimeId": "ce-western-liang",
+      "name": "李恂",
+      "personalName": "李恂",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "421年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 420,
+          "end": 421,
+          "label": "420年—421年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李暠之子，李歆败亡后据敦煌延续政权。北凉围城并断水，使其难以维持，421年城陷自杀，西凉最后根据地失守，不能将其省略为李歆之后没有残余。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：西凉",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    }
+  ]
+}

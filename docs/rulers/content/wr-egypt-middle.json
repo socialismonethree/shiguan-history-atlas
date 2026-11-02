@@ -1,0 +1,527 @@
+{
+  "id": "wr-egypt-middle",
+  "people": [
+    {
+      "id": "wr-eg-mentuhotep2",
+      "regimeId": "wr-egypt-middle",
+      "name": "孟图霍特普二世",
+      "personalName": "孟图霍特普二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "在位先为区域统治者，约前2030年后成为统一埃及的君主。",
+      "reigns": [
+        {
+          "start": -2051,
+          "end": -2000,
+          "label": "约前2051—前2000年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以底比斯为基础逐步击败北方对手，完成埃及重新统一，通常被视为中王国开端的关键人物。其代尔巴哈里纪念建筑将王权、神庙与葬祭结合；统一是在军事、地方整合和制度建设中逐步实现，不是单一年份全国立即稳定。"
+      ],
+      "highlights": [
+        {
+          "year": -2030,
+          "date": "约公元前2030年—公元前1650年",
+          "title": "埃及中王国的重新整合（任内史事）",
+          "text": "底比斯王权重新整合尼罗河国家，发展地方管理、文学和对南方的联系。墓葬、文学及行政遗存丰富，王权后又在地区竞争中分散。",
+          "eventId": "we-egyptmiddle"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-egyptmiddle",
+          "title": "埃及中王国的重新整合",
+          "date": "约公元前2030年—公元前1650年",
+          "summary": "底比斯王权重新整合尼罗河国家，发展地方管理、文学和对南方的联系。",
+          "paragraphs": [
+            "底比斯王权重新整合尼罗河国家，发展地方管理、文学和对南方的联系。",
+            "中央王权与地方资源协调为埃及政治反复重建提供一个重要阶段。",
+            "墓葬、文学及行政遗存丰富，王权后又在地区竞争中分散。"
+          ],
+          "note": "前2030等为常用约数，埃及编年有不同体系。",
+          "sources": [
+            {
+              "title": "Egypt in the Middle Kingdom (ca. 2030–1650 B.C.)",
+              "url": "https://www.metmuseum.org/fr/essays/egypt-in-the-middle-kingdom-2030-1640-b-c",
+              "note": "Adela Oppenheim／大都会艺术博物馆；同页标题、正文出现1650与1640等约数，不宜伪装精确。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-africa-0866",
+          "title": "埃及中王国统一",
+          "date": "约公元前2055年",
+          "summary": "孟图霍特普二世重新整合尼罗河谷，王权、地方贵族和宗教中心关系被重塑。",
+          "paragraphs": [
+            "孟图霍特普二世重新整合尼罗河谷，王权、地方贵族和宗教中心关系被重塑。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "大英博物馆：非洲王国时间线",
+              "url": "https://www.britishmuseum.org/sites/default/files/2024-04/African_Kingdoms_Timeline.pdf",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 156
+    },
+    {
+      "id": "wr-eg-mentuhotep3",
+      "regimeId": "wr-egypt-middle",
+      "name": "孟图霍特普三世",
+      "personalName": "孟图霍特普三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "孟图霍特普二世的继承者。",
+      "reigns": [
+        {
+          "start": -2000,
+          "end": -1988,
+          "label": "约前2000—前1988年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承统一后的国家，组织通往红海及远方的资源和贸易活动。保存下来的铭文与建筑资料有助于了解王室如何维持交通和行政，而不能把每一项国家行动都解释为君主本人亲临。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 78
+    },
+    {
+      "id": "wr-eg-mentuhotep4",
+      "regimeId": "wr-egypt-middle",
+      "name": "孟图霍特普四世",
+      "personalName": "孟图霍特普四世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "王朝更替处的个人家世与继承细节存在材料空缺。",
+      "reigns": [
+        {
+          "start": -1988,
+          "end": -1981,
+          "label": "约前1988—前1981年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第十一王朝后段统治者，瓦迪哈马马特采石活动的铭文保留其政权信息。大臣阿蒙涅姆赫特参与相关活动，后来第十二王朝建立；两者之间具体权力交接方式仍有讨论，不宜直接写成已证实的宫廷谋杀。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "wr-eg-amenemhat1",
+      "regimeId": "wr-egypt-middle",
+      "name": "阿蒙涅姆赫特一世",
+      "personalName": "阿蒙涅姆赫特一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十二王朝的建立者；塞努斯雷特一世之父。",
+      "reigns": [
+        {
+          "start": -1981,
+          "end": -1952,
+          "label": "约前1981—前1952年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "建立第十二王朝并调整王都与地方行政格局。有关其遇害与王储继承的文学作品具有重要价值，但文学教诲和同期记录需要分辨。政权努力把统一后的国家与努比亚、矿产和交通资源重新联系。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-africa-0867",
+          "title": "埃及第十二王朝建立",
+          "date": "约公元前1991年",
+          "summary": "阿蒙涅姆赫特一世迁移政治中心，加强行政、农业和边防组织。",
+          "paragraphs": [
+            "阿蒙涅姆赫特一世迁移政治中心，加强行政、农业和边防组织。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "大英博物馆：非洲王国时间线",
+              "url": "https://www.britishmuseum.org/sites/default/files/2024-04/African_Kingdoms_Timeline.pdf",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 85
+    },
+    {
+      "id": "wr-eg-senusret1",
+      "regimeId": "wr-egypt-middle",
+      "name": "塞努斯雷特一世",
+      "personalName": "塞努斯雷特一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "阿蒙涅姆赫特一世之子。",
+      "reigns": [
+        {
+          "start": -1961,
+          "end": -1917,
+          "label": "约前1961—前1917年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "延续第十二王朝的国家整合，建设神庙、组织资源开采并扩展对努比亚的控制。与父亲重叠的约数年段通常涉及共治讨论，不能直接把父亲仍在世的全部时间都视为独立统治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 77
+    },
+    {
+      "id": "wr-eg-amenemhat2",
+      "regimeId": "wr-egypt-middle",
+      "name": "阿蒙涅姆赫特二世",
+      "personalName": "阿蒙涅姆赫特二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十二王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1919,
+          "end": -1885,
+          "label": "约前1919—前1885年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "统治时期埃及与东地中海及红海方向的物资交换联系加强，王室资源和工艺通过铭文与考古材料得到观察。其在位与前后君主重叠的年段涉及断代和共治解释，生平不宜由简短王表过度扩写。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "wr-eg-senusret2",
+      "regimeId": "wr-egypt-middle",
+      "name": "塞努斯雷特二世",
+      "personalName": "塞努斯雷特二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十二王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1887,
+          "end": -1878,
+          "label": "约前1887—前1878年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以拉洪金字塔及其周边聚落等遗存为重要观察点，法尤姆地区的开发与水利农业常被放入其统治背景。具体工程的个人归属和实施年代仍应依据考古，不把整个区域的长期变化归给一人。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 82
+    },
+    {
+      "id": "wr-eg-senusret3",
+      "regimeId": "wr-egypt-middle",
+      "name": "塞努斯雷特三世",
+      "personalName": "塞努斯雷特三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十二王朝王室成员，阿蒙涅姆赫特三世之父。",
+      "reigns": [
+        {
+          "start": -1878,
+          "end": -1840,
+          "label": "约前1878—前1840年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在努比亚建立或强化军事堡垒与边界管理，是第十二王朝重要统治者。雕像所呈现的严峻面貌与王权表达联系紧密，不宜据面容推断其真实心理。其地方行政整合的程度亦需结合不同区域材料判断。"
+      ],
+      "highlights": [
+        {
+          "year": -1870,
+          "date": "约公元前1870年",
+          "title": "塞努斯雷特三世治理努比亚边境（任内史事）",
+          "text": "埃及以堡垒、贸易和军事控制尼罗河上游，本地社群与王国持续回应外部压力。",
+          "eventId": "ann-chron-world-africa-0868"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-africa-0868",
+          "title": "塞努斯雷特三世治理努比亚边境",
+          "date": "约公元前1870年",
+          "summary": "埃及以堡垒、贸易和军事控制尼罗河上游，本地社群与王国持续回应外部压力。",
+          "paragraphs": [
+            "埃及以堡垒、贸易和军事控制尼罗河上游，本地社群与王国持续回应外部压力。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。约年或阶段范围，不能理解为已知的单一发生年份。古代绝对年代采用通行断代，不同年代体系可能存在偏差。 编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "大英博物馆：非洲王国时间线",
+              "url": "https://www.britishmuseum.org/sites/default/files/2024-04/African_Kingdoms_Timeline.pdf",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 122
+    },
+    {
+      "id": "wr-eg-amenemhat3",
+      "regimeId": "wr-egypt-middle",
+      "name": "阿蒙涅姆赫特三世",
+      "personalName": "阿蒙涅姆赫特三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞努斯雷特三世之子。",
+      "reigns": [
+        {
+          "start": -1859,
+          "end": -1813,
+          "label": "约前1859—前1813年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "统治时期法尤姆地区建设、采矿与大型王室工程十分突出，哈瓦拉和代赫舒尔的建筑与王室资源组织相联系。繁荣需要行政、工匠和劳动群体支撑，工程规模不能单独证明全社会生活水平。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 83
+    },
+    {
+      "id": "wr-eg-amenemhat4",
+      "regimeId": "wr-egypt-middle",
+      "name": "阿蒙涅姆赫特四世",
+      "personalName": "阿蒙涅姆赫特四世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "与前任王室的确切关系仍有研究分歧。",
+      "reigns": [
+        {
+          "start": -1814,
+          "end": -1805,
+          "label": "约前1814—前1805年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第十二王朝晚期统治者，延续对矿产和边疆通道的经营。其与前任的亲属关系及王位安排仍有讨论，短暂统治不能据后来的王朝衰落反推为其个人失政。现存个人经历较零散。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 77
+    },
+    {
+      "id": "wr-eg-sobekneferu",
+      "regimeId": "wr-egypt-middle",
+      "name": "索贝克涅费鲁",
+      "personalName": "索贝克涅费鲁",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "通常认为与阿蒙涅姆赫特三世家族有关。",
+      "reigns": [
+        {
+          "start": -1805,
+          "end": -1802,
+          "label": "约前1805—前1802年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第十二王朝末期的女性统治者，现存名号、雕像和建筑材料显示她以王权身份出现。她不只是王后或无名摄政者，但统治期较短，具体政策与继承经过保存有限。其死后王朝更替，不能把这一转折仅归于君主性别。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    }
+  ]
+}

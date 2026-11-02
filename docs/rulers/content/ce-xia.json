@@ -1,0 +1,1009 @@
+{
+  "id": "ce-xia",
+  "people": [
+    {
+      "id": "ce-xia-ca327a3b9a",
+      "regimeId": "ce-xia",
+      "name": "禹",
+      "personalName": "姒文命",
+      "aliases": [
+        "姒文命"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "文献传统中的夏族及中原地区，具体出生地点无法确证",
+      "family": "传说为鲧之子、启之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "禹是中国古史记忆中兼具治水者与王朝起源人物意义的核心形象。理解他首先要区分文化记忆与可考生平，不能把传世叙事拼成一份精确履历。",
+        "后世典籍以他接受舜的任命、组织治水和赢得民众支持解释其取得首领地位，强调治理公共事务与政治权威的联系。",
+        "禹之后由启继位的故事，又成为古人讨论禅让、世袭及民意的典型材料；不同文献对益与启的关系留有不一致的叙述。",
+        "治水叙事把协作劳动、山川知识和领导责任联系起来，形成后世评价统治者是否尽责的重要文化标准。",
+        "其贡献应表述为古史传统赋予他的历史文化意义，不能等同于现代考古已证明某项工程由他个人主持。"
+      ],
+      "highlights": [
+        {
+          "date": "不详",
+          "year": null,
+          "title": "禹启与早期王权的文献记忆",
+          "text": "后世文献以禹治水、启继位等故事解释夏的开端，但对继承过程记载不同；这些材料保留了关于公共事务和政治权威的古史记忆。",
+          "eventId": "cn-xia-memory"
+        }
+      ],
+      "assessment": "治水与继位故事成为后世讨论公共事务、王权来源和政治责任的重要文化资源。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。",
+        "不列所谓精确生日、享年和具体治水年数；二里头遗址不构成禹个人事迹的直接证据。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+          "url": "",
+          "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+        }
+      ],
+      "existingPersonIds": [
+        "yu"
+      ],
+      "works": [
+        {
+          "title": "《禹贡》",
+          "note": "《尚书》篇名，反映后世地理与贡赋观念，不是禹亲笔著作。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-xia-memory",
+          "title": "禹启与早期王权的文献记忆",
+          "date": "古史传说，未定年",
+          "summary": "后世文献以禹治水、启继位等故事解释夏的开端，但对继承过程记载不同；这些材料保留了关于公共事务和政治权威的古史记忆。",
+          "paragraphs": [
+            "禹、启的故事形成于长期的古史记忆。战国以来的文献把洪水治理、公共劳动、首领声望和王权继承联系在一起，借此解释政治秩序的起源。",
+            "关于禹，最重要的叙事是疏导洪水与组织共同劳动：它把成功的治理能力作为获得承认的理由。不同典籍对受命过程、与舜的关系及地理范围说法并不完全相同。",
+            "关于启，叙事中心从首领选贤转向父子相承。不过《孟子》仍以民众归附解释启的继位，其他文献则留下益、启竞争的痕迹。这些差异说明古人也在讨论王位如何取得合法性。",
+            "禹、启成为夏王朝起源叙事中的核心人物；目前不能把各篇故事拼成确定的逐年政治实录。",
+            "这些故事深刻影响了后世对治水责任、天下观念和世袭王权的理解。网站将古史记忆与二里头的考古证据并列，既说明其文化作用，也避免把传说细节写成已经发掘证实的事实。"
+          ],
+          "note": "人物的准确生卒年、具体治水线路及夏王朝起点均存在材料限制；后世纪年不能当作同时代记录。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）；第二节 传说中的夏王朝；用户提供合并整理本第2590—2648行"
+            },
+            {
+              "title": "历史纪年：夏",
+              "url": "https://ygx.sxu.edu.cn/portals/05x",
+              "note": "山西大学图书馆等；用于传世文献中的禹、启与夏代参考年表；其叙事不能等同于同时代文字证明。"
+            },
+            {
+              "title": "二里头与夏的寻找",
+              "url": "https://www.cambridge.org/core/journals/early-china/article/abs/erlitou-and-the-search-for-the-xia/56BB0C6F4CA7EE7F1FD3F67CA95895A9",
+              "note": "Robert L. Thorp / Early China，1991；2015年上线；摘要可读；全文可能需订阅。用于展示学术问题，不代表最新研究定论。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0001",
+          "title": "夏代早期国家传统",
+          "date": "约公元前2070年—公元前1600年",
+          "summary": "夏代记忆围绕禹、启与王位继承展开，考古遗址与文献王朝的对应仍需审慎辨析。",
+          "paragraphs": [
+            "夏代记忆围绕禹、启与王位继承展开，考古遗址与文献王朝的对应仍需审慎辨析。",
+            "早期国家形成不能用传说年代替代考古证据。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。夏代记忆围绕禹、启与王位继承展开，考古遗址与文献王朝的对应仍需审慎辨析。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "一、尧、舜、禹的生活；用户提供合并整理本第2466—2466行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 348
+    },
+    {
+      "id": "ce-xia-4e10c49908",
+      "regimeId": "ce-xia",
+      "name": "启",
+      "personalName": "姒启",
+      "aliases": [
+        "姒启"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传说为禹之子、太康之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世叙事把启取得权力作为禅让转向父子世袭的关键。他在伯益之后即位的经过、与有扈氏交战及甘之战等记载，反映古人对王权形成的解释。启的个人生卒年、都城迁移和“钧台之享”等细节仍需区分文献层累。",
+        "启是传世夏史中禹的继承者。关于他继位的过程，文献有归附、竞争等不同叙述，后世常用这段故事说明传贤与传子的变化。"
+      ],
+      "highlights": [
+        {
+          "date": "不详",
+          "year": null,
+          "title": "禹启与早期王权的文献记忆",
+          "text": "后世文献以禹治水、启继位等故事解释夏的开端，但对继承过程记载不同；这些材料保留了关于公共事务和政治权威的古史记忆。",
+          "eventId": "cn-xia-memory"
+        }
+      ],
+      "assessment": "启的继位叙述集中体现古人对王位继承与家族统治形成的追问，是传统夏史的重要节点。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "qi"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-xia-memory",
+          "title": "禹启与早期王权的文献记忆",
+          "date": "古史传说，未定年",
+          "summary": "后世文献以禹治水、启继位等故事解释夏的开端，但对继承过程记载不同；这些材料保留了关于公共事务和政治权威的古史记忆。",
+          "paragraphs": [
+            "禹、启的故事形成于长期的古史记忆。战国以来的文献把洪水治理、公共劳动、首领声望和王权继承联系在一起，借此解释政治秩序的起源。",
+            "关于禹，最重要的叙事是疏导洪水与组织共同劳动：它把成功的治理能力作为获得承认的理由。不同典籍对受命过程、与舜的关系及地理范围说法并不完全相同。",
+            "关于启，叙事中心从首领选贤转向父子相承。不过《孟子》仍以民众归附解释启的继位，其他文献则留下益、启竞争的痕迹。这些差异说明古人也在讨论王位如何取得合法性。",
+            "禹、启成为夏王朝起源叙事中的核心人物；目前不能把各篇故事拼成确定的逐年政治实录。",
+            "这些故事深刻影响了后世对治水责任、天下观念和世袭王权的理解。网站将古史记忆与二里头的考古证据并列，既说明其文化作用，也避免把传说细节写成已经发掘证实的事实。"
+          ],
+          "note": "人物的准确生卒年、具体治水线路及夏王朝起点均存在材料限制；后世纪年不能当作同时代记录。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）；第二节 传说中的夏王朝；用户提供合并整理本第2590—2648行"
+            },
+            {
+              "title": "历史纪年：夏",
+              "url": "https://ygx.sxu.edu.cn/portals/05x",
+              "note": "山西大学图书馆等；用于传世文献中的禹、启与夏代参考年表；其叙事不能等同于同时代文字证明。"
+            },
+            {
+              "title": "二里头与夏的寻找",
+              "url": "https://www.cambridge.org/core/journals/early-china/article/abs/erlitou-and-the-search-for-the-xia/56BB0C6F4CA7EE7F1FD3F67CA95895A9",
+              "note": "Robert L. Thorp / Early China，1991；2015年上线；摘要可读；全文可能需订阅。用于展示学术问题，不代表最新研究定论。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0001",
+          "title": "夏代早期国家传统",
+          "date": "约公元前2070年—公元前1600年",
+          "summary": "夏代记忆围绕禹、启与王位继承展开，考古遗址与文献王朝的对应仍需审慎辨析。",
+          "paragraphs": [
+            "夏代记忆围绕禹、启与王位继承展开，考古遗址与文献王朝的对应仍需审慎辨析。",
+            "早期国家形成不能用传说年代替代考古证据。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。夏代记忆围绕禹、启与王位继承展开，考古遗址与文献王朝的对应仍需审慎辨析。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "一、尧、舜、禹的生活；用户提供合并整理本第2466—2466行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 245
+    },
+    {
+      "id": "ce-xia-30ef886249",
+      "regimeId": "ce-xia",
+      "name": "太康",
+      "personalName": "姒太康",
+      "aliases": [
+        "姒太康"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为启之子、仲康之兄。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在传世夏王世系中继启而立。太康失国的故事被后人解释为荒于田猎、不理政事而失去支持；与羿及有穷氏夺取夏政的叙事相连。故事有较晚的道德化加工，不能据此确定失国的公历年份或王朝控制的精确疆域。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 128
+    },
+    {
+      "id": "ce-xia-29d5b1aa89",
+      "regimeId": "ce-xia",
+      "name": "仲康",
+      "personalName": "姒仲康",
+      "aliases": [
+        "姒仲康"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为太康之弟、相之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "列于太康之后、相之前。传世文献把羲和失职及《胤征》的征讨故事系于其世，但古文篇章的真伪、所谓仲康日食的确切时间均有争议。夏王与东夷首领之间的权力变化，是理解这一世代的主要线索。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 123
+    },
+    {
+      "id": "ce-xia-ad9efd1c35",
+      "regimeId": "ce-xia",
+      "name": "相",
+      "personalName": "姒相",
+      "aliases": [
+        "姒相"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为仲康之子、少康之父，妻后缗。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世叙述中，他在夏政中断期间辗转依托同姓部落，后来遭寒浞势力进攻而死。妻后缗逃归母家并生少康，构成少康复国故事的开端。其经历主要见后起文献保存的古史传统，无法逐项落实为确年实事。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 124
+    },
+    {
+      "id": "ce-xia-0e1a9cc1aa",
+      "regimeId": "ce-xia",
+      "name": "少康",
+      "personalName": "姒少康",
+      "aliases": [
+        "姒少康"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为相与后缗之子、杼之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "相传幼年随母在有仍氏生活，曾任牧正，后逃往有虞氏，逐步招集同姓势力，消灭寒浞一方，恢复夏政。少康中兴因此成为中国古史中重要的复国叙事；它提示氏族联盟、婚姻关系与军事支持之间的联系，不能套入后来成熟帝国的官制。",
+        "少康在《左传》等保存的故事中经历流亡、积聚力量和恢复夏的统治。其形象连接夏代中段兴衰，但叙述带有明显传说层次。"
+      ],
+      "highlights": [
+        {
+          "date": "不详",
+          "year": null,
+          "title": "太康失国与少康中兴的传说",
+          "text": "《左传》等后世文献保存夏与有穷氏争夺、少康恢复旧有势力的故事；各书叙述并不齐全，也包含后人的解释和神话成分。",
+          "eventId": "v5-xia-shaokang"
+        }
+      ],
+      "assessment": "传统称其重建旧有势力为少康中兴，形成中国古史中常见的失国与复国叙事。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "v5-shaokang"
+      ],
+      "relatedEvents": [
+        {
+          "id": "v5-xia-shaokang",
+          "title": "太康失国与少康中兴的传说",
+          "date": "古史传说，未定年",
+          "summary": "《左传》等后世文献保存夏与有穷氏争夺、少康恢复旧有势力的故事；各书叙述并不齐全，也包含后人的解释和神话成分。",
+          "paragraphs": [
+            "《左传》等后世文献保存夏与有穷氏争夺、少康恢复旧有势力的故事；各书叙述并不齐全，也包含后人的解释和神话成分。",
+            "它补充了夏史不只包含开国与灭亡的传统认识，但不能直接还原连续政事。",
+            "这组故事构成夏代中段兴衰的文献线索，为观察古史叙述的形成提供材料。"
+          ],
+          "note": "未发现可将各情节逐年落实的同期记录；少康中兴为传统称谓。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）；二、夏王朝的历史传说及夏代的社会性质；用户提供合并整理本第2652—2688行"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 247
+    },
+    {
+      "id": "ce-xia-5fe165f213",
+      "regimeId": "ce-xia",
+      "name": "杼",
+      "personalName": "姒杼",
+      "aliases": [
+        "姒杼"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为少康之子、槐之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在传世世系中承少康而立，又作予。文献把他与经营东部、对东夷作战等记忆相连，其名字也进入后世讨论夏代兵器和作战方式的叙事。此类内容缺乏可直接对应其个人的同时代文字证据。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 118
+    },
+    {
+      "id": "ce-xia-426f3fee9d",
+      "regimeId": "ce-xia",
+      "name": "槐",
+      "personalName": "姒槐",
+      "aliases": [
+        "姒槐"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为杼之子、芒之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世夏王世系中的第八王，承杼而立，后由芒继承。个别古史把东方诸族来服系于其世，但不能凭简略王名推定明确行政范围。其个人生平材料远少于禹、启和少康。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "ce-xia-3c3e64d4db",
+      "regimeId": "ce-xia",
+      "name": "芒",
+      "personalName": "姒芒",
+      "aliases": [
+        "姒芒"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为槐之子、泄之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在《夏本纪》所载世系中位于槐、泄之间。后世纪年材料保存少量祭祀或出巡叙述，其成书和传抄背景复杂。可确认的是他在传世夏王谱系中的位置，尚不能建立可靠的逐年个人纪事。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 116
+    },
+    {
+      "id": "ce-xia-8b87f444d3",
+      "regimeId": "ce-xia",
+      "name": "泄",
+      "personalName": "姒泄",
+      "aliases": [
+        "姒泄"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为芒之子、不降与扃之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世世系记为芒之后、不降之前的夏王。与东部诸族的交往叙述偶见于后起古史，具体情节不宜据以推演成确定的征服史。个人出生、死亡和在位公历起讫均缺乏可靠确年。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "ce-xia-9e6d433938",
+      "regimeId": "ce-xia",
+      "name": "不降",
+      "personalName": "姒不降",
+      "aliases": [
+        "姒不降"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为泄之子、扃之兄、孔甲之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "夏代传世世系中承泄而立，名字亦写作降。其后由弟扃继承而非直接传子孔甲，显示世系叙事中仍保留兄弟相及。后世所谓在位年数和征伐记载不能与同时代实录等同。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "ce-xia-50cb6bf06e",
+      "regimeId": "ce-xia",
+      "name": "扃",
+      "personalName": "姒扃",
+      "aliases": [
+        "姒扃"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为不降之弟、廑之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世夏王世系中继兄不降而立，随后由子廑承继。关于其个人政事的可靠叙述很少，主要价值在于保存夏王承继关系，而非提供可以直接重建的宫廷生活史。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-xia-0fdc8afd62",
+      "regimeId": "ce-xia",
+      "name": "廑",
+      "personalName": "姒廑",
+      "aliases": [
+        "姒廑"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为扃之子；孔甲为其同族承继者。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "又作胤甲、厪，处于扃与孔甲之间。后起纪年所载灾异与衰败故事不能直接当作个人实录；不同写法也不意味着应在王表中增加另一位君主。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-xia-ef2becdbc0",
+      "regimeId": "ce-xia",
+      "name": "孔甲",
+      "personalName": "姒孔甲",
+      "aliases": [
+        "姒孔甲"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为不降之子、皋之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世文献以好鬼神、失德和诸侯离心描写孔甲，并保存刘累养龙等神话化故事。这些材料展示后世对夏后期衰落的解释，不能逐字当作真实宫廷事件。其承继位置属于夏王世系的较稳定部分，具体生卒和纪年则不足据。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 131
+    },
+    {
+      "id": "ce-xia-3c8e2748e5",
+      "regimeId": "ce-xia",
+      "name": "皋",
+      "personalName": "姒皋",
+      "aliases": [
+        "姒皋"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为孔甲之子、发之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "《夏本纪》世系中列于孔甲之后、发之前，亦有异体写法。现存资料主要保存名字与承继关系，缺乏足以重建个人政策、家庭生活和逐年活动的史料。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ce-xia-b089c8f155",
+      "regimeId": "ce-xia",
+      "name": "发",
+      "personalName": "姒发",
+      "aliases": [
+        "姒发"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为皋之子、桀之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世世系中继皋而立，位于夏末君桀之前。关于夏末诸侯关系和灾异的叙述有较晚整理成分，其个人政绩、出生地点和公历年数不宜据此补全。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ce-xia-735c91a55e",
+      "regimeId": "ce-xia",
+      "name": "夏桀",
+      "personalName": "姒履癸",
+      "aliases": [
+        "姒履癸"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为发之子。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "夏代传世世系的最后一位君主。商汤兴起、鸣条交战及夏政覆亡的故事集中在其末世，后世又把大量暴君故事附会于他。可以把他看作夏商更替记忆中的中心人物，但不能将妹喜、酒池和种种逸闻全部视为已经证实的个人事实。",
+        "桀是后世夏史叙述中的末代君主，与商汤灭夏相联系。关于其暴政和奢侈的故事不断被后人增饰，应把古史记忆与可验证事实分别处理。"
+      ],
+      "highlights": [
+        {
+          "date": "不详",
+          "year": null,
+          "title": "禹启与早期王权的文献记忆",
+          "text": "后世文献以禹治水、启继位等故事解释夏的开端，但对继承过程记载不同；这些材料保留了关于公共事务和政治权威的古史记忆。",
+          "eventId": "cn-xia-memory"
+        },
+        {
+          "date": "前1600年",
+          "year": -1600,
+          "title": "商汤灭夏与商王朝开端",
+          "text": "传世文献记载商汤联合力量征伐夏桀，夏商政治格局发生改变。商先王世系还可与甲骨祭祀名号对读，但战争细节主要来自后世追述。",
+          "eventId": "v5-shang-founding"
+        }
+      ],
+      "assessment": "作为传统夏商更替叙事的核心人物，其形象反映后人如何解释失政、民怨与王朝终结。",
+      "uncertainties": [
+        "夏王世系属于传世古史传统；无可据以逐王确定的出生、死亡和在位公历年。",
+        "姒姓及部分本名属于后世文献命名系统，不是同期个人登记资料。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏王朝的历史传说及夏代社会性质，合并本2590—2720行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "v5-xiajie"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-xia-memory",
+          "title": "禹启与早期王权的文献记忆",
+          "date": "古史传说，未定年",
+          "summary": "后世文献以禹治水、启继位等故事解释夏的开端，但对继承过程记载不同；这些材料保留了关于公共事务和政治权威的古史记忆。",
+          "paragraphs": [
+            "禹、启的故事形成于长期的古史记忆。战国以来的文献把洪水治理、公共劳动、首领声望和王权继承联系在一起，借此解释政治秩序的起源。",
+            "关于禹，最重要的叙事是疏导洪水与组织共同劳动：它把成功的治理能力作为获得承认的理由。不同典籍对受命过程、与舜的关系及地理范围说法并不完全相同。",
+            "关于启，叙事中心从首领选贤转向父子相承。不过《孟子》仍以民众归附解释启的继位，其他文献则留下益、启竞争的痕迹。这些差异说明古人也在讨论王位如何取得合法性。",
+            "禹、启成为夏王朝起源叙事中的核心人物；目前不能把各篇故事拼成确定的逐年政治实录。",
+            "这些故事深刻影响了后世对治水责任、天下观念和世袭王权的理解。网站将古史记忆与二里头的考古证据并列，既说明其文化作用，也避免把传说细节写成已经发掘证实的事实。"
+          ],
+          "note": "人物的准确生卒年、具体治水线路及夏王朝起点均存在材料限制；后世纪年不能当作同时代记录。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第四章 唐、虞、夏与先商——从原始社会到奴隶社会的过渡时期（上）；第二节 传说中的夏王朝；用户提供合并整理本第2590—2648行"
+            },
+            {
+              "title": "历史纪年：夏",
+              "url": "https://ygx.sxu.edu.cn/portals/05x",
+              "note": "山西大学图书馆等；用于传世文献中的禹、启与夏代参考年表；其叙事不能等同于同时代文字证明。"
+            },
+            {
+              "title": "二里头与夏的寻找",
+              "url": "https://www.cambridge.org/core/journals/early-china/article/abs/erlitou-and-the-search-for-the-xia/56BB0C6F4CA7EE7F1FD3F67CA95895A9",
+              "note": "Robert L. Thorp / Early China，1991；2015年上线；摘要可读；全文可能需订阅。用于展示学术问题，不代表最新研究定论。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        },
+        {
+          "id": "v5-shang-founding",
+          "title": "商汤灭夏与商王朝开端",
+          "date": "约公元前1600年",
+          "summary": "传世文献记载商汤联合力量征伐夏桀，夏商政治格局发生改变。商先王世系还可与甲骨祭祀名号对读，但战争细节主要来自后世追述。",
+          "paragraphs": [
+            "传世文献记载商汤联合力量征伐夏桀，夏商政治格局发生改变。商先王世系还可与甲骨祭祀名号对读，但战争细节主要来自后世追述。",
+            "它是传统中国王朝更替叙述的重要起点，也是比较文献与甲骨证据的切入口。",
+            "商成为中原重要政治力量，后来逐步发展出以王室为中心的统治与祭祀网络。"
+          ],
+          "note": "约数为通行分期展示；鸣条等具体地望和战事细节存在争论。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第五章 商王朝前期的历史——从原始社会到奴隶社会的过渡时期（下）；第一节 商汤的灭夏；用户提供合并整理本第3617—3657行"
+            },
+            {
+              "title": "胡厚宣、胡振宇《殷商史》",
+              "url": "",
+              "note": "第二章 殷商世系；用户提供合并整理本第17341—17355行"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0003",
+          "title": "商汤灭夏的历史记忆",
+          "date": "约公元前1600年—公元前1500年",
+          "summary": "传世文献把商的兴起叙述为汤讨伐夏桀，具体战役细节与绝对年代难作同等确认。",
+          "paragraphs": [
+            "传世文献把商的兴起叙述为汤讨伐夏桀，具体战役细节与绝对年代难作同等确认。",
+            "商代建立需结合早商城址与后世记述。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第一节 商汤的灭夏；用户提供合并整理本第3635—3635行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 314
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "ce-xia-power",
+  "people": [
+    {
+      "id": "ce-xia-power-b9d4492b9b",
+      "regimeId": "ce-xia-power",
+      "name": "羿（有穷氏首领）",
+      "personalName": "羿",
+      "aliases": [
+        "羿"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "与夏后太康、仲康失国故事相连。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "传说中的掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世叙事中，有穷氏的羿利用夏人对太康的不满，取代夏的统治，后来遭寒浞杀害。这个政治人物须与射日神话中的后羿叙事区分；文献中两者有长期交织，不能据同一名字断定完全相同的生平。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "不与射日神话人物自动等同。"
+      ],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏与东夷斗争及少康中兴，合并本2660—2695行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 121
+    },
+    {
+      "id": "ce-xia-power-198912d04d",
+      "regimeId": "ce-xia-power",
+      "name": "寒浞",
+      "personalName": "寒浞",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传说与浇、豷等子辈及夏后相、少康的故事相连。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "传说中的掌权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在夏代失国与复国传统中，寒浞受羿收留而掌握势力，继而杀羿，其子攻灭相所属的力量。少康后来恢复夏政，寒浞一方遂亡。故事保存于多种后世文献，所述年代与亲属细节不能当作无争议的同时代记录。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王玉哲《中华远古史》：夏与东夷斗争及少康中兴，合并本2660—2695行",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 126
+    }
+  ]
+}
