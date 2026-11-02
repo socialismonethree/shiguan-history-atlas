@@ -1,0 +1,1369 @@
+{
+  "id": "ce-qi",
+  "people": [
+    {
+      "id": "ce-qi-d9c37057b7",
+      "regimeId": "ce-qi",
+      "name": "齐桓公",
+      "personalName": "姜小白",
+      "aliases": [
+        "姜小白"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前643年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -685,
+          "end": -643,
+          "label": "前685年—前643年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "与公子纠争位成功后任用管仲，整顿齐国军政和经济，组织多次会盟并干预中原秩序。尊王攘夷与诸侯救援提高霸主地位，晚年继承安排失败，死后诸子争位，霸业难以稳定延续。",
+        "齐桓公任用管仲并参加多次战争与会盟，使齐成为春秋早期的重要霸主。其权威既依赖齐国实力，也依靠诸侯关系与尊周名义。"
+      ],
+      "highlights": [
+        {
+          "date": "前685年—前651年",
+          "year": -685,
+          "title": "管仲改革与齐桓公称霸",
+          "text": "齐桓公任用管仲，改革经济与军政组织，并通过战争、援助和会盟扩大影响。葵丘会盟是其霸业的重要节点，齐逐渐成为诸侯间的强国。",
+          "eventId": "v5-eastern-qi-hegemony"
+        },
+        {
+          "year": -685,
+          "date": "公元前685年",
+          "title": "齐桓公起用管仲（任内史事）",
+          "text": "齐国君位争夺结束后，齐桓公起用管仲，围绕财政、军政和社会组织展开整顿。",
+          "eventId": "ann-ce-0029"
+        },
+        {
+          "year": -681,
+          "date": "公元前681年",
+          "title": "北杏会盟（任内史事）",
+          "text": "齐桓公召集诸侯会盟，通过调停争端与共同军事行动建立区域领导地位。",
+          "eventId": "ann-ce-0031"
+        },
+        {
+          "year": -679,
+          "date": "公元前679年",
+          "title": "鄄地会盟（任内史事）",
+          "text": "齐桓公再次组织诸侯盟会，齐国在中原的盟主地位继续扩大并获得更多承认。",
+          "eventId": "ann-ce-0032"
+        },
+        {
+          "year": -664,
+          "date": "公元前664年",
+          "title": "齐国救燕（任内史事）",
+          "text": "齐桓公出兵援燕对抗山戎，把维护诸侯安全与扩大齐国影响结合起来。",
+          "eventId": "ann-ce-0033"
+        },
+        {
+          "year": -656,
+          "date": "公元前656年",
+          "title": "齐楚召陵之盟（任内史事）",
+          "text": "齐桓公联合诸侯南下，以盟约方式与楚国达成政治安排，避免直接大规模决战。",
+          "eventId": "ann-ce-0035"
+        }
+      ],
+      "assessment": "支持军政经济调整，并通过援助、军事行动和会盟协调诸侯关系，扩大齐国影响。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "v5-qihuangong"
+      ],
+      "relatedEvents": [
+        {
+          "id": "v5-eastern-qi-hegemony",
+          "title": "管仲改革与齐桓公称霸",
+          "date": "前685年",
+          "summary": "齐桓公任用管仲，改革经济与军政组织，并通过战争、援助和会盟扩大影响。葵丘会盟是其霸业的重要节点，齐逐渐成为诸侯间的强国。",
+          "paragraphs": [
+            "齐桓公任用管仲，改革经济与军政组织，并通过战争、援助和会盟扩大影响。葵丘会盟是其霸业的重要节点，齐逐渐成为诸侯间的强国。",
+            "它展示霸主形成不只依靠战场胜负，也涉及用人、资源组织和外交协调。",
+            "齐成为春秋早期重要盟主，诸侯在名义尊周的同时由强国主导秩序。"
+          ],
+          "note": "区间为改革至会盟的观察窗口；《管子》是多时期汇编，不能全作管仲亲著。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "第七章春秋时代的思想、文化艺术和科学技术；三、 思想家及其主要思想；用户提供合并整理本第64200—64200行"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0029",
+          "title": "齐桓公起用管仲",
+          "date": "公元前685年",
+          "summary": "齐国君位争夺结束后，齐桓公起用管仲，围绕财政、军政和社会组织展开整顿。",
+          "paragraphs": [
+            "齐国君位争夺结束后，齐桓公起用管仲，围绕财政、军政和社会组织展开整顿。",
+            "齐国霸业依托国力建设与用人选择。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "四、 齐国的内乱，齐桓公上台；用户提供合并整理本第61813—61813行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0031",
+          "title": "北杏会盟",
+          "date": "公元前681年",
+          "summary": "齐桓公召集诸侯会盟，通过调停争端与共同军事行动建立区域领导地位。",
+          "paragraphs": [
+            "齐桓公召集诸侯会盟，通过调停争端与共同军事行动建立区域领导地位。",
+            "霸主政治逐步形成制度化的会盟方式。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 齐桓公霸业的初创；用户提供合并整理本第61978—61978行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0032",
+          "title": "鄄地会盟",
+          "date": "公元前679年",
+          "summary": "齐桓公再次组织诸侯盟会，齐国在中原的盟主地位继续扩大并获得更多承认。",
+          "paragraphs": [
+            "齐桓公再次组织诸侯盟会，齐国在中原的盟主地位继续扩大并获得更多承认。",
+            "以联盟协调替代王室直接统率的趋势加深。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 齐桓公霸业的初创；用户提供合并整理本第61980—61980行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0033",
+          "title": "齐国救燕",
+          "date": "公元前664年",
+          "summary": "齐桓公出兵援燕对抗山戎，把维护诸侯安全与扩大齐国影响结合起来。",
+          "paragraphs": [
+            "齐桓公出兵援燕对抗山戎，把维护诸侯安全与扩大齐国影响结合起来。",
+            "霸业借助援救行动获得政治声望。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "二、 春秋初各诸侯国的均衡形势；用户提供合并整理本第61751—61751行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0035",
+          "title": "齐楚召陵之盟",
+          "date": "公元前656年",
+          "summary": "齐桓公联合诸侯南下，以盟约方式与楚国达成政治安排，避免直接大规模决战。",
+          "paragraphs": [
+            "齐桓公联合诸侯南下，以盟约方式与楚国达成政治安排，避免直接大规模决战。",
+            "齐国霸业达到以联盟制约强国的阶段。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "四、 葵丘之盟，齐桓公霸业大成；用户提供合并整理本第61998—61998行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0036",
+          "title": "葵丘之盟",
+          "date": "公元前651年",
+          "summary": "齐桓公召集诸侯会盟，周王室参加相关仪式，齐国霸主地位获得集中展示。",
+          "paragraphs": [
+            "齐桓公召集诸侯会盟，周王室参加相关仪式，齐国霸主地位获得集中展示。",
+            "会盟兼具秩序协调与权力展示作用。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "四、 葵丘之盟，齐桓公霸业大成；用户提供合并整理本第62006—62006行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0039",
+          "title": "齐桓公死后内争",
+          "date": "公元前643年",
+          "summary": "齐桓公去世后诸子争位，齐国的政治协调和对外领导能力迅速削弱。",
+          "paragraphs": [
+            "齐桓公去世后诸子争位，齐国的政治协调和对外领导能力迅速削弱。",
+            "霸主秩序对继承稳定具有高度依赖。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 齐鲁的争斗，襄公始兴齐；用户提供合并整理本第61807—61807行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 398
+    },
+    {
+      "id": "ce-qi-0a767fa9b4",
+      "regimeId": "ce-qi",
+      "name": "齐孝公",
+      "personalName": "姜昭",
+      "aliases": [
+        "姜昭"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -642,
+          "end": -633,
+          "label": "前642年—前633年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "齐桓公死后诸子争立，在宋襄公等支持下取得君位。齐国需要重新协调宗族与诸侯关系，桓公时代的霸权并未自动完整传给继承人，死后兄弟之间又发生争位。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ce-qi-69a8f1e8f2",
+      "regimeId": "ce-qi",
+      "name": "齐昭公",
+      "personalName": "姜潘",
+      "aliases": [
+        "姜潘"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -632,
+          "end": -613,
+          "label": "前632年—前613年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在桓公诸子竞争中取得王位，齐国延续富庶和军事实力，但晋楚霸权已成为中原焦点。其死后继嗣被叔辈排除，反映姜齐长期宗室内争。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ce-qi-548d7ed608",
+      "regimeId": "ce-qi",
+      "name": "齐懿公",
+      "personalName": "姜商人",
+      "aliases": [
+        "姜商人"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -612,
+          "end": -609,
+          "label": "前612年—前609年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "依靠宫廷争夺继位，对宗族和侍从施加的侮辱引起反抗，最终被近侍杀害。传世个人逸事服务于失德亡身的解释，也应结合齐国反复不稳的继承结构阅读。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ce-qi-dcc3dda98f",
+      "regimeId": "ce-qi",
+      "name": "齐惠公",
+      "personalName": "姜元",
+      "aliases": [
+        "姜元"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -608,
+          "end": -599,
+          "label": "前608年—前599年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "懿公死后被迎立，经历长期流寓后返回齐国。其世齐晋关系仍是重要外交轴线，短期稳定没有结束姜齐与权臣家族之间逐步发展的权力变化。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-qi-1268127795",
+      "regimeId": "ce-qi",
+      "name": "齐顷公",
+      "personalName": "姜无野",
+      "aliases": [
+        "姜无野"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -598,
+          "end": -582,
+          "label": "前598年—前582年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "与晋、鲁、卫等发生鞍之战，齐军败绩后调整对晋关系。相关战争故事保存许多君臣行动细节，败战也提示齐国虽强，仍受诸侯联盟和地理通道限制。"
+      ],
+      "highlights": [
+        {
+          "date": "前589年",
+          "year": -589,
+          "title": "鞍之战",
+          "text": "晋国联合诸侯击败齐军，迫使齐接受政治条件，重新巩固其在北方的联盟优势。",
+          "eventId": "ann-ce-0054"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-8fbc0dd200d1"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0054",
+          "title": "鞍之战",
+          "date": "公元前589年",
+          "summary": "晋国联合诸侯击败齐军，迫使齐接受政治条件，重新巩固其在北方的联盟优势。",
+          "paragraphs": [
+            "晋国联合诸侯击败齐军，迫使齐接受政治条件，重新巩固其在北方的联盟优势。",
+            "霸主通过援助盟国和惩罚对手维持秩序。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "二、 各国军制的变化；用户提供合并整理本第63734—63734行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 136
+    },
+    {
+      "id": "ce-qi-679968167d",
+      "regimeId": "ce-qi",
+      "name": "齐灵公",
+      "personalName": "姜环",
+      "aliases": [
+        "姜环"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -581,
+          "end": -554,
+          "label": "前581年—前554年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "参与与晋等国的竞争，晚年继承选择涉及太子光及宫廷集团。临终前后权臣崔杼等干预，最终光即位为庄公，国君的继承越来越依赖大族支持。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ce-qi-1eb0eeec88",
+      "regimeId": "ce-qi",
+      "name": "齐庄公",
+      "personalName": "姜光",
+      "aliases": [
+        "姜光"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -553,
+          "end": -548,
+          "label": "前553年—前548年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在大族支持下继位，积极同晋竞争。与崔杼家族的私人、政治冲突最终导致被杀，崔庆等权臣据此重分权力，说明国君与执政大族的矛盾已深入宫廷和军政。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-qi-26b321724e",
+      "regimeId": "ce-qi",
+      "name": "齐景公",
+      "personalName": "姜杵臼",
+      "aliases": [
+        "姜杵臼"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前490年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -547,
+          "end": -490,
+          "label": "前547年—前490年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位后崔、庆等大族相继争斗，晏婴的政治活动与田氏扩张贯穿其世。齐国保持强大经济基础，但田氏通过宗族、土地和社会关系逐步积聚权力，晚年继嗣争议又给田氏以机会。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "ce-qi-0f66cf0eb0",
+      "regimeId": "ce-qi",
+      "name": "晏孺子",
+      "personalName": "姜荼",
+      "aliases": [
+        "姜荼"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前489年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -490,
+          "end": -489,
+          "label": "前490年—前489年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "景公晚年选择的幼年继承者，依托国、高等大族。景公死后田乞等发动政变另立阳生，孺子荼被废杀，幼主的名义皇位无法抵挡掌军大族。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ce-qi-e6cef13a90",
+      "regimeId": "ce-qi",
+      "name": "齐悼公",
+      "personalName": "姜阳生",
+      "aliases": [
+        "姜阳生"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -488,
+          "end": -485,
+          "label": "前488年—前485年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在田氏等支持下取代孺子荼为君，与鲁、吴等关系紧张。宫廷权臣并未因拥立而成为国君完全可控的助手，数年后悼公遭杀，齐国进一步陷入执政大族竞争。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-qi-6d94d63b0d",
+      "regimeId": "ce-qi",
+      "name": "齐简公",
+      "personalName": "姜壬",
+      "aliases": [
+        "姜壬"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前481年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -484,
+          "end": -481,
+          "label": "前484年—前481年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位后田常与阚止等执政势力相争，国君试图维持自身任用体系。前481年田氏发动武力，简公被杀，田氏取得更牢固的实际统治地位，姜齐君位逐渐名义化。"
+      ],
+      "highlights": [
+        {
+          "date": "前481年",
+          "year": -481,
+          "title": "田常杀齐简公",
+          "text": "田氏在齐国内乱中控制政治，齐国君室进一步失去实权，卿族代国过程进入关键阶段。",
+          "eventId": "ann-ce-0084"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-67b11cedc935"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0084",
+          "title": "田常杀齐简公",
+          "date": "公元前481年",
+          "summary": "田氏在齐国内乱中控制政治，齐国君室进一步失去实权，卿族代国过程进入关键阶段。",
+          "paragraphs": [
+            "田氏在齐国内乱中控制政治，齐国君室进一步失去实权，卿族代国过程进入关键阶段。",
+            "贵族家族扩张改变春秋旧国的内部性质。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 齐国田氏（陈氏）代姜齐；用户提供合并整理本第64099—64099行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 144
+    },
+    {
+      "id": "ce-qi-3cc107bc71",
+      "regimeId": "ce-qi",
+      "name": "齐平公",
+      "personalName": "姜骜",
+      "aliases": [
+        "姜骜"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -480,
+          "end": -456,
+          "label": "前480年—前456年",
+          "role": "名义国君",
+          "note": ""
+        }
+      ],
+      "life": [
+        "田常杀简公后立平公，国君仍保留姜齐名号，田氏掌握主要军政资源。其世不能只按名义在位理解政策归属，王室承继与实际掌权者应分开显示。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ce-qi-fbeaeb8511",
+      "regimeId": "ce-qi",
+      "name": "齐宣公",
+      "personalName": "姜积",
+      "aliases": [
+        "姜积"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -455,
+          "end": -405,
+          "label": "前455年—前405年",
+          "role": "名义国君",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期名义在位，田氏家族在内政和军事上继续壮大。田襄子、田庄子等主持齐政，与列国交战和结盟，宣公一人的在位跨度并不表示独掌政策。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ce-qi-ccb0d814ec",
+      "regimeId": "ce-qi",
+      "name": "齐康公",
+      "personalName": "姜贷",
+      "aliases": [
+        "姜贷"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前379年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -404,
+          "end": -379,
+          "label": "前404年—前379年",
+          "role": "名义国君",
+          "note": ""
+        }
+      ],
+      "life": [
+        "姜齐最后名义国君，田和取得周王册命后被置于海上有限封地，以维持祭祀名义。前379年去世后姜氏齐国宗祀终止，其在位终年与田氏正式被列诸侯的前386年不是同一节点。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 115
+    },
+    {
+      "id": "ce-qi-96dacaa54c",
+      "regimeId": "ce-qi",
+      "name": "田齐太公",
+      "personalName": "田和",
+      "aliases": [
+        "田和"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -386,
+          "end": -384,
+          "label": "前386年—前384年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "田氏长期掌齐政后，田和取得周安王册命，成为正式齐侯，姜齐被政治上取代。实际夺权与名分认可分属更长过程，田氏此前几代的经营不应全部浓缩为田和个人的一次政变。"
+      ],
+      "highlights": [
+        {
+          "date": "前386年",
+          "year": -386,
+          "title": "田和列为诸侯",
+          "text": "周王室承认田和的诸侯身份，田氏代齐获得正式名分，齐国的统治家族发生转换。",
+          "eventId": "ann-ce-0096"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "田齐早期王序、在位起年与《史记》旧表有显著差异，采用《竹书纪年》及现代考订的常用方案，不将某一旧表视为无争议确年。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-9bf8b909d7af"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0096",
+          "title": "田和列为诸侯",
+          "date": "公元前386年",
+          "summary": "周王室承认田和的诸侯身份，田氏代齐获得正式名分，齐国的统治家族发生转换。",
+          "paragraphs": [
+            "周王室承认田和的诸侯身份，田氏代齐获得正式名分，齐国的统治家族发生转换。",
+            "卿大夫掌权最终转化为王朝与国君更替。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 齐国田氏（陈氏）代姜齐；用户提供合并整理本第64103—64103行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 148
+    },
+    {
+      "id": "ce-qi-8b6c918248",
+      "regimeId": "ce-qi",
+      "name": "田侯剡",
+      "personalName": "田剡",
+      "aliases": [
+        "田剡"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -383,
+          "end": -375,
+          "label": "前383年—前375年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "田和之后的田齐君主，见《竹书纪年》等与《史记》不同的早期齐王系统。田午夺权杀剡及孺子喜，早期田齐的王序和年代因此不能直接照搬单一旧表。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "田齐早期王序、在位起年与《史记》旧表有显著差异，采用《竹书纪年》及现代考订的常用方案，不将某一旧表视为无争议确年。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ce-qi-76e056300f",
+      "regimeId": "ce-qi",
+      "name": "田齐桓公",
+      "personalName": "田午",
+      "aliases": [
+        "田午"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -374,
+          "end": -357,
+          "label": "前374年—前357年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在田齐内部争位后掌权，与田剡及其子被杀的事件相连。稷下招纳士人的传统也常追溯其世，具体制度形成仍需分阶段研究。此人不是春秋霸主齐桓公小白。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "田齐早期王序、在位起年与《史记》旧表有显著差异，采用《竹书纪年》及现代考订的常用方案，不将某一旧表视为无争议确年。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-qi-d0c93da3c2",
+      "regimeId": "ce-qi",
+      "name": "齐威王",
+      "personalName": "田因齐",
+      "aliases": [
+        "田因齐"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -356,
+          "end": -320,
+          "label": "前356年—前320年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "整顿官吏、奖励实绩，任用邹忌、田忌及孙膑等人，齐在桂陵、马陵之战击败魏军，成为东方强国。君臣政争与军事判断同样重要，不能只用一鸣惊人故事概括其实际统治。"
+      ],
+      "highlights": [
+        {
+          "date": "前356年—前320年",
+          "year": -356,
+          "title": "齐威王整顿吏治",
+          "text": "齐国通过整顿地方官吏、重用人才和加强军备恢复实力，逐渐挑战魏国优势。",
+          "eventId": "ann-ce-0100"
+        },
+        {
+          "date": "前334年",
+          "year": -334,
+          "title": "徐州相王",
+          "text": "齐魏在徐州互相承认王号，诸侯称王逐渐普遍，周天子的独占名分进一步瓦解。",
+          "eventId": "ann-ce-0111"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "田齐早期王序、在位起年与《史记》旧表有显著差异，采用《竹书纪年》及现代考订的常用方案，不将某一旧表视为无争议确年。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-c5c220e6ffee"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0100",
+          "title": "齐威王整顿吏治",
+          "date": "公元前356年—公元前320年",
+          "summary": "齐国通过整顿地方官吏、重用人才和加强军备恢复实力，逐渐挑战魏国优势。",
+          "paragraphs": [
+            "齐国通过整顿地方官吏、重用人才和加强军备恢复实力，逐渐挑战魏国优势。",
+            "强国兴衰与行政效率及用人机制相联系。"
+          ],
+          "note": "齐威王纪年有旧说与考订之别；采用通行在位范围表示改革时期，不把无确年事迹硬定为某一年。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "七、 楚国的复兴，楚灭越；用户提供合并整理本第62372—62372行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0111",
+          "title": "徐州相王",
+          "date": "公元前334年",
+          "summary": "齐魏在徐州互相承认王号，诸侯称王逐渐普遍，周天子的独占名分进一步瓦解。",
+          "paragraphs": [
+            "齐魏在徐州互相承认王号，诸侯称王逐渐普遍，周天子的独占名分进一步瓦解。",
+            "战国诸国在名义上公开追求同等主权地位。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "一、 周边民族的分布；用户提供合并整理本第61837—61837行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 180
+    },
+    {
+      "id": "ce-qi-b795856143",
+      "regimeId": "ce-qi",
+      "name": "齐宣王",
+      "personalName": "田辟疆",
+      "aliases": [
+        "田辟疆"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -319,
+          "end": -301,
+          "label": "前319年—前301年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "延续齐国强国地位，稷下学术和孟子游说是其文化政治背景。趁燕国内乱进兵占燕，引发当地反抗和列国干预，最终难以长期控制，显示对外扩张的政治成本。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "田齐早期王序、在位起年与《史记》旧表有显著差异，采用《竹书纪年》及现代考订的常用方案，不将某一旧表视为无争议确年。"
+      ],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ce-qi-0b64e50e46",
+      "regimeId": "ce-qi",
+      "name": "齐湣王",
+      "personalName": "田地",
+      "aliases": [
+        "田地"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前284年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -300,
+          "end": -284,
+          "label": "前300年—前284年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在对秦、楚、宋等国的军事外交竞争中扩张，灭宋后与诸国矛盾集中爆发。乐毅统率联军攻齐，临淄失守，湣王逃亡并被杀，齐的强势地位遭毁灭性打击。"
+      ],
+      "highlights": [
+        {
+          "date": "前288年",
+          "year": -288,
+          "title": "秦齐称帝又去帝号",
+          "text": "秦齐短暂采用东西帝号，随外交压力及利益调整而放弃，列国仍在探索新的等级秩序。",
+          "eventId": "ann-ce-0126"
+        },
+        {
+          "date": "前286年",
+          "year": -286,
+          "title": "齐灭宋",
+          "text": "齐国兼并经济与地理位置重要的宋国，国力扩张也引发其他大国的联合戒备。",
+          "eventId": "ann-ce-0127"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-3da1f45dc2df"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0126",
+          "title": "秦齐称帝又去帝号",
+          "date": "公元前288年",
+          "summary": "秦齐短暂采用东西帝号，随外交压力及利益调整而放弃，列国仍在探索新的等级秩序。",
+          "paragraphs": [
+            "秦齐短暂采用东西帝号，随外交压力及利益调整而放弃，列国仍在探索新的等级秩序。",
+            "称号竞争折射秦齐两强对天下政治的争夺。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "四 秦、齐、赵三强鼎立而斗争和苏秦为燕间谍而计谋破齐；用户提供合并整理本第69672—69672行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0127",
+          "title": "齐灭宋",
+          "date": "公元前286年",
+          "summary": "齐国兼并经济与地理位置重要的宋国，国力扩张也引发其他大国的联合戒备。",
+          "paragraphs": [
+            "齐国兼并经济与地理位置重要的宋国，国力扩张也引发其他大国的联合戒备。",
+            "扩张收益可能迅速转化为外交孤立和安全负担。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "前言；用户提供合并整理本第65744—65744行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 175
+    },
+    {
+      "id": "ce-qi-123b190947",
+      "regimeId": "ce-qi",
+      "name": "齐襄王",
+      "personalName": "田法章",
+      "aliases": [
+        "田法章"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -283,
+          "end": -265,
+          "label": "前283年—前265年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "齐湣王死后在莒一带被拥立，田单固守即墨并反攻，逐步恢复齐地。复国不等于完全恢复湣王以前国力，齐此后在战国末局中更重自保。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ce-qi-56971f4f87",
+      "regimeId": "ce-qi",
+      "name": "齐王建",
+      "personalName": "田建",
+      "aliases": [
+        "田建"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -264,
+          "end": -221,
+          "label": "前264年—前221年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "母君王后早年参与政治，后期任用后胜，与秦保持缓和而未有效参与其他诸国抗秦。前221年秦军入齐，建投降，六国统一的最后一步完成；不能把齐亡只归为个人“胆小”，外交、战略与国内利益均须说明。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：齐国、田氏代齐、战国年表考订",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 128
+    }
+  ]
+}

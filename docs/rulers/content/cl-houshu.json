@@ -1,0 +1,151 @@
+{
+  "id": "cl-houshu",
+  "people": [
+    {
+      "id": "cl-houshu-fc39fcc5d",
+      "regimeId": "cl-houshu",
+      "name": "后蜀高祖",
+      "personalName": "孟知祥",
+      "aliases": [
+        "孟知祥"
+      ],
+      "born": "874年",
+      "died": "934年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 934,
+          "end": 934,
+          "label": "934年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "后唐任命的西川节度使，在后唐内乱中逐步独立，并消灭东川对手。934年称帝建蜀，旋即去世；其区域军政安排为子孟昶的长期统治提供基础。"
+      ],
+      "highlights": [
+        {
+          "date": "934年",
+          "year": 934,
+          "title": "后蜀建立",
+          "text": "孟知祥在成都称帝。",
+          "eventId": "ann-cl-five-dynasties-934-159"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-e1d2b095e2a3"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第一节 五代的更替，合并文本第109816行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-934-159",
+          "title": "后蜀建立",
+          "date": "934年",
+          "summary": "孟知祥在成都称帝。",
+          "paragraphs": [
+            "孟知祥在成都称帝。",
+            "四川再次出现独立政权。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 114
+    },
+    {
+      "id": "cl-houshu-cbc2e87fa",
+      "regimeId": "cl-houshu",
+      "name": "后蜀后主",
+      "personalName": "孟昶",
+      "aliases": [
+        "孟昶"
+      ],
+      "born": "919年",
+      "died": "965年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 934,
+          "end": 965,
+          "label": "934—965年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "孟知祥之子，统治成都三十余年，推动文教和城市建设。面对北方统一趋势，军事防御与用人未能有效应对宋军；965年降宋，入汴后不久去世。"
+      ],
+      "highlights": [
+        {
+          "date": "965年",
+          "year": 965,
+          "title": "宋灭后蜀",
+          "text": "宋军攻入成都。",
+          "eventId": "ann-cl-song-liao-xia-jin-965-185"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-e2b3a75a06e2"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第一节 五代的更替，合并文本第109816行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-song-liao-xia-jin-965-185",
+          "title": "宋灭后蜀",
+          "date": "965年",
+          "summary": "宋军攻入成都。",
+          "paragraphs": [
+            "宋军攻入成都。",
+            "孟昶投降，四川纳入宋朝统治。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 112
+    }
+  ]
+}

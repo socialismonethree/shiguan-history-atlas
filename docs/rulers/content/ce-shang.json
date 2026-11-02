@@ -1,0 +1,1475 @@
+{
+  "id": "ce-shang",
+  "people": [
+    {
+      "id": "ce-shang-7fced62a95",
+      "regimeId": "ce-shang",
+      "name": "商汤",
+      "personalName": "子履",
+      "aliases": [
+        "子履"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为主癸之子；外丙、仲壬、太丁与其世系相连。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以亳为重要根据地，联络诸侯并击败夏桀，成为传世商王朝开端人物。伊尹、仲虺辅政及鸣条之战是其故事主线。称号“汤”与成汤、天乙、大乙等名号的对应须结合文献和甲骨材料理解，不能据多个名号再造多位君主。",
+        "商汤在传世文献中是灭夏建商的关键人物，甲骨祭祀先王名号又为商先王研究提供另一类证据。其战争过程仍主要依靠后世记述。"
+      ],
+      "highlights": [
+        {
+          "date": "前1600年",
+          "year": -1600,
+          "title": "商汤灭夏与商王朝开端",
+          "text": "传世文献记载商汤联合力量征伐夏桀，夏商政治格局发生改变。商先王世系还可与甲骨祭祀名号对读，但战争细节主要来自后世追述。",
+          "eventId": "v5-shang-founding"
+        }
+      ],
+      "assessment": "联合力量征伐夏、开启商的统治，是传统王朝更替叙事中最常见的历史节点之一。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "v5-tang"
+      ],
+      "relatedEvents": [
+        {
+          "id": "v5-shang-founding",
+          "title": "商汤灭夏与商王朝开端",
+          "date": "约公元前1600年",
+          "summary": "传世文献记载商汤联合力量征伐夏桀，夏商政治格局发生改变。商先王世系还可与甲骨祭祀名号对读，但战争细节主要来自后世追述。",
+          "paragraphs": [
+            "传世文献记载商汤联合力量征伐夏桀，夏商政治格局发生改变。商先王世系还可与甲骨祭祀名号对读，但战争细节主要来自后世追述。",
+            "它是传统中国王朝更替叙述的重要起点，也是比较文献与甲骨证据的切入口。",
+            "商成为中原重要政治力量，后来逐步发展出以王室为中心的统治与祭祀网络。"
+          ],
+          "note": "约数为通行分期展示；鸣条等具体地望和战事细节存在争论。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第五章 商王朝前期的历史——从原始社会到奴隶社会的过渡时期（下）；第一节 商汤的灭夏；用户提供合并整理本第3617—3657行"
+            },
+            {
+              "title": "胡厚宣、胡振宇《殷商史》",
+              "url": "",
+              "note": "第二章 殷商世系；用户提供合并整理本第17341—17355行"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0003",
+          "title": "商汤灭夏的历史记忆",
+          "date": "约公元前1600年—公元前1500年",
+          "summary": "传世文献把商的兴起叙述为汤讨伐夏桀，具体战役细节与绝对年代难作同等确认。",
+          "paragraphs": [
+            "传世文献把商的兴起叙述为汤讨伐夏桀，具体战役细节与绝对年代难作同等确认。",
+            "商代建立需结合早商城址与后世记述。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第一节 商汤的灭夏；用户提供合并整理本第3635—3635行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 249
+    },
+    {
+      "id": "ce-shang-8ffffc65bd",
+      "regimeId": "ce-shang",
+      "name": "外丙",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为汤之子。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "《殷本纪》记其继汤而立，并将其列在仲壬、太甲之前。商初继承次序在不同材料中存在问题，早期君主名与祭祀日名也须区别。现存史料不足以编写确定的出生、死亡和个人政策年表。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 117
+    },
+    {
+      "id": "ce-shang-b4c06701ef",
+      "regimeId": "ce-shang",
+      "name": "仲壬",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传为外丙之弟、汤之子。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统王序把仲壬列在外丙之后、太甲之前。该名在商初王谱中的地位与甲骨祀谱对读时存在争议，因此此处保留传世世系位置，并明确不将其具体在位年数和细节当作已被考古全部证实。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 117
+    },
+    {
+      "id": "ce-shang-b576af1977",
+      "regimeId": "ce-shang",
+      "name": "太甲",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为太丁之子、汤之孙；沃丁与太庚之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世叙事称太甲初立时失于政事，伊尹将其放于桐宫，后来悔过复政；这一故事成为后世讨论臣权、王权和政治责任的重要资源。故事的道德化结构不能代替对商初政治的实证复原。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 115
+    },
+    {
+      "id": "ce-shang-c47d8f426d",
+      "regimeId": "ce-shang",
+      "name": "沃丁",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为太甲之子、太庚之兄。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世王序中承太甲而立，后由太庚继位。其个人事迹保存不多，伊尹葬礼等记载主要属于商初辅政传统。现有材料更适合说明王室承继与祭祀记忆，不能扩写成完整的宫廷传记。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "ce-shang-390c925409",
+      "regimeId": "ce-shang",
+      "name": "太庚",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为太甲之子。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在商王世系中继沃丁而立，又有大庚等写法，后世所见名字与商王日名制度有关。其后小甲、雍己、太戊相继出现，兄弟相及与父子相传的判断须依据不同王谱谨慎对照。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ce-shang-7fe50f7715",
+      "regimeId": "ce-shang",
+      "name": "小甲",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为太庚之子；与雍己、太戊同属商前期王系。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "《殷本纪》把他置于太庚之后、雍己之前。甲骨与传世记载对早期王系亲属关系并非处处一致；其具体执政举措、出生地点与公历年数均不足以确证。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ce-shang-60086f8259",
+      "regimeId": "ce-shang",
+      "name": "雍己",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为小甲之弟。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统商王叙事称其世商势有所衰落、诸侯不至，其后太戊恢复王室威望。这类兴衰叙事经过后世整理，应与可直接确认的王名、祭序证据分开阅读。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ce-shang-1b781669fe",
+      "regimeId": "ce-shang",
+      "name": "太戊",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统王系把他列于雍己之后、仲丁之前。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "又称大戊，传统史书称其为中宗，把商前期一次王权恢复与伊陟等辅臣联系起来。桑谷共生等灾异故事具有明显的劝诫结构；其具体政策和在位长短仍需区分传说与史实。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ce-shang-c1428e535a",
+      "regimeId": "ce-shang",
+      "name": "仲丁",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为太戊之子。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世文献把从亳迁往嚣的迁都记忆系于其世。商代都邑迁徙与政治、资源和区域竞争有关，但遗址对应和具体迁都路线仍有不同认识，不应以一个现代地图点替代整个过程。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "ce-shang-7a8c503e1c",
+      "regimeId": "ce-shang",
+      "name": "外壬",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为仲丁之弟。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "列于仲丁之后、河亶甲之前。传世史家以王室弟兄争立解释这一阶段的政治不稳，而个别君主的个人活动资料有限。其名字和承继关系比具体生卒、年龄和宫廷故事更有依据。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 112
+    },
+    {
+      "id": "ce-shang-70f7364245",
+      "regimeId": "ce-shang",
+      "name": "河亶甲",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为外壬之弟、祖乙之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统史书把迁于相的事件系于河亶甲，又描写这一时期商王权的波折。相关都邑的现代地望与迁移年代未完全统一，个人政治经历不能由后世简短兴衰评语无限放大。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "ce-shang-d4937983e3",
+      "regimeId": "ce-shang",
+      "name": "祖乙",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为河亶甲之子、祖辛与沃甲之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世记载称祖乙时期商势再振，甲骨祀典亦显示其在先王祭祀中的重要地位。关于都邑迁移和辅臣的记述须与不同文献核对；不把祭祀地位直接等同于已知的具体政策。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "ce-shang-833e97fb3c",
+      "regimeId": "ce-shang",
+      "name": "祖辛",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为祖乙之子、沃甲之兄。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统世系中继祖乙，随后由弟沃甲承继。个人生平记述很少，不能因其庙号中的“祖”字就推断有某项明确创制。商王日名、庙号与后世帝王称谓不可简单混同。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ce-shang-e1006ea479",
+      "regimeId": "ce-shang",
+      "name": "沃甲",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为祖辛之弟。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在商王传世王序中处于祖辛与祖丁之间，体现王室旁支承继的一段历史记忆。其政治活动、都城所在地和生卒年缺少可独立确证的材料，保留世系索引而不编造日常生活。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ce-shang-e2e94cb865",
+      "regimeId": "ce-shang",
+      "name": "祖丁",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为祖辛之子，阳甲、盘庚、小辛、小乙之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世王序记为祖辛之子，继沃甲后执政。祖丁、南庚及阳甲、盘庚之间的父子与兄弟承继关系，是理解盘庚迁殷前王室内部关系的主要线索。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-shang-b7696e1516",
+      "regimeId": "ce-shang",
+      "name": "南庚",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为沃甲之子。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统世系记其为沃甲之子，承祖丁而立，后由祖丁一支继承。个人政事材料稀少；不能将“九世之乱”的总体叙述平均分配为每一位王的具体战争或政变。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ce-shang-bd6cf985a7",
+      "regimeId": "ce-shang",
+      "name": "阳甲",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为祖丁之子、盘庚之兄。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统商王序列中位于南庚之后、盘庚之前，传世文献描写此时王室力量衰落。此后迁殷的政治转折由盘庚叙事展开，阳甲个人的详年与行事仍缺乏可靠材料。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-shang-c5c8bbac59",
+      "regimeId": "ce-shang",
+      "name": "盘庚",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为祖丁之子，阳甲之弟、小辛与小乙之兄。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以迁殷而著名，传世《盘庚》篇保存了迁居时说服不同群体的政治语言。迁都不只是搬迁宫室，也涉及贵族利益、劳作组织与地方资源。安阳殷墟与晚商史的结合有坚实考古基础，但迁殷具体年份和各迁都地望仍不能混为一谈。",
+        "盘庚以迁殷见于文献，其时期是理解商前期迁徙与晚商王都发展的重要节点。迁都前后动员臣民的叙述，也反映政治决策的复杂性。"
+      ],
+      "highlights": [
+        {
+          "date": "前1300年",
+          "year": -1300,
+          "title": "盘庚迁殷与晚商王都发展",
+          "text": "传世文献记盘庚迁殷，殷墟遗存则展示晚商王都的建筑、祭祀和手工业。迁徙的原因有多种解释，不能只归结为一场洪水或一次节俭行动。",
+          "eventId": "cn-yinxu"
+        }
+      ],
+      "assessment": "迁殷与此后王都长期发展的传统记忆，为梳理商代政治中心变化提供重要线索。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "v5-pangeng"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-yinxu",
+          "title": "盘庚迁殷与晚商王都发展",
+          "date": "约公元前1300年",
+          "summary": "传世文献记盘庚迁殷，殷墟遗存则展示晚商王都的建筑、祭祀和手工业。迁徙的原因有多种解释，不能只归结为一场洪水或一次节俭行动。",
+          "paragraphs": [
+            "商代早期都邑曾多次转移。《尚书·盘庚》保存了围绕迁徙的训诰，反映王与贵族、民众之间的动员和反对。把这次迁徙理解为一次纯粹由水患引起的工程，不能涵盖材料显示的政治问题。",
+            "盘庚在传世叙事中要求反对迁都者服从决定，并以先王传统、共同利益和惩戒措施说服人群迁徙。这些言辞显示，迁都关系到土地、财产、旧有联系与政治权力的重新安排。",
+            "迁殷之后，商代后期的王室活动逐渐可以由安阳地区宫殿宗庙、墓葬、手工业遗存及甲骨卜辞相互参照。不过，把盘庚迁徙的每一步直接对应到某一层位，仍缺乏足够证据。",
+            "殷成为晚商最重要的政治与祭祀中心；商王室在这里留下了极丰富的同时代文字与物质遗存。",
+            "这次迁都在历史叙事上连接了较难复原的早商和材料丰富的晚商。研究者由此能进一步观察占卜、战争、农业、祭祀和王室亲属网络，商史也不再完全依赖后世记载。"
+          ],
+          "note": "“五迁”一般指商先王的累计迁徙，并非盘庚一人迁五次；迁都原因、年代与早晚都邑对应仍应区分证据强弱。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "二、商代前期的“盛君”；用户提供合并整理本第3839—3839行"
+            },
+            {
+              "title": "胡厚宣、胡振宇《殷商史》",
+              "url": "",
+              "note": "第十二章 居住环境；用户提供合并整理本第32475—32475行"
+            },
+            {
+              "title": "殷墟",
+              "url": "https://whc.unesco.org/en/list/1114",
+              "note": "联合国教科文组织 · 世界遗产中心；支持殷墟遗存、晚商文字和社会生活的说明。"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 254
+    },
+    {
+      "id": "ce-shang-1253df10c6",
+      "regimeId": "ce-shang",
+      "name": "小辛",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为盘庚之弟、小乙之兄。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统世系中继盘庚而立，后由弟小乙承继。有关其个人事迹的传世记录极少，主要保留在商王祀序和王室承继记忆中；不能据王名编出精确寿命、政绩或具体战役。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "ce-shang-02718901ed",
+      "regimeId": "ce-shang",
+      "name": "小乙",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "通常记为武丁之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "位于盘庚、小辛之后、武丁之前。传世与甲骨王谱使其成为连接迁殷诸王与武丁世代的重要人物，但个人政治活动仍远少于其子武丁可以由卜辞观察的内容。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-shang-35038ebf65",
+      "regimeId": "ce-shang",
+      "name": "武丁",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为小乙之子；妇好是其配偶之一。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "晚商最重要的君主之一，其世的大量甲骨卜辞记录征伐、祭祀、农业、疾病与王室生活。妇好参与军事和祭祀活动，显示王室女性可能具有多重政治角色；传世傅说辅政故事则属于另一类材料。武丁时期可见王权广泛动员资源，也不能把卜辞占问直接当作事件已经发生或取得成功。",
+        "武丁是晚商研究中材料较丰富的君主，相关甲骨记录涉及战争、祭祀和王室事务。由其时期进入商史，可以把人物活动与同期文字联系起来。"
+      ],
+      "highlights": [
+        {
+          "date": "不详",
+          "year": null,
+          "title": "武丁时期的王室与方国战争",
+          "text": "甲骨记录中，武丁及王室成员参与对土方等方国的军事事务，妇好也出现在相关卜辞中。战争、祭祀与人员动员在这些材料中互相联系。",
+          "eventId": "v5-shang-wuding"
+        },
+        {
+          "date": "不详",
+          "year": null,
+          "title": "甲骨刻辞留下王室事务记录",
+          "text": "晚商甲骨刻辞保存卜问雨水、收成、战争和祭祀等内容，一些还记判断与事后情况。它们让研究者得以接触当时留下的文字材料。",
+          "eventId": "v5-shang-oracle"
+        }
+      ],
+      "assessment": "王室军事行动与事务记录在其时期留下多种线索，妇好等参与者也由此进入历史视野。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "v5-wuding"
+      ],
+      "relatedEvents": [
+        {
+          "id": "v5-shang-wuding",
+          "title": "武丁时期的王室与方国战争",
+          "date": "商代晚期·武丁时期",
+          "summary": "甲骨记录中，武丁及王室成员参与对土方等方国的军事事务，妇好也出现在相关卜辞中。战争、祭祀与人员动员在这些材料中互相联系。",
+          "paragraphs": [
+            "甲骨记录中，武丁及王室成员参与对土方等方国的军事事务，妇好也出现在相关卜辞中。战争、祭祀与人员动员在这些材料中互相联系。",
+            "它展示商王权如何在与周边政治共同体的关系中运作，而不只是孤立王表。",
+            "晚商王室活动的参与者与组织线索更加可见，但具体疆界和战役全貌仍不完整。"
+          ],
+          "note": "属于晚商武丁时期，未在本条拟定无争议的绝对起讫年；方国不等于现代民族国家。",
+          "sources": [
+            {
+              "title": "胡厚宣、胡振宇《殷商史》",
+              "url": "",
+              "note": "第四章 殷商方国；用户提供合并整理本第19299—19345行"
+            }
+          ]
+        },
+        {
+          "id": "v5-shang-oracle",
+          "title": "甲骨刻辞留下王室事务记录",
+          "date": "商代晚期，未拟定单一起始年",
+          "summary": "晚商甲骨刻辞保存卜问雨水、收成、战争和祭祀等内容，一些还记判断与事后情况。它们让研究者得以接触当时留下的文字材料。",
+          "paragraphs": [
+            "晚商甲骨刻辞保存卜问雨水、收成、战争和祭祀等内容，一些还记判断与事后情况。它们让研究者得以接触当时留下的文字材料。",
+            "甲骨材料改变了商史主要依靠后世文献的局面，并可与传世世系相互核对。",
+            "商王室关心的事务和记录方式逐渐可被辨识，中国古文字研究获得重要基础。"
+          ],
+          "note": "刻辞并非完整日记，卜问不等于事件已经发生；残缺与释读问题必须保留。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第十章 商代的文化、科学与艺术；四、甲骨的发现和卜辞文例；用户提供合并整理本第10406—10496行"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0006",
+          "title": "武丁时期的商王朝",
+          "date": "约公元前1250年—公元前1190年",
+          "summary": "武丁时期的占卜、征战和祭祀记载较丰富，妇好等人物参与战争及王室礼仪。",
+          "paragraphs": [
+            "武丁时期的占卜、征战和祭祀记载较丰富，妇好等人物参与战争及王室礼仪。",
+            "甲骨文字把晚商人物与活动带入可直接考察的范围。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "一、商汤和伊尹；用户提供合并整理本第3747—3747行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 341
+    },
+    {
+      "id": "ce-shang-a5a1117af7",
+      "regimeId": "ce-shang",
+      "name": "祖庚",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为武丁之子、祖甲之兄。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继武丁后执政，王名可与晚商祀谱相互参照。卜辞分期和若干祭祀制度变化与祖庚、祖甲世代有关，但不能把所有断代有争议的甲骨内容都归给某一位王。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ce-shang-6cbe23a42e",
+      "regimeId": "ce-shang",
+      "name": "祖甲",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为武丁之子。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世商王序列中承祖庚而立；甲骨研究常将其与祀典和周祭制度的发展联系起来。后世《无逸》等文献对其品行和经历的叙述，与出土资料属于不同证据层次，须分别理解。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "ce-shang-39c99249ad",
+      "regimeId": "ce-shang",
+      "name": "廪辛",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为祖甲之子、康丁之兄。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "又有冯辛等文字写法，传世世系中继祖甲而立，随后康丁继位。其个人生活与执政详情不足，王名异体、祭祀称谓不宜误作另一位独立君主。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-shang-66a21797da",
+      "regimeId": "ce-shang",
+      "name": "康丁",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为廪辛之弟、武乙之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传统商王世系中在廪辛之后、武乙之前，亦有庚丁等名号写法。相关卜辞断代和王世归属仍须依据整体甲骨分期，不能用个别日名推定确切在位年份。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ce-shang-c512b79939",
+      "regimeId": "ce-shang",
+      "name": "武乙",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为康丁之子、文丁之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "传世史书把其与迁居、对周边政治力量的关系及不敬神等故事相连。射天和雷死的叙事带有鲜明道德化色彩，不宜当成可以核验的自然事件或个人死因。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ce-shang-0c3ddbbd6c",
+      "regimeId": "ce-shang",
+      "name": "文丁",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "传统记为武乙之子、帝乙之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "又称太丁，晚商王室与周族关系的发展常被置于其世。传世文献有关季历遭杀等材料需与周人历史记忆一起考察；商王名“太丁”还可能与商初同名祖先混淆，必须按世系区分。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "ce-shang-9381bc7675",
+      "regimeId": "ce-shang",
+      "name": "帝乙",
+      "personalName": "本名未作确证；以传世王名及日名识别",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "通常记为帝辛之父。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "商末君主，其世商周之间既有婚姻、礼仪联系，也有力量消长。传世“帝乙归妹”等材料究竟对应何事，学界并无完全统一解释。其生卒确年及具体世代年代仍需注意不同商周年表的口径。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。",
+        "不将后世流传的子姓本名视作已由同时代材料逐项证实。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 118
+    },
+    {
+      "id": "ce-shang-1b1cd54680",
+      "regimeId": "ce-shang",
+      "name": "帝辛",
+      "personalName": "子受",
+      "aliases": [
+        "子受"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "帝乙之子；传统文献记微子、箕子、比干等与商末王室相连。",
+      "reigns": [
+        {
+          "start": null,
+          "end": null,
+          "label": "确年待考",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即后世常称的商纣王。其统治末期的对外征伐与内部矛盾，是周人联合诸方并在牧野击败商军的背景。出土材料显示商末仍有复杂的祭祀、军事和行政活动，不能仅用酒池肉林等后世暴君故事概括。评价其统治应将商亡的政治过程与周以后形成的道德叙事区分开。",
+        "帝辛即后世常称的商纣王，其统治与商周更替相联系。后世文献大量集中其恶行，本书也提醒亡国君主形象可能被不断夸饰。"
+      ],
+      "highlights": [
+        {
+          "date": "前1046年",
+          "year": -1046,
+          "title": "牧野之战与周王朝建立",
+          "text": "周武王率军克商，周取代商成为中原政治中心的重要力量。战后祭告、安置商人和建立统治关系，说明一次军事胜利之后仍有长期整合。",
+          "eventId": "cn-zhou-founding"
+        }
+      ],
+      "assessment": "他所处的商末政治、方国关系与周的崛起，构成理解商朝终结的关键历史背景。",
+      "uncertainties": [
+        "本条不为商王强分公历在位起讫；日名、传世世系和甲骨祀谱的差异另需考证。"
+      ],
+      "sources": [
+        {
+          "title": "胡厚宣等《殷商史》：商的世系及其继承制度，合并本8047行起；王玉哲《中华远古史》相关章节",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "v5-dixin"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-zhou-founding",
+          "title": "牧野之战与周王朝建立",
+          "date": "公元前1046年（本站年表口径）",
+          "summary": "周武王率军克商，周取代商成为中原政治中心的重要力量。战后祭告、安置商人和建立统治关系，说明一次军事胜利之后仍有长期整合。",
+          "paragraphs": [
+            "商末周族在关中扩张，逐渐组织起与商王室对抗的联盟。武王继承文王的政治军事积累，选择商王朝内外矛盾加深时向东方推进。",
+            "周军及盟军从西向东进入商的核心地区，在牧野与商军交战。《尚书》《史记》等记载商军倒戈，但对交战规模、伤亡和具体经过并不一致，不能照搬后世戏剧化场面。",
+            "战争以商王朝核心统治崩溃告终，周随后必须接管旧商区域、处理商王族及其支持者。利簋等青铜器铭文为克商的时间次序提供了接近同时代的线索，却不能单独解释全部战场过程。",
+            "周取得取代商的政治优势，但战争胜利并未立即建立牢固的新秩序，后续的三监之乱与周公东征说明统治整合仍需长期完成。",
+            "商周更替改变了中原政治中心和权力分配。此后周人通过封建、宗族和礼仪网络组织诸侯与王室关系，并以天命和敬德观念解释政权转移，成为后世反复引用的政治语言。"
+          ],
+          "note": "克商绝对年代及商军倒戈的具体情况仍有讨论；不把“血流漂杵”等修辞当作伤亡统计。",
+          "sources": [
+            {
+              "title": "杨宽《西周史》",
+              "url": "",
+              "note": "第四章 周朝的创建和东征的胜利；用户提供合并整理本第46637—46671行"
+            },
+            {
+              "title": "王玉哲《中华远古史》",
+              "url": "",
+              "note": "第十二章 周王朝的建立；四、西周开始的年代问题；用户提供合并整理本第12852—12914行"
+            },
+            {
+              "title": "商周：中国的青铜时代",
+              "url": "https://www.metmuseum.org/essays/shang-and-zhou-dynasties-the-bronze-age-of-china",
+              "note": "大都会艺术博物馆 · 亚洲艺术部，2004；提供商周分期与礼仪青铜器背景；年代为此来源采用的框架。"
+            },
+            {
+              "title": "历史纪年：周",
+              "url": "https://ygx.sxu.edu.cn/portals/07z",
+              "note": "山西大学图书馆等；采用正文有关周武王、东迁与春秋战国分期；不采用页面表格中明显概括过宽的在位年。"
+            },
+            {
+              "title": "《中国断代史系列·全集》用户提供整理本（先秦、秦汉、魏晋南北朝、隋唐五代相关正文）",
+              "url": "",
+              "note": "王玉哲、杨宽、林剑鸣、王仲荦等；原创概述所据正文按合并 Markdown 行号定位；旧断代、古纸研究及部分传统战史叙述须与现行考古、原始史料区分，未将全书观点一概视为定论。未公开上传全书。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0010",
+          "title": "牧野之战与商周更替",
+          "date": "约公元前1046年",
+          "summary": "周武王率联军进攻商都，商王朝覆亡；前1046年为当前通行年代框架之一。",
+          "paragraphs": [
+            "周武王率联军进攻商都，商王朝覆亡；前1046年为当前通行年代框架之一。",
+            "周人建立新王朝，但具体年代仍属研究问题。"
+          ],
+          "note": "年代为约数或考古分期，不能按浏览窗口理解为精确发生年。早期绝对年代或遗址与王朝对应存在学术分歧；区间用于表示大致时代，不表示逐年考定。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《西周史》",
+              "url": "",
+              "note": "（二）儒家对西周政治文化的推崇；用户提供合并整理本第44883—44883行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 266
+    }
+  ]
+}

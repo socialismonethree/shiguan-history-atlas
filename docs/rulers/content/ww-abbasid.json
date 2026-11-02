@@ -1,0 +1,1474 @@
+{
+  "id": "ww-abbasid",
+  "people": [
+    {
+      "id": "ww-e592cdd44c57",
+      "regimeId": "ww-abbasid",
+      "name": "萨法赫",
+      "personalName": "萨法赫",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 749,
+          "end": 754,
+          "label": "749—754年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在呼罗珊运动和阿拔斯宗族支持下被拥为哈里发，通常以750年倭马亚王朝覆亡作为新王朝确立节点。他打击旧王朝势力，依靠阿布·穆斯林等军事政治力量，但新王朝宗族、地方军队与革命参与者之间的利益矛盾很快显露。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-a6d452dba524",
+      "regimeId": "ww-abbasid",
+      "name": "曼苏尔",
+      "personalName": "曼苏尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 754,
+          "end": 775,
+          "label": "754—775年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "萨法赫之弟，击败宗族挑战后清除阿布·穆斯林，强化中央权力。762年营建巴格达，使两河流域成为王朝财政、交通与宫廷中心。严厉集权与城市建设同时展开，其统治是阿拔斯制度巩固的重要阶段。"
+      ],
+      "highlights": [
+        {
+          "date": "750年",
+          "year": 750,
+          "title": "阿拔斯革命与巴格达建城",
+          "text": "阿拔斯推翻倭马亚在东方的统治，随后以巴格达建立新的都城中心。",
+          "eventId": "we-abbasid"
+        },
+        {
+          "year": 762,
+          "date": "762年",
+          "title": "巴格达建城（任内史事）",
+          "text": "曼苏尔营建新都，伊拉克逐渐成为行政、贸易和知识交流的世界性中心。",
+          "eventId": "ann-chron-world-central-west-asia-0386"
+        }
+      ],
+      "assessment": "新都城聚集官僚、商人和学者，繁荣超出个人规划。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "伊斯兰世界的制度、城市与知识",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/11-3-islamization-and-religious-rule-under-islam",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-abbasid",
+          "title": "阿拔斯革命与巴格达建城",
+          "date": "750年",
+          "summary": "阿拔斯推翻倭马亚在东方的统治，随后以巴格达建立新的都城中心。",
+          "paragraphs": [
+            "倭马亚后期，不同政治、宗教和族群利益形成反对力量。阿拔斯家族以新的王朝合法性聚合支持者；政权变化同时改变帝国资源和行政中心的地理位置。",
+            "750年阿拔斯取得哈里发政权，帝国政治文化重心由叙利亚转向伊拉克。新王朝并不是消除所有差异的社会革命，军事和官僚结构仍需持续整合。",
+            "762年创建巴格达，圆城形制与“和平之城”的名称展示规划与王权理想。它依靠交通、水运和行政需求发展成庞大的文化商业中心，之后又有一段迁都萨迈拉的时期。",
+            "巴格达成为阿拔斯国家的核心，伊拉克在伊斯兰世界的政治、商业与艺术活动中取得突出地位。",
+            "新都及宫廷赞助促成跨地区工匠、商人和学者往来。阿拔斯艺术中的装饰、陶瓷与建筑形式传播广泛，显示政治中心如何影响文化生产。"
+          ],
+          "note": "王朝延续至1258年，不等于哈里发数百年都具有同样强的实际控制。巴格达遗存较少，认识建筑时应结合萨迈拉考古与文字材料，不能把理想规划等同全部城市。",
+          "sources": [
+            {
+              "title": "伊斯兰世界的制度、城市与知识",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/11-3-islamization-and-religious-rule-under-islam",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "The Art of the Abbasid Period (750–1258)",
+              "url": "https://www.metmuseum.org/it/essays/the-art-of-the-abbasid-period-750-1258",
+              "note": "Linda Komaroff 与 Suzan Yalman／大都会艺术博物馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-central-west-asia-0386",
+          "title": "巴格达建城",
+          "date": "762年",
+          "summary": "曼苏尔营建新都，伊拉克逐渐成为行政、贸易和知识交流的世界性中心。",
+          "paragraphs": [
+            "曼苏尔营建新都，伊拉克逐渐成为行政、贸易和知识交流的世界性中心。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 175
+    },
+    {
+      "id": "ww-f372887fc1b1",
+      "regimeId": "ww-abbasid",
+      "name": "马赫迪",
+      "personalName": "马赫迪",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 775,
+          "end": 785,
+          "label": "775—785年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曼苏尔之子，继承较稳定的财政与宫廷体系，重视王朝宗教合法性及施惠形象，也进行对异端的打击。与拜占庭的军事行动和朝觐路线建设体现帝国经营的不同面向；其死后儿子哈迪与哈伦的继承安排引发新冲突。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-f0e1d002d854",
+      "regimeId": "ww-abbasid",
+      "name": "哈迪",
+      "personalName": "哈迪",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 785,
+          "end": 786,
+          "label": "785—786年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马赫迪之子，统治只有一年左右，试图改变兄弟哈伦的继承地位，因而与宫廷尤其母亲海祖兰的影响发生张力。其死因在传世记载中有不同说法，不宜将宫廷谋杀传闻直接视为确定事实。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 82
+    },
+    {
+      "id": "ww-1eaaaf284cc8",
+      "regimeId": "ww-abbasid",
+      "name": "哈伦·拉希德",
+      "personalName": "哈伦·拉希德",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 786,
+          "end": 809,
+          "label": "786—809年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在兄长去世后继位，以宫廷文化、对拜占庭战争和跨区域外交著称。巴尔马克家族既是行政支柱，也在803年突遭清洗。为儿子阿明、马蒙等安排分区和继承顺序未能避免内战；《一千零一夜》中的黄金时代形象不能作为其私人生活实录。"
+      ],
+      "highlights": [
+        {
+          "date": "786年",
+          "year": 786,
+          "title": "哈伦·拉希德即位",
+          "text": "阿拔斯宫廷与城市经济繁荣，后世文学塑造的黄金时代形象仍需与史实区分。",
+          "eventId": "ann-chron-world-central-west-asia-0387"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-central-west-asia-0387",
+          "title": "哈伦·拉希德即位",
+          "date": "786年",
+          "summary": "阿拔斯宫廷与城市经济繁荣，后世文学塑造的黄金时代形象仍需与史实区分。",
+          "paragraphs": [
+            "阿拔斯宫廷与城市经济繁荣，后世文学塑造的黄金时代形象仍需与史实区分。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 140
+    },
+    {
+      "id": "ww-4016b5176dcd",
+      "regimeId": "ww-abbasid",
+      "name": "阿明",
+      "personalName": "阿明",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 809,
+          "end": 813,
+          "label": "809—813年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "哈伦之子，继承首位哈里发职位，与控制呼罗珊的兄弟马蒙因继承与权力分配冲突开战。巴格达在围城中遭到破坏，阿明最终被杀。其个人结局体现了王朝分区安排、军队归属和首都政治之间的脆弱平衡。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-049bbdf3605a",
+      "regimeId": "ww-abbasid",
+      "name": "马蒙",
+      "personalName": "马蒙",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 813,
+          "end": 833,
+          "label": "813—833年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "击败兄弟阿明后成为哈里发，一度留在呼罗珊，后来返回巴格达。他支持翻译、学术与天文活动，也试图调整宗教权威，晚年推行米哈纳审问。知识赞助与宗教强制同时存在，不能把智慧宫简单想成由他一人建立的现代大学。"
+      ],
+      "highlights": [
+        {
+          "date": "813年",
+          "year": 813,
+          "title": "马蒙夺取哈里发位",
+          "text": "阿拔斯内战后新统治重视学术和翻译，政治竞争与知识赞助相互联系。",
+          "eventId": "ann-chron-world-central-west-asia-0388"
+        }
+      ],
+      "assessment": "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-central-west-asia-0388",
+          "title": "马蒙夺取哈里发位",
+          "date": "813年",
+          "summary": "阿拔斯内战后新统治重视学术和翻译，政治竞争与知识赞助相互联系。",
+          "paragraphs": [
+            "阿拔斯内战后新统治重视学术和翻译，政治竞争与知识赞助相互联系。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 167
+    },
+    {
+      "id": "ww-8f48b0926a16",
+      "regimeId": "ww-abbasid",
+      "name": "穆塔西姆",
+      "personalName": "穆塔西姆",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 833,
+          "end": 842,
+          "label": "833—842年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马蒙之弟，扩大突厥等军事奴隶和亲军力量，并营建萨迈拉以容纳新的宫廷军队。对拜占庭作战和镇压巴巴克运动显示其军事取向；新军制增强短期战力，也使后续哈里发日益受军官集团制约。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 85
+    },
+    {
+      "id": "ww-7254e0f364e1",
+      "regimeId": "ww-abbasid",
+      "name": "瓦西格",
+      "personalName": "瓦西格",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 842,
+          "end": 847,
+          "label": "842—847年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆塔西姆之子，延续萨迈拉宫廷与军事体系，也继续前朝宗教审问政策。与拜占庭的边境战争和俘虏交换仍是政治事务的一部分。他去世后没有由其子直接继位，兄弟穆塔瓦基勒被推上王位。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "ww-b97b832bbe6b",
+      "regimeId": "ww-abbasid",
+      "name": "穆塔瓦基勒",
+      "personalName": "穆塔瓦基勒",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 847,
+          "end": 861,
+          "label": "847—861年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "取得王位后改变前朝宗教政策，终止米哈纳审问，并强化对部分非主流宗教群体的限制。其统治中的萨迈拉建筑工程显著，但宫廷继承与突厥军官矛盾不断加深。861年遇刺，随后出现多年军人干政与频繁废立。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-a4ec2ba009b6",
+      "regimeId": "ww-abbasid",
+      "name": "蒙塔西尔",
+      "personalName": "蒙塔西尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 861,
+          "end": 862,
+          "label": "861—862年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆塔瓦基勒之子，在父亲遇刺后登位，与突厥军人集团关系密切。其短暂统治未能稳定继承秩序，约半年后去世，详细死因仍有不同传述。不能因为其处于宫变中心，就把所有相关谋杀责任视为已经确证。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-7b88c2721107",
+      "regimeId": "ww-abbasid",
+      "name": "穆斯塔因",
+      "personalName": "穆斯塔因",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 862,
+          "end": 866,
+          "label": "862—866年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "由萨迈拉军事集团拥立，后转往巴格达，与拥立穆塔兹的军队爆发内战。巴格达再次遭围困，和解后他被迫退位并被杀。其经历显示哈里发职位已不能单靠王族血缘维持，军队与城市力量的支持成为关键。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-3c94f518858c",
+      "regimeId": "ww-abbasid",
+      "name": "穆塔兹",
+      "personalName": "穆塔兹",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 866,
+          "end": 869,
+          "label": "866—869年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆塔瓦基勒之子，在军政斗争中接位，试图削弱支配宫廷的军事首领。财政不足使军饷冲突日益严重，最后被军人废黜并杀害。其任内地方离心加速，埃及等地逐渐发展更自主的军事财政体系。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 85
+    },
+    {
+      "id": "ww-21de9f00e0ea",
+      "regimeId": "ww-abbasid",
+      "name": "穆赫塔迪",
+      "personalName": "穆赫塔迪",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 869,
+          "end": 870,
+          "label": "869—870年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在军人废立中取得王位，试图以节俭、虔敬和处理行政申诉重建哈里发声望。与突厥军事首领的冲突迅速激化，短暂统治以被杀告终。道德化改革的形象并不等于其拥有足够军力改变实际权力分配。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 87
+    },
+    {
+      "id": "ww-38560fb9125e",
+      "regimeId": "ww-abbasid",
+      "name": "穆塔米德",
+      "personalName": "穆塔米德",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 870,
+          "end": 892,
+          "label": "870—892年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "名义在位较长，但兄弟穆瓦法格掌握军政核心，平定赞吉起义等事务主要依靠后者领导。地方王朝持续扩张，哈里发本人曾试图摆脱控制而未能成功。其时代需要把名义统治者与实际军事主导者分开观察。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-d428194786bc",
+      "regimeId": "ww-abbasid",
+      "name": "穆塔迪德",
+      "personalName": "穆塔迪德",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 892,
+          "end": 902,
+          "label": "892—902年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆瓦法格之子，依靠军事实力继承哈里发职位，重整两河流域财政和中央控制。王朝宫廷重新以巴格达为中心，对地方势力采取兼并与协商并用的方式。他的有效统治依赖持续征税与军事强制，并未逆转整个帝国的地方化。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-ad8ff954fee1",
+      "regimeId": "ww-abbasid",
+      "name": "穆克塔菲",
+      "personalName": "穆克塔菲",
+      "aliases": [
+        "al-Muktafi",
+        "穆克塔菲（902年即位）"
+      ],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 902,
+          "end": 908,
+          "label": "902—908年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆塔迪德之子，延续中央重新扩张，在其名下埃及的图伦王朝被消灭。对卡尔马特派等势力的战争仍给财政和边地安全带来压力。他死后继承选择转向年轻的穆克塔迪尔，宫廷派系因而取得更大影响。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 88
+    },
+    {
+      "id": "ww-83691ec874d8",
+      "regimeId": "ww-abbasid",
+      "name": "穆克塔迪尔",
+      "personalName": "穆克塔迪尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 908,
+          "end": 932,
+          "label": "908—932年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "少年即位，宫廷官员、母后和军人围绕财政与任命长期竞争，任内还曾短暂被废。军费压力与地方独立削弱巴格达权威，最终在与穆尼斯的冲突中被杀。其任期标示中央恢复尝试逐渐让位于军政失衡。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 88
+    },
+    {
+      "id": "ww-947ef47a6883",
+      "regimeId": "ww-abbasid",
+      "name": "卡希尔",
+      "personalName": "卡希尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 932,
+          "end": 934,
+          "label": "932—934年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在前任被杀后由军事力量支持登位，力图压制宫廷与军方对手，却未能建立稳固联盟。很快被废并遭致失明，后仍活了多年。其统治不能与生卒年混同，废位并不表示立即去世。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 78
+    },
+    {
+      "id": "ww-d61f171e0612",
+      "regimeId": "ww-abbasid",
+      "name": "拉迪",
+      "personalName": "拉迪",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 934,
+          "end": 940,
+          "label": "934—940年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆克塔迪尔之子，在中央财政和军事指挥分离的形势下继位。936年设大埃米尔职位，实际军政权力进一步向军事统帅集中。其时代哈里发仪礼与宗教声望仍然重要，但不应由职位称号推定对全部地方有直接控制。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ww-a33403066be2",
+      "regimeId": "ww-abbasid",
+      "name": "穆塔基",
+      "personalName": "穆塔基",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 940,
+          "end": 944,
+          "label": "940—944年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在军人和地方强人竞争中被推上王位，数次离开巴格达寻找不同保护者。最终被图尊废黜并致盲。其个人奔走显示哈里发必须在武装集团之间求生，而不是自由选择一套稳定的国家政策。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 82
+    },
+    {
+      "id": "ww-72ddd4f68f34",
+      "regimeId": "ww-abbasid",
+      "name": "穆斯塔克菲",
+      "personalName": "穆斯塔克菲",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 944,
+          "end": 946,
+          "label": "944—946年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在图尊势力支持下继位，945年白益家族进入巴格达后，旧军事格局被重组。他很快被新强人废黜并致盲，阿拔斯哈里发进入长期受白益埃米尔控制的阶段。其实际在位范围应与王朝名义疆域分开。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 88
+    },
+    {
+      "id": "ww-9d6af007472f",
+      "regimeId": "ww-abbasid",
+      "name": "穆提",
+      "personalName": "穆提",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 946,
+          "end": 974,
+          "label": "946—974年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆克塔迪尔之子，得到白益统治者承认后接位。哈里发礼仪和宗教合法性延续，但财政和军事权力多由白益家族掌握。他晚年因健康等原因退位，由儿子塔伊继承，显示名义王朝仍有自己的继承活动。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 88
+    },
+    {
+      "id": "ww-7febcd6724d5",
+      "regimeId": "ww-abbasid",
+      "name": "塔伊",
+      "personalName": "塔伊",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 974,
+          "end": 991,
+          "label": "974—991年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承父亲穆提，处于白益家族的军事控制下。宫廷仍参与授予名号、宗教仪礼和城市政治，但缺乏独立支配军队与财政的能力。白益内部竞争也影响其处境，991年被废，王位转给卡迪尔。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "ww-7d3dc80e10be",
+      "regimeId": "ww-abbasid",
+      "name": "卡迪尔",
+      "personalName": "卡迪尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 991,
+          "end": 1031,
+          "label": "991—1031年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在白益支持下取得王位，长期经营逊尼派宗教正统和哈里发的象征权威。面对法蒂玛哈里发等竞争者，宗教宣示与法学者关系成为政治工具。个人长寿在位并不意味着重新建立了早期阿拔斯式的统一帝国。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-21f0def92c65",
+      "regimeId": "ww-abbasid",
+      "name": "卡伊姆",
+      "personalName": "卡伊姆",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1031,
+          "end": 1075,
+          "label": "1031—1075年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "卡迪尔之子，其任内白益势力衰落，1055年塞尔柱军队进入巴格达，哈里发转而依赖突厥苏丹保护。巴萨西里一度控制首都，随后被塞尔柱击败。军事权力更换保护者，宗教合法性的授予却仍以哈里发为重要中心。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-4287926c5295",
+      "regimeId": "ww-abbasid",
+      "name": "穆克塔迪",
+      "personalName": "穆克塔迪",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1075,
+          "end": 1094,
+          "label": "1075—1094年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承卡伊姆，在塞尔柱苏丹马立克沙强势时期统治。哈里发与苏丹家族通过婚姻和仪礼维系关系，也围绕首都和继承安排发生紧张。其名义地位应与塞尔柱实际军政控制分别呈现。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 79
+    },
+    {
+      "id": "ww-d12ad47a0936",
+      "regimeId": "ww-abbasid",
+      "name": "穆斯塔兹希尔",
+      "personalName": "穆斯塔兹希尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1094,
+          "end": 1118,
+          "label": "1094—1118年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆克塔迪之子，继位时塞尔柱王朝进入继承内争。第一次十字军东征及耶路撒冷失守发生于其时代，但巴格达哈里发并不直接指挥所有穆斯林地方军队。宗教号召、地方行动与权力分裂之间存在明显距离。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-8641e91c334e",
+      "regimeId": "ww-abbasid",
+      "name": "穆斯塔尔希德",
+      "personalName": "穆斯塔尔希德",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1118,
+          "end": 1135,
+          "label": "1118—1135年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "试图重振哈里发在伊拉克的独立军事实力，不再完全依附塞尔柱苏丹。与马苏德的冲突以战败和被俘告终，随后遇害。其经历表明十二世纪哈里发主动争取军政权力，但宗教声望并不能自动转化为战场优势。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ww-887e9c37eb5f",
+      "regimeId": "ww-abbasid",
+      "name": "拉希德",
+      "personalName": "拉希德",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1135,
+          "end": 1136,
+          "label": "1135—1136年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆斯塔尔希德之子，在父亲遇害后继位，继续与塞尔柱强权对抗。支持联盟失败后被废，离开巴格达，后来遇刺。其短暂统治与前代的军政复权尝试相连，不能把被废年份直接当作卒年。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 82
+    },
+    {
+      "id": "ww-ad8ff954fee1-1136",
+      "regimeId": "ww-abbasid",
+      "name": "穆格台菲",
+      "personalName": "穆克塔菲",
+      "aliases": [
+        "al-Muqtafi",
+        "穆克塔菲（1136年即位）"
+      ],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1136,
+          "end": 1160,
+          "label": "1136—1160年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在塞尔柱力量分裂中逐步增强巴格达中央的独立性，经营自己的军队和财政。抵御围攻与控制周边地区，使后期阿拔斯统治不再只是完全被动的象征。其复权主要限于伊拉克及邻近地带，未恢复早期帝国的广大疆域。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ww-52a6fb06d909",
+      "regimeId": "ww-abbasid",
+      "name": "穆斯坦吉德",
+      "personalName": "穆斯坦吉德",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1160,
+          "end": 1170,
+          "label": "1160—1170年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆克塔菲之子，继承父亲在伊拉克恢复的统治基础，试图调整财政和宫廷人事。个人死因与宫廷派系关系在传世资料中有不同叙述；本条以继承及区域政治为主，尚未据专门史完成完整传记。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "ww-853687227626",
+      "regimeId": "ww-abbasid",
+      "name": "穆斯塔迪",
+      "personalName": "穆斯塔迪",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1170,
+          "end": 1180,
+          "label": "1170—1180年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继位时宫廷权臣仍有显著影响。萨拉丁结束埃及法蒂玛哈里发制度后，宗教名义上重新承认阿拔斯哈里发，使其声望扩大；这种承认不等于埃及由巴格达直接行政管理。其个人政务细节仍待更多专史补核。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-37cebdb4cb4c",
+      "regimeId": "ww-abbasid",
+      "name": "纳西尔",
+      "personalName": "纳西尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1180,
+          "end": 1225,
+          "label": "1180—1225年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期在位，利用周边强权竞争扩大伊拉克统治与外交空间，并介入青年结社等社会宗教网络。与花剌子模王朝的冲突和蒙古崛起改变区域环境。关于其招引蒙古的说法有争议，不能将后世指责直接作为确定事实。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "ww-8421c4ae49a4",
+      "regimeId": "ww-abbasid",
+      "name": "扎希尔",
+      "personalName": "扎希尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1225,
+          "end": 1226,
+          "label": "1225—1226年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "纳西尔之子，在长时间等待继承后即位，统治不足一年。史书将其与减税、纠正部分苛政的措施联系起来，但短促任期限制了长期效果。其个人生平与具体施政仍需专门资料补充。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 79
+    },
+    {
+      "id": "ww-db41a9731c74",
+      "regimeId": "ww-abbasid",
+      "name": "穆斯坦绥尔",
+      "personalName": "穆斯坦绥尔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1226,
+          "end": 1242,
+          "label": "1226—1242年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "经营巴格达的宗教教育与城市建设，穆斯坦绥里耶学院是其赞助的重要工程。蒙古势力推进和区域政权重组使安全形势恶化，哈里发只能在有限资源下防御与交涉。建筑赞助与政治安全并非同一指标。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 88
+    },
+    {
+      "id": "ww-c98e643a8d20",
+      "regimeId": "ww-abbasid",
+      "name": "穆斯塔绥木",
+      "personalName": "穆斯塔绥木",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1242,
+          "end": 1258,
+          "label": "1242—1258年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "伊拉克阿拔斯王朝最后一位主线哈里发，面对旭烈兀蒙古军的压力，外交和防御准备未能阻止围攻。1258年巴格达陷落，他被杀，王朝在伊拉克的统治终结。后世有关财宝、藏书和大臣阴谋的故事须逐项辨析，不能替代对军事力量差距的解释。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    }
+  ]
+}

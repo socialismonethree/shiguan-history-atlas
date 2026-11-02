@@ -1,0 +1,542 @@
+{
+  "id": "ww-umayyad",
+  "people": [
+    {
+      "id": "ww-f725eff6f121",
+      "regimeId": "ww-umayyad",
+      "name": "穆阿维叶一世",
+      "personalName": "穆阿维叶一世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "680年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 661,
+          "end": 680,
+          "label": "661—680年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "叙利亚总督出身，与阿里长期争夺领导权。哈桑退让后取得优势，以大马士革为中心发展宫廷、行政与海军，并安排儿子叶齐德继承。政治统一依靠谈判、军力和地方精英合作，世袭安排也为新的合法性冲突埋下伏笔。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-99ac2653dd29",
+      "regimeId": "ww-umayyad",
+      "name": "叶齐德一世",
+      "personalName": "叶齐德一世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "683年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 680,
+          "end": 683,
+          "label": "680—683年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在父亲安排下继位，遭到拒绝效忠者挑战。卡尔巴拉事件中侯赛因及追随者遇害，成为什叶派历史记忆的核心；麦地那反抗和围攻麦加进一步撕裂共同体。他早逝后王朝控制迅速动摇，宗派叙述对其责任评价尤其尖锐。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-cfe4ca76a629",
+      "regimeId": "ww-umayyad",
+      "name": "穆阿维叶二世",
+      "personalName": "穆阿维叶二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "684年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 683,
+          "end": 684,
+          "label": "683—684年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "叶齐德之子，短暂继位时叙利亚以外广泛承认伊本·祖拜尔的挑战。其在位仅数月，身体状况与退位细节在传世记载中不一。死后王朝从苏富扬支系转向马尔万支系，不能把这次更替当成平稳的父子继承。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-1a8ecb434f0e",
+      "regimeId": "ww-umayyad",
+      "name": "马尔万一世",
+      "personalName": "马尔万一世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "685年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 684,
+          "end": 685,
+          "label": "684—685年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在倭马亚势力危急时获得叙利亚部分集团拥立，马尔吉拉希特战役帮助其重新整合核心地区。其短暂统治恢复了王朝在叙利亚与埃及的基础，王位传给阿卜杜勒·麦立克，此后倭马亚主线属于马尔万支系。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-d283b324159f",
+      "regimeId": "ww-umayyad",
+      "name": "阿卜杜勒·麦立克",
+      "personalName": "阿卜杜勒·麦立克",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "705年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 685,
+          "end": 705,
+          "label": "685—705年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在第二次内战中逐步击败伊本·祖拜尔等对手，恢复大部分帝国的统一。他推进铸币改革、行政阿拉伯语化，并修建耶路撒冷圆顶清真寺；这些举措把统治权与新的政治宗教象征连接起来，地方执行则依靠哈贾吉等强势官员。"
+      ],
+      "highlights": [
+        {
+          "date": "661年",
+          "year": 661,
+          "title": "倭马亚与跨地区帝国",
+          "text": "倭马亚以大马士革为中心扩张，逐步推进阿拉伯语行政与币制改革。",
+          "eventId": "we-umayyad"
+        }
+      ],
+      "assessment": "统一制度与宗教象征共同强化王权，各地执行仍有差异。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "阿拉伯扩张与早期伊斯兰国家",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/11-2-the-arab-islamic-conquests-and-the-first-islamic-states",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-umayyad",
+          "title": "倭马亚与跨地区帝国",
+          "date": "661年",
+          "summary": "倭马亚以大马士革为中心扩张，逐步推进阿拉伯语行政与币制改革。",
+          "paragraphs": [
+            "倭马亚以大马士革为中心扩张，逐步推进阿拉伯语行政与币制改革。",
+            "政治统合与宗教共同体扩展交织，同时存在身份、税收和继承矛盾。",
+            "统治跨越西亚、北非至伊比利亚，后由阿拔斯革命改写东方中心。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "阿拉伯扩张与早期伊斯兰国家",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/11-2-the-arab-islamic-conquests-and-the-first-islamic-states",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 154
+    },
+    {
+      "id": "ww-d690ae4090a0",
+      "regimeId": "ww-umayyad",
+      "name": "瓦利德一世",
+      "personalName": "瓦利德一世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "715年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 705,
+          "end": 715,
+          "label": "705—715年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承较稳定的王朝局面，军队在中亚、信德和伊比利亚等方向扩张，宫廷也赞助大马士革大清真寺等大型建筑。扩张依赖各地将领、税收与军人网络，并非由首都直接控制全部地方事务；其死后继承竞争继续影响政策。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-4ed6565295cf",
+      "regimeId": "ww-umayyad",
+      "name": "苏莱曼·伊本·阿卜杜勒·麦立克",
+      "personalName": "苏莱曼·伊本·阿卜杜勒·麦立克",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "717年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 715,
+          "end": 717,
+          "label": "715—717年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "接位后调整前朝军事行政人事，继续对拜占庭作战，君士坦丁堡围城跨越其在位末期。他没有让儿子直接继位，而安排欧麦尔二世承继。统治短促，关于其政治品格的后世评价需与实际任命和战争背景分别考察。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "ww-a6bb699f64b7",
+      "regimeId": "ww-umayyad",
+      "name": "欧麦尔二世",
+      "personalName": "欧麦尔二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "720年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 717,
+          "end": 720,
+          "label": "717—720年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "倭马亚王族中以虔敬与改革著称的哈里发，试图纠正征税和改宗群体待遇中的矛盾，并强调统治的宗教正当性。后世常将其塑造成理想君主；具体改革在不同地方的推行程度与财政后果，不能用道德声誉一概替代。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-99a414e26333",
+      "regimeId": "ww-umayyad",
+      "name": "叶齐德二世",
+      "personalName": "叶齐德二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "724年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 720,
+          "end": 724,
+          "label": "720—724年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承欧麦尔二世后重新面对财政、部族和地方军政问题，伊拉克的叶齐德·伊本·穆海莱卜起事被平定。王朝内部继承安排又为其弟希沙姆与儿子瓦利德之间的接续设定顺序。有关宫廷逸乐的故事带有后世道德化叙事色彩。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-9576b262837c",
+      "regimeId": "ww-umayyad",
+      "name": "希沙姆",
+      "personalName": "希沙姆",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "743年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 724,
+          "end": 743,
+          "label": "724—743年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期在位，处理西方柏柏尔反抗、东方中亚战争及对拜占庭冲突，财政纪律成为其政治形象的一部分。统治后期不同军团、部族与王族的竞争加剧。其死后短时间内连续更换哈里发，显示长期稳定之下已有深刻裂缝。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ww-1264ab6aded3",
+      "regimeId": "ww-umayyad",
+      "name": "瓦利德二世",
+      "personalName": "瓦利德二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "744年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 743,
+          "end": 744,
+          "label": "743—744年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "按既定继承安排接位，却面对希沙姆一系和其他王族、部族集团的敌对。其罢免官员及宫廷行为成为政治攻击焦点，744年在反叛中被杀。有关放荡形象的资料必须联系争位宣传理解，不能凭逸闻概括全部统治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-5bb21130da33",
+      "regimeId": "ww-umayyad",
+      "name": "叶齐德三世",
+      "personalName": "叶齐德三世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "744年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 744,
+          "end": 744,
+          "label": "744年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "参与推翻瓦利德二世后取得哈里发职位，以纠正前朝施政来表达政治合法性。其统治只有数月，叙利亚和其他地区的军政分裂未能解决。死后王位传给兄弟易卜拉欣，但继承立即受到马尔万挑战。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 86
+    },
+    {
+      "id": "ww-912cab739e1f",
+      "regimeId": "ww-umayyad",
+      "name": "易卜拉欣·伊本·瓦利德",
+      "personalName": "易卜拉欣·伊本·瓦利德",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 744,
+          "end": 744,
+          "label": "744年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "叶齐德三世之弟，在王朝内乱中短暂取得名义领导地位，承认范围有限。马尔万率军取得优势后，他迅速退位。此处记录的是短暂受拥立阶段，不代表曾经稳定控制整个倭马亚帝国；详细个人生平仍待补核。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ww-b61114a9f152",
+      "regimeId": "ww-umayyad",
+      "name": "马尔万二世",
+      "personalName": "马尔万二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "750年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 744,
+          "end": 750,
+          "label": "744—750年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身王族，长期经营亚美尼亚等边地军事事务，以军力取得哈里发职位。面对叙利亚反抗和呼罗珊兴起的阿拔斯运动，他无法恢复持续统一；750年大扎卜河战败后逃往埃及被杀，倭马亚在东方的王朝统治结束。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "id": "cl-nanhan",
+  "people": [
+    {
+      "id": "cl-nanhan-0bc924f98",
+      "regimeId": "cl-nanhan",
+      "name": "刘隐",
+      "personalName": "刘隐",
+      "aliases": [],
+      "born": "874年",
+      "died": "911年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 909,
+          "end": 911,
+          "label": "909—911年",
+          "role": "南海王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "承接岭南刘氏军事基础，控制广州及周边，909年受后梁封南海王。与周边军政势力周旋并发展岭南统治，死后弟刘岩承继，帝号为后来追尊。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第二节 十国割据，合并文本第110578行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "cl-nanhan-5f7c0c455",
+      "regimeId": "cl-nanhan",
+      "name": "南汉高祖",
+      "personalName": "刘龑",
+      "aliases": [
+        "刘龑",
+        "刘岩",
+        "刘陟"
+      ],
+      "born": "889年",
+      "died": "942年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 911,
+          "end": 917,
+          "label": "911—917年",
+          "role": "南海王",
+          "note": ""
+        },
+        {
+          "start": 917,
+          "end": 942,
+          "label": "917—942年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘隐之弟，原名刘岩，917年在广州称帝，国号先大越后改汉，并多次改名。经营岭南与海外交通，试图扩大区域影响，但对交趾用兵受挫；晚年储位与宫廷问题影响继承。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第二节 十国割据，合并文本第110578行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 117
+    },
+    {
+      "id": "cl-nanhan-b1482c773",
+      "regimeId": "cl-nanhan",
+      "name": "南汉殇帝",
+      "personalName": "刘玢",
+      "aliases": [
+        "刘玢"
+      ],
+      "born": "920年",
+      "died": "943年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 942,
+          "end": 943,
+          "label": "942—943年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘龑之子，继位后与弟刘弘熙及宫廷集团矛盾尖锐。943年被杀，刘弘熙即位改名晟；短暂统治显示南汉宫廷继承制度难以约束宗室暴力。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第二节 十国割据，合并文本第110578行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "cl-nanhan-c74ffa76d",
+      "regimeId": "cl-nanhan",
+      "name": "南汉中宗",
+      "personalName": "刘晟",
+      "aliases": [
+        "刘晟"
+      ],
+      "born": "920年",
+      "died": "958年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 943,
+          "end": 958,
+          "label": "943—958年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘龑之子，通过杀兄夺位，随后大规模清除宗室以巩固皇权。向湖南等方向扩张，宫廷控制与宦官政治增强；其统治的军事成果伴随严酷的内部政治。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第二节 十国割据，合并文本第110578行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "cl-nanhan-6cc586906",
+      "regimeId": "cl-nanhan",
+      "name": "南汉后主",
+      "personalName": "刘鋹",
+      "aliases": [
+        "刘鋹"
+      ],
+      "born": "942年",
+      "died": "980年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 958,
+          "end": 971,
+          "label": "958—971年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘晟之子，继位后宦官与宫廷近臣权势很大，军事体系难以抵挡宋朝进攻。971年广州陷落后降宋，结束南汉，后来在宋朝生活至980年。"
+      ],
+      "highlights": [
+        {
+          "date": "971年",
+          "year": 971,
+          "title": "宋灭南汉",
+          "text": "潘美率军攻取广州。",
+          "eventId": "ann-cl-song-liao-xia-jin-971-189"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-5e0ab96dc656"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第二节 十国割据，合并文本第110578行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-song-liao-xia-jin-971-189",
+          "title": "宋灭南汉",
+          "date": "971年",
+          "summary": "潘美率军攻取广州。",
+          "paragraphs": [
+            "潘美率军攻取广州。",
+            "岭南纳入宋朝版图。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 112
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "id": "cl-jingnan",
+  "people": [
+    {
+      "id": "cl-jingnan-52dee1d8a",
+      "regimeId": "cl-jingnan",
+      "name": "南平武信王",
+      "personalName": "高季兴",
+      "aliases": [
+        "高季兴"
+      ],
+      "born": "858年",
+      "died": "929年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 924,
+          "end": 929,
+          "label": "924—929年",
+          "role": "南平王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为后梁将领，出镇江陵后逐渐独立，924年受后唐封南平王。利用荆州交通位置在多方之间周旋，辖地不大却具有水陆转运价值。"
+      ],
+      "highlights": [
+        {
+          "date": "924年",
+          "year": 924,
+          "title": "南平政权形成",
+          "text": "高季兴受封南平王。",
+          "eventId": "ann-cl-five-dynasties-924-152"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-7486edcbbcd0"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-924-152",
+          "title": "南平政权形成",
+          "date": "924年",
+          "summary": "高季兴受封南平王。",
+          "paragraphs": [
+            "高季兴受封南平王。",
+            "荆南成为诸政权间交通枢纽。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "cl-jingnan-a1e9554eb",
+      "regimeId": "cl-jingnan",
+      "name": "南平文献王",
+      "personalName": "高从诲",
+      "aliases": [
+        "高从诲"
+      ],
+      "born": "891年",
+      "died": "948年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 929,
+          "end": 948,
+          "label": "929—948年",
+          "role": "南平王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高季兴之子，继承江陵后调整与后唐等国关系，善于利用各方册封和贸易往来维持生存。荆南的政治空间依赖中原与南方政权并立，而非单纯军事扩张。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "cl-jingnan-7c80fa06c",
+      "regimeId": "cl-jingnan",
+      "name": "南平贞懿王",
+      "personalName": "高保融",
+      "aliases": [
+        "高保融"
+      ],
+      "born": "920年",
+      "died": "960年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 948,
+          "end": 960,
+          "label": "948—960年",
+          "role": "南平王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高从诲之子，继续奉事中原王朝并维持江陵地方秩序。其朝处在后周逐步增强、南方格局收缩的阶段，荆南对中央权威的依附不断加深。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "cl-jingnan-e618d63f2",
+      "regimeId": "cl-jingnan",
+      "name": "高保勖",
+      "personalName": "高保勖",
+      "aliases": [],
+      "born": "924年",
+      "died": "962年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 960,
+          "end": 962,
+          "label": "960—962年",
+          "role": "荆南统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高从诲之子，继兄高保融掌权，统治期很短。宋朝建立后中原统一压力上升，荆南仍依靠归附姿态维持地方权力，死后由高继冲承继。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "cl-jingnan-b617ae8d1",
+      "regimeId": "cl-jingnan",
+      "name": "高继冲",
+      "personalName": "高继冲",
+      "aliases": [],
+      "born": "943年",
+      "died": "973年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 962,
+          "end": 963,
+          "label": "962—963年",
+          "role": "荆南统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高保融之子，继承时宋朝已着手处理湖南局势。963年宋军借道江陵后控制荆南，高继冲献地，地方政权终结；其后转为宋臣。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    }
+  ]
+}

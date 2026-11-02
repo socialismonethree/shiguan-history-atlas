@@ -1,0 +1,5899 @@
+{
+  "regimes": [
+    {
+      "id": "wr-usa",
+      "name": "美国总统 · 华盛顿至塔夫脱",
+      "scope": "world",
+      "regionId": "americas",
+      "start": 1789,
+      "end": 1913,
+      "intro": "从联邦共和国开端到二十世纪初，沿总统承继观察宪政、奴隶制、内战、重建与海外扩张。总统不是皇帝；职位权力受国会、法院和联邦制度约束。",
+      "coverage": "完整收录1789年至1912年内已就任的26位总统、27届总统编号。克利夫兰两段任期合并一人；不将邦联领导人混入联邦总统序列。塔夫脱完整任期延至1913年。",
+      "periodIds": [],
+      "worldIds": [
+        "w-americas-republics"
+      ],
+      "sources": [
+        {
+          "title": "弗吉尼亚大学米勒中心：美国历任总统",
+          "url": "https://millercenter.org/president",
+          "note": "本序列逐人参考该中心的 Overview 与 Fast Facts，生卒与任期分别记录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-joseon",
+      "name": "朝鲜王朝与大韩帝国",
+      "scope": "world",
+      "regionId": "east-asia",
+      "start": 1392,
+      "end": 1910,
+      "intro": "从李成桂建国到大韩帝国终结，王权、士林、外戚和对外关系交织。王室名义权力与大院君等实际执政阶段分别记录。",
+      "coverage": "收录太祖至纯宗27位君主，另列兴宣大院君的主要执政阶段。农历岁末跨公历年单独说明；不包括此前高丽及三国全部君主。",
+      "periodIds": [],
+      "worldIds": [
+        "w-joseon"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-tokugawa",
+      "name": "日本 · 德川幕府十五代将军",
+      "scope": "world",
+      "regionId": "east-asia",
+      "start": 1603,
+      "end": 1868,
+      "intro": "天皇与幕府并存的政治结构中，征夷大将军并非皇帝。退任的大御所、老中、大名与朝廷也参与权力运作。",
+      "coverage": "完整列出家康至庆喜十五位将军。包括家康、秀忠、吉宗、家齐退任后继续掌权的说明；不把德川宗家后续家督误称第十六代将军。",
+      "periodIds": [],
+      "worldIds": [
+        "w-edo",
+        "w-japan-medieval"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-mughal",
+      "name": "南亚 · 莫卧儿帝国",
+      "scope": "world",
+      "regionId": "south-asia",
+      "start": 1526,
+      "end": 1858,
+      "intro": "从巴布尔在北印度建国到末代皇帝被英国流放，沿帝位争夺、帝国行政、区域力量与殖民控制的转变阅读。后期皇帝常仅有名义权力。",
+      "coverage": "列出皇帝主线、短暂拥立者及重要争位者，复位分段；不把所有皇子或各地方藩王算作莫卧儿皇帝。1540—1555年苏尔王朝中断另在相关条目标明。",
+      "periodIds": [],
+      "worldIds": [
+        "w-mughal",
+        "w-south-colonial"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-egypt-middle",
+      "name": "埃及 · 第十一与十二王朝",
+      "scope": "world",
+      "regionId": "africa",
+      "start": -2051,
+      "end": -1802,
+      "intro": "中王国形成于地方统治者重新统一的过程中。王室、地方精英、神庙和努比亚扩张共同塑造这一时期；雕像、墓葬、铭文与王表是主要证据。",
+      "coverage": "收录第十一王朝后段主线与第十二王朝八位统治者。第十一王朝争议旁支及第十三王朝大量不明次序者未全收，不宣称埃及中王国全部法老已考定。",
+      "periodIds": [],
+      "worldIds": [
+        "w-egypt-middle"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-egypt-new",
+      "name": "埃及 · 新王国第十八至二十王朝",
+      "scope": "world",
+      "regionId": "africa",
+      "start": -1550,
+      "end": -1070,
+      "intro": "从驱逐喜克索斯到帝国扩张、阿玛尔纳改革及王权再分化，王室战争、神庙经济与国际外交相互交织。",
+      "coverage": "列出第十八、十九、二十王朝的馆方主线；哈特谢普苏特摄政与称王分段，阿蒙霍特普四世与埃赫那吞合并同一人。尼弗尔尼弗鲁阿吞等身份未定者保留争议。",
+      "periodIds": [],
+      "worldIds": [
+        "w-egypt-new"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    }
+  ],
+  "rulers": [
+    {
+      "id": "wr-us-washington",
+      "regimeId": "wr-usa",
+      "name": "乔治·华盛顿",
+      "personalName": "乔治·华盛顿",
+      "aliases": [
+        "George Washington"
+      ],
+      "born": "1732年2月22日",
+      "died": "1799年12月14日",
+      "birthPlace": "Pope’s Creek, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶玛莎·丹德里奇·卡斯蒂斯；本人出身弗吉尼亚种植园家庭。",
+      "reigns": [
+        {
+          "start": 1789,
+          "end": 1797,
+          "label": "1789—1797年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾是测量员和弗吉尼亚种植园主，在独立战争中任大陆军总司令。战争结束后交出军权，又参加制宪与联邦政府的建立。作为首任总统，他推动行政部门、财政和外交制度成形，任内处理威士忌暴动与欧洲战争背景下的中立问题。两届后退出总统职位，成为后来权力交接的重要先例。其自由理念与本人拥有被奴役者之间的矛盾，也必须同时呈现。"
+      ],
+      "highlights": [
+        {
+          "date": "1775年",
+          "year": 1775,
+          "title": "大陆军总司令",
+          "text": "把分散的殖民地军事力量组织为持续作战的军队，战争并非一人独力赢得。"
+        },
+        {
+          "date": "1789年",
+          "year": 1789,
+          "title": "首任总统就职",
+          "text": "在宪法框架内建立行政先例，组织内阁与联邦机构。"
+        },
+        {
+          "date": "1796年",
+          "year": 1796,
+          "title": "决定不再连任",
+          "text": "离任前讨论政治分裂与对外关系，1797年完成和平交接。"
+        }
+      ],
+      "assessment": "以军事胜利和主动交权连接建国；不能用国父形象掩盖奴隶制现实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "乔治·华盛顿：生平与个人资料",
+          "url": "https://millercenter.org/president/washington",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-adams",
+      "regimeId": "wr-usa",
+      "name": "约翰·亚当斯",
+      "personalName": "约翰·亚当斯",
+      "aliases": [
+        "John Adams"
+      ],
+      "born": "1735年10月30日",
+      "died": "1826年7月4日",
+      "birthPlace": "North Precinct of Braintree (now Quincy), Massachusetts（美国；保留来源地名便于核查）",
+      "family": "配偶阿比盖尔·史密斯；约翰·昆西·亚当斯之父。",
+      "reigns": [
+        {
+          "start": 1797,
+          "end": 1801,
+          "label": "1797—1801年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "律师出身，独立战争时期在大陆会议及欧洲外交场合推动建国事业，随后任首任副总统。总统任内面临对法关系恶化与准战争，选择谈判而未把冲突推向全面战争。支持《客籍法与惩治叛乱法》则引发对公民自由和联邦权力的争论。1800年大选失利后，由联邦党人政府向杰斐逊政府交接。"
+      ],
+      "highlights": [
+        {
+          "date": "1798年",
+          "year": 1798,
+          "title": "对法准战争与国内立法",
+          "text": "海上冲突和国内政治敌意同时加剧，限制言论的立法成为重大争议。"
+        },
+        {
+          "date": "1800年",
+          "year": 1800,
+          "title": "寻求对法和解",
+          "text": "避免正式全面战争，但党内分裂与选举竞争削弱政治地位。"
+        }
+      ],
+      "assessment": "外交上的克制和国内限制自由的政策，构成其任期的两面。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "约翰·亚当斯：生平与个人资料",
+          "url": "https://millercenter.org/president/adams",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-jefferson",
+      "regimeId": "wr-usa",
+      "name": "托马斯·杰斐逊",
+      "personalName": "托马斯·杰斐逊",
+      "aliases": [
+        "Thomas Jefferson"
+      ],
+      "born": "1743年4月13日",
+      "died": "1826年7月4日",
+      "birthPlace": "Shadwell plantation, Goochland County, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶玛莎·韦尔斯·斯凯尔顿；其与被奴役者莎莉·海明斯的关系须放在奴隶制权力不平等下理解。",
+      "reigns": [
+        {
+          "start": 1801,
+          "end": 1809,
+          "label": "1801—1809年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在弗吉尼亚接受古典与法律教育，起草《独立宣言》，又任州长、驻法外交官、国务卿和副总统。总统任内取得路易斯安那地区，使美国扩张进入大陆腹地，也推动探险与测绘。面对英法战争对贸易的干扰，禁运政策重创本国商业。其关于自由与平等的主张影响深远，但他作为奴隶主的生活与种族观念同这些主张存在根本冲突。"
+      ],
+      "highlights": [
+        {
+          "date": "1776年",
+          "year": 1776,
+          "title": "起草《独立宣言》",
+          "text": "将殖民地独立诉求表述为政治权利论证，并不意味着当时所有人获得平等权利。"
+        },
+        {
+          "date": "1803年",
+          "year": 1803,
+          "title": "路易斯安那购地",
+          "text": "大幅扩张领土，也使原住民土地与奴隶制扩展问题更加尖锐。"
+        },
+        {
+          "date": "1807年",
+          "year": 1807,
+          "title": "禁运政策",
+          "text": "试图以贸易限制避免卷入战争，却给港口与商人造成沉重负担。"
+        }
+      ],
+      "assessment": "政治理念、领土扩张和奴隶制矛盾，需一并考察。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "托马斯·杰斐逊：生平与个人资料",
+          "url": "https://millercenter.org/president/jefferson",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-madison",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·麦迪逊",
+      "personalName": "詹姆斯·麦迪逊",
+      "aliases": [
+        "James Madison"
+      ],
+      "born": "1751年3月16日",
+      "died": "1836年6月28日",
+      "birthPlace": "Port Conway, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶多莉·佩恩·托德；家庭财富与种植园奴隶劳动相联系。",
+      "reigns": [
+        {
+          "start": 1809,
+          "end": 1817,
+          "label": "1809—1817年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身弗吉尼亚种植园家庭，在制宪会议、宪法论辩和权利法案形成中发挥重要作用，后来任杰斐逊政府国务卿。任总统时，海上贸易、征用水手与边疆冲突推动对英国开战。1812年战争暴露联邦军事与财政准备的不足，华盛顿遭英军攻占和焚烧。战后民族主义增强，政府也重新思考中央金融与防务能力。"
+      ],
+      "highlights": [
+        {
+          "date": "1787年",
+          "year": 1787,
+          "title": "参与制宪",
+          "text": "在不同规模州与中央、地方权力之间寻求可行制度。"
+        },
+        {
+          "date": "1812年",
+          "year": 1812,
+          "title": "对英宣战",
+          "text": "总统领导战争，但国会、州政府和军队间的协作并不顺畅。"
+        },
+        {
+          "date": "1814年",
+          "year": 1814,
+          "title": "首都遭袭与和平谈判",
+          "text": "战争使行政能力的局限暴露，年底缔结根特和约。"
+        }
+      ],
+      "assessment": "其生平展示宪法设计与战时治理之间的距离。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·麦迪逊：生平与个人资料",
+          "url": "https://millercenter.org/president/madison",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-monroe",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·门罗",
+      "personalName": "詹姆斯·门罗",
+      "aliases": [
+        "James Monroe"
+      ],
+      "born": "1758年4月28日",
+      "died": "1831年7月4日",
+      "birthPlace": "Westmoreland County, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶伊丽莎白·科特赖特。",
+      "reigns": [
+        {
+          "start": 1817,
+          "end": 1825,
+          "label": "1817—1825年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾参加独立战争，并长期担任外交官、州长及内阁成员。总统任期常与“和睦时代”相联，但经济危机和奴隶制争议并未消失。密苏里妥协暂时平衡奴隶州与自由州格局；1823年提出反对欧洲进一步殖民美洲的政策立场，后来被称为门罗主义。其原始背景与后世美国干涉他国的解释不能等同。"
+      ],
+      "highlights": [
+        {
+          "date": "1820年",
+          "year": 1820,
+          "title": "密苏里妥协",
+          "text": "暂缓奴隶制扩张冲突，未解决奴隶制本身。"
+        },
+        {
+          "date": "1823年",
+          "year": 1823,
+          "title": "提出门罗主义",
+          "text": "在欧洲复辟和拉美独立背景下阐述美国对美洲事务的外交立场。"
+        }
+      ],
+      "assessment": "稳定表象之下，领土与奴隶制问题仍不断累积。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·门罗：生平与个人资料",
+          "url": "https://millercenter.org/president/monroe",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-jqadams",
+      "regimeId": "wr-usa",
+      "name": "约翰·昆西·亚当斯",
+      "personalName": "约翰·昆西·亚当斯",
+      "aliases": [
+        "John Quincy Adams"
+      ],
+      "born": "1767年7月11日",
+      "died": "1848年2月23日",
+      "birthPlace": "Braintree (now Quincy), Massachusetts（美国；保留来源地名便于核查）",
+      "family": "父亲约翰·亚当斯；配偶路易莎·凯瑟琳·约翰逊。",
+      "reigns": [
+        {
+          "start": 1825,
+          "end": 1829,
+          "label": "1825—1829年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "约翰·亚当斯之子，早年随父亲在欧洲生活，长期从事外交，任国务卿时参与美国边界与国际地位的调整。1824年大选由众议院决定胜者，他面对杰克逊派的持续反对，发展交通与国家建设的设想推进有限。卸任后重返众议院，长期反对封堵反奴隶制请愿的“禁言规则”，其议员生涯比总统任期更为持久。"
+      ],
+      "highlights": [
+        {
+          "date": "1825年",
+          "year": 1825,
+          "title": "在争议选举后就任",
+          "text": "众议院选举结果与党派指控，使政府从开端就面临合法性争论。"
+        },
+        {
+          "date": "1831年",
+          "year": 1831,
+          "title": "卸任后进入众议院",
+          "text": "此后继续参与关于奴隶制与请愿权的争议。"
+        }
+      ],
+      "assessment": "外交经验、总统任内受挫与晚年的国会活动，应连成一条生平线索。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "约翰·昆西·亚当斯：生平与个人资料",
+          "url": "https://millercenter.org/president/jqadams",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-jackson",
+      "regimeId": "wr-usa",
+      "name": "安德鲁·杰克逊",
+      "personalName": "安德鲁·杰克逊",
+      "aliases": [
+        "Andrew Jackson"
+      ],
+      "born": "1767年3月15日",
+      "died": "1845年6月8日",
+      "birthPlace": "Waxhaw area, on North Carolina-South Carolina border（美国；保留来源地名便于核查）",
+      "family": "配偶蕾切尔·多纳尔森·罗巴兹。",
+      "reigns": [
+        {
+          "start": 1829,
+          "end": 1837,
+          "label": "1829—1837年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "成长于边疆地区，青年时失去双亲，通过法律、军政与土地活动建立地位。1812年战争中的军事声望为其进入白宫提供基础，之后成为民主党政治的重要象征。他以更直接的选民动员扩大总统权力，在银行战争与废止联邦法争议中强力行使行政权。同时推动印第安人迁移政策，对原住民造成长期、严重伤害；所谓民主扩展主要惠及白人男性。"
+      ],
+      "highlights": [
+        {
+          "date": "1830年",
+          "year": 1830,
+          "title": "《印第安人迁移法》",
+          "text": "为剥夺东南部原住民土地与强制迁移提供政策基础。"
+        },
+        {
+          "date": "1832年",
+          "year": 1832,
+          "title": "银行战争与联邦权力争议",
+          "text": "否决银行特许状续期，并反对州单方面废止联邦法。"
+        }
+      ],
+      "assessment": "群众政治与行政权强化伴随族群排斥，不能只用平民总统概括。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "安德鲁·杰克逊：生平与个人资料",
+          "url": "https://millercenter.org/president/jackson",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-vanburen",
+      "regimeId": "wr-usa",
+      "name": "马丁·范布伦",
+      "personalName": "马丁·范布伦",
+      "aliases": [
+        "Martin Van Buren"
+      ],
+      "born": "1782年12月5日",
+      "died": "1862年7月24日",
+      "birthPlace": "Kinderhook, New York（美国；保留来源地名便于核查）",
+      "family": "配偶汉娜·霍斯。",
+      "reigns": [
+        {
+          "start": 1837,
+          "end": 1841,
+          "label": "1837—1841年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "从纽约州政党组织中崛起，是民主党形成与杰克逊政府运作的重要参与者，曾任国务卿和副总统。入主白宫后不久即遭遇1837年金融恐慌，经济衰退使其任期被持续危机笼罩。他主张以独立国库处理政府资金，而不是简单恢复旧式银行关系。1840年大选失利，此后仍参与关于奴隶制扩张的政治竞争。"
+      ],
+      "highlights": [
+        {
+          "date": "1837年",
+          "year": 1837,
+          "title": "金融恐慌",
+          "text": "信用紧缩、银行停兑和失业使新政府承受巨大压力。"
+        },
+        {
+          "date": "1840年",
+          "year": 1840,
+          "title": "独立国库方案与选举失利",
+          "text": "财政制度改革未能立即消除经济困难，辉格党赢得总统大选。"
+        }
+      ],
+      "assessment": "其政党组织能力与危机治理困境须分别评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "马丁·范布伦：生平与个人资料",
+          "url": "https://millercenter.org/president/vanburen",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-harrison",
+      "regimeId": "wr-usa",
+      "name": "威廉·亨利·哈里森",
+      "personalName": "威廉·亨利·哈里森",
+      "aliases": [
+        "William Harrison"
+      ],
+      "born": "1773年2月9日",
+      "died": "1841年4月4日",
+      "birthPlace": "Berkeley plantation, Charles City County, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶安娜·塔特希尔·西姆斯；本杰明·哈里森的祖父。",
+      "reigns": [
+        {
+          "start": 1841,
+          "end": 1841,
+          "label": "1841—1841年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身弗吉尼亚政治家庭，曾在西北边疆从军并担任地方长官，军事行动涉及美国对原住民土地的扩张。辉格党在1840年以战功与平民化竞选形象将他送入白宫。1841年3月就任后仅一个月病逝，未能形成完整政策周期，其死亡使总统继任制度第一次面临实际检验。不要把疾病原因简单归结为一场就职演说的天气。"
+      ],
+      "highlights": [
+        {
+          "date": "1841年",
+          "year": 1841,
+          "title": "短暂任期与去世",
+          "text": "副总统约翰·泰勒继任，由此确立重要的职位承继先例。"
+        }
+      ],
+      "assessment": "短暂任期的意义主要在继任问题，政策成效不宜凭空延伸。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "威廉·亨利·哈里森：生平与个人资料",
+          "url": "https://millercenter.org/president/harrison",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-tyler",
+      "regimeId": "wr-usa",
+      "name": "约翰·泰勒",
+      "personalName": "约翰·泰勒",
+      "aliases": [
+        "John Tyler"
+      ],
+      "born": "1790年3月29日",
+      "died": "1862年1月18日",
+      "birthPlace": "Charles City County, Virginia（美国；保留来源地名便于核查）",
+      "family": "先后与莱蒂希娅·克里斯蒂安、朱莉娅·加德纳结婚。",
+      "reigns": [
+        {
+          "start": 1841,
+          "end": 1845,
+          "label": "1841—1845年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身弗吉尼亚政治精英家庭，学习法律后进入州议会与联邦政治。哈里森去世后，他主张自己完整继任总统职位，而非仅代行职责。虽然以辉格党副总统身份当选，但在银行等政策上与辉格党领导层决裂，被本党排斥。任期末推动得克萨斯兼并；其晚年支持南方分离，与联邦总统经历形成尖锐反差。"
+      ],
+      "highlights": [
+        {
+          "date": "1841年",
+          "year": 1841,
+          "title": "确立总统完整继任先例",
+          "text": "在宪法尚未有后来的明确修正条文时，确定副总统继任的实际运作方式。"
+        },
+        {
+          "date": "1845年",
+          "year": 1845,
+          "title": "得克萨斯兼并进程",
+          "text": "扩张与奴隶制争议、对墨西哥关系相互牵动。"
+        }
+      ],
+      "assessment": "行政继任先例和党派孤立，构成其任期的中心问题。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "约翰·泰勒：生平与个人资料",
+          "url": "https://millercenter.org/president/tyler",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-polk",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·诺克斯·波尔克",
+      "personalName": "詹姆斯·诺克斯·波尔克",
+      "aliases": [
+        "James K. Polk"
+      ],
+      "born": "1795年11月2日",
+      "died": "1849年6月15日",
+      "birthPlace": "Mecklenburg County, North Carolina（美国；保留来源地名便于核查）",
+      "family": "配偶萨拉·蔡尔德里斯。",
+      "reigns": [
+        {
+          "start": 1845,
+          "end": 1849,
+          "label": "1845—1849年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "作为杰克逊派政治人物，他将领土扩张置于总统议程中心。任内与英国解决俄勒冈边界问题，又在得克萨斯及边界争议升级后发动对墨西哥战争，战后美国取得大片西部领土。这些成果意味着墨西哥遭受领土损失，也加剧美国国内新领土是否实行奴隶制的冲突。他没有谋求连任，卸任不久即病逝。"
+      ],
+      "highlights": [
+        {
+          "date": "1846年",
+          "year": 1846,
+          "title": "美墨战争开始",
+          "text": "边界冲突升级为战争，不能只从美国领土增长叙述其代价。"
+        },
+        {
+          "date": "1848年",
+          "year": 1848,
+          "title": "瓜达卢佩—伊达尔戈条约",
+          "text": "领土变化重塑北美，也扩大国内奴隶制之争。"
+        }
+      ],
+      "assessment": "扩张政策的执行力与对邻国、原住民的伤害必须同时评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·诺克斯·波尔克：生平与个人资料",
+          "url": "https://millercenter.org/president/polk",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-taylor",
+      "regimeId": "wr-usa",
+      "name": "扎卡里·泰勒",
+      "personalName": "扎卡里·泰勒",
+      "aliases": [
+        "Zachary Taylor"
+      ],
+      "born": "1784年11月24日",
+      "died": "1850年7月9日",
+      "birthPlace": "near Barboursville, Virginia（美国；保留来源地名便于核查）",
+      "family": "配偶玛格丽特·麦考尔·史密斯。",
+      "reigns": [
+        {
+          "start": 1849,
+          "end": 1850,
+          "label": "1849—1850年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "职业军人，以美墨战争战功取得全国声望，成为辉格党总统候选人。他自己拥有奴隶，却在新领土组织问题上与部分南方政治力量冲突，支持加利福尼亚等地尽快建州。围绕新领土奴隶制的危机尚未解决，他便在1850年7月任内去世。继任者菲尔莫尔支持妥协方案，改变了当时政治进程。"
+      ],
+      "highlights": [
+        {
+          "date": "1850年",
+          "year": 1850,
+          "title": "建州争论与任内去世",
+          "text": "其死亡使妥协方案的政治条件发生变化。"
+        }
+      ],
+      "assessment": "军队声望不等于处理区域政治危机的成熟联盟。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "扎卡里·泰勒：生平与个人资料",
+          "url": "https://millercenter.org/president/taylor",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-fillmore",
+      "regimeId": "wr-usa",
+      "name": "米勒德·菲尔莫尔",
+      "personalName": "米勒德·菲尔莫尔",
+      "aliases": [
+        "Millard Fillmore"
+      ],
+      "born": "1800年1月7日",
+      "died": "1874年3月8日",
+      "birthPlace": "Summerhill, New York（美国；保留来源地名便于核查）",
+      "family": "先后与阿比盖尔·鲍尔斯、卡罗琳·卡迈克尔·麦金托什结婚。",
+      "reigns": [
+        {
+          "start": 1850,
+          "end": 1853,
+          "label": "1850—1853年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "少年家境贫寒，经过学习与法律工作进入政治，最终以副总统身份继任。面对联邦被奴隶制问题撕裂的局面，他支持1850年妥协，其中加强追捕逃亡奴隶的法律使北方反奴隶制力量强烈反弹。任后未能获得本党再次提名，辉格党也走向瓦解。其生涯反映以制度妥协维持联邦时付出的自由与人权代价。"
+      ],
+      "highlights": [
+        {
+          "date": "1850年",
+          "year": 1850,
+          "title": "支持妥协与逃亡奴隶法",
+          "text": "暂时维持政治平衡，却加强了对逃离奴役者的追捕。"
+        }
+      ],
+      "assessment": "维持联邦的妥协应与其强化奴隶制执行的后果并读。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "米勒德·菲尔莫尔：生平与个人资料",
+          "url": "https://millercenter.org/president/fillmore",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-pierce",
+      "regimeId": "wr-usa",
+      "name": "富兰克林·皮尔斯",
+      "personalName": "富兰克林·皮尔斯",
+      "aliases": [
+        "Franklin Pierce"
+      ],
+      "born": "1804年11月23日",
+      "died": "1869年10月8日",
+      "birthPlace": "Hillsborough (now Hillsboro), New Hampshire（美国；保留来源地名便于核查）",
+      "family": "配偶简·米恩斯·阿普尔顿。",
+      "reigns": [
+        {
+          "start": 1853,
+          "end": 1857,
+          "label": "1853—1857年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "来自新罕布什尔州，作为民主党政治人物在区域矛盾日益尖锐时就任。他支持《堪萨斯—内布拉斯加法》，让当地居民表决奴隶制问题，破坏原有妥协框架并激化争夺。堪萨斯暴力冲突、政党重组与共和党兴起，均与这一政策环境相联系。任内既未缓和南北分裂，也失去再次获本党提名的机会。"
+      ],
+      "highlights": [
+        {
+          "date": "1854年",
+          "year": 1854,
+          "title": "堪萨斯—内布拉斯加法",
+          "text": "扩大奴隶制问题的政治与武装冲突，推动政党体系重组。"
+        }
+      ],
+      "assessment": "不能把内战归于一人，但其支持的政策确实加速了危机。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "富兰克林·皮尔斯：生平与个人资料",
+          "url": "https://millercenter.org/president/pierce",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-buchanan",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·布坎南",
+      "personalName": "詹姆斯·布坎南",
+      "aliases": [
+        "James Buchanan"
+      ],
+      "born": "1791年4月23日",
+      "died": "1868年6月1日",
+      "birthPlace": "Cove Gap (near Mercersburg), Pennsylvania（美国；保留来源地名便于核查）",
+      "family": "终身未婚。",
+      "reigns": [
+        {
+          "start": 1857,
+          "end": 1861,
+          "label": "1857—1861年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期担任国会议员、国务卿和外交官，入主白宫时被寄望于平息奴隶制冲突。然而，他未能应对堪萨斯争议和南北分裂的加深。1860年林肯当选后，南方各州陆续宣布脱离联邦，他反对分离，却未能阻止危机在任期末发展为联邦解体的现实威胁。1861年3月交接时，战争已迫近。"
+      ],
+      "highlights": [
+        {
+          "date": "1860年",
+          "year": 1860,
+          "title": "分离危机加剧",
+          "text": "总统选举后南方分离运动扩大，行政应对未能恢复国家统一。"
+        }
+      ],
+      "assessment": "其任期常被视为危机领导失败的案例，结构矛盾仍需保留。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·布坎南：生平与个人资料",
+          "url": "https://millercenter.org/president/buchanan",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-lincoln",
+      "regimeId": "wr-usa",
+      "name": "亚伯拉罕·林肯",
+      "personalName": "亚伯拉罕·林肯",
+      "aliases": [
+        "Abraham Lincoln"
+      ],
+      "born": "1809年2月12日",
+      "died": "1865年4月15日",
+      "birthPlace": "Hardin (now Larue) County, Kentucky（美国；保留来源地名便于核查）",
+      "family": "配偶玛丽·托德；二人育有四子，其中多名子女早逝。",
+      "reigns": [
+        {
+          "start": 1861,
+          "end": 1865,
+          "label": "1861—1865年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出生于肯塔基州，成长过程中接受的正规教育有限，后来通过自学成为律师并进入伊利诺伊州政治。反对奴隶制向新领土扩张，使他在共和党形成和全国政治辩论中崭露头角。1860年当选总统后，南方分离与内战使其面对联邦存亡危机。"
+      ],
+      "highlights": [
+        {
+          "date": "1861年",
+          "year": 1861,
+          "title": "内战与维护联邦",
+          "text": "在分离、军事失利与政治反对中组织战争，同时面临战时公民自由的争议。"
+        },
+        {
+          "date": "1863年",
+          "year": 1863,
+          "title": "《解放奴隶宣言》",
+          "text": "宣言以战争权力为依据，适用范围有限，但改变战争目标并推动黑人参军。"
+        },
+        {
+          "date": "1865年",
+          "year": 1865,
+          "title": "连任、废奴修正案与遇刺",
+          "text": "推动宪法第十三修正案通过国会；在战争接近结束时遇刺，重建问题由后继政府面对。"
+        }
+      ],
+      "assessment": "维护联邦与推动废奴是其核心地位，不能把黑人自我解放、士兵与废奴运动的作用化约为个人恩赐。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "亚伯拉罕·林肯：生平与个人资料",
+          "url": "https://millercenter.org/president/lincoln",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-johnson",
+      "regimeId": "wr-usa",
+      "name": "安德鲁·约翰逊",
+      "personalName": "安德鲁·约翰逊",
+      "aliases": [
+        "Andrew Johnson"
+      ],
+      "born": "1808年12月29日",
+      "died": "1875年7月31日",
+      "birthPlace": "Raleigh, North Carolina（美国；保留来源地名便于核查）",
+      "family": "配偶伊丽莎·麦卡德尔。",
+      "reigns": [
+        {
+          "start": 1865,
+          "end": 1869,
+          "label": "1865—1869年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "贫寒出身，早年从事裁缝工作，逐步进入田纳西州与联邦政治。林肯遇刺后继任，主张迅速让南方各州重返联邦，却对被解放者的政治与公民权利保护不足。他与国会共和党人围绕重建持续冲突，否决民权立法并遭推翻。1868年受到弹劾，参议院定罪票数未达门槛，仍完成任期。"
+      ],
+      "highlights": [
+        {
+          "date": "1865年",
+          "year": 1865,
+          "title": "重建政策",
+          "text": "宽待前邦联精英的方案与保护被解放者权利的要求发生尖锐冲突。"
+        },
+        {
+          "date": "1868年",
+          "year": 1868,
+          "title": "总统弹劾案",
+          "text": "国会与总统对重建的冲突进入宪政程序，参议院未将其罢免。"
+        }
+      ],
+      "assessment": "个人社会出身不能代替对其种族政策与重建责任的评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "安德鲁·约翰逊：生平与个人资料",
+          "url": "https://millercenter.org/president/johnson",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-grant",
+      "regimeId": "wr-usa",
+      "name": "尤利西斯·辛普森·格兰特",
+      "personalName": "尤利西斯·辛普森·格兰特",
+      "aliases": [
+        "Ulysses S. Grant"
+      ],
+      "born": "1822年4月27日",
+      "died": "1885年7月23日",
+      "birthPlace": "Point Pleasant, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶朱莉娅·博格斯·登特。",
+      "reigns": [
+        {
+          "start": 1869,
+          "end": 1877,
+          "label": "1869—1877年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "军人出身，在内战中逐步成为联邦军主要统帅，最终推动军事胜利。两届总统任内力图执行重建，运用联邦力量打击三K党等暴力组织，保护黑人政治参与。同时，任用和信任部分不当官员引发腐败丑闻，经济危机与政治妥协削弱重建。晚年写作回忆录，其将领声望与总统功过应分别讨论。"
+      ],
+      "highlights": [
+        {
+          "date": "1864年",
+          "year": 1864,
+          "title": "联邦军总司令",
+          "text": "协调多个战场，持续消耗邦联作战能力。"
+        },
+        {
+          "date": "1871年",
+          "year": 1871,
+          "title": "打击重建时期的种族恐怖",
+          "text": "联邦执法介入南方政治暴力。"
+        },
+        {
+          "date": "1873年",
+          "year": 1873,
+          "title": "经济危机",
+          "text": "金融恐慌与萧条影响其第二任期及改革支持。"
+        }
+      ],
+      "assessment": "近年研究更加重视其维护黑人权利的行动，同时仍检视政府失误。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "尤利西斯·辛普森·格兰特：生平与个人资料",
+          "url": "https://millercenter.org/president/grant",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-hayes",
+      "regimeId": "wr-usa",
+      "name": "拉瑟福德·伯查德·海斯",
+      "personalName": "拉瑟福德·伯查德·海斯",
+      "aliases": [
+        "Rutherford B. Hayes"
+      ],
+      "born": "1822年10月4日",
+      "died": "1893年1月17日",
+      "birthPlace": "Delaware, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶露西·韦尔·韦布。",
+      "reigns": [
+        {
+          "start": 1877,
+          "end": 1881,
+          "label": "1877—1881年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾任律师、内战军官和俄亥俄州长。1876年总统选举长期争议后，经特殊选举委员会及政治交涉取得总统职位，其就任伴随联邦从南方政治军事干预中退却，重建进入终结阶段。他也讨论文官制度与财政政策，在劳资冲突中运用联邦军队。本人承诺只任一届，1881年离任。"
+      ],
+      "highlights": [
+        {
+          "date": "1877年",
+          "year": 1877,
+          "title": "争议选举后的重建转折",
+          "text": "联邦政策变化使南方黑人公民权保障进一步削弱。"
+        }
+      ],
+      "assessment": "廉洁个人形象与重建终结的制度后果，需要分别考察。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "拉瑟福德·伯查德·海斯：生平与个人资料",
+          "url": "https://millercenter.org/president/hayes",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-garfield",
+      "regimeId": "wr-usa",
+      "name": "詹姆斯·艾布拉姆·加菲尔德",
+      "personalName": "詹姆斯·艾布拉姆·加菲尔德",
+      "aliases": [
+        "James A. Garfield"
+      ],
+      "born": "1831年11月19日",
+      "died": "1881年9月19日",
+      "birthPlace": "Orange Township, Cuyahoga County, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶卢克丽霞·鲁道夫。",
+      "reigns": [
+        {
+          "start": 1881,
+          "end": 1881,
+          "label": "1881—1881年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "从俄亥俄州农村成长为教师、军官和国会议员，1880年在共和党竞争中成为总统候选人并当选。任内与党内分赃政治势力发生冲突，但大多数施政计划尚未展开便遭枪击。1881年7月受伤，9月去世，不能把遇刺当天误当卒日。他的死亡推动公众要求改革以党派酬庸分配职位的制度。"
+      ],
+      "highlights": [
+        {
+          "date": "1881年",
+          "year": 1881,
+          "title": "遭枪击并在数月后去世",
+          "text": "短暂任期终止，文官改革成为继任政府面对的重要议题。"
+        }
+      ],
+      "assessment": "应区别遇刺、病程与死亡日期，不用未实施计划虚构政策成绩。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "詹姆斯·艾布拉姆·加菲尔德：生平与个人资料",
+          "url": "https://millercenter.org/president/garfield",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-arthur",
+      "regimeId": "wr-usa",
+      "name": "切斯特·艾伦·阿瑟",
+      "personalName": "切斯特·艾伦·阿瑟",
+      "aliases": [
+        "Chester A. Arthur"
+      ],
+      "born": "1829年10月5日",
+      "died": "1886年11月18日",
+      "birthPlace": "Fairfield, Vermont（美国；保留来源地名便于核查）",
+      "family": "配偶艾伦·刘易斯·赫恩登，在他任总统前去世。",
+      "reigns": [
+        {
+          "start": 1881,
+          "end": 1885,
+          "label": "1881—1885年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身牧师家庭，青年时从事法律工作，曾参与涉及非裔美国人权利的案件，后来成为纽约共和党政治网络的重要成员。加菲尔德去世后继任，总统身份使他面对公众对分赃政治的批评。任内签署彭德尔顿文官法，推动部分联邦职位考试录用；也签署排华法案，扩大种族化移民限制。"
+      ],
+      "highlights": [
+        {
+          "date": "1882年",
+          "year": 1882,
+          "title": "排华法案",
+          "text": "移民排斥被联邦法律制度化。"
+        },
+        {
+          "date": "1883年",
+          "year": 1883,
+          "title": "彭德尔顿文官法",
+          "text": "推动联邦文官录用改革，覆盖范围在此后逐步扩大。"
+        }
+      ],
+      "assessment": "文官改革与排斥移民并存，不能以单一改革掩盖其限制权利的政策。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "切斯特·艾伦·阿瑟：生平与个人资料",
+          "url": "https://millercenter.org/president/arthur",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-cleveland",
+      "regimeId": "wr-usa",
+      "name": "格罗弗·克利夫兰",
+      "personalName": "格罗弗·克利夫兰",
+      "aliases": [
+        "Grover Cleveland"
+      ],
+      "born": "1837年3月18日",
+      "died": "1908年6月24日",
+      "birthPlace": "Caldwell, New Jersey（美国；保留来源地名便于核查）",
+      "family": "配偶弗朗西丝·福尔瑟姆。",
+      "reigns": [
+        {
+          "start": 1885,
+          "end": 1889,
+          "label": "1885—1889年",
+          "role": "总统",
+          "note": "第一段任期"
+        },
+        {
+          "start": 1893,
+          "end": 1897,
+          "label": "1893—1897年",
+          "role": "总统",
+          "note": "第二段任期，非连续在位"
+        }
+      ],
+      "life": [
+        "律师出身，从布法罗市长、纽约州长逐步成为民主党的改革形象。首次任总统后在1888年选举失利，1892年再次获胜，成为任期不连续的总统。第二任期遭遇1893年经济危机，并在普尔曼罢工中采取联邦干预，引发劳工争议。其生涯必须分开阅读两段任期，不能把1889—1893年算作他在位。"
+      ],
+      "highlights": [
+        {
+          "date": "1885年",
+          "year": 1885,
+          "title": "首次就任",
+          "text": "以反腐和行政节制的政治形象执政。"
+        },
+        {
+          "date": "1893年",
+          "year": 1893,
+          "title": "再次就任与经济危机",
+          "text": "重新执政后立即面对金融与就业危机。"
+        },
+        {
+          "date": "1894年",
+          "year": 1894,
+          "title": "普尔曼罢工",
+          "text": "联邦政府使用禁令和军队介入劳资冲突。"
+        }
+      ],
+      "assessment": "两段任期体现经济思想、行政节制与劳工政治的紧张关系。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "格罗弗·克利夫兰：生平与个人资料",
+          "url": "https://millercenter.org/president/cleveland",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-bharrison",
+      "regimeId": "wr-usa",
+      "name": "本杰明·哈里森",
+      "personalName": "本杰明·哈里森",
+      "aliases": [
+        "Benjamin Harrison"
+      ],
+      "born": "1833年8月20日",
+      "died": "1901年3月13日",
+      "birthPlace": "North Bend, Ohio（美国；保留来源地名便于核查）",
+      "family": "祖父为威廉·亨利·哈里森；先后与卡罗琳·拉维尼娅·斯科特、玛丽·斯科特·洛德·迪米克结婚。",
+      "reigns": [
+        {
+          "start": 1889,
+          "end": 1893,
+          "label": "1889—1893年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身政治家庭，是威廉·亨利·哈里森的孙子，经历内战与参议院政治后成为总统。任内联邦立法活跃，包括谢尔曼反托拉斯法及高关税政策，同时多个西部地区建州。对工业、贸易和退伍军人事务的政策扩大了联邦作用，却也招致经济与财政争论，1892年连任失败。"
+      ],
+      "highlights": [
+        {
+          "date": "1890年",
+          "year": 1890,
+          "title": "反托拉斯立法与关税政策",
+          "text": "联邦开始以反垄断法律回应企业集中，高关税也引发政治争议。"
+        }
+      ],
+      "assessment": "其任期是国会立法与行政运作共同塑造的时期，不能把全部变化归于总统个人。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "本杰明·哈里森：生平与个人资料",
+          "url": "https://millercenter.org/president/bharrison",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-mckinley",
+      "regimeId": "wr-usa",
+      "name": "威廉·麦金莱",
+      "personalName": "威廉·麦金莱",
+      "aliases": [
+        "William McKinley"
+      ],
+      "born": "1843年1月29日",
+      "died": "1901年9月14日",
+      "birthPlace": "Niles, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶艾达·萨克斯顿。",
+      "reigns": [
+        {
+          "start": 1897,
+          "end": 1901,
+          "label": "1897—1901年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾参加内战并长期从事共和党和关税政治。任总统时，古巴危机与美西战争使美国进入新的海外扩张阶段，波多黎各、关岛和菲律宾的地位随战局改变，菲律宾人民随后继续反抗美国统治。其政府亦提出在华门户开放政策。1900年连任，次年遭枪击后去世，由西奥多·罗斯福继任。"
+      ],
+      "highlights": [
+        {
+          "date": "1898年",
+          "year": 1898,
+          "title": "美西战争与海外扩张",
+          "text": "美国国际地位增强，殖民统治也给当地民众带来新的压迫与战争。"
+        },
+        {
+          "date": "1901年",
+          "year": 1901,
+          "title": "遇刺去世",
+          "text": "副总统罗斯福继任，总统政治风格随之改变。"
+        }
+      ],
+      "assessment": "从关税政治到帝国扩张的转向，是理解其任期的主线。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "威廉·麦金莱：生平与个人资料",
+          "url": "https://millercenter.org/president/mckinley",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-roosevelt",
+      "regimeId": "wr-usa",
+      "name": "西奥多·罗斯福",
+      "personalName": "西奥多·罗斯福",
+      "aliases": [
+        "Theodore Roosevelt"
+      ],
+      "born": "1858年10月27日",
+      "died": "1919年1月6日",
+      "birthPlace": "New York, New York（美国；保留来源地名便于核查）",
+      "family": "先后与艾丽斯·海瑟薇·李、伊迪丝·克米特·卡罗结婚。",
+      "reigns": [
+        {
+          "start": 1901,
+          "end": 1909,
+          "label": "1901—1909年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出生于纽约，经历州与联邦行政、战争和纽约州长任职后成为副总统。麦金莱遇刺后继任，他更主动地把总统职位用于调节工业社会矛盾，推动企业监管、食品与药品监督以及自然资源保护，也借大众传媒扩大行政影响。其外交带有强烈大国扩张色彩，巴拿马运河与加勒比地区干预尤为突出。卸任后因与塔夫脱分歧，1912年再度参选，改变了当年选举格局。"
+      ],
+      "highlights": [
+        {
+          "date": "1901年",
+          "year": 1901,
+          "title": "继任并扩张行政影响",
+          "text": "将总统塑造为直接面向公众的政策倡议者。"
+        },
+        {
+          "date": "1906年",
+          "year": 1906,
+          "title": "食品监管与保护政策",
+          "text": "强化联邦监管能力，自然保护也涉及原住民土地与使用权问题。"
+        },
+        {
+          "date": "1912年",
+          "year": 1912,
+          "title": "与共和党分裂后参选",
+          "text": "以进步党候选人身份竞选，未能再次当选。"
+        }
+      ],
+      "assessment": "进步主义改革与帝国主义扩张共同构成其政治遗产。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "西奥多·罗斯福：生平与个人资料",
+          "url": "https://millercenter.org/president/roosevelt",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-us-taft",
+      "regimeId": "wr-usa",
+      "name": "威廉·霍华德·塔夫脱",
+      "personalName": "威廉·霍华德·塔夫脱",
+      "aliases": [
+        "William Taft"
+      ],
+      "born": "1857年9月15日",
+      "died": "1930年3月8日",
+      "birthPlace": "Cincinnati, Ohio（美国；保留来源地名便于核查）",
+      "family": "配偶海伦·赫伦。",
+      "reigns": [
+        {
+          "start": 1909,
+          "end": 1913,
+          "label": "1909—1913年",
+          "role": "总统",
+          "note": ""
+        }
+      ],
+      "life": [
+        "职业道路与法律、司法和殖民行政密切相关，担任菲律宾行政长官及战争部长后获罗斯福支持竞选总统。执政后在反托拉斯、关税和自然保护等问题上与进步派发生分歧，最终与前任决裂。1912年共和党分裂使其连任失败。离开白宫后出任美国首席大法官，实现长期的司法志向，其行政与司法两段职业生涯应分别阅读。"
+      ],
+      "highlights": [
+        {
+          "date": "1912年",
+          "year": 1912,
+          "title": "连任失败",
+          "text": "共和党内部分裂与三方竞选重组政治力量。"
+        },
+        {
+          "date": "1921年",
+          "year": 1921,
+          "title": "出任首席大法官",
+          "text": "此为1912年以后的人生后续，不纳入夏至清的同期在位检索起点。"
+        }
+      ],
+      "assessment": "其生平连接法律职业、殖民行政和总统权力，不能只以与罗斯福的关系概括。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "威廉·霍华德·塔夫脱：生平与个人资料",
+          "url": "https://millercenter.org/president/taft",
+          "note": "弗吉尼亚大学米勒中心；Overview、Fast Facts 和相应人物专题。完整任期与公开宣誓日有时不同，本表按年份检索。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-taejo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜太祖",
+      "personalName": "李成桂",
+      "aliases": [
+        "李成桂"
+      ],
+      "born": "1335年",
+      "died": "1408年",
+      "birthPlace": "",
+      "family": "李子春之子；定宗、太宗之父。",
+      "reigns": [
+        {
+          "start": 1392,
+          "end": 1398,
+          "label": "1392—1398年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高丽末年的军事将领，在威化岛回军后取得主导地位，并在1392年建立朝鲜王朝。新王朝以汉城为都，推动制度与土地关系重组，但宗室继承和功臣势力很快发生冲突。第一次王子之乱后退位，开国者的威望并未消除家族内部的权力斗争。"
+      ],
+      "highlights": [
+        {
+          "date": "1388年",
+          "year": 1388,
+          "title": "威化岛回军",
+          "text": "拒绝继续北进并率军回返，改变高丽政局。"
+        },
+        {
+          "date": "1392年",
+          "year": 1392,
+          "title": "建立朝鲜",
+          "text": "以新的王朝重组统治与都城。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-jeongjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜定宗",
+      "personalName": "李芳果",
+      "aliases": [
+        "李芳果"
+      ],
+      "born": "1357年",
+      "died": "1419年",
+      "birthPlace": "",
+      "family": "太祖之子，太宗之兄。",
+      "reigns": [
+        {
+          "start": 1398,
+          "end": 1400,
+          "label": "1398—1400年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "作为太祖之子，在第一次王子之乱后继位。虽然拥有王号，政治和军事主动权逐步转向弟弟李芳远。第二次王子之乱进一步改变宗室力量平衡，他在1400年让位，后来以太上王身份生活。其短暂统治是理解开国功臣政治向强王权转变的重要环节。"
+      ],
+      "highlights": [
+        {
+          "date": "1400年",
+          "year": 1400,
+          "title": "退位于太宗",
+          "text": "宗室内战后让位，王位与实际权力趋于合一。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-taejong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜太宗",
+      "personalName": "李芳远",
+      "aliases": [
+        "李芳远"
+      ],
+      "born": "1367年",
+      "died": "1422年",
+      "birthPlace": "",
+      "family": "太祖之子；世宗之父，配偶元敬王后闵氏。",
+      "reigns": [
+        {
+          "start": 1400,
+          "end": 1418,
+          "label": "1400—1418年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "参与父亲建国，通过两次王子之乱确立权力，继位后强化君主对军队、行政和王室外戚的控制。他处理功臣与宗亲势力，推进户籍和政治制度建设，为世宗时期的国家运作奠定条件。1418年让位世宗后仍保留重大军事与政治影响，退位并不意味着即刻退出统治。"
+      ],
+      "highlights": [
+        {
+          "date": "1400年",
+          "year": 1400,
+          "title": "继位并整合王权",
+          "text": "削弱可能挑战王室中心的独立力量。"
+        },
+        {
+          "date": "1418年",
+          "year": 1418,
+          "title": "让位世宗",
+          "text": "以太上王身份继续发挥实际影响。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-sejong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜世宗",
+      "personalName": "李祹",
+      "aliases": [
+        "李祹"
+      ],
+      "born": "1397年",
+      "died": "1450年",
+      "birthPlace": "",
+      "family": "太宗与元敬王后之子；文宗、世祖之父。",
+      "reigns": [
+        {
+          "start": 1418,
+          "end": 1450,
+          "label": "1418—1450年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "太宗第三子，在父亲让位后即位。其统治不仅以文字创造著称，也涵盖农业、历算、天文、音乐、法律和边疆治理。王廷组织学者与技术人员，整理适合本地条件的知识，并加强北部边界及沿海防务。《训民正音》的创制和颁布，为更广泛的人群使用书写工具提供条件，但不应把所有成果都归于君主一人。晚年疾病与继承安排又把权力逐步交给世子。"
+      ],
+      "highlights": [
+        {
+          "date": "1443年",
+          "year": 1443,
+          "title": "创制训民正音",
+          "text": "以新的音韵文字体系回应本地语言书写需要。"
+        },
+        {
+          "date": "1446年",
+          "year": 1446,
+          "title": "颁布训民正音",
+          "text": "解例说明文字原理与用法，后世形成韩文传统。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-munjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜文宗",
+      "personalName": "李珦",
+      "aliases": [
+        "李珦"
+      ],
+      "born": "1414年",
+      "died": "1452年",
+      "birthPlace": "",
+      "family": "世宗长子，端宗之父。",
+      "reigns": [
+        {
+          "start": 1450,
+          "end": 1452,
+          "label": "1450—1452年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期担任世子，世宗晚年已参与政务，因此正式即位前有相当行政经验。其关注军事与制度整理，但身体状况使在位时间很短。去世时儿子端宗年幼，由大臣辅政，给宗室争权留下空间。不能把随后的政变简化为君主个人品行的结果。"
+      ],
+      "highlights": [
+        {
+          "date": "1452年",
+          "year": 1452,
+          "title": "幼主继承",
+          "text": "文宗去世，端宗即位，辅政格局形成。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-danjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜端宗",
+      "personalName": "李弘暐",
+      "aliases": [
+        "李弘暐"
+      ],
+      "born": "1441年",
+      "died": "1457年",
+      "birthPlace": "",
+      "family": "文宗之子，世祖的侄子。",
+      "reigns": [
+        {
+          "start": 1452,
+          "end": 1455,
+          "label": "1452—1455年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年幼继位，由重臣辅政。叔父首阳大君发动癸酉靖难夺取实际权力，随后迫使端宗退位。端宗被降封、流放，在复位活动遭镇压后遇害；其王号与历史地位经历后世恢复。阅读这一生平应区分当时废黜称号与后来追复的庙号。"
+      ],
+      "highlights": [
+        {
+          "date": "1453年",
+          "year": 1453,
+          "title": "癸酉靖难",
+          "text": "首阳大君清除辅政大臣，幼主丧失政治主动权。"
+        },
+        {
+          "date": "1457年",
+          "year": 1457,
+          "title": "流放后遇害",
+          "text": "复位谋划与朝廷镇压使其生命终结。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-sejo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜世祖",
+      "personalName": "李瑈",
+      "aliases": [
+        "李瑈"
+      ],
+      "born": "1417年",
+      "died": "1468年",
+      "birthPlace": "",
+      "family": "世宗之子、文宗之弟；睿宗之父。",
+      "reigns": [
+        {
+          "start": 1455,
+          "end": 1468,
+          "label": "1455—1468年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原封首阳大君，通过政变清除辅政大臣并迫使侄子端宗退位。即位后加强国王对行政、军队和官员任用的控制，推动法典编纂等制度工作。建构强王权的措施与暴力夺位、处死端宗及反对者并存，制度成果不能消除其夺权代价。"
+      ],
+      "highlights": [
+        {
+          "date": "1453年",
+          "year": 1453,
+          "title": "夺取实际权力",
+          "text": "政变在正式称王前改变权力格局。"
+        },
+        {
+          "date": "1455年",
+          "year": 1455,
+          "title": "正式即位",
+          "text": "端宗退位，世祖掌握王位。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-yejong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜睿宗",
+      "personalName": "李晄",
+      "aliases": [
+        "李晄"
+      ],
+      "born": "1450年",
+      "died": "1469年",
+      "birthPlace": "",
+      "family": "世祖之子，成宗的叔父。",
+      "reigns": [
+        {
+          "start": 1468,
+          "end": 1469,
+          "label": "1468—1469年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "世祖去世后继位，统治延续开国功臣和王室核心集团的强大影响。其任内涉及南怡案等政治清洗，而实际决策需结合大臣与王室长辈力量理解。在位仅一年多便去世，王位转由侄子成宗继承，而非直接由其年幼儿子承接。"
+      ],
+      "highlights": [
+        {
+          "date": "1469年",
+          "year": 1469,
+          "title": "短暂在位后去世",
+          "text": "继承由王室与大臣共同安排。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-seongjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜成宗",
+      "personalName": "李娎",
+      "aliases": [
+        "李娎"
+      ],
+      "born": "1457年",
+      "died": "1494年",
+      "birthPlace": "",
+      "family": "德宗李暲之子、世祖之孙；燕山君与中宗之父。",
+      "reigns": [
+        {
+          "start": 1469,
+          "end": 1494,
+          "label": "1469—1494年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年登位，早期由王室长辈垂帘听政，亲政后逐步整合功臣与新兴士林力量。完成《经国大典》颁行，使长期制度编纂形成较稳定的行政规范。学术、史书编纂与儒家秩序建设发展，同时宗室和后妃政治仍影响继承。其后的士祸不能仅追溯为单一宫廷纠纷。"
+      ],
+      "highlights": [
+        {
+          "date": "1485年",
+          "year": 1485,
+          "title": "《经国大典》施行",
+          "text": "长期积累的国家制度以法典形式固定。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-yeonsan",
+      "regimeId": "wr-joseon",
+      "name": "燕山君",
+      "personalName": "李㦕",
+      "aliases": [
+        "李㦕"
+      ],
+      "born": "1476年",
+      "died": "1506年",
+      "birthPlace": "",
+      "family": "成宗之子，生母为废妃尹氏。",
+      "reigns": [
+        {
+          "start": 1494,
+          "end": 1506,
+          "label": "1494—1506年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "成宗之子，继位后与士林及朝廷言论力量发生尖锐冲突。戊午、甲子士祸使官僚和学术网络受到重创，王室私怨与专断统治相互强化。1506年政变将其废黜并流放，未获通常君主的庙号。他的事迹需区分实录记录、政变胜利者的政治叙事与后世戏剧形象。"
+      ],
+      "highlights": [
+        {
+          "date": "1498年",
+          "year": 1498,
+          "title": "戊午士祸",
+          "text": "史稿与政治解释引发大规模清洗。"
+        },
+        {
+          "date": "1506年",
+          "year": 1506,
+          "title": "中宗反正",
+          "text": "政变废黜燕山君，王位转给异母弟中宗。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-jungjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜中宗",
+      "personalName": "李怿",
+      "aliases": [
+        "李怿"
+      ],
+      "born": "1488年",
+      "died": "1544年",
+      "birthPlace": "",
+      "family": "成宗之子，燕山君异母弟；仁宗、明宗之父。",
+      "reigns": [
+        {
+          "start": 1506,
+          "end": 1544,
+          "label": "1506—1544年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在反正政变中被拥立，起初受到功臣集团制约。曾支持赵光祖等士林改革，后来又转而清洗改革派，己卯士祸成为政治转折。其长期统治表明王权、功臣和士林并不是固定不变的两方关系，君主也在不同联盟之间作出选择。"
+      ],
+      "highlights": [
+        {
+          "date": "1519年",
+          "year": 1519,
+          "title": "己卯士祸",
+          "text": "赵光祖等人的改革被终止，政治清洗重组朝廷。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-injong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜仁宗",
+      "personalName": "李峼",
+      "aliases": [
+        "李峼"
+      ],
+      "born": "1515年",
+      "died": "1545年",
+      "birthPlace": "",
+      "family": "中宗之子；明宗异母兄。",
+      "reigns": [
+        {
+          "start": 1544,
+          "end": 1545,
+          "label": "1544—1545年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期作为世子接受儒学教育，在中宗去世后继位。正式在位不足一年，未能稳定推行个人政治议程便病逝。王位由异母弟明宗继承，围绕不同外戚集团的争斗随即加剧，乙巳士祸与这一继承背景相联系。"
+      ],
+      "highlights": [
+        {
+          "date": "1545年",
+          "year": 1545,
+          "title": "在位数月后去世",
+          "text": "继承引发外戚力量重新排列。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-myeongjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜明宗",
+      "personalName": "李峘",
+      "aliases": [
+        "李峘"
+      ],
+      "born": "1534年",
+      "died": "1567年",
+      "birthPlace": "",
+      "family": "中宗与文定王后之子。",
+      "reigns": [
+        {
+          "start": 1545,
+          "end": 1567,
+          "label": "1545—1567年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，母亲文定王后及其外戚集团长期主导政治。乙巳士祸清洗对立力量，士林政治经历挫折；对佛教的扶持也引发儒臣反对。其统治后期逐渐亲政，但去世时无存活继承子，王室旁支宣祖继位。"
+      ],
+      "highlights": [
+        {
+          "date": "1545年",
+          "year": 1545,
+          "title": "幼主与外戚政治",
+          "text": "王位更替伴随乙巳士祸。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-seonjo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜宣祖",
+      "personalName": "李昖",
+      "aliases": [
+        "李昖"
+      ],
+      "born": "1552年",
+      "died": "1608年",
+      "birthPlace": "",
+      "family": "中宗之孙；光海君与永昌大君之父。",
+      "reigns": [
+        {
+          "start": 1567,
+          "end": 1608,
+          "label": "1567—1608年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出自王室旁支，任内士林内部党争加深。1592年日本侵朝战争爆发，国王北撤，地方义兵、朝鲜水军和明军共同作战。战争破坏社会经济，也使世子光海君在分担政务中积累政治声望。战后恢复与继承争议相互牵动，需把宫廷与战争中的民众经验一并阅读。"
+      ],
+      "highlights": [
+        {
+          "date": "1592年",
+          "year": 1592,
+          "title": "日本侵朝战争",
+          "text": "朝廷撤离都城，军事抵抗与国际援助同时展开。"
+        },
+        {
+          "date": "1598年",
+          "year": 1598,
+          "title": "战争结束与重建",
+          "text": "胜利并未立即消除财政、社会与继承危机。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-gwanghae",
+      "regimeId": "wr-joseon",
+      "name": "光海君",
+      "personalName": "李珲",
+      "aliases": [
+        "李珲"
+      ],
+      "born": "1575年",
+      "died": "1641年",
+      "birthPlace": "",
+      "family": "宣祖之子。",
+      "reigns": [
+        {
+          "start": 1608,
+          "end": 1623,
+          "label": "1608—1623年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在侵朝战争期间作为世子分担政务，继位后组织战后恢复。面对明与后金力量变化，其外交较为审慎，但朝廷派系与王室清洗削弱支持。废母杀弟等政治争议成为反对力量的动员资源，1623年政变将其废黜，后流放至济州。对其外交的后世重新评价，不应消除内政暴力。"
+      ],
+      "highlights": [
+        {
+          "date": "1619年",
+          "year": 1619,
+          "title": "萨尔浒战役背景下的外交抉择",
+          "text": "朝鲜参与明方军事行动后，如何应对后金成为重大难题。"
+        },
+        {
+          "date": "1623年",
+          "year": 1623,
+          "title": "仁祖反正",
+          "text": "政变结束其统治，此后长期流放。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-injo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜仁祖",
+      "personalName": "李倧",
+      "aliases": [
+        "李倧"
+      ],
+      "born": "1595年",
+      "died": "1649年",
+      "birthPlace": "",
+      "family": "宣祖之孙；昭显世子、孝宗之父。",
+      "reigns": [
+        {
+          "start": 1623,
+          "end": 1649,
+          "label": "1623—1649年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过反正政变即位，政权与支持明朝、排斥后金的政治立场相连。1627年和1636年的两次战争使朝鲜在国际力量重组中遭受严重打击，最终向清称臣。战后王室质子、世子归国与继承冲突又成为朝廷问题，不能仅用君主个人“亲明”解释全部战争原因。"
+      ],
+      "highlights": [
+        {
+          "date": "1636年",
+          "year": 1636,
+          "title": "丙子战争",
+          "text": "清军入侵，国王被围，次年接受臣属关系。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-hyojong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜孝宗",
+      "personalName": "李淏",
+      "aliases": [
+        "李淏"
+      ],
+      "born": "1619年",
+      "died": "1659年",
+      "birthPlace": "",
+      "family": "仁祖之子、昭显世子之弟。",
+      "reigns": [
+        {
+          "start": 1649,
+          "end": 1659,
+          "label": "1649—1659年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年轻时曾作为王子被送往清朝，归国后在昭显世子去世等继承变局中成为王位继承人。即位后整顿军政，后世常以“北伐”设想叙述其统治，但其军事准备、对清关系和实际能力必须区分。任期未形成大规模对清战争，国内财政与政治条件制约政策。"
+      ],
+      "highlights": [
+        {
+          "date": "1649年",
+          "year": 1649,
+          "title": "继位后的军政整顿",
+          "text": "强化武备与王权的措施在战后恢复背景下展开。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-hyeonjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜显宗",
+      "personalName": "李棩",
+      "aliases": [
+        "李棩"
+      ],
+      "born": "1641年",
+      "died": "1674年",
+      "birthPlace": "",
+      "family": "孝宗之子。",
+      "reigns": [
+        {
+          "start": 1659,
+          "end": 1674,
+          "label": "1659—1674年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出生于王父与父亲被留在清朝的时期，继位后面对西人与南人围绕礼制的激烈论争。两次礼讼并非单纯服丧技术问题，而关系王统身份、政治联盟和官僚权力。其任内还需要处理灾荒与社会恢复，礼争不能代表全部治理事务。"
+      ],
+      "highlights": [
+        {
+          "date": "1659年",
+          "year": 1659,
+          "title": "第一次礼讼",
+          "text": "王室服丧制度成为政治争论焦点。"
+        },
+        {
+          "date": "1674年",
+          "year": 1674,
+          "title": "第二次礼讼",
+          "text": "礼制解释改变朝廷权力平衡。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-sukjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜肃宗",
+      "personalName": "李焞",
+      "aliases": [
+        "李焞"
+      ],
+      "born": "1661年",
+      "died": "1720年",
+      "birthPlace": "",
+      "family": "显宗之子；景宗、英祖之父。",
+      "reigns": [
+        {
+          "start": 1674,
+          "end": 1720,
+          "label": "1674—1720年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期在位，国王利用不同党派与后妃集团之间的竞争加强政治主导，数次“换局”造成朝廷权力骤变。张禧嫔、仁显王后等人的命运与继承问题交织，后世宫廷叙事常过度私人化。需把这些人物放在党派、王权与世子地位的制度背景中理解。"
+      ],
+      "highlights": [
+        {
+          "date": "1689年",
+          "year": 1689,
+          "title": "己巳换局",
+          "text": "后妃身份、世子和党派力量一起变化。"
+        },
+        {
+          "date": "1694年",
+          "year": 1694,
+          "title": "甲戌换局",
+          "text": "新的政治联盟重组宫廷。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-gyeongjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜景宗",
+      "personalName": "李昀",
+      "aliases": [
+        "李昀"
+      ],
+      "born": "1688年",
+      "died": "1724年",
+      "birthPlace": "",
+      "family": "肃宗与张禧嫔之子；英祖异母兄。",
+      "reigns": [
+        {
+          "start": 1720,
+          "end": 1724,
+          "label": "1720—1724年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "作为肃宗与张氏之子继位，身体状况和无子嗣使继承成为迫切议题。围绕异母弟延礽君立储与代行政务的争论，老论、少论尖锐对立，辛壬士祸重创一方政治力量。在位四年后去世，关于死因的政治传闻不能当作已证实谋杀。"
+      ],
+      "highlights": [
+        {
+          "date": "1721年",
+          "year": 1721,
+          "title": "继承与代政争议",
+          "text": "王世弟地位成为党争中心。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-yeongjo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜英祖",
+      "personalName": "李昑",
+      "aliases": [
+        "李昑"
+      ],
+      "born": "1694年",
+      "died": "1776年",
+      "birthPlace": "",
+      "family": "肃宗与淑嫔崔氏之子；思悼世子之父、正祖之祖父。",
+      "reigns": [
+        {
+          "start": 1724,
+          "end": 1776,
+          "label": "1724—1776年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在复杂党争中继位，以“荡平”作为调节朝廷派系的重要政治语言，任内推动财政和制度整理。长期统治也发生严重王室悲剧：1762年处置思悼世子，留下持续影响继承和后世评价的问题。其勤政与制度措施、强烈王权及家庭政治的暴力面向，应结合起来观察。"
+      ],
+      "highlights": [
+        {
+          "date": "1750年",
+          "year": 1750,
+          "title": "均役法",
+          "text": "调整军役负担，财政补偿与执行仍需配套。"
+        },
+        {
+          "date": "1762年",
+          "year": 1762,
+          "title": "壬午事变",
+          "text": "思悼世子死亡，王室冲突深刻影响正祖的政治处境。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-jeongjo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜正祖",
+      "personalName": "李祘",
+      "aliases": [
+        "李祘"
+      ],
+      "born": "1752年",
+      "died": "1800年",
+      "birthPlace": "",
+      "family": "思悼世子与惠庆宫洪氏之子，英祖之孙。",
+      "reigns": [
+        {
+          "start": 1776,
+          "end": 1800,
+          "label": "1776—1800年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "思悼世子之子，在父亲之死留下的政治裂痕中继位。通过奎章阁等机构组织学术与人才，试图强化王权并调整官僚联盟，建设水原华城兼有王室纪念、军事和行政意图。改革并非无限制突破，既有派系、社会等级和财政条件始终构成边界。"
+      ],
+      "highlights": [
+        {
+          "date": "1776年",
+          "year": 1776,
+          "title": "继位与奎章阁建设",
+          "text": "借学术和人事安排形成治理网络。"
+        },
+        {
+          "date": "1796年",
+          "year": 1796,
+          "title": "水原华城建成",
+          "text": "城市、军政和王室纪念工程相结合。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-sunjo",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜纯祖",
+      "personalName": "李玜",
+      "aliases": [
+        "李玜"
+      ],
+      "born": "1790年",
+      "died": "1834年",
+      "birthPlace": "",
+      "family": "正祖之子；与安东金氏纯元王后成婚。",
+      "reigns": [
+        {
+          "start": 1800,
+          "end": 1834,
+          "label": "1800—1834年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年幼继位，早期由贞纯王后摄政，随后外戚家门的权势日益显著。安东金氏等势道政治的发展与官僚秩序、税收和社会矛盾相互影响，民众反抗及地方不满不断积累。世子曾参与代行政务，但未能建立持续的改革局面。"
+      ],
+      "highlights": [
+        {
+          "date": "1811年",
+          "year": 1811,
+          "title": "洪景来起义",
+          "text": "地方矛盾和歧视、财政负担等问题汇聚为武装反抗。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-heonjong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜宪宗",
+      "personalName": "李奂",
+      "aliases": [
+        "李奂"
+      ],
+      "born": "1827年",
+      "died": "1849年",
+      "birthPlace": "",
+      "family": "孝明世子之子、纯祖之孙。",
+      "reigns": [
+        {
+          "start": 1834,
+          "end": 1849,
+          "label": "1834—1849年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，由王室长辈和外戚集团主导政局。任期内安东金氏与丰壤赵氏等力量争夺影响，天主教传播与镇压又成为国家秩序和外部接触的一部分。去世时无子，王位从王室旁支另择人继承，显示宫廷继承与家门政治的联系。"
+      ],
+      "highlights": [
+        {
+          "date": "1839年",
+          "year": 1839,
+          "title": "己亥迫害",
+          "text": "天主教徒受到大规模镇压，宗教与对外关系问题交织。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-cheoljong",
+      "regimeId": "wr-joseon",
+      "name": "朝鲜哲宗",
+      "personalName": "李昪",
+      "aliases": [
+        "李昪"
+      ],
+      "born": "1831年",
+      "died": "1864年",
+      "birthPlace": "",
+      "family": "王室旁支恩彦君后裔，与安东金氏哲仁王后成婚。",
+      "reigns": [
+        {
+          "start": 1849,
+          "end": 1864,
+          "label": "1849—1864年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原在江华岛生活，宪宗去世后被选入宫继承王位，早年缺乏治理经验，实际政治长期受外戚集团支配。任内地方社会矛盾持续加重，1862年的民乱显示税收、军役和地方行政危机。其死亡带来又一次旁支继承，高宗登位及大院君执政随之开始。"
+      ],
+      "highlights": [
+        {
+          "date": "1862年",
+          "year": 1862,
+          "title": "壬戌民乱",
+          "text": "地方行政腐败与多重赋役负担激发大范围反抗。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "传统朝鲜纪年常把哲宗末年、高宗即位年列作1863年，农历十二月事件跨入公历1864年；本表年度检索用公历跨年口径。"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-gojong",
+      "regimeId": "wr-joseon",
+      "name": "高宗",
+      "personalName": "李㷩",
+      "aliases": [
+        "李㷩"
+      ],
+      "born": "1852年",
+      "died": "1919年",
+      "birthPlace": "",
+      "family": "兴宣大院君之子，配偶明成皇后闵氏；纯宗之父。",
+      "reigns": [
+        {
+          "start": 1864,
+          "end": 1907,
+          "label": "1864—1907年",
+          "role": "国王／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，早期由父亲兴宣大院君主政；成年后王室与外戚、改革派及外国势力的关系反复变化。开港、壬午军乱、甲申政变、甲午战争与乙未事变不断压缩朝鲜的自主空间。1897年改称大韩帝国并称皇帝，试图维护国家独立。日本在1905年强加保护国安排，1907年又迫使其退位，王室外交并未能阻止主权被剥夺。"
+      ],
+      "highlights": [
+        {
+          "date": "1876年",
+          "year": 1876,
+          "title": "江华条约与开港",
+          "text": "国家进入不平等条约和列强竞争的新局面。"
+        },
+        {
+          "date": "1897年",
+          "year": 1897,
+          "title": "建立大韩帝国",
+          "text": "以皇帝名义重申独立与国家改革。"
+        },
+        {
+          "date": "1907年",
+          "year": 1907,
+          "title": "被迫退位",
+          "text": "海牙密使事件后，日本进一步干预王位与统治。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "传统朝鲜纪年常把哲宗末年、高宗即位年列作1863年，农历十二月事件跨入公历1864年；本表年度检索用公历跨年口径。",
+        "韩国国史编纂委员会提示：高宗、纯宗实录在日本殖民统治时期编纂，记述带有政治偏向，须与其他材料对读。"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-sunjong",
+      "regimeId": "wr-joseon",
+      "name": "纯宗",
+      "personalName": "李坧",
+      "aliases": [
+        "李坧"
+      ],
+      "born": "1874年",
+      "died": "1926年",
+      "birthPlace": "",
+      "family": "高宗与明成皇后之子。",
+      "reigns": [
+        {
+          "start": 1907,
+          "end": 1910,
+          "label": "1907—1910年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在日本控制不断加深的条件下继承大韩帝国皇位，已难以独立行使国家权力。1910年日本吞并韩国，帝国终结，他此后以受日本制度控制的王室身份生活。1926年去世，其葬礼背景与反殖民运动相联系，需区别在位皇帝阶段与亡国后政治象征。"
+      ],
+      "highlights": [
+        {
+          "date": "1910年",
+          "year": 1910,
+          "title": "韩国被日本吞并",
+          "text": "不平等条约与武力控制终结国家主权，不能叙述为自由、自愿的权力转让。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "韩国国史编纂委员会提示：高宗、纯宗实录在日本殖民统治时期编纂，记述带有政治偏向，须与其他材料对读。"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-kr-daewongun",
+      "regimeId": "wr-joseon",
+      "name": "兴宣大院君",
+      "personalName": "李昰应",
+      "aliases": [
+        "李昰应",
+        "大院君"
+      ],
+      "born": "1820年",
+      "died": "1898年",
+      "birthPlace": "",
+      "family": "高宗之父；本人从未作为朝鲜国王正式在位。",
+      "reigns": [
+        {
+          "start": 1864,
+          "end": 1873,
+          "label": "1864—1873年",
+          "role": "实际执政者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼主高宗之父，以大院君身份主导政务，整顿书院和部分财政弊端，重修景福宫也加重社会负担。面对法国、美国等外部武力压力，采取排斥外国进入的政策。1873年后失去主要执政地位，此后仍卷入国内政变和外国干预，1894年的短暂参与不能与早期十年执政合为持续统治。"
+      ],
+      "highlights": [
+        {
+          "date": "1866年",
+          "year": 1866,
+          "title": "丙寅洋扰",
+          "text": "法军与朝鲜交战，排外政策进一步强化。"
+        },
+        {
+          "date": "1873年",
+          "year": 1873,
+          "title": "退出主要执政位置",
+          "text": "高宗及王后集团政治影响上升。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "大院君是王父封号，本人不是朝鲜王朝第28位国王。"
+      ],
+      "sources": [
+        {
+          "title": "韩国国史编纂委员会：《朝鲜王朝实录》",
+          "url": "https://sillok.history.go.kr/intro/english.do",
+          "note": "使用各王实录及解题了解政治过程。高宗、纯宗实录为殖民时期编纂，机构明确提示其偏向与体例差异；不能无批判地等同此前实录。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-ieyasu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家康",
+      "personalName": "德川家康",
+      "aliases": [
+        "徳川家康"
+      ],
+      "born": "1543年",
+      "died": "1616年",
+      "birthPlace": "",
+      "family": "松平广忠之子，原姓松平；秀忠之父。",
+      "reigns": [
+        {
+          "start": 1603,
+          "end": 1605,
+          "label": "1603—1605年",
+          "role": "征夷大将军",
+          "note": ""
+        },
+        {
+          "start": 1605,
+          "end": 1616,
+          "label": "1605—1616年",
+          "role": "大御所／退位后掌权",
+          "note": "与现任将军在位重叠；并非连续担任将军。"
+        }
+      ],
+      "life": [
+        "由三河地方的松平氏领主成长为织田、丰臣政权中的强大大名。丰臣秀吉去世后，在1600年关原之战中胜出，并于1603年获征夷大将军职位。两年后让位秀忠，以大御所身份继续决策，安排诸大名关系、对外贸易及统治制度。1614—1615年大坂之战消灭丰臣家的主要军事力量，幕府的稳定不能只归功于一场战役。"
+      ],
+      "highlights": [
+        {
+          "date": "1600年",
+          "year": 1600,
+          "title": "关原之战",
+          "text": "重组大名联盟，为此后的幕府统治提供基础。"
+        },
+        {
+          "date": "1603年",
+          "year": 1603,
+          "title": "开设幕府",
+          "text": "取得将军职，但制度整合持续到其后。"
+        },
+        {
+          "date": "1615年",
+          "year": 1615,
+          "title": "大坂夏之阵与制度整理",
+          "text": "丰臣家军事力量被消灭，武家诸法度等统治规范相继形成。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。",
+        "生于日本天文十一年十二月，折合公历1543年；部分旧表写1542年。1605年让位后实际掌权至1616年。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-hidetada",
+      "regimeId": "wr-tokugawa",
+      "name": "德川秀忠",
+      "personalName": "德川秀忠",
+      "aliases": [
+        "徳川秀忠"
+      ],
+      "born": "1579年",
+      "died": "1632年",
+      "birthPlace": "",
+      "family": "家康之子，家光与德川和子之父。",
+      "reigns": [
+        {
+          "start": 1605,
+          "end": 1623,
+          "label": "1605—1623年",
+          "role": "征夷大将军",
+          "note": ""
+        },
+        {
+          "start": 1623,
+          "end": 1632,
+          "label": "1623—1632年",
+          "role": "大御所／退位后掌权",
+          "note": "与现任将军在位重叠；并非连续担任将军。"
+        }
+      ],
+      "life": [
+        "作为家康继承人接任将军，初期与父亲的大御所政权共同运作。家康去世后继续整顿大名与朝廷关系，通过改易、转封和制度控制巩固德川家。1623年让位家光后仍以大御所身份参与统治，正式在职年与实际政治影响的终点并不相同。"
+      ],
+      "highlights": [
+        {
+          "date": "1623年",
+          "year": 1623,
+          "title": "让位家光",
+          "text": "以父子两代合作的方式继续稳定继承。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-iemitsu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家光",
+      "personalName": "德川家光",
+      "aliases": [
+        "徳川家光"
+      ],
+      "born": "1604年",
+      "died": "1651年",
+      "birthPlace": "",
+      "family": "秀忠之子；家纲、纲吉之父。",
+      "reigns": [
+        {
+          "start": 1623,
+          "end": 1651,
+          "label": "1623—1651年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在父祖建立的体制上扩大幕府对诸大名和对外往来的控制。参勤交代制度固定化，基督教镇压与岛原天草起义后的政策重组，构成其统治的重要背景。所谓“锁国”并非完全没有对外交流，长崎、对马、萨摩和松前等渠道仍各有制度安排。"
+      ],
+      "highlights": [
+        {
+          "date": "1635年",
+          "year": 1635,
+          "title": "参勤交代制度化",
+          "text": "大名按规定在领地与江户往返，增加幕府控制。"
+        },
+        {
+          "date": "1637年",
+          "year": 1637,
+          "title": "岛原天草起义",
+          "text": "镇压与对宗教、贸易的限制相互推动。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-ietsuna",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家纲",
+      "personalName": "德川家纲",
+      "aliases": [
+        "徳川家纲"
+      ],
+      "born": "1641年",
+      "died": "1680年",
+      "birthPlace": "",
+      "family": "家光之子。",
+      "reigns": [
+        {
+          "start": 1651,
+          "end": 1680,
+          "label": "1651—1680年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年幼继任将军，早期依赖老中及家臣共同处理政务。明历大火后的江户重建、禁止殉死和大名继承政策调整，反映统治从军事征服向日常制度治理的转变。其个人决策与集体行政不能混为一谈，稳定统治也依靠幕府既成官僚网络。"
+      ],
+      "highlights": [
+        {
+          "date": "1657年",
+          "year": 1657,
+          "title": "明历大火后重建",
+          "text": "城市防火、空间和社会管理成为重要问题。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-tsunayoshi",
+      "regimeId": "wr-tokugawa",
+      "name": "德川纲吉",
+      "personalName": "德川纲吉",
+      "aliases": [
+        "徳川纲吉"
+      ],
+      "born": "1646年",
+      "died": "1709年",
+      "birthPlace": "",
+      "family": "家光之子、家纲异母弟。",
+      "reigns": [
+        {
+          "start": 1680,
+          "end": 1709,
+          "label": "1680—1709年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为馆林藩主，兄长家纲无嗣后继任。重视儒学与礼制，任内元禄文化繁荣，财政与货币政策也产生长期影响。生类怜悯令涉及生命保护与社会管束，执行严苛带来负担，后世“犬公方”的标签不能代替对其内容和制度环境的考察。"
+      ],
+      "highlights": [
+        {
+          "date": "1680年",
+          "year": 1680,
+          "title": "由旁支进入将军家",
+          "text": "继承安排显示将军家并非始终父子直传。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-ienobu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家宣",
+      "personalName": "德川家宣",
+      "aliases": [
+        "徳川家宣"
+      ],
+      "born": "1662年",
+      "died": "1712年",
+      "birthPlace": "",
+      "family": "德川纲重之子、家光之孙；家继之父。",
+      "reigns": [
+        {
+          "start": 1709,
+          "end": 1712,
+          "label": "1709—1712年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为甲府藩主，作为纲吉养子继承将军职位。起用间部诠房和新井白石，调整前任部分政策，后世以“正德之治”概括相关政治方向。其在位仅数年，改革的实施和延续还需要结合幼子家继时期的辅政集团观察。"
+      ],
+      "highlights": [
+        {
+          "date": "1709年",
+          "year": 1709,
+          "title": "正德政治的开端",
+          "text": "以既有家臣和学者组织新的政策班底。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-ietsugu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家继",
+      "personalName": "德川家继",
+      "aliases": [
+        "徳川家继"
+      ],
+      "born": "1709年",
+      "died": "1716年",
+      "birthPlace": "",
+      "family": "家宣之子，幼年无嗣。",
+      "reigns": [
+        {
+          "start": 1713,
+          "end": 1716,
+          "label": "1713—1716年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继承将军职，政务主要由间部诠房、新井白石等人处理。任内继续前期政策调整，包括对贸易与财政的管理，但不能把这些全部描述为幼主亲自筹划。在位不足四年即去世，德川将军继承转向纪州支系的吉宗。"
+      ],
+      "highlights": [
+        {
+          "date": "1716年",
+          "year": 1716,
+          "title": "幼主去世与旁支继承",
+          "text": "纪州德川家出身的吉宗继任，改换执政班底。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-yoshimune",
+      "regimeId": "wr-tokugawa",
+      "name": "德川吉宗",
+      "personalName": "德川吉宗",
+      "aliases": [
+        "徳川吉宗"
+      ],
+      "born": "1684年",
+      "died": "1751年",
+      "birthPlace": "",
+      "family": "纪州德川家出身；家重之父。",
+      "reigns": [
+        {
+          "start": 1716,
+          "end": 1745,
+          "label": "1716—1745年",
+          "role": "征夷大将军",
+          "note": ""
+        },
+        {
+          "start": 1745,
+          "end": 1751,
+          "label": "1745—1751年",
+          "role": "大御所／退位后影响政务",
+          "note": "与现任将军在位重叠；并非连续担任将军。"
+        }
+      ],
+      "life": [
+        "由纪州藩进入将军家，推动享保改革，整顿财政、米价、诉讼和行政，也鼓励部分知识与技术输入。节俭、增收和开垦政策回应幕府财政困境，但农民负担和商品经济的变化并不能由单一改革解决。1745年让位后仍以大御所身份影响政治，长期统治包含正式在职与退任后两段。"
+      ],
+      "highlights": [
+        {
+          "date": "1716年",
+          "year": 1716,
+          "title": "享保改革",
+          "text": "财政、行政与司法调整长期展开。"
+        },
+        {
+          "date": "1742年",
+          "year": 1742,
+          "title": "《公事方御定书》",
+          "text": "整理司法和行政规则，不能等同现代平等法制。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-ieshige",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家重",
+      "personalName": "德川家重",
+      "aliases": [
+        "徳川家重"
+      ],
+      "born": "1712年",
+      "died": "1761年",
+      "birthPlace": "",
+      "family": "吉宗之子，家治之父。",
+      "reigns": [
+        {
+          "start": 1745,
+          "end": 1760,
+          "label": "1745—1760年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "接任时父亲吉宗仍作为大御所参与政治，因此前期权力不是完全独立的。其在位后期田沼意次等人逐渐进入重要位置，幕府继续面对财政和商业社会的治理问题。关于身体或语言障碍的传闻不应被直接用作缺乏治理能力的诊断。"
+      ],
+      "highlights": [
+        {
+          "date": "1760年",
+          "year": 1760,
+          "title": "让位家治",
+          "text": "将军职位再度进行父子交接。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-ieharu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家治",
+      "personalName": "德川家治",
+      "aliases": [
+        "徳川家治"
+      ],
+      "born": "1737年",
+      "died": "1786年",
+      "birthPlace": "",
+      "family": "家重之子；直系继承人先去世，职位转由一桥家出身的家齐。",
+      "reigns": [
+        {
+          "start": 1760,
+          "end": 1786,
+          "label": "1760—1786年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在位时期田沼意次长期参与政务，商业课税、货币与对外贸易议题受到重视。天明饥荒和社会不满加重，田沼政治随后在继承变化中被清算。不能把此期所有政策简单归为贪腐，也不能忽略官僚利益与灾荒中的实际失政。"
+      ],
+      "highlights": [
+        {
+          "date": "1780年",
+          "year": 1780,
+          "title": "田沼政治与财政议题",
+          "text": "商业发展与幕府财政利益更加紧密地联系。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-ienari",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家齐",
+      "personalName": "德川家齐",
+      "aliases": [
+        "徳川家齐"
+      ],
+      "born": "1773年",
+      "died": "1841年",
+      "birthPlace": "",
+      "family": "一桥德川治济之子；家庆之父。",
+      "reigns": [
+        {
+          "start": 1787,
+          "end": 1837,
+          "label": "1787—1837年",
+          "role": "征夷大将军",
+          "note": ""
+        },
+        {
+          "start": 1837,
+          "end": 1841,
+          "label": "1837—1841年",
+          "role": "大御所／退位后掌权",
+          "note": "与现任将军在位重叠；并非连续担任将军。"
+        }
+      ],
+      "life": [
+        "由一桥支系进入将军家，初期松平定信推行宽政改革，随后政治风格与权力网络又发生变化。五十年正式在位横跨文化繁荣、社会分化和财政压力加深的时期。让位家庆后仍为大御所，王朝式的家族安排与幕府行政之间不断相互影响。"
+      ],
+      "highlights": [
+        {
+          "date": "1787年",
+          "year": 1787,
+          "title": "宽政改革开始",
+          "text": "松平定信主导财政、社会与思想管束。"
+        },
+        {
+          "date": "1837年",
+          "year": 1837,
+          "title": "退任后继续保持影响",
+          "text": "正式任职结束而政治权势未立即消失。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-ieyoshi",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家庆",
+      "personalName": "德川家庆",
+      "aliases": [
+        "徳川家庆"
+      ],
+      "born": "1793年",
+      "died": "1853年",
+      "birthPlace": "",
+      "family": "家齐之子，家定之父。",
+      "reigns": [
+        {
+          "start": 1837,
+          "end": 1853,
+          "label": "1837—1853年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位后仍受家齐大御所政权影响，后来面对天保改革及其失败。1853年佩里率美国舰队来到日本，迫使幕府回应开港要求，家庆不久去世，决策压力留给继承者。其任内国内财政和社会管理问题，与外部军事压力同时存在。"
+      ],
+      "highlights": [
+        {
+          "date": "1853年",
+          "year": 1853,
+          "title": "佩里来航",
+          "text": "对外体制受到武力压力，幕府寻求朝廷及诸藩意见。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-iesada",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家定",
+      "personalName": "德川家定",
+      "aliases": [
+        "徳川家定"
+      ],
+      "born": "1824年",
+      "died": "1858年",
+      "birthPlace": "",
+      "family": "家庆之子，配偶包括笃姬；无嗣，家茂继任。",
+      "reigns": [
+        {
+          "start": 1853,
+          "end": 1858,
+          "label": "1853—1858年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在外部开港压力下继任，健康状况与无子使继承成为重大政治问题。1854年日美和亲条约和1858年通商条约的谈判，主要由幕府官员推动，而朝廷许可及将军继嗣争论使政治分裂加剧。把开国一概归于将军个人意志，会掩盖复杂的决策结构。"
+      ],
+      "highlights": [
+        {
+          "date": "1854年",
+          "year": 1854,
+          "title": "日美和亲条约",
+          "text": "开放有限港口，后续通商条约进一步改变体制。"
+        },
+        {
+          "date": "1858年",
+          "year": 1858,
+          "title": "继承与通商争议",
+          "text": "政治清洗和幕府合法性危机加深。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-iemochi",
+      "regimeId": "wr-tokugawa",
+      "name": "德川家茂",
+      "personalName": "德川家茂",
+      "aliases": [
+        "徳川家茂"
+      ],
+      "born": "1846年",
+      "died": "1866年",
+      "birthPlace": "",
+      "family": "纪州德川家出身，配偶和宫亲子内亲王。",
+      "reigns": [
+        {
+          "start": 1858,
+          "end": 1866,
+          "label": "1858—1866年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为纪州藩主，年少被选为将军继承人。与孝明天皇之妹和宫成婚，是公武合体政策的一部分；然而尊王攘夷、开港与诸藩军事对立仍不断升级。幕府讨伐长州时遭遇困难，他在大坂去世，统治危机未能缓解。"
+      ],
+      "highlights": [
+        {
+          "date": "1862年",
+          "year": 1862,
+          "title": "公武合体婚姻",
+          "text": "以王室联姻尝试加强朝幕政治合作。"
+        },
+        {
+          "date": "1866年",
+          "year": 1866,
+          "title": "长州战争中的政权危机",
+          "text": "幕府军事与政治威信受挫，家茂去世。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-jp-yoshinobu",
+      "regimeId": "wr-tokugawa",
+      "name": "德川庆喜",
+      "personalName": "德川庆喜",
+      "aliases": [
+        "徳川庆喜"
+      ],
+      "born": "1837年",
+      "died": "1913年",
+      "birthPlace": "",
+      "family": "水户德川齐昭之子，后入一桥家。",
+      "reigns": [
+        {
+          "start": 1867,
+          "end": 1868,
+          "label": "1867—1868年",
+          "role": "征夷大将军",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身水户德川家，成为一桥家继承人，长期参与幕末政治。家茂死后继承宗家并获将军职，试图调整军制、外交和政治结构。1867年大政奉还并未立即解决权力归属，次年的戊辰战争最终终结幕府政治。此后退居，晚年获公爵身份，不再是统治日本的将军。"
+      ],
+      "highlights": [
+        {
+          "date": "1867年",
+          "year": 1867,
+          "title": "大政奉还",
+          "text": "把政务交还朝廷是政治重组的一步，而非当日所有旧势力即消失。"
+        },
+        {
+          "date": "1868年",
+          "year": 1868,
+          "title": "戊辰战争与退出政治中心",
+          "text": "幕府军事失败后进入退居阶段。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "日本旧历年份与公历转换可能跨年；任职与退任后的实际权力分开理解。",
+        "旧历庆应二年十二月就将军职，对应公历1867年1月；旧历庆应三年十二月的王政复古跨入公历1868年。常见年表写1866—1867年，属于旧历年号口径。"
+      ],
+      "sources": [
+        {
+          "title": "茨城县立历史馆：德川庆喜与历代将军",
+          "url": "https://www.rekishikan.museum.ibk.ed.jp/06_jiten/tokugawa/15dai.htm",
+          "note": "馆方列出十五代将军的任职次序与起讫；旧历跨公历年另作说明。"
+        },
+        {
+          "title": "江户东京博物馆：德川将军家",
+          "url": "https://www.edo-tokyo-museum.or.jp/s-exhibition/house-of-tokugawa/",
+          "note": "将军权力与德川宗家家督不同。庆喜以后宗家仍传承，并不意味着仍有第十六代幕府将军。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-babur",
+      "regimeId": "wr-mughal",
+      "name": "巴布尔",
+      "personalName": "巴布尔",
+      "aliases": [],
+      "born": "1483年",
+      "died": "1530年",
+      "birthPlace": "",
+      "family": "胡马雍之父。",
+      "reigns": [
+        {
+          "start": 1526,
+          "end": 1530,
+          "label": "1526—1530年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "帖木儿家族后裔，青年时在中亚反复争夺地盘，后来以喀布尔为基地转向印度。1526年帕尼帕特胜利打开建国道路，随后继续击败地方对手。其回忆录记录战争、政治与对自然和城市的观察；它既是重要个人文献，也需结合作者的自我塑造阅读。"
+      ],
+      "highlights": [
+        {
+          "date": "1526年",
+          "year": 1526,
+          "title": "第一次帕尼帕特战役",
+          "text": "击败德里苏丹易卜拉欣·洛迪，建立新的帝国基础。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-humayun",
+      "regimeId": "wr-mughal",
+      "name": "胡马雍",
+      "personalName": "胡马雍",
+      "aliases": [],
+      "born": "1508年",
+      "died": "1556年",
+      "birthPlace": "",
+      "family": "巴布尔之子、阿克巴之父。",
+      "reigns": [
+        {
+          "start": 1530,
+          "end": 1540,
+          "label": "1530—1540年",
+          "role": "皇帝",
+          "note": "第一段统治"
+        },
+        {
+          "start": 1555,
+          "end": 1556,
+          "label": "1555—1556年",
+          "role": "皇帝",
+          "note": "复位；1540—1555年不计连续在位"
+        }
+      ],
+      "life": [
+        "继承父亲的新兴帝国，却受到亲族争权和阿富汗势力挑战。1540年败于舍尔沙后流亡，经伊朗等地寻求支持，逐步收复喀布尔并于1555年重返德里。复位不久意外去世，留下幼子阿克巴；他的流亡与重建经历也加强了宫廷同波斯文化的联系。"
+      ],
+      "highlights": [
+        {
+          "date": "1540年",
+          "year": 1540,
+          "title": "失去印度统治",
+          "text": "苏尔王朝取得主导，帝国主线中断。"
+        },
+        {
+          "date": "1555年",
+          "year": 1555,
+          "title": "收复德里",
+          "text": "通过重组军事和政治资源恢复统治。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-akbar",
+      "regimeId": "wr-mughal",
+      "name": "阿克巴",
+      "personalName": "阿克巴",
+      "aliases": [],
+      "born": "1542年",
+      "died": "1605年",
+      "birthPlace": "",
+      "family": "胡马雍之子、贾汉吉尔之父。",
+      "reigns": [
+        {
+          "start": 1556,
+          "end": 1605,
+          "label": "1556—1605年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继承皇位，早期依赖拜拉姆汗辅政，亲政后持续扩大统治。通过军政等级、税收与地方协作把不同地区的精英纳入帝国，并与拉其普特诸侯建立多种联盟。宫廷展开宗教辩论和翻译活动，显示其应对多信仰社会的治理尝试。宽容并不意味着没有征服暴力，帝国也并非完全由君主个人意志掌控。"
+      ],
+      "highlights": [
+        {
+          "date": "1556年",
+          "year": 1556,
+          "title": "第二次帕尼帕特战役",
+          "text": "早期政权在辅政集团支持下稳住北印度。"
+        },
+        {
+          "date": "1560年",
+          "year": 1560,
+          "title": "摆脱主要辅政者控制",
+          "text": "逐步确立本人对宫廷和军事的主导。"
+        },
+        {
+          "date": "1580年",
+          "year": 1580,
+          "title": "行政与宗教探索",
+          "text": "财政整理、地方精英合作与信仰政策持续调整。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-jahangir",
+      "regimeId": "wr-mughal",
+      "name": "贾汉吉尔",
+      "personalName": "贾汉吉尔",
+      "aliases": [],
+      "born": "1569年",
+      "died": "1627年",
+      "birthPlace": "",
+      "family": "阿克巴之子；沙贾汗之父，配偶努尔贾汗。",
+      "reigns": [
+        {
+          "start": 1605,
+          "end": 1627,
+          "label": "1605—1627年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原名萨利姆，曾与父亲阿克巴发生政治冲突，继位后面对皇子叛乱与继承问题。宫廷绘画和自然观察受到重视，皇后努尔贾汗及其亲族也深刻参与政治。皇帝的回忆录既呈现个人品味，也需与宫廷联盟和战争背景对读。其去世后，多名继承候选人的竞争迅速展开。"
+      ],
+      "highlights": [
+        {
+          "date": "1611年",
+          "year": 1611,
+          "title": "努尔贾汗进入权力核心",
+          "text": "王室婚姻与亲族网络影响宫廷人事及继承。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-dawar",
+      "regimeId": "wr-mughal",
+      "name": "达瓦尔·巴赫什",
+      "personalName": "达瓦尔·巴赫什",
+      "aliases": [],
+      "born": "1607年",
+      "died": "1628年",
+      "birthPlace": "",
+      "family": "贾汉吉尔之孙、胡斯劳之子。",
+      "reigns": [
+        {
+          "start": 1627,
+          "end": 1628,
+          "label": "1627—1628年",
+          "role": "争位／短暂拥立的皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "贾汉吉尔去世后的继承危机中被暂时拥立，权力依靠拥立他的宫廷集团，未能形成稳固独立统治。沙贾汗一方获胜后，他与其他潜在竞争者遭清除。短暂拥立显示帝位交接需要军事与亲族联盟支持，不能只看父子谱系。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "年表同时保留争位者，因此同年存在多位并不自动意味着和平共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-shahjahan",
+      "regimeId": "wr-mughal",
+      "name": "沙贾汗",
+      "personalName": "沙贾汗",
+      "aliases": [],
+      "born": "1592年",
+      "died": "1666年",
+      "birthPlace": "",
+      "family": "贾汉吉尔之子；妻穆姆塔兹·玛哈尔，诸子包括达拉、沙舒贾、穆拉德与奥朗则布。",
+      "reigns": [
+        {
+          "start": 1628,
+          "end": 1658,
+          "label": "1628—1658年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原名胡拉姆，经继承战争取得皇位，统治时期宫廷建筑、工艺与皇权表达发展显著。为亡妻穆姆塔兹·玛哈尔建造泰姬陵，是其最著名的纪念工程。晚年疾病引发诸子争位，奥朗则布获胜后将他软禁于阿格拉；1658年丧失权力与1666年去世必须区分。"
+      ],
+      "highlights": [
+        {
+          "date": "1632年",
+          "year": 1632,
+          "title": "泰姬陵工程展开",
+          "text": "王室纪念、工艺网络与国家资源在建筑中结合。"
+        },
+        {
+          "date": "1658年",
+          "year": 1658,
+          "title": "继承战争后被废黜",
+          "text": "权力转向奥朗则布，本人继续被软禁多年。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-aurangzeb",
+      "regimeId": "wr-mughal",
+      "name": "奥朗则布",
+      "personalName": "奥朗则布",
+      "aliases": [],
+      "born": "1618年",
+      "died": "1707年",
+      "birthPlace": "",
+      "family": "沙贾汗之子，巴哈杜尔沙一世之父。",
+      "reigns": [
+        {
+          "start": 1658,
+          "end": 1707,
+          "label": "1658—1707年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在皇位争夺中击败兄弟并控制父亲，长期进行德干战争，使帝国版图扩大，也消耗财政与军力。宗教与行政政策较前代更强调伊斯兰正统，恢复吉兹亚等措施激化部分关系，但地方政治并不能仅以宗教划线。马拉塔、锡克及其他区域力量的兴起，与漫长战争和地方统治结构共同塑造后期危机。"
+      ],
+      "highlights": [
+        {
+          "date": "1658年",
+          "year": 1658,
+          "title": "夺取皇位",
+          "text": "继承战争重组王室与军政联盟。"
+        },
+        {
+          "date": "1679年",
+          "year": 1679,
+          "title": "恢复吉兹亚税",
+          "text": "宗教政策成为统治争议的重要部分。"
+        },
+        {
+          "date": "1686年",
+          "year": 1686,
+          "title": "德干扩张",
+          "text": "征服比贾布尔等国，但长年战事扩大财政和补给压力。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-bahadur1",
+      "regimeId": "wr-mughal",
+      "name": "巴哈杜尔沙一世",
+      "personalName": "巴哈杜尔沙一世",
+      "aliases": [],
+      "born": "1643年",
+      "died": "1712年",
+      "birthPlace": "",
+      "family": "奥朗则布之子。",
+      "reigns": [
+        {
+          "start": 1707,
+          "end": 1712,
+          "label": "1707—1712年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "奥朗则布去世后通过继承战争取得皇位，试图调整与拉其普特、马拉塔和锡克力量的关系。各地军事集团与地方权势已相当强大，短暂统治未能恢复此前的集权格局。其死后诸子再度争位，帝国中心的政治不稳定继续加深。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-jahandar",
+      "regimeId": "wr-mughal",
+      "name": "贾汉达尔沙",
+      "personalName": "贾汉达尔沙",
+      "aliases": [],
+      "born": "1661年",
+      "died": "1713年",
+      "birthPlace": "",
+      "family": "巴哈杜尔沙一世之子。",
+      "reigns": [
+        {
+          "start": 1712,
+          "end": 1713,
+          "label": "1712—1713年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在巴哈杜尔沙一世去世后的争位中获胜，倚重有力大臣，宫廷联盟成为维持皇位的关键。统治不足一年便被法鲁克锡亚一方推翻，随后被杀。其短暂任期显示皇帝与拥立军事集团的依赖关系日益明显。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-farrukh",
+      "regimeId": "wr-mughal",
+      "name": "法鲁克锡亚",
+      "personalName": "法鲁克锡亚",
+      "aliases": [],
+      "born": "1685年",
+      "died": "1719年",
+      "birthPlace": "",
+      "family": "巴哈杜尔沙一世之孙。",
+      "reigns": [
+        {
+          "start": 1713,
+          "end": 1719,
+          "label": "1713—1719年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "借赛义德兄弟等人的支持夺取皇位，随后又试图摆脱拥立者控制，双方冲突最终使其被废黜和杀害。任内给予英国东印度公司的特许与商业便利产生长期影响，但殖民扩张并非一份诏令便自动完成。"
+      ],
+      "highlights": [
+        {
+          "date": "1717年",
+          "year": 1717,
+          "title": "东印度公司取得特许",
+          "text": "公司商业、税收和地方权力的关系进一步变化。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-rafi",
+      "regimeId": "wr-mughal",
+      "name": "拉菲·乌德·达拉贾特",
+      "personalName": "拉菲·乌德·达拉贾特",
+      "aliases": [],
+      "born": "1699年",
+      "died": "1719年",
+      "birthPlace": "",
+      "family": "莫卧儿王室成员。",
+      "reigns": [
+        {
+          "start": 1719,
+          "end": 1719,
+          "label": "1719—1719年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "法鲁克锡亚被废后，赛义德兄弟拥立的年轻皇帝，实际决策受制于强势大臣。其在位仅数月，疾病与宫廷继承安排使皇位很快再次转移。将他写成1713年即位，会把法鲁克锡亚的六年任期错误覆盖。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "拉菲·乌德·达拉贾特只在1719年短暂在位；馆方旧页1713—1719的起年与法鲁克锡亚条目冲突，本版不照抄。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-shahjahan2",
+      "regimeId": "wr-mughal",
+      "name": "沙贾汗二世",
+      "personalName": "沙贾汗二世",
+      "aliases": [],
+      "born": "1696年",
+      "died": "1719年",
+      "birthPlace": "",
+      "family": "拉菲·乌德·达拉贾特的兄长。",
+      "reigns": [
+        {
+          "start": 1719,
+          "end": 1719,
+          "label": "1719—1719年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在拉菲·乌德·达拉贾特去世后被拥立，同样处于赛义德兄弟控制之下。在位仅数月即去世，1719年内多次换帝反映权力中心的分裂，而不是数位皇帝各自建立了成熟施政体系。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-nikusiyar",
+      "regimeId": "wr-mughal",
+      "name": "尼库锡亚尔",
+      "personalName": "尼库锡亚尔",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版尚未核定",
+      "birthPlace": "",
+      "family": "莫卧儿王室成员。",
+      "reigns": [
+        {
+          "start": 1719,
+          "end": 1719,
+          "label": "1719—1719年",
+          "role": "争位／短暂拥立的皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "1719年宫廷更迭期间在阿格拉被对立集团拥立为皇帝，控制范围有限，很快遭镇压和监禁。其名号应作为争位条目保留，不与在德里获主要承认的皇帝合成单一连续序列。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "年表同时保留争位者，因此同年存在多位并不自动意味着和平共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-muhammad",
+      "regimeId": "wr-mughal",
+      "name": "穆罕默德沙",
+      "personalName": "穆罕默德沙",
+      "aliases": [],
+      "born": "1702年",
+      "died": "1748年",
+      "birthPlace": "",
+      "family": "莫卧儿王室成员。",
+      "reigns": [
+        {
+          "start": 1719,
+          "end": 1748,
+          "label": "1719—1748年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在1719年的多次更迭后即位，后来摆脱赛义德兄弟主导，但区域势力扩大使中央控制继续减弱。宫廷艺术和音乐发展，与政治军事衰退同时存在。1739年纳迪尔沙进攻并洗劫德里，成为帝国声望与财政的沉重打击。"
+      ],
+      "highlights": [
+        {
+          "date": "1739年",
+          "year": 1739,
+          "title": "纳迪尔沙进攻德里",
+          "text": "屠杀与掠夺重创都城和皇权威信。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-ibrahim",
+      "regimeId": "wr-mughal",
+      "name": "易卜拉欣",
+      "personalName": "易卜拉欣",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版尚未核定",
+      "birthPlace": "",
+      "family": "莫卧儿宗室。",
+      "reigns": [
+        {
+          "start": 1720,
+          "end": 1720,
+          "label": "1720—1720年",
+          "role": "争位／短暂拥立的皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "赛义德集团在与穆罕默德沙对立时另立的皇帝，实际控制区域和支持均有限。随着拥立集团失败，其争位也随之结束。此人列作短暂争位者，不能把1720年同时出现的不同名号解释为和平、顺序交接。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "年表同时保留争位者，因此同年存在多位并不自动意味着和平共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-ahmad",
+      "regimeId": "wr-mughal",
+      "name": "艾哈迈德沙·巴哈杜尔",
+      "personalName": "艾哈迈德沙·巴哈杜尔",
+      "aliases": [],
+      "born": "1725年",
+      "died": "1775年",
+      "birthPlace": "",
+      "family": "穆罕默德沙之子。",
+      "reigns": [
+        {
+          "start": 1748,
+          "end": 1754,
+          "label": "1748—1754年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承穆罕默德沙的皇位，依赖宫廷近臣与家族势力，在阿富汗入侵和地方权力竞争中难以稳定局势。1754年被权臣废黜并致盲，后来仍生活多年。退位年与卒年不同，不能把他在1754年后继续存活的时间算入统治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-alamgir2",
+      "regimeId": "wr-mughal",
+      "name": "阿拉姆吉尔二世",
+      "personalName": "阿拉姆吉尔二世",
+      "aliases": [],
+      "born": "1699年",
+      "died": "1759年",
+      "birthPlace": "",
+      "family": "贾汉达尔沙之子；沙阿拉姆二世之父。",
+      "reigns": [
+        {
+          "start": 1754,
+          "end": 1759,
+          "label": "1754—1759年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在前帝被废后由权臣拥立，年长却缺乏稳固军事基础，宫廷权力主要由他人争夺。阿富汗、马拉塔与北印度地方集团之间的战争，使名义皇帝的处境更加脆弱。1759年遭谋杀，继承再次陷入分裂。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-shahjahan3",
+      "regimeId": "wr-mughal",
+      "name": "沙贾汗三世",
+      "personalName": "沙贾汗三世",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版尚未核定",
+      "birthPlace": "",
+      "family": "莫卧儿宗室。",
+      "reigns": [
+        {
+          "start": 1759,
+          "end": 1760,
+          "label": "1759—1760年",
+          "role": "争位／短暂拥立的皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "阿拉姆吉尔二世遇害后由权臣拥立，实际权力和承认范围有限，旋即被废黜。其短暂在位与沙阿拉姆二世的主张重叠，属于后期帝国政治分裂的表现。生卒与其他个人资料本版尚未逐项核定，不据在位末年推定死亡。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "年表同时保留争位者，因此同年存在多位并不自动意味着和平共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-shahalam2",
+      "regimeId": "wr-mughal",
+      "name": "沙阿拉姆二世",
+      "personalName": "沙阿拉姆二世",
+      "aliases": [],
+      "born": "1728年",
+      "died": "1806年",
+      "birthPlace": "",
+      "family": "阿拉姆吉尔二世之子。",
+      "reigns": [
+        {
+          "start": 1759,
+          "end": 1788,
+          "label": "1759—1788年",
+          "role": "皇帝（多阶段仅具名义权力）",
+          "note": "早期长期不在德里"
+        },
+        {
+          "start": 1788,
+          "end": 1806,
+          "label": "1788—1806年",
+          "role": "复位的名义皇帝",
+          "note": "同年曾被废黜，复位后依赖外部军事力量"
+        }
+      ],
+      "life": [
+        "在德里之外主张皇位，长期辗转于地方军事集团和英国东印度公司之间。1764年布克萨尔战败后，与公司订立安排，1765年的迪瓦尼权授予改变孟加拉财政与政治结构。1788年被废并致盲，后来恢复名义皇位，1803年德里又受英国控制。"
+      ],
+      "highlights": [
+        {
+          "date": "1765年",
+          "year": 1765,
+          "title": "东印度公司取得迪瓦尼权",
+          "text": "公司获得孟加拉等地财政权力，皇帝名义与实际统治进一步分离。"
+        },
+        {
+          "date": "1788年",
+          "year": 1788,
+          "title": "被废与复位",
+          "text": "宫廷暴力与外部军事保护决定其处境。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-bidar",
+      "regimeId": "wr-mughal",
+      "name": "比达尔·巴赫特",
+      "personalName": "比达尔·巴赫特",
+      "aliases": [],
+      "born": "本版尚未核定",
+      "died": "本版尚未核定",
+      "birthPlace": "",
+      "family": "莫卧儿宗室。",
+      "reigns": [
+        {
+          "start": 1788,
+          "end": 1788,
+          "label": "1788—1788年",
+          "role": "争位／短暂拥立的皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "沙阿拉姆二世被控制时，古拉姆·卡迪尔集团拥立的短暂皇帝。马拉塔力量介入并恢复旧帝地位后，其在位结束。这类条目有助于显示政治权力已不在皇帝本人手中，不应因在位短便从承继信息中抹去。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "年表同时保留争位者，因此同年存在多位并不自动意味着和平共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-akbar2",
+      "regimeId": "wr-mughal",
+      "name": "阿克巴二世",
+      "personalName": "阿克巴二世",
+      "aliases": [],
+      "born": "1760年",
+      "died": "1837年",
+      "birthPlace": "",
+      "family": "沙阿拉姆二世之子；巴哈杜尔沙二世之父。",
+      "reigns": [
+        {
+          "start": 1806,
+          "end": 1837,
+          "label": "1806—1837年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在英国已经控制德里的背景下继承名义皇位，实际统治受到公司制度限制。宫廷文化、宗教与象征权威仍然存在，但其财政和政治自主性有限。与东印度公司围绕待遇与身份的交涉，反映名义帝国权威逐渐被殖民权力取代。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-in-bahadur2",
+      "regimeId": "wr-mughal",
+      "name": "巴哈杜尔沙二世",
+      "personalName": "巴哈杜尔沙二世",
+      "aliases": [],
+      "born": "1775年",
+      "died": "1862年",
+      "birthPlace": "",
+      "family": "阿克巴二世之子，亦称扎法尔。",
+      "reigns": [
+        {
+          "start": 1837,
+          "end": 1858,
+          "label": "1837—1858年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以“扎法尔”为诗名，继承的是英国控制下的名义皇位，而非早期莫卧儿式的广域统治。1857年印度起义者进入德里后，以他作为政治象征，但起义并无完全统一的指挥。英军夺回德里后审判并流放他，王朝被废，他在仰光去世。"
+      ],
+      "highlights": [
+        {
+          "date": "1857年",
+          "year": 1857,
+          "title": "起义中的皇帝象征",
+          "text": "不同反抗力量借皇帝名义寻求政治合法性。"
+        },
+        {
+          "date": "1858年",
+          "year": 1858,
+          "title": "废黜与流放",
+          "text": "莫卧儿皇位终结，本人晚年在仰光度过。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：南亚苏丹与莫卧儿王朝年表",
+          "url": "https://www.metmuseum.org/toah/hd/ssar/hd_ssar.htm",
+          "note": "馆方表用于顺序参照。拉菲·乌德·达拉贾特在位为1719年，原页1713—1719为显误；分支争位及复位另标。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-mentuhotep2",
+      "regimeId": "wr-egypt-middle",
+      "name": "孟图霍特普二世",
+      "personalName": "孟图霍特普二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "在位先为区域统治者，约前2030年后成为统一埃及的君主。",
+      "reigns": [
+        {
+          "start": -2051,
+          "end": -2000,
+          "label": "约前2051—前2000年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以底比斯为基础逐步击败北方对手，完成埃及重新统一，通常被视为中王国开端的关键人物。其代尔巴哈里纪念建筑将王权、神庙与葬祭结合；统一是在军事、地方整合和制度建设中逐步实现，不是单一年份全国立即稳定。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-mentuhotep3",
+      "regimeId": "wr-egypt-middle",
+      "name": "孟图霍特普三世",
+      "personalName": "孟图霍特普三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "孟图霍特普二世的继承者。",
+      "reigns": [
+        {
+          "start": -2000,
+          "end": -1988,
+          "label": "约前2000—前1988年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承统一后的国家，组织通往红海及远方的资源和贸易活动。保存下来的铭文与建筑资料有助于了解王室如何维持交通和行政，而不能把每一项国家行动都解释为君主本人亲临。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-mentuhotep4",
+      "regimeId": "wr-egypt-middle",
+      "name": "孟图霍特普四世",
+      "personalName": "孟图霍特普四世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "王朝更替处的个人家世与继承细节存在材料空缺。",
+      "reigns": [
+        {
+          "start": -1988,
+          "end": -1981,
+          "label": "约前1988—前1981年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第十一王朝后段统治者，瓦迪哈马马特采石活动的铭文保留其政权信息。大臣阿蒙涅姆赫特参与相关活动，后来第十二王朝建立；两者之间具体权力交接方式仍有讨论，不宜直接写成已证实的宫廷谋杀。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-amenemhat1",
+      "regimeId": "wr-egypt-middle",
+      "name": "阿蒙涅姆赫特一世",
+      "personalName": "阿蒙涅姆赫特一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十二王朝的建立者；塞努斯雷特一世之父。",
+      "reigns": [
+        {
+          "start": -1981,
+          "end": -1952,
+          "label": "约前1981—前1952年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "建立第十二王朝并调整王都与地方行政格局。有关其遇害与王储继承的文学作品具有重要价值，但文学教诲和同期记录需要分辨。政权努力把统一后的国家与努比亚、矿产和交通资源重新联系。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-senusret1",
+      "regimeId": "wr-egypt-middle",
+      "name": "塞努斯雷特一世",
+      "personalName": "塞努斯雷特一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "阿蒙涅姆赫特一世之子。",
+      "reigns": [
+        {
+          "start": -1961,
+          "end": -1917,
+          "label": "约前1961—前1917年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "延续第十二王朝的国家整合，建设神庙、组织资源开采并扩展对努比亚的控制。与父亲重叠的约数年段通常涉及共治讨论，不能直接把父亲仍在世的全部时间都视为独立统治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-amenemhat2",
+      "regimeId": "wr-egypt-middle",
+      "name": "阿蒙涅姆赫特二世",
+      "personalName": "阿蒙涅姆赫特二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十二王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1919,
+          "end": -1885,
+          "label": "约前1919—前1885年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "统治时期埃及与东地中海及红海方向的物资交换联系加强，王室资源和工艺通过铭文与考古材料得到观察。其在位与前后君主重叠的年段涉及断代和共治解释，生平不宜由简短王表过度扩写。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-senusret2",
+      "regimeId": "wr-egypt-middle",
+      "name": "塞努斯雷特二世",
+      "personalName": "塞努斯雷特二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十二王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1887,
+          "end": -1878,
+          "label": "约前1887—前1878年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以拉洪金字塔及其周边聚落等遗存为重要观察点，法尤姆地区的开发与水利农业常被放入其统治背景。具体工程的个人归属和实施年代仍应依据考古，不把整个区域的长期变化归给一人。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-senusret3",
+      "regimeId": "wr-egypt-middle",
+      "name": "塞努斯雷特三世",
+      "personalName": "塞努斯雷特三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十二王朝王室成员，阿蒙涅姆赫特三世之父。",
+      "reigns": [
+        {
+          "start": -1878,
+          "end": -1840,
+          "label": "约前1878—前1840年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在努比亚建立或强化军事堡垒与边界管理，是第十二王朝重要统治者。雕像所呈现的严峻面貌与王权表达联系紧密，不宜据面容推断其真实心理。其地方行政整合的程度亦需结合不同区域材料判断。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-amenemhat3",
+      "regimeId": "wr-egypt-middle",
+      "name": "阿蒙涅姆赫特三世",
+      "personalName": "阿蒙涅姆赫特三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞努斯雷特三世之子。",
+      "reigns": [
+        {
+          "start": -1859,
+          "end": -1813,
+          "label": "约前1859—前1813年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "统治时期法尤姆地区建设、采矿与大型王室工程十分突出，哈瓦拉和代赫舒尔的建筑与王室资源组织相联系。繁荣需要行政、工匠和劳动群体支撑，工程规模不能单独证明全社会生活水平。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-amenemhat4",
+      "regimeId": "wr-egypt-middle",
+      "name": "阿蒙涅姆赫特四世",
+      "personalName": "阿蒙涅姆赫特四世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "与前任王室的确切关系仍有研究分歧。",
+      "reigns": [
+        {
+          "start": -1814,
+          "end": -1805,
+          "label": "约前1814—前1805年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第十二王朝晚期统治者，延续对矿产和边疆通道的经营。其与前任的亲属关系及王位安排仍有讨论，短暂统治不能据后来的王朝衰落反推为其个人失政。现存个人经历较零散。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-sobekneferu",
+      "regimeId": "wr-egypt-middle",
+      "name": "索贝克涅费鲁",
+      "personalName": "索贝克涅费鲁",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "通常认为与阿蒙涅姆赫特三世家族有关。",
+      "reigns": [
+        {
+          "start": -1805,
+          "end": -1802,
+          "label": "约前1805—前1802年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第十二王朝末期的女性统治者，现存名号、雕像和建筑材料显示她以王权身份出现。她不只是王后或无名摄政者，但统治期较短，具体政策与继承经过保存有限。其死后王朝更替，不能把这一转折仅归于君主性别。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "在位数字均为断代方案的约数，不等于同期文书中使用的公历确年。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ahmose",
+      "regimeId": "wr-egypt-new",
+      "name": "雅赫摩斯一世",
+      "personalName": "雅赫摩斯一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第十八王朝开端的重要统治者。",
+      "reigns": [
+        {
+          "start": -1550,
+          "end": -1525,
+          "label": "约前1550—前1525年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "底比斯王室出身，延续对喜克索斯的战争并重建统一王权。其统治通常作为新王国开端，军队、王室女性与地方支持网络均参与政权巩固。对外军事行动与国内恢复长期并行，不能只用“复国英雄”概括。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-amenhotep1",
+      "regimeId": "wr-egypt-new",
+      "name": "阿蒙霍特普一世",
+      "personalName": "阿蒙霍特普一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "雅赫摩斯一世的继承者。",
+      "reigns": [
+        {
+          "start": -1525,
+          "end": -1504,
+          "label": "约前1525—前1504年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在新王国初期继续巩固王权与神庙建设，底比斯工匠社区后来长期崇奉他。后世祭祀地位与在世时期的直接政策应分开理解，墓葬与木乃伊资料也不等于完整个人传记。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-thutmose1",
+      "regimeId": "wr-egypt-new",
+      "name": "图特摩斯一世",
+      "personalName": "图特摩斯一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "哈特谢普苏特之父。",
+      "reigns": [
+        {
+          "start": -1504,
+          "end": -1492,
+          "label": "约前1504—前1492年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过对努比亚及亚洲方向的军事行动扩大埃及影响，帝国的国际空间进一步扩展。其家世、继承方式和早期陵墓归属存在若干讨论，不能把后世王室叙事全部当作无争议事实。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-thutmose2",
+      "regimeId": "wr-egypt-new",
+      "name": "图特摩斯二世",
+      "personalName": "图特摩斯二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯一世之子，图特摩斯三世之父。",
+      "reigns": [
+        {
+          "start": -1492,
+          "end": -1479,
+          "label": "约前1492—前1479年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承图特摩斯一世，与哈特谢普苏特的王室婚姻有助于理解继承安排。努比亚等地的政治军事活动见于资料，但个人生平较少。其去世后幼子图特摩斯三世登位，哈特谢普苏特先摄政，随后采用完整王号。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-thutmose3",
+      "regimeId": "wr-egypt-new",
+      "name": "图特摩斯三世",
+      "personalName": "图特摩斯三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯二世之子；与哈特谢普苏特的关系不应只用简单私仇解释。",
+      "reigns": [
+        {
+          "start": -1479,
+          "end": -1425,
+          "label": "约前1479—前1425年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年即位，与哈特谢普苏特长期共处王权结构。她去世后，图特摩斯三世在西亚连续用兵，米吉多战事及后续贡纳网络使埃及帝国达到新的军事影响范围。战争记述具有颂王功能，兵力、战果和君主形象需要结合铭文性质分析。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-hatshepsut",
+      "regimeId": "wr-egypt-new",
+      "name": "哈特谢普苏特",
+      "personalName": "哈特谢普苏特",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯一世之女、图特摩斯二世的王后。",
+      "reigns": [
+        {
+          "start": -1479,
+          "end": -1473,
+          "label": "约前1479—前1473年",
+          "role": "摄政者",
+          "note": "为幼主辅政的阶段"
+        },
+        {
+          "start": -1473,
+          "end": -1458,
+          "label": "约前1473—前1458年",
+          "role": "法老（共治结构）",
+          "note": "采用完整王号，图特摩斯三世仍在王统之内"
+        }
+      ],
+      "life": [
+        "出身王室，最初在幼主图特摩斯三世即位后摄政，后来采用法老名号和相应王权图像。其统治经营贸易与资源网络，赴蓬特地区的远航和代尔巴哈里建筑是重要证据。使用男性化王权符号并不等于她隐瞒性别。她去世后部分名号和形象被毁，动机与时间均不能仅凭宫廷仇恨故事解释。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-amenhotep2",
+      "regimeId": "wr-egypt-new",
+      "name": "阿蒙霍特普二世",
+      "personalName": "阿蒙霍特普二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯三世之子。",
+      "reigns": [
+        {
+          "start": -1427,
+          "end": -1400,
+          "label": "约前1427—前1400年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以军事与王室体能形象展示继承合法性，继续在西亚维持埃及的统治网络。战争铭文既记录行动，也放大君主理想形象。其约数在位起年与前任末年重叠，涉及共治及断代解释，不据图表直接断言同日独立在位。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-thutmose4",
+      "regimeId": "wr-egypt-new",
+      "name": "图特摩斯四世",
+      "personalName": "图特摩斯四世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "阿蒙霍特普二世之子、阿蒙霍特普三世之父。",
+      "reigns": [
+        {
+          "start": -1400,
+          "end": -1390,
+          "label": "约前1400—前1390年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以吉萨狮身人面像旁的梦碑等材料闻名，碑文把继承合法性与神意联系起来。它是理解王权自我表述的重要文本，却不能无条件视为国王真实梦境的记录。其统治同时参与近东国际外交网络。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-amenhotep3",
+      "regimeId": "wr-egypt-new",
+      "name": "阿蒙霍特普三世",
+      "personalName": "阿蒙霍特普三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "图特摩斯四世之子；提伊为其王后，埃赫那吞之父。",
+      "reigns": [
+        {
+          "start": -1390,
+          "end": -1352,
+          "label": "约前1390—前1352年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期统治中开展规模宏大的建筑和宫廷工艺活动，通过外交婚姻、礼物交换与近东诸国维持关系。王后泰伊拥有显著政治和宗教地位。繁荣的宫廷图像与神化王权表达，不应被直接当作所有居民生活富足的证据。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-akhenaten",
+      "regimeId": "wr-egypt-new",
+      "name": "埃赫那吞",
+      "personalName": "埃赫那吞",
+      "aliases": [
+        "阿蒙霍特普四世"
+      ],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "阿蒙霍特普三世与泰伊之子，王后娜芙蒂蒂。",
+      "reigns": [
+        {
+          "start": -1353,
+          "end": -1336,
+          "label": "约前1353—前1336年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "即位时名为阿蒙霍特普四世，后来强化对阿吞的崇拜，改名并将宫廷迁至阿赫塔顿。宗教、王室图像与艺术表现随之变化，王后娜芙蒂蒂在王权表达中十分突出。改革与行政、外交和神庙经济关系复杂，不能简单用“发明一神教”概括，更不能把艺术变形当作医学诊断。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-neferneferuaten",
+      "regimeId": "wr-egypt-new",
+      "name": "尼弗尔尼弗鲁阿吞",
+      "personalName": "尼弗尔尼弗鲁阿吞",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "身份未定，可能与阿玛尔纳王室女性有关。",
+      "reigns": [
+        {
+          "start": -1338,
+          "end": -1336,
+          "label": "约前1338—前1336年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "阿玛尔纳时期后段使用此王号的统治者，王室身份和与娜芙蒂蒂等人的关系仍有研究争议。名号、器物改刻和墓葬材料提供线索，但不足以支持无争议的详细个人生平。保留独立条目是为了呈现史料问题，而非宣称其身份已确定。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。",
+        "与娜芙蒂蒂等人的身份对应仍有争论。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-smenkhkare",
+      "regimeId": "wr-egypt-new",
+      "name": "斯门卡拉",
+      "personalName": "斯门卡拉",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "王室关系未获一致确认。",
+      "reigns": [
+        {
+          "start": -1336,
+          "end": -1336,
+          "label": "约前1336—前1336年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "处于埃赫那吞与图坦卡蒙之间的短暂王权阶段，名号与墓葬资料的归属长期受到讨论。是否共治、具体起讫及与其他王室人物的身份区分不能只靠一张王表解决，本条保留可考称号和大致位置。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-tutankhamun",
+      "regimeId": "wr-egypt-new",
+      "name": "图坦卡蒙",
+      "personalName": "图坦卡蒙",
+      "aliases": [
+        "图坦哈蒙"
+      ],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "阿玛尔纳王室成员；配偶安赫森阿蒙。",
+      "reigns": [
+        {
+          "start": -1336,
+          "end": -1327,
+          "label": "约前1336—前1327年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年继位，在大臣与宫廷力量支持下逐步恢复阿蒙等传统神祇的地位，王名也从与阿吞相关的形式改变。1922年发现的墓葬保存大量器物，使他成为现代最知名法老之一。墓葬知名度与在位时的政治影响不是同一件事，死因、亲属关系和墓中物件原属仍需结合不同证据判断。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ay",
+      "regimeId": "wr-egypt-new",
+      "name": "阿伊",
+      "personalName": "阿伊",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "与阿玛尔纳王室关系密切，确切亲属链有争论。",
+      "reigns": [
+        {
+          "start": -1327,
+          "end": -1323,
+          "label": "约前1327—前1323年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾是王室重臣，在图坦卡蒙去世后取得法老地位。其继承与王室婚姻、葬祭安排之间存在讨论，不能把后世侦探式猜想写成已证实宫廷谋杀。在位短暂，随后王权转向将领霍伦海布。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-horemheb",
+      "regimeId": "wr-egypt-new",
+      "name": "霍伦海布",
+      "personalName": "霍伦海布",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "军事官僚出身，第十八王朝末期统治者。",
+      "reigns": [
+        {
+          "start": -1323,
+          "end": -1295,
+          "label": "约前1323—前1295年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "由军事与行政地位升为法老，整顿官员和国家秩序，并在王室记忆中淡化前几位阿玛尔纳时期统治者。其政治遗产包括制度修复与对历史形象的主动重写。无直系继承者时，将军帕拉美苏继承并成为拉美西斯一世。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses1",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯一世",
+      "personalName": "拉美西斯一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞提一世之父。",
+      "reigns": [
+        {
+          "start": -1295,
+          "end": -1294,
+          "label": "约前1295—前1294年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原名帕拉美苏，拥有军政履历，被霍伦海布选为继承人，建立第十九王朝的王室主线。在位极短，国家建设更多由儿子塞提一世继续。其开朝意义来自继承安排，不宜据王朝后来强盛虚构其短期政绩。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-seti1",
+      "regimeId": "wr-egypt-new",
+      "name": "塞提一世",
+      "personalName": "塞提一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯一世之子、拉美西斯二世之父。",
+      "reigns": [
+        {
+          "start": -1294,
+          "end": -1279,
+          "label": "约前1294—前1279年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承父亲的新王朝，向西亚和努比亚用兵并恢复王室威望。阿拜多斯神庙与精美陵墓保存王权、祭祀与历史记忆的材料，王表选择哪些前王入列本身也体现合法性政治。拉美西斯二世后来延续其军事与建筑传统。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses2",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯二世",
+      "personalName": "拉美西斯二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞提一世之子；王室成员包括娜芙塔莉等，麦伦普塔是其继承人。",
+      "reigns": [
+        {
+          "start": -1279,
+          "end": -1213,
+          "label": "约前1279—前1213年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期统治中以建筑、雕像、铭文和战争叙事强化王权，阿布辛拜勒等遗存体现国家资源组织与王室纪念。卡迭石战役被塑造成个人英勇故事，但战局并非毫无争议的埃及大胜。后来同赫梯缔结和约并进行外交婚姻，说明竞争与合作可以并存。其漫长统治及众多子女也影响末期继承安排。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-merneptah",
+      "regimeId": "wr-egypt-new",
+      "name": "麦伦普塔",
+      "personalName": "麦伦普塔",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯二世之子。",
+      "reigns": [
+        {
+          "start": -1213,
+          "end": -1203,
+          "label": "约前1213—前1203年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在父亲拉美西斯二世漫长统治后较晚继位，面对利比亚方向的军事压力。胜利碑中的族群和地区名称是近东历史的重要材料，但颂功文本不能自动作为战争细节的完整记录。其去世后继承竞争更为复杂。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-amenmesse",
+      "regimeId": "wr-egypt-new",
+      "name": "阿蒙麦西斯",
+      "personalName": "阿蒙麦西斯",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "与拉美西斯王室的确切关系有争议。",
+      "reigns": [
+        {
+          "start": -1203,
+          "end": -1200,
+          "label": "约前1203—前1200年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第十九王朝末期争位中的统治者，控制区域与同塞提二世的关系仍有不同解释。器物与铭文改刻反映政治竞争，却不足以让其家世与夺权过程完全确定。不能把王表的顺排误解为所有地区都依次和平交接。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-seti2",
+      "regimeId": "wr-egypt-new",
+      "name": "塞提二世",
+      "personalName": "塞提二世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "通常认为是麦伦普塔之子；塔沃斯雷特的配偶。",
+      "reigns": [
+        {
+          "start": -1200,
+          "end": -1194,
+          "label": "约前1200—前1194年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在第十九王朝继承危机中确立王权，其与阿蒙麦西斯的先后、重叠及地域控制需结合遗存讨论。王后塔沃斯雷特、王子西普塔和大臣势力随后参与继承政治，反映中央王权的不稳定。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-siptah",
+      "regimeId": "wr-egypt-new",
+      "name": "西普塔",
+      "personalName": "西普塔",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "父系与王室位置有争论。",
+      "reigns": [
+        {
+          "start": -1194,
+          "end": -1188,
+          "label": "约前1194—前1188年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年少即位，实际治理依赖王后塔沃斯雷特与重臣等力量。其个人身体情况、父系及继承背景有不同讨论，不能直接以木乃伊发现给出生平定论。去世后塔沃斯雷特采用完整王号，王朝不久再次更替。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-tawosret",
+      "regimeId": "wr-egypt-new",
+      "name": "塔沃斯雷特",
+      "personalName": "塔沃斯雷特",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞提二世的王后。",
+      "reigns": [
+        {
+          "start": -1188,
+          "end": -1186,
+          "label": "约前1188—前1186年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "先以王后及幼主辅政者身份参与政治，西普塔去世后成为独立使用王号的女性统治者。其统治处于王朝末期纷争之中，后来的第二十王朝叙事对前期局面带有合法性修饰，具体结束方式仍需慎用。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-setnakhte",
+      "regimeId": "wr-egypt-new",
+      "name": "塞特纳赫特",
+      "personalName": "塞特纳赫特",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯三世之父。",
+      "reigns": [
+        {
+          "start": -1186,
+          "end": -1184,
+          "label": "约前1186—前1184年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在第十九王朝末期动荡之后建立新的王室主线，其整顿混乱的叙述带有新王朝合法性表达。短暂统治后由儿子拉美西斯三世继承，不能只凭后来王朝对前任的批评复原全部政变过程。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses3",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯三世",
+      "personalName": "拉美西斯三世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "塞特纳赫特之子。",
+      "reigns": [
+        {
+          "start": -1184,
+          "end": -1153,
+          "label": "约前1184—前1153年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "面对利比亚集团和“海上民族”等军事压力，以麦迪奈特哈布建筑铭文等展示防御胜利。战争、神庙捐献与财政压力同时存在，德尔麦地那工匠停工反映国家供给问题。晚年的后宫阴谋与其死亡有关，但司法记录、木乃伊证据和个别责任判断需要分别检视。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses4",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯四世",
+      "personalName": "拉美西斯四世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯三世之子。",
+      "reigns": [
+        {
+          "start": -1153,
+          "end": -1147,
+          "label": "约前1153—前1147年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在拉美西斯三世末年的宫廷阴谋之后继位，王室继承与追查案件构成开端背景。组织采石和建筑活动，但统治期不足以重建此前帝国资源格局。现存王室材料为理解新王国晚期行政提供线索。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses5",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯五世",
+      "personalName": "拉美西斯五世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1147,
+          "end": -1143,
+          "label": "约前1147—前1143年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在新王国晚期短暂统治，土地与财政文书使研究者得以观察国家、神庙和耕地关系。木乃伊的医学解释及死因判断存在不确定性，不能把猜测疾病写为无争议结论。王位随后转向拉美西斯六世。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses6",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯六世",
+      "personalName": "拉美西斯六世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "拉美西斯三世家族成员。",
+      "reigns": [
+        {
+          "start": -1143,
+          "end": -1136,
+          "label": "约前1143—前1136年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承第二十王朝的统治，在财政与国际影响减弱的环境下维持王室工程和葬祭。其帝王谷陵墓以天文、宗教图像著称，陵墓艺术说明王权表达仍在延续，却不能证明军政实力同步增强。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses7",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯七世",
+      "personalName": "拉美西斯七世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1136,
+          "end": -1129,
+          "label": "约前1136—前1129年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "处于第二十王朝后期，文书反映物价、粮食和供给等日常治理问题。可确证个人经历有限，因此本条不为其编造一套与同代每王相同的改革功绩；重点保留在位区间与史料环境。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses8",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯八世",
+      "personalName": "拉美西斯八世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "通常与拉美西斯三世家族相联系。",
+      "reigns": [
+        {
+          "start": -1129,
+          "end": -1126,
+          "label": "约前1129—前1126年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在第二十王朝末期短暂在位，保存的个人资料极少，确切统治长度在不同断代中有差别。其名号在王室遗存中提供承继线索，不能以少量材料复原详细宫廷活动。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses9",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯九世",
+      "personalName": "拉美西斯九世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝王室成员。",
+      "reigns": [
+        {
+          "start": -1126,
+          "end": -1108,
+          "label": "约前1126—前1108年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "统治时期盗墓调查文书为研究王室葬地、地方官员及司法程序提供重要材料。墓葬被盗不只是道德失范，也与经济压力、行政关系和葬祭资源有关。底比斯神职集团的地位在这一时代更值得关注。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses10",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯十世",
+      "personalName": "拉美西斯十世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝王室关系仍有未明之处。",
+      "reigns": [
+        {
+          "start": -1108,
+          "end": -1099,
+          "label": "约前1108—前1099年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "第二十王朝后段统治者，现存个人政事较少，相关工匠与行政记录不能自动视为国王亲自处理的行动。其在位长度和绝对起讫存在断代差异，本版沿用注明出处的约数，保留研究空白。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    },
+    {
+      "id": "wr-eg-ramesses11",
+      "regimeId": "wr-egypt-new",
+      "name": "拉美西斯十一世",
+      "personalName": "拉美西斯十一世",
+      "aliases": [],
+      "born": "确年未定",
+      "died": "本版未独立核定，不由在位末年反推",
+      "birthPlace": "",
+      "family": "第二十王朝末代统治者。",
+      "reigns": [
+        {
+          "start": -1099,
+          "end": -1070,
+          "label": "约前1099—前1070年",
+          "role": "法老",
+          "note": ""
+        }
+      ],
+      "life": [
+        "新王国末期，北方政治力量与底比斯阿蒙神庙集团地位上升，统一王权逐步分化。“复兴纪年”和军事官员、大神官活动显示地方权力结构重组。其死后通常进入第二十一王朝及第三中间期，但这一变化不是一天突然完成。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "采用大都会博物馆所列约数方案；新王国绝对纪年有不同方案，不以年度重叠直接断定共治。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：古埃及与努比亚统治者年表",
+          "url": "https://www.metmuseum.org/toah/hd/phar/hd_phar.htm",
+          "note": "埃及在位年代采用馆方约数方案；不同研究可能相差数年或更多。表中首尾重叠可能涉及共治或断代分歧，不能据年度刻度判断同日共治。"
+        }
+      ]
+    }
+  ]
+}

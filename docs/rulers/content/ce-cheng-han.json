@@ -1,0 +1,366 @@
+{
+  "id": "ce-cheng-han",
+  "people": [
+    {
+      "id": "ce-cheng-han-28a67039d0",
+      "regimeId": "ce-cheng-han",
+      "name": "李特",
+      "personalName": "李特",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "303年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 301,
+          "end": 303,
+          "label": "301年—303年",
+          "role": "军事集团首领",
+          "note": ""
+        }
+      ],
+      "life": [
+        "率领由关陇入蜀的流民，与益州地方官府及原有势力发生冲突，逐步成为起兵集团的领袖。303年战死，其弟李流及子李雄继续掌握军队；本人未建立正式皇帝制度。"
+      ],
+      "highlights": [
+        {
+          "date": "303年",
+          "year": 303,
+          "title": "李特流民起兵",
+          "text": "进入蜀地的流民同当地官府冲突，李特领导起兵，西南地区逐渐脱离晋廷控制。",
+          "eventId": "ann-ce-0415"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：巴氐流民、成汉与东晋灭蜀",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-587ba3c4c170"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0415",
+          "title": "李特流民起兵",
+          "date": "303年",
+          "summary": "进入蜀地的流民同当地官府冲突，李特领导起兵，西南地区逐渐脱离晋廷控制。",
+          "paragraphs": [
+            "进入蜀地的流民同当地官府冲突，李特领导起兵，西南地区逐渐脱离晋廷控制。",
+            "人口流徙与地方治理失败催生新的区域政权。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 西、北各少数民族的内迁；用户提供合并整理本第85072—85072行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 144
+    },
+    {
+      "id": "ce-cheng-han-8a8555912b",
+      "regimeId": "ce-cheng-han",
+      "name": "李流",
+      "personalName": "李流",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "303年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 303,
+          "end": 303,
+          "label": "303年—303年",
+          "role": "军事集团首领",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李特死后接续军事集团，稳定危局并继续在益州作战。其死后军政地位转入李雄，属于成汉开国前的重要承继环节，不宜追称为生前已经即位的成汉皇帝。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：巴氐流民、成汉与东晋灭蜀",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ce-cheng-han-940748aa99",
+      "regimeId": "ce-cheng-han",
+      "name": "李雄",
+      "personalName": "李雄",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "334年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 304,
+          "end": 334,
+          "label": "304年—334年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "控制成都后称成都王，306年称帝，国号成。依靠益州资源和流民集团建立相对稳定的地区政权，承认地方豪强利益并发展官僚组织；统治后期的继承安排转向侄李班，埋下皇族内争。"
+      ],
+      "highlights": [
+        {
+          "date": "304年",
+          "year": 304,
+          "title": "李雄建立成国",
+          "text": "李雄在成都建立政权，利用流民军事力量和地方支持经营巴蜀，形成独立统治中心。",
+          "eventId": "ann-ce-0417"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：巴氐流民、成汉与东晋灭蜀",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-7ac0cc997a66"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0417",
+          "title": "李雄建立成国",
+          "date": "304年",
+          "summary": "李雄在成都建立政权，利用流民军事力量和地方支持经营巴蜀，形成独立统治中心。",
+          "paragraphs": [
+            "李雄在成都建立政权，利用流民军事力量和地方支持经营巴蜀，形成独立统治中心。",
+            "西晋瓦解过程中，西南地区形成不同于北方的政治路径。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 人民的流徙与流民起义；用户提供合并整理本第85368—85368行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 154
+    },
+    {
+      "id": "ce-cheng-han-4eef9518f9",
+      "regimeId": "ce-cheng-han",
+      "name": "李班",
+      "personalName": "李班",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "334年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 334,
+          "end": 334,
+          "label": "334年—334年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李雄侄，因李雄对兄长一系的重视而被选为继承人。即位后李雄之子李越、李期等发动政变将其杀害，成汉王位从侄承叔转为李雄子系掌握。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：巴氐流民、成汉与东晋灭蜀",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-cheng-han-01ef095dba",
+      "regimeId": "ce-cheng-han",
+      "name": "李期",
+      "personalName": "李期",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "338年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 334,
+          "end": 338,
+          "label": "334年—338年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李雄之子，在李班被杀后取得皇位，任用亲信并与宗族、官僚矛盾加深。338年李寿率军进入成都，将其废黜，随后李期死亡，李寿建立新的国号汉。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：巴氐流民、成汉与东晋灭蜀",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ce-cheng-han-b0e32744cb",
+      "regimeId": "ce-cheng-han",
+      "name": "李寿",
+      "personalName": "李寿",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "343年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 338,
+          "end": 343,
+          "label": "338年—343年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李雄同族，掌握军事力量后废李期，自立为帝，改国号汉。其统治依赖军事和地方资源，宫室工程、征发及政治控制引发批评，原有成国的继承平衡不复存在。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：巴氐流民、成汉与东晋灭蜀",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ce-cheng-han-d27429c457",
+      "regimeId": "ce-cheng-han",
+      "name": "李势",
+      "personalName": "李势",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "361年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 343,
+          "end": 347,
+          "label": "343年—347年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继父李寿而立，成汉内部统治与军事组织逐渐削弱。347年桓温率东晋军入蜀，成都失守后投降，被迁往东晋境内，成汉政权结束。"
+      ],
+      "highlights": [
+        {
+          "date": "347年",
+          "year": 347,
+          "title": "桓温灭成汉",
+          "text": "桓温率军入蜀灭成汉，东晋重新控制巴蜀，军事成功显著提高桓温政治地位。",
+          "eventId": "ann-ce-0439"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：巴氐流民、成汉与东晋灭蜀",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-6bd9c068bc5d"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0439",
+          "title": "桓温灭成汉",
+          "date": "347年",
+          "summary": "桓温率军入蜀灭成汉，东晋重新控制巴蜀，军事成功显著提高桓温政治地位。",
+          "paragraphs": [
+            "桓温率军入蜀灭成汉，东晋重新控制巴蜀，军事成功显著提高桓温政治地位。",
+            "外部胜利为强将干预中央政治提供资源与声望。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 人民的流徙与流民起义；用户提供合并整理本第85394—85394行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 128
+    }
+  ]
+}

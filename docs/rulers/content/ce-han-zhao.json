@@ -1,0 +1,488 @@
+{
+  "id": "ce-han-zhao",
+  "people": [
+    {
+      "id": "ce-han-zhao-cf5c593caf",
+      "regimeId": "ce-han-zhao",
+      "name": "刘渊",
+      "personalName": "刘渊",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "310年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 304,
+          "end": 310,
+          "label": "304年—310年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "南匈奴贵族，在西晋军政体系中任职，八王战争中脱离控制，304年称汉王，308年称帝。以汉朝外孙、延续汉祀等名义争取政治支持，统合多支军事集团，并不代表所有后来归附者都受其稳定直接控制。",
+        "刘渊在西晋内战中组织匈奴等力量，304年称汉王，308年称帝；其国号和政治主张体现北方政权竞争的多样性。"
+      ],
+      "highlights": [
+        {
+          "date": "304年—308年",
+          "year": 304,
+          "title": "刘渊建立汉国",
+          "text": "刘渊在西晋宗王战争中组织匈奴等力量，304年称汉王，308年称帝，以汉为国号，成为北方政权竞争的重要一方。",
+          "eventId": "cn-liuyuan-han"
+        },
+        {
+          "year": 310,
+          "date": "310年",
+          "title": "刘渊去世与汉国继承（任内史事）",
+          "text": "刘渊死后刘聪夺取权力，汉国继续进攻晋朝，政治继承并未停止对外扩张。",
+          "eventId": "ann-ce-0421"
+        }
+      ],
+      "assessment": "建立以汉为号的政权，并通过军政组织扩展势力，为其后汉赵政权的演变奠定基础。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章十六国：胡羯的建国，合并本85451行起",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "liuyuan"
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-liuyuan-han",
+          "title": "刘渊建立汉国",
+          "date": "304年称汉王；308年称帝",
+          "summary": "刘渊在西晋宗王战争中组织匈奴等力量，304年称汉王，308年称帝，以汉为国号，成为北方政权竞争的重要一方。",
+          "paragraphs": [
+            "刘渊在西晋宗王战争中组织匈奴等力量，304年称汉王，308年称帝，以汉为国号，成为北方政权竞争的重要一方。",
+            "它与江南晋室重建并非同日起步，十六国的时间范围也因此早于东晋正式建国。",
+            "刘渊之后汉国继续扩展，后来的改号与分化又形成前赵等政权演变，北方格局持续变化。"
+          ],
+          "note": "采用304—439为本网站东晋十六国展示窗口，不把刘渊国号直接写成始终称前赵。 依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 胡羯的建国；用户提供合并整理本第85465—85465行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0421",
+          "title": "刘渊去世与汉国继承",
+          "date": "310年",
+          "summary": "刘渊死后刘聪夺取权力，汉国继续进攻晋朝，政治继承并未停止对外扩张。",
+          "paragraphs": [
+            "刘渊死后刘聪夺取权力，汉国继续进攻晋朝，政治继承并未停止对外扩张。",
+            "北方新政权同样需要处理家族继承与军事集团关系。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86616—86616行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 267
+    },
+    {
+      "id": "ce-han-zhao-5de70553b1",
+      "regimeId": "ce-han-zhao",
+      "name": "刘和",
+      "personalName": "刘和",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "310年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 310,
+          "end": 310,
+          "label": "310年—310年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘渊太子，父死后继位，试图清除掌握重兵的兄弟势力。刘聪一方反击将其杀害，在位极短。其短暂君位体现汉赵皇族与军权配置的冲突，而非平稳的父子传承。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章十六国：胡羯的建国，合并本85451行起",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ce-han-zhao-d48961fa74",
+      "regimeId": "ce-han-zhao",
+      "name": "刘聪",
+      "personalName": "刘聪",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "318年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 310,
+          "end": 318,
+          "label": "310年—318年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "杀兄刘和后称帝，刘曜、石勒等攻陷洛阳、长安，晋怀帝、愍帝先后被俘，西晋灭亡。但各军事集团逐渐扩大自主权，汉赵实际控制范围不应等同名义上所有归附地区。"
+      ],
+      "highlights": [
+        {
+          "date": "308年",
+          "year": 308,
+          "title": "刘聪等扩大北方攻势",
+          "text": "汉国军队持续向洛阳周边推进，晋朝内部无法形成统一防御，北方州郡控制不断崩解。",
+          "eventId": "ann-ce-0420"
+        },
+        {
+          "date": "310年",
+          "year": 310,
+          "title": "刘渊去世与汉国继承",
+          "text": "刘渊死后刘聪夺取权力，汉国继续进攻晋朝，政治继承并未停止对外扩张。",
+          "eventId": "ann-ce-0421"
+        },
+        {
+          "date": "311年",
+          "year": 311,
+          "title": "永嘉之乱",
+          "text": "汉国军队攻陷洛阳并俘虏晋怀帝，大量人口南迁，西晋中央秩序遭毁灭性打击。",
+          "eventId": "ann-ce-0422"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章十六国：胡羯的建国，合并本85451行起",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-6231e16bc6ed"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0420",
+          "title": "刘聪等扩大北方攻势",
+          "date": "308年",
+          "summary": "汉国军队持续向洛阳周边推进，晋朝内部无法形成统一防御，北方州郡控制不断崩解。",
+          "paragraphs": [
+            "汉国军队持续向洛阳周边推进，晋朝内部无法形成统一防御，北方州郡控制不断崩解。",
+            "中央内战为新兴政权扩大军事活动打开空间。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 西晋的黑暗统治与“八王之乱”；用户提供合并整理本第85282—85282行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0421",
+          "title": "刘渊去世与汉国继承",
+          "date": "310年",
+          "summary": "刘渊死后刘聪夺取权力，汉国继续进攻晋朝，政治继承并未停止对外扩张。",
+          "paragraphs": [
+            "刘渊死后刘聪夺取权力，汉国继续进攻晋朝，政治继承并未停止对外扩张。",
+            "北方新政权同样需要处理家族继承与军事集团关系。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86616—86616行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0422",
+          "title": "永嘉之乱",
+          "date": "311年",
+          "summary": "汉国军队攻陷洛阳并俘虏晋怀帝，大量人口南迁，西晋中央秩序遭毁灭性打击。",
+          "paragraphs": [
+            "汉国军队攻陷洛阳并俘虏晋怀帝，大量人口南迁，西晋中央秩序遭毁灭性打击。",
+            "国家分裂与人口迁移共同改变此后南北社会。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 人民的流徙与流民起义；用户提供合并整理本第85404—85404行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 215
+    },
+    {
+      "id": "ce-han-zhao-fd6f145020",
+      "regimeId": "ce-han-zhao",
+      "name": "刘粲",
+      "personalName": "刘粲",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "318年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 318,
+          "end": 318,
+          "label": "318年—318年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘聪之子，即位后很快被靳准发动宫廷政变杀害。汉赵皇族在平阳遭到严重打击，刘曜在关中另立并继续王朝，后世王表应保留这一中断危机。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章十六国：胡羯的建国，合并本85451行起",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ce-han-zhao-a8464cc1b3",
+      "regimeId": "ce-han-zhao",
+      "name": "靳准",
+      "personalName": "靳准",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "318年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 318,
+          "end": 318,
+          "label": "318年—318年",
+          "role": "夺权自立者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "汉赵贵戚，刘粲继位后发动政变，杀刘粲及大量刘氏宗族，自称汉天王。刘曜、石勒从不同方向讨伐，其内部又发生叛变，靳氏权力很快覆亡。属于夺权者，不能当作正常的刘氏承继。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章十六国：胡羯的建国，合并本85451行起",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 116
+    },
+    {
+      "id": "ce-han-zhao-28e093d332",
+      "regimeId": "ce-han-zhao",
+      "name": "刘曜",
+      "personalName": "刘曜",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "329年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 318,
+          "end": 329,
+          "label": "318年—329年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘聪同族，早年参加汉赵军事扩张，攻陷西晋长安。平阳政变后在关中称帝，319年改国号赵，与石勒形成东西对峙。328年底洛阳附近战败被俘，翌年被杀，残余势力也遭后赵消灭。"
+      ],
+      "highlights": [
+        {
+          "date": "318年",
+          "year": 318,
+          "title": "前赵政治中心调整",
+          "text": "刘聪死后汉国内乱，刘曜掌权并迁都长安，北方政权竞争出现新的格局。",
+          "eventId": "ann-ce-0427"
+        },
+        {
+          "date": "329年",
+          "year": 329,
+          "title": "后赵灭前赵",
+          "text": "石勒击败并消灭刘曜政权，后赵成为北方主要强权，北方政治整合暂时取得进展。",
+          "eventId": "ann-ce-0435"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章十六国：胡羯的建国，合并本85451行起",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-fc54dddc3b0a"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0427",
+          "title": "前赵政治中心调整",
+          "date": "318年",
+          "summary": "刘聪死后汉国内乱，刘曜掌权并迁都长安，北方政权竞争出现新的格局。",
+          "paragraphs": [
+            "刘聪死后汉国内乱，刘曜掌权并迁都长安，北方政权竞争出现新的格局。",
+            "征服联盟内部也存在地域和军事集团之间的分裂。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 胡羯的建国；用户提供合并整理本第85481—85481行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0435",
+          "title": "后赵灭前赵",
+          "date": "329年",
+          "summary": "石勒击败并消灭刘曜政权，后赵成为北方主要强权，北方政治整合暂时取得进展。",
+          "paragraphs": [
+            "石勒击败并消灭刘曜政权，后赵成为北方主要强权，北方政治整合暂时取得进展。",
+            "北方统一仍由区域资源与军事组织的竞争决定。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 西、北各少数民族的内迁；用户提供合并整理本第84856—84856行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 186
+    },
+    {
+      "id": "ce-han-zhao-549eb7bc45",
+      "regimeId": "ce-han-zhao",
+      "name": "刘熙",
+      "personalName": "刘熙",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "329年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 329,
+          "end": 329,
+          "label": "329年—329年",
+          "role": "残余政权首领",
+          "note": ""
+        }
+      ],
+      "life": [
+        "刘曜太子，父被俘后同刘胤等退保上邽，试图维持前赵残余政权。后赵军继续进攻，上邽失陷，刘氏残余被消灭；其是否按正式即帝位计算须区别不同王表口径。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章十六国：胡羯的建国，合并本85451行起",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    }
+  ]
+}

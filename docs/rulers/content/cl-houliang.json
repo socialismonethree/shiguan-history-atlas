@@ -1,0 +1,380 @@
+{
+  "id": "cl-houliang",
+  "people": [
+    {
+      "id": "cl-houliang-4fc6de8a5",
+      "regimeId": "cl-houliang",
+      "name": "梁太祖",
+      "personalName": "朱温",
+      "aliases": [
+        "朱温",
+        "朱全忠",
+        "朱晃"
+      ],
+      "born": "852年",
+      "died": "912年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 907,
+          "end": 912,
+          "label": "907—912年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾参加黄巢军，降唐后控制宣武军，逐步扩张中原势力并操纵唐廷。907年迫唐哀帝禅位建梁，改名晃；统治依赖军力，皇室内部的继承冲突也十分激烈，912年被子朱友珪弑杀。",
+        "朱温由唐末军人发展为宣武节度使，控制唐廷后于907年称帝。他的经历连接黄巢战争、藩镇兼并与后梁建立。",
+        "凭借汴州军事和财政基础兼并周边，建立后梁，改变唐末中原的权力配置。",
+        "处于唐末秩序解体与军事实力决定政权归属的环境。"
+      ],
+      "highlights": [
+        {
+          "date": "907年",
+          "year": 907,
+          "title": "后梁建立，唐朝结束",
+          "text": "朱温在控制唐廷后称帝，国号梁，唐朝结束。中原进入五代更替时期，南方地方政权与北方契丹势力仍各自发展。",
+          "eventId": "cn-five-start"
+        },
+        {
+          "year": 907,
+          "date": "907年",
+          "title": "朱温代唐建后梁（任内史事）",
+          "text": "唐哀帝被迫禅位。",
+          "eventId": "ann-cl-tang-907-135"
+        },
+        {
+          "year": 912,
+          "date": "912年",
+          "title": "朱友珪弑父夺位（任内史事）",
+          "text": "后梁皇室发生政变。",
+          "eventId": "ann-cl-five-dynasties-912-141"
+        }
+      ],
+      "existingPersonIds": [
+        "zhuwen"
+      ],
+      "assessment": "不以个人性格解释唐亡，亦不美化其战争和政治暴力。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96396行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "历史纪年：五代十国",
+          "url": "https://ygx.sxu.edu.cn/portals/15wdsg",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-five-start",
+          "title": "后梁建立，唐朝结束",
+          "date": "907年",
+          "summary": "朱温在控制唐廷后称帝，国号梁，唐朝结束。中原进入五代更替时期，南方地方政权与北方契丹势力仍各自发展。",
+          "paragraphs": [
+            "朱温在控制唐廷后称帝，国号梁，唐朝结束。中原进入五代更替时期，南方地方政权与北方契丹势力仍各自发展。",
+            "这是唐末藩镇重组为新王朝的节点，也是观察中原与地方不同步变化的重要起点。",
+            "后梁取得中原部分地区，未能统一全国，随后与李存勖的晋军长期争战。"
+          ],
+          "note": "五代是中原政权序列，十国并非907年同时建立。",
+          "sources": [
+            {
+              "title": "王仲荦《隋唐五代史（上、下）》",
+              "url": "",
+              "note": "第八章 五代十国的政治与经济；第一节 五代的更替；用户提供合并整理本第109256—109262行"
+            },
+            {
+              "title": "历史纪年：五代十国",
+              "url": "https://ygx.sxu.edu.cn/portals/15wdsg",
+              "note": "山西大学图书馆等；支持五代次序与十国延续到979年；十国部分政权形成早于907。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-tang-907-135",
+          "title": "朱温代唐建后梁",
+          "date": "907年",
+          "summary": "唐哀帝被迫禅位。",
+          "paragraphs": [
+            "唐哀帝被迫禅位。",
+            "唐朝结束，进入五代十国格局。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "中国文化网·唐代年号表（帝王年号核对）",
+              "url": "https://en.chinaculture.org/cnstatic/review/rev64.htm",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-912-141",
+          "title": "朱友珪弑父夺位",
+          "date": "912年",
+          "summary": "后梁皇室发生政变。",
+          "paragraphs": [
+            "后梁皇室发生政变。",
+            "朱温遇害，统治稳定性受损。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-tang-901-131",
+          "title": "朱温围凤翔",
+          "date": "901年",
+          "summary": "朱温与李茂贞争夺皇帝控制权。",
+          "paragraphs": [
+            "朱温与李茂贞争夺皇帝控制权。",
+            "关中陷入围城战争。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "中国文化网·唐代年号表（帝王年号核对）",
+              "url": "https://en.chinaculture.org/cnstatic/review/rev64.htm",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-tang-903-132",
+          "title": "朱温诛杀宦官",
+          "date": "903年",
+          "summary": "朱温控制昭宗后大规模清除宦官。",
+          "paragraphs": [
+            "朱温控制昭宗后大规模清除宦官。",
+            "神策军体系瓦解。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "中国文化网·唐代年号表（帝王年号核对）",
+              "url": "https://en.chinaculture.org/cnstatic/review/rev64.htm",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-tang-904-133",
+          "title": "唐廷被迫迁洛阳",
+          "date": "904年",
+          "summary": "朱温强迫迁都并杀昭宗。",
+          "paragraphs": [
+            "朱温强迫迁都并杀昭宗。",
+            "唐室已受其直接支配。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "中国文化网·唐代年号表（帝王年号核对）",
+              "url": "https://en.chinaculture.org/cnstatic/review/rev64.htm",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-tang-905-134",
+          "title": "白马驿之祸",
+          "date": "905年",
+          "summary": "朱温集团杀害大批朝官。",
+          "paragraphs": [
+            "朱温集团杀害大批朝官。",
+            "唐末政治清洗加剧。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "中国文化网·唐代年号表（帝王年号核对）",
+              "url": "https://en.chinaculture.org/cnstatic/review/rev64.htm",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 278
+    },
+    {
+      "id": "cl-houliang-d6f2d5390",
+      "regimeId": "cl-houliang",
+      "name": "朱友珪",
+      "personalName": "朱友珪",
+      "aliases": [],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "913年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 912,
+          "end": 913,
+          "label": "912—913年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "朱温之子，因担心失去继承机会，在宫廷政变中杀父自立。军队与兄弟并不普遍承认其地位，次年朱友贞方面发动兵变，朱友珪败亡；后梁在短时间内连续发生皇室内斗。"
+      ],
+      "highlights": [
+        {
+          "date": "912年",
+          "year": 912,
+          "title": "朱友珪弑父夺位",
+          "text": "后梁皇室发生政变。",
+          "eventId": "ann-cl-five-dynasties-912-141"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-41d4e1f871ca"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96396行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-912-141",
+          "title": "朱友珪弑父夺位",
+          "date": "912年",
+          "summary": "后梁皇室发生政变。",
+          "paragraphs": [
+            "后梁皇室发生政变。",
+            "朱温遇害，统治稳定性受损。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 124
+    },
+    {
+      "id": "cl-houliang-c1fcfbe82",
+      "regimeId": "cl-houliang",
+      "name": "梁末帝",
+      "personalName": "朱友贞",
+      "aliases": [
+        "朱友贞"
+      ],
+      "born": "888年",
+      "died": "923年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 913,
+          "end": 923,
+          "label": "913—923年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "朱温之子，取代朱友珪继位，主要在开封统治。与晋王李存勖长期争战，军队与财政压力不断扩大；923年后唐军直取开封时自杀，后梁结束。"
+      ],
+      "highlights": [
+        {
+          "date": "913年",
+          "year": 913,
+          "title": "朱友贞夺取后梁皇位",
+          "text": "朱友珪被推翻。",
+          "eventId": "ann-cl-five-dynasties-913-142"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-5d52c0d22eca"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96396行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-913-142",
+          "title": "朱友贞夺取后梁皇位",
+          "date": "913年",
+          "summary": "朱友珪被推翻。",
+          "paragraphs": [
+            "朱友珪被推翻。",
+            "后梁继续与晋军争夺华北。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    }
+  ]
+}

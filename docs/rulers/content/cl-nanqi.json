@@ -1,0 +1,356 @@
+{
+  "id": "cl-nanqi",
+  "people": [
+    {
+      "id": "cl-nanqi-aac1d51df",
+      "regimeId": "cl-nanqi",
+      "name": "齐高帝",
+      "personalName": "萧道成",
+      "aliases": [
+        "萧道成"
+      ],
+      "born": "427年",
+      "died": "482年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 479,
+          "end": 482,
+          "label": "479—482年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为刘宋将领，在宋末宫廷政变中控制朝廷。479年受禅建齐，提倡节俭并试图稳定战乱后的财政和官僚秩序；在位时间短，国政由继承人萧赜继续经营。"
+      ],
+      "highlights": [
+        {
+          "date": "479年",
+          "year": 479,
+          "title": "萧道成代宋建齐",
+          "text": "萧道成控制刘宋军政后称帝建立南齐，南朝再次以军事强臣禅代完成王朝更替。",
+          "eventId": "ann-ce-0502"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-80830cde9388"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第三节 蜀汉的兴起与衰亡，合并文本第83714行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0502",
+          "title": "萧道成代宋建齐",
+          "date": "479年",
+          "summary": "萧道成控制刘宋军政后称帝建立南齐，南朝再次以军事强臣禅代完成王朝更替。",
+          "paragraphs": [
+            "萧道成控制刘宋军政后称帝建立南齐，南朝再次以军事强臣禅代完成王朝更替。",
+            "更换皇室并未彻底改造士族、军镇与地方社会结构。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第二节 炼钢技术与机械发明；用户提供合并整理本第95905—95905行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 144
+    },
+    {
+      "id": "cl-nanqi-edf2fe7b3",
+      "regimeId": "cl-nanqi",
+      "name": "齐武帝",
+      "personalName": "萧赜",
+      "aliases": [
+        "萧赜"
+      ],
+      "born": "440年",
+      "died": "493年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 482,
+          "end": 493,
+          "label": "482—493年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "萧道成长子，继位后维持相对安定局面，史称永明时期。重视行政与对北魏关系，江南文人群体和诗学活动也在这一时期发展；死后传位皇太孙，继承安排未能阻止权臣干预。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第三节 蜀汉的兴起与衰亡，合并文本第83714行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 117
+    },
+    {
+      "id": "cl-nanqi-81f73bef4",
+      "regimeId": "cl-nanqi",
+      "name": "郁林王",
+      "personalName": "萧昭业",
+      "aliases": [
+        "萧昭业"
+      ],
+      "born": "473年",
+      "died": "494年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 493,
+          "end": 494,
+          "label": "493—494年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "齐武帝皇太孙，父萧长懋早死后以太孙继位。朝政受萧鸾控制，继位后与权臣矛盾加深，494年被杀并追废为郁林王。其在位短，不能仅以被废称号掩去继位事实。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第三节 蜀汉的兴起与衰亡，合并文本第83714行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    },
+    {
+      "id": "cl-nanqi-5b8f359b2",
+      "regimeId": "cl-nanqi",
+      "name": "海陵王",
+      "personalName": "萧昭文",
+      "aliases": [
+        "萧昭文"
+      ],
+      "born": "480年",
+      "died": "494年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 494,
+          "end": 494,
+          "label": "494年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "萧长懋之子、萧昭业之弟，由萧鸾废杀郁林王后拥立。即位仅数月便被废，萧鸾自行称帝；不久遭杀，是南齐皇位由高武一系转入萧鸾一系的过渡人物。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第三节 蜀汉的兴起与衰亡，合并文本第83714行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "cl-nanqi-86d489461",
+      "regimeId": "cl-nanqi",
+      "name": "齐明帝",
+      "personalName": "萧鸾",
+      "aliases": [
+        "萧鸾"
+      ],
+      "born": "452年",
+      "died": "498年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 494,
+          "end": 498,
+          "label": "494—498年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "萧道成之侄，先以辅政身份控制朝廷，接连废立萧昭业、萧昭文后自立。为巩固支系统治，大规模杀害高、武二帝后裔；朝廷与地方间的信任由此进一步破坏。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第三节 蜀汉的兴起与衰亡，合并文本第83714行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "cl-nanqi-2984bcdf4",
+      "regimeId": "cl-nanqi",
+      "name": "东昏侯",
+      "personalName": "萧宝卷",
+      "aliases": [
+        "萧宝卷"
+      ],
+      "born": "483年",
+      "died": "501年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 498,
+          "end": 501,
+          "label": "498—501年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "齐明帝之子，继位后频繁诛杀大臣并扩大宫廷开支。萧衍以讨伐昏主为名起兵，建康被围时宫廷部众倒戈，萧宝卷被杀。后世“东昏侯”是贬黜封号，相关暴行记载应结合政治书写阅读。"
+      ],
+      "highlights": [
+        {
+          "date": "501年",
+          "year": 501,
+          "title": "南齐东昏侯被杀",
+          "text": "萧衍起兵进攻建康，齐帝被杀，南齐皇室政治崩溃，军事集团开始准备改朝换代。",
+          "eventId": "ann-ce-0513"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-38253dda4ae0"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第三节 蜀汉的兴起与衰亡，合并文本第83714行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0513",
+          "title": "南齐东昏侯被杀",
+          "date": "501年",
+          "summary": "萧衍起兵进攻建康，齐帝被杀，南齐皇室政治崩溃，军事集团开始准备改朝换代。",
+          "paragraphs": [
+            "萧衍起兵进攻建康，齐帝被杀，南齐皇室政治崩溃，军事集团开始准备改朝换代。",
+            "暴力继承与地方军权相互推动南朝王朝更替。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 世家大族经济势力的发展与部曲佃客制度的形成；用户提供合并整理本第84331—84331行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 158
+    },
+    {
+      "id": "cl-nanqi-6e4e1feb6",
+      "regimeId": "cl-nanqi",
+      "name": "齐和帝",
+      "personalName": "萧宝融",
+      "aliases": [
+        "萧宝融"
+      ],
+      "born": "488年",
+      "died": "502年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 501,
+          "end": 502,
+          "label": "501—502年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "齐明帝之子，萧衍集团在江陵拥立其为帝，用以对抗萧宝卷。建康失守后，实权归萧衍；502年禅位，南齐终结，萧宝融随后被杀。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第三节 蜀汉的兴起与衰亡，合并文本第83714行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    }
+  ]
+}

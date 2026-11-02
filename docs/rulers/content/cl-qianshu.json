@@ -1,0 +1,151 @@
+{
+  "id": "cl-qianshu",
+  "people": [
+    {
+      "id": "cl-qianshu-8b9ef1515",
+      "regimeId": "cl-qianshu",
+      "name": "前蜀高祖",
+      "personalName": "王建",
+      "aliases": [
+        "王建"
+      ],
+      "born": "847年",
+      "died": "918年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 907,
+          "end": 918,
+          "label": "907—918年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "唐末军人出身，进入四川后击败主要对手，907年称帝。利用蜀地经济和地形条件维持区域政权，并吸纳中原士人；晚年储位安排与宗室、宦官权力互相牵动。"
+      ],
+      "highlights": [
+        {
+          "date": "907年",
+          "year": 907,
+          "title": "前蜀建立",
+          "text": "王建在成都称帝。",
+          "eventId": "ann-cl-five-dynasties-907-137"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-97436503e4de"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第一节 五代的更替，合并文本第109454行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-907-137",
+          "title": "前蜀建立",
+          "date": "907年",
+          "summary": "王建在成都称帝。",
+          "paragraphs": [
+            "王建在成都称帝。",
+            "四川成为独立政治与文化中心。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 119
+    },
+    {
+      "id": "cl-qianshu-cfe640d0e",
+      "regimeId": "cl-qianshu",
+      "name": "前蜀后主",
+      "personalName": "王衍",
+      "aliases": [
+        "王衍"
+      ],
+      "born": "899年",
+      "died": "926年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 918,
+          "end": 925,
+          "label": "918—925年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "王建之子，继位后宫廷与宦官势力影响显著，统治开支和防务问题加重。925年后唐军入蜀时投降，次年押往北方途中遭杀，前蜀文化繁盛与政治脆弱并存。"
+      ],
+      "highlights": [
+        {
+          "date": "925年",
+          "year": 925,
+          "title": "后唐灭前蜀",
+          "text": "后唐军进入成都。",
+          "eventId": "ann-cl-five-dynasties-925-153"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-738d35dbb987"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，第一节 五代的更替，合并文本第109454行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-925-153",
+          "title": "后唐灭前蜀",
+          "date": "925年",
+          "summary": "后唐军进入成都。",
+          "paragraphs": [
+            "后唐军进入成都。",
+            "王衍投降，前蜀结束。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 118
+    }
+  ]
+}

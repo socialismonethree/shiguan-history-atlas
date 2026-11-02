@@ -1,0 +1,1475 @@
+{
+  "id": "ce-chu",
+  "people": [
+    {
+      "id": "ce-chu-726d8441d6",
+      "regimeId": "ce-chu",
+      "name": "楚武王",
+      "personalName": "熊通",
+      "aliases": [
+        "熊通"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -740,
+          "end": -690,
+          "label": "前740年—前690年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "承继楚君位后扩大对汉水及周边小国的控制，公开使用王号，显示南方强权对周秩序的挑战。后世追认的楚国起源与这一实际称王阶段应区分。"
+      ],
+      "highlights": [
+        {
+          "date": "前704年",
+          "year": -704,
+          "title": "楚君称王",
+          "text": "楚武王采用王号，以自己的政治地位挑战周天子专有的王权称谓和中原礼制秩序。",
+          "eventId": "ann-ce-0027"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-49e5b4cfe698"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0027",
+          "title": "楚君称王",
+          "date": "公元前704年",
+          "summary": "楚武王采用王号，以自己的政治地位挑战周天子专有的王权称谓和中原礼制秩序。",
+          "paragraphs": [
+            "楚武王采用王号，以自己的政治地位挑战周天子专有的王权称谓和中原礼制秩序。",
+            "南方强国进入列国竞争的核心。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "二、 戎狄对中原的侵扰；用户提供合并整理本第61907—61907行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 134
+    },
+    {
+      "id": "ce-chu-7805d7456b",
+      "regimeId": "ce-chu",
+      "name": "楚文王",
+      "personalName": "熊赀",
+      "aliases": [
+        "熊赀"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -689,
+          "end": -677,
+          "label": "前689年—前677年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "延续楚的北向扩张，围绕汉水、中原南缘控制申、息等地，地方行政据点逐步发展。楚国的县制起源并非成熟秦汉制度，不能直接等同。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ce-chu-3ffbd4ab31",
+      "regimeId": "ce-chu",
+      "name": "堵敖",
+      "personalName": "熊艰",
+      "aliases": [
+        "熊艰"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -676,
+          "end": -672,
+          "label": "前676年—前672年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "楚文王之子，继位后同弟熊恽争权，谋杀弟未成而被反攻杀死。其在位短，史料重在宗室继承冲突，不宜由谥称推演详细性格传记。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "ce-chu-30e9e93f8d",
+      "regimeId": "ce-chu",
+      "name": "楚成王",
+      "personalName": "熊恽",
+      "aliases": [
+        "熊恽"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -671,
+          "end": -626,
+          "label": "前671年—前626年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "夺位后稳定楚国并北向经营，与晋文公在城濮之战对峙，楚军失利。晚年太子商臣围绕继嗣发动政变，成王被迫自杀，对外霸权与宫廷危机交织。"
+      ],
+      "highlights": [
+        {
+          "date": "前638年",
+          "year": -638,
+          "title": "泓水之战",
+          "text": "宋襄公与楚国争夺影响力，在泓水战败，宋国难以凭借旧有名望建立霸业。",
+          "eventId": "ann-ce-0040"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-76fe096a7390"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0040",
+          "title": "泓水之战",
+          "date": "公元前638年",
+          "summary": "宋襄公与楚国争夺影响力，在泓水战败，宋国难以凭借旧有名望建立霸业。",
+          "paragraphs": [
+            "宋襄公与楚国争夺影响力，在泓水战败，宋国难以凭借旧有名望建立霸业。",
+            "中原礼仪声望与实际军事实力之间出现鲜明落差。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 齐国霸业的陨落，宋襄公图霸失败；用户提供合并整理本第62034—62034行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 132
+    },
+    {
+      "id": "ce-chu-59b887df5a",
+      "regimeId": "ce-chu",
+      "name": "楚穆王",
+      "personalName": "熊商臣",
+      "aliases": [
+        "熊商臣"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -625,
+          "end": -614,
+          "label": "前625年—前614年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过胁迫父成王取得王位，继续楚国在中原南缘的军事外交竞争。其继承方式体现王室内争，不能把所有后续战争解释为个人弑父性格的延伸。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ce-chu-20730cc8b9",
+      "regimeId": "ce-chu",
+      "name": "楚庄王",
+      "personalName": "熊旅",
+      "aliases": [
+        "熊旅"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -613,
+          "end": -591,
+          "label": "前613年—前591年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "整顿楚国内部势力，在邲之战击败晋军，楚的中原影响达到重要高点。问鼎、三年不鸣等故事影响后世形象，仍应与斗氏等贵族冲突和具体联盟结构分开考察。"
+      ],
+      "highlights": [
+        {
+          "date": "前613年",
+          "year": -613,
+          "title": "楚庄王即位后的整合",
+          "text": "楚庄王面对贵族与地方势力，通过政治调整及对外行动逐步恢复王权与国力。",
+          "eventId": "ann-ce-0048"
+        },
+        {
+          "date": "前606年",
+          "year": -606,
+          "title": "楚庄王问鼎",
+          "text": "楚军到达周王室附近，问鼎的传统叙述表现楚国对天下政治中心地位的挑战。",
+          "eventId": "ann-ce-0049"
+        },
+        {
+          "date": "前605年",
+          "year": -605,
+          "title": "若敖氏之乱",
+          "text": "楚庄王平定强大贵族若敖氏的叛乱，削弱旧贵族对王权的威胁并加强内部控制。",
+          "eventId": "ann-ce-0050"
+        },
+        {
+          "date": "前598年",
+          "year": -598,
+          "title": "楚国围陈",
+          "text": "楚庄王干预陈国内乱，军事扩张与重建诸侯君位相结合，扩大楚在中原的影响。",
+          "eventId": "ann-ce-0051"
+        },
+        {
+          "date": "前597年",
+          "year": -597,
+          "title": "邲之战",
+          "text": "楚庄王率军击败晋军，楚国在中原的势力显著上升，晋楚霸权竞争发生转折。",
+          "eventId": "ann-ce-0052"
+        }
+      ],
+      "assessment": "楚国由南方强国成为中原争霸的核心参与者。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-c0b1290da110"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0048",
+          "title": "楚庄王即位后的整合",
+          "date": "公元前613年",
+          "summary": "楚庄王面对贵族与地方势力，通过政治调整及对外行动逐步恢复王权与国力。",
+          "paragraphs": [
+            "楚庄王面对贵族与地方势力，通过政治调整及对外行动逐步恢复王权与国力。",
+            "楚国强盛建立在内部整合与南北经营之上。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "六、 楚庄王上台时的严峻形势；用户提供合并整理本第62142—62142行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0049",
+          "title": "楚庄王问鼎",
+          "date": "公元前606年",
+          "summary": "楚军到达周王室附近，问鼎的传统叙述表现楚国对天下政治中心地位的挑战。",
+          "paragraphs": [
+            "楚军到达周王室附近，问鼎的传统叙述表现楚国对天下政治中心地位的挑战。",
+            "周王权的象征权威仍是诸侯竞争的参照。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "七、 楚庄王图霸，问鼎中原；用户提供合并整理本第62150—62150行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0050",
+          "title": "若敖氏之乱",
+          "date": "公元前605年",
+          "summary": "楚庄王平定强大贵族若敖氏的叛乱，削弱旧贵族对王权的威胁并加强内部控制。",
+          "paragraphs": [
+            "楚庄王平定强大贵族若敖氏的叛乱，削弱旧贵族对王权的威胁并加强内部控制。",
+            "春秋强国也面临中央与贵族家族的长期冲突。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "七、 楚庄王图霸，问鼎中原；用户提供合并整理本第62152—62152行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0051",
+          "title": "楚国围陈",
+          "date": "公元前598年",
+          "summary": "楚庄王干预陈国内乱，军事扩张与重建诸侯君位相结合，扩大楚在中原的影响。",
+          "paragraphs": [
+            "楚庄王干预陈国内乱，军事扩张与重建诸侯君位相结合，扩大楚在中原的影响。",
+            "小国君位争端成为大国介入的通道。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "八、 楚庄王破陈、服郑，北向争霸；用户提供合并整理本第62158—62158行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0052",
+          "title": "邲之战",
+          "date": "公元前597年",
+          "summary": "楚庄王率军击败晋军，楚国在中原的势力显著上升，晋楚霸权竞争发生转折。",
+          "paragraphs": [
+            "楚庄王率军击败晋军，楚国在中原的势力显著上升，晋楚霸权竞争发生转折。",
+            "大国联盟的力量对比因战役胜负重新调整。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "九、 邲之战，楚庄王称霸；用户提供合并整理本第62166—62166行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 262
+    },
+    {
+      "id": "ce-chu-5260b8bf83",
+      "regimeId": "ce-chu",
+      "name": "楚共王",
+      "personalName": "熊审",
+      "aliases": [
+        "熊审"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -590,
+          "end": -560,
+          "label": "前590年—前560年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "与晋国在鄢陵交战失利，亲身受伤的记载显示君主仍可直接参与战阵。楚继续同中原诸侯结盟并面对吴国崛起，未因一战失败即退出强国格局。"
+      ],
+      "highlights": [
+        {
+          "date": "前575年",
+          "year": -575,
+          "title": "鄢陵之战",
+          "text": "晋楚再次大战，晋军获胜而楚王受伤，双方对中原诸侯的争夺仍未结束。",
+          "eventId": "ann-ce-0057"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-826b85b71b2c"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0057",
+          "title": "鄢陵之战",
+          "date": "公元前575年",
+          "summary": "晋楚再次大战，晋军获胜而楚王受伤，双方对中原诸侯的争夺仍未结束。",
+          "paragraphs": [
+            "晋楚再次大战，晋军获胜而楚王受伤，双方对中原诸侯的争夺仍未结束。",
+            "一次战役无法解决联盟体系中的长期对抗。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "三、 春秋史料的整理和春秋史的研究；用户提供合并整理本第61500—61500行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 130
+    },
+    {
+      "id": "ce-chu-182f6e616e",
+      "regimeId": "ce-chu",
+      "name": "楚康王",
+      "personalName": "熊招",
+      "aliases": [
+        "熊招"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -559,
+          "end": -545,
+          "label": "前559年—前545年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "晋楚长期对峙后，向戌弭兵会盟等外交缓和发生于其世。各国停止部分会战不表示地区战争全部消失，楚与吴及其他地方势力的冲突仍发展。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ce-chu-1733a3c70d",
+      "regimeId": "ce-chu",
+      "name": "郏敖",
+      "personalName": "熊员",
+      "aliases": [
+        "熊员"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -544,
+          "end": -541,
+          "label": "前544年—前541年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "康王之子，幼年即位，叔父公子围掌握军政。公子围后来杀郏敖并自立为灵王，王室内部的军权与幼主继承再次冲突。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 87
+    },
+    {
+      "id": "ce-chu-5b9a52b362",
+      "regimeId": "ce-chu",
+      "name": "楚灵王",
+      "personalName": "熊围",
+      "aliases": [
+        "熊围"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -540,
+          "end": -529,
+          "label": "前540年—前529年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以强势宫廷与军事手段统治，营建章华台并干预中原，战争和征发加重国内不满。远征期间发生公子弃疾等政变，回国无依后死亡，不能把台榭故事当作全部亡国原因。"
+      ],
+      "highlights": [
+        {
+          "date": "前529年",
+          "year": -529,
+          "title": "楚国王位政变",
+          "text": "楚灵王在内外失援中败亡，楚平王取得王位，楚国对外扩张暂受政治危机影响。",
+          "eventId": "ann-ce-0068"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-7b870c418152"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0068",
+          "title": "楚国王位政变",
+          "date": "公元前529年",
+          "summary": "楚灵王在内外失援中败亡，楚平王取得王位，楚国对外扩张暂受政治危机影响。",
+          "paragraphs": [
+            "楚灵王在内外失援中败亡，楚平王取得王位，楚国对外扩张暂受政治危机影响。",
+            "王权整合失败会迅速转化为地区秩序变化。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "二、 春秋史的主要文献资料；用户提供合并整理本第61480—61480行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 144
+    },
+    {
+      "id": "ce-chu-2ffa6489e3",
+      "regimeId": "ce-chu",
+      "name": "訾敖",
+      "personalName": "熊比",
+      "aliases": [
+        "熊比"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -529,
+          "end": -529,
+          "label": "前529年—前529年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "灵王出征时在政变中被立，其弟弃疾掌握实际军事与宫廷操作。听闻灵王回军的消息后自杀，王位随即转给弃疾，属于同年必须注明的短暂继位。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ce-chu-fea2e47b20",
+      "regimeId": "ce-chu",
+      "name": "楚平王",
+      "personalName": "熊弃疾",
+      "aliases": [
+        "熊弃疾"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -528,
+          "end": -516,
+          "label": "前528年—前516年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在推翻灵王后的政治操作中取得王位，伍奢、伍尚被杀及伍子胥逃吴等叙事与其宫廷有关。继承、婚姻与近臣谗言相连的故事，应与楚吴长期竞争一起理解。"
+      ],
+      "highlights": [
+        {
+          "date": "前529年",
+          "year": -529,
+          "title": "楚国王位政变",
+          "text": "楚灵王在内外失援中败亡，楚平王取得王位，楚国对外扩张暂受政治危机影响。",
+          "eventId": "ann-ce-0068"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-d0d0c2f4a1f4"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0068",
+          "title": "楚国王位政变",
+          "date": "公元前529年",
+          "summary": "楚灵王在内外失援中败亡，楚平王取得王位，楚国对外扩张暂受政治危机影响。",
+          "paragraphs": [
+            "楚灵王在内外失援中败亡，楚平王取得王位，楚国对外扩张暂受政治危机影响。",
+            "王权整合失败会迅速转化为地区秩序变化。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "二、 春秋史的主要文献资料；用户提供合并整理本第61480—61480行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 139
+    },
+    {
+      "id": "ce-chu-ed048d04b5",
+      "regimeId": "ce-chu",
+      "name": "楚昭王",
+      "personalName": "熊珍",
+      "aliases": [
+        "熊珍"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -515,
+          "end": -489,
+          "label": "前515年—前489年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "吴军在柏举获胜后入郢，昭王逃亡，申包胥求秦救援后逐步复国。楚的政治中心与地方支持在危机中重组，不能把复国归结为一位忠臣哭庭的单一故事。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ce-chu-80b583b8af",
+      "regimeId": "ce-chu",
+      "name": "楚惠王",
+      "personalName": "熊章",
+      "aliases": [
+        "熊章"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -488,
+          "end": -432,
+          "label": "前488年—前432年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期统治中平定白公胜之乱，楚在中原的势力与吴越兴衰相互影响。国内大族、封君和王室关系持续变化，漫长在位也不是一成不变的稳定时代。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ce-chu-21c72f7faf",
+      "regimeId": "ce-chu",
+      "name": "楚简王",
+      "personalName": "熊中",
+      "aliases": [
+        "熊中"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -431,
+          "end": -408,
+          "label": "前431年—前408年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "楚在春秋后期基础上继续向北与诸国竞争，曾对莒、齐等方向用兵。关于其个人政事资料有限，可由军事外交与承继定位，不能以君名补全不存在的详细生年。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ce-chu-b08bdf18ba",
+      "regimeId": "ce-chu",
+      "name": "楚声王",
+      "personalName": "熊当",
+      "aliases": [
+        "熊当"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -407,
+          "end": -402,
+          "label": "前407年—前402年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继简王而立，统治末期遭国内政治动乱杀害。随后悼王继位并重用吴起，楚的军政改革开始进入更显著阶段，不能把吴起改革提前写到声王名下。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ce-chu-4b1cbdd454",
+      "regimeId": "ce-chu",
+      "name": "楚悼王",
+      "personalName": "熊疑",
+      "aliases": [
+        "熊疑"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -401,
+          "end": -381,
+          "label": "前401年—前381年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "任用吴起整顿军政、限制部分贵族特权，提高国家动员能力。其死后贵族攻击吴起，改革推动者被杀，表明君主支持与既有贵族利益之间矛盾尖锐，改革并非一纸法令便能永久维持。"
+      ],
+      "highlights": [
+        {
+          "date": "前382年—前381年",
+          "year": -382,
+          "title": "吴起在楚变法",
+          "text": "吴起在楚国整顿贵族与官僚秩序，推进富国强兵，但在楚悼王死后遭贵族杀害。",
+          "eventId": "ann-ce-0098"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-45a9753aaf49"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0098",
+          "title": "吴起在楚变法",
+          "date": "公元前382年—公元前381年",
+          "summary": "吴起在楚国整顿贵族与官僚秩序，推进富国强兵，但在楚悼王死后遭贵族杀害。",
+          "paragraphs": [
+            "吴起在楚国整顿贵族与官僚秩序，推进富国强兵，但在楚悼王死后遭贵族杀害。",
+            "改革触动既得利益，成败与政治保护密切相关。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "五、 孙武的军事理论及《孙子兵法》；用户提供合并整理本第63862—63862行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 150
+    },
+    {
+      "id": "ce-chu-b3380d386c",
+      "regimeId": "ce-chu",
+      "name": "楚肃王",
+      "personalName": "熊臧",
+      "aliases": [
+        "熊臧"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -380,
+          "end": -370,
+          "label": "前380年—前370年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "悼王死后继位，吴起遇害后的贵族追责与权力调整发生在其初年。楚国继续参与列国战争，改革遗产与贵族秩序之间的关系不宜用“全废”或“全承”一语概括。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ce-chu-2c26221a67",
+      "regimeId": "ce-chu",
+      "name": "楚宣王",
+      "personalName": "熊良夫",
+      "aliases": [
+        "熊良夫"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -369,
+          "end": -340,
+          "label": "前369年—前340年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "肃王之弟，统治时楚在汉水及中原南缘继续经营，与魏、齐、秦的力量变化密切相连。昭奚恤等贵族近臣政治亦见于传世故事，个人评价须与当时制度背景结合。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ce-chu-9e630283c8",
+      "regimeId": "ce-chu",
+      "name": "楚威王",
+      "personalName": "熊商",
+      "aliases": [
+        "熊商"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -339,
+          "end": -329,
+          "label": "前339年—前329年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "保持楚在东方和江淮方向的扩张，传统记载其与越国衰亡有关。战国越的分裂、楚的兼并有较复杂时段，不能把所有越地在某一年一次全部纳入楚的直接统治。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ce-chu-baa4fbc45e",
+      "regimeId": "ce-chu",
+      "name": "楚怀王",
+      "personalName": "熊槐",
+      "aliases": [
+        "熊槐"
+      ],
+      "born": "生年无可靠确年",
+      "died": "前296年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -328,
+          "end": -299,
+          "label": "前328年—前299年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在秦齐之间反复结盟，受张仪等外交操作影响，丹阳、蓝田等战事使楚损失重大。晚年入秦被扣留，客死秦地。屈原传统与其宫廷相连，但楚衰落还应解释军政、地缘和联盟结构。"
+      ],
+      "highlights": [
+        {
+          "date": "前312年",
+          "year": -312,
+          "title": "丹阳蓝田之战",
+          "text": "楚国与秦国连续交战失利，秦夺取汉中，楚国西北战略空间受到挤压。",
+          "eventId": "ann-ce-0118"
+        },
+        {
+          "date": "前299年",
+          "year": -299,
+          "title": "楚怀王入秦被扣",
+          "text": "楚怀王赴秦会见后被扣留，楚国外交遭挫，秦楚关系与楚王权威进一步恶化。",
+          "eventId": "ann-ce-0121"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-7098b9fcd3c5"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0118",
+          "title": "丹阳蓝田之战",
+          "date": "公元前312年",
+          "summary": "楚国与秦国连续交战失利，秦夺取汉中，楚国西北战略空间受到挤压。",
+          "paragraphs": [
+            "楚国与秦国连续交战失利，秦夺取汉中，楚国西北战略空间受到挤压。",
+            "秦以外交和军事配合逐步瓦解楚国防线。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "顾德融、朱顺龙《春秋史》",
+              "url": "",
+              "note": "一、 西周的大分封和诸侯国的建立；用户提供合并整理本第61594—61594行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0121",
+          "title": "楚怀王入秦被扣",
+          "date": "公元前299年",
+          "summary": "楚怀王赴秦会见后被扣留，楚国外交遭挫，秦楚关系与楚王权威进一步恶化。",
+          "paragraphs": [
+            "楚怀王赴秦会见后被扣留，楚国外交遭挫，秦楚关系与楚王权威进一步恶化。",
+            "外交交往中的实力不对称可能转化为主权危机。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "前言；用户提供合并整理本第65742—65742行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 179
+    },
+    {
+      "id": "ce-chu-aba8e27626",
+      "regimeId": "ce-chu",
+      "name": "楚顷襄王",
+      "personalName": "熊横",
+      "aliases": [
+        "熊横"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -298,
+          "end": -263,
+          "label": "前298年—前263年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "怀王被留秦后即位，面临秦军持续施压，白起攻破郢都，楚政治中心东迁。国内外交与封君势力调整没有恢复原有战略优势，楚仍作为大国存在而非郢失即亡。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ce-chu-da87d2abed",
+      "regimeId": "ce-chu",
+      "name": "楚考烈王",
+      "personalName": "熊完",
+      "aliases": [
+        "熊完"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -262,
+          "end": -238,
+          "label": "前262年—前238年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "由秦回楚继位，任春申君黄歇主持政治。楚与其他诸国尝试合纵，后迁都寿春，应对秦从西方不断推进的压力；继承与后宫故事在后世记载中含有政治传闻，不能全部当作已证事实。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 115
+    },
+    {
+      "id": "ce-chu-6b18d84caa",
+      "regimeId": "ce-chu",
+      "name": "楚幽王",
+      "personalName": "熊悍",
+      "aliases": [
+        "熊悍"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -237,
+          "end": -228,
+          "label": "前237年—前228年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "考烈王死后继位，春申君被李园集团杀害，宫廷权力重组。秦兼并诸国的进程越来越近，楚的继嗣争夺却继续消耗中央协调能力。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ce-chu-915ad4e8b7",
+      "regimeId": "ce-chu",
+      "name": "楚哀王",
+      "personalName": "熊犹",
+      "aliases": [
+        "熊犹"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -228,
+          "end": -228,
+          "label": "前228年—前228年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幽王死后继位，迅速被异母兄负刍一方杀害，统治仅极短时间。其在位缺少独立政策材料，仍应列入楚末继承危机而不从名单抹去。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "ce-chu-9ec97a459a",
+      "regimeId": "ce-chu",
+      "name": "楚王负刍",
+      "personalName": "熊负刍",
+      "aliases": [
+        "熊负刍"
+      ],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": -227,
+          "end": -223,
+          "label": "前227年—前223年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在宫廷政变中取得王位，秦灭韩、赵等后加大对楚战争。王翦率军长期准备，最终攻破寿春并俘负刍，楚主要政权灭亡；江南残余抵抗另需区别，不把俘王即视为全部地区瞬间平定。"
+      ],
+      "highlights": [
+        {
+          "date": "前223年",
+          "year": -223,
+          "title": "秦灭楚",
+          "text": "秦军俘虏楚王并击败楚军主力，楚国灭亡，秦取得长江流域广大地区。",
+          "eventId": "ann-ce-0154"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "童书业《春秋史》、杨宽《战国史》：楚国与战国兼并",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-9684638cff96"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0154",
+          "title": "秦灭楚",
+          "date": "公元前223年",
+          "summary": "秦军俘虏楚王并击败楚军主力，楚国灭亡，秦取得长江流域广大地区。",
+          "paragraphs": [
+            "秦军俘虏楚王并击败楚军主力，楚国灭亡，秦取得长江流域广大地区。",
+            "统一从北方中原扩展为更广泛的南北整合。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "杨宽《战国史》",
+              "url": "",
+              "note": "一 秦兼并六国和完成统一；用户提供合并整理本第70183—70183行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 146
+    }
+  ]
+}

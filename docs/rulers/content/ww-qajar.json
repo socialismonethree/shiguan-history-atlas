@@ -1,0 +1,366 @@
+{
+  "id": "ww-qajar",
+  "people": [
+    {
+      "id": "ww-ab79b6bf3a7f",
+      "regimeId": "ww-qajar",
+      "name": "阿迦·穆罕默德汗",
+      "personalName": "阿迦·穆罕默德汗",
+      "aliases": [],
+      "born": "1742年",
+      "died": "1797年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1796,
+          "end": 1797,
+          "label": "1796—1797年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "青年时被迫经历宫廷拘禁，在赞德统治瓦解后返回本族势力范围，逐步击败对手，建立以德黑兰为中心的统治。1796年正式加冕，此前已实际经营权力多年；在高加索的征服造成严重破坏。他遇刺后由侄子法特赫·阿里继位。"
+      ],
+      "highlights": [
+        {
+          "date": "1785年",
+          "year": 1785,
+          "title": "卡扎尔王朝与外部压力",
+          "text": "卡扎尔逐步统一伊朗主要地区，随后面对俄国战争、欧洲竞争和特许权压力。",
+          "eventId": "we-qajar"
+        }
+      ],
+      "assessment": "王朝巩固伴随战争与严酷统治，其后面临更强外部压力。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "大都会艺术博物馆：卡扎尔时期的艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-qajar-period-1785-1925",
+          "note": "王朝艺术与政治的时期背景；本版个人资料未逐项完备。"
+        },
+        {
+          "title": "Royal Persian Paintings: The Qajar Epoch, 1785–1925",
+          "url": "https://opencollection.brooklynmuseum.org/exhibitions/1206",
+          "note": "展览艺术分期从1785起；政治建国也有1789、1794或1796等口径，本站不将其混写。"
+        },
+        {
+          "title": "伊朗立宪革命：事件",
+          "url": "https://www.iranicaonline.org/articles/constitutional-revolution-ii/",
+          "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-qajar",
+          "title": "卡扎尔王朝与外部压力",
+          "date": "1785年",
+          "summary": "卡扎尔逐步统一伊朗主要地区，随后面对俄国战争、欧洲竞争和特许权压力。",
+          "paragraphs": [
+            "卡扎尔逐步统一伊朗主要地区，随后面对俄国战争、欧洲竞争和特许权压力。",
+            "王权改革和财政困境与国际力量交织，不能把近代变局只归因于内部衰弱。",
+            "领土、税收和外来经济权益引起争议，催生改革与立宪诉求。"
+          ],
+          "note": "1785为常用统治起点，1796为正式加冕年，王朝延续到1925。",
+          "sources": [
+            {
+              "title": "Royal Persian Paintings: The Qajar Epoch, 1785–1925",
+              "url": "https://opencollection.brooklynmuseum.org/exhibitions/1206",
+              "note": "布鲁克林博物馆；展览艺术分期从1785起；政治建国也有1789、1794或1796等口径，本站不将其混写。"
+            },
+            {
+              "title": "伊朗立宪革命：事件",
+              "url": "https://www.iranicaonline.org/articles/constitutional-revolution-ii/",
+              "note": "Encyclopaedia Iranica／学术作者；用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 160
+    },
+    {
+      "id": "ww-c64e47adcdfa",
+      "regimeId": "ww-qajar",
+      "name": "法特赫·阿里沙",
+      "personalName": "法特赫·阿里沙",
+      "aliases": [],
+      "born": "1772年",
+      "died": "1834年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1797,
+          "end": 1834,
+          "label": "1797—1834年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以庞大的王族婚姻网络经营政治，宫廷肖像和奢华仪式强化沙阿形象。与俄国的两轮战争以古利斯坦和土库曼恰伊条约失去高加索大片领地，王储阿拔斯·米尔扎推动军事改革却先于父亲去世。艺术赞助与对外失利共同构成其统治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "大都会艺术博物馆：卡扎尔时期的艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-qajar-period-1785-1925",
+          "note": "王朝艺术与政治的时期背景；本版个人资料未逐项完备。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ww-cd32e1eb5eff",
+      "regimeId": "ww-qajar",
+      "name": "穆罕默德沙",
+      "personalName": "穆罕默德沙",
+      "aliases": [],
+      "born": "1808年",
+      "died": "1848年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1834,
+          "end": 1848,
+          "label": "1834—1848年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "阿拔斯·米尔扎之子，在父亲早逝后继承祖父王位。围攻赫拉特引发英俄角逐，宫廷依赖哈吉·米尔扎·阿伽西等重臣；地方财政和宗教社会矛盾继续发展。1844年巴布运动兴起，成为王朝后续重要冲突背景。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "大都会艺术博物馆：卡扎尔时期的艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-qajar-period-1785-1925",
+          "note": "王朝艺术与政治的时期背景；本版个人资料未逐项完备。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-e60ce66d81be",
+      "regimeId": "ww-qajar",
+      "name": "纳赛尔丁沙",
+      "personalName": "纳赛尔丁沙",
+      "aliases": [],
+      "born": "1831年",
+      "died": "1896年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1848,
+          "end": 1896,
+          "label": "1848—1896年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期在位，早期阿米尔·卡比尔推动改革，随后遭处决。多次赴欧、发展摄影与交通等新事物，同时以特许权和外国贷款缓解财政困境，引起反对。烟草抗议显示宗教、商人和民众联合行动的力量；他最终在参拜时遇刺。"
+      ],
+      "highlights": [
+        {
+          "date": "1896年",
+          "year": 1896,
+          "title": "纳赛尔丁沙遇刺",
+          "text": "长期统治者遭暗杀，国家债务、外国特权与王权改革争论并未因此解决。",
+          "eventId": "ann-chron-world-central-west-asia-0472"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "大都会艺术博物馆：卡扎尔时期的艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-qajar-period-1785-1925",
+          "note": "王朝艺术与政治的时期背景；本版个人资料未逐项完备。"
+        },
+        {
+          "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-central-west-asia-0472",
+          "title": "纳赛尔丁沙遇刺",
+          "date": "1896年",
+          "summary": "长期统治者遭暗杀，国家债务、外国特权与王权改革争论并未因此解决。",
+          "paragraphs": [
+            "长期统治者遭暗杀，国家债务、外国特权与王权改革争论并未因此解决。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 129
+    },
+    {
+      "id": "ww-01272b176c31",
+      "regimeId": "ww-qajar",
+      "name": "穆扎法尔丁沙",
+      "personalName": "穆扎法尔丁沙",
+      "aliases": [],
+      "born": "1853年",
+      "died": "1907年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1896,
+          "end": 1907,
+          "label": "1896—1907年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继位后继续依赖外国贷款，宫廷旅行和财政负担引起社会不满。立宪运动的压力迫使其1906年批准议会与宪法安排，去世时新制度仍很脆弱。其个人健康和财政决策只能解释部分原因，商人、教士及城市政治网络同样重要。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "大都会艺术博物馆：卡扎尔时期的艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-qajar-period-1785-1925",
+          "note": "王朝艺术与政治的时期背景；本版个人资料未逐项完备。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-55f4e00334fe",
+      "regimeId": "ww-qajar",
+      "name": "穆罕默德·阿里沙",
+      "personalName": "穆罕默德·阿里沙",
+      "aliases": [],
+      "born": "1872年",
+      "died": "1925年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1907,
+          "end": 1909,
+          "label": "1907—1909年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继位后与立宪派冲突，1908年命俄国军官领导的哥萨克部队炮击议会，试图恢复专制。各地立宪力量反击并进入德黑兰，1909年将其废黜，幼子艾哈迈德接位。他流亡后仍曾尝试复位，却未成功。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "大都会艺术博物馆：卡扎尔时期的艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-qajar-period-1785-1925",
+          "note": "王朝艺术与政治的时期背景；本版个人资料未逐项完备。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-f999e7fc08b6",
+      "regimeId": "ww-qajar",
+      "name": "艾哈迈德沙",
+      "personalName": "艾哈迈德沙",
+      "aliases": [],
+      "born": "1898年",
+      "died": "1930年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1909,
+          "end": 1925,
+          "label": "1909—1925年",
+          "role": "沙阿",
+          "note": ""
+        }
+      ],
+      "life": [
+        "少年在父亲被废后即位，最初依靠摄政与议会制度。第一次世界大战使伊朗遭外国军队和地方武装干预，1921年政变后礼萨汗逐步掌握军政大权。艾哈迈德长期离国，1925年被议会废黜；本条不把名义任期与其实际控制能力等同。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "大都会艺术博物馆：卡扎尔时期的艺术",
+          "url": "https://www.metmuseum.org/essays/the-art-of-the-qajar-period-1785-1925",
+          "note": "王朝艺术与政治的时期背景；本版个人资料未逐项完备。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    }
+  ]
+}

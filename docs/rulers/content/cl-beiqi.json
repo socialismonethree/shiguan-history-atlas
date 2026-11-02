@@ -1,0 +1,402 @@
+{
+  "id": "cl-beiqi",
+  "people": [
+    {
+      "id": "cl-beiqi-365cfaca3",
+      "regimeId": "cl-beiqi",
+      "name": "齐文宣帝",
+      "personalName": "高洋",
+      "aliases": [
+        "高洋"
+      ],
+      "born": "526年",
+      "died": "559年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 550,
+          "end": 559,
+          "label": "550—559年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高欢之子，在高澄遇刺后接掌东魏权力，550年代魏建齐。前期整顿行政、强化军队并经营北方关系，晚年政治暴力和宫廷问题加重；对其性格的记述须与制度和战争条件分开。"
+      ],
+      "highlights": [
+        {
+          "date": "550年",
+          "year": 550,
+          "title": "北齐建立",
+          "text": "高洋迫使东魏皇帝禅位建立北齐，继承河北等地的人口、经济与军事实力。",
+          "eventId": "ann-ce-0544"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-96735cf0df26"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第一节 世家大族经济势力的发展与部曲佃客制度的形成，合并文本第84307行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0544",
+          "title": "北齐建立",
+          "date": "550年",
+          "summary": "高洋迫使东魏皇帝禅位建立北齐，继承河北等地的人口、经济与军事实力。",
+          "paragraphs": [
+            "高洋迫使东魏皇帝禅位建立北齐，继承河北等地的人口、经济与军事实力。",
+            "北方两个权臣政权逐步以新王朝形式公开并立。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 世家大族经济势力的发展与部曲佃客制度的形成；用户提供合并整理本第84415—84415行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 152
+    },
+    {
+      "id": "cl-beiqi-50b98c6ae",
+      "regimeId": "cl-beiqi",
+      "name": "齐废帝",
+      "personalName": "高殷",
+      "aliases": [
+        "高殷"
+      ],
+      "born": "545年",
+      "died": "561年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 559,
+          "end": 560,
+          "label": "559—560年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高洋长子，继位时尚年少，杨愔等辅政大臣与皇叔高演、高湛争权。560年被废，叔父高演继位；次年遭杀，是高氏皇位由父子传承转入兄弟继承的节点。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第一节 世家大族经济势力的发展与部曲佃客制度的形成，合并文本第84307行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "cl-beiqi-fa20eeaed",
+      "regimeId": "cl-beiqi",
+      "name": "齐孝昭帝",
+      "personalName": "高演",
+      "aliases": [
+        "高演"
+      ],
+      "born": "535年",
+      "died": "561年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 560,
+          "end": 561,
+          "label": "560—561年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高欢之子，在政变中废高殷自立。统治期较短，注重整顿政务，也未摆脱皇室内斗；561年去世前传位弟高湛，而非自己年幼的儿子。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第一节 世家大族经济势力的发展与部曲佃客制度的形成，合并文本第84307行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "cl-beiqi-44c275502",
+      "regimeId": "cl-beiqi",
+      "name": "齐武成帝",
+      "personalName": "高湛",
+      "aliases": [
+        "高湛"
+      ],
+      "born": "537年",
+      "died": "569年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 561,
+          "end": 565,
+          "label": "561—565年",
+          "role": "皇帝",
+          "note": "旧年表常从562年年号元年起列；此处实际即位561年。"
+        }
+      ],
+      "life": [
+        "高欢之子，由兄高演传位。565年禅位儿子高纬，自为太上皇，仍影响政局；皇权与近臣的关系及宫廷开支问题持续，不能把禅位误读为完全退出权力。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "旧年表常从562年年号元年起列；此处实际即位561年。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第一节 世家大族经济势力的发展与部曲佃客制度的形成，合并文本第84307行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "cl-beiqi-6324c0ebd",
+      "regimeId": "cl-beiqi",
+      "name": "齐后主",
+      "personalName": "高纬",
+      "aliases": [
+        "高纬"
+      ],
+      "born": "556年",
+      "died": "577年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 565,
+          "end": 577,
+          "label": "565—577年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高湛之子，幼年即位，后由亲信与宠臣深度参与政务。与北周的战争逐渐失利，577年将帝位交给幼子高恒后仍未能挽救局面，被北周俘获并杀害。"
+      ],
+      "highlights": [
+        {
+          "date": "576年",
+          "year": 576,
+          "title": "北周夺取平阳",
+          "text": "北周攻取平阳并击退北齐反攻，北齐防御体系出现重大缺口，战争主动权转向北周。",
+          "eventId": "ann-ce-0563"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-5d25873606b2"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第一节 世家大族经济势力的发展与部曲佃客制度的形成，合并文本第84307行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0563",
+          "title": "北周夺取平阳",
+          "date": "576年",
+          "summary": "北周攻取平阳并击退北齐反攻，北齐防御体系出现重大缺口，战争主动权转向北周。",
+          "paragraphs": [
+            "北周攻取平阳并击退北齐反攻，北齐防御体系出现重大缺口，战争主动权转向北周。",
+            "关键据点失守会破坏国家整体防线与政治信心。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四节 吴在东南的开发；用户提供合并整理本第83848—83848行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 143
+    },
+    {
+      "id": "cl-beiqi-e2d7b4037",
+      "regimeId": "cl-beiqi",
+      "name": "齐幼主",
+      "personalName": "高恒",
+      "aliases": [
+        "高恒"
+      ],
+      "born": "570年",
+      "died": "577年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 577,
+          "end": 577,
+          "label": "577年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "高纬之子，在北周军逼近时受禅即位。北齐主力和都城相继失守，高恒随父被俘，后在北周遭杀；其帝位是亡国战争中的短暂名义安排。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第一节 世家大族经济势力的发展与部曲佃客制度的形成，合并文本第84307行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "cl-beiqi-537357f02",
+      "regimeId": "cl-beiqi",
+      "name": "安德王高延宗",
+      "personalName": "高延宗",
+      "aliases": [
+        "高延宗"
+      ],
+      "born": "544年",
+      "died": "577年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 577,
+          "end": 577,
+          "label": "577年",
+          "role": "皇帝",
+          "note": "短暂并立者，不能排成高纬与高恒之间无重叠的正常继承。"
+        }
+      ],
+      "life": [
+        "高欢之孙，北周攻齐时在晋阳一度被拥立称帝，短暂指挥抵抗，随即兵败被俘。其即位发生于齐后主统治期中，是危局中的另一个政治中心。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "短暂并立者，不能排成高纬与高恒之间无重叠的正常继承。",
+        "称帝记于武平七年末，通行历史纪年标576年，换算公历已是577年；封号为安德王，不是任城王。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第一节 世家大族经济势力的发展与部曲佃客制度的形成，合并文本第84307行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "cl-beiqi-87b1524ca",
+      "regimeId": "cl-beiqi",
+      "name": "范阳王高绍义",
+      "personalName": "高绍义",
+      "aliases": [
+        "高绍义"
+      ],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "卒年不详或尚有争议",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 578,
+          "end": 580,
+          "label": "578—580年",
+          "role": "皇帝",
+          "note": "流亡称帝者；生卒确年本版未核实，不与邺城六帝混计。"
+        }
+      ],
+      "life": [
+        "高洋之子，北齐灭亡后流亡突厥，在突厥支持下称帝，试图恢复北齐。580年被送交北周，随后流放。其活动地域和政权性质与邺城北齐不同。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "流亡称帝者；生卒确年本版未核实，不与邺城六帝混计。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第7册，第一节 世家大族经济势力的发展与部曲佃客制度的形成，合并文本第84307行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    }
+  ]
+}

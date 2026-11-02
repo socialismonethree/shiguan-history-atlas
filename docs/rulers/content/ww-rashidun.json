@@ -1,0 +1,215 @@
+{
+  "id": "ww-rashidun",
+  "people": [
+    {
+      "id": "ww-d0c20c9505e5",
+      "regimeId": "ww-rashidun",
+      "name": "阿布·伯克尔",
+      "personalName": "阿布·伯克尔",
+      "aliases": [],
+      "born": "约573年",
+      "died": "634年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 632,
+          "end": 634,
+          "label": "632—634年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆罕默德早期追随者、阿伊莎之父，在先知去世后的推举和政治协商中取得领导地位。他发动里达战争，迫使脱离麦地那权威的阿拉伯部落重新服从，推动军队向伊拉克与叙利亚发展；死前指定欧麦尔继任，继承方式仍未形成一套固定制度。"
+      ],
+      "highlights": [
+        {
+          "date": "632年",
+          "year": 632,
+          "title": "早期哈里发与阿拉伯扩张",
+          "text": "穆罕默德去世后，哈里发领导的军队进入叙利亚、埃及和萨珊领地。",
+          "eventId": "we-arab-conquests"
+        }
+      ],
+      "assessment": "其时期连接先知时代与哈里发国家扩张的开端。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "阿拉伯扩张与早期伊斯兰国家",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/11-2-the-arab-islamic-conquests-and-the-first-islamic-states",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-arab-conquests",
+          "title": "早期哈里发与阿拉伯扩张",
+          "date": "632年",
+          "summary": "穆罕默德去世后，哈里发领导的军队进入叙利亚、埃及和萨珊领地。",
+          "paragraphs": [
+            "穆罕默德去世后，哈里发领导的军队进入叙利亚、埃及和萨珊领地。",
+            "扩张重组晚期古代帝国边界，但居民改宗与阿拉伯化并非立即完成。",
+            "新的统治制度形成，继承和领导权争论也在共同体内部发展。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "阿拉伯扩张与早期伊斯兰国家",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/11-2-the-arab-islamic-conquests-and-the-first-islamic-states",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 157
+    },
+    {
+      "id": "ww-06c875d84e53",
+      "regimeId": "ww-rashidun",
+      "name": "欧麦尔一世",
+      "personalName": "欧麦尔一世",
+      "aliases": [],
+      "born": "约584年",
+      "died": "644年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 634,
+          "end": 644,
+          "label": "634—644年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "阿布·伯克尔指定的继承人，在位期间阿拉伯军队夺取叙利亚、埃及和萨珊大片领土，新的军营城市与俸禄分配制度随征服发展。他的行政形象常见于后世政治记忆。644年遇刺后，由协商小组处理继承，不能把征服扩张仅解释为一人指挥的简单结果。"
+      ],
+      "highlights": [
+        {
+          "date": "632年",
+          "year": 632,
+          "title": "早期哈里发与阿拉伯扩张",
+          "text": "穆罕默德去世后，哈里发领导的军队进入叙利亚、埃及和萨珊领地。",
+          "eventId": "we-arab-conquests"
+        }
+      ],
+      "assessment": "扩张成功不表示被征服居民立即完成改宗或语言转变。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        },
+        {
+          "title": "阿拉伯扩张与早期伊斯兰国家",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/11-2-the-arab-islamic-conquests-and-the-first-islamic-states",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-arab-conquests",
+          "title": "早期哈里发与阿拉伯扩张",
+          "date": "632年",
+          "summary": "穆罕默德去世后，哈里发领导的军队进入叙利亚、埃及和萨珊领地。",
+          "paragraphs": [
+            "穆罕默德去世后，哈里发领导的军队进入叙利亚、埃及和萨珊领地。",
+            "扩张重组晚期古代帝国边界，但居民改宗与阿拉伯化并非立即完成。",
+            "新的统治制度形成，继承和领导权争论也在共同体内部发展。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "阿拉伯扩张与早期伊斯兰国家",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/11-2-the-arab-islamic-conquests-and-the-first-islamic-states",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 166
+    },
+    {
+      "id": "ww-db48a6c7fce4",
+      "regimeId": "ww-rashidun",
+      "name": "奥斯曼·伊本·阿凡",
+      "personalName": "奥斯曼·伊本·阿凡",
+      "aliases": [],
+      "born": "约576年",
+      "died": "656年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 644,
+          "end": 656,
+          "label": "644—656年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "倭马亚家族成员，经协商继位。其时代继续对外扩张，并以《古兰经》文本标准化在传统中著称；亲属任命、地方财政和军人利益引起强烈反对。他在麦地那被反叛者杀害，事件成为第一次内战的重要起点，后来宗派记忆对责任归属有不同解释。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "ww-09c7b3fde294",
+      "regimeId": "ww-rashidun",
+      "name": "阿里·伊本·艾比·塔利卜",
+      "personalName": "阿里·伊本·艾比·塔利卜",
+      "aliases": [],
+      "born": "约600年",
+      "died": "661年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 656,
+          "end": 661,
+          "label": "656—661年",
+          "role": "哈里发",
+          "note": ""
+        }
+      ],
+      "life": [
+        "穆罕默德的堂弟及女婿，在奥斯曼遇害后被拥立。面对阿伊莎、祖拜尔等人与叙利亚总督穆阿维叶的挑战，他经历骆驼之战、隋芬战役和仲裁危机；哈瓦利吉派随后分裂。661年遇刺后，其子哈桑短暂掌权并与穆阿维叶议和；什叶派与逊尼派传统中的地位各有解释。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：伊斯兰世界统治者年表",
+          "url": "https://www.metmuseum.org/fr/toah/hd/isru/hd_isru.htm",
+          "note": "以公元纪年列在位阶段；回历与公历换算及任期口径可有一年差异。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 118
+    }
+  ]
+}

@@ -1,0 +1,4544 @@
+{
+  "id": "ww-roman-empire",
+  "people": [
+    {
+      "id": "ww-e3bc0278a0fc",
+      "regimeId": "ww-roman-empire",
+      "name": "奥古斯都",
+      "personalName": "盖乌斯·屋大维 / Gaius Octavius",
+      "aliases": [
+        "屋大维"
+      ],
+      "born": "前63年",
+      "died": "14年",
+      "birthPlace": "罗马精英家庭出身，凯撒的甥孙与遗嘱继承人，原名屋大维。",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": -27,
+          "end": 14,
+          "label": "前27—14年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "奥古斯都在共和国内战后建立通常称为元首制的统治，是罗马帝国首位皇帝。他的成功不只依靠军队，也在于把个人权力包装成传统秩序的恢复，让精英和公民在熟悉形式中接受新制度。",
+        "凯撒遇刺后参与权力斗争，最终击败安东尼等对手，前30年成为支配罗马领土的主要领导者。",
+        "前27年获奥古斯都称号，表面把权力交还元老院和人民，同时借职权、特权和军队保持实际控制。",
+        "将个人军事优势转化为较持久的政治体制，保留共和官职外观。",
+        "以建筑、宗教仪式、文学和肖像塑造和平与家族合法性，罗马城市景观因此发生显著变化。"
+      ],
+      "highlights": [
+        {
+          "date": "-31年",
+          "year": -31,
+          "title": "奥古斯都与元首制",
+          "text": "屋大维在内战中获胜，前27年获奥古斯都称号，在共和名义下集中军政权力。",
+          "eventId": "we-augustus"
+        },
+        {
+          "date": "-51年",
+          "year": -51,
+          "title": "托勒密埃及与罗马兼并",
+          "text": "克娄巴特拉七世在罗马内战中争取王朝地位，最终埃及被屋大维纳入统治。",
+          "eventId": "we-cleopatra"
+        },
+        {
+          "date": "公元前31年",
+          "year": -31,
+          "title": "阿克提乌姆海战",
+          "text": "屋大维击败安东尼与克娄巴特拉，内战接近结束，个人统治获得决定性优势。",
+          "eventId": "ann-chron-world-europe-0060"
+        }
+      ],
+      "assessment": "共和外观与皇帝实际权力并存，是理解帝制形成的核心。",
+      "uncertainties": [
+        "元首不是现代民选国家元首；恢复共和国的宣称与权力集中应对照理解。公共肖像的理想化面貌不是人物真实年龄的直接记录。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "奥古斯都与罗马帝制的形成",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/6-5-the-age-of-augustus",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "Ancient Rome, an Introduction",
+          "url": "https://smarthistory.org/introduction-to-ancient-rome/",
+          "note": "大英博物馆撰写的介绍；前509是传统共和国起年，476是西部皇帝废黜节点。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        },
+        {
+          "title": "Augustan Rule (27 B.C.–14 A.D.)",
+          "url": "https://www.metmuseum.org/de/essays/augustan-rule-27-b-c-14-a-d",
+          "note": "大都会艺术博物馆希腊罗马艺术部；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+        },
+        {
+          "title": "Colossal marble head of the emperor Augustus",
+          "url": "https://www.metmuseum.org/art/collection/search/251114",
+          "note": "大都会艺术博物馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+        }
+      ],
+      "works": [
+        {
+          "title": "和平祭坛等公共营建",
+          "note": "反映统治时期政治和宗教表达，须区分赞助者、设计者和工匠。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-augustus",
+          "title": "奥古斯都与元首制",
+          "date": "前31年",
+          "summary": "屋大维在内战中获胜，前27年获奥古斯都称号，在共和名义下集中军政权力。",
+          "paragraphs": [
+            "共和国后期军队、财富和个人政治联盟不断结合，内战破坏了传统竞争机制。屋大维在凯撒遇刺后的权力斗争中胜出，需要让军事独占转化为被精英接受的长期统治。",
+            "他保留元老院、官职和公共仪式，用“首席公民”的位置集中军队和政治权威。元首制并非简单宣布取消共和国，而是使传统形式与实际个人统治并存。",
+            "城市建设、宗教仪式、肖像与文学赞助共同塑造秩序恢复的形象。和平祭坛、祈祷和祭祀姿态的雕像，把统治者与家族连接到罗马的宗教和历史使命。",
+            "罗马形成持续的皇帝统治框架；内战后较稳定的政局与个人权力集中相伴存在。元首制也留下继承问题，无法完全由既有共和程序解决。",
+            "政治与艺术密切结合成为帝国的重要特征。公共空间中的建筑、钱币和诗歌并非纯粹装饰，而参与讲述谁有权统治、何种过去值得纪念。"
+          ],
+          "note": "所谓“罗马和平”不能解释为帝国境内外没有战争，也不意味着被征服者与公民平等。史料中的恢复传统语言，须与真实权力结构对读。",
+          "sources": [
+            {
+              "title": "奥古斯都与罗马帝制的形成",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/6-5-the-age-of-augustus",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Ancient Rome, an Introduction",
+              "url": "https://smarthistory.org/introduction-to-ancient-rome/",
+              "note": "大英博物馆／Smarthistory；大英博物馆撰写的介绍；前509是传统共和国起年，476是西部皇帝废黜节点。"
+            },
+            {
+              "title": "Augustan Rule (27 B.C.–14 A.D.)",
+              "url": "https://www.metmuseum.org/de/essays/augustan-rule-27-b-c-14-a-d",
+              "note": "大都会艺术博物馆希腊罗马艺术部；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "we-cleopatra",
+          "title": "托勒密埃及与罗马兼并",
+          "date": "前51年",
+          "summary": "克娄巴特拉七世在罗马内战中争取王朝地位，最终埃及被屋大维纳入统治。",
+          "paragraphs": [
+            "克娄巴特拉七世在罗马内战中争取王朝地位，最终埃及被屋大维纳入统治。",
+            "埃及王权危机与地中海帝国竞争相连，不能只写成爱情传奇。",
+            "托勒密王朝结束，埃及成为罗马的重要粮食、财政与交通地区。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "奥古斯都与罗马帝制的形成",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/6-5-the-age-of-augustus",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-europe-0060",
+          "title": "阿克提乌姆海战",
+          "date": "公元前31年",
+          "summary": "屋大维击败安东尼与克娄巴特拉，内战接近结束，个人统治获得决定性优势。",
+          "paragraphs": [
+            "屋大维击败安东尼与克娄巴特拉，内战接近结束，个人统治获得决定性优势。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-europe-0061",
+          "title": "奥古斯都确立元首制",
+          "date": "公元前27年",
+          "summary": "共和国名义下集中王权，罗马进入帝国政治的新阶段。",
+          "paragraphs": [
+            "共和国名义下集中王权，罗马进入帝国政治的新阶段。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 363
+    },
+    {
+      "id": "ww-55a9cebcb018",
+      "regimeId": "ww-roman-empire",
+      "name": "提比略",
+      "personalName": "提比略·克劳狄乌斯·尼禄 / Tiberius Claudius Nero",
+      "aliases": [],
+      "born": "前42年",
+      "died": "37年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 14,
+          "end": 37,
+          "label": "14—37年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "奥古斯都养子和经验丰富的将领，继位后保留既有元首制度，依靠元老院、近卫军及地方官运作帝国。晚年离开罗马居于卡普里，塞扬权势及其倒台引起清洗。敌对元老传统中的暴君形象，应与行政和边境政策的证据分别阅读。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-9e76a6f7998b",
+      "regimeId": "ww-roman-empire",
+      "name": "卡利古拉",
+      "personalName": "盖乌斯·尤利乌斯·凯撒·日耳曼尼库斯",
+      "aliases": [],
+      "born": "12年",
+      "died": "41年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 37,
+          "end": 41,
+          "label": "37—41年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "日耳曼尼库斯之子，初获公众欢迎，随后与贵族及宫廷集团冲突加剧。统治涉及奢华仪礼、财政压力和皇权表现形式，41年遭近卫军成员等人刺杀。许多骇人逸闻来自敌对作者，不能把每一则故事都视为可核实个人事实。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-3b61d9c64603",
+      "regimeId": "ww-roman-empire",
+      "name": "克劳狄乌斯",
+      "personalName": "提比略·克劳狄乌斯·尼禄·日耳曼尼库斯",
+      "aliases": [],
+      "born": "前10年",
+      "died": "54年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 41,
+          "end": 54,
+          "label": "41—54年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "卡利古拉遇害后被近卫军拥立，尽管长期被排除在重要军政职位外，登位后仍推动行政、司法和公共工程。43年征服不列颠扩大帝国，宫廷自由民和婚姻继承安排影响施政。他与皇后阿格里皮娜及尼禄的关系，成为后世毒杀叙事的焦点。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ww-2989dab27bd1",
+      "regimeId": "ww-roman-empire",
+      "name": "尼禄",
+      "personalName": "卢基乌斯·多米提乌斯·阿赫诺巴尔布斯",
+      "aliases": [],
+      "born": "37年",
+      "died": "68年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 54,
+          "end": 68,
+          "label": "54—68年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "少年在母亲及导师、重臣支持下继位，后来逐步清除亲近者并强调个人艺术与皇权展示。64年罗马大火后的建设、迫害及财政需求加深政治冲突。行省军队反叛使其失去支持并自杀，朱里亚—克劳狄王朝终结；纵火指控并非可以无条件接受的事实。"
+      ],
+      "highlights": [
+        {
+          "date": "64年",
+          "year": 64,
+          "title": "罗马大火",
+          "text": "城市灾难引发重建与政治争议，尼禄对基督徒的迫害进入后世宗教记忆。",
+          "eventId": "ann-chron-world-europe-0064"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0064",
+          "title": "罗马大火",
+          "date": "64年",
+          "summary": "城市灾难引发重建与政治争议，尼禄对基督徒的迫害进入后世宗教记忆。",
+          "paragraphs": [
+            "城市灾难引发重建与政治争议，尼禄对基督徒的迫害进入后世宗教记忆。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 142
+    },
+    {
+      "id": "ww-c41075a0eb97",
+      "regimeId": "ww-roman-empire",
+      "name": "加尔巴",
+      "personalName": "加尔巴",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 68,
+          "end": 69,
+          "label": "68—69年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "行省总督和军事统帅，在尼禄统治崩溃时被拥为皇帝。试图通过节制赏赐和调整人员重建纪律，却与近卫军、各地军团及政治盟友发生冲突。继承人选择刺激奥托发动政变，短暂统治以在罗马被杀告终。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "ww-e34e9dd1fb40",
+      "regimeId": "ww-roman-empire",
+      "name": "奥托",
+      "personalName": "奥托",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 69,
+          "end": 69,
+          "label": "69年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾为尼禄宫廷人物和行省总督，参与支持加尔巴，继而依靠近卫军夺位。面对莱茵军团拥立的维特里乌斯，他的军队在意大利内战中败北，随后自杀。其数月统治属于四帝之年的军事政治崩解，不能以名义承认推定控制全部帝国。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ww-a0441133961b",
+      "regimeId": "ww-roman-empire",
+      "name": "维特里乌斯",
+      "personalName": "维特里乌斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 69,
+          "end": 69,
+          "label": "69年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "获莱茵军团拥立，与奥托争夺意大利控制。胜利后仍无法稳定军队和财政，东方军团转而支持韦斯帕芗。其支持者在罗马战败，他本人被杀；敌对记载中的贪食形象不能替代对军团地域竞争的理解。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 87
+    },
+    {
+      "id": "ww-073bb14e5985",
+      "regimeId": "ww-roman-empire",
+      "name": "韦斯帕芗",
+      "personalName": "韦斯帕芗",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 69,
+          "end": 79,
+          "label": "69—79年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "从军人和犹太战争统帅崛起，在内战中取得王位，建立弗拉维王朝。他重建财政、恢复行政和公共工程，罗马斗兽场的兴建利用战争收益与帝国资源。安排提图斯和图密善的继承增强王朝稳定，但共和制度形式与皇权依旧不对等。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ww-7229fe3f8dbc",
+      "regimeId": "ww-roman-empire",
+      "name": "提图斯",
+      "personalName": "提图斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 79,
+          "end": 81,
+          "label": "79—81年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "韦斯帕芗之子，王子时期指挥攻陷耶路撒冷，圣殿毁坏成为重要历史节点。登位后遭遇维苏威喷发、火灾与疫病，组织赈济并完成斗兽场启用。其短暂统治在罗马作者中获得较好声誉，与犹太地区的战争灾难须同时呈现。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ww-ef4912c6fe0e",
+      "regimeId": "ww-roman-empire",
+      "name": "图密善",
+      "personalName": "图密善",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 81,
+          "end": 96,
+          "label": "81—96年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承兄长后强化皇帝权威、宫廷礼仪及财政行政，进行边境战争和公共建设。与元老院关系恶化，阴谋与清洗相互强化，最终被宫廷集团刺杀。元老传统的暴君评价应与行省行政、军队和建筑遗产的证据合读。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ww-4d756b44b604",
+      "regimeId": "ww-roman-empire",
+      "name": "涅尔瓦",
+      "personalName": "涅尔瓦",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 96,
+          "end": 98,
+          "label": "96—98年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "图密善遇刺后以资深元老身份登位，试图缓和政治清洗和皇权冲突，却缺少稳固军事支持。近卫军危机迫使其采纳有军团声望的图拉真为养子。短暂任期的重要性在于政治过渡和继承安排，而非已经独立完成一个盛世制度。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-23e107471b37",
+      "regimeId": "ww-roman-empire",
+      "name": "图拉真",
+      "personalName": "马尔库斯·乌尔皮乌斯·图拉真",
+      "aliases": [],
+      "born": "53年",
+      "died": "117年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 98,
+          "end": 117,
+          "label": "98—117年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身西班牙行省背景的军人家庭，获涅尔瓦收养后继位。征服达契亚和对安息的大规模战争使帝国达到极广范围，也赞助道路、广场和社会供给项目。领土扩张增加治理与补给压力，东部新征服区在其死后并未全部保持。"
+      ],
+      "highlights": [
+        {
+          "date": "98年",
+          "year": 98,
+          "title": "图拉真、哈德良与罗马边疆",
+          "text": "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+          "eventId": "we-roman-frontiers"
+        },
+        {
+          "year": 98,
+          "date": "98年",
+          "title": "图拉真即位（任内史事）",
+          "text": "帝国通过对外战争扩大边界，随后面对远征成本与行政整合问题。",
+          "eventId": "ann-chron-world-europe-0068"
+        }
+      ],
+      "assessment": "帝国规模增长也意味着更长边疆和更多资源需求。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "罗马帝国宗教与早期基督教",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "罗马行省、城市和帝国空间",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "罗马帝国重心东移与西部政权更替",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-roman-frontiers",
+          "title": "图拉真、哈德良与罗马边疆",
+          "date": "98年",
+          "summary": "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+          "paragraphs": [
+            "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+            "扩张与防卫需要不同资源安排，所谓盛世也包含被征服者、军人和地方居民的代价。",
+            "帝国整合达到重要阶段，马可·奥勒留时期的战争压力预示长期治理难题。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "罗马帝国宗教与早期基督教",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "罗马行省、城市和帝国空间",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "罗马帝国重心东移与西部政权更替",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-europe-0068",
+          "title": "图拉真即位",
+          "date": "98年",
+          "summary": "帝国通过对外战争扩大边界，随后面对远征成本与行政整合问题。",
+          "paragraphs": [
+            "帝国通过对外战争扩大边界，随后面对远征成本与行政整合问题。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 183
+    },
+    {
+      "id": "ww-193d01b6a51c",
+      "regimeId": "ww-roman-empire",
+      "name": "哈德良",
+      "personalName": "普布利乌斯·埃利乌斯·哈德良",
+      "aliases": [],
+      "born": "76年",
+      "died": "138年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 117,
+          "end": 138,
+          "label": "117—138年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承图拉真的帝国，放弃部分东方新占领区，转而经营边境和行省整合。他长期巡行，赞助城市与建筑，不列颠长城象征其边境政策。镇压犹太地区巴尔·科赫巴起义造成巨大破坏，文化赞助与国家暴力同样属于其生平。"
+      ],
+      "highlights": [
+        {
+          "date": "98年",
+          "year": 98,
+          "title": "图拉真、哈德良与罗马边疆",
+          "text": "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+          "eventId": "we-roman-frontiers"
+        },
+        {
+          "year": 117,
+          "date": "117年",
+          "title": "罗马领土扩张达高峰（任内史事）",
+          "text": "图拉真去世前后的帝国控制广阔区域，哈德良转向巩固边防。",
+          "eventId": "ann-chron-world-europe-0069"
+        }
+      ],
+      "assessment": "从征服转向巩固有助理解帝国治理方式的变化。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "罗马帝国宗教与早期基督教",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "罗马行省、城市和帝国空间",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "罗马帝国重心东移与西部政权更替",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-roman-frontiers",
+          "title": "图拉真、哈德良与罗马边疆",
+          "date": "98年",
+          "summary": "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+          "paragraphs": [
+            "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+            "扩张与防卫需要不同资源安排，所谓盛世也包含被征服者、军人和地方居民的代价。",
+            "帝国整合达到重要阶段，马可·奥勒留时期的战争压力预示长期治理难题。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "罗马帝国宗教与早期基督教",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "罗马行省、城市和帝国空间",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "罗马帝国重心东移与西部政权更替",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-europe-0069",
+          "title": "罗马领土扩张达高峰",
+          "date": "117年",
+          "summary": "图拉真去世前后的帝国控制广阔区域，哈德良转向巩固边防。",
+          "paragraphs": [
+            "图拉真去世前后的帝国控制广阔区域，哈德良转向巩固边防。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 180
+    },
+    {
+      "id": "ww-7fc3a29588e5",
+      "regimeId": "ww-roman-empire",
+      "name": "安敦宁·庇护",
+      "personalName": "安敦宁·庇护",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 138,
+          "end": 161,
+          "label": "138—161年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在哈德良安排下成为养子和继承人，同时收养马可·奥勒留与卢基乌斯·维鲁斯以预备下一代。他主要留在意大利，通过官僚、法政和财政维持帝国，边境仍有军事冲突。和平繁荣的后世形象不等于没有征税、奴隶制和地区矛盾。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ww-e0ebeb16be72",
+      "regimeId": "ww-roman-empire",
+      "name": "马可·奥勒留",
+      "personalName": "马尔库斯·奥勒留 / Marcus Aurelius",
+      "aliases": [
+        "马尔库斯·奥勒留"
+      ],
+      "born": "121年",
+      "died": "180年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 161,
+          "end": 180,
+          "label": "161—180年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过收养体系继位，与卢基乌斯·维鲁斯共享皇权。东方战争、安敦宁瘟疫与多瑙河长期军事冲突消耗帝国资源，他的个人哲思记录后来称为《沉思录》。哲学家皇帝形象与其军政责任、宗教社会冲突必须结合理解。"
+      ],
+      "highlights": [
+        {
+          "date": "98年",
+          "year": 98,
+          "title": "图拉真、哈德良与罗马边疆",
+          "text": "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+          "eventId": "we-roman-frontiers"
+        }
+      ],
+      "assessment": "哲学声誉不能掩盖其作为帝国统治者所处的战争与权力结构。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "罗马帝国宗教与早期基督教",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "罗马行省、城市和帝国空间",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "罗马帝国重心东移与西部政权更替",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-roman-frontiers",
+          "title": "图拉真、哈德良与罗马边疆",
+          "date": "98年",
+          "summary": "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+          "paragraphs": [
+            "帝国在图拉真时期继续征服，哈德良强调边疆巩固，后续统治面对战争与疾病。",
+            "扩张与防卫需要不同资源安排，所谓盛世也包含被征服者、军人和地方居民的代价。",
+            "帝国整合达到重要阶段，马可·奥勒留时期的战争压力预示长期治理难题。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "罗马帝国宗教与早期基督教",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "罗马行省、城市和帝国空间",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "罗马帝国重心东移与西部政权更替",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 157
+    },
+    {
+      "id": "ww-27a5e76fec29",
+      "regimeId": "ww-roman-empire",
+      "name": "卢基乌斯·维鲁斯",
+      "personalName": "卢基乌斯·维鲁斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 161,
+          "end": 169,
+          "label": "161—169年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "与马可·奥勒留共同继位，体现皇权可以由两位地位接近的人分享。他赴东方主持对安息战争的政治军事事务，前线作战仍依靠将领；军队归来与瘟疫传播相联系。169年去世，马可继续单独执政；不是旧索引误写的166年结束共治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "ww-0aa92d8d0f31",
+      "regimeId": "ww-roman-empire",
+      "name": "康茂德",
+      "personalName": "康茂德",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 177,
+          "end": 192,
+          "label": "177—192年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马可·奥勒留之子，177年已为共治皇帝，180年父亲死后单独掌权。他与北方敌手议和，重视个人神化与竞技表演，宫廷官员和宠臣取得影响。与元老及军政集团的矛盾导致192年被杀，养子继承的理想化叙述不应忽略其早已存在的王朝身份。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    },
+    {
+      "id": "ww-204ac5dad8e3",
+      "regimeId": "ww-roman-empire",
+      "name": "佩尔蒂纳克斯",
+      "personalName": "佩尔蒂纳克斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 193,
+          "end": 193,
+          "label": "193年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在康茂德遇害后登位，出身并非传统罗马顶级贵族，曾通过军政服务升迁。他试图整顿宫廷财政和近卫军纪律，却很快遭近卫军杀害。其短暂统治说明军事集团支持与元老院认可之间的紧张。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "ww-0c473a7651a2",
+      "regimeId": "ww-roman-empire",
+      "name": "狄狄乌斯·尤利安努斯",
+      "personalName": "狄狄乌斯·尤利安努斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 193,
+          "end": 193,
+          "label": "193年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在近卫军杀死前任后，以许诺高额赏赐取得皇位，传统称为拍卖帝位。行省军团拒绝接受这一安排，塞普蒂米乌斯·塞维鲁向罗马进军，他遭处死。名义上受元老院承认，并不表示真正控制全部帝国。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 88
+    },
+    {
+      "id": "ww-a861f8210a2d",
+      "regimeId": "ww-roman-empire",
+      "name": "塞普蒂米乌斯·塞维鲁",
+      "personalName": "塞普蒂米乌斯·塞维鲁",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 193,
+          "end": 211,
+          "label": "193—211年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以多瑙河军队为基础夺位，先后击败奈哲尔和阿尔比努斯，建立塞维鲁王朝。他提高军人待遇、强化皇权，东征攻取泰西封，晚年赴不列颠作战。军队、财政与家族继承更紧密结合，两个儿子的争斗并未因共同安排而消失。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-7c604933426b",
+      "regimeId": "ww-roman-empire",
+      "name": "卡拉卡拉",
+      "personalName": "卡拉卡拉",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 198,
+          "end": 217,
+          "label": "198—217年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "少年即为共治皇帝，父亲去世后与弟弟盖塔共享名号，却很快将其杀害。212年敕令扩大帝国自由民的罗马公民权，财政需求、法律身份和帝国整合交织。边境战争与宫廷暴力延续，最终在东方行军途中遇刺。"
+      ],
+      "highlights": [
+        {
+          "date": "212年",
+          "year": 212,
+          "title": "卡拉卡拉敕令",
+          "text": "帝国绝大多数自由居民取得罗马公民资格，公民身份和税制关系发生变化。",
+          "eventId": "ann-chron-world-europe-0072"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0072",
+          "title": "卡拉卡拉敕令",
+          "date": "212年",
+          "summary": "帝国绝大多数自由居民取得罗马公民资格，公民身份和税制关系发生变化。",
+          "paragraphs": [
+            "帝国绝大多数自由居民取得罗马公民资格，公民身份和税制关系发生变化。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 126
+    },
+    {
+      "id": "ww-1e1ae9a4f5ef",
+      "regimeId": "ww-roman-empire",
+      "name": "盖塔",
+      "personalName": "盖塔",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 209,
+          "end": 211,
+          "label": "209—211年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "塞普蒂米乌斯·塞维鲁次子，209年获奥古斯都称号，父亲死后与兄长卡拉卡拉并立。两人敌对使宫廷分裂，盖塔被杀后又受到记忆抹除。其在位时间短，但作为合法共治者不能从王朝承继资料中省略。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-3ea68dd26a45",
+      "regimeId": "ww-roman-empire",
+      "name": "马克里努斯",
+      "personalName": "马克里努斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 217,
+          "end": 218,
+          "label": "217—218年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为近卫军长官，在卡拉卡拉被杀后取得皇位，是少见未有元老资历即登位的人。他与安息议和并调整军费，军队不满与塞维鲁家族女性发动的政治行动削弱支持。埃拉伽巴路被拥立后，他战败并被杀。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "ww-fffe277a5dc5",
+      "regimeId": "ww-roman-empire",
+      "name": "迪亚杜梅尼安",
+      "personalName": "迪亚杜梅尼安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 218,
+          "end": 218,
+          "label": "218年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马克里努斯之子，先获凯撒称号，在父亲政权受挑战时又升为共治奥古斯都。其皇帝名号仅维持很短时间，马克里努斯败亡后他也被杀。作为未成年共治者，没有独立长期施政，不应被编造为一位成熟执政君主。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "ww-b8f02f14baef",
+      "regimeId": "ww-roman-empire",
+      "name": "埃拉伽巴路",
+      "personalName": "埃拉伽巴路",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 218,
+          "end": 222,
+          "label": "218—222年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "凭塞维鲁家族联系和军队支持登位，原是叙利亚埃梅萨太阳神祭司。他将本地神祇崇拜带入罗马皇权中心，婚姻与宫廷人事激化冲突。被近卫军杀害后，敌对作者留下大量丑闻；宗教实践、性别叙述与政治攻击需要分别辨析。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ww-a944e4efd213",
+      "regimeId": "ww-roman-empire",
+      "name": "亚历山大·塞维鲁",
+      "personalName": "亚历山大·塞维鲁",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 222,
+          "end": 235,
+          "label": "222—235年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "少年继位，母亲尤利娅·玛梅娅等人在宫廷和政务中作用显著。对萨珊战争及莱茵边防压力持续，军队对其领导和对敌政策不满。235年在军事叛乱中与母亲被杀，塞维鲁王朝结束，后续军人皇帝更替加速。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ww-b302a2a8a98b",
+      "regimeId": "ww-roman-empire",
+      "name": "马克西米努斯·色雷克斯",
+      "personalName": "马克西米努斯·色雷克斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 235,
+          "end": 238,
+          "label": "235—238年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "凭军队拥立登位，主要精力用于多瑙和莱茵地区军事行动，长期未进罗马。军费与征敛激化地方和元老集团反抗，238年非洲及意大利出现竞争皇帝。他在围攻阿奎莱亚时被自己的士兵杀害，军人皇帝并非单纯依靠军队就能稳定统治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ww-7cabd976a636",
+      "regimeId": "ww-roman-empire",
+      "name": "戈尔迪安一世",
+      "personalName": "戈尔迪安一世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 238,
+          "end": 238,
+          "label": "238年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "年迈的非洲行省总督，在地方反对马克西米努斯的起事中被拥为皇帝，并与儿子共治。来自努米底亚的军队击败其势力，儿子战死后他自尽。二人的名号得到元老院支持，实际控制时间和地域却很有限。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "ww-b20845302b4e",
+      "regimeId": "ww-roman-empire",
+      "name": "戈尔迪安二世",
+      "personalName": "戈尔迪安二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 238,
+          "end": 238,
+          "label": "238年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "与父亲戈尔迪安一世共同被拥立，统治基础集中在非洲反抗势力。缺乏足够军事支持，遭亲马克西米努斯的地方军击败而战死。其短暂皇位应与父亲合读，而非误当父死以后依次继承的一朝。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "ww-94796ced76c3",
+      "regimeId": "ww-roman-empire",
+      "name": "普皮恩努斯",
+      "personalName": "普皮恩努斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 238,
+          "end": 238,
+          "label": "238年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "元老院在戈尔迪安父子失败后推举的两位共治皇帝之一，负责应对马克西米努斯的进军。前任死后虽进入罗马，仍与同僚及近卫军关系紧张，最终一同被杀。元老院的制度权威无法脱离武装力量独立维持。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-2de56f362a93",
+      "regimeId": "ww-roman-empire",
+      "name": "巴尔比努斯",
+      "personalName": "巴尔比努斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 238,
+          "end": 238,
+          "label": "238年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "与普皮恩努斯共同由元老院推举，试图在内战中维持罗马城市秩序和元老统治声望。两位共治者缺乏互信，又无法驾驭近卫军，数月后被杀。作为共治者必须并列，而不能把同年皇帝强行排成没有重叠的直线。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ww-c74fd649206e",
+      "regimeId": "ww-roman-empire",
+      "name": "戈尔迪安三世",
+      "personalName": "戈尔迪安三世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 238,
+          "end": 244,
+          "label": "238—244年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在238年危机中以少年身份成为政治折中选择，最终单独取得皇位。政务和军事依赖重臣及岳父提米西修斯，对萨珊作战时去世；战死、病亡或被害的具体解释存在分歧。少年在位不意味着本人独立制定全部战争政策。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ww-04a6a968490e",
+      "regimeId": "ww-roman-empire",
+      "name": "阿拉伯人菲利普",
+      "personalName": "阿拉伯人菲利普",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 244,
+          "end": 249,
+          "label": "244—249年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "从东方军政体系崛起，在戈尔迪安三世死后取得皇位，与萨珊谈判结束一阶段战争。248年主持罗马建城千年庆典，同时面对边境、财政和地方叛乱。德西乌斯军队取得优势后，他在内战中败亡。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 87
+    },
+    {
+      "id": "ww-77d988a0fedb",
+      "regimeId": "ww-roman-empire",
+      "name": "菲利普二世",
+      "personalName": "菲利普二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 247,
+          "end": 249,
+          "label": "247—249年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "菲利普一世之子，先为凯撒，247年升为共治皇帝。与父亲一同出现在王朝仪礼和钱币上，父亲败亡后在罗马被杀。其年龄和共治性质决定了不能为他编写独立长期政策史。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 77
+    },
+    {
+      "id": "ww-c8905fbc18a2",
+      "regimeId": "ww-roman-empire",
+      "name": "德西乌斯",
+      "personalName": "德西乌斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 249,
+          "end": 251,
+          "label": "249—251年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "由多瑙军队拥立并击败菲利普，试图恢复传统宗教仪式与帝国秩序，要求居民参加献祭，引发对基督徒的迫害。他与哥特人作战，251年与儿子在阿布里图斯战死。宗教政策、边境军事和王朝继承危机紧密交织。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-680927536e44",
+      "regimeId": "ww-roman-empire",
+      "name": "赫伦尼乌斯·埃特鲁斯库斯",
+      "personalName": "赫伦尼乌斯·埃特鲁斯库斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 251,
+          "end": 251,
+          "label": "251年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "德西乌斯之子，在父亲统治末期获共治奥古斯都名号，并参加多瑙河战事。251年与父亲在阿布里图斯战役相关作战中阵亡。任期短暂且主要为军事实践，不能被漏作只有皇太子身份的人。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "ww-f345122aa290",
+      "regimeId": "ww-roman-empire",
+      "name": "霍斯提利安",
+      "personalName": "霍斯提利安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 251,
+          "end": 251,
+          "label": "251年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "德西乌斯之子，父兄战死后被承认为皇帝，并与特雷波尼亚努斯·加卢斯的政权安排相联系。同年即去世，瘟疫说较常见，具体情况仍受资料限制。其名义共治与兄长前线职务不同，需要分列。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 85
+    },
+    {
+      "id": "ww-08260202a7ca",
+      "regimeId": "ww-roman-empire",
+      "name": "特雷波尼亚努斯·加卢斯",
+      "personalName": "特雷波尼亚努斯·加卢斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 251,
+          "end": 253,
+          "label": "251—253年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "德西乌斯战死后由军队拥立，以与哥特人议和换取边境喘息，又面对瘟疫和财政压力。埃米利安的军队挑战后，自己的士兵倒戈将其杀害。三世纪皇帝更替中的军队支持往往快速改变。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 81
+    },
+    {
+      "id": "ww-38af9d0f1605",
+      "regimeId": "ww-roman-empire",
+      "name": "沃卢西安",
+      "personalName": "沃卢西安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 251,
+          "end": 253,
+          "label": "251—253年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "特雷波尼亚努斯·加卢斯之子，在父亲登位后取得皇帝名号，与其共同代表王朝。面对埃米利安进军时，父子一同被杀。现存个人事迹较少，本条以其共治身份与政治结局为主，尚未核录完整个人传记。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "ww-baf177e9eb76",
+      "regimeId": "ww-roman-empire",
+      "name": "埃米利安",
+      "personalName": "埃米利安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 253,
+          "end": 253,
+          "label": "253年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在多瑙边境取得军事成功后被军队拥为皇帝，促使加卢斯政权倒台。其统治尚未稳定，瓦勒良所率军队又形成挑战，部下遂将其杀害。短暂任期显示军事胜利与实际统治合法性之间的距离。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 83
+    },
+    {
+      "id": "ww-b8ffaeea22da",
+      "regimeId": "ww-roman-empire",
+      "name": "瓦勒良",
+      "personalName": "瓦勒良",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 253,
+          "end": 260,
+          "label": "253—260年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "资深军政人物，取得皇位后与儿子加里恩努斯分担东西战线。东方对萨珊战争失败，260年在埃德萨被沙普尔一世俘获，成为罗马皇帝罕见的政治军事灾难。被俘后的具体待遇主要见于敌对叙述与王室纪念，不宜全按传说定论。"
+      ],
+      "highlights": [
+        {
+          "date": "260年",
+          "year": 260,
+          "title": "沙普尔俘获罗马皇帝",
+          "text": "瓦勒良战败被俘，萨珊王权以浮雕和铭文展示对罗马的军事胜利。",
+          "eventId": "ann-chron-world-central-west-asia-0361"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-central-west-asia-0361",
+          "title": "沙普尔俘获罗马皇帝",
+          "date": "260年",
+          "summary": "瓦勒良战败被俘，萨珊王权以浮雕和铭文展示对罗马的军事胜利。",
+          "paragraphs": [
+            "瓦勒良战败被俘，萨珊王权以浮雕和铭文展示对罗马的军事胜利。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 130
+    },
+    {
+      "id": "ww-67bc55fba51f",
+      "regimeId": "ww-roman-empire",
+      "name": "加里恩努斯",
+      "personalName": "加里恩努斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 253,
+          "end": 268,
+          "label": "253—268年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "最初与父亲瓦勒良共治，260年后独掌中央皇权，面对边境入侵和高卢、东方地方势力分离。他调整军队指挥和宗教政策，并努力恢复控制。268年在军事阴谋中被杀；危机时期的领土分裂不能都解释为个人无能。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-b20a552a24bc",
+      "regimeId": "ww-roman-empire",
+      "name": "萨洛尼努斯",
+      "personalName": "萨洛尼努斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 260,
+          "end": 260,
+          "label": "260年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "加里恩努斯之子，在莱茵地区担任凯撒，面临波斯图穆斯军队挑战时被拥为奥古斯都。科隆被攻陷后被杀，皇帝名号仅维持短暂时间。其经历连接中央王朝与高卢分离政权，不能与父亲或其他同名王子混同。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ww-8fc9312d41b3",
+      "regimeId": "ww-roman-empire",
+      "name": "克劳狄乌斯二世",
+      "personalName": "克劳狄乌斯二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 268,
+          "end": 270,
+          "label": "268—270年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在加里恩努斯死后由军队拥立，主要处理巴尔干哥特人和其他边境军事危机。因对哥特作战获得哥提库斯称号，270年在疫情中去世。后来的君士坦丁王朝通过谱系叙述强化与他的联系，相关血缘宣称需要辨析。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-677df47ee685",
+      "regimeId": "ww-roman-empire",
+      "name": "昆提卢斯",
+      "personalName": "昆提卢斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 270,
+          "end": 270,
+          "label": "270年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "克劳狄乌斯二世之弟，在兄长去世后获得部分军队和元老院支持，统治非常短暂。奥勒良被多瑙军队拥立后，他迅速失去权力并死亡。具体在位日数和死因存在不同记载，不应填成确定的完整年度施政。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "ww-37f46564f247",
+      "regimeId": "ww-roman-empire",
+      "name": "奥勒良",
+      "personalName": "奥勒良",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 270,
+          "end": 275,
+          "label": "270—275年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以军事实力应对帝国分裂，击败帕尔米拉势力并结束高卢分离政权，获得重建世界者的政治形象。他加强罗马城防并进行货币和宗教象征调整。275年遭军官阴谋杀害，帝国重新整合仍依赖脆弱的军事政治联盟。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-e9178783c127",
+      "regimeId": "ww-roman-empire",
+      "name": "塔西佗",
+      "personalName": "塔西佗",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 275,
+          "end": 276,
+          "label": "275—276年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "奥勒良遇害后的过渡皇帝，以资深元老身份获得承认，同时仍需军队支持。其任内继续处理小亚细亚等地军事事务，不到一年便死亡。关于年龄、选立过程和死因的后世叙述有不确定性，不能仅按古代传记字面重建。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ww-9f7302b0b81e",
+      "regimeId": "ww-roman-empire",
+      "name": "弗洛里安",
+      "personalName": "弗洛里安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 276,
+          "end": 276,
+          "label": "276年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在塔西佗死后取得皇位，东方军队则拥立普罗布斯。双方对峙尚未形成决定性大规模战争时，他便被自己的士兵杀害。其统治仅数月，显示不同战区军团拥有独立制造皇帝的能力。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 79
+    },
+    {
+      "id": "ww-9a6eb824a224",
+      "regimeId": "ww-roman-empire",
+      "name": "普罗布斯",
+      "personalName": "普罗布斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 276,
+          "end": 282,
+          "label": "276—282年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以军队支持确立权位，重建莱茵、多瑙边境秩序并镇压多起争位。他安排士兵参与公共工程和农业活动，相关措施也可能引发军人不满。282年被部下杀害，其军事恢复成果没有解决继承制度的问题。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "ww-5f8ee7c234f2",
+      "regimeId": "ww-roman-empire",
+      "name": "卡鲁斯",
+      "personalName": "卡鲁斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 282,
+          "end": 283,
+          "label": "282—283年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为近卫军长官，在普罗布斯失势时被拥立，随后向东方进攻萨珊，占领泰西封附近地区。其在远征中突然去世，具体死因有不同说法；两个儿子分担帝国权力，新的王朝同样很快陷入军事竞争。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 86
+    },
+    {
+      "id": "ww-97b5cb0f2070",
+      "regimeId": "ww-roman-empire",
+      "name": "卡里努斯",
+      "personalName": "卡里努斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 283,
+          "end": 285,
+          "label": "283—285年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "卡鲁斯之子，在西部代表王朝并处理军事挑战，父亲和兄弟去世后与戴克里先竞争。285年在马尔古斯战役相关冲突中败亡，不能照旧表一概写为284年结束。敌对作者的道德谴责需与确定的军事继承事实区分。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 95
+    },
+    {
+      "id": "ww-d48c0e904c2e",
+      "regimeId": "ww-roman-empire",
+      "name": "努梅里安",
+      "personalName": "努梅里安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 283,
+          "end": 284,
+          "label": "283—284年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "卡鲁斯之子，随父东方远征，父亲死后主持军队回撤，途中突然死亡。遗体被发现后，军队拥立戴克里先，其岳父阿佩尔被指控并处死。具体谋杀情节并无足够独立材料完全证实，政治继承与司法指控应分开。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ww-b79376bbcf89",
+      "regimeId": "ww-roman-empire",
+      "name": "戴克里先",
+      "personalName": "戴克里先",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 284,
+          "end": 305,
+          "label": "284—305年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "从军队升迁后取得皇位，逐步建立两位奥古斯都、两位凯撒分区负责的四帝共治。他扩大行省和官僚、整顿税制与货币，晚期发动对基督徒的大迫害。305年主动退位，但预设继承秩序很快瓦解，共治制度不能简单视为帝国最终分裂的同义词。"
+      ],
+      "highlights": [
+        {
+          "date": "284年",
+          "year": 284,
+          "title": "戴克里先改革与四帝共治",
+          "text": "军事财政危机后，戴克里先调整统治分工，以两位正帝和两位副帝协调边疆与继承。",
+          "eventId": "we-diocletian"
+        },
+        {
+          "year": 284,
+          "date": "284年",
+          "title": "戴克里先即位（任内史事）",
+          "text": "帝国强化行政和财政管理，并试图以共治安排解决边境与继承危机。",
+          "eventId": "ann-chron-world-europe-0074"
+        }
+      ],
+      "assessment": "改革增强动员能力，却不能保证退位后各方继续和平合作。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "罗马帝国宗教与早期基督教",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "罗马行省、城市和帝国空间",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        },
+        {
+          "title": "罗马帝国重心东移与西部政权更替",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-diocletian",
+          "title": "戴克里先改革与四帝共治",
+          "date": "284年",
+          "summary": "军事财政危机后，戴克里先调整统治分工，以两位正帝和两位副帝协调边疆与继承。",
+          "paragraphs": [
+            "军事财政危机后，戴克里先调整统治分工，以两位正帝和两位副帝协调边疆与继承。",
+            "帝国规模和战争动员要求新的行政安排，但共治也依赖个人合作。",
+            "改革强化国家动员，退位后继承冲突再起，为君士坦丁重新集中权力提供背景。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "罗马帝国宗教与早期基督教",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/7-4-religion-in-the-roman-empire",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "罗马行省、城市和帝国空间",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/7-5-the-regions-of-rome",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "罗马帝国重心东移与西部政权更替",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-europe-0074",
+          "title": "戴克里先即位",
+          "date": "284年",
+          "summary": "帝国强化行政和财政管理，并试图以共治安排解决边境与继承危机。",
+          "paragraphs": [
+            "帝国强化行政和财政管理，并试图以共治安排解决边境与继承危机。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 201
+    },
+    {
+      "id": "ww-b7783794df49",
+      "regimeId": "ww-roman-empire",
+      "name": "马克西米安",
+      "personalName": "马克西米安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 286,
+          "end": 305,
+          "label": "286—305年",
+          "role": "西部奥古斯都",
+          "note": ""
+        },
+        {
+          "start": 306,
+          "end": 308,
+          "label": "306—308年",
+          "role": "复出争位",
+          "note": ""
+        }
+      ],
+      "life": [
+        "戴克里先的军事同僚，作为西部奥古斯都参与分区共治，负责高卢、北非和意大利等方向事务。305年与戴克里先一同退位，随后又卷入儿子马克森提乌斯和君士坦丁的争位。复出和再度失位需按同一人生中的多个阶段处理。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-123962fd1a0d",
+      "regimeId": "ww-roman-empire",
+      "name": "君士坦提乌斯一世",
+      "personalName": "君士坦提乌斯一世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 305,
+          "end": 306,
+          "label": "305—306年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "先为四帝制度中的西部凯撒，负责高卢、不列颠等地军事，305年升为奥古斯都。收复不列颠后继续经营北方边境，次年在约克去世，军队拥立其子君士坦丁。其293年起为凯撒与305年起为奥古斯都的名号必须区分。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ww-fa3b0170aad7",
+      "regimeId": "ww-roman-empire",
+      "name": "伽列里乌斯",
+      "personalName": "伽列里乌斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 305,
+          "end": 311,
+          "label": "305—311年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "先为凯撒，在对萨珊战争中取得重要胜利，305年后成为四帝制度的核心奥古斯都。与戴克里先晚期迫害基督徒的政策相关，311年临终前发布容忍基督徒的敕令。其安排无法阻止共治制度演为多位皇帝竞争。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-650e9a8404da",
+      "regimeId": "ww-roman-empire",
+      "name": "塞维鲁二世",
+      "personalName": "塞维鲁二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 306,
+          "end": 307,
+          "label": "306—307年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在戴克里先退位后先为凯撒，君士坦提乌斯去世后升为西部奥古斯都。奉命应对意大利的马克森提乌斯，却因军队倒戈失败，被迫投降并死亡。其合法任命并未保证在意大利获得军队实际承认。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 85
+    },
+    {
+      "id": "ww-46a1d87195a7",
+      "regimeId": "ww-roman-empire",
+      "name": "马克森提乌斯",
+      "personalName": "马克森提乌斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 306,
+          "end": 312,
+          "label": "306—312年",
+          "role": "争位皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马克西米安之子，在罗马军人和城市力量支持下起事，控制意大利及部分非洲地区。营建罗马公共建筑以表现合法性，但未获所有共治皇帝承认。312年米尔维安桥败于君士坦丁后溺亡，争位性质应明确标注。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "ww-a63c18279623",
+      "regimeId": "ww-roman-empire",
+      "name": "君士坦丁一世",
+      "personalName": "弗拉维乌斯·瓦勒里乌斯·君士坦丁",
+      "aliases": [],
+      "born": "约272年",
+      "died": "337年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 306,
+          "end": 337,
+          "label": "306—337年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "父亲去世后在约克被军队拥立，经与多位竞争者的内战逐步扩大控制，324年成为唯一皇帝。他支持基督教合法化、召集尼西亚会议，330年为君士坦丁堡举行新都仪式；货币、行政与宫廷制度也被重组。宗教政策不是立即把所有居民变为基督徒，王室内部杀戮同样属于其统治。"
+      ],
+      "highlights": [
+        {
+          "date": "313年",
+          "year": 313,
+          "title": "君士坦丁与帝国东移",
+          "text": "基督教获得合法地位，君士坦丁重建拜占庭城为新的帝国中心。",
+          "eventId": "we-constantine"
+        },
+        {
+          "year": 306,
+          "date": "306年",
+          "title": "君士坦丁被拥立（任内史事）",
+          "text": "军队和王朝关系共同塑造帝位竞争，君士坦丁随后逐步统一帝国。",
+          "eventId": "ann-chron-world-europe-0076"
+        }
+      ],
+      "assessment": "其政策加速帝国重组，但社会基督教化是长期过程。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "罗马帝国重心东移与西部政权更替",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-constantine",
+          "title": "君士坦丁与帝国东移",
+          "date": "313年",
+          "summary": "基督教获得合法地位，君士坦丁重建拜占庭城为新的帝国中心。",
+          "paragraphs": [
+            "基督教获得合法地位，君士坦丁重建拜占庭城为新的帝国中心。",
+            "宗教与皇权关系改变，东部经济交通优势在政治布局中更突出。",
+            "君士坦丁堡长期发展，基督教化仍经历多代政策和社会变化。"
+          ],
+          "note": "313并非基督教定为国教的年份；330为新都正式启用。",
+          "sources": [
+            {
+              "title": "罗马帝国重心东移与西部政权更替",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/10-1-the-eastward-shift",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-europe-0076",
+          "title": "君士坦丁被拥立",
+          "date": "306年",
+          "summary": "军队和王朝关系共同塑造帝位竞争，君士坦丁随后逐步统一帝国。",
+          "paragraphs": [
+            "军队和王朝关系共同塑造帝位竞争，君士坦丁随后逐步统一帝国。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 205
+    },
+    {
+      "id": "ww-e5e25b19a75d",
+      "regimeId": "ww-roman-empire",
+      "name": "李锡尼",
+      "personalName": "李锡尼",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 308,
+          "end": 324,
+          "label": "308—324年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "获帝国会议安排成为奥古斯都，逐步控制东方，与君士坦丁结盟又发生战争。313年前后的宗教容忍安排和对基督徒政策不能只归功于君士坦丁一人。324年被击败后退位，随后被处死，其政治记忆受到胜利者塑造。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ww-7584f0bf5429",
+      "regimeId": "ww-roman-empire",
+      "name": "马克西米努斯·戴亚",
+      "personalName": "马克西米努斯·戴亚",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 310,
+          "end": 313,
+          "label": "310—313年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在四帝继承体系中先任凯撒，后自称奥古斯都，控制叙利亚和埃及等东方地区。其对基督徒的迫害政策与地方反对相联系，伽列里乌斯死后与李锡尼争夺东方。313年战败后去世，是共治瓦解时期的重要竞争者。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-3ea60c3f7de6",
+      "regimeId": "ww-roman-empire",
+      "name": "君士坦丁二世",
+      "personalName": "君士坦丁二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 337,
+          "end": 340,
+          "label": "337—340年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "君士坦丁一世长子，父亲死后与兄弟分掌帝国西部。在领土和权力分配上与君士坦斯冲突，340年进入意大利作战时被杀。共同继承的家族安排很快转为战争，不能把三兄弟的同时在位排成前后相继。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 89
+    },
+    {
+      "id": "ww-fe7a8e47cf4e",
+      "regimeId": "ww-roman-empire",
+      "name": "君士坦提乌斯二世",
+      "personalName": "君士坦提乌斯二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 337,
+          "end": 361,
+          "label": "337—361年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "最初与兄弟分掌帝国，后通过内战成为主要统治者，东方长期面对萨珊压力。他介入基督教教义与教会人事，试图以皇权调和并控制宗教争议；最终与被军队拥立的堂弟尤利安发生冲突，尚未决战便病逝。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-e79dafee7c52",
+      "regimeId": "ww-roman-empire",
+      "name": "君士坦斯",
+      "personalName": "君士坦斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 337,
+          "end": 350,
+          "label": "337—350年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "君士坦丁一世之子，分掌意大利、非洲等地，击败兄长后扩大西部控制。他在宗教争论和军政事务中采取不同于东方兄弟的立场，最终遭马格嫩提乌斯起事推翻，在逃亡中被杀。地方军队和宫廷不满对王朝稳定有决定影响。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-f313ad450aa1",
+      "regimeId": "ww-roman-empire",
+      "name": "马格嫩提乌斯",
+      "personalName": "马格嫩提乌斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 350,
+          "end": 353,
+          "label": "350—353年",
+          "role": "争位皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在西部军政阴谋中被拥立，推翻君士坦斯，控制高卢与意大利等地区。与君士坦提乌斯二世的战争以穆尔萨等惨烈战斗为核心，最终失败并自杀。其实际统治显著但合法性有争议，本版明确为争位皇帝而非无争议主线继承。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-b03ff1be0a48",
+      "regimeId": "ww-roman-empire",
+      "name": "尤利安",
+      "personalName": "尤利安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 361,
+          "end": 363,
+          "label": "361—363年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "君士坦丁王族成员，先在高卢任凯撒获得军事声望，后被军队拥立。成为唯一皇帝后试图复兴传统宗教并限制基督教特权，对其不应只用叛教者称号定性。363年远征萨珊时受伤死亡，短暂统治使宗教方向再次变化。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-d772c0b69883",
+      "regimeId": "ww-roman-empire",
+      "name": "约维安",
+      "personalName": "约维安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 363,
+          "end": 364,
+          "label": "363—364年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "尤利安死后由远征军推举，首先任务是把处在危险中的军队带回罗马境内，为此与萨珊签订割地和约。他恢复对基督教的支持，回程中突然去世。军事求生与领土代价必须一起理解，不能只用屈辱或无能概括。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ww-fc5393daf234",
+      "regimeId": "ww-roman-empire",
+      "name": "瓦伦提尼安一世",
+      "personalName": "瓦伦提尼安一世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 364,
+          "end": 375,
+          "label": "364—375年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "军人出身，被推为皇帝后任命弟弟瓦伦斯分掌东方，自己经营西部。重视莱茵、多瑙边防和军队纪律，行政手段严厉，未把帝国分区等同建立两个互不相干的国家。375年在多瑙地区处理使节事务时去世。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ww-2550cd9cf71a",
+      "regimeId": "ww-roman-empire",
+      "name": "瓦伦斯",
+      "personalName": "瓦伦斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 364,
+          "end": 378,
+          "label": "364—378年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "由兄长立为东方皇帝，先后应对普罗科皮乌斯争位、萨珊关系和哥特人移入。地方官剥削和管理失当使哥特群体反抗升级，378年阿德里安堡战败阵亡。灾难需要结合难民安置、军政制度和战场决策，不能只归为蛮族突然摧毁帝国。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ww-df51d4604537",
+      "regimeId": "ww-roman-empire",
+      "name": "格拉提安",
+      "personalName": "格拉提安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 367,
+          "end": 383,
+          "label": "367—383年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "瓦伦提尼安一世之子，幼年即为共治皇帝，成年后统治西部并任命狄奥多西处理东方危局。宗教政策强化基督教影响，与军队和地方精英关系却恶化。383年马格努斯·马克西穆斯起事后，他在逃亡中被杀。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ww-9210e6d1bd50",
+      "regimeId": "ww-roman-empire",
+      "name": "瓦伦提尼安二世",
+      "personalName": "瓦伦提尼安二世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 375,
+          "end": 392,
+          "label": "375—392年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年被军队拥立为西部皇帝，与格拉提安和后来的狄奥多西共同处在分区体系中。母亲、宫廷和军事统帅对其政务影响很大，先后面对篡位者与阿尔博加斯特的控制。392年突然死亡，具体自杀或被害仍有争议。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-78210232dd47",
+      "regimeId": "ww-roman-empire",
+      "name": "狄奥多西一世",
+      "personalName": "狄奥多西一世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 379,
+          "end": 395,
+          "label": "379—395年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在瓦伦斯战败后被任命为东方皇帝，重整军队并与哥特人达成安置安排。他加强尼西亚基督教地位，介入西部内战，死前短暂统一皇权。395年后两子分别掌东西，分区制度仍有共同帝国观念，不能把这一年视作两国所有制度立即完全断开的日子。"
+      ],
+      "highlights": [
+        {
+          "date": "380年",
+          "year": 380,
+          "title": "基督教尼西亚派获帝国支持",
+          "text": "狄奥多西一世以敕令确立宗教正统方向，异教与教派关系进一步政治化。",
+          "eventId": "ann-chron-world-europe-0083"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        },
+        {
+          "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0083",
+          "title": "基督教尼西亚派获帝国支持",
+          "date": "380年",
+          "summary": "狄奥多西一世以敕令确立宗教正统方向，异教与教派关系进一步政治化。",
+          "paragraphs": [
+            "狄奥多西一世以敕令确立宗教正统方向，异教与教派关系进一步政治化。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第一卷：古代至1500年（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-1/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 142
+    },
+    {
+      "id": "ww-bb93b72fec01",
+      "regimeId": "ww-roman-empire",
+      "name": "霍诺留",
+      "personalName": "霍诺留",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 393,
+          "end": 423,
+          "label": "393—423年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "狄奥多西幼子，先为共治皇帝，395年后统治西部，长期依靠斯提里科等军政强人。410年罗马被阿拉里克军攻陷，莱茵边境和行省的失序持续。皇帝驻拉文纳而非一直在罗马，宫廷决策与前线军事资源严重脱节。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-439744555ddf",
+      "regimeId": "ww-roman-empire",
+      "name": "约翰内斯",
+      "personalName": "约翰内斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 423,
+          "end": 425,
+          "label": "423—425年",
+          "role": "争位皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "霍诺留死后由西部官僚军政集团拥立，未获东部王朝承认。东部军队支持瓦伦提尼安三世进入意大利，他被俘后处死。此处列为西部实际在位但合法性受争议的皇帝，不能误当与东部互相认可的平稳继承。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "ww-a6809492b2b4",
+      "regimeId": "ww-roman-empire",
+      "name": "瓦伦提尼安三世",
+      "personalName": "瓦伦提尼安三世",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 425,
+          "end": 455,
+          "label": "425—455年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年由东部支持取得西部王位，母亲加拉·普拉西狄娅和将领埃提乌斯长期影响政务。北非等行省丧失、匈人战争和财政萎缩使西部困境加重。他亲手参与杀死埃提乌斯，次年又遭后者旧部刺杀，宫廷清洗进一步破坏军事网络。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-4958126f77e4",
+      "regimeId": "ww-roman-empire",
+      "name": "佩特罗尼乌斯·马克西穆斯",
+      "personalName": "佩特罗尼乌斯·马克西穆斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 455,
+          "end": 455,
+          "label": "455年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "资深元老和权贵，在瓦伦提尼安三世遇刺后夺位，并试图通过婚姻巩固合法性。汪达尔舰队逼近罗马时政权崩溃，他在逃亡中被杀，随后罗马遭到劫掠。短暂统治不能脱离宫廷继承与北非海上强权之间的关系。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "ww-117da1b34a8f",
+      "regimeId": "ww-roman-empire",
+      "name": "阿维图斯",
+      "personalName": "阿维图斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 455,
+          "end": 456,
+          "label": "455—456年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身高卢元老贵族，在西哥特支持下被拥为西部皇帝，意大利精英和军队对其外部基础不满。里基默与马约里安取得优势后迫其退位，他一度被安排为主教。其经历说明高卢与意大利政治集团的利益已明显分化。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 93
+    },
+    {
+      "id": "ww-c85331d15a38",
+      "regimeId": "ww-roman-empire",
+      "name": "马约里安",
+      "personalName": "马约里安",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 457,
+          "end": 461,
+          "label": "457—461年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "军人出身，在里基默支持下取得皇位，尝试恢复行省财政、行政和对汪达尔的军事主动。他组织北非远征却因舰队损失等原因失败，返回后被里基默废杀。其改革努力重要，但控制北非和地方军政资源的条件十分有限。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-732564754a1d",
+      "regimeId": "ww-roman-empire",
+      "name": "利比乌斯·塞维鲁",
+      "personalName": "利比乌斯·塞维鲁",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 461,
+          "end": 465,
+          "label": "461—465年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在里基默控制下被立为西部皇帝，东部未正式承认其地位，高卢和达尔马提亚部分军事力量也不服从。实际统治主要限于意大利，许多决策由军事强人决定。其生平资料有限，本条不以皇帝名号推断其拥有整个西部的控制权。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ww-c29e7b910714",
+      "regimeId": "ww-roman-empire",
+      "name": "安特米乌斯",
+      "personalName": "安特米乌斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 467,
+          "end": 472,
+          "label": "467—472年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "获东部皇帝支持进入意大利，试图以东西联合远征夺回汪达尔控制的北非，468年舰队惨败消耗巨量资源。与里基默的冲突最终演为罗马围城，皇帝被杀。东部支持能带来合法性和资源，却无法自动解决意大利军政斗争。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-09e6ecdfa375",
+      "regimeId": "ww-roman-empire",
+      "name": "奥利布里乌斯",
+      "personalName": "奥利布里乌斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 472,
+          "end": 472,
+          "label": "472年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身罗马贵族，与旧王朝有婚姻联系，在里基默与安特米乌斯战争中被推为皇帝。获位后不久里基默去世，他本人也同年病亡。其权位与贵族、军事统帅及汪达尔王室间的关系相连，并无长期独立统治可言。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 91
+    },
+    {
+      "id": "ww-cdcec2ee9a3f",
+      "regimeId": "ww-roman-empire",
+      "name": "格利凯里乌斯",
+      "personalName": "格利凯里乌斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 473,
+          "end": 474,
+          "label": "473—474年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在军政强人贡多巴德支持下接位，东部未予承认。尤利乌斯·尼波斯获东部支持登陆意大利后，他退位并转任主教。其政治结局与死亡并非同一时间，不应在人物信息中把474年直接填写为卒年。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 87
+    },
+    {
+      "id": "ww-b980da1ef5cb",
+      "regimeId": "ww-roman-empire",
+      "name": "尤利乌斯·尼波斯",
+      "personalName": "尤利乌斯·尼波斯",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 474,
+          "end": 475,
+          "label": "474—475年",
+          "role": "意大利实际皇帝",
+          "note": ""
+        },
+        {
+          "start": 475,
+          "end": 480,
+          "label": "475—480年",
+          "role": "达尔马提亚名义西部皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在东部支持下取得西部皇位，475年被奥雷斯特逐出意大利，此后在达尔马提亚继续保有皇帝名号及部分承认，480年遇害。意大利实际统治止于475年，名义帝位延续更久；这也是最后西罗马皇帝称谓存在不同口径的原因。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ww-b55462c7b55c",
+      "regimeId": "ww-roman-empire",
+      "name": "罗慕路斯·奥古斯都",
+      "personalName": "罗慕路斯·奥古斯都",
+      "aliases": [],
+      "born": "本版未核录",
+      "died": "本版未核录",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 475,
+          "end": 476,
+          "label": "475—476年",
+          "role": "共治／主帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "奥雷斯特之子，由父亲夺取意大利控制后推为皇帝，尚属少年。476年奥多亚塞起事，杀其父并将其废黜，少年本人被允许离开政治中心。其后生平和卒年不确定；476年是意大利皇帝名号被废节点，而非罗马制度或东罗马一并消失。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "476年被废，非卒年；后续生平资料不完整。"
+      ],
+      "sources": [
+        {
+          "title": "大都会艺术博物馆：罗马帝国的时期与皇帝",
+          "url": "https://www.metmuseum.org/it/essays/the-roman-empire-27-b-c-393-a-d",
+          "note": "学者Christopher S. Lightfoot撰写的分期概述；共治起年另辨。"
+        },
+        {
+          "title": "伦敦大学学院：罗马埃及皇帝索引",
+          "url": "https://www.ucl.ac.uk/museums-static/digitalegypt/chronology/romanemperor.html",
+          "note": "旧页有省略与错行，仅作交叉索引；本版不沿用君士坦丁一世293—306等明显错误。"
+        },
+        {
+          "title": "大都会艺术博物馆：拜占庭统治者年表",
+          "url": "https://www.metmuseum.org/de/toah/hd/byru/hd_byru.htm",
+          "note": "馆方主线年表，不穷尽所有次级共治皇帝和地方争位者；重复在位按人物合并。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    }
+  ]
+}

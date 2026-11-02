@@ -1,0 +1,44 @@
+{
+  "id": "cl-zhangchu",
+  "people": [
+    {
+      "id": "cl-zhangchu-3f98c3904",
+      "regimeId": "cl-zhangchu",
+      "name": "张邦昌",
+      "personalName": "张邦昌",
+      "aliases": [],
+      "born": "1081年",
+      "died": "1127年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1127,
+          "end": 1127,
+          "label": "1127年",
+          "role": "金所立皇帝",
+          "note": "其受立既有金军胁迫，也涉及个人和官僚选择，不能与世袭承统混列。"
+        }
+      ],
+      "life": [
+        "原为北宋宰相，开封失守后被金军强迫拥立，国号楚。金军撤走后不久即撤销帝号，迎元祐皇后主持名义政务，并向赵构交还权力象征；南宋成立后被治罪处死。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "其受立既有金军胁迫，也涉及个人和官僚选择，不能与世袭承统混列。"
+      ],
+      "sources": [
+        {
+          "title": "陈振《宋史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第9册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 111
+    }
+  ]
+}

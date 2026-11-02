@@ -1,0 +1,176 @@
+{
+  "id": "ce-ran-wei",
+  "people": [
+    {
+      "id": "ce-ran-wei-24845499c8",
+      "regimeId": "ce-ran-wei",
+      "name": "冉闵",
+      "personalName": "冉闵",
+      "aliases": [
+        "石闵"
+      ],
+      "born": "生年无可靠确年",
+      "died": "352年",
+      "birthPlace": "出生地点未作确证",
+      "family": "冉瞻之子，冉瞻曾入石虎家族养子系统。",
+      "reigns": [
+        {
+          "start": 350,
+          "end": 352,
+          "label": "350年—352年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原入石氏军政集团并从姓石，后赵继承危机中同李农等掌握邺城，杀石氏诸王并称帝建魏。他下令大规模杀害胡羯，暴力不分军事贵族、平民、妇女儿童，激化族群仇杀，不能将之包装为无差别的“民族英雄”叙事。长期战争和资源枯竭削弱其基础，352年被前燕慕容儁所俘并杀。"
+      ],
+      "highlights": [
+        {
+          "date": "349年",
+          "year": 349,
+          "title": "后赵继承内乱",
+          "text": "石虎去世后宗室及军事集团激烈争权，后赵迅速瓦解，北方再度进入战争与人口迁徙。",
+          "eventId": "ann-ce-0440"
+        },
+        {
+          "year": 350,
+          "date": "350年",
+          "title": "冉魏建立与族群杀戮（任内史事）",
+          "text": "冉闵控制邺城并建魏，战争中发生大规模针对群体的杀戮，族群关系被急剧激化。",
+          "eventId": "ann-ce-0441"
+        },
+        {
+          "year": 352,
+          "date": "352年",
+          "title": "前燕灭冉魏（任内史事）",
+          "text": "慕容氏攻灭冉魏并控制河北，战争与人口争夺继续改变北方地区的力量格局。",
+          "eventId": "ann-ce-0443"
+        }
+      ],
+      "assessment": "其政权须放在后赵内战与族群暴力中理解；大规模屠杀平民的后果不能由政治宣传式称号遮蔽。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：冉魏与民族仇杀、人口流徙",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-f19cd74e68f9",
+        "ann-person-33a4e328982e"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0440",
+          "title": "后赵继承内乱",
+          "date": "349年",
+          "summary": "石虎去世后宗室及军事集团激烈争权，后赵迅速瓦解，北方再度进入战争与人口迁徙。",
+          "paragraphs": [
+            "石虎去世后宗室及军事集团激烈争权，后赵迅速瓦解，北方再度进入战争与人口迁徙。",
+            "依赖个人控制的庞大军事国家容易在继承时崩溃。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 胡羯的建国；用户提供合并整理本第85557—85557行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0441",
+          "title": "冉魏建立与族群杀戮",
+          "date": "350年",
+          "summary": "冉闵控制邺城并建魏，战争中发生大规模针对群体的杀戮，族群关系被急剧激化。",
+          "paragraphs": [
+            "冉闵控制邺城并建魏，战争中发生大规模针对群体的杀戮，族群关系被急剧激化。",
+            "史料数字需慎用，不能把政治屠杀美化为民族叙事。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 北方世家大族的南渡与东晋王朝的建立；用户提供合并整理本第86748—86748行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0443",
+          "title": "前燕灭冉魏",
+          "date": "352年",
+          "summary": "慕容氏攻灭冉魏并控制河北，战争与人口争夺继续改变北方地区的力量格局。",
+          "paragraphs": [
+            "慕容氏攻灭冉魏并控制河北，战争与人口争夺继续改变北方地区的力量格局。",
+            "北方政治整合经历反复的征服与政权重组。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 胡羯的建国；用户提供合并整理本第85569—85569行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 275
+    },
+    {
+      "id": "ce-ran-wei-6230287312",
+      "regimeId": "ce-ran-wei",
+      "name": "冉智",
+      "personalName": "冉智",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "卒年无可靠确年",
+      "birthPlace": "出生地点未作确证",
+      "family": "冉闵之子。",
+      "reigns": [
+        {
+          "start": 352,
+          "end": 352,
+          "label": "352年—352年",
+          "role": "太子、留守者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "冉闵出征期间以太子身份留守邺城，父被前燕俘获后继续维持城中政权。邺城最终陷落，冉氏残余被前燕控制。现存记载不足以把其留守阶段无争议地等同于一次完整的正式称帝。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：冉魏与民族仇杀、人口流徙",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 114
+    }
+  ]
+}

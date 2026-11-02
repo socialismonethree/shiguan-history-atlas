@@ -1,0 +1,197 @@
+{
+  "id": "ce-western-qin",
+  "people": [
+    {
+      "id": "ce-western-qin-c4acb3a7cc",
+      "regimeId": "ce-western-qin",
+      "name": "乞伏国仁",
+      "personalName": "乞伏国仁",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "388年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 385,
+          "end": 388,
+          "label": "385年—388年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "前秦崩解后以部族军事基础独立，经营陇西，使用单于、大都督等称号。死后由弟乾归承继，不能把后世泛称西秦帝王当作他生前正式使用皇帝名号的证据。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：西秦",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ce-western-qin-f44c473fbb",
+      "regimeId": "ce-western-qin",
+      "name": "乞伏乾归",
+      "personalName": "乞伏乾归",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "412年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 388,
+          "end": 400,
+          "label": "388—400年",
+          "role": "国主",
+          "note": "400年失去独立地位。"
+        },
+        {
+          "start": 409,
+          "end": 412,
+          "label": "409—412年",
+          "role": "复国国主",
+          "note": "409年重建西秦。"
+        }
+      ],
+      "life": [
+        "继国仁掌权，介入苻秦与姚秦之争，400年败于后秦失去独立地位，先后依南凉、后秦。409年复国，412年被侄公府杀害，因此其独立在位应分为两个时段。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：西秦",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "ce-western-qin-19e7b413f5",
+      "regimeId": "ce-western-qin",
+      "name": "乞伏公府",
+      "personalName": "乞伏公府",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "412年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 412,
+          "end": 412,
+          "label": "412年—412年",
+          "role": "夺权者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "乞伏国仁之子，因权位安排积怨而杀乾归，短暂控制宫廷。乾归之子炽磐很快反击并将其杀害，属于内乱夺权者，不强称无争议正式皇帝。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：西秦",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ce-western-qin-446f44742a",
+      "regimeId": "ce-western-qin",
+      "name": "乞伏炽磐",
+      "personalName": "乞伏炽磐",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "428年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 412,
+          "end": 428,
+          "label": "412年—428年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "乾归之子，平定公府后掌权，414年灭南凉，势力扩展至湟水地区。持续与北凉、夏等交战，扩张依赖人口迁动和军事联盟，控制范围并不稳定。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：西秦",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ce-western-qin-c5c191afb9",
+      "regimeId": "ce-western-qin",
+      "name": "乞伏暮末",
+      "personalName": "乞伏暮末",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "431年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 428,
+          "end": 431,
+          "label": "428年—431年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继炽磐，内争与对外失败削弱政权，试图向北魏寻求出路未果。431年被夏主赫连定控制并杀害，西秦在长期地方战争中终结。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：西秦",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    }
+  ]
+}

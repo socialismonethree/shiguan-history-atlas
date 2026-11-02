@@ -1,0 +1,116 @@
+{
+  "id": "ce-southern-liang",
+  "people": [
+    {
+      "id": "ce-southern-liang-545dda74f4",
+      "regimeId": "ce-southern-liang",
+      "name": "秃发乌孤",
+      "personalName": "秃发乌孤",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "399年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 397,
+          "end": 399,
+          "label": "397年—399年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以部众和地方军事势力脱离后凉，围绕廉川、乐都等据点建立政权。其后由弟利鹿孤承继，统治基础是军事联盟、人口与地方资源，不能只看后来统一使用的国主称号。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：南凉",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 109
+    },
+    {
+      "id": "ce-southern-liang-7d6d4af473",
+      "regimeId": "ce-southern-liang",
+      "name": "秃发利鹿孤",
+      "personalName": "秃发利鹿孤",
+      "aliases": [],
+      "born": "生年无可靠确年",
+      "died": "402年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 399,
+          "end": 402,
+          "label": "399年—402年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继兄乌孤后掌权，继续在河西及湟水经营，与周边政权竞争并协调鲜卑贵族和汉地士人关系。其死后由弟傉檀继位，南凉形成兄弟相及的承继。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：南凉",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ce-southern-liang-f645d3cca5",
+      "regimeId": "ce-southern-liang",
+      "name": "秃发傉檀",
+      "personalName": "秃发傉檀",
+      "aliases": [],
+      "born": "365年",
+      "died": "415年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 402,
+          "end": 414,
+          "label": "402年—414年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "曾入姑臧，但难稳定控制河西，多次战争与人口掠夺削弱国力。414年西秦趁其出征攻乐都，南凉灭亡；傉檀其后归西秦，后被西秦一方毒杀。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：南凉",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    }
+  ]
+}

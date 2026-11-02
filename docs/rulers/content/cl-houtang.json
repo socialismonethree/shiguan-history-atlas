@@ -1,0 +1,420 @@
+{
+  "id": "cl-houtang",
+  "people": [
+    {
+      "id": "cl-houtang-80a611051",
+      "regimeId": "cl-houtang",
+      "name": "唐庄宗",
+      "personalName": "李存勖",
+      "aliases": [
+        "李存勖"
+      ],
+      "born": "885年",
+      "died": "926年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 923,
+          "end": 926,
+          "label": "923—926年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李克用之子，继承河东晋王军政势力，在对梁战争中获胜，923年称帝并灭后梁。随后灭前蜀，扩张虽大，宫廷用人、军队待遇和财政却迅速失调；926年兴教门之变中被杀。",
+        "李存勖承袭晋王势力，与后梁长期争战，923年建立后唐并灭梁；其统治很快陷入财政、军政与继承危机。",
+        "凭军事整合取得中原，又在任用、军饷和内部权力关系中暴露统治的不稳定。",
+        "从军事胜利转向经营统一政权，是其关键处境。"
+      ],
+      "highlights": [
+        {
+          "date": "923—936年",
+          "year": 923,
+          "title": "李存勖灭梁与后唐兴亡",
+          "text": "李存勖称帝建后唐并灭后梁，迁都洛阳；后唐随后经历兵变与内部权力更替，至936年被石敬瑭与契丹联军所取代。",
+          "eventId": "cn-later-tang"
+        },
+        {
+          "year": 923,
+          "date": "923年",
+          "title": "后唐灭后梁（任内史事）",
+          "text": "李存勖建立后唐并攻入汴州。",
+          "eventId": "ann-cl-five-dynasties-923-151"
+        },
+        {
+          "year": 926,
+          "date": "926年",
+          "title": "兴教门之变（任内史事）",
+          "text": "后唐军变中李存勖被杀。",
+          "eventId": "ann-cl-five-dynasties-926-154"
+        }
+      ],
+      "existingPersonIds": [
+        "licunxu"
+      ],
+      "assessment": "戏曲化的“误国”故事不能替代财政与军队问题的分析。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96398行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "cn-later-tang",
+          "title": "李存勖灭梁与后唐兴亡",
+          "date": "923—936年",
+          "summary": "李存勖称帝建后唐并灭后梁，迁都洛阳；后唐随后经历兵变与内部权力更替，至936年被石敬瑭与契丹联军所取代。",
+          "paragraphs": [
+            "李存勖称帝建后唐并灭后梁，迁都洛阳；后唐随后经历兵变与内部权力更替，至936年被石敬瑭与契丹联军所取代。",
+            "沙陀军事集团成为中原统治者，显示五代政权形成与军队、地方和财政的紧密关系。",
+            "后唐一度拓展势力，最终未能维持稳定继承，后晋在新的军事联盟下建立。"
+          ],
+          "note": "923年建国与926年庄宗身亡、936年后唐灭亡是不同节点。",
+          "sources": [
+            {
+              "title": "王仲荦《隋唐五代史（上、下）》",
+              "url": "",
+              "note": "第八章 五代十国的政治与经济；第一节 五代的更替；用户提供合并整理本第109540—109548行"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-923-151",
+          "title": "后唐灭后梁",
+          "date": "923年",
+          "summary": "李存勖建立后唐并攻入汴州。",
+          "paragraphs": [
+            "李存勖建立后唐并攻入汴州。",
+            "后梁政权灭亡。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-926-154",
+          "title": "兴教门之变",
+          "date": "926年",
+          "summary": "后唐军变中李存勖被杀。",
+          "paragraphs": [
+            "后唐军变中李存勖被杀。",
+            "李嗣源入洛即位。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-911-140",
+          "title": "柏乡之战",
+          "date": "911年",
+          "summary": "李存勖击败后梁军。",
+          "paragraphs": [
+            "李存勖击败后梁军。",
+            "晋梁争霸力量对比发生变化。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-914-143",
+          "title": "刘守光燕政权覆灭",
+          "date": "914年",
+          "summary": "晋军攻下幽州。",
+          "paragraphs": [
+            "晋军攻下幽州。",
+            "李存勖取得河北北部重要据点。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-918-147",
+          "title": "胡柳陂之战",
+          "date": "918年",
+          "summary": "晋梁主力激战。",
+          "paragraphs": [
+            "晋梁主力激战。",
+            "胜负变化造成双方大量伤亡。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-921-149",
+          "title": "镇州之乱",
+          "date": "921年",
+          "summary": "王镕被杀。",
+          "paragraphs": [
+            "王镕被杀。",
+            "晋军介入并夺取镇州，河北格局改变。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 283
+    },
+    {
+      "id": "cl-houtang-f5bf5993b",
+      "regimeId": "cl-houtang",
+      "name": "唐明宗",
+      "personalName": "李嗣源",
+      "aliases": [
+        "李嗣源"
+      ],
+      "born": "867年",
+      "died": "933年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 926,
+          "end": 933,
+          "label": "926—933年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李克用养子，长期从军，后唐兵变中被推为政治领袖，取代李存勖。其朝减轻部分苛敛、调整用人，局面相对稳定；晚年围绕储位的冲突又使继承面临危机。"
+      ],
+      "highlights": [
+        {
+          "date": "926年",
+          "year": 926,
+          "title": "兴教门之变",
+          "text": "后唐军变中李存勖被杀。",
+          "eventId": "ann-cl-five-dynasties-926-154"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-54dc77ea166e"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96398行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-926-154",
+          "title": "兴教门之变",
+          "date": "926年",
+          "summary": "后唐军变中李存勖被杀。",
+          "paragraphs": [
+            "后唐军变中李存勖被杀。",
+            "李嗣源入洛即位。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 120
+    },
+    {
+      "id": "cl-houtang-d491af2fb",
+      "regimeId": "cl-houtang",
+      "name": "唐闵帝",
+      "personalName": "李从厚",
+      "aliases": [
+        "李从厚"
+      ],
+      "born": "914年",
+      "died": "934年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 933,
+          "end": 934,
+          "label": "933—934年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李嗣源之子，继位后朝臣试图调动李从珂等藩镇，反而触发反抗。李从珂率军进洛，李从厚逃离后被杀；在位不足一年，缺乏足以控制诸镇的军事基础。"
+      ],
+      "highlights": [
+        {
+          "date": "934年",
+          "year": 934,
+          "title": "后唐潞王夺位",
+          "text": "李从珂推翻李从厚。",
+          "eventId": "ann-cl-five-dynasties-934-160"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-ab6453b8eb15"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96398行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-934-160",
+          "title": "后唐潞王夺位",
+          "date": "934年",
+          "summary": "李从珂推翻李从厚。",
+          "paragraphs": [
+            "李从珂推翻李从厚。",
+            "军人拥立继续左右中原皇位。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 116
+    },
+    {
+      "id": "cl-houtang-0daa8f9d9",
+      "regimeId": "cl-houtang",
+      "name": "唐末帝",
+      "personalName": "李从珂",
+      "aliases": [
+        "李从珂"
+      ],
+      "born": "885年",
+      "died": "937年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 934,
+          "end": 936,
+          "label": "934—936年",
+          "role": "皇帝",
+          "note": "亡国发生在清泰三年末，公历死亡在937年初；在位通常列934—936年。"
+        }
+      ],
+      "life": [
+        "李嗣源养子，以军事反抗夺取帝位。试图削弱河东石敬瑭，引发后者联契丹起兵；936年后晋建立并进取洛阳，李从珂在宫中自焚，后唐终结。"
+      ],
+      "highlights": [
+        {
+          "date": "934年",
+          "year": 934,
+          "title": "后唐潞王夺位",
+          "text": "李从珂推翻李从厚。",
+          "eventId": "ann-cl-five-dynasties-934-160"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-119715ed7fd6"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "亡国发生在清泰三年末，公历死亡在937年初；在位通常列934—936年。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96398行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-934-160",
+          "title": "后唐潞王夺位",
+          "date": "934年",
+          "summary": "李从珂推翻李从厚。",
+          "paragraphs": [
+            "李从珂推翻李从厚。",
+            "军人拥立继续左右中原皇位。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 113
+    }
+  ]
+}

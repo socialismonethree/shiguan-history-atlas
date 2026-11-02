@@ -1,0 +1,276 @@
+{
+  "id": "cl-nantang",
+  "people": [
+    {
+      "id": "cl-nantang-aac97d75e",
+      "regimeId": "cl-nantang",
+      "name": "南唐烈祖",
+      "personalName": "李昪",
+      "aliases": [
+        "李昪",
+        "徐知诰"
+      ],
+      "born": "889年",
+      "died": "943年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 937,
+          "end": 943,
+          "label": "937—943年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原名徐知诰，徐温养子，长期经营杨吴朝政，937年代吴自立，后复姓李。前期注重稳定江淮经济与官僚秩序，为南唐的文教和财政发展奠定基础。",
+        "由徐氏政治集团掌握吴国权力，937年代吴建国。",
+        "奠定南唐江淮政权基础，继承江南经济与文化资源。",
+        "沿下列关联史事查看其活动与时代联系。此项为人物线索整理，尚非完整生平传记。"
+      ],
+      "highlights": [
+        {
+          "date": "937年",
+          "year": 937,
+          "title": "南唐取代吴国",
+          "text": "李昪接受杨溥禅让。",
+          "eventId": "ann-cl-five-dynasties-937-162"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-7760fd1061c1"
+      ],
+      "assessment": "人物活动区间依据本库已录事件的起讫，不据此推断生卒年。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96368行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-937-162",
+          "title": "南唐取代吴国",
+          "date": "937年",
+          "summary": "李昪接受杨溥禅让。",
+          "paragraphs": [
+            "李昪接受杨溥禅让。",
+            "在江淮建立南唐。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 185
+    },
+    {
+      "id": "cl-nantang-8b8060475",
+      "regimeId": "cl-nantang",
+      "name": "南唐元宗",
+      "personalName": "李璟",
+      "aliases": [
+        "李璟"
+      ],
+      "born": "916年",
+      "died": "961年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 943,
+          "end": 961,
+          "label": "943—961年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李昪之子，曾灭闽、取楚，扩张很快又因地方反抗与后周进攻受挫。958年向后周割让江北并去帝号称国主，退守江南；其词作留名后世，文学与统治责任应分别认识。"
+      ],
+      "highlights": [
+        {
+          "date": "945年",
+          "year": 945,
+          "title": "南唐灭闽",
+          "text": "南唐占领建州。",
+          "eventId": "ann-cl-five-dynasties-945-166"
+        },
+        {
+          "date": "955—958年",
+          "year": 955,
+          "title": "后周攻南唐",
+          "text": "后周多次进军淮南。",
+          "eventId": "ann-cl-five-dynasties-955-177"
+        },
+        {
+          "date": "958年",
+          "year": 958,
+          "title": "南唐奉后周正朔",
+          "text": "南唐去帝号称国主。",
+          "eventId": "ann-cl-five-dynasties-958-178"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-f6ea8475cf40"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96368行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-945-166",
+          "title": "南唐灭闽",
+          "date": "945年",
+          "summary": "南唐占领建州。",
+          "paragraphs": [
+            "南唐占领建州。",
+            "福建其他地区仍由地方势力控制。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-955-177",
+          "title": "后周攻南唐",
+          "date": "955年—958年",
+          "summary": "后周多次进军淮南。",
+          "paragraphs": [
+            "后周多次进军淮南。",
+            "南唐最终割让江北土地。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-five-dynasties-958-178",
+          "title": "南唐奉后周正朔",
+          "date": "958年",
+          "summary": "南唐去帝号称国主。",
+          "paragraphs": [
+            "南唐去帝号称国主。",
+            "江淮政治力量对比明显改变。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 140
+    },
+    {
+      "id": "cl-nantang-5fdb58af5",
+      "regimeId": "cl-nantang",
+      "name": "南唐后主",
+      "personalName": "李煜",
+      "aliases": [
+        "李煜"
+      ],
+      "born": "937年",
+      "died": "978年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 961,
+          "end": 975,
+          "label": "961—975年",
+          "role": "国主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "李璟之子，在南唐已受后周、宋压力的局面下继位。保持对宋臣属关系仍未能避免战争，975年金陵失守，被俘北迁，978年去世。其词作以亡国前后的生命体验著称，但作品不能替代对政策与战争的分析。",
+        "李煜是南唐末代统治者，975年国亡后被迁往宋京；其词在宫廷生活与身世剧变之间形成鲜明变化，影响后世词史。",
+        "以富有情感表现力的词作拓展抒情传统，也成为理解南唐覆亡后的个人经验入口。",
+        "面对宋的统一战争，政治处境与文学创作相互交织。"
+      ],
+      "highlights": [
+        {
+          "year": 975,
+          "date": "975年",
+          "title": "宋灭南唐（任内史事）",
+          "text": "李煜出降。",
+          "eventId": "ann-cl-song-liao-xia-jin-975-192"
+        }
+      ],
+      "existingPersonIds": [
+        "liyu"
+      ],
+      "assessment": "文学成就与治理能力分开评价，死因传说不作为确定事实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第8册，序言，合并文本第96368行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-song-liao-xia-jin-975-192",
+          "title": "宋灭南唐",
+          "date": "975年",
+          "summary": "李煜出降。",
+          "paragraphs": [
+            "李煜出降。",
+            "江南最重要的割据政权终结。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 235
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": "ce-southern-yan",
+  "people": [
+    {
+      "id": "ce-southern-yan-3da13e231d",
+      "regimeId": "ce-southern-yan",
+      "name": "慕容德",
+      "personalName": "慕容德",
+      "aliases": [],
+      "born": "336年",
+      "died": "405年",
+      "birthPlace": "出生地点未作确证",
+      "family": "慕容皝之子、慕容垂之弟。",
+      "reigns": [
+        {
+          "start": 398,
+          "end": 405,
+          "label": "398年—405年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "慕容皝之子，后燕战争中掌握南部力量，河北失守后率众据滑台，再转山东，定中心于广固并称帝。经营流民、地方士族与农业资源，为南燕带来短暂稳定，继承人选又依赖在外回归的侄慕容超。"
+      ],
+      "highlights": [],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：南燕与刘裕北伐",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 121
+    },
+    {
+      "id": "ce-southern-yan-890b752d42",
+      "regimeId": "ce-southern-yan",
+      "name": "慕容超",
+      "personalName": "慕容超",
+      "aliases": [],
+      "born": "385年",
+      "died": "410年",
+      "birthPlace": "出生地点未作确证",
+      "family": "慕容德之侄。",
+      "reigns": [
+        {
+          "start": 405,
+          "end": 410,
+          "label": "405年—410年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "早年流落关中，来到南燕后被慕容德定为继承人。统治中同地方军政集团关系紧张，边地掠夺人口等军事行动引来刘裕进攻，广固长期被围后陷落，超被俘杀，南燕灭亡。"
+      ],
+      "highlights": [
+        {
+          "date": "409年",
+          "year": 409,
+          "title": "刘裕北伐南燕",
+          "text": "刘裕进攻南燕并围广固，试图扩大北方控制，东晋军队重新获得跨区域行动能力。",
+          "eventId": "ann-ce-0473"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：南燕与刘裕北伐",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-f982b516de50"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0473",
+          "title": "刘裕北伐南燕",
+          "date": "409年",
+          "summary": "刘裕进攻南燕并围广固，试图扩大北方控制，东晋军队重新获得跨区域行动能力。",
+          "paragraphs": [
+            "刘裕进攻南燕并围广固，试图扩大北方控制，东晋军队重新获得跨区域行动能力。",
+            "南方政权也能在北方分裂时取得战略进展。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第一节 西、北各少数民族的内迁；用户提供合并整理本第84914—84914行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 146
+    }
+  ]
+}

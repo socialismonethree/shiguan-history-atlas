@@ -1,0 +1,103 @@
+{
+  "id": "cl-liuyuqi",
+  "people": [
+    {
+      "id": "cl-liuyuqi-2ee6dd86f",
+      "regimeId": "cl-liuyuqi",
+      "name": "刘豫",
+      "personalName": "刘豫",
+      "aliases": [],
+      "born": "1073年",
+      "died": "1143年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1130,
+          "end": 1137,
+          "label": "1130—1137年",
+          "role": "金所立皇帝",
+          "note": "此政权常称伪齐；以政治依附性质作解释，不与战国齐或南齐混淆。"
+        }
+      ],
+      "life": [
+        "原为宋朝地方官，投降金后获拥立为齐帝，依靠金朝支持经营中原并参与对南宋战争。其政策和军队未能获得金朝长期信任，1137年被废，后由金直接控制相关地区。"
+      ],
+      "highlights": [
+        {
+          "date": "1130年",
+          "year": 1130,
+          "title": "金立伪齐",
+          "text": "刘豫被金立为齐帝。",
+          "eventId": "ann-cl-song-liao-xia-jin-1130-278"
+        },
+        {
+          "date": "1137年",
+          "year": 1137,
+          "title": "金废伪齐",
+          "text": "刘豫政权被撤销。",
+          "eventId": "ann-cl-song-liao-xia-jin-1137-283"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-615db7a81ebf"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "此政权常称伪齐；以政治依附性质作解释，不与战国齐或南齐混淆。"
+      ],
+      "sources": [
+        {
+          "title": "陈振《宋史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第9册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-song-liao-xia-jin-1130-278",
+          "title": "金立伪齐",
+          "date": "1130年",
+          "summary": "刘豫被金立为齐帝。",
+          "paragraphs": [
+            "刘豫被金立为齐帝。",
+            "以代理政权控制中原。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-song-liao-xia-jin-1137-283",
+          "title": "金废伪齐",
+          "date": "1137年",
+          "summary": "刘豫政权被撤销。",
+          "paragraphs": [
+            "刘豫政权被撤销。",
+            "金直接统治中原，宋金议和条件变化。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 132
+    }
+  ]
+}

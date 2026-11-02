@@ -1,0 +1,711 @@
+{
+  "id": "ww-saxon",
+  "people": [
+    {
+      "id": "ww-5a4702ccd0e9",
+      "regimeId": "ww-saxon",
+      "name": "阿尔弗雷德大帝",
+      "personalName": "阿尔弗雷德大帝",
+      "aliases": [],
+      "born": "849年",
+      "died": "899年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 871,
+          "end": 899,
+          "label": "871—899年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "威塞克斯国王，曾被维京军队逼退到萨默塞特沼泽，878年埃丁顿胜利后重建防卫。他经营设防城镇、军役和货币，并支持拉丁著作转译及历史编纂。其努力为后继者扩大权力创造条件，但他没有在世时统治后世英格兰的全部地域。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ww-8380c85a5d57",
+      "regimeId": "ww-saxon",
+      "name": "长者爱德华",
+      "personalName": "长者爱德华",
+      "aliases": [],
+      "born": "约874年",
+      "died": "924年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 899,
+          "end": 924,
+          "label": "899—924年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "阿尔弗雷德之子，在继位竞争中确立地位。与麦西亚的埃塞尔弗莱德合作经营城堡和军事行动，扩大对丹麦人控制地区的影响；埃塞尔弗莱德死后又接管麦西亚。北方诸王的臣服记载并不意味着形成稳定、均一的全国行政。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-fc245307e6e8",
+      "regimeId": "ww-saxon",
+      "name": "埃塞尔斯坦",
+      "personalName": "埃塞尔斯坦",
+      "aliases": [],
+      "born": "约894年",
+      "died": "939年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 924,
+          "end": 939,
+          "label": "924—939年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长者爱德华之子，924年继位、次年加冕，927年取得约克，通常被视为首位统治全英格兰的国王。布鲁南堡战役抵御北方与爱尔兰海联盟。他通过法律、货币管理和王室婚姻扩大权威，死后北方领地仍受到挑战。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-b99b8291cd71",
+      "regimeId": "ww-saxon",
+      "name": "埃德蒙一世",
+      "personalName": "埃德蒙一世",
+      "aliases": [],
+      "born": "约921年",
+      "died": "946年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 939,
+          "end": 946,
+          "label": "939—946年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "埃塞尔斯坦异母弟，继位初期北方重新出现斯堪的纳维亚势力。他通过战争及外交恢复对中部和北部部分地区的控制，并与苏格兰王权交涉。946年遭杀害，年幼的儿子未立即接位，王位转给其弟埃德雷德，反映当时继承并非固定的长子制。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "ww-9c3d54ebb2e2",
+      "regimeId": "ww-saxon",
+      "name": "埃德雷德",
+      "personalName": "埃德雷德",
+      "aliases": [],
+      "born": "约923年",
+      "died": "955年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 946,
+          "end": 955,
+          "label": "946—955年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "埃德蒙一世之弟，在约克与诺森布里亚问题上反复出兵和交涉，最终使该地区纳入西撒克逊王权。教士邓斯坦等人在王室政治中日益重要。他没有儿子继位，王位传给侄子埃德威；对其疾病细节不宜以现代诊断代替史料。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ww-1246e046fd3f",
+      "regimeId": "ww-saxon",
+      "name": "埃德威",
+      "personalName": "埃德威",
+      "aliases": [],
+      "born": "约940年",
+      "died": "959年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 955,
+          "end": 959,
+          "label": "955—959年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "埃德蒙一世之子，青年即位，其宫廷与邓斯坦等教会人物关系紧张。兄弟与贵族争议使王国一度分治，弟弟埃德加在麦西亚及北方取得地位。埃德威早逝后英格兰重新由埃德加统治，说明王权仍依赖地方精英和教会网络。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ww-01a64bb16c92",
+      "regimeId": "ww-saxon",
+      "name": "埃德加",
+      "personalName": "埃德加",
+      "aliases": [],
+      "born": "约943年",
+      "died": "975年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 959,
+          "end": 975,
+          "label": "959—975年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "先在北方取得王位，兄长死后统治全英格兰。其时代推动修道院改革、货币与王室行政整合，973年的巴斯加冕留下重要礼仪影响。和平者称号不意味着没有政治强制，后来两个儿子之间的继承争端也显示整合并不牢固。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-a0252c03ed0e",
+      "regimeId": "ww-saxon",
+      "name": "殉道者爱德华",
+      "personalName": "殉道者爱德华",
+      "aliases": [],
+      "born": "约962年",
+      "died": "978年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 975,
+          "end": 978,
+          "label": "975—978年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "埃德加长子，在王室与教会派别竞争中继位。少年统治期间围绕修道院财产与宫廷影响的矛盾延续，978年在科夫堡附近遭杀害，异母弟埃塞尔雷德接位。后来被尊为殉道者，宗教纪念与对谋杀责任的确切判定应分开阅读。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ww-79e5bc2363ad",
+      "regimeId": "ww-saxon",
+      "name": "埃塞尔雷德二世",
+      "personalName": "埃塞尔雷德二世",
+      "aliases": [],
+      "born": "约966年",
+      "died": "1016年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 978,
+          "end": 1013,
+          "label": "978—1013年",
+          "role": "国王",
+          "note": ""
+        },
+        {
+          "start": 1014,
+          "end": 1016,
+          "label": "1014—1016年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在兄长被杀后继位，统治长期受到丹麦袭击与大额贡金问题困扰。1013年斯韦恩入侵使其流亡，斯韦恩死后复位，却又面对克努特挑战。传统绰号更接近缺乏良策者而非没有准备者，不能据绰号替代对财政和军事困境的分析。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ww-2fac2a9d1029",
+      "regimeId": "ww-saxon",
+      "name": "斯韦恩一世",
+      "personalName": "斯韦恩一世",
+      "aliases": [],
+      "born": "约960年",
+      "died": "1014年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1013,
+          "end": 1014,
+          "label": "1013—1014年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "丹麦国王，多次介入英格兰，1013年迫使埃塞尔雷德逃亡并被广泛接受为王。其英格兰统治仅维持数月，死后地方精英重新迎回旧王，而儿子克努特继续争夺王位。丹麦与英格兰的合并不是由一次胜利立即完成的稳定制度。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-41503829e9d7",
+      "regimeId": "ww-saxon",
+      "name": "埃德蒙二世",
+      "personalName": "埃德蒙二世",
+      "aliases": [],
+      "born": "约990年",
+      "died": "1016年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1016,
+          "end": 1016,
+          "label": "1016年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "埃塞尔雷德之子，在父亲去世后继续抵抗克努特。经过多次交战，双方分割王国并达成继承安排；埃德蒙同年去世后，克努特取得全英格兰统治。铁胁绰号体现其军事记忆，对其突然死亡的谋杀传说则缺乏同等确定性。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-7e8816e0f52a",
+      "regimeId": "ww-saxon",
+      "name": "克努特大帝",
+      "personalName": "克努特大帝",
+      "aliases": [],
+      "born": "约995年",
+      "died": "1035年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1016,
+          "end": 1035,
+          "label": "1016—1035年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过征服取得英格兰，随后兼掌丹麦与挪威，经营跨北海的王朝势力。他沿用英格兰地方制度、铸币与教会网络，并通过婚姻巩固继承合法性。其死后诸国和诸子继承安排迅速分化，所谓北海帝国并非统一的现代国家。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-92c3f2f85f46",
+      "regimeId": "ww-saxon",
+      "name": "哈罗德一世",
+      "personalName": "哈罗德一世",
+      "aliases": [],
+      "born": "约1015年",
+      "died": "1040年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1035,
+          "end": 1040,
+          "label": "1035—1040年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "克努特之子，起初在兄弟哈德克努特留在丹麦时承担英格兰实际统治，随后取得王位。王室血统、母族和地方精英的支持关系交织，兄弟之间并未形成平稳的共同治理。他死后哈德克努特继位，部分旧冲突仍以惩罚和政治追责延续。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ww-7b56f8afc82a",
+      "regimeId": "ww-saxon",
+      "name": "哈德克努特",
+      "personalName": "哈德克努特",
+      "aliases": [],
+      "born": "约1018年",
+      "died": "1042年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1040,
+          "end": 1042,
+          "label": "1040—1042年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "克努特与诺曼底的埃玛之子，先在丹麦掌权，1040年才到英格兰接位。高额军事财政要求引起反对，统治时间短促，死后没有成年子嗣接位。他迎回异父兄长爱德华，使英格兰王位在1042年回到西撒克逊王室一系。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [
+        "哈德克努特在丹麦的王位始于1035年；此处英格兰任期从1040年计。"
+      ],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-97635dd8f68a",
+      "regimeId": "ww-saxon",
+      "name": "忏悔者爱德华",
+      "personalName": "忏悔者爱德华",
+      "aliases": [],
+      "born": "约1003年",
+      "died": "1066年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1042,
+          "end": 1066,
+          "label": "1042—1066年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "长期在诺曼底流亡，继承英格兰王位后必须与戈德温家族及地方贵族合作。其宗教赞助和威斯敏斯特修院重建留下持久遗产，但没有子嗣使继承问题复杂化。诺曼底公爵、哈罗德和西撒克逊血缘候选人的竞争，最终导向1066年军事决战。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ww-540679a98be0",
+      "regimeId": "ww-saxon",
+      "name": "哈罗德二世",
+      "personalName": "哈罗德二世",
+      "aliases": [],
+      "born": "约1022年",
+      "died": "1066年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1066,
+          "end": 1066,
+          "label": "1066年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "戈德温家族核心人物，忏悔者爱德华死后由贵族会议拥立。面对挪威国王与流亡弟弟托斯蒂的北方入侵，先在斯坦福桥获胜，再急赴南方迎战威廉。黑斯廷斯败亡终结其统治，后世对其誓言和合法性的叙述受到征服者立场影响。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-f90bfdf7f14d",
+      "regimeId": "ww-saxon",
+      "name": "埃德加王子",
+      "personalName": "埃德加王子",
+      "aliases": [],
+      "born": "约1051—1052年",
+      "died": "1125年或之后",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1066,
+          "end": 1066,
+          "label": "1066年",
+          "role": "被拥立而未加冕者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "埃德蒙二世后裔，黑斯廷斯战败后被部分贵族选为王，却未获加冕，很快向威廉屈服。此后与北方反抗及苏格兰王室有联系，政治活动持续远超过1066年。他的例子说明王位推举、加冕与实际控制可以是三件不同的事。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "英国王室：撒克逊国王",
+          "url": "https://www.royal.uk/saxon-kings",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "英国国家肖像馆：王室谱系",
+          "url": "https://www.npg.org.uk/collections/explore/kings-and-queens-a-family-tree",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "rs-japan-modern",
+  "people": [
+    {
+      "id": "rs-meiji",
+      "regimeId": "rs-japan-modern",
+      "name": "明治天皇",
+      "personalName": "睦仁",
+      "aliases": [
+        "睦仁"
+      ],
+      "born": "1852年",
+      "died": "1912年",
+      "birthPlace": "京都",
+      "family": "孝明天皇之子；昭宪皇太后为其配偶，大正天皇之父。",
+      "reigns": [
+        {
+          "start": 1867,
+          "end": 1912,
+          "label": "1867—1912年",
+          "role": "天皇",
+          "note": "名义在位不表示每项政府决策都由其个人作出。"
+        }
+      ],
+      "life": [
+        "出生于京都，在幕府末期朝廷政治影响上升时成长，1867年继位。次年维新政府以天皇权威重组政权，但政策主要由不同藩出身的领导人、官僚与军人协商推进，不能把废藩置县、财政军制和教育改革写成一位少年君主独力完成。",
+        "1889年颁布《大日本帝国宪法》，君主权威与内阁、议会及军队形成新的制度关系。其在位时期，日本先后发动甲午战争与日俄战争，并于1910年吞并朝鲜。认识这一时期既须看到国家能力与工业发展，也须呈现战争、殖民统治和扩张对周边社会的伤害。",
+        "明治天皇1912年去世后，由嘉仁继位。其诗歌、诏书和大量纪念图像成为国家记忆的一部分；官方诏令常由相关官员拟定，不能一概当作本人独立撰著。"
+      ],
+      "highlights": [
+        {
+          "year": 1868,
+          "date": "1868年",
+          "title": "维新与五条誓文",
+          "text": "朝廷权威成为新政府重组政权的中心，旧幕府制度逐步瓦解。"
+        },
+        {
+          "year": 1889,
+          "date": "1889年",
+          "title": "帝国宪法",
+          "text": "新宪制确立天皇权威，亦规定议会与臣民权利，但并非现代议会主权体制。"
+        },
+        {
+          "year": 1894,
+          "date": "1894年",
+          "title": "甲午战争",
+          "text": "日本对清战争深刻改变东亚秩序，战争后取得台湾并扩大殖民统治。"
+        },
+        {
+          "year": 1910,
+          "date": "1910年",
+          "title": "吞并朝鲜",
+          "text": "日本帝国扩张造成朝鲜主权丧失，不能用现代化叙事掩去殖民统治。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "改元、即位礼与承继皇位不是同一个日期；本表按实际承位年份编排。"
+      ],
+      "sources": [
+        {
+          "title": "宫内厅：庆应三年以后的相关年表",
+          "url": "https://www.kunaicho.go.jp/kunaicho/kunaicho/kunaicho-nenpyo.html",
+          "note": "即位、改元与宫廷制度；1873年改历前日期须区别旧历，不直接当作公历月日。"
+        },
+        {
+          "title": "日本国立国会图书馆：明治天皇资料展",
+          "url": "https://jpsearch.go.jp/en/gallery/ndl-mj7BXzgVE0O",
+          "note": "生平与文献图像的机构资料；对颂扬性传记保留其时代与政治语境。"
+        },
+        {
+          "title": "明治神宫：明治天皇及五条誓文",
+          "url": "https://www.meijijingu.or.jp/en/about/enshrined/",
+          "note": "宗教纪念机构的自述，参考生卒与文本，不直接沿用其颂扬性历史评价。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-meiji",
+          "title": "明治维新与制度转型",
+          "date": "1868年",
+          "summary": "倒幕后新政府废藩置县、征兵、改革教育并发展工业，随后颁布宪法。",
+          "paragraphs": [
+            "幕末对外危机与国内政治分裂促成倒幕力量崛起。新政府以恢复天皇统治为名，却需要实际解决行政、财政、军队、身份制度和对外关系的重建，不能仅用“天皇重新掌权”概括。",
+            "新政权早期采用太政官等组织形式并反复调整，原有藩域逐步被更统一的行政体系取代。政治权力在宫廷、原各藩精英和新官僚之间重新组合。",
+            "政府向海外派使节并考察宪政。伊藤博文1882年赴欧洲研究君主、议会、内阁与司法制度，1885年内阁制建立，1889年宪法成为国家体制的重要依据。",
+            "中央国家的组织能力增强，形成兼具近代行政与天皇主权原则的帝国制度；参与政治的权利仍受身份、财产及制度设计限制。",
+            "改革推动教育、产业与军备变化，也为日本之后的对外战争和殖民扩张提供国家能力。现代化成果与对外支配不是可以相互抵销的同一评价。"
+          ],
+          "note": "维新不是全国一致、自上而下瞬间完成的“西化”。诸政策有反复，社会承担的成本与利益分配不同；来源以国家档案制度史为重，普通人的经验仍需另读。",
+          "sources": [
+            {
+              "title": "第二次工业革命与日本明治转型",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/9-1-the-second-industrial-revolution",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "十九世纪殖民帝国",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/9-3-colonial-empires",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "Grand Council of State (Dajokan) System",
+              "url": "https://www.ndl.go.jp/modern/e/cha1/description04.html",
+              "note": "日本国立国会图书馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            },
+            {
+              "title": "ITO Hirobumi’s Constitutional Study Mission to Europe",
+              "url": "https://www.ndl.go.jp/modern/e/cha2/description05.html",
+              "note": "日本国立国会图书馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            },
+            {
+              "title": "Birth of the Cabinet System",
+              "url": "https://www.ndl.go.jp/modern/e/cha2/description06.html",
+              "note": "日本国立国会图书馆；实际读取专题正文；支持所列字段的概述，不等同全部细节逐项交叉审定。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-east-asia-0614",
+          "title": "明治维新与戊辰战争",
+          "date": "1868年",
+          "summary": "新政府以天皇名义推进中央集权，战争、改革与社会身份重组同步展开。",
+          "paragraphs": [
+            "新政府以天皇名义推进中央集权，战争、改革与社会身份重组同步展开。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学日本历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/japan_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            },
+            {
+              "title": "哥伦比亚大学朝鲜半岛历史分期年表",
+              "url": "https://afe.easia.columbia.edu/timelines/korea_timeline.htm",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 408
+    },
+    {
+      "id": "rs-taisho",
+      "regimeId": "rs-japan-modern",
+      "name": "大正天皇",
+      "personalName": "嘉仁",
+      "aliases": [
+        "嘉仁"
+      ],
+      "born": "1879年",
+      "died": "1926年",
+      "birthPlace": "东京",
+      "family": "明治天皇之子；配偶贞明皇后节子，昭和天皇裕仁之父。",
+      "reigns": [
+        {
+          "start": 1912,
+          "end": 1926,
+          "label": "1912—1926年",
+          "role": "天皇",
+          "note": "1921年以后皇太子裕仁摄政，皇位仍归本人。"
+        }
+      ],
+      "life": [
+        "出生于东京，幼年健康较弱，1889年成为皇太子，1912年继承皇位。其即位衔接明治后期的帝国制度与政党政治发展，所谓大正民主是多种政治、社会运动推动的变化，不能解释为君主个人赐予民主。",
+        "在位期间，日本参加第一次世界大战，政党内阁、劳工与民众运动发展，同时延续海外扩张。因健康问题，1921年起由皇太子裕仁摄政；他本人仍保留皇位至1926年去世。年度对照以1912年为本库上限，后续任期与摄政安排在完整生平中说明。"
+      ],
+      "highlights": [
+        {
+          "year": 1912,
+          "date": "1912年",
+          "title": "继承皇位",
+          "text": "1912年7月明治天皇去世，嘉仁继位并改元大正。"
+        },
+        {
+          "year": 1921,
+          "date": "1921年",
+          "title": "皇太子摄政",
+          "text": "健康问题使公职由皇太子裕仁代理；摄政不等于大正已退位。"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [
+        "改元、即位礼与承继皇位不是同一个日期；本表按实际承位年份编排。"
+      ],
+      "sources": [
+        {
+          "title": "宫内厅：庆应三年以后的相关年表",
+          "url": "https://www.kunaicho.go.jp/kunaicho/kunaicho/kunaicho-nenpyo.html",
+          "note": "即位、改元与宫廷制度；1873年改历前日期须区别旧历，不直接当作公历月日。"
+        },
+        {
+          "title": "日本国立国会图书馆：明治天皇资料展",
+          "url": "https://jpsearch.go.jp/en/gallery/ndl-mj7BXzgVE0O",
+          "note": "生平与文献图像的机构资料；对颂扬性传记保留其时代与政治语境。"
+        },
+        {
+          "title": "明治神宫：明治天皇及五条誓文",
+          "url": "https://www.meijijingu.or.jp/en/about/enshrined/",
+          "note": "宗教纪念机构的自述，参考生卒与文本，不直接沿用其颂扬性历史评价。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 256
+    }
+  ]
+}

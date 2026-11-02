@@ -1,0 +1,269 @@
+{
+  "id": "cl-machu",
+  "people": [
+    {
+      "id": "cl-machu-7fd8a54db",
+      "regimeId": "cl-machu",
+      "name": "楚武穆王",
+      "personalName": "马殷",
+      "aliases": [
+        "马殷"
+      ],
+      "born": "852年",
+      "died": "930年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 907,
+          "end": 930,
+          "label": "907—930年",
+          "role": "楚王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "唐末进入湖南并控制潭州，907年受后梁封楚王。经营茶叶贸易和区域财政，对中原保持臣属；在诸子继承安排中未能消除竞争，身后各支相争。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "cl-machu-e79e2df07",
+      "regimeId": "cl-machu",
+      "name": "马希声",
+      "personalName": "马希声",
+      "aliases": [],
+      "born": "898年",
+      "died": "932年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 930,
+          "end": 932,
+          "label": "930—932年",
+          "role": "楚国统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马殷之子，承接湖南军政权力，但未获得与父亲完全相同的王号和权威。在位时间短，932年去世后，兄弟继承继续成为马氏政权的重要问题。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "cl-machu-c54c6e517",
+      "regimeId": "cl-machu",
+      "name": "楚文昭王",
+      "personalName": "马希范",
+      "aliases": [
+        "马希范"
+      ],
+      "born": "899年",
+      "died": "947年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 932,
+          "end": 947,
+          "label": "932—947年",
+          "role": "楚王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马殷之子，统治时期湖南相对稳定，宫廷规模和财政经营继续发展。晚年继承安排引发诸弟争夺，947年去世后，原有区域秩序很快被内战打破。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 105
+    },
+    {
+      "id": "cl-machu-023beeba0",
+      "regimeId": "cl-machu",
+      "name": "楚废王",
+      "personalName": "马希广",
+      "aliases": [
+        "马希广"
+      ],
+      "born": "901年",
+      "died": "950年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 947,
+          "end": 950,
+          "label": "947—950年",
+          "role": "楚国统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马殷之子，在马希范死后获拥立，遭兄马希萼反对。双方争夺潭州并动员地方军队，950年马希广战败被杀，马楚的统治基础随内战削弱。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "cl-machu-b2e71fd99",
+      "regimeId": "cl-machu",
+      "name": "楚恭孝王",
+      "personalName": "马希萼",
+      "aliases": [
+        "马希萼"
+      ],
+      "born": "生年不详或本版尚未核实可靠确年",
+      "died": "卒年不详或尚有争议",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 950,
+          "end": 951,
+          "label": "950—951年",
+          "role": "楚国统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马殷之子，从朗州起兵击败马希广，进入潭州掌权。获胜后军纪和内部关系恶化，951年又被弟马希崇集团废黜；其后受南唐控制，晚年确切卒年本版未核实。"
+      ],
+      "highlights": [
+        {
+          "date": "951年",
+          "year": 951,
+          "title": "楚国分裂",
+          "text": "马氏兄弟争位导致楚国瓦解。",
+          "eventId": "ann-cl-five-dynasties-951-174"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-0d597c00e952"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-five-dynasties-951-174",
+          "title": "楚国分裂",
+          "date": "951年",
+          "summary": "马氏兄弟争位导致楚国瓦解。",
+          "paragraphs": [
+            "马氏兄弟争位导致楚国瓦解。",
+            "南唐一度占领湖南。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 124
+    },
+    {
+      "id": "cl-machu-c76e89859",
+      "regimeId": "cl-machu",
+      "name": "马希崇",
+      "personalName": "马希崇",
+      "aliases": [],
+      "born": "912年",
+      "died": "卒年不详或尚有争议",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 951,
+          "end": 951,
+          "label": "951年",
+          "role": "楚国统治者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "马殷之子，在湖南内战中反复参与宫廷和军队活动，951年废马希萼自立。旋即面对地方反抗及南唐军进攻，献湖南于南唐，马氏政权结束。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《隋唐五代史》",
+          "url": "",
+          "note": "用户提供的《中国断代史系列·全集》第8册相关朝代章节；本条按世系与史事原创整理。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    }
+  ]
+}

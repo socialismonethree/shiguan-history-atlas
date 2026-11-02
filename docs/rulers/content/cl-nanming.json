@@ -1,0 +1,371 @@
+{
+  "id": "cl-nanming",
+  "people": [
+    {
+      "id": "cl-nanming-ab8612168",
+      "regimeId": "cl-nanming",
+      "name": "弘光帝",
+      "personalName": "朱由崧",
+      "aliases": [
+        "朱由崧"
+      ],
+      "born": "1607年",
+      "died": "1646年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1644,
+          "end": 1645,
+          "label": "1644—1645年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "福王一系宗室，1644年在南京被拥立。朝廷内部派系与军镇矛盾严重，未能有效组织对清防御，1645年南京失守后被俘，次年在北京被杀。"
+      ],
+      "highlights": [
+        {
+          "date": "1644年",
+          "year": 1644,
+          "title": "南京弘光政权建立",
+          "text": "朱由崧在南京即位。",
+          "eventId": "ann-cl-ming-1644-600"
+        },
+        {
+          "date": "1645年",
+          "year": 1645,
+          "title": "清军占领南京",
+          "text": "弘光帝被俘。",
+          "eventId": "ann-cl-qing-1645-631"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-4062429efd4b"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "南炳文、汤纲《明史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第12册，2．门户之争的主要事件，合并文本第160571行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "故宫博物院·宫廷事件（明清政治背景概览）",
+          "url": "https://www.dpm.org.cn/court/events.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-ming-1644-600",
+          "title": "南京弘光政权建立",
+          "date": "1644年",
+          "summary": "朱由崧在南京即位。",
+          "paragraphs": [
+            "朱由崧在南京即位。",
+            "南明继续组织抵抗但内部冲突严重。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "故宫博物院·宫廷事件（明清政治背景概览）",
+              "url": "https://www.dpm.org.cn/court/events.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        },
+        {
+          "id": "ann-cl-qing-1645-631",
+          "title": "清军占领南京",
+          "date": "1645年",
+          "summary": "弘光帝被俘。",
+          "paragraphs": [
+            "弘光帝被俘。",
+            "南明在江南的中央政权覆灭。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "故宫博物院·宫廷事件（明清政治背景概览）",
+              "url": "https://www.dpm.org.cn/court/events.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 120
+    },
+    {
+      "id": "cl-nanming-13c92acb9",
+      "regimeId": "cl-nanming",
+      "name": "隆武帝",
+      "personalName": "朱聿键",
+      "aliases": [
+        "朱聿键"
+      ],
+      "born": "1602年",
+      "died": "1646年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1645,
+          "end": 1646,
+          "label": "1645—1646年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "唐王宗室，曾在明末被囚，1645年在福州称帝。依靠郑芝龙等军政力量维持朝廷，试图组织北伐，但军令、财政与地方利益难以统一；1646年清军入福建后被俘遇害。"
+      ],
+      "highlights": [
+        {
+          "date": "1646年",
+          "year": 1646,
+          "title": "隆武政权覆亡",
+          "text": "清军攻入福建。",
+          "eventId": "ann-cl-qing-1646-634"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-a70dc3b9ff44"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "南炳文、汤纲《明史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第12册，2．门户之争的主要事件，合并文本第160571行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "故宫博物院·宫廷事件（明清政治背景概览）",
+          "url": "https://www.dpm.org.cn/court/events.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-qing-1646-634",
+          "title": "隆武政权覆亡",
+          "date": "1646年",
+          "summary": "清军攻入福建。",
+          "paragraphs": [
+            "清军攻入福建。",
+            "隆武帝朱聿键被俘杀。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "故宫博物院·宫廷事件（明清政治背景概览）",
+              "url": "https://www.dpm.org.cn/court/events.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 124
+    },
+    {
+      "id": "cl-nanming-0a732122b",
+      "regimeId": "cl-nanming",
+      "name": "鲁王监国",
+      "personalName": "朱以海",
+      "aliases": [
+        "朱以海"
+      ],
+      "born": "1618年",
+      "died": "1662年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "明太祖朱元璋后裔；父为鲁肃王朱寿镛，1644年袭鲁王爵。",
+      "reigns": [
+        {
+          "start": 1645,
+          "end": 1653,
+          "label": "1645—1653年",
+          "role": "监国者",
+          "note": "监国阶段通行叙述止1653年，早期行朝和后期名号的使用需区别；未正式称皇帝。1662年死于金门，有墓志资料，不能采用被郑成功沉海的旧传闻。"
+        }
+      ],
+      "life": [
+        "明宗室鲁王，弘光朝覆亡后由浙东官绅拥立监国，与福建隆武行朝同时存在。绍兴失守后辗转海上、舟山与福建沿海，依靠张名振、张煌言等抵抗清军，晚年在金门生活。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "监国阶段通行叙述止1653年，早期行朝和后期名号的使用需区别；未正式称皇帝。1662年死于金门，有墓志资料，不能采用被郑成功沉海的旧传闻。"
+      ],
+      "sources": [
+        {
+          "title": "南炳文、汤纲《明史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第12册，2．门户之争的主要事件，合并文本第160571行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "台州史志网·清代大事记",
+          "url": "https://tzsz.zjtz.gov.cn/art/2013/6/19/art_1229142738_54435193.html",
+          "note": "官方地方史志载1645年拥立、绍兴监国及舟山活动；晚年另据鲁王墓志与相关研究，不沿用沉海传闻。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 115
+    },
+    {
+      "id": "cl-nanming-e9934d90e",
+      "regimeId": "cl-nanming",
+      "name": "绍武帝",
+      "personalName": "朱聿鐭",
+      "aliases": [
+        "朱聿鐭"
+      ],
+      "born": "1605年",
+      "died": "1647年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "本版尚未系统核录亲属资料；承继关系不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1646,
+          "end": 1647,
+          "label": "1646—1647年",
+          "role": "皇帝",
+          "note": "绍武朝在农历隆武二年末，公历跨1646—1647年，常见年表简列1646年。"
+        }
+      ],
+      "life": [
+        "朱聿键之弟，1646年末在广州被拥立，与同时称帝的朱由榔发生争夺。清军迅速进入广州，绍武行朝在极短时间内覆灭，朱聿鐭死于1647年初。"
+      ],
+      "highlights": [],
+      "existingPersonIds": [],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [
+        "绍武朝在农历隆武二年末，公历跨1646—1647年，常见年表简列1646年。"
+      ],
+      "sources": [
+        {
+          "title": "南炳文、汤纲《明史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第12册，2．门户之争的主要事件，合并文本第160571行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "cl-nanming-c4fdd72cd",
+      "regimeId": "cl-nanming",
+      "name": "永历帝",
+      "personalName": "朱由榔",
+      "aliases": [
+        "朱由榔"
+      ],
+      "born": "1623年",
+      "died": "1662年",
+      "birthPlace": "本版尚未核实具体出生地点",
+      "family": "明神宗之孙，桂王朱常瀛之子；与同时期其他南明宗室存在不同支系。",
+      "reigns": [
+        {
+          "start": 1646,
+          "end": 1662,
+          "label": "1646—1662年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "桂王宗室，在肇庆被拥立，行朝先后辗转两广、贵州、云南。孙可望、李定国等军事力量既支撑抵抗，也与朝廷发生复杂冲突；1659年后逃入缅甸，1662年被送交吴三桂并在昆明遇害。"
+      ],
+      "highlights": [
+        {
+          "date": "1662年",
+          "year": 1662,
+          "title": "永历帝被杀",
+          "text": "吴三桂将朱由榔杀于昆明。",
+          "eventId": "ann-cl-qing-1662-653"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-f85cb4bb829c"
+      ],
+      "assessment": "评价应结合其具体举措、制度条件与政治后果，不以庙号、谥号或后世单一褒贬代替史实。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "南炳文、汤纲《明史》",
+          "url": "",
+          "note": "据用户提供的《中国断代史系列·全集》第12册，2．门户之争的主要事件，合并文本第160571行附近；用于生平和时代背景，不据活动区间推断生卒。"
+        },
+        {
+          "title": "故宫博物院·宫廷事件（明清政治背景概览）",
+          "url": "https://www.dpm.org.cn/court/events.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        },
+        {
+          "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+          "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+          "note": "沿用站内已录人物或事件的出处；与本条独立生卒字段分开核对。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-cl-qing-1662-653",
+          "title": "永历帝被杀",
+          "date": "1662年",
+          "summary": "吴三桂将朱由榔杀于昆明。",
+          "paragraphs": [
+            "吴三桂将朱由榔杀于昆明。",
+            "南明皇帝体系走向终结。"
+          ],
+          "note": "据所列资料作编年概述；事件影响为编辑性归纳，具体解释可继续校订。",
+          "sources": [
+            {
+              "title": "中国国家博物馆·古代中国（分期与背景概览，非逐条年代核验）",
+              "url": "https://www.chnmuseum.cn/portals/0/web/zt/gudai/default.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            },
+            {
+              "title": "故宫博物院·宫廷事件（明清政治背景概览）",
+              "url": "https://www.dpm.org.cn/court/events.html",
+              "note": "条目所列机构或作者；用于编辑性编年整理的参考资料。并非每条都已作独立的多来源复核。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 137
+    }
+  ]
+}

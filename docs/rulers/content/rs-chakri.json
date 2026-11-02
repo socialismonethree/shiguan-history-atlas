@@ -1,0 +1,359 @@
+{
+  "id": "rs-chakri",
+  "people": [
+    {
+      "id": "rs-4a15dd9e23ac",
+      "regimeId": "rs-chakri",
+      "name": "拉玛一世",
+      "personalName": "昭披耶·扎克里／通銮",
+      "aliases": [],
+      "born": "1737年",
+      "died": "1809年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1782,
+          "end": 1809,
+          "label": "1782—1809年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为吞武里王朝将领，1782年建立扎克里王朝，把政治中心移至湄南河东岸的曼谷。营建宫殿、寺院并整理佛教与法律典籍，同时应对缅甸战争。新王朝的确立兼有军事夺权、礼制重建和区域联盟的基础。"
+      ],
+      "highlights": [
+        {
+          "year": 1782,
+          "date": "1782年",
+          "title": "曼谷王朝建立（任内史事）",
+          "text": "拉玛一世迁都曼谷，重建王室、佛教经典和法律秩序。",
+          "eventId": "ann-chron-world-southeast-asia-0839"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "日本庆应义塾大学：东南亚近代史讲义，扎克里王朝表",
+          "url": "https://web.sfc.keio.ac.jp/~nomura/sea/world_of_sea_11.pdf",
+          "note": "教学用王朝表；仅取1912年前已即位的前六王，后续君主不在本库通史截止范围。"
+        },
+        {
+          "title": "泰国政府：曼谷建城与王朝建立",
+          "url": "https://www.thaigov.go.th/th/news/163228",
+          "note": "1782年新都与王朝建立背景。"
+        },
+        {
+          "title": "泰国先皇理工学院：拉玛四世生平",
+          "url": "https://kmitl.ac.th/biography-king-rama-iv",
+          "note": "大学校史人物资料，核对出生、出家经历与科学活动。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-southeast-asia-0839",
+          "title": "曼谷王朝建立",
+          "date": "1782年",
+          "summary": "拉玛一世迁都曼谷，重建王室、佛教经典和法律秩序。",
+          "paragraphs": [
+            "拉玛一世迁都曼谷，重建王室、佛教经典和法律秩序。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 116
+    },
+    {
+      "id": "rs-b94bde479871",
+      "regimeId": "rs-chakri",
+      "name": "拉玛二世",
+      "personalName": "伊萨拉顺通",
+      "aliases": [],
+      "born": "1767年",
+      "died": "1824年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1809,
+          "end": 1824,
+          "label": "1809—1824年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "一世之子。王朝初期的战事逐步减少，宫廷文学、戏剧和艺术受到支持，君主本人参与文学创作。对外贸易与中国移民社会发展，亦构成王室财政和城市生活变化的背景，不能只把其时代理解为诗歌繁盛。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "日本庆应义塾大学：东南亚近代史讲义，扎克里王朝表",
+          "url": "https://web.sfc.keio.ac.jp/~nomura/sea/world_of_sea_11.pdf",
+          "note": "教学用王朝表；仅取1912年前已即位的前六王，后续君主不在本库通史截止范围。"
+        },
+        {
+          "title": "泰国政府：曼谷建城与王朝建立",
+          "url": "https://www.thaigov.go.th/th/news/163228",
+          "note": "1782年新都与王朝建立背景。"
+        },
+        {
+          "title": "泰国先皇理工学院：拉玛四世生平",
+          "url": "https://kmitl.ac.th/biography-king-rama-iv",
+          "note": "大学校史人物资料，核对出生、出家经历与科学活动。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 90
+    },
+    {
+      "id": "rs-4a66a3a556bc",
+      "regimeId": "rs-chakri",
+      "name": "拉玛三世",
+      "personalName": "南格劳",
+      "aliases": [],
+      "born": "1788年",
+      "died": "1851年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1824,
+          "end": 1851,
+          "label": "1824—1851年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "二世之子，在宫廷支持下继位，积极发展贸易与寺院营造。任内与英国签订1826年伯尼条约，并介入老挝和柬埔寨等地区事务。贸易收入、区域战争及欧洲势力进入相互交织，王国逐步面对新的外交秩序。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "日本庆应义塾大学：东南亚近代史讲义，扎克里王朝表",
+          "url": "https://web.sfc.keio.ac.jp/~nomura/sea/world_of_sea_11.pdf",
+          "note": "教学用王朝表；仅取1912年前已即位的前六王，后续君主不在本库通史截止范围。"
+        },
+        {
+          "title": "泰国政府：曼谷建城与王朝建立",
+          "url": "https://www.thaigov.go.th/th/news/163228",
+          "note": "1782年新都与王朝建立背景。"
+        },
+        {
+          "title": "泰国先皇理工学院：拉玛四世生平",
+          "url": "https://kmitl.ac.th/biography-king-rama-iv",
+          "note": "大学校史人物资料，核对出生、出家经历与科学活动。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 92
+    },
+    {
+      "id": "rs-f1cbf566a97a",
+      "regimeId": "rs-chakri",
+      "name": "拉玛四世",
+      "personalName": "蒙固",
+      "aliases": [],
+      "born": "1804年",
+      "died": "1868年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1851,
+          "end": 1868,
+          "label": "1851—1868年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "二世之子，长期出家后继位，学习语言、天文与外部知识，推动佛教改革和新的外交方式。1855年鲍林条约改变关税与贸易规则，既扩大贸易也限制主权。1868年组织日食观测，其科学兴趣须同王国面对殖民压力的制度困境一并理解。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "日本庆应义塾大学：东南亚近代史讲义，扎克里王朝表",
+          "url": "https://web.sfc.keio.ac.jp/~nomura/sea/world_of_sea_11.pdf",
+          "note": "教学用王朝表；仅取1912年前已即位的前六王，后续君主不在本库通史截止范围。"
+        },
+        {
+          "title": "泰国先皇理工学院：拉玛四世生平",
+          "url": "https://kmitl.ac.th/biography-king-rama-iv",
+          "note": "大学校史人物资料，核对出生、出家经历与科学活动。"
+        },
+        {
+          "title": "泰国政府：曼谷建城与王朝建立",
+          "url": "https://www.thaigov.go.th/th/news/163228",
+          "note": "1782年新都与王朝建立背景。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 107
+    },
+    {
+      "id": "rs-26dc361eabd5",
+      "regimeId": "rs-chakri",
+      "name": "拉玛五世",
+      "personalName": "朱拉隆功",
+      "aliases": [],
+      "born": "1853年",
+      "died": "1910年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1868,
+          "end": 1910,
+          "label": "1868—1910年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "四世之子，幼年继位，成年后推进行政中央化、部制、铁路和教育改革，并逐步废除奴隶制与徭役旧制。为维持国家独立，在英法殖民扩张间进行外交，同时作出领土让步。改革扩大政府能力，也改变地方精英与王室的权力关系，不能等同现代民主已经建立。"
+      ],
+      "highlights": [
+        {
+          "year": 1868,
+          "date": "1868年",
+          "title": "朱拉隆功即位（任内史事）",
+          "text": "暹罗推动行政、税制与身份改革，以中央集权和外交在殖民竞争中维持国家。",
+          "eventId": "ann-chron-world-southeast-asia-0852"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "日本庆应义塾大学：东南亚近代史讲义，扎克里王朝表",
+          "url": "https://web.sfc.keio.ac.jp/~nomura/sea/world_of_sea_11.pdf",
+          "note": "教学用王朝表；仅取1912年前已即位的前六王，后续君主不在本库通史截止范围。"
+        },
+        {
+          "title": "泰国政府：曼谷建城与王朝建立",
+          "url": "https://www.thaigov.go.th/th/news/163228",
+          "note": "1782年新都与王朝建立背景。"
+        },
+        {
+          "title": "泰国先皇理工学院：拉玛四世生平",
+          "url": "https://kmitl.ac.th/biography-king-rama-iv",
+          "note": "大学校史人物资料，核对出生、出家经历与科学活动。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-southeast-asia-0852",
+          "title": "朱拉隆功即位",
+          "date": "1868年",
+          "summary": "暹罗推动行政、税制与身份改革，以中央集权和外交在殖民竞争中维持国家。",
+          "paragraphs": [
+            "暹罗推动行政、税制与身份改革，以中央集权和外交在殖民竞争中维持国家。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 148
+    },
+    {
+      "id": "rs-90b0a93ad4c8",
+      "regimeId": "rs-chakri",
+      "name": "拉玛六世",
+      "personalName": "瓦栖拉兀",
+      "aliases": [],
+      "born": "1881年",
+      "died": "1925年",
+      "birthPlace": "",
+      "family": "",
+      "reigns": [
+        {
+          "start": 1910,
+          "end": 1925,
+          "label": "1910—1925年",
+          "role": "国王",
+          "note": ""
+        }
+      ],
+      "life": [
+        "五世之子，早年在英国受教育，继位后强调民族、宗教与君主的政治认同，推动文学、教育和公共组织。任内经历1912年军人政变计划，并在第一次世界大战中参战；这些后续经历超出本库1912年年度对照范围，但作为完整生平保留。"
+      ],
+      "highlights": [
+        {
+          "year": 1911,
+          "date": "1911年",
+          "title": "拉玛六世组织野虎团（任内史事）",
+          "text": "暹罗王权以军事和忠君教育塑造国家认同，也引起部分军人不满。",
+          "eventId": "ann-chron-world-southeast-asia-0864"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "日本庆应义塾大学：东南亚近代史讲义，扎克里王朝表",
+          "url": "https://web.sfc.keio.ac.jp/~nomura/sea/world_of_sea_11.pdf",
+          "note": "教学用王朝表；仅取1912年前已即位的前六王，后续君主不在本库通史截止范围。"
+        },
+        {
+          "title": "泰国政府：曼谷建城与王朝建立",
+          "url": "https://www.thaigov.go.th/th/news/163228",
+          "note": "1782年新都与王朝建立背景。"
+        },
+        {
+          "title": "泰国先皇理工学院：拉玛四世生平",
+          "url": "https://kmitl.ac.th/biography-king-rama-iv",
+          "note": "大学校史人物资料，核对出生、出家经历与科学活动。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-southeast-asia-0864",
+          "title": "拉玛六世组织野虎团",
+          "date": "1911年",
+          "summary": "暹罗王权以军事和忠君教育塑造国家认同，也引起部分军人不满。",
+          "paragraphs": [
+            "暹罗王权以军事和忠君教育塑造国家认同，也引起部分军人不满。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 136
+    }
+  ]
+}

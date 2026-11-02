@@ -1,0 +1,1326 @@
+{
+  "id": "ww-russia",
+  "people": [
+    {
+      "id": "ww-3d81e236b690",
+      "regimeId": "ww-russia",
+      "name": "伊凡三世",
+      "personalName": "伊凡三世",
+      "aliases": [],
+      "born": "1440年",
+      "died": "1505年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1462,
+          "end": 1505,
+          "label": "1462—1505年",
+          "role": "莫斯科大公",
+          "note": ""
+        }
+      ],
+      "life": [
+        "通过征服、婚姻和外交整合诺夫哥罗德等领地，1480年乌格拉河对峙象征与大帐汗国关系的变化。他经营莫斯科大公权威，1497年法典和克里姆林宫建设体现制度及王权形象发展。摆脱蒙古控制是长期过程，不应只用一日事件概括。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ww-74bae62416a3",
+      "regimeId": "ww-russia",
+      "name": "瓦西里三世",
+      "personalName": "瓦西里三世",
+      "aliases": [],
+      "born": "1479年",
+      "died": "1533年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1505,
+          "end": 1533,
+          "label": "1505—1533年",
+          "role": "莫斯科大公",
+          "note": ""
+        }
+      ],
+      "life": [
+        "伊凡三世之子，继续吞并普斯科夫、梁赞等地，并与立陶宛争夺斯摩棱斯克。为获得继承人而解除第一段婚姻、再婚，牵动教会与宫廷政治；死时伊凡仍年幼，王室母后和贵族随后争夺摄政权力。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 86
+    },
+    {
+      "id": "ww-25a48c52d096",
+      "regimeId": "ww-russia",
+      "name": "伊凡四世",
+      "personalName": "伊凡四世",
+      "aliases": [],
+      "born": "1530年",
+      "died": "1584年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1533,
+          "end": 1584,
+          "label": "1533—1584年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年为莫斯科大公，1547年以沙皇身份加冕。早期改革、征服喀山与阿斯特拉罕扩大国家力量，利沃尼亚战争却带来长期负担。特辖制和大规模镇压破坏社会，晚年继承危机加深；雷帝形象须与其扩张和暴力一同考察。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-aa6f2c53ad09",
+      "regimeId": "ww-russia",
+      "name": "费奥多尔一世",
+      "personalName": "费奥多尔一世",
+      "aliases": [],
+      "born": "1557年",
+      "died": "1598年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1584,
+          "end": 1598,
+          "label": "1584—1598年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "伊凡四世之子，在其名下国家由鲍里斯·戈东诺夫等权臣实际主导政务。俄罗斯牧首制度在1589年建立，地方和边疆经营继续。因没有存活子嗣，他去世后莫斯科留里克王统断绝，王位选择与贵族政治进入新阶段。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-2c6e8dc3c23b",
+      "regimeId": "ww-russia",
+      "name": "鲍里斯·戈东诺夫",
+      "personalName": "鲍里斯·戈东诺夫",
+      "aliases": [],
+      "born": "约1552年",
+      "died": "1605年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1598,
+          "end": 1605,
+          "label": "1598—1605年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "先以沙皇姻亲和重臣身份实际掌权，费奥多尔死后经缙绅会议推举为沙皇。他尝试巩固王权并发展国家经营，1601—1603年饥荒及社会矛盾严重削弱支持，冒名德米特里挑战随后兴起。继位合法性争论不能替代对灾荒和社会压力的解释。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "ww-744421d6b201",
+      "regimeId": "ww-russia",
+      "name": "费奥多尔二世",
+      "personalName": "费奥多尔二世",
+      "aliases": [],
+      "born": "1589年",
+      "died": "1605年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1605,
+          "end": 1605,
+          "label": "1605年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "鲍里斯之子，父亲去世后短暂继位，国家军政支持却迅速转向假德米特里。他与母亲在莫斯科被杀，没有形成稳定亲政阶段。其短命王位应列入继承序列，但不能虚构长期施政或制度改革。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 83
+    },
+    {
+      "id": "ww-8ab103f40285",
+      "regimeId": "ww-russia",
+      "name": "假德米特里一世",
+      "personalName": "假德米特里一世",
+      "aliases": [],
+      "born": "约1582年",
+      "died": "1606年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1605,
+          "end": 1606,
+          "label": "1605—1606年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "声称自己是伊凡四世早逝的儿子德米特里，借波兰立陶宛部分力量及俄国内部反对派支持取得王位。登位后宫廷与宗教政治冲突扩大，1606年政变中被杀。他的真实出身和个人身份仍有争论，假称标签不意味着可忽略其实际统治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ww-d2c8017f2dac",
+      "regimeId": "ww-russia",
+      "name": "瓦西里四世·舒伊斯基",
+      "personalName": "瓦西里四世·舒伊斯基",
+      "aliases": [],
+      "born": "1552年",
+      "died": "1612年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1606,
+          "end": 1610,
+          "label": "1606—1610年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "以贵族家族领袖身份参与推翻假德米特里后接位，面临农民与武装起事、第二位假德米特里和外国干预。依靠瑞典支援又促使波兰直接介入，1610年被废，后来被带往波兰。他的任期后出现贵族集体执政，不应硬接成单一沙皇连续统治。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 106
+    },
+    {
+      "id": "ww-f77a51aa9145",
+      "regimeId": "ww-russia",
+      "name": "米哈伊尔一世",
+      "personalName": "米哈伊尔一世",
+      "aliases": [],
+      "born": "1596年",
+      "died": "1645年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1613,
+          "end": 1645,
+          "label": "1613—1645年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在混乱时期后由缙绅会议选为沙皇，建立罗曼诺夫王朝。国家需要恢复地方财政、军队与外交秩序，父亲菲拉列特回国任牧首后成为重要共同掌权者。王朝建立依赖贵族、教会和地方力量的妥协，并非一个家族单独完成的复兴。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 100
+    },
+    {
+      "id": "ww-108adc79878f",
+      "regimeId": "ww-russia",
+      "name": "阿列克谢一世",
+      "personalName": "阿列克谢一世",
+      "aliases": [],
+      "born": "1629年",
+      "died": "1676年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1645,
+          "end": 1676,
+          "label": "1645—1676年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "统治中颁布1649年法典，强化农奴制度和国家管理；盐税、铜币与地方政治矛盾引发多次反抗。乌克兰哥萨克与莫斯科的结盟及对波兰战争扩大国家版图，尼康宗教改革又造成教会分裂。国家整合与社会强制同时加深。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 98
+    },
+    {
+      "id": "ww-cadb21e46819",
+      "regimeId": "ww-russia",
+      "name": "费奥多尔三世",
+      "personalName": "费奥多尔三世",
+      "aliases": [],
+      "born": "1661年",
+      "died": "1682年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1676,
+          "end": 1682,
+          "label": "1676—1682年",
+          "role": "沙皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "阿列克谢之子，身体状况不佳但仍参与改革，1682年废除按家族资序安排官职的门第制度。其在位期间继续与奥斯曼等国交战，税制和军务有所调整。他无存活男性继承人去世，伊凡与彼得两支母族的竞争引发继承危机。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 99
+    },
+    {
+      "id": "ww-2073f6393e38",
+      "regimeId": "ww-russia",
+      "name": "伊凡五世",
+      "personalName": "伊凡五世",
+      "aliases": [],
+      "born": "1666年",
+      "died": "1696年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1682,
+          "end": 1696,
+          "label": "1682—1696年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "与异母弟彼得共同被拥为沙皇，初期实际政务由姐姐索菲娅等人主导。他健康状况限制政治活动，在彼得取得优势后仍保留共治地位直至去世。共治不等于两人拥有完全相同的决策能力，家族后裔日后仍影响继承。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 94
+    },
+    {
+      "id": "ww-4a72eef00366",
+      "regimeId": "ww-russia",
+      "name": "索菲娅·阿列克谢耶芙娜",
+      "personalName": "索菲娅·阿列克谢耶芙娜",
+      "aliases": [],
+      "born": "1657年",
+      "died": "1704年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1682,
+          "end": 1689,
+          "label": "1682—1689年",
+          "role": "摄政者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在射击军动乱和两位弟弟共治的背景下成为摄政者，依靠宫廷、军队与戈利岑等重臣。其时代与波兰达成永久和约，并对克里米亚发动远征。1689年在与彼得的权力斗争中失败，后长期受限制，不应写成正式女皇帝。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 97
+    },
+    {
+      "id": "ww-d0cde93ae95c",
+      "regimeId": "ww-russia",
+      "name": "彼得一世",
+      "personalName": "彼得一世",
+      "aliases": [
+        "彼得大帝"
+      ],
+      "born": "1672年",
+      "died": "1725年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1682,
+          "end": 1725,
+          "label": "1682—1725年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "幼年与伊凡共治，在姐姐索菲娅摄政结束后逐步亲掌权力。以大使团赴欧和军事竞争为契机重组军队、海军、税制与官僚，建设圣彼得堡，通过大北方战争确立波罗的海地位，1721年采用皇帝称号。改革同时依靠强制劳动、征兵和沉重征税，农奴处境并未因学习欧洲技术而自然改善。"
+      ],
+      "highlights": [
+        {
+          "date": "1682年",
+          "year": 1682,
+          "title": "彼得一世改革与俄国帝国",
+          "text": "俄国改革军队、官僚和对外贸易，在北方战争后取得波罗的海重要地位。",
+          "eventId": "we-peter"
+        },
+        {
+          "year": 1703,
+          "date": "1703年",
+          "title": "圣彼得堡开始建设（任内史事）",
+          "text": "彼得一世在涅瓦河口营建新城，以城市、海军和行政改革面向波罗的海。",
+          "eventId": "ann-chron-world-europe-0228"
+        }
+      ],
+      "assessment": "改革增强国家力量，也依靠沉重征税和强制劳役。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "圣彼得堡历史中心及相关古迹",
+          "url": "https://whc.unesco.org/en/list/540/",
+          "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+        },
+        {
+          "title": "彼得一世：法律与改革文献",
+          "url": "https://guides.loc.gov/peter-the-great/primary-sources/law",
+          "note": "用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-peter",
+          "title": "彼得一世改革与俄国帝国",
+          "date": "1682年",
+          "summary": "俄国改革军队、官僚和对外贸易，在北方战争后取得波罗的海重要地位。",
+          "paragraphs": [
+            "俄国改革军队、官僚和对外贸易，在北方战争后取得波罗的海重要地位。",
+            "国家主导改革加深欧洲联系，也扩大赋税、征兵与强制动员。",
+            "圣彼得堡成为新都，俄国作为大国进入欧洲均势体系。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "圣彼得堡历史中心及相关古迹",
+              "url": "https://whc.unesco.org/en/list/540/",
+              "note": "联合国教科文组织世界遗产中心；用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+            },
+            {
+              "title": "彼得一世：法律与改革文献",
+              "url": "https://guides.loc.gov/peter-the-great/primary-sources/law",
+              "note": "美国国会图书馆；用于相关年代、史事或人物的核对；适用范围以具体页面为准。"
+            }
+          ]
+        },
+        {
+          "id": "ann-chron-world-europe-0228",
+          "title": "圣彼得堡开始建设",
+          "date": "1703年",
+          "summary": "彼得一世在涅瓦河口营建新城，以城市、海军和行政改革面向波罗的海。",
+          "paragraphs": [
+            "彼得一世在涅瓦河口营建新城，以城市、海军和行政改革面向波罗的海。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 213
+    },
+    {
+      "id": "ww-ffdd21dcbad3",
+      "regimeId": "ww-russia",
+      "name": "叶卡捷琳娜一世",
+      "personalName": "叶卡捷琳娜一世",
+      "aliases": [],
+      "born": "1684年",
+      "died": "1727年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1725,
+          "end": 1727,
+          "label": "1725—1727年",
+          "role": "女皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "出身波罗的海地区，成为彼得一世的配偶并受冠，在丈夫未明确指定继承人的情况下靠近卫军和宫廷支持登位。实际政务受到缅希科夫等权臣及最高枢密院影响。其短暂统治使女性继位和宫廷军事支持成为十八世纪俄国政治的重要现象。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ww-07247691993f",
+      "regimeId": "ww-russia",
+      "name": "彼得二世",
+      "personalName": "彼得二世",
+      "aliases": [],
+      "born": "1715年",
+      "died": "1730年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1727,
+          "end": 1730,
+          "label": "1727—1730年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "彼得一世之孙，少年即位，最初受缅希科夫控制，随后多尔戈鲁基家族取得影响，宫廷迁回莫斯科。他因天花早逝，没有留下子嗣，皇位继承再次转为贵族和宫廷协商，而非稳定的直系传承。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 84
+    },
+    {
+      "id": "ww-9708110e7ae7",
+      "regimeId": "ww-russia",
+      "name": "安娜女皇",
+      "personalName": "安娜女皇",
+      "aliases": [],
+      "born": "1693年",
+      "died": "1740年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1730,
+          "end": 1740,
+          "label": "1730—1740年",
+          "role": "女皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "伊凡五世之女，曾为库尔兰公爵夫人，贵族试图以限制条件迎立她，她随后撤销约束并重建专制。其时代比龙等外来宫廷人物影响显著，俄国继续参与波兰继承战争及对奥斯曼战争。外国人统治的标签需要与俄国贵族自身参与区分。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ww-85eedf6d7108",
+      "regimeId": "ww-russia",
+      "name": "伊凡六世",
+      "personalName": "伊凡六世",
+      "aliases": [],
+      "born": "1740年",
+      "died": "1764年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1740,
+          "end": 1741,
+          "label": "1740—1741年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "作为婴儿继承皇位，由比龙和母亲安娜·利奥波尔多芙娜先后摄政，几乎没有个人决策行为。伊丽莎白政变将其废黜，他此后长期被秘密囚禁，1764年一次营救企图中被杀。名义皇位、实际摄政和成年后囚徒经历须分别记述。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 101
+    },
+    {
+      "id": "ww-4b928f66137b",
+      "regimeId": "ww-russia",
+      "name": "安娜·利奥波尔多芙娜",
+      "personalName": "安娜·利奥波尔多芙娜",
+      "aliases": [],
+      "born": "1718年",
+      "died": "1746年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1740,
+          "end": 1741,
+          "label": "1740—1741年",
+          "role": "摄政者",
+          "note": ""
+        }
+      ],
+      "life": [
+        "伊凡六世之母，在比龙被推翻后取得摄政权，宫廷依赖外戚、军队和官员维持幼帝政权。1741年伊丽莎白政变结束其摄政，她与家人被囚并死于拘禁期间。她是摄政者而非实际登基的女皇。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 85
+    },
+    {
+      "id": "ww-955fe275a14f",
+      "regimeId": "ww-russia",
+      "name": "伊丽莎白女皇",
+      "personalName": "伊丽莎白女皇",
+      "aliases": [],
+      "born": "1709年",
+      "died": "1762年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1741,
+          "end": 1762,
+          "label": "1741—1762年",
+          "role": "女皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "彼得一世与叶卡捷琳娜一世之女，依靠近卫军政变上台。赞助宫廷艺术、建筑、莫斯科大学和科学院，俄国参与奥地利王位继承战争及七年战争。其旧历卒于1761年末、公历已为1762年，纪年差别应说明而非制造两位继承者。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 103
+    },
+    {
+      "id": "ww-57f3dabf1831",
+      "regimeId": "ww-russia",
+      "name": "彼得三世",
+      "personalName": "彼得三世",
+      "aliases": [],
+      "born": "1728年",
+      "died": "1762年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1762,
+          "end": 1762,
+          "label": "1762年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在荷尔斯泰因成长，继承姨母伊丽莎白的皇位后迅速与普鲁士议和，改变七年战争格局。他颁布贵族免强制服役等政策，但宫廷和近卫军反对加剧，妻子叶卡捷琳娜发动政变将其废黜；他不久死于被控制期间，具体责任需谨慎表述。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 102
+    },
+    {
+      "id": "ww-74bec61741b1",
+      "regimeId": "ww-russia",
+      "name": "叶卡捷琳娜二世",
+      "personalName": "叶卡捷琳娜二世",
+      "aliases": [
+        "凯瑟琳二世"
+      ],
+      "born": "1729年",
+      "died": "1796年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1762,
+          "end": 1796,
+          "label": "1762—1796年",
+          "role": "女皇",
+          "note": ""
+        }
+      ],
+      "life": [
+        "原为安哈尔特—采尔布斯特的索菲娅公主，婚后进入俄国宫廷，学习俄语并改宗东正教。依靠近卫军和政治盟友推翻彼得三世，随后以启蒙语言、法律编纂与艺术收藏塑造统治。她扩大贵族特权，镇压普加乔夫起义，兼并克里米亚并参与瓜分波兰；文化赞助、扩张与农奴制强化构成复杂整体。"
+      ],
+      "highlights": [
+        {
+          "date": "1762年",
+          "year": 1762,
+          "title": "叶卡捷琳娜二世掌权",
+          "text": "俄国宫廷政变后推行有限改革并扩张领土，启蒙语言与农奴制现实并存。",
+          "eventId": "ann-chron-world-europe-0239"
+        }
+      ],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+          "note": "已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-chron-world-europe-0239",
+          "title": "叶卡捷琳娜二世掌权",
+          "date": "1762年",
+          "summary": "俄国宫廷政变后推行有限改革并扩张领土，启蒙语言与农奴制现实并存。",
+          "paragraphs": [
+            "俄国宫廷政变后推行有限改革并扩张领土，启蒙语言与农奴制现实并存。"
+          ],
+          "note": "编年概述已作基础年代校核，来源为专题入口；尚待逐条补充定位与交叉核验。",
+          "sources": [
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 161
+    },
+    {
+      "id": "ww-313f6f6030f4",
+      "regimeId": "ww-russia",
+      "name": "保罗一世",
+      "personalName": "保罗一世",
+      "aliases": [],
+      "born": "1754年",
+      "died": "1801年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1796,
+          "end": 1801,
+          "label": "1796—1801年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "叶卡捷琳娜二世之子，长期与母亲宫廷保持紧张关系。即位后改变部分贵族待遇、军队礼仪和外交方向，1797年规定较明确的皇位继承规则。对近卫军和贵族的严厉措施积累反对，1801年宫廷政变中被杀；其统治不能只以疯狂之类绰号概括。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 110
+    },
+    {
+      "id": "ww-ff805b44c272",
+      "regimeId": "ww-russia",
+      "name": "亚历山大一世",
+      "personalName": "亚历山大一世",
+      "aliases": [],
+      "born": "1777年",
+      "died": "1825年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1801,
+          "end": 1825,
+          "label": "1801—1825年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在父亲被杀后继位，早年讨论行政和教育改革，随后卷入拿破仑战争。1812年抵抗法军远征并参与1814年进入巴黎，成为维也纳体系的重要君主。晚年宗教与保守倾向增强，立宪承诺与实际限制并存，死后继承模糊触发十二月党人危机。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 108
+    },
+    {
+      "id": "ww-4269290e9ec6",
+      "regimeId": "ww-russia",
+      "name": "尼古拉一世",
+      "personalName": "尼古拉一世",
+      "aliases": [],
+      "born": "1796年",
+      "died": "1855年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1825,
+          "end": 1855,
+          "label": "1825—1855年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在继承争议和十二月党人起义中即位，强化官僚、审查与秘密警察，并强调专制、东正教和民族原则。俄国在波兰、匈牙利及奥斯曼问题上采取强势政策，克里米亚战争暴露军事财政弱点。他去世时战争尚未结束，改革压力留给继承人。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 104
+    },
+    {
+      "id": "ww-51035420989e",
+      "regimeId": "ww-russia",
+      "name": "亚历山大二世",
+      "personalName": "亚历山大二世",
+      "aliases": [],
+      "born": "1818年",
+      "died": "1881年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1855,
+          "end": 1881,
+          "label": "1855—1881年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承克里米亚战争危局，1861年宣布农奴解放，并推动司法、地方自治、军制和教育等改革。赎买负担及土地不足限制解放效果，国家扩张与对波兰等地的镇压也持续。革命组织最终将其刺杀，解放者称号不表示他建立了民主政治。"
+      ],
+      "highlights": [
+        {
+          "date": "1861年",
+          "year": 1861,
+          "title": "俄国废除农奴制",
+          "text": "亚历山大二世颁布解放法令，农奴获得人身自由，土地安排伴随赎买和村社约束。",
+          "eventId": "we-serfs"
+        }
+      ],
+      "assessment": "改革保留专制及诸多约束，农村和政治矛盾持续。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "强迫劳动、奴隶制与解放",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/10-3-coerced-and-semicoerced-labor",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-serfs",
+          "title": "俄国废除农奴制",
+          "date": "1861年",
+          "summary": "亚历山大二世颁布解放法令，农奴获得人身自由，土地安排伴随赎买和村社约束。",
+          "paragraphs": [
+            "亚历山大二世颁布解放法令，农奴获得人身自由，土地安排伴随赎买和村社约束。",
+            "改革改变法律身份，却没有自动解决土地贫乏和地方权力差异。",
+            "人口流动与经济变化增强，农村矛盾和改革争论仍长期持续。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "强迫劳动、奴隶制与解放",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/10-3-coerced-and-semicoerced-labor",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            },
+            {
+              "title": "OpenStax 世界史第二卷：1400年以来（索引与分章入口）",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/index",
+              "note": "条目所列机构或作者；已核对来源真实存在；作为分期和拓展阅读入口，本批细目尚未完成逐条比对，不表示该入口逐项证明所有细节。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 162
+    },
+    {
+      "id": "ww-77665f0ea84a",
+      "regimeId": "ww-russia",
+      "name": "亚历山大三世",
+      "personalName": "亚历山大三世",
+      "aliases": [],
+      "born": "1845年",
+      "died": "1894年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1881,
+          "end": 1894,
+          "label": "1881—1894年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "在父亲遇刺后继位，强化专制、警察和俄罗斯化政策，压制部分地方自治和教育开放。工业发展、铁路建设与俄法接近并行，国家稳定依靠对社会和民族差异的严厉管理。他的和平形象不应遮蔽帝国内部的歧视与强制。"
+      ],
+      "highlights": [],
+      "assessment": "",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        }
+      ],
+      "relatedEvents": [],
+      "detailLabel": "纪年与有限史料",
+      "narrativeCharacters": 96
+    },
+    {
+      "id": "ww-23d587a2894d",
+      "regimeId": "ww-russia",
+      "name": "尼古拉二世",
+      "personalName": "尼古拉二世",
+      "aliases": [],
+      "born": "1868年",
+      "died": "1918年",
+      "birthPlace": "本版未核录",
+      "family": "本版未逐项核录亲属；继承次序不等于父子关系。",
+      "reigns": [
+        {
+          "start": 1894,
+          "end": 1917,
+          "label": "1894—1917年",
+          "role": "沙皇／皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继承快速工业化与专制体制并存的帝国，日俄战争失败及1905年革命迫使其接受国家杜马等有限安排。第一次世界大战进一步加剧军事、粮食和合法性危机，1917年退位，次年与家人遭杀害。皇位终结是制度、战争和社会矛盾累积的结果，而非仅一段宫廷逸闻。"
+      ],
+      "highlights": [
+        {
+          "date": "1905年",
+          "year": 1905,
+          "title": "俄国1905年革命",
+          "text": "战争失败、工人罢工和农村不满推动革命，沙皇承诺代表机构后又压制改革。",
+          "eventId": "we-russia1905"
+        }
+      ],
+      "assessment": "本版止于1912，1917年退位属于展示窗口之外。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "俄罗斯总统图书馆：罗曼诺夫王朝专题",
+          "url": "https://www.prlib.ru/collection_romanovy",
+          "note": "馆藏研究、日记、信札和人物分期；俄国旧历与公历须区分。"
+        },
+        {
+          "title": "俄罗斯总统图书馆：伊凡三世",
+          "url": "https://www.prlib.ru/node/2022614",
+          "note": "用于本条列出的年代与历史背景；不表示原网页涵盖全部个人资料。"
+        },
+        {
+          "title": "俄国1905年危机与后来的革命背景",
+          "url": "https://openstax.org/books/world-history-volume-2/pages/11-5-the-war-ends",
+          "note": "用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+        }
+      ],
+      "relatedEvents": [
+        {
+          "id": "we-russia1905",
+          "title": "俄国1905年革命",
+          "date": "1905年",
+          "summary": "战争失败、工人罢工和农村不满推动革命，沙皇承诺代表机构后又压制改革。",
+          "paragraphs": [
+            "战争失败、工人罢工和农村不满推动革命，沙皇承诺代表机构后又压制改革。",
+            "专制、工业社会和土地问题的矛盾同时显现。",
+            "国家杜马出现，但权力受限，革命与政治冲突没有就此终结。"
+          ],
+          "note": "日期表示本条转折或过程的范围，不能据此认定整个区域同步变化。",
+          "sources": [
+            {
+              "title": "俄国1905年危机与后来的革命背景",
+              "url": "https://openstax.org/books/world-history-volume-2/pages/11-5-the-war-ends",
+              "note": "OpenStax · Rice University／《World History》作者组；用于本条所列史事与人物的概述核对。OpenStax教材原文采用CC BY-NC-SA 4.0许可；网站为中文概述，不转载原书插图。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 178
+    }
+  ]
+}

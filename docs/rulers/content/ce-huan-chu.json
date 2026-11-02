@@ -1,0 +1,83 @@
+{
+  "id": "ce-huan-chu",
+  "people": [
+    {
+      "id": "ce-huan-chu-33643a66e9",
+      "regimeId": "ce-huan-chu",
+      "name": "桓玄",
+      "personalName": "桓玄",
+      "aliases": [],
+      "born": "369年",
+      "died": "404年",
+      "birthPlace": "出生地点未作确证",
+      "family": "桓温之子。",
+      "reigns": [
+        {
+          "start": 403,
+          "end": 404,
+          "label": "403年—404年",
+          "role": "皇帝",
+          "note": ""
+        }
+      ],
+      "life": [
+        "桓温之子，凭借荆州等军事资源击败其他方镇，进入建康掌握东晋中枢。403年末取代安帝称帝，国号楚。刘裕等在京口起兵后迅速进入建康，桓玄西逃，后被杀；其称帝极短，反映军事掌权者若缺乏稳定政治联盟，难以仅靠形式上的禅让建立新朝。"
+      ],
+      "highlights": [
+        {
+          "date": "403年",
+          "year": 403,
+          "title": "桓玄篡晋",
+          "text": "桓玄控制建康后称帝，东晋皇室失去名义地位，激起北府军将领等力量反抗。",
+          "eventId": "ann-ce-0469"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "称帝在旧历元兴二年末，换算现代公历已入404年；通史常以403—404年记桓楚。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》：桓玄篡位与刘裕起兵",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        },
+        {
+          "title": "教育部《重编国语辞典修订本·中国历代帝王年表》",
+          "url": "https://dict.revised.moe.edu.tw/appendix.jsp?ID=2&la=0",
+          "note": "核对周至两晋主要君主顺序；西周旧纪年不直接采用。即位、改元、称王/称帝的口径另注。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-cd1889399c32"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0469",
+          "title": "桓玄篡晋",
+          "date": "403年",
+          "summary": "桓玄控制建康后称帝，东晋皇室失去名义地位，激起北府军将领等力量反抗。",
+          "paragraphs": [
+            "桓玄控制建康后称帝，东晋皇室失去名义地位，激起北府军将领等力量反抗。",
+            "军事强臣称帝仍需处理既有官僚与军队的承认。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 孙恩卢循的起义与东晋王朝的崩溃；用户提供合并整理本第87142—87142行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 180
+    }
+  ]
+}

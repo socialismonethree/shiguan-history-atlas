@@ -1,0 +1,250 @@
+{
+  "id": "ce-later-qin",
+  "people": [
+    {
+      "id": "ce-later-qin-39bbf8c9a8",
+      "regimeId": "ce-later-qin",
+      "name": "姚苌",
+      "personalName": "姚苌",
+      "aliases": [],
+      "born": "330年",
+      "died": "394年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 384,
+          "end": 394,
+          "label": "384年—394年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "前秦将领，淝水战后独立起兵，建立后秦并杀害苻坚，后来据长安称帝。与苻登长期交战，在军事和地方行政基础上重建关中统治；其死亡跨旧历岁末，传统表有列393年的口径。"
+      ],
+      "highlights": [
+        {
+          "date": "384年",
+          "year": 384,
+          "title": "后燕与后秦兴起",
+          "text": "慕容垂与姚苌在前秦衰乱中各自建立政权，北方恢复为多个国家相互竞争的局面。",
+          "eventId": "ann-ce-0458"
+        },
+        {
+          "date": "385年",
+          "year": 385,
+          "title": "苻坚被杀",
+          "text": "苻坚在前秦崩解中被姚苌杀害，短期统一北方的尝试结束，关中继续遭战争破坏。",
+          "eventId": "ann-ce-0459"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [
+        "姚苌卒年常按旧历系393年，换算公历为394年。"
+      ],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：姚秦与佛教译经",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-d539de674bb0"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0458",
+          "title": "后燕与后秦兴起",
+          "date": "384年",
+          "summary": "慕容垂与姚苌在前秦衰乱中各自建立政权，北方恢复为多个国家相互竞争的局面。",
+          "paragraphs": [
+            "慕容垂与姚苌在前秦衰乱中各自建立政权，北方恢复为多个国家相互竞争的局面。",
+            "征服并未消除旧有区域精英和军事集团的独立资源。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四节 淝水战后北方的再分裂；用户提供合并整理本第86233—86233行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        },
+        {
+          "id": "ann-ce-0459",
+          "title": "苻坚被杀",
+          "date": "385年",
+          "summary": "苻坚在前秦崩解中被姚苌杀害，短期统一北方的尝试结束，关中继续遭战争破坏。",
+          "paragraphs": [
+            "苻坚在前秦崩解中被姚苌杀害，短期统一北方的尝试结束，关中继续遭战争破坏。",
+            "前秦失败与制度整合、精英关系及战略决策共同相关。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 淝水之战与苻坚的败亡；用户提供合并整理本第86195—86195行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 187
+    },
+    {
+      "id": "ce-later-qin-b407224ede",
+      "regimeId": "ce-later-qin",
+      "name": "姚兴",
+      "personalName": "姚兴",
+      "aliases": [],
+      "born": "366年",
+      "died": "416年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 394,
+          "end": 416,
+          "label": "394年—416年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "继父姚苌后击败前秦残余，扩展关中及西北控制，同时与北魏、南凉、西秦等竞争。支持鸠摩罗什在长安译经，使后秦成为佛教传播的重要中心；宗室与继承冲突及外部战争也逐步侵蚀统治。"
+      ],
+      "highlights": [
+        {
+          "date": "401年",
+          "year": 401,
+          "title": "鸠摩罗什到长安",
+          "text": "鸠摩罗什进入后秦统治下的长安，组织大规模佛典翻译，促进佛教义理与汉语思想交流。",
+          "eventId": "ann-ce-0467"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：姚秦与佛教译经",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-00c23efbb914"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0467",
+          "title": "鸠摩罗什到长安",
+          "date": "401年",
+          "summary": "鸠摩罗什进入后秦统治下的长安，组织大规模佛典翻译，促进佛教义理与汉语思想交流。",
+          "paragraphs": [
+            "鸠摩罗什进入后秦统治下的长安，组织大规模佛典翻译，促进佛教义理与汉语思想交流。",
+            "宗教文化繁荣能够跨越政治分裂与战争边界。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第三节 佛教的传播与发展；用户提供合并整理本第93127—93127行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 158
+    },
+    {
+      "id": "ce-later-qin-bd31e62f8f",
+      "regimeId": "ce-later-qin",
+      "name": "姚泓",
+      "personalName": "姚泓",
+      "aliases": [],
+      "born": "388年",
+      "died": "417年",
+      "birthPlace": "出生地点未作确证",
+      "family": "亲属关系详见本条世系与生平；缺乏依据的细节不补写。",
+      "reigns": [
+        {
+          "start": 416,
+          "end": 417,
+          "label": "416年—417年",
+          "role": "君主",
+          "note": ""
+        }
+      ],
+      "life": [
+        "姚兴之子，即位时后秦皇族内争未息，刘裕率东晋军北上，沿黄河及关中方向推进。长安陷落后姚泓投降，被送建康杀害，后秦结束，关中又进入新的权力竞争。"
+      ],
+      "highlights": [
+        {
+          "date": "416年",
+          "year": 416,
+          "title": "刘裕北伐后秦",
+          "text": "刘裕乘后秦内部继承冲突北伐，攻入河南并推进关中，取得显著军事成果。",
+          "eventId": "ann-ce-0478"
+        }
+      ],
+      "assessment": "本条以现存史料能够说明的承继和政治经历为限；不以统治年数替代个人评价。",
+      "uncertainties": [],
+      "sources": [
+        {
+          "title": "王仲荦《魏晋南北朝史》第四章：姚秦与佛教译经",
+          "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+          "note": "用户提供原书，本站原创整理；不公开原著全文。"
+        }
+      ],
+      "existingPersonIds": [
+        "ann-person-ae3df6bf84ab"
+      ],
+      "relatedEvents": [
+        {
+          "id": "ann-ce-0478",
+          "title": "刘裕北伐后秦",
+          "date": "416年",
+          "summary": "刘裕乘后秦内部继承冲突北伐，攻入河南并推进关中，取得显著军事成果。",
+          "paragraphs": [
+            "刘裕乘后秦内部继承冲突北伐，攻入河南并推进关中，取得显著军事成果。",
+            "北伐成功与对手内部失衡和多战区协同密切相关。"
+          ],
+          "note": "依据原书相关正文主题定位作简要概述；段落定位不等于逐项史料考证。",
+          "sources": [
+            {
+              "title": "王仲荦《魏晋南北朝史》",
+              "url": "",
+              "note": "第四节 淝水战后北方的再分裂；用户提供合并整理本第86355—86355行"
+            },
+            {
+              "title": "中国断代史系列·全集：相关各卷正文（用户提供资料，行号为本地合并版）",
+              "url": "https://github.com/socialismonethree/shiguan-history-atlas/blob/main/CONTENT_GUIDE.md#provided-book",
+              "note": "用户提供整理本；用户提供原书的正文主题或段落定位，不代表逐项证明具体公历年份；不公开全文，行号不等于原书页码。"
+            }
+          ]
+        }
+      ],
+      "detailLabel": "生平梗概",
+      "narrativeCharacters": 139
+    }
+  ]
+}
