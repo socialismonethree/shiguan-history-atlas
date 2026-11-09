@@ -1,4 +1,5 @@
 'use strict';
+import('../reading-library.js?v=0.22.0').catch(() => {});
 (() => {
   const $ = s => document.querySelector(s);
   const E = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -30,11 +31,17 @@
     return `<aside class="reading-notes" aria-label="${E(b.name)}阅读补充"><details><summary>人物索引 <span>${b.people.length} 位关联人物</span></summary><p class="people-index">${E(b.people.join(' · '))}</p></details><details><summary>史料与不同记载 <span>查看出处与辨析</span></summary>${b.dispute ? `<div class="source-note"><h3>史料辨析</h3><p>${E(b.dispute)}</p></div>` : ''}<div class="detail-sources"><h3>资料来源</h3>${b.sources.map(id => sources.get(id)).filter(Boolean).map(s => `<p>${s.unavailable ? E(s.title)+'（链接此前未通过访问核验，暂不跳转）' : `<a href="${E(s.url)}" target="_blank" rel="noopener noreferrer">${E(s.title)} ↗</a>`}<br><span>${E(s.publisher)}</span></p>`).join('')}</div></details></aside>`;
   }
   function story(b) {
-    return `<article class="battle-story" aria-label="${E(b.name)}叙事">${b.narrative.map(p => `<p>${E(p)}</p>`).join('')}</article>`;
+    return `<article class="battle-story" aria-label="${E(b.name)}叙事">${b.narrative.map(p => `<p>${E(p)}</p>`).join('')}</article><atlas-reading data-ids="battle:${E(b.id)}"></atlas-reading>`;
   }
   function connections(b) {
     const chain = orderedThread(b.thread), i = chain.findIndex(x => x.id === b.id);
-    return `<nav class="next-links" aria-label="${E(b.name)}关联战役">${i>0 ? eventLink(chain[i-1],`← 同脉络前一场：${E(chain[i-1].name)}`) : ''}${i<chain.length-1 ? eventLink(chain[i+1],`同脉络后一场：${E(chain[i+1].name)} →`) : ''}</nav>`;
+    const thread = threads.get(b.thread);
+    const adjacent = [chain[i-1], chain[i+1]].filter(Boolean);
+    return `<section class="reading-notes"><details><summary>在同一脉络中比较</summary>
+      <p>${E(thread.context)}</p>${adjacent.map(item => `<div class="source-note">
+        <h3>${eventLink(item)} · ${E(item.date)}</h3><p>${E(item.result)}</p><p>${E(item.impact)}</p>
+      </div>`).join('')}</details></section>
+      <nav class="next-links" aria-label="${E(b.name)}关联战役">${i>0 ? eventLink(chain[i-1],`← 同脉络前一场：${E(chain[i-1].name)}`) : ''}${i<chain.length-1 ? eventLink(chain[i+1],`同脉络后一场：${E(chain[i+1].name)} →`) : ''}</nav>`;
   }
   function node(b) {
     const t = threads.get(b.thread);

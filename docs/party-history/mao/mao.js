@@ -1,4 +1,5 @@
 'use strict';
+import('../../reading-library.js?v=0.22.0').then(module => module.attachChronology()).catch(() => {});
 (()=>{
  const $=s=>document.querySelector(s),E=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
  const base=document.body.dataset.maoBase||'';
