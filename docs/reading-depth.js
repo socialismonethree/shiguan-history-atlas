@@ -1,4 +1,5 @@
 'use strict';
+import('./reading-library.js?v=0.22.0').catch(() => {});
 
 function readingReferenceList(references = []) {
   if (!references.length) return '';
@@ -15,10 +16,15 @@ function readingEntry(x) {
   return window.HISTORY_READING_DEPTH?.[x.id];
 }
 
+function libraryReading(x, title = '') {
+  return `<atlas-reading data-ids="${E(x.id)}" data-title="${E(title)}"></atlas-reading>`;
+}
+
 function readingDepth(x) {
+  const library = libraryReading(x);
   const entry = readingEntry(x);
-  if (!entry) return '';
-  return `<section class="narrative-section"><h3>${E(entry.heading || (x.name ? '生平详读' : '来龙去脉'))}</h3>${readingParagraphs(entry.paragraphs)}${readingReferenceList(entry.references)}${entry.ruler ? `<p><a href="rulers/index.html?v=0.20.0#regime/${E(entry.ruler.regimeId)}/${E(entry.ruler.id)}">打开统治者档案，查看生卒和在位阶段 ↗</a></p>` : ''}${entry.battle ? `<p><a href="battles/index.html#battle/${E(entry.battle)}">进入战役专题 ↗</a></p>` : ''}</section>`;
+  if (!entry) return library;
+  return library + `<section class="narrative-section"><h3>${E(entry.heading || (x.name ? '生平详读' : '来龙去脉'))}</h3>${readingParagraphs(entry.paragraphs)}${readingReferenceList(entry.references)}${entry.ruler ? `<p><a href="rulers/index.html?v=0.20.0#regime/${E(entry.ruler.regimeId)}/${E(entry.ruler.id)}">打开统治者档案，查看生卒和在位阶段 ↗</a></p>` : ''}${entry.battle ? `<p><a href="battles/index.html#battle/${E(entry.battle)}">进入战役专题 ↗</a></p>` : ''}</section>`;
 }
 
 // Only use direct event–person associations and the editors' explicit topic links.
@@ -256,9 +262,15 @@ window.HISTORY_READING_DEPTH = {
   "ann-chron-world-central-west-asia-0386": {"heading":"专题连读 · 阿拔斯革命与巴格达建城","paragraphs":["倭马亚后期，不同政治、宗教和族群利益形成反对力量。阿拔斯家族以新的王朝合法性聚合支持者；政权变化同时改变帝国资源和行政中心的地理位置。","750年阿拔斯取得哈里发政权，帝国政治文化重心由叙利亚转向伊拉克。新王朝并不是消除所有差异的社会革命，军事和官僚结构仍需持续整合。","762年创建巴格达，圆城形制与“和平之城”的名称展示规划与王权理想。它依靠交通、水运和行政需求发展成庞大的文化商业中心，之后又有一段迁都萨迈拉的时期。","巴格达成为阿拔斯国家的核心，伊拉克在伊斯兰世界的政治、商业与艺术活动中取得突出地位。","新都及宫廷赞助促成跨地区工匠、商人和学者往来。阿拔斯艺术中的装饰、陶瓷与建筑形式传播广泛，显示政治中心如何影响文化生产。","王朝延续至1258年，不等于哈里发数百年都具有同样强的实际控制。巴格达遗存较少，认识建筑时应结合萨迈拉考古与文字材料，不能把理想规划等同全部城市。"],"references":[{"label":"The Art of the Abbasid Period (750–1258)","url":"https://www.metmuseum.org/it/essays/the-art-of-the-abbasid-period-750-1258","note":"首段750年更替、762年圆城和836—892年萨迈拉；文化商业中心与遗存限制。"}]},
   "ann-cl-yuan-1258-375": {"heading":"专题连读 · 蒙古攻陷巴格达","paragraphs":["蒙哥时期蒙古向西亚继续扩张，旭烈兀受命率大军西行，先处理伊朗地区的反对力量，再要求当地统治者臣服。阿拔斯哈里发仍具象征权威，但军事和地区支持不足。","蒙古军队从不同方向向巴格达集中，攻城和野战迫使城市迅速失去防御能力。哈里发与城市精英未能组织足够抵抗，投降后也未能保全王朝。","城破伴随大规模杀戮与破坏，哈里发被杀，巴格达的阿拔斯政治中心终结。蒙古统治随后在伊朗和两河形成伊儿汗国的政权基础。","巴格达遭受严重人口、建筑和制度损失，西亚权力格局发生变化；此后蒙古与埃及马穆鲁克等继续竞争。","事件是中世纪城市战争与帝国征服的重大灾难，也提醒人们不能仅以贸易交流描述蒙古扩张。后来的伊儿汗文化和科学活动则说明地区知识生活并未在1258年全部永久停止。","伤亡数字各史家差异很大，本文不写无法确证的总数。“全世界科学因此终结”及河水被所有藏书染黑等传说，不能无辨别照搬。"],"references":[{"label":"HULĀGU KHAN","url":"https://www.iranicaonline.org/articles/hulagu-khan/","note":"旭烈兀传记1257年末集结、1258年攻城、哈里发被杀与伊儿汗国统治段。"}]},
   "ann-chron-world-europe-0061": {"heading":"专题连读 · 奥古斯都与元首制","paragraphs":["共和国后期军队、财富和个人政治联盟不断结合，内战破坏了传统竞争机制。屋大维在凯撒遇刺后的权力斗争中胜出，需要让军事独占转化为被精英接受的长期统治。","他保留元老院、官职和公共仪式，用“首席公民”的位置集中军队和政治权威。元首制并非简单宣布取消共和国，而是使传统形式与实际个人统治并存。","城市建设、宗教仪式、肖像与文学赞助共同塑造秩序恢复的形象。和平祭坛、祈祷和祭祀姿态的雕像，把统治者与家族连接到罗马的宗教和历史使命。","罗马形成持续的皇帝统治框架；内战后较稳定的政局与个人权力集中相伴存在。元首制也留下继承问题，无法完全由既有共和程序解决。","政治与艺术密切结合成为帝国的重要特征。公共空间中的建筑、钱币和诗歌并非纯粹装饰，而参与讲述谁有权统治、何种过去值得纪念。","所谓“罗马和平”不能解释为帝国境内外没有战争，也不意味着被征服者与公民平等。史料中的恢复传统语言，须与真实权力结构对读。"],"references":[{"label":"Augustan Rule (27 B.C.–14 A.D.)","url":"https://www.metmuseum.org/de/essays/augustan-rule-27-b-c-14-a-d","note":"正文文学赞助、宗教身份、和平祭坛及视觉政治；参照元首统治背景。"}]},
-  "ann-chron-world-europe-0296": {"heading":"专题连读 · 柏林会议与瓜分非洲","paragraphs":["19世纪后期欧洲列强加紧非洲扩张，贸易路线、国家竞争与殖民利益发生交叉。与会者试图用外交安排避免彼此冲突，却没有让非洲社会平等参与决定自身政治命运。","会议由俾斯麦主持召集，欧洲国家及美国代表参与。讨论以贸易和航行为重要名义，把非洲地域作为国际竞争和条约规范的对象。","最终文件规定刚果地区贸易、刚果河与尼日尔河航行等问题，并涉及今后占领和通知的原则。文件也使用反对奴隶贸易等语言，但这些承诺并不能证明殖民统治具有平等或人道性质。","会议给列强竞争提供一套规则与外交依据，殖民扩张继续加速；非洲各政体仍以外交、武装或其他方式应对外来压力。","它象征帝国主义者排除非洲主体的国际秩序，也有助于认识“文明”“自由贸易”等说辞怎样与资源支配并存。其后实际殖民边界仍在战争和另外的协定中逐步形成。","会议没有在一张地图上一次划定今天非洲全部国界。需区分1884—1885年会议、后续瓜分过程与各地区实际被征服的年代。"],"references":[{"label":"General Act of the Berlin West Africa Conference, 26 February 1885","url":"https://archiv.diplo.de/arc-en/the-political-archive/general-act-2684414","note":"档案介绍中的会议起止、总议定书主题与其殖民政策背景；以殖民档案视角作批判阅读。"}]},
   "ann-chron-world-africa-0956": {"heading":"专题连读 · 柏林会议与瓜分非洲","paragraphs":["19世纪后期欧洲列强加紧非洲扩张，贸易路线、国家竞争与殖民利益发生交叉。与会者试图用外交安排避免彼此冲突，却没有让非洲社会平等参与决定自身政治命运。","会议由俾斯麦主持召集，欧洲国家及美国代表参与。讨论以贸易和航行为重要名义，把非洲地域作为国际竞争和条约规范的对象。","最终文件规定刚果地区贸易、刚果河与尼日尔河航行等问题，并涉及今后占领和通知的原则。文件也使用反对奴隶贸易等语言，但这些承诺并不能证明殖民统治具有平等或人道性质。","会议给列强竞争提供一套规则与外交依据，殖民扩张继续加速；非洲各政体仍以外交、武装或其他方式应对外来压力。","它象征帝国主义者排除非洲主体的国际秩序，也有助于认识“文明”“自由贸易”等说辞怎样与资源支配并存。其后实际殖民边界仍在战争和另外的协定中逐步形成。","会议没有在一张地图上一次划定今天非洲全部国界。需区分1884—1885年会议、后续瓜分过程与各地区实际被征服的年代。"],"references":[{"label":"General Act of the Berlin West Africa Conference, 26 February 1885","url":"https://archiv.diplo.de/arc-en/the-political-archive/general-act-2684414","note":"档案介绍中的会议起止、总议定书主题与其殖民政策背景；以殖民档案视角作批判阅读。"}]},
   "ann-chron-world-americas-1042": {"heading":"专题连读 · 美国宪法与联邦政府","paragraphs":["独立后的邦联政府难以协调贸易、财政与各州关系，政治精英要求重新安排中央权力。1787年会议原本以修改《邦联条例》为任务，但很快转向起草新的国家宪制。","代表讨论中央和州、大小州、行政与立法之间的权力。两院制、总统及司法等安排逐渐成形，奴隶制相关妥协也写入制度，限制了权利原则的适用。","文本于1787年9月签署，各州围绕中央过强和缺少权利保障激烈争论。批准达到门槛后新政府运作，《权利法案》作为后续修正回应部分批评。","形成具有更具体职权的联邦政府，建立国会、总统和法院之间的组织框架；许多实际运行规则仍须由之后的法律、争执与判例发展。","该宪法成为后世成文宪政的重要参照，同时其历史也反映通过修正和政治斗争改变原有排除。稳定文本与持续变化的权利范围并存。","1787年签署并不等于全国当即生效；最初文本也不等于今天所有修正案。原住民、被奴役者与妇女的地位，不能用“人民”一词自动涵盖。"],"references":[{"label":"Constitution of the United States (1787)","url":"https://www.archives.gov/milestone-documents/constitution","note":"国家档案馆1787年制宪文件介绍、会议原目的与签署日期；批准和新政府背景。"}]},
   "ann-chron-world-americas-1048": {"heading":"专题连读 · 海地革命与废奴独立","paragraphs":["殖民地种植园依赖被奴役的非洲人及其后代，社会存在极端暴力和身份不平等。法国革命打开公民权讨论，但自由有色人、白人殖民者与被奴役者的目标并不相同。","1791年起义扩大后，革命力量在法国、西班牙和英国之间复杂周旋。杜桑·卢维杜尔逐渐成为重要领袖，军事组织与废奴诉求共同改变地方权力格局。","法国废奴后，杜桑在法国名义下扩大自治；1802年远征军到来，他遭拘押送往法国并死于囚禁。其后革命军继续抗击法军，最后由其他领袖完成独立。","海地摆脱法国殖民统治，奴隶制未能在当地恢复；新国家成立并不意味着经济压力、政治分裂和外部敌意就此消失。","革命使被奴役者成为争取普遍自由的主动政治力量，对大西洋世界的奴隶制与殖民秩序形成冲击。它应与美国、法国革命并列观察，而不是作为后两者的附属回声。","不能把全部起义和独立归功于单一领袖，也不应称杜桑为1804年独立时的国家元首。不同阶段的劳动政策、军事统治及内部冲突仍须分别评价。"],"references":[{"label":"Toussaint Louverture","url":"https://nmaahc.si.edu/latinx/toussaint-louverture","note":"博物馆人物条目关于被奴役出身、革命、政治领导、被俘与死亡；独立须区分杜桑去世之后的阶段。"}]},
   "ann-chron-world-oceania-1145": {"heading":"专题连读 · 怀唐伊条约与主权争议","paragraphs":["英国商人、传教士与移民增加，毛利各社群寻求应对贸易和土地压力的方式。英国则企图建立殖民治理；双方对保护、权威和土地交易的预期并不完全相同。","英国代表与部分毛利首领签订条约。毛利文与英文在关键政治概念上存在差异，尤其涉及治理权、主权与首领权威；绝大多数首领签的是毛利文本。","条约涉及王室治理、毛利对土地及其他珍贵资源的权利和臣民地位。英国随后宣称主权，但土地占有、战争和政府行为引起持续争议，不少承诺未被充分履行。","成为新西兰政治关系的重要基础文书，也成为毛利社群要求落实权利和追究违约的核心依据；并非所有社群都签署或作同样理解。","它显示跨语言条约不能只读一个版本。对照原文、签署情境与后来执行，有助于理解殖民治理如何改变土地、权力和国家叙事。","“毛利人整体自愿放弃全部主权”的表述过于简单。条约的历史解释和当代法律适用须区分，且应明确不同群体与时期的立场。"],"references":[{"label":"The Treaty in brief","url":"https://nzhistory.govt.nz/politics/treaty/the-treaty-in-brief","note":"The Treaty in brief：签署、英文与毛利文差异、权利义务及条约地位。"}]}
 };
+
+document.addEventListener('DOMContentLoaded', () => {
+  const query = new URLSearchParams(location.search);
+  const id = query.get('id');
+  if (query.get('entry') === 'world' && by('worldEntries', id)) worldDetail(id);
+  if (query.get('entry') === 'object' && by('objects', id) && !by('objects', id).expandedObject) objectDetail(id);
+});
