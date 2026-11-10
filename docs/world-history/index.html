@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="时观世界史，按国家与历史政体分期阅读，从制度、社会、人物与事件理解世界历史。">
+  <title>世界史 · 国别通史 | 时观</title>
+  <link rel="stylesheet" href="world-history.css?v=0.23.0">
+  <script defer src="world-history.js?v=0.23.0"></script>
+</head>
+<body>
+  <a class="skip" href="#main">跳到正文</a>
+  <header class="masthead"><a href="../index.html">时观 <span>纵横历史知识库</span></a><nav aria-label="返回其他板块"><a href="../index.html#world/all/framework/qing/all">世界文明</a><a href="../world-wars/index.html">两次世界大战</a></nav></header>
+  <main id="main">
+    <section class="hero">
+      <p class="kicker">时观 · 横向世界史</p>
+      <h1>世界史<span>国别通史</span></h1>
+      <p>沿各国自身的分期读通一条历史，再把相隔海陆的国家放回同一时代。</p>
+      <div class="hero-nav"><a href="#directory">国别目录 ↓</a><a href="#compare">同年对读 ↘</a><a href="#method">分期与资料</a></div>
+    </section>
+    <div class="library" id="directory">
+      <aside class="catalog" aria-label="国别目录">
+        <h2>国别目录</h2>
+        <p id="catalogCount" role="status">正在载入国别史…</p>
+        <label for="search">检索国家、人物、事件或史料</label>
+        <input id="search" type="search" placeholder="如 日本、宪法、工业革命" autocomplete="off">
+        <div id="regions" role="group" aria-label="按区域筛选"></div>
+        <nav id="countries" aria-label="国家和历史地区"></nav>
+      </aside>
+      <section id="reading" class="reading" aria-label="国别史正文" aria-busy="true"></section>
+    </div>
+    <section class="compare" id="compare">
+      <p class="kicker">同期对读</p>
+      <h2>同一个年份，不同的历史</h2>
+      <p>从建国、革命、战争与帝国解体等节点出发，对照多个国家在这一年记录的转折。并列用于比较，直接联系须由史料说明。</p>
+      <div id="years" class="controls" role="group" aria-label="常用对照年份"></div>
+      <label class="year-picker" for="yearSelect">查找其他年份 <select id="yearSelect"></select></label>
+      <div id="comparison" aria-live="polite"></div>
+    </section>
+    <section class="method" id="method">
+      <p class="kicker">阅读口径</p>
+      <h2>为什么各国的分期不同</h2>
+      <p>这里采用历史学研究中常见的国别史、区域史与跨国比较视角。按区域编排国别入口，同时沿着国家形成、制度演变、社会结构和国际关系梳理各国。各章边界是帮助阅读的编辑选择，适合与专题史互相参照。</p>
+      <p>古代文明、王朝、帝国与现代国家的疆域和身份往往不同。近现代国名用于导航，正文具体交代当时的历史政体与人群。殖民地、原住民、不同语言和族群的历史，也在相关篇章中分别说明。</p>
+      <p>每个分期列出可追溯的档案、原始文献、大学研究与馆藏资料。官方档案反映形成机构的记录视角，适合与其他来源对读。中外并读沿用现有中国史、党史和世界大战专题的年代范围。</p>
+      <ul>
+        <li><a href="https://www.historians.org/" rel="noopener">美国历史学会 · 学科与教学资源</a></li>
+        <li><a href="https://history.state.gov/countries" rel="noopener">美国国务院历史办公室 · 国别外交史与档案索引</a></li>
+        <li><a href="https://whc.unesco.org/en/list/" rel="noopener">联合国教科文组织 · 世界遗产与历史地点资料</a></li>
+      </ul>
+    </section>
+  </main>
+  <footer>时观 · 世界史 <a href="../index.html">回到历史长河 ↑</a></footer>
+</body>
+</html>
