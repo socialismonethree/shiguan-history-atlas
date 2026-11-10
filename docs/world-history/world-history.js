@@ -47,12 +47,13 @@ function externalLinks(year) {
 }
 
 function currentRoute() {
-  const match = location.hash.match(/^#country\/([a-z0-9-]+)(?:\/([a-z0-9-]+))?(\/chapter)?$/);
+  const match = location.hash.match(/^#country\/([a-z0-9-]+)(?:\/view\/(chronicle|people|archives)(?:\/(\d+))?|\/([a-z0-9-]+)(?:\/chapter)?)?$/);
   const query = new URLSearchParams(location.search);
   const country = countryList.find((entry) => entry.id === (match?.[1] || query.get('country'))) ||
     countryList.find((entry) => entry.region === query.get('region')) || countryList.find((entry) => entry.id === 'usa') || countryList[0];
-  const period = country.periods.find((entry) => entry.id === match?.[2]) || country.periods[0];
-  return {country, period, chapter: Boolean(match?.[3])};
+  const period = country.periods.find((entry) => entry.id === match?.[4]) || country.periods[0];
+  const person = Number(match?.[3]) - 1;
+  return {country, period, panel: match?.[2] || 'overview', chapter: Boolean(match?.[4]), person: person >= 0 ? person : undefined};
 }
 
 function filterDirectory() {
@@ -63,51 +64,30 @@ function filterDirectory() {
     .map(([id, title]) => '<button type="button" data-region="' + id + '" aria-pressed="' + (selectedRegion === id) + '">' + title + '</button>').join('');
 
   const list = countryList.filter((item) => !selectedRegion || item.region === selectedRegion)
-    .map((item) => ({item, matches: search ? item.periods.filter((period) => period.search.includes(search)) : []}))
-    .filter(({item, matches}) => !search || item.search.includes(search) || matches.length);
+    .map((item) => ({item, matches: search ? item.periods.filter((period) => period.search.includes(search)) : [],
+      figures: search ? (item.reading?.figures || []).map((figure, index) => ({figure, index}))
+        .filter(({figure}) => normalize([figure.name, figure.role, ...figure.body].join(' ')).includes(search)) : []}))
+    .filter(({item, matches, figures}) => !search || item.search.includes(search) || matches.length || figures.length);
   $('#catalogCount').textContent = '显示 ' + list.length + ' / ' + countryList.length + ' 个国别入口';
-  $('#countries').innerHTML = list.map(({item, matches}) => {
+  $('#countries').innerHTML = list.map(({item, matches, figures}) => {
     const match = item.names.includes(search) ? null : matches[0];
-    const link = match ? chapterPath(item, match) : countryPath(item);
-    const description = match ? match.title + (matches.length > 1 ? ' · 共 ' + matches.length + ' 章' : '') : item.region + ' · ' + item.periods.length + ' 章';
+    const link = item.names.includes(search) ? countryPath(item) : figures.length ? personPath(item, figures[0].index) : match ? chapterPath(item, match) : countryPath(item);
+    const description = figures.length && !item.names.includes(search) ? figures[0].figure.name : match ? match.title + (matches.length > 1 ? ' · 共 ' + matches.length + ' 章' : '') : item.region + ' · ' + item.periods.length + ' 章';
     return '<a href="' + link + '" aria-current="' + (item === country) + '">' + E(item.name) + '<small>' + E(description) + '</small></a>';
   }).join('') || '<p>没有匹配条目，可尝试另一种译名或切换地区。</p>';
 
   const countryNameMatches = list.some(({item}) => item.names.includes(search));
   const hits = search && !countryNameMatches ? list.flatMap(({item, matches}) => matches.map((period) => ({item, period}))) : [];
   $('#searchMatches')?.remove();
-  if (hits.length) {
-    $('#countries').insertAdjacentHTML('afterend', '<div id="searchMatches"><h3>匹配章节</h3>' + hits.slice(0, 16).map(({item, period}) =>
+  const portraits = search && !countryNameMatches ? list.flatMap(({item, figures}) => figures.map(({figure, index}) => ({item, figure, index}))) : [];
+  if (hits.length || portraits.length) {
+    $('#countries').insertAdjacentHTML('afterend', '<div id="searchMatches">' +
+      (portraits.length ? '<h3>人物详传</h3>' + portraits.slice(0, 8).map(({item, figure, index}) =>
+        '<div class="match"><a href="' + personPath(item, index) + '">' + E(figure.name) + '</a><small>' + E(item.name) + '</small></div>').join('') : '') +
+      (hits.length ? '<h3>匹配章节</h3>' : '') + hits.slice(0, 12).map(({item, period}) =>
       '<div class="match"><a href="' + chapterPath(item, period) + '">' + E(item.name + ' · ' + period.title) + '</a><small>' + E(period.range) + '</small></div>').join('') +
-      (hits.length > 16 ? '<p>仅显示前 16 章，可缩小检索范围。</p>' : '') + '</div>');
+      (hits.length > 12 ? '<p>仅显示前 12 章，可缩小检索范围。</p>' : '') + '</div>');
   }
-}
-
-function renderChapter() {
-  const {country, period} = currentRoute();
-  const index = country.periods.indexOf(period);
-  const neighbors = [[index - 1, '← 上一章'], [index + 1, '下一章 →']];
-  const chapter = country.periods.map((entry, i) => '<a href="' + chapterPath(country, entry) + '" aria-current="' + (entry === period) +
-    '"><strong>' + String(i + 1).padStart(2, '0') + ' · ' + E(entry.title) + '</strong><span>' + E(entry.range) + '</span></a>').join('');
-  $('#reading').innerHTML = '<header class="reading-header"><p class="kicker">' + E(country.region) + ' · 国别纵览</p><h2>' + E(country.name) +
-    '</h2><p>' + E(country.intro) + '</p></header><nav class="periods" aria-label="' + E(country.name) + '分期">' + chapter +
-    '</nav><details class="nation-index"><summary>通览全史时间线</summary><ol>' + country.periods.map((entry) =>
-      '<li><a href="' + chapterPath(country, entry) + '">' + E(entry.title) + '</a> <small>' + E(entry.range) + '</small><ul>' +
-      entry.events.map(([date, title]) => '<li>' + E(date + ' · ' + title) + '</li>').join('') + '</ul></li>').join('') +
-    '</ol></details><article class="chapter" id="chapter" tabindex="-1"><p class="kicker">第 ' + (index + 1) + ' 章 / 共 ' + country.periods.length + ' 章</p><h2>' +
-    E(period.title) + '</h2><p class="range">' + E(period.range) + '</p>' + period.body.map((p) => '<p class="prose">' + E(p) + '</p>').join('') +
-    '<div class="facts"><section><h3>关键节点</h3><dl>' + period.events.map(([date, title, text]) => {
-      const year = parseYear(date);
-      const peer = eventsByYear.get(year)?.some((event) => event.country !== country);
-      return '<dt><span>' + E(date) + '</span>' + E(title) + '</dt><dd>' + E(text) +
-        (peer ? ' <a href="#compare/' + year + '">同年对读 →</a>' : '') + '</dd>';
-    }).join('') + '</dl></section><section><h3>关键人物</h3><dl>' + period.people.map(([name, text]) => '<dt>' + E(name) + '</dt><dd>' + E(text) + '</dd>').join('') +
-    '</dl></section></div><details class="sources" open><summary>史料与进一步阅读</summary><ul>' +
-    period.sources.map(([label, url]) => '<li><a rel="noopener" href="' + E(url) + '">' + E(label) + '</a></li>').join('') +
-    '</ul></details><nav class="chapters-nav" aria-label="翻阅相邻章节"><a href="#directory">↑ 国别目录</a>' + neighbors.filter(([i]) => country.periods[i]).map(([i, label]) =>
-      '<a href="' + chapterPath(country, country.periods[i]) + '">' + label + ' · ' + E(country.periods[i].title) + '</a>').join('') + '</nav></article>';
-  $('#reading').removeAttribute('aria-busy');
-  filterDirectory();
 }
 
 function renderCompare() {
@@ -137,14 +117,16 @@ function renderRoute(shouldScroll = false) {
   const compareMatch = location.hash.match(/^#compare\/(-?\d+)$/);
   if (compareMatch && eventsByYear.has(Number(compareMatch[1]))) selectedYear = Number(compareMatch[1]);
   if (!readingLoaded || countryHash) {
-    renderChapter();
+    renderRoom(route);
+    filterDirectory();
     readingLoaded = true;
   }
   renderCompare();
-  if (countryHash && (route.chapter || shouldScroll)) {
-    const target = route.chapter ? $('#chapter') : $('#reading');
+  if (countryHash && shouldScroll) {
+    const profile = route.panel === 'people' && route.person !== undefined ? $('#profile-' + (route.person + 1)) : null;
+    const target = profile || (route.chapter ? $('#chapter') : route.panel === 'overview' ? $('#reading') : $('#room-content'));
     target.scrollIntoView();
-    if (route.chapter) target.focus({preventScroll:true});
+    (profile?.querySelector('summary') || target).focus({preventScroll:true});
   }
   if (compareMatch && shouldScroll) $('#compare').scrollIntoView();
   if (!location.hash && (new URLSearchParams(location.search).has('q') || selectedRegion)) $('#directory').scrollIntoView();
@@ -153,17 +135,29 @@ function renderRoute(shouldScroll = false) {
 async function initialize() {
   try {
     const load = async (path) => {
-      const response = await fetch(path + '?v=0.23.0');
+      const response = await fetch(path + '?v=' + (path.startsWith('reading/') ? '0.24.0' : '0.23.0'));
       if (!response.ok) throw new Error('HTTP ' + response.status + ' · ' + path);
       return response.json();
     };
     const datasets = await load('data/index.json');
+    const additions = load('reading/index.json').then((files) => Promise.allSettled(files.map((file) => load('reading/' + file))))
+      .then((outcomes) => outcomes.flatMap((outcome) => outcome.status === 'fulfilled' ? outcome.value : [])).catch(() => []);
     countryList = (await Promise.all(datasets.map((file) => load('data/' + file)))).flat();
+    const reading = new Map((await additions).map((entry) => [entry.id, entry]));
     for (const country of countryList) {
+      country.reading = reading.get(country.id);
       country.names = [country.name, ...(country.aliases || [])].map(normalize);
       country.search = country.names.join(' ');
       for (const period of country.periods) {
-        period.search = normalize([period.title, period.range, ...period.body, ...period.events.flat(), ...period.people.flat(), ...period.sources.map(([label]) => label)].join(' '));
+        for (const item of country.reading?.milestones || []) {
+          if (item.period !== period.id) continue;
+          const year = parseYear(item.date);
+          const next = period.events.findIndex(([date]) => parseYear(date) > year);
+          period.events.splice(next === -1 ? period.events.length : next, 0, [item.date, item.title, item.body[0]]);
+        }
+        const expanded = country.reading?.chapters?.[period.id];
+        const themes = country.reading?.threads?.filter((item) => item.period === period.id) || [];
+        period.search = normalize([expanded?.title, ...(expanded?.body || []), ...themes.flatMap((item) => [item.title, ...item.body]), period.title, period.range, ...period.body, ...period.events.flat(), ...period.people.flat(), ...period.sources.map(([label]) => label)].join(' '));
         for (const event of period.events) {
           const year = parseYear(event[0]);
           if (!year) continue;

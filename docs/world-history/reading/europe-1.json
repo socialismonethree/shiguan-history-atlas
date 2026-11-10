@@ -1,0 +1,714 @@
+[
+  {
+    "id": "uk",
+    "question": "议会权力扩大以后，为什么工厂工人、妇女与联合王国各地居民仍要分别争取代表权？",
+    "threads": [
+      {
+        "title": "一张请愿书如何进入工人政治",
+        "period": "industrial",
+        "body": [
+          "1830年代的《人民宪章》要求成年男子普选、秘密投票等六项改革。宪章派用地方协会、集会与报刊组织行动，在1839、1842和1848年递交大规模请愿，让尚无投票权的人也能参与全国政治。",
+          "议会没有在运动高峰时期接受请愿。后来部分主张被分批纳入选举制度，年度议会选举始终未实行。将即时结果和制度上的长期影响分开，才能看清请愿运动改变政治议程的方式。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 宪章运动",
+            "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/"
+          ]
+        ]
+      },
+      {
+        "title": "反奴隶贸易法通过之后",
+        "period": "industrial",
+        "body": [
+          "1807年法案禁止英国参与奴隶贸易，奴隶制在英国多数殖民地仍然延续。废奴运动继续通过反奴隶制协会和基层动员向议会施压，被奴役者也以逃亡、抵抗和反抗影响废奴进程。",
+          "1833年废奴法案给奴隶主补偿，多数原被奴役者则被迫进入有期限的学徒劳动制度。直到1838年这一制度提前结束，很多地区才全面终止其强制安排。商贸禁令、法律废奴与实际劳动自由分属三个阶段。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 奴隶贸易及废奴主要日期",
+            "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/key-dates/"
+          ]
+        ]
+      },
+      {
+        "title": "选票之后，地方自治靠什么运转",
+        "period": "postwar",
+        "body": [
+          "苏格兰、威尔士和北爱尔兰的权力下放分别由法律建立，自治机构最初取得的权限不尽相同。苏格兰拥有涉及教育、卫生等事项的立法权，威尔士的权限则经过后续立法逐步扩展。",
+          "北爱尔兰制度与《贝尔法斯特协议》的多方协商相连，强调行政权分享及英爱两国间的合作。掌握税收、社会政策或地方公共服务的机关会因地区与事项而变，英国的政治代表不能只从威斯敏斯特一处理解。"
+        ],
+        "sources": [
+          [
+            "英国下议院图书馆 · 联合王国权力下放概论",
+            "https://researchbriefings.files.parliament.uk/documents/CBP-8599/CBP-8599.pdf"
+          ]
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "period": "reformation",
+        "name": "亨利八世",
+        "life": "1491—1547年",
+        "role": "都铎王朝国王与英格兰宗教改革人物",
+        "body": [
+          "亨利八世与教廷围绕婚姻废止发生冲突，其政府通过议会立法重定英格兰教会与王权关系。1534年《至尊法案》确认国王在教会中的最高地位。",
+          "修道院解散后，大量土地和财产转移，重组王室、地方精英与社会救济机构之间的关系。他时期的神学政策多次调整，英格兰宗教改革也在后继君主统治下继续变化。"
+        ],
+        "sources": [
+          [
+            "英国王室网站 · 亨利八世",
+            "https://www.royal.uk/henry-viii"
+          ]
+        ]
+      },
+      {
+        "period": "wars",
+        "name": "温斯顿·丘吉尔",
+        "life": "1874—1965年",
+        "role": "战时联合政府首相",
+        "body": [
+          "丘吉尔经历军旅、写作和长期议会生涯，1940年在欧洲战事急剧恶化时成为首相。他领导跨党派战时内阁，以演说和对外磋商争取民众与盟友的支持。",
+          "盟国合作、英联邦资源和本国动员共同支撑英国战时政策。1945年大选后他卸任，1951年再任首相。评价其生涯时可分开考察战时领导、帝国观念与不同时期的政策后果。"
+        ],
+        "sources": [
+          [
+            "英国政府 · 丘吉尔传记与任期",
+            "https://www.gov.uk/government/history/past-prime-ministers/winston-churchill"
+          ]
+        ]
+      },
+      {
+        "name": "威廉·威尔伯福斯",
+        "life": "1759—1833",
+        "role": "议员、废奴运动者",
+        "period": "industrial",
+        "body": [
+          "威尔伯福斯在下议院持续推动禁止奴隶贸易，1807年法案在多次受挫后通过。他与托马斯·克拉克森等废奴活动人士分工，后者搜集航运和贸易证据，地方组织则长期递交请愿。",
+          "威尔伯福斯晚年继续支持废除殖民地奴隶制。他去世于1833年，法案随后获御准。议会发言只是这项改革的一环，被奴役者的反抗和来自不同团体的动员同样决定了立法时机与范围。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 奴隶贸易及废奴主要日期",
+            "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/key-dates/"
+          ]
+        ]
+      },
+      {
+        "name": "米利森特·福塞特",
+        "life": "1847—1929",
+        "role": "妇女选举权组织者",
+        "period": "wars",
+        "body": [
+          "福塞特长期主张以公开演说、请愿及议员游说争取选举权，1897年开始领导全国妇女选举权协会联盟。该联盟与后来采取更激进手段的妇女社会政治联盟是不同组织。",
+          "1918年立法使部分女性取得投票权，年龄与财产条件仍和男性不同。1928年的平等选举立法才使男女议会投票年龄一致。福塞特活动的跨度也说明妇女政治权利并非一次性完成。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 妇女获得选举权",
+            "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/womenvote/overview/thevote/"
+          ]
+        ]
+      },
+      {
+        "name": "安奈林·贝文",
+        "life": "1897—1960",
+        "role": "卫生大臣、国民医疗服务创办者",
+        "period": "postwar",
+        "body": [
+          "贝文出身威尔士煤矿工人家庭，从工会和地方政治进入下议院。战后担任卫生大臣时，他负责把政府建立普遍医疗服务的构想转化为法律与医院管理安排。",
+          "1948年国民医疗服务启动，医院、家庭医生与地方服务的组织方式不同。贝文同医生及其他利益方谈判才使制度运行起来，其创设也依赖此前的战时协调和福利政策讨论。"
+        ],
+        "sources": [
+          [
+            "英国国民医疗服务 · NHS历史里程碑",
+            "https://www.england.nhs.uk/about/nhs-history/"
+          ]
+        ]
+      }
+    ],
+    "chapters": {
+      "kingdoms": {
+        "title": "1066年后的土地秩序怎样留下证据",
+        "body": [
+          "1086年的财产调查记录庄园归属、土地资源和估值，有的条目还保留征服前后的所有者信息。它既便于王室核算，也让后人看见征服带来的土地再分配。",
+          "调查由各地讯问和记录汇总而成，重点是统治与征税所需的信息。它不是现代意义上的逐人普查。结合它所记录的类别与省略的地区，可以看出王室当时真正能够掌握什么。"
+        ],
+        "sources": [
+          [
+            "英国国家档案馆 · 《末日审判书》教学档案",
+            "https://cdn.nationalarchives.gov.uk/documents/education/domesday.pdf"
+          ]
+        ]
+      },
+      "industrial": {
+        "title": "地图上的新城市为何没有选票",
+        "body": [
+          "工业人口向曼彻斯特等地集中后，议席仍按传统选区配置，有些人口很少的旧选区却能选出议员。1832年改革重新安排了许多席位，让工业城市获得更直接的代表。",
+          "新的资格依然按地产及租金等条件设定。工人参与过改革动员，却多未由此获得选票。把议席重新划分与扩大选民资格分开观察，能解释为何宪章运动紧接着兴起。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 1832年改革法",
+            "https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/"
+          ],
+          [
+            "英国议会 · 宪章运动",
+            "https://www.parliament.uk/about/living-heritage/transformingsociety/electionsvoting/chartists/overview/chartistmovement/"
+          ]
+        ]
+      },
+      "postwar": {
+        "title": "从战时社会调查到公共医疗",
+        "body": [
+          "战时动员使健康和失业等社会风险进入公共决策中心。1942年贝弗里奇报告提出广泛的社会保险方案，政府其后通过不同立法建设社会保障和医疗制度。",
+          "全国医疗服务1948年起运行，主要由公共筹资支持。医院的组织和家庭医生的工作安排各有规则。福利国家的普遍性取决于这些可运作的制度，而非仅取决于改革口号。"
+        ],
+        "sources": [
+          [
+            "英国国民医疗服务 · NHS历史里程碑",
+            "https://www.england.nhs.uk/about/nhs-history/"
+          ]
+        ]
+      }
+    },
+    "events": {
+      "约翰王接受《大宪章》": {
+        "body": [
+          "1215年约翰王接受贵族要求后不久，宪章遭教皇废止，内战继续。后来多次重颁的文本与1215年版不同。其影响来自反复引用和重新解释，最初所说的权利也有当时的身份条件。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 《大宪章》",
+            "https://www.parliament.uk/about/living-heritage/evolutionofparliament/originsofparliament/birthofparliament/overview/magnacarta/"
+          ]
+        ]
+      },
+      "议会改革法": {
+        "body": [
+          "1832年重新分配议席，让若干工业城市得到较直接的代表。改革没有给予大多数工人和妇女投票权，选区和选民资格的变化也并非一回事。与后续改革及宪章运动对读，才能理解代议范围如何扩大。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 1832年改革法",
+            "https://www.parliament.uk/about/living-heritage/evolutionofparliament/houseofcommons/reformacts/overview/reformact1832/"
+          ]
+        ]
+      }
+    },
+    "milestones": [
+      {
+        "period": "reformation",
+        "date": "1534年",
+        "title": "《至尊法案》确认国王的教会地位",
+        "body": [
+          "议会立法重定英格兰教会与罗马教廷关系，王室随后推进修道院解散。英格兰、苏格兰和爱尔兰的宗教改革各有时间和政治条件。"
+        ],
+        "sources": [
+          [
+            "英国王室网站 · 亨利八世",
+            "https://www.royal.uk/henry-viii"
+          ]
+        ]
+      },
+      {
+        "period": "reformation",
+        "date": "1642年",
+        "title": "第一次英格兰内战爆发",
+        "body": [
+          "国王与议会围绕税收、军队及宗教事务的冲突演变为战争。理解战事也需把苏格兰和爱尔兰的政治危机放回同一王权结构中。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 议会与内战",
+            "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/"
+          ]
+        ]
+      },
+      {
+        "period": "reformation",
+        "date": "1649年",
+        "title": "查理一世被处决",
+        "body": [
+          "君主受审被处决，随后英格兰废除君主制并建立共和国。政治权力在军队、议会和行政机关之间继续重组，1660年又发生王政复辟。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 议会与内战",
+            "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/civilwar/"
+          ]
+        ]
+      },
+      {
+        "period": "reformation",
+        "date": "1688年",
+        "title": "光荣革命",
+        "body": [
+          "詹姆斯二世失去王位，威廉与玛丽在随后取得王位。英格兰的制度安排不能概括苏格兰与爱尔兰的过程，尤其爱尔兰经历了后续战争。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 光荣革命",
+            "https://www.parliament.uk/about/living-heritage/evolutionofparliament/parliamentaryauthority/revolution/"
+          ]
+        ]
+      },
+      {
+        "period": "industrial",
+        "date": "1807年",
+        "title": "议会废除英国奴隶贸易",
+        "body": [
+          "法律禁止英国参与奴隶贸易。英属殖民地的奴隶制度还延续多年，废除贸易、解放奴隶及其后劳役制度的终结，需要分开读。"
+        ],
+        "sources": [
+          [
+            "英国议会 · 奴隶贸易及废奴主要日期",
+            "https://www.parliament.uk/about/living-heritage/transformingsociety/tradeindustry/slavetrade/key-dates/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "france",
+    "question": "法国反复改换政体时，宣称普遍的公民权如何真正延伸到学校、殖民地和妇女身上？",
+    "threads": [
+      {
+        "title": "海地革命迫使巴黎回答公民权问题",
+        "period": "revolution",
+        "body": [
+          "圣多明各的种植园经济建立在大规模奴役上。1791年当地爆发反奴役起义，战争、自由有色人与白人殖民者的政治争夺相互交织。法国国民公会1794年宣布废除殖民地奴隶制。",
+          "拿破仑政府1802年恢复或维持多地的奴隶制，并企图重新控制圣多明各。法国远征军在当地失败，海地于1804年独立。革命原则在海外的命运，取决于当地行动、战争和巴黎政权的选择。"
+        ],
+        "sources": [
+          [
+            "法国国民议会 · 1848年废奴法令及历史资料",
+            "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-republique/l-abolition-de-l-esclavage"
+          ]
+        ]
+      },
+      {
+        "title": "共和国学校怎样培养公民",
+        "period": "nineteenth",
+        "body": [
+          "第三共和国以1881及1882年的法律推动初等教育免费、义务化和世俗化。共和国希望儿童不因家庭财力而失学，并以共同课程塑造识字能力、公民意识和国家认同。",
+          "义务教育制度容许家庭以不同方式履行入学或受教义务，性别化课程和地方差异仍然存在。学校改革与1905年政教分离法各有不同对象和实施时点，不能把它们混成一次政令。"
+        ],
+        "sources": [
+          [
+            "法国国家教育部 · 教育制度与主要原则",
+            "https://www.education.gouv.fr/les-grands-principes-du-systeme-educatif-9842"
+          ]
+        ]
+      },
+      {
+        "title": "总统由谁选，为什么在1962年成为争议",
+        "period": "contemporary",
+        "body": [
+          "1958年宪法加强行政机构，同时保留政府对议会承担政治责任。最初总统由较大的选举团选出，直接普选主要产生国民议会议员。这项安排仍留下总统政治正当性的讨论。",
+          "1962年戴高乐以公民投票推动总统直选，议会中有强烈反对。改革通过后，总统取得直接选举授权。此后遇到总统与国民议会多数不同阵营时，政治实践还须通过总理和议会多数协调。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 法国历代政体奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "period": "revolution",
+        "name": "拿破仑·波拿巴",
+        "life": "1769—1821年",
+        "role": "法国执政府领袖与帝国皇帝",
+        "body": [
+          "拿破仑从革命战争中的军官崛起，1799年政变后出任第一执政。其政府整理民法、扩展中央行政和教育安排，1804年建立帝国。革命后的法律遗产与个人权力集中在同一时期推进。",
+          "军事扩张把法国制度带入欧洲多地，也引发征用、反抗与反法同盟。1814年退位，次年短暂复辟后在滑铁卢失败，最终流放圣赫勒拿岛。法律与行政制度的存续时间长于帝国疆域。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 政体与奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      },
+      {
+        "name": "维克多·舍尔歇",
+        "life": "1804—1893",
+        "role": "废奴活动者、第二共和国官员",
+        "period": "nineteenth",
+        "body": [
+          "舍尔歇曾考察加勒比地区，以写作揭露殖民地奴隶制。1848年革命后，他参加临时政府的海军和殖民事务，主持筹备废奴法令的委员会。",
+          "1848年法令使殖民地废奴重新成为法国法律，实施日期和具体效果依各地而异。奴隶与自由有色人长期抵抗，部分殖民地在本土命令传达前已爆发行动。"
+        ],
+        "sources": [
+          [
+            "法国国民议会 · 1848年废奴法令及历史资料",
+            "https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-republique/l-abolition-de-l-esclavage"
+          ]
+        ]
+      },
+      {
+        "name": "朱尔·费里",
+        "life": "1832—1893",
+        "role": "第三共和国部长和政府首脑",
+        "period": "nineteenth",
+        "body": [
+          "费里在第三共和国前期负责公共教育，推动免费、义务与世俗初等教育。改革借教师、地方政府与国家行政机构执行，成为共和派争取政治认同的一条路径。",
+          "他同时支持法国扩大在非洲与亚洲的殖民统治。教育和殖民政策属于同一政治生涯，显示第三共和国的普遍公民理想与海外领土治理之间存在实质张力。"
+        ],
+        "sources": [
+          [
+            "法国国家教育部 · 教育制度与主要原则",
+            "https://www.education.gouv.fr/les-grands-principes-du-systeme-educatif-9842"
+          ]
+        ]
+      },
+      {
+        "name": "夏尔·戴高乐",
+        "life": "1890—1970",
+        "role": "自由法国领导人、第五共和国总统",
+        "period": "contemporary",
+        "body": [
+          "1940年法国战败后，戴高乐从伦敦发起继续抵抗的号召，并逐步使自由法国成为盟国合作方。解放后，他主持临时政府一段时期，随后因政体意见分歧离任。",
+          "1958年阿尔及利亚危机中回归执政，推动制定新宪法，随后担任总统。总统直选和阿尔及利亚独立都改变了此后政治结构，具体结果来自议会、政府、社会及殖民地多方的政治过程。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 历届总统",
+            "https://www.elysee.fr/la-presidence/les-presidents-de-la-republique"
+          ],
+          [
+            "法国总统府 · 法国历代政体奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      }
+    ],
+    "chapters": {
+      "revolution": {
+        "title": "同一部权利宣言如何遇到财产与性别限制",
+        "body": [
+          "1789年宣言将自由、财产和法律平等列为政治原则。制宪时的选举规则却设置税额等门槛，女性也没有与男性相同的正式政治权利。宣言的普遍措辞与机关实际准入之间存在距离。",
+          "奥兰普·德·古热于1791年发表《妇女和女性公民权利宣言》，将这些原则直接转向妇女处境。其文本显示革命时代已有对性别排除的批评，制度改变则经历更长时间。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 法国历代政体奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      },
+      "nineteenth": {
+        "title": "报纸、学校与共和体制的基层建设",
+        "body": [
+          "第三共和国早期推动新闻自由并改革初等教育。报纸市场、学校课程和地方选举分别影响居民接触公共事务的方式。共和国的稳定依靠的既有宪法规则，也有这些日常制度。",
+          "免费教育并未消除地区和性别差异。世纪之交的德雷福斯事件又使新闻、军队、司法和公民平等成为争论焦点。把教育与公共讨论并看，可理解共和制度如何经由社会冲突加深。"
+        ],
+        "sources": [
+          [
+            "法国国家教育部 · 教育制度与主要原则",
+            "https://www.education.gouv.fr/les-grands-principes-du-systeme-educatif-9842"
+          ],
+          [
+            "法国总统府 · 法国历代政体奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      },
+      "contemporary": {
+        "title": "第四共和国的社会权利怎样延续到第五共和国",
+        "body": [
+          "1946年宪法序言规定教育、健康保障、结社与劳动方面的若干原则。虽然第四共和国的国家机关组织很快改变，这部分文献在战后法国制度中的影响长期延续。",
+          "1958年宪法序言援引1946年序言和1789年《人权与公民权宣言》。第五共和国既调整行政与议会的权力，又保留了前代文件在权利保障中的位置。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 法国历代政体奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      }
+    },
+    "events": {
+      "通过《人权与公民权宣言》": {
+        "body": [
+          "革命初期，国民议会用宣言阐明自由、财产权、法律平等与主权来源。原则如何落地仍取决于宪法、选举资格和殖民地制度。宣言与此后法律之间的落差，也是理解妇女和被奴役者争取权利的入口。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 法国政体奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      },
+      "第五共和国成立": {
+        "body": [
+          "1958年政局危机与阿尔及利亚战争相连。新宪法改变行政与立法机关间的权力配置，戴高乐返回权力中心；1962年才经公投确立总统直接选举。把两个年份分开，可以看清制度建立和总统产生方式的不同变化。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 法国政体奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      }
+    },
+    "milestones": [
+      {
+        "period": "revolution",
+        "date": "1789年7月14日",
+        "title": "攻占巴士底狱",
+        "body": [
+          "巴黎群众攻下被视为王权象征的监狱。事件与国民议会活动、粮价和王室军队调动相连，显示首都民众开始直接改变革命进程。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 7月14日国庆的历史",
+            "https://www.elysee.fr/la-presidence/la-fete-nationale-du-14-juillet"
+          ]
+        ]
+      },
+      {
+        "period": "revolution",
+        "date": "1815年6月18日",
+        "title": "滑铁卢战败",
+        "body": [
+          "拿破仑从厄尔巴岛返回后短暂恢复统治，在滑铁卢败于联军，随后再度退位。战后的领土安排与复辟秩序另由外交与国内政治塑造。"
+        ],
+        "sources": [
+          [
+            "英国国家陆军博物馆 · 滑铁卢战役",
+            "https://www.nam.ac.uk/explore/battle-waterloo"
+          ]
+        ]
+      },
+      {
+        "period": "nineteenth",
+        "date": "1870年9月",
+        "title": "第二帝国覆亡与共和国宣布",
+        "body": [
+          "普法战争中拿破仑三世兵败被俘，巴黎宣布共和国。战争、政权更替、巴黎公社和后来确立的宪制安排相继发生，第三共和国的制度并非在同一天完成。"
+        ],
+        "sources": [
+          [
+            "法国总统府 · 历代政体奠基文献",
+            "https://www.elysee.fr/la-presidence/les-textes-fondateurs"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "id": "germany",
+    "question": "为什么有共同语言的地区并未同时并入一个国家，而统一之后又长期保有地方和联邦制度？",
+    "threads": [
+      {
+        "title": "从德意志关税同盟看统一的不同路径",
+        "period": "nation",
+        "body": [
+          "1834年正式运作的德意志关税同盟减少参加邦国之间的关税壁垒，在普鲁士主导下协调对外关税。不同邦国可以继续保有王室和行政机关，而在货物流通上相互靠近。",
+          "奥地利没有加入这个关税同盟。1848年议会讨论的统一方案则须回答议会、宪法和边界问题。市场整合早于政治统一，却无法决定国民议会应当选择哪个方案。"
+        ],
+        "sources": [
+          [
+            "德国联邦议院 · 1848—1849年革命及法兰克福国民议会",
+            "https://www.bundestag.de/en/parliament/history/parliamentarism/1848"
+          ]
+        ]
+      },
+      {
+        "title": "魏玛外交怎样处理战后债务与安全",
+        "period": "dictatorship",
+        "body": [
+          "鲁尔危机与通胀严重打击德国经济。道威斯计划重新安排赔款支付，来自国外的信贷帮助德国恢复，也使经济与国际资本市场联系更紧。",
+          "1925年洛迦诺谈判降低德国西部边境冲突风险，德国次年加入国际联盟。外交缓和依赖协商与金融条件，大萧条袭来后这些条件迅速恶化。"
+        ],
+        "sources": [
+          [
+            "德国历史博物馆 · 魏玛共和国外交",
+            "https://www.dhm.de/lemo/kapitel/weimarer-republik/aussenpolitik"
+          ]
+        ]
+      },
+      {
+        "title": "一张居住和工作地图如何被柏林墙改写",
+        "period": "reunification",
+        "body": [
+          "冷战早期的柏林存在由不同力量控制的城区，部分人在跨区流动中工作或迁居。1961年东德修建柏林墙，家庭、通勤与城市交通网络因此断裂。",
+          "1989年边境开放恢复了许多连接，两德统一则进一步涉及住房、职业资格、行政人员与产业重组。统一后的制度和日常生活变化持续多年。"
+        ],
+        "sources": [
+          [
+            "德国历史博物馆 · 1989—1990年制宪与统一",
+            "https://www.dhm.de/archiv/ausstellungen/verfassung/1989.html"
+          ],
+          [
+            "德国历史博物馆 · 统一后的日常生活展",
+            "https://www.dhm.de/ausstellungen/archiv/2015/alltag-einheit/"
+          ]
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "period": "dictatorship",
+        "name": "阿道夫·希特勒",
+        "life": "1889—1945年",
+        "role": "纳粹德国独裁者",
+        "body": [
+          "希特勒在一战后进入德国极端民族主义政治。经济危机、政治暴力与保守精英的权力计算共同为其1933年出任总理创造条件。纳粹利用紧急措施和授权立法摧毁民主约束。",
+          "其政权发动侵略战争并实施系统性的反犹迫害与种族灭绝。理解独裁需要同时考察党国机关、军政部门、地方合作者与受害者记录，才能解释个人权力如何借助机构转成大规模暴力。"
+        ],
+        "sources": [
+          [
+            "美国大屠杀纪念馆 · 希特勒",
+            "https://encyclopedia.ushmm.org/content/en/article/adolf-hitler"
+          ]
+        ]
+      },
+      {
+        "name": "奥托·冯·俾斯麦",
+        "life": "1815—1898",
+        "role": "普鲁士首相、德意志帝国首任宰相",
+        "period": "nation",
+        "body": [
+          "俾斯麦任普鲁士首相时面对军费和议会冲突。他利用对外联盟及战争重组德意志各邦关系，最终由普鲁士国王兼任帝国皇帝。",
+          "帝国建立后，他通过同盟外交、打压社会民主派和推动部分社会保险塑造国内外秩序。帝国仍有邦国、民选议会与相互制约的机关，其政策不能归于宰相个人。"
+        ],
+        "sources": [
+          [
+            "德国历史博物馆 · 俾斯麦传",
+            "https://www.dhm.de/lemo/biografie/otto-bismarck"
+          ]
+        ]
+      },
+      {
+        "name": "古斯塔夫·施特雷泽曼",
+        "life": "1878—1929",
+        "role": "魏玛共和国总理、外交部长",
+        "period": "dictatorship",
+        "body": [
+          "施特雷泽曼于1923年短暂任总理，随后长期任外长。他转向通过国际谈判改善德国地位，与法国等国推进洛迦诺协议，任内德国加入国际联盟。",
+          "他的政策在德国国内遭到激进民族主义者反对，战后秩序仍留有争议。其成就主要在于外交缓和和制度参与，国内政治裂痕与经济风险继续存在。"
+        ],
+        "sources": [
+          [
+            "德国历史博物馆 · 施特雷泽曼传",
+            "https://www.dhm.de/lemo/biografie/gustav-stresemann"
+          ]
+        ]
+      },
+      {
+        "name": "维利·勃兰特",
+        "life": "1913—1992",
+        "role": "西柏林市长、联邦德国总理",
+        "period": "reunification",
+        "body": [
+          "勃兰特在纳粹掌权后流亡北欧，战后回到德国政治。担任西柏林市长期间，他面对柏林墙和城市分裂带来的治理问题。",
+          "担任联邦德国总理后，他以条约和接触政策改善与东欧国家及东德的关系。缓和打开了沟通渠道，东西德的统一则发生在离任多年后的另一组国内外条件下。"
+        ],
+        "sources": [
+          [
+            "德国历史博物馆 · 勃兰特生平与纪念章",
+            "https://www.dhm.de/archiv/magazine/medaillen/medaillen/63willybrandt.htm"
+          ]
+        ]
+      }
+    ],
+    "chapters": {
+      "empire": {
+        "title": "帝国议会和诸侯领地如何同时存在",
+        "body": [
+          "神圣罗马帝国由世俗领地、教会领地和帝国城市等政治单位组成。皇帝经选举产生，需要在帝国议会及其他机关中同各等级成员协商。",
+          "《威斯特伐利亚和约》改变了内部宗教与政治规则，帝国法院等机关仍继续运作。领地自治与帝国框架并存，直到1806年帝国才在拿破仑战争中解体。"
+        ],
+        "sources": [
+          [
+            "德国历史博物馆 · 神圣罗马帝国（962—1806年）",
+            "https://www.dhm.de/publikation/heiliges-roemisches-reich-deutscher-nation-962-1806/"
+          ]
+        ]
+      },
+      "kaiserreich": {
+        "title": "保险立法为何与打压工人政党并行",
+        "body": [
+          "19世纪末工人面对疾病、工伤和老年失去收入等风险。帝国在1880年代建立几类保险，政府试图用可执行的缴费与给付制度应对工业化带来的风险。",
+          "俾斯麦执政同时以法律限制社会民主派组织，工人政党仍能通过选举和其他渠道获得支持。保险建设与政治压制共存，反映帝国治理的两面。"
+        ],
+        "sources": [
+          [
+            "德国历史博物馆 LeMO · 德意志帝国",
+            "https://www.dhm.de/lemo/kapitel/kaiserreich"
+          ],
+          [
+            "德国历史博物馆 · 俾斯麦传",
+            "https://www.dhm.de/lemo/biografie/otto-bismarck"
+          ]
+        ]
+      },
+      "dictatorship": {
+        "title": "从紧急权力到独裁的制度断裂",
+        "body": [
+          "魏玛宪法允许总统在特定情形采取紧急措施。大萧条后的组阁危机使总统内阁更多借助紧急命令，议会妥协空间缩小。",
+          "纳粹掌权后，紧急法令压缩基本自由，《授权法》进一步使政府绕过议会立法。政权继而以强制手段排除反对力量，迫害政策也从剥夺公民权利升级为有组织的杀戮。"
+        ],
+        "sources": [
+          [
+            "德国历史博物馆 LeMO · 魏玛共和国",
+            "https://www.dhm.de/lemo/kapitel/weimarer-republik"
+          ],
+          [
+            "美国大屠杀纪念馆 · 大屠杀导论",
+            "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust"
+          ]
+        ]
+      }
+    },
+    "events": {
+      "德国统一": {
+        "body": [
+          "东德民众运动、开放边界与两德谈判先后展开。货币联盟和德国统一条约处理国内制度接轨，两个德国和四个战胜国的谈判解决对外地位。法律统一完成后，人口、就业和所有权关系继续调整。"
+        ],
+        "sources": [
+          [
+            "德国历史之家 · 走向统一",
+            "https://www.hdg.de/lemo/kapitel/deutsche-einheit/weg-zur-einheit.html"
+          ]
+        ]
+      }
+    },
+    "milestones": [
+      {
+        "period": "dictatorship",
+        "date": "1939年9月1日",
+        "title": "纳粹德国入侵波兰",
+        "body": [
+          "德国对波兰的侵略使欧洲战争进入新阶段，英国和法国随后对德宣战。波兰的被占领、社会破坏与纳粹迫害在军事行动之后迅速扩大。"
+        ],
+        "sources": [
+          [
+            "美国大屠杀纪念馆 · 入侵波兰",
+            "https://encyclopedia.ushmm.org/content/en/article/invasion-of-poland-fall-1939"
+          ]
+        ]
+      },
+      {
+        "period": "reunification",
+        "date": "1961年8月",
+        "title": "柏林墙开始兴建",
+        "body": [
+          "东德关闭柏林部分通道并设置围墙，限制人口外流。围墙把家庭、工作和城市交通分开，也成为观察冷战边界如何进入日常生活的实例。"
+        ],
+        "sources": [
+          [
+            "德国柏林墙基金会 · 柏林墙纪念地",
+            "https://www.stiftung-berliner-mauer.de/en/berlin-wall-memorial"
+          ]
+        ]
+      }
+    ]
+  }
+]

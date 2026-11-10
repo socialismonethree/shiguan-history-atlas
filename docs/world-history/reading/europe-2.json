@@ -1,0 +1,451 @@
+[
+  {
+    "id": "italy",
+    "question": "由彼此竞争的城邦和王国拼合成一个国家后，意大利怎样建立共同制度？",
+    "threads": [
+      {
+        "title": "佛罗伦萨画坊怎样组织一项委托",
+        "period": "citystates",
+        "body": [
+          "宗教团体、行会和富裕家族委托祭坛画、雕塑与建筑。委托合同可规定材料、尺寸和交付期限，作品首先回应具体空间和用途。",
+          "画坊由师傅与学徒等共同工作。风格变化既来自绘画技术和古典知识，也来自赞助人、同业竞争和作品要面对的观众。"
+        ],
+        "sources": [
+          [
+            "维多利亚与阿尔伯特博物馆 · 文艺复兴收藏",
+            "https://www.vam.ac.uk/collections/renaissance"
+          ],
+          [
+            "大都会艺术博物馆 · 中世纪艺术史教学资料",
+            "https://resources.metmuseum.org/resources/metpublications/pdf/Medieval_Art_A_Resource_for_Educators.pdf"
+          ]
+        ]
+      },
+      {
+        "title": "王国为何沿用皮埃蒙特宪章",
+        "period": "risorgimento",
+        "body": [
+          "1848年撒丁王国采用《阿尔贝蒂诺宪章》。统一过程中，王朝、政府和议会把已有法律和行政制度推广到新并入的地区。",
+          "这一安排让国家机关得以较快成立，地方间税收、土地与政治参与的差异仍须处理。共和派、联邦派和君主派关于国家结构的分歧也由此显现。"
+        ],
+        "sources": [
+          [
+            "意大利众议院 · 第一届议会文献",
+            "https://leg16.camera.it/application/xmanager/projects/camera/file/150/Il_primo_Parlamento_estratto.pdf"
+          ]
+        ]
+      },
+      {
+        "title": "一张选票同时决定政体和制宪代表",
+        "period": "republic",
+        "body": [
+          "1946年政体公投与制宪会议选举同时举行。女性参与全国性投票，选民分别决定国家形式和起草宪法的代表。",
+          "制宪会议在天主教、左翼和自由主义等传统之间协商。共和国宪法写入公民自由、劳动及社会保障等原则，部分制度还有赖后续立法实施。"
+        ],
+        "sources": [
+          [
+            "意大利众议院 · 制宪会议文献",
+            "https://costituente.camera.it/"
+          ]
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "name": "洛伦佐·德·美第奇",
+        "life": "1449—1492",
+        "role": "佛罗伦萨政治人物、艺术赞助者",
+        "period": "citystates",
+        "body": [
+          "洛伦佐出身银行业家族，依靠家族网络在佛罗伦萨政治中占据重要位置，并参与意大利城邦外交。",
+          "其艺术赞助让学者和艺术家得到支持，但佛罗伦萨文化繁荣亦依赖行会、教会与其他赞助人。美第奇家的影响与城市原有制度相互交织。"
+        ],
+        "sources": [
+          [
+            "维多利亚与阿尔伯特博物馆 · 文艺复兴收藏",
+            "https://www.vam.ac.uk/collections/renaissance"
+          ],
+          [
+            "大都会艺术博物馆 · 中世纪艺术史教学资料",
+            "https://resources.metmuseum.org/resources/metpublications/pdf/Medieval_Art_A_Resource_for_Educators.pdf"
+          ]
+        ]
+      },
+      {
+        "name": "朱塞佩·加里波第",
+        "life": "1807—1882",
+        "role": "意大利统一运动的志愿军领袖",
+        "period": "risorgimento",
+        "body": [
+          "加里波第曾在南美参加武装斗争，返欧后投入意大利统一事业。1860年率志愿军进入西西里和意大利南部，推翻当地波旁王朝统治。",
+          "他后来将南部移交撒丁王国君主，促进国家统一。统一后的制度主要由王朝和议会承接，他与政府在罗马问题上的立场并不总一致。"
+        ],
+        "sources": [
+          [
+            "意大利众议院 · 第一届议会文献",
+            "https://leg16.camera.it/application/xmanager/projects/camera/file/150/Il_primo_Parlamento_estratto.pdf"
+          ]
+        ]
+      },
+      {
+        "name": "阿尔契德·德加斯佩里",
+        "life": "1881—1954",
+        "role": "意大利战后政府首脑",
+        "period": "republic",
+        "body": [
+          "德加斯佩里在特伦蒂诺长大，早年参与天主教政治。法西斯政权结束后，他领导天主教民主党并参与战后政府。",
+          "他在重建和国际关系重组中推动与西欧合作，是欧洲共同体的早期倡导者之一。共和宪制仍须多党在制宪会议协商。"
+        ],
+        "sources": [
+          [
+            "意大利众议院 · 制宪会议文献",
+            "https://costituente.camera.it/"
+          ]
+        ]
+      }
+    ],
+    "chapters": {
+      "risorgimento": {
+        "title": "统一之后，各地怎样被纳入同一个国家",
+        "body": [
+          "新王国将法律、行政区划及中央机构推广到半岛多个地区。原来地方的社会秩序与财税安排不同，统一后的治理并不能由一次建国宣告完成。",
+          "铁路、邮政和公共教育创造更紧密的联系，政治参与却仍受选举资格限制。统一本身与国家制度逐步进入各地生活，属于不同层次的变化。"
+        ],
+        "sources": [
+          [
+            "意大利众议院 · 第一届议会文献",
+            "https://leg16.camera.it/application/xmanager/projects/camera/file/150/Il_primo_Parlamento_estratto.pdf"
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": "spain",
+    "question": "在由不同王国形成的国家里，地方权利、海外帝国与宪政怎样相互牵动？",
+    "threads": [
+      {
+        "title": "科尔多瓦如何把王权写进城市空间",
+        "period": "iberia",
+        "body": [
+          "科尔多瓦成为倭马亚统治中心后，通过宗教建筑、行政活动与手工业汇聚人口和资源。大清真寺经历多次扩建，保留不同阶段的空间组织。",
+          "城市在基督教征服后继续使用和改造。今日遗址叠存不同政权的建筑实践，一座建筑的沿革因此提供了理解城市权力更替的线索。"
+        ],
+        "sources": [
+          [
+            "联合国教科文组织 · 科尔多瓦历史中心",
+            "https://whc.unesco.org/en/list/313/"
+          ]
+        ]
+      },
+      {
+        "title": "加的斯宪法为何要定义两个半球的西班牙",
+        "period": "constitutions",
+        "body": [
+          "半岛遭法国军事占领时，加的斯议会试图把本土和海外领地重新组织在宪法之下。1812年宪法的国民范围涉及两个半球，代议权及公民资格仍有条件。",
+          "美洲多地同时讨论自治与独立，政治代表和财政贸易问题难以用宪法单独解决。西班牙王室恢复与海外独立运动随后继续改变这一构想。"
+        ],
+        "sources": [
+          [
+            "西班牙众议院档案 · 1812—1978年西班牙历代宪法",
+            "https://constitucion.congreso.es/otras-constituciones/constituciones-espanolas"
+          ],
+          [
+            "西班牙众议院 · 1812年宪法原文",
+            "https://www.congreso.es/constitucion/ficheros/historicas/cons_1812.pdf"
+          ]
+        ]
+      },
+      {
+        "title": "自治权如何在各地区具体落地",
+        "period": "democracy",
+        "body": [
+          "1978年宪法承认地区自治，并提供创建自治共同体的程序。各地通过自治章程确立立法和行政机构，掌握的权限及获得时间不尽相同。",
+          "语言、公共服务和财政分配因此成为地区与中央协商的议题。理解自治制度需要同时看宪法规定、章程以及实际权限的交接。"
+        ],
+        "sources": [
+          [
+            "西班牙国家官方公报 · 1978年宪法",
+            "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-31229"
+          ]
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "name": "伊莎贝拉一世",
+        "life": "1451—1504",
+        "role": "卡斯蒂利亚女王",
+        "period": "monarchy",
+        "body": [
+          "伊莎贝拉在王位争夺中巩固地位，与阿拉贡的斐迪南共同统治多个领域。两位君主合作完成格拉纳达战争，并支持哥伦布远航。",
+          "两地共享君主但保有不同议会、法律和财政制度。殖民扩张先由卡斯蒂利亚王权主导，不能用后来的统一国家结构解释全部决策。"
+        ],
+        "sources": [
+          [
+            "联合国教科文组织 · 塞维利亚主教座堂、王宫和印度总档案馆",
+            "https://whc.unesco.org/en/list/383/"
+          ]
+        ]
+      },
+      {
+        "name": "曼努埃尔·阿萨尼亚",
+        "life": "1880—1940",
+        "role": "第二共和国总理、总统",
+        "period": "civilwar",
+        "body": [
+          "阿萨尼亚参与共和派政治，在共和国早期主持政府并推进军队、宗教与教育等改革。改革受到不同政治组织支持或反对，政府联盟持续变化。",
+          "他于1936年成为总统，任内发生军事叛乱和内战。共和国的战时行动由多个组织参与，他所任职务并不足以控制各地军政力量。"
+        ],
+        "sources": [
+          [
+            "美国国务院历史办公室 · 西班牙内战时期外交文件",
+            "https://history.state.gov/historicaldocuments/frus1936v02/ch40"
+          ],
+          [
+            "西班牙众议院档案 · 1931年宪法等历代宪法",
+            "https://constitucion.congreso.es/otras-constituciones/constituciones-espanolas"
+          ]
+        ]
+      },
+      {
+        "name": "阿道弗·苏亚雷斯",
+        "life": "1932—2014",
+        "role": "民主转型时期首相",
+        "period": "democracy",
+        "body": [
+          "苏亚雷斯在佛朗哥体制下进入政界，1976年获任首相后推动政治改革，并同反对派谈判以重开竞争性选举。",
+          "他领导转型初期政府，但1978年宪法由多党参与拟定并经公投确认。各政治力量在政体、权利和地区自治方面的妥协共同支撑转型。"
+        ],
+        "sources": [
+          [
+            "西班牙国家官方公报 · 1978年宪法",
+            "https://www.boe.es/buscar/doc.php?id=BOE-A-1978-31229"
+          ]
+        ]
+      }
+    ],
+    "chapters": {
+      "civilwar": {
+        "title": "内战中的外部干预和国内政治",
+        "body": [
+          "德国和意大利援助军事叛乱一方，共和国从苏联等处获得支持并吸收国际志愿者。多国提出不干涉政策，实际援助仍深刻影响战争发展。",
+          "西班牙境内也存在不同的政治组织、社会力量和地方安排。军事胜负与战后镇压、流亡和国际关系变化叠加，形成比战线变化更持久的影响。"
+        ],
+        "sources": [
+          [
+            "美国国务院历史办公室 · 西班牙内战时期外交文件",
+            "https://history.state.gov/historicaldocuments/frus1936v02/ch40"
+          ],
+          [
+            "西班牙众议院档案 · 1931年宪法等历代宪法",
+            "https://constitucion.congreso.es/otras-constituciones/constituciones-espanolas"
+          ]
+        ]
+      }
+    }
+  },
+  {
+    "id": "russia",
+    "question": "俄罗斯历代治理如何处理疆域扩张、农民土地和多民族联邦之间的矛盾？",
+    "threads": [
+      {
+        "title": "罗斯诸公国为何没有走向同一个政治中心",
+        "period": "rus",
+        "body": [
+          "基辅、诺夫哥罗德和东北诸公国各有河运线路与王公网络。蒙古征服后，许多东北王公须同汗廷交涉册封和贡赋，基辅和更西部的地区则逐步进入不同政权的统治范围。",
+          "莫斯科通过继承、政治结盟和征服扩大权势，诺夫哥罗德的商业自治则在被吞并后终结。把基辅、莫斯科与各地关系分开，能说明共同的文化传统为何产生不同的政治结果。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 《俄罗斯国别研究》历史篇",
+            "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ru/russiacountrystu00curt/russiacountrystu00curt.pdf"
+          ]
+        ]
+      },
+      {
+        "title": "农奴自由之后，土地债务如何影响生活",
+        "period": "empire",
+        "body": [
+          "1861年改革承认农民人身自由，但土地通常经村社分配，农民须承担赎买款。地主与农民对土地面积、旧有义务和财产价值各有不同诉求。",
+          "法律改变了人身依附关系，村社和赎买债务仍影响迁徙与就业。农业人口增长、地块不足和地方执行差异使土地问题持续进入社会冲突和政治运动。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 《俄罗斯国别研究》历史篇",
+            "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ru/russiacountrystu00curt/russiacountrystu00curt.pdf"
+          ]
+        ]
+      },
+      {
+        "title": "联邦组织为何在苏联解体时格外重要",
+        "period": "federation",
+        "body": [
+          "苏联由加盟共和国组成，共和国有各自机构和名义上的退出权，党政权力长期集中。公开性扩大以后，各地围绕历史记忆、语言和资源分配发起不同诉求。",
+          "1991年未遂政变后，共和国加速争取独立。俄罗斯、乌克兰和白俄罗斯签署协议，苏联国家机构随后终止运作。联邦留下的共和国边界和机构构成此后建国的起点。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 《俄罗斯国别研究》",
+            "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ru/russiacountrystu00curt/russiacountrystu00curt.pdf"
+          ],
+          [
+            "美国国务院历史办公室 · 苏联解体",
+            "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+          ]
+        ]
+      }
+    ],
+    "figures": [
+      {
+        "period": "soviet",
+        "name": "弗拉基米尔·列宁",
+        "life": "1870—1924年",
+        "role": "布尔什维克领导人与苏维埃政府首脑",
+        "body": [
+          "列宁在沙皇时期参与革命组织并长期流亡。1917年回俄后主张把政权转移给苏维埃，布尔什维克在同年取得首都政权。此后战争、内战和物资短缺加速了国家动员。",
+          "1921年转向新经济政策，允许一定范围的市场与私人贸易。1922年苏联成立。阅读其影响宜分开处理革命组织、内战环境和国家制度形成，后来的苏联体制还有不同阶段的政策变化。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 苏联档案专题",
+            "https://www.loc.gov/exhibits/archives/"
+          ]
+        ]
+      },
+      {
+        "name": "彼得一世",
+        "life": "1672—1725",
+        "role": "沙皇、俄罗斯帝国首位皇帝",
+        "period": "tsardom",
+        "body": [
+          "彼得在位时引入新的军事技术和训练，建设海军并通过战争扩大在波罗的海的影响。圣彼得堡让行政中心更靠近波罗的海贸易和外交网络。",
+          "改革也涉及贵族服役、官员等级和教会管理，国家征发加重了部分居民负担。彼得重组了国家动员方式，未改变农民受地主与国家控制的基本关系。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 《俄罗斯国别研究》历史篇",
+            "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ru/russiacountrystu00curt/russiacountrystu00curt.pdf"
+          ]
+        ]
+      },
+      {
+        "name": "亚历山大二世",
+        "life": "1818—1881",
+        "role": "皇帝、农奴解放改革主持者",
+        "period": "empire",
+        "body": [
+          "克里米亚战争暴露财政、军事和交通方面的制约。亚历山大二世在位时颁布农奴解放法令，并推进地方自治和司法等改革。",
+          "改革结果受地主利益和地方执行方式影响。帝国仍维持君主权力，革命者、保守派及政府之间的冲突持续；1881年亚历山大遇刺身亡。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 《俄罗斯国别研究》历史篇",
+            "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ru/russiacountrystu00curt/russiacountrystu00curt.pdf"
+          ]
+        ]
+      },
+      {
+        "name": "米哈伊尔·戈尔巴乔夫",
+        "life": "1931—2022",
+        "role": "苏共领导人、苏联末任总统",
+        "period": "federation",
+        "body": [
+          "戈尔巴乔夫1985年出任苏共中央总书记，推进经济调整、公开性及政治机构改革。国际层面，他与美国谈判限制军备，并改变苏联对东欧政局的处理方式。",
+          "改革使原有经济和政治矛盾更加公开，也扩大了共和国领导人的行动空间。他尝试通过新的联盟安排维持国家，未遂政变和独立浪潮使方案无法落实，1991年辞去苏联总统职务。"
+        ],
+        "sources": [
+          [
+            "美国国务院历史办公室 · 苏联解体",
+            "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+          ]
+        ]
+      }
+    ],
+    "chapters": {
+      "tsardom": {
+        "title": "波罗的海港口改变了什么",
+        "body": [
+          "彼得一世争取波罗的海通道，建造圣彼得堡并把都城迁到当地。港口连接航运、外交和技术交流，也承担帝国对外关系的象征作用。",
+          "向西部港口的转移未取代莫斯科和伏尔加河流域的重要性。陆路扩张、地方治理和对波罗的海的经营共同构成帝国版图，军事动员与劳役也是建设的一部分。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 《俄罗斯国别研究》历史篇",
+            "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ru/russiacountrystu00curt/russiacountrystu00curt.pdf"
+          ]
+        ]
+      },
+      "soviet": {
+        "title": "新经济政策的市场如何被计划体制替代",
+        "body": [
+          "内战后城市与农村的生产、物资和货币流通遭到破坏。1921年起，新经济政策允许一定范围的私人贸易，农业征收方式也作调整，以恢复城乡供给。",
+          "1920年代末领导层转向强化计划和工业投资，通过集体化取得农业资源。强制征收、流放与多地严重饥荒随之发生，乡村承担的成本与工业产能增长同时存在。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 苏联档案展",
+            "https://www.loc.gov/exhibits/archives/"
+          ]
+        ]
+      },
+      "federation": {
+        "title": "1991年之后怎样重建国家机关",
+        "body": [
+          "俄罗斯承接了部分原苏联国家职能，新政权同时面临货币、财政与资产所有权的重组。价格自由化与私有化改变了就业和收入，各地受到的影响不同。",
+          "1993年行政和议会冲突升级，新宪法随后经公民投票通过。联邦中央与各地区的权限以及政府机关之间的关系由新的宪制框架安排，具体治理仍须在法律和政治实践中展开。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 《俄罗斯国别研究》",
+            "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ru/russiacountrystu00curt/russiacountrystu00curt.pdf"
+          ],
+          [
+            "美国国务院历史办公室 · 苏联解体",
+            "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+          ]
+        ]
+      }
+    },
+    "events": {
+      "农奴解放改革": {
+        "body": [
+          "农奴获得人身自由，但土地份额、赎金、村社义务和地方执行限制了改革效果。理解改革应分别看人身身份、土地占有和农村财政。"
+        ],
+        "sources": [
+          [
+            "耶鲁大学法学院图书馆 · 俄国农奴解放文献",
+            "https://library.law.yale.edu/news/monuments-imperial-russian-law-emancipation-serfs"
+          ]
+        ]
+      },
+      "苏联解体": {
+        "body": [
+          "多共和国退出共同国家，俄罗斯联邦承接苏联部分国际地位。政治主权变化、边界与人口问题以及国内经济转轨，具有不同的时间表。"
+        ],
+        "sources": [
+          [
+            "美国国务院历史办公室 · 苏联解体",
+            "https://history.state.gov/milestones/1989-1992/collapse-soviet-union"
+          ]
+        ]
+      }
+    },
+    "milestones": [
+      {
+        "period": "soviet",
+        "date": "1921年",
+        "title": "新经济政策转向",
+        "body": [
+          "在内战后的生产衰退和社会危机中，苏维埃政府改变征粮制度并允许一定的私人交易。国家继续掌握重要经济部门，市场与国家计划的关系后来再次变化。"
+        ],
+        "sources": [
+          [
+            "美国国会图书馆 · 苏联档案展",
+            "https://www.loc.gov/exhibits/archives/"
+          ]
+        ]
+      }
+    ]
+  }
+]

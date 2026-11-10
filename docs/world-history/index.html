@@ -5,18 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="时观世界史，按国家与历史政体分期阅读，从制度、社会、人物与事件理解世界历史。">
   <title>世界史 · 国别通史 | 时观</title>
-  <link rel="stylesheet" href="world-history.css?v=0.23.0">
-  <script defer src="world-history.js?v=0.23.0"></script>
+  <link rel="stylesheet" href="world-history.css?v=0.24.0">
+  <script defer src="reading-room.js?v=0.24.0"></script>
+  <script defer src="world-history.js?v=0.24.0"></script>
 </head>
 <body>
   <a class="skip" href="#main">跳到正文</a>
   <header class="masthead"><a href="../index.html">时观 <span>纵横历史知识库</span></a><nav aria-label="返回其他板块"><a href="../index.html#world/all/framework/qing/all">世界文明</a><a href="../world-wars/index.html">两次世界大战</a></nav></header>
   <main id="main">
-    <section class="hero">
-      <p class="kicker">时观 · 横向世界史</p>
-      <h1>世界史<span>国别通史</span></h1>
-      <p>沿各国自身的分期读通一条历史，再把相隔海陆的国家放回同一时代。</p>
-      <div class="hero-nav"><a href="#directory">国别目录 ↓</a><a href="#compare">同年对读 ↘</a><a href="#method">分期与资料</a></div>
+    <section class="hero" aria-labelledby="world-title">
+      <p class="kicker">时观藏卷 · 横向世界史</p>
+      <h1 id="world-title">世界史<span>国别通史</span></h1>
+      <p>从王朝、革命与制度变迁进入一国的历史，在人物、旧档与同年大事之间来回读。</p>
+      <div class="hero-nav"><a href="#directory">展开国别史 ↓</a><a href="#compare">同年对读 ↘</a><a href="#method">分期与资料</a></div>
+      <div class="hero-legend" aria-hidden="true"><span>史卷</span><small>国别通史 · 0.24.0</small></div>
     </section>
     <div class="library" id="directory">
       <aside class="catalog" aria-label="国别目录">
@@ -27,7 +29,7 @@
         <div id="regions" role="group" aria-label="按区域筛选"></div>
         <nav id="countries" aria-label="国家和历史地区"></nav>
       </aside>
-      <section id="reading" class="reading" aria-label="国别史正文" aria-busy="true"></section>
+      <section id="reading" class="reading" tabindex="-1" aria-label="国别史正文" aria-busy="true"></section>
     </div>
     <section class="compare" id="compare">
       <p class="kicker">同期对读</p>
