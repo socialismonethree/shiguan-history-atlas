@@ -52,3 +52,9 @@ body[data-theme="western-jin"] .hero-primary:hover,body[data-theme="western-jin"
 /* Match the rulers entrance: keep each section's hue while revealing the brocade. */
 .sidebar nav .party-nav-link:not(.ruler-nav-link):not(.battle-nav-link):not(.worldwar-nav-link){background:linear-gradient(110deg,rgba(197,26,38,.19),rgba(23,25,20,.45))}
 .sidebar nav .party-nav-link:not(.ruler-nav-link):not(.battle-nav-link):not(.worldwar-nav-link):hover{background:rgba(197,26,38,.3)}
+
+.sidebar nav .world-country-nav{display:flex;align-items:center;gap:10px;padding:9px 10px;margin:8px 0 3px;border:1px solid #d6c38c72;background:#211f1b47;color:#f4deaa;font-size:12px;text-decoration:none;white-space:nowrap}
+.sidebar nav .world-country-nav:hover{background:#9c784b42;border-color:#dfc888}
+.sidebar nav .world-country-nav .nav-arrow{margin-left:auto;color:inherit;opacity:1}
+.country-search-link{color:#25443b;background:#e8eee2;border-color:#cad4c3}
+@media(max-width:760px){.sidebar nav .world-country-nav{margin:0 0 0 7px;flex-shrink:0}}
