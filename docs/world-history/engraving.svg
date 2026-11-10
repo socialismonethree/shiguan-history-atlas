@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="790" height="430" viewBox="0 0 790 430" fill="none">
+  <defs>
+    <pattern id="mesh" width="15" height="15" patternUnits="userSpaceOnUse"><path d="M0 15 15 0M-7 7 7-7M8 22 22 8" stroke="#e9ce95" stroke-opacity=".24" stroke-width=".5"/></pattern>
+    <pattern id="ripple" width="136" height="42" patternUnits="userSpaceOnUse"><path d="M-68 37q34-18 68 0t68 0t68 0t68 0M-68 27q34-18 68 0t68 0t68 0t68 0M-68 17q34-18 68 0t68 0t68 0t68 0M-68 7q34-18 68 0t68 0t68 0t68 0" stroke="#e9ce95" stroke-width=".5"/></pattern>
+  </defs>
+  <path fill="url(#mesh)" d="M790 0v430H0c161-12 229-76 303-149C410 173 484 10 790 0Z"/>
+  <path fill="url(#ripple)" opacity=".42" d="M790 0v430H0c161-12 229-76 303-149C410 173 484 10 790 0Z"/>
+  <g transform="translate(535 234)" stroke="#e9ce95" opacity=".77">
+    <circle r="158" stroke-width="1.2"/><circle r="149"/><circle r="140" stroke-dasharray="1 5"/><circle r="126"/><circle r="94"/><circle r="51"/><circle r="15"/>
+    <path stroke-width=".65" d="M-181 0h362M0-181v362M-129-129 129 129m0-258L-129 129M-174-72 174 72M-72-174 72 174M-72 174 72-174M-174 72 174-72"/>
+    <path d="m0-139 17 121 122 18-122 17L0 139-17 17l-122-17 122-18Z"/>
+    <path d="m0-139 0 139 17-18Zm139 139H0l17 17ZM0 139V0l-17 17ZM-139 0H0l-17-18Z" fill="#e9ce95" opacity=".42"/>
+    <path d="m-89-89 89 69 89-69-68 89 68 89-89-69-89 69 68-89Z" opacity=".8"/>
+    <g fill="#e9ce95" stroke="none" font-family="serif" font-size="15" text-anchor="middle"><text x="0" y="-165">N</text><text x="0" y="176">S</text><text x="166" y="6">E</text><text x="-166" y="6">W</text></g>
+  </g>
+</svg>
